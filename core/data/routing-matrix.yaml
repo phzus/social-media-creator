@@ -1,0 +1,109 @@
+# Routing Matrix — Mapeamento de Pedidos → Agentes
+# Uso: @theboss — consulta rápida para roteamento de requests
+# Complementa o Triage Protocol com decision trees
+# v3.0 — 16 agentes
+
+routing:
+  # === REQUEST TYPE → AGENT ===
+  single_agent:
+    # Copy
+    "escrever email": { agent: claudinho, task: write-copy, scope: email }
+    "sequência de emails": { agent: claudinho, task: write-copy, scope: email-sequence }
+    "copy de página": { agent: claudinho, task: write-copy, scope: pagina }
+    "copy de anúncio": { agent: claudinho, task: write-copy, scope: ad }
+    "script de VSL": { agent: claudinho, task: write-copy, scope: vsl }
+    "script de CPL": { agent: claudinho, task: write-copy, scope: cpl }
+    "mensagem WhatsApp": { agent: claudinho, task: write-copy, scope: whatsapp }
+    "humanizar texto": { agent: claudinho, task: write-copy, scope: rewrite }
+
+    # Design & Criativos
+    "criativo para anúncio": { agent: picasso, task: create-creatives }
+    "brandbook": { agent: picasso, task: create-creatives, scope: brandbook }
+    "moodboard": { agent: picasso, task: create-creatives, scope: moodboard }
+    "slides de webinar": { agent: picasso, task: create-creatives, scope: slides }
+    "identidade visual": { agent: picasso, task: create-creatives, scope: brand }
+    "carrossel visual": { agent: picasso, task: create-creatives, scope: carousel }
+    "logo": { agent: picasso, task: create-logo }
+    "brand strategy": { agent: picasso, task: brand-strategy }
+    "design tokens": { agent: picasso, task: create-tokens }
+    "template premium": { agent: picasso, task: apply-premium-template }
+
+    # Social Media & Conteúdo (NEW v3.0)
+    "post Instagram": { agent: laurinha, task: create-social-posts, scope: instagram }
+    "carrossel Instagram": { agent: laurinha, task: create-social-posts, scope: carousel }
+    "legenda Instagram": { agent: laurinha, task: create-social-posts, scope: caption }
+    "Reels": { agent: laurinha, task: create-social-posts, scope: reels }
+    "Stories": { agent: laurinha, task: create-social-posts, scope: stories }
+    "StorySeller": { agent: laurinha, task: create-social-posts, scope: storyseller }
+    "TikTok": { agent: laurinha, task: create-social-posts, scope: tiktok }
+    "LinkedIn post": { agent: laurinha, task: create-social-posts, scope: linkedin }
+    "YouTube Shorts": { agent: laurinha, task: create-social-posts, scope: shorts }
+    "calendário editorial": { agent: laurinha, task: create-content-calendar }
+    "atomizar conteúdo": { agent: laurinha, task: atomize-content }
+
+    # Produto Digital (NEW v3.0)
+    "trilha de curso": { agent: luluzinha, task: design-product-experience }
+    "área de membros": { agent: luluzinha, task: design-product-experience }
+    "jornada do aluno": { agent: luluzinha, task: design-product-experience }
+    "gamificação": { agent: luluzinha, task: design-product-experience }
+
+    # Páginas
+    "página de captura": { agent: pixel, task: build-pages, scope: capture }
+    "página de vendas": { agent: pixel, task: build-pages, scope: sales }
+    "landing page": { agent: pixel, task: build-pages, scope: lp }
+    "página de obrigado": { agent: pixel, task: build-pages, scope: thankyou }
+    "checkout": { agent: pixel, task: build-pages, scope: checkout }
+
+    # Tráfego
+    "campanha Meta Ads": { agent: cadu, task: plan-traffic, scope: meta }
+    "campanha Google Ads": { agent: cadu, task: plan-traffic, scope: google }
+    "plano de mídia": { agent: cadu, task: plan-traffic }
+    "otimizar campanha": { agent: cadu, task: plan-traffic, scope: optimize }
+
+    # Automação
+    "fluxo n8n": { agent: salazar, task: setup-automations }
+    "chatbot ManyChat": { agent: salazar, task: setup-automations, scope: chatbot }
+    "sequência automática": { agent: salazar, task: setup-automations }
+
+    # Pesquisa
+    "pesquisa de mercado": { agent: analyzer, task: analyze-market }
+    "análise concorrência": { agent: analyzer, task: analyze-competition }
+    "mapear avatar": { agent: analyzer, task: analyze-avatar }
+
+    # Vendas
+    "script de vendas": { agent: andreza, task: close-sales }
+    "call de venda": { agent: andreza, task: close-sales }
+    "qualificar lead": { agent: danilo, task: qualify-leads }
+
+  # === MULTI-AGENT FLOWS ===
+  multi_agent:
+    "lançamento completo":
+      flow: "theboss → analyzer → claudinho → picasso → pixel → cadu → salazar → metrics"
+      workflow: "lancamento-classico.yaml"
+    "webinar":
+      flow: "theboss → claudinho → picasso → pixel → cadu → salazar"
+      workflow: "webinar.yaml"
+    "funil perpétuo":
+      flow: "theboss → claudinho → pixel → cadu → salazar → metrics"
+      workflow: "funil-perpetuo.yaml"
+    "campanha rápida":
+      flow: "theboss → claudinho → cadu"
+      workflow: "campanha-rapida.yaml"
+    "high ticket":
+      flow: "theboss → claudinho → pixel → danilo → andreza"
+      workflow: "high-ticket.yaml"
+
+  # === DIAGNOSTIC FLOWS ===
+  diagnostic:
+    "funil não converte":
+      agents: [theboss, metrics, cadu]
+      task: diagnose-funnel
+    "CPL alto":
+      agents: [cadu, picasso, claudinho]
+      focus: "criativo + copy + segmentação"
+    "baixa abertura email":
+      agents: [claudinho, salazar]
+      focus: "subject lines + deliverability"
+    "checkout abandonado":
+      agents: [pixel, salazar, claudinho]
+      focus: "UX + remarketing + copy de recuperação"

@@ -1,0 +1,183 @@
+# Churn Prevention & Customer Success — Arsenal da @carla
+# Early warning system + risk scoring + save offers + lifecycle stages
+# Uso: @carla — referência para retenção, NPS, onboarding e pós-venda
+
+churn_prevention:
+  core_principle: "Prevenção de churn começa 60 DIAS ANTES do clique de cancelamento. Quando o cliente pede pra cancelar, você já perdeu a maior parte da batalha."
+
+  early_warning_system:
+    signals:
+      - signal: "Frequência de login cai 50%+"
+        risk: "High"
+        detection: "14 dias"
+        action: "Email de check-in + destaque de feature não usada"
+      - signal: "Uso de feature principal para"
+        risk: "High"
+        detection: "7 dias"
+        action: "In-app message + tutorial rápido"
+      - signal: "Tickets de suporte aumentam 3x"
+        risk: "Medium"
+        detection: "30 dias"
+        action: "Call proativa de CS"
+      - signal: "Falha de pagamento (sem atualizar)"
+        risk: "High"
+        detection: "Imediato"
+        action: "Sequência de dunning (3 tentativas + email)"
+      - signal: "Pede downgrade"
+        risk: "High"
+        detection: "Imediato"
+        action: "Call de CS para entender + save offer"
+      - signal: "NPS cai abaixo de 6"
+        risk: "Medium"
+        detection: "Ciclo de pesquisa"
+        action: "Follow-up personalizado + ação corretiva"
+      - signal: "Sem login por 14+ dias"
+        risk: "Critical"
+        detection: "14 dias"
+        action: "Email pessoal do fundador/CS lead"
+      - signal: "Não consome conteúdo novo"
+        risk: "Medium"
+        detection: "30 dias"
+        action: "Curadoria personalizada de conteúdo"
+
+  risk_scoring:
+    green:
+      signals: "0-2"
+      status: "Saudável"
+      action: "Engajamento padrão — check-ins regulares"
+    yellow:
+      signals: "3-4"
+      status: "Em risco"
+      action: "Outreach proativo — email + feature highlight"
+    red:
+      signals: "5+"
+      status: "Alto risco"
+      action: "Intervenção imediata — call pessoal + save offer"
+
+  interventions:
+    yellow:
+      - "Email automatizado: 'Notamos que você não usou [feature] recentemente. Dica rápida...'"
+      - "In-app message destacando features subutilizadas"
+      - "CS check-in (se high-value account)"
+    red:
+      - "Email pessoal do fundador ou CS lead"
+      - "Oferecer call de 15 minutos de estratégia"
+      - "Compartilhar case de sucesso relevante"
+      - "Apresentar save offer (ver menu abaixo)"
+    cancellation_page:
+      - "Exit survey (obrigatório, max 3 perguntas)"
+      - "Save offer baseada na razão declarada"
+      - "Opção de downgrade em vez de cancelamento total"
+      - "Opção de pausar assinatura (30/60/90 dias)"
+
+  save_offer_menu:
+    - reason: "Tá caro"
+      offer: "Desconto 20-30% por 3 meses"
+      terms: "Uma vez, não renovável"
+    - reason: "Não estou usando"
+      offer: "Call de estratégia grátis + guia de uso"
+      terms: "Dentro de 7 dias"
+    - reason: "Falta uma feature"
+      offer: "Preview do roadmap + acesso beta"
+      terms: "ETA da feature obrigatório"
+    - reason: "Trocando por concorrente"
+      offer: "Match de preço ou feature"
+      terms: "Case-by-case"
+    - reason: "Fechando o negócio"
+      offer: "Pausar assinatura"
+      terms: "Até 90 dias"
+
+  retention_emails:
+    checkin:
+      tone: "Amigável, focado em valor, sem mencionar churn"
+      example: "Oi [Nome], vi que você [ação específica] este mês. Sabia que tem um atalho pra isso? [Link do tutorial de 2min]"
+    reengagement:
+      tone: "Educativo, destaca feature não experimentada"
+      example: "Oi [Nome], muita gente não sabe, mas [feature X] resolve exatamente [dor]. Veja em 2 minutos: [Link]"
+    save:
+      tone: "Direto, empático, com oferta específica"
+      example: "Oi [Nome], entendo — cada real conta. Posso te oferecer 3 meses por R$[valor] (30% off) pra você avaliar o ROI. Sem compromisso."
+
+customer_success:
+  lifecycle_stages:
+    - stage: "Onboarding"
+      duration: "Dias 1-30"
+      goal: "Primeira realização de valor"
+      metric: "Time to first win"
+      touchpoints:
+        - "Dia 1: Email de boas-vindas + primeira ação"
+        - "Dia 3: Check-in — completou primeira ação?"
+        - "Dia 7: Call ou vídeo rápido"
+        - "Dia 14: Milestone check — usando features chave?"
+        - "Dia 30: Review de onboarding — baseline de saúde"
+      success_signals: "Completou setup, usou feature core 3+ vezes, fez perguntas"
+      danger_signals: "Não fez login após dia 3, não completou setup, sem perguntas"
+
+    - stage: "Adoção"
+      duration: "Dias 30-90"
+      goal: "Uso regular estabelecido"
+      metric: "Feature adoption rate"
+      touchpoints:
+        - "Dia 45: Check-in de progresso"
+        - "Dia 60: NPS survey"
+        - "Dia 75: Destaque de features avançadas"
+        - "Dia 90: Review trimestral"
+
+    - stage: "Crescimento"
+      duration: "Meses 3-9"
+      goal: "Expansão de uso e valor"
+      metric: "Expansion revenue"
+      touchpoints:
+        - "Mensal: Check-in de valor"
+        - "Trimestral: Review de metas"
+        - "Identificar oportunidades de upsell/cross-sell"
+
+    - stage: "Renovação"
+      duration: "Meses 9-12"
+      goal: "Retenção e compromisso"
+      metric: "Renewal rate"
+      touchpoints:
+        - "90 dias antes: Review de resultados"
+        - "60 dias antes: Conversa sobre renovação"
+        - "30 dias antes: Confirmação + incentivo"
+
+    - stage: "Advocacy"
+      duration: "Contínuo"
+      goal: "Referrals e depoimentos"
+      metric: "NPS, referral count"
+      touchpoints:
+        - "Pedir depoimento no momento de pico de satisfação"
+        - "Programa de indicação com incentivo"
+        - "Case study para marketing"
+
+  depoimento_timing:
+    rule: "Pedir depoimento no MOMENTO CERTO — logo após resultado concreto, nunca aleatoriamente"
+    melhores_momentos:
+      - "Logo após primeira vitória mensurável"
+      - "Após 90 dias de uso consistente"
+      - "Após atingir meta declarada no onboarding"
+      - "Após NPS 9 ou 10"
+    formato:
+      - "Texto curto (2-3 frases) para redes sociais"
+      - "Vídeo de 30-60s para página de vendas"
+      - "Case study completo (antes/depois/processo)"
+    perguntas_para_depoimento:
+      - "Qual era sua situação ANTES de [produto]?"
+      - "O que mudou DEPOIS?"
+      - "O que te surpreendeu?"
+      - "O que falaria pra quem está na dúvida?"
+
+metrics:
+  churn:
+    - "Monthly churn rate: trend mês a mês"
+    - "Save rate: % de contas em risco retidas após intervenção"
+    - "Intervention response rate: % de users em risco que engajam"
+    - "Save offer acceptance: % que aceita oferta de retenção"
+    - "Time to churn signal: dias entre primeiro sinal e cancelamento"
+    - "Reactivation rate: % de contas pausadas que retomam"
+  cs:
+    - "Time to first value: dias até primeira vitória"
+    - "Feature adoption rate: % de features usadas"
+    - "NPS score: média e trend"
+    - "Expansion revenue: receita de upsell/cross-sell"
+    - "Referral rate: % de clientes que indicam"

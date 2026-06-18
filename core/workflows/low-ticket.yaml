@@ -1,0 +1,118 @@
+# Workflow: Low Ticket — Tripwire/SLO (Russell Brunson)
+# Timeline: Continuo (setup + otimizacao)
+# Ticket: R$27-197
+# Referencia: DotCom Secrets — Self-Liquidating Offer / Tripwire
+
+name: low-ticket
+description: "Tripwire / SLO — Russell Brunson (front-end da Value Ladder)"
+type: evergreen
+framework: brunson-low-ticket
+estimated_duration: "2-3 semanas (setup) + continuo"
+ticket_range: "R$27-197"
+conversion_target: "2-5% do trafego"
+
+# Objetivo: Adquirir COMPRADORES (nao leads)
+# O lucro vem do backend (upsell, order bump, value ladder)
+
+squad:
+  core:
+    - theboss    # Estrategia + Value Ladder
+    - claudinho    # Copy (LP, order form, upsell, emails)
+    - pixel        # Paginas (captura, order form, upsell, downsell)
+    - cadu         # Trafego continuo
+    - nerd         # Checkout + integracoes
+  support:
+    - salazar      # Automacoes
+    - metrics      # Metricas e otimizacao
+
+phases:
+
+  - id: preparacao
+    name: "Preparacao"
+    duration: "1 semana"
+    tasks:
+      - task: structure-offer
+        agent: theboss
+        description: "Definir Value Ladder completa (front → back)"
+      - task: create-briefing-copy
+        agent: theboss
+
+  - id: captacao
+    name: "Lead Magnet + Captura"
+    duration: "1 semana"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: captacao
+        description: "Copy da LP do lead magnet + ads"
+      - task: build-pages
+        agent: pixel
+        scope: captacao
+        description: "Pagina de captura do lead magnet"
+      - task: create-creatives
+        agent: picasso
+        scope: captacao
+      - task: plan-traffic
+        agent: cadu
+    deliverables:
+      - "{PROJ}_CAP_PGN_PAGINA-CAPTURA_V1.md"
+      - "{PROJ}_CAP_ADS-META_VIDEO-LEAD-MAGNET_V1.md"
+
+  - id: vendas
+    name: "Funnel Pages (Order Form → Upsell → Downsell)"
+    duration: "1-2 semanas"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: vendas
+        description: "Copy do order form + bump + upsell + downsell"
+      - task: build-pages
+        agent: pixel
+        scope: vendas
+        description: "Order form 2-step + upsell OTO + downsell"
+      - task: setup-automations
+        agent: salazar
+        scope: vendas
+        description: "Checkout → entrega + email sequence"
+    deliverables:
+      - "{PROJ}_VND_PGN_ORDER-FORM_V1.md"
+      - "{PROJ}_VND_PGN_UPSELL-OTO_V1.md"
+      - "{PROJ}_DWS_PGN_DOWNSELL_V1.md"
+
+  - id: pos-venda
+    name: "Nurture para Value Ladder"
+    duration: "Continuo"
+    description: "Transformar compradores low-ticket em clientes mid/high ticket"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: pos-venda
+        description: "Sequencia de nurture para subir na Value Ladder"
+      - task: setup-automations
+        agent: salazar
+        scope: pos-venda
+        description: "Automacao de nurture + segmentacao"
+    deliverables:
+      - "{PROJ}_PVD_EML_BOAS-VINDAS-COMPRADOR_V1.md"
+      - "{PROJ}_PVD_EML_NURTURE-VALUE-LADDER_V1.md"
+
+  - id: otimizacao
+    name: "Otimizacao Continua"
+    duration: "Continuo"
+    tasks:
+      - task: analyze-metrics
+        agent: metrics
+        description: "Monitorar EPC, ACV, ROAS, break-even diario"
+
+gates:
+  - name: "Funil funcional"
+    before: otimizacao
+    check: "Todo o fluxo testado: LP → Order Form → Bump → Upsell → Downsell → Thank You → Emails"
+
+success_metrics:
+  conversion_lp: "> 30%"
+  conversion_order: "8-15%"
+  bump_take_rate: "20-40%"
+  upsell_take_rate: "10-25%"
+  front_end_roas: "> 1x (break-even)"
+  total_acv: "> CPL x 3"

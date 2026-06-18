@@ -1,0 +1,157 @@
+# Workflow: Webinar — Perfect Webinar (Russell Brunson)
+# Timeline: 1-2 semanas (prep) + 1 dia (webinar) + 7-14 dias (follow-up)
+# Ticket: R$500-5K
+# Referencia: DotCom Secrets — Perfect Webinar Framework
+
+name: webinar
+description: "Perfect Webinar — Russell Brunson (live ou automatizado)"
+type: launch
+framework: brunson-perfect-webinar
+estimated_duration: "2-4 semanas"
+ticket_range: "R$500-5K"
+conversion_target: "4-15% dos presentes"
+
+# Variantes
+variants:
+  - live: "Webinar ao vivo (maior conversao, unico)"
+  - automated: "Webinar automatizado (evergreen, escalavel)"
+
+squad:
+  core:
+    - theboss    # Estrategia
+    - claudinho    # Script webinar + emails + copy
+    - picasso      # Slides + criativos
+    - cadu         # Trafego para registro
+    - pixel        # Pagina de registro
+  support:
+    - salazar      # Automacao (replay, emails)
+    - metrics      # Metricas
+    - nerd         # Implementacao tecnica (se automatizado)
+
+phases:
+
+  - id: preparacao
+    name: "Preparacao"
+    duration: "1 semana"
+    tasks:
+      - task: onboarding-expert
+        agent: theboss
+      - task: create-briefing-copy
+        agent: theboss
+      - task: structure-offer
+        agent: theboss
+        description: "Oferta para Stack + Close do webinar"
+
+  - id: captacao
+    name: "Registro"
+    duration: "1-2 semanas"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: captacao
+        description: "Copy pagina registro + ads"
+      - task: build-pages
+        agent: pixel
+        scope: captacao
+        description: "Pagina de registro + confirmacao"
+      - task: create-creatives
+        agent: picasso
+        scope: captacao
+        description: "Criativos para ads"
+      - task: plan-traffic
+        agent: cadu
+        description: "Campanha de registro"
+    deliverables:
+      - "{PROJ}_CAP_PGN_PAGINA-REGISTRO_V1.md"
+      - "{PROJ}_CAP_ADS-META_VIDEO-WEBINAR_V1.md"
+
+  - id: antecipacao
+    name: "Indoctrinacao (pre-webinar)"
+    duration: "2-5 dias"
+    description: "2-3 emails de indoctrinacao + lembretes"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: antecipacao
+        description: "Emails de indoctrinacao + lembretes"
+      - task: setup-automations
+        agent: salazar
+        scope: antecipacao
+        description: "Sequencia automatica pre-webinar"
+    deliverables:
+      - "{PROJ}_ANT_EML_CONFIRMACAO_V1.md"
+      - "{PROJ}_ANT_EML_INDOCTRINACAO-01_V1.md"
+      - "{PROJ}_ANT_EML_INDOCTRINACAO-02_V1.md"
+      - "{PROJ}_ANT_EML_LEMBRETE-FINAL_V1.md"
+
+  - id: evento
+    name: "Webinar (90 min)"
+    duration: "1 dia"
+    description: |
+      Estrutura Perfect Webinar (8 blocos):
+      1. Intro + Hook (5 min)
+      2. The ONE Thing (10 min)
+      3. Secret #1 — Vehicle (15 min)
+      4. Secret #2 — Internal (15 min)
+      5. Secret #3 — External (15 min)
+      6. Transition (5 min)
+      7. Stack + Anchoring (15 min)
+      8. Close + Q&A (10 min)
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: evento
+        description: "Script completo do webinar (8 blocos)"
+      - task: create-creatives
+        agent: picasso
+        scope: evento
+        description: "Slides do webinar (40-60 slides)"
+    deliverables:
+      - "{PROJ}_EVT_SCR_WEBINAR-COMPLETO_V1.md"
+      - "{PROJ}_EVT_CRT_SLIDES-WEBINAR_V1.md"
+
+  - id: vendas
+    name: "Follow-up (7-14 dias)"
+    duration: "7-14 dias"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: vendas
+        description: "Emails de follow-up + replay + urgencia"
+      - task: build-pages
+        agent: pixel
+        scope: vendas
+        description: "Pagina de oferta + replay"
+      - task: setup-automations
+        agent: salazar
+        scope: vendas
+        description: "Automacao replay + sequencia follow-up"
+    deliverables:
+      - "{PROJ}_VND_EML_REPLAY-DISPONIVEL_V1.md"
+      - "{PROJ}_VND_EML_FOLLOWUP-01_V1.md"
+      - "{PROJ}_VND_EML_FOLLOWUP-02_V1.md"
+      - "{PROJ}_VND_EML_ULTIMA-CHANCE_V1.md"
+      - "{PROJ}_VND_PGN_PAGINA-OFERTA_V1.md"
+
+  - id: pos-venda
+    name: "Pos-Venda"
+    duration: "Continuo"
+    tasks:
+      - task: onboard-client
+        agent: carla
+      - task: campaign-report
+        agent: metrics
+
+gates:
+  - name: "Registros suficientes"
+    before: evento
+    check: "Meta de registros atingida"
+  - name: "Script e slides prontos"
+    before: evento
+    check: "Script completo revisado + slides finalizados"
+
+success_metrics:
+  registros: "meta definida"
+  show_rate: "> 25% (live) / > 15% (automatizado)"
+  conversion_presentes: "4-15%"
+  roas: "> 3x"

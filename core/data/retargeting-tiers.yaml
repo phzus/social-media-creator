@@ -1,0 +1,102 @@
+# Retargeting Tiers — Arsenal do @cadu
+# Segmentação por comportamento + messaging por tier + frequency caps
+# Uso: @cadu — referência para campanhas de remarketing
+
+core_principle: "Retargeting NÃO é mostrar o mesmo anúncio pra todo mundo que visitou o site — é entregar a mensagem CERTA baseada em QUÃO LONGE a pessoa chegou no funil e POR QUE parou."
+
+audience_tiers:
+
+  tier_1_hottest:
+    name: "Cart/Checkout Abandoners"
+    definition: "Adicionou ao carrinho ou chegou no checkout mas não comprou"
+    window: "Últimos 7 dias"
+    priority: "Máxima — mais próximos da conversão"
+    budget: "40% do budget de retargeting"
+    messaging:
+      angle: "Urgência + quebra de objeção"
+      copy_direction: "Você deixou algo pra trás. Complete sua inscrição e ganhe [incentivo]."
+      creative: "Dynamic ads mostrando o produto específico que abandonaram"
+      cta: "Voltar ao Checkout"
+      incentivo: "Frete grátis, 10% off, bônus por tempo limitado"
+    frequency_cap: "1 impressão por dia, max 7 dias"
+
+  tier_2_warm:
+    name: "Product/Sales Page Viewers"
+    definition: "Visitou página de vendas mas não adicionou ao carrinho"
+    window: "Últimos 14 dias"
+    priority: "Alta — demonstrou interesse forte"
+    budget: "25% do budget de retargeting"
+    messaging:
+      angle: "Prova social + reforço de benefício"
+      copy_direction: "Ainda pensando sobre [produto]? Veja o que o [nome] falou..."
+      creative: "Imagem/vídeo de depoimento, resultado de cliente"
+      cta: "Saiba Mais / Inscreva-se"
+    frequency_cap: "1 impressão por dia, max 14 dias"
+
+  tier_3_interested:
+    name: "Content Engagers"
+    definition: "Leu blog, assistiu vídeo, ou ficou 30+ segundos no site"
+    window: "Últimos 30 dias"
+    priority: "Média — interessado mas não pronto"
+    budget: "20% do budget de retargeting"
+    messaging:
+      angle: "Valor primeiro + CTA suave"
+      copy_direction: "Gostou do nosso conteúdo sobre [tema]? Aqui está o próximo passo..."
+      creative: "Conteúdo educativo ou oferta de lead magnet"
+      cta: "Download / Cadastre-se / Saiba Mais"
+    frequency_cap: "1 impressão a cada 2 dias, max 30 dias"
+
+  tier_4_cold_warm:
+    name: "General Visitors"
+    definition: "Qualquer visitante que não se encaixa nos tiers 1-3"
+    window: "Últimos 60 dias"
+    priority: "Baixa — awareness"
+    budget: "15% do budget de retargeting"
+    messaging:
+      angle: "Brand awareness + credibilidade"
+      copy_direction: "[Marca] ajuda [audiência] a alcançar [resultado]. Veja como."
+      creative: "Brand story ou vídeo overview"
+      cta: "Saiba Mais"
+    frequency_cap: "1 impressão a cada 3 dias, max 60 dias"
+
+critical_exclusions:
+  - "Compradores recentes (últimos 30 dias) — NÃO retargetar com o mesmo produto"
+  - "Clientes existentes — separar em audiência de cross-sell"
+  - "Bounce visitors (< 5 segundos no site) — saíram imediatamente, não vale retargetar"
+  - "Pessoas que já converteram nesta campanha"
+
+frequency_management:
+  rules:
+    - "Cart abandoners: max 1/dia por 7 dias, depois parar"
+    - "Sales page viewers: max 1/dia por 14 dias"
+    - "Content engagers: max 1/cada 2 dias por 30 dias"
+    - "General visitors: max 1/cada 3 dias por 60 dias"
+  fatigue: "Se frequência > 4 sem conversão, cooldown de 14 dias (excluir da audiência)"
+
+creative_refresh:
+  schedule: "Trocar criativos a cada 2-3 semanas"
+  rotation: "3-4 variações de criativo por audiência"
+  retirement: "Aposentar criativo quando CTR cair abaixo de 0.5%"
+
+benchmarks:
+  comparison:
+    - metric: "CTR"
+      cold: "0.5-1.5%"
+      retargeting: "2-5%"
+    - metric: "CPC"
+      cold: "R$1-3"
+      retargeting: "R$0.50-2"
+    - metric: "Conversão"
+      cold: "1-3%"
+      retargeting: "5-15%"
+    - metric: "ROAS"
+      cold: "1-3x"
+      retargeting: "5-15x"
+  nota: "Retargeting é SEMPRE o melhor ROAS. Investir 20-25% do budget total aqui."
+
+anti_patterns:
+  - "Uma audiência, um anúncio pra todo mundo — visitante novo e cart abandoner precisam de mensagens diferentes"
+  - "Sem frequency cap — mostrar o mesmo ad 20x gera irritação, não conversão"
+  - "Retargetar compradores com o mesmo produto — parabéns, já vendeu. Exclua ou faça cross-sell"
+  - "Janelas muito longas — alguém que visitou há 90 dias já esqueceu de você. Max 60 dias"
+  - "Sem pixel instalado — impossível retargetar sem tracking. Instalar ANTES de rodar tráfego"

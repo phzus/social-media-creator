@@ -1,0 +1,135 @@
+# Workflow: Isca Gratuita (Lead Magnet)
+# Timeline: Continuo | Ticket: Gratuito -> entrada pra funis pagos
+# Referencia: Russell Brunson (DotCom Secrets), Dan Kennedy (Magnetic Marketing)
+
+name: isca-gratuita
+description: "Funil de captacao via lead magnet gratuito -> nurture automatico -> conversao em produto pago"
+type: captacao
+framework: brunson-value-ladder
+estimated_duration: "1-2 semanas (setup) + continuo (captacao)"
+ticket_range: "Gratuito (entry)"
+conversion_target: "opt-in 20-45% | lead->cliente 2-8%"
+
+# Variantes
+variants:
+  - ebook: "E-book / PDF (download direto)"
+  - checklist: "Checklist / template / planilha"
+  - mini_curso: "Mini-curso em video (3-5 aulas por email)"
+  - quiz_result: "Resultado de quiz personalizado"
+  - desafio_gratis: "Desafio de 3-7 dias gratuito"
+
+squad:
+  core:
+    - theboss      # Estrategia + oferta irresistivel
+    - claudinho    # Copy da pagina + sequencia de emails
+    - picasso      # Direcao criativa + capa do material
+    - pixel        # Landing page + pagina de obrigado
+    - cadu         # Trafego pago para captacao
+  support:
+    - salazar      # Automacao de entrega + nurture
+    - metrics      # Tracking de opt-in + conversao
+    - laurinha     # Distribuicao organica (social)
+    - analyzer     # Pesquisa de dor do avatar
+
+phases:
+
+  - id: preparacao
+    name: "Briefing + Estrategia"
+    duration: "2-3 dias"
+    tasks:
+      - task: onboarding-expert
+        agent: theboss
+      - task: create-briefing-copy
+        agent: theboss
+      - task: structure-offer
+        agent: theboss
+        description: "Definir qual material resolve a dor mais urgente do avatar"
+    deliverables:
+      - "{PROJ}_BRF_BRIEFING-ESTRATEGICO_V1.md"
+      - "{PROJ}_BRF_OFERTA-ISCA_V1.md"
+
+  - id: producao-material
+    name: "Producao da Isca"
+    duration: "3-7 dias"
+    description: |
+      Criar o material gratuito em si. Precisa entregar valor REAL -
+      isca ruim = nurture morto.
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: producao
+        description: "Conteudo do material (texto, roteiro, planilha)"
+      - task: create-creatives
+        agent: picasso
+        scope: producao
+        description: "Capa + diagramacao + identidade visual"
+    deliverables:
+      - "{PROJ}_PRD_CNT_MATERIAL-GRATIS_V1.pdf"
+      - "{PROJ}_PRD_CRT_CAPA-MOCKUP_V1.jpg"
+
+  - id: captacao
+    name: "Landing de Captacao"
+    duration: "2-3 dias"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: captacao
+        description: "Headline + bullets de valor + CTA"
+      - task: build-pages
+        agent: pixel
+        scope: captacao
+        description: "Landing de captacao + pagina de obrigado com upsell leve"
+      - task: create-creatives
+        agent: picasso
+        scope: captacao
+        description: "Criativos para ads (6-10 variacoes)"
+    deliverables:
+      - "{PROJ}_CAP_PGN_LANDING-ISCA_V1.md"
+      - "{PROJ}_CAP_PGN_OBRIGADO_V1.md"
+      - "{PROJ}_CAP_ADS-META_STATIC_V1.md"
+
+  - id: nurture
+    name: "Sequencia de Nurture"
+    duration: "2-3 dias (setup)"
+    description: |
+      7-14 emails que entregam valor + constroem autoridade +
+      abrem brecha pra oferta principal.
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: nurture
+        description: "Sequencia de 7-14 emails (valor + autoridade + oferta)"
+      - task: setup-automations
+        agent: salazar
+        scope: nurture
+        description: "Automacao de entrega + tagueamento + segmentacao"
+    deliverables:
+      - "{PROJ}_NUR_EML_SEQ-01-A-14_V1.md"
+      - "{PROJ}_NUR_AUT_FLUXO-NURTURE_V1.yaml"
+
+  - id: trafego
+    name: "Trafego + Captacao"
+    duration: "Continuo"
+    tasks:
+      - task: plan-traffic
+        agent: cadu
+        description: "Campanha de baixo CPL (Meta, TikTok, Google)"
+      - task: analyze-metrics
+        agent: metrics
+        description: "CPL, taxa opt-in, CAC-payback"
+    deliverables:
+      - "{PROJ}_TRF_PLANO-MEDIA_V1.md"
+
+gates:
+  - name: "Material entrega valor real"
+    before: captacao
+    check: "Revisao de conteudo: o leitor sai melhor do que entrou?"
+  - name: "Nurture tem oferta clara"
+    before: trafego
+    check: "Sequencia tem pelo menos 2-3 emails com CTA pro produto pago"
+
+success_metrics:
+  opt_in_rate: "> 25% (landing fria) / > 45% (landing warm)"
+  cpl: "< R$5 em nicho competitivo / < R$2 em nicho de nicho"
+  nurture_open_rate: "> 35%"
+  lead_to_customer: "2-8%"

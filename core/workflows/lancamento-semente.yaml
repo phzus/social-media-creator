@@ -1,0 +1,114 @@
+# Workflow: Lancamento Semente — Seed Launch (Jeff Walker)
+# Timeline: 3-7 semanas
+# Ticket: R$200-2K
+# Referencia: Product Launch Formula — Seed Launch
+
+name: lancamento-semente
+description: "Lancamento Semente (Seed Launch) — validar idea sem produto pronto"
+type: launch
+framework: walker-plf
+variant: seed-launch
+estimated_duration: "3-7 semanas"
+ticket_range: "R$200-2K"
+conversion_target: "5-15% do mini-grupo"
+
+# Ideal para:
+# - Expert sem lista e sem produto
+# - Validacao de ideia antes de investir pesado
+# - Construir produto junto com primeiros alunos
+# - Primeiro lancamento
+
+squad:
+  core:
+    - theboss    # Estrategia
+    - claudinho    # Copy (convites, emails, pitch)
+    - salazar      # Automacao do grupo
+  support:
+    - metrics      # Metricas basicas
+  not_needed:
+    - cadu         # Sem trafego pago
+    - picasso      # Criativos minimos
+    - pixel        # Sem paginas elaboradas
+    - andreza      # Sem call de vendas
+    - danilo       # Sem SDR
+
+phases:
+
+  - id: preparacao
+    name: "Preparacao"
+    duration: "1 semana"
+    tasks:
+      - task: onboarding-expert
+        agent: theboss
+        description: "Briefing simplificado (foco: problema, solucao, publico)"
+      - task: structure-offer
+        agent: theboss
+        description: "Oferta minima viavel (MVP da oferta)"
+
+  - id: captacao
+    name: "Construir Mini-Lista"
+    duration: "1-2 semanas"
+    description: "Objetivo: 50-200 pessoas interessadas no tema"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: captacao
+        description: "Convites pessoais, posts organicos, DMs"
+    deliverables:
+      - "{PROJ}_CAP_MSG-API_CONVITE-SEED_V1.md"
+      - "{PROJ}_CAP_EML_CONVITE-GRUPO_V1.md"
+
+  - id: evento
+    name: "Grupo ao Vivo (3-7 calls)"
+    duration: "1-3 semanas"
+    description: "Ensinar ao vivo, coletar feedback, iterar"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: evento
+        description: "Roteiro das calls + emails de suporte"
+      - task: setup-automations
+        agent: salazar
+        scope: evento
+        description: "Grupo WhatsApp/Zoom + lembretes"
+    deliverables:
+      - "{PROJ}_EVT_SCR_CALL-01_V1.md"
+      - "{PROJ}_EVT_SCR_CALL-02_V1.md"
+      - "{PROJ}_EVT_SCR_CALL-03_V1.md"
+
+  - id: vendas
+    name: "Pitch (vender gravacoes + suporte)"
+    duration: "3-5 dias"
+    description: "Oferecer acesso as gravacoes + bonus para quem comprar"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: vendas
+        description: "Pitch ao vivo + email de oferta"
+    deliverables:
+      - "{PROJ}_VND_SCR_PITCH-SEED_V1.md"
+      - "{PROJ}_VND_EML_OFERTA-SEED_V1.md"
+
+  - id: pos-venda
+    name: "Pos-Venda + Depoimentos"
+    duration: "Continuo"
+    tasks:
+      - task: onboard-client
+        agent: carla
+        description: "Coletar depoimentos dos primeiros alunos"
+      - task: campaign-report
+        agent: metrics
+
+gates:
+  - name: "Mini-lista construida"
+    before: evento
+    check: "Minimo 50 pessoas no grupo/lista"
+  - name: "Feedback positivo"
+    before: vendas
+    check: "Participantes engajados e dando feedback positivo"
+
+success_metrics:
+  mini_lista: ">= 50 pessoas"
+  conversion: "5-15% do grupo"
+  depoimentos: ">= 3 depoimentos reais"
+  validacao: "Produto validado para escalar"

@@ -1,0 +1,129 @@
+# Value Proposition Canvas — Arsenal do @theboss
+# Jobs-Pains-Gains + Fit Analysis + Statement template
+# Uso: @theboss — referência para definição de oferta e posicionamento
+
+core_principle: "Sua proposta de valor NÃO é o que VOCÊ acha que o produto faz — é a INTERSEÇÃO entre o que o cliente precisa e o que você entrega de forma única. O canvas revela essa interseção."
+
+customer_profile:
+  description: "Lado direito do canvas — mapa do cliente"
+
+  customer_jobs:
+    types:
+      functional:
+        description: "Tarefas que precisam completar"
+        prompt: "O que o cliente está tentando FAZER?"
+        examples:
+          - "Passar em concurso público"
+          - "Montar funil de vendas"
+          - "Aprender inglês"
+      social:
+        description: "Como querem ser percebidos"
+        prompt: "Como o cliente quer ser VISTO pelos outros?"
+        examples:
+          - "Parecer profissional e estabelecido"
+          - "Ser reconhecido como autoridade"
+          - "Mostrar resultados tangíveis"
+      emotional:
+        description: "Como querem se sentir"
+        prompt: "Que SENTIMENTO o cliente busca?"
+        examples:
+          - "Segurança financeira"
+          - "Confiança nas decisões"
+          - "Liberdade de tempo"
+
+  customer_pains:
+    types:
+      frustrations:
+        prompt: "O que IRRITA o cliente hoje?"
+        examples:
+          - "Processo atual é lento demais"
+          - "Investiu e não teve resultado"
+          - "Informação fragmentada e confusa"
+      risks_fears:
+        prompt: "O que o cliente tem MEDO que aconteça?"
+        examples:
+          - "Desperdiçar dinheiro de novo"
+          - "Ficar pra trás dos concorrentes"
+          - "Parecer incompetente"
+      obstacles:
+        prompt: "O que IMPEDE o cliente de resolver sozinho?"
+        examples:
+          - "Não sabe por onde começar"
+          - "Falta de tempo"
+          - "Excesso de opções"
+
+  customer_gains:
+    types:
+      required:
+        prompt: "O que é OBRIGATÓRIO pro cliente?"
+        description: "Must-have — sem isso, nem considera"
+      expected:
+        prompt: "O que o cliente ESPERA como padrão?"
+        description: "Standard — o mínimo aceitável"
+      desired:
+        prompt: "O que o cliente ADORARIA ter?"
+        description: "Nice-to-have — diferencial competitivo"
+      unexpected:
+        prompt: "O que SURPREENDERIA o cliente?"
+        description: "Wow factor — cria fãs, não apenas clientes"
+
+value_map:
+  description: "Lado esquerdo do canvas — seu produto"
+
+  products_services:
+    prompt: "Liste TUDO que você oferece que endereça os jobs do cliente"
+
+  pain_relievers:
+    prompt: "Para cada dor do cliente, mostre qual feature ou aspecto do seu produto ALIVIA essa dor"
+    template: |
+      | Dor do Cliente | Seu Alívio | Força do Fit |
+      |---------------|-----------|-------------|
+      | [Dor 1] | [Feature/benefício] | Forte / Moderado / Fraco |
+
+  gain_creators:
+    prompt: "Para cada ganho do cliente, mostre como seu produto CRIA ou AMPLIFICA esse ganho"
+    template: |
+      | Ganho do Cliente | Seu Criador | Força do Fit |
+      |-----------------|-----------|-------------|
+      | [Ganho 1] | [Feature/benefício] | Forte / Moderado / Fraco |
+
+fit_analysis:
+  strong_fits: "São seus CORE SELLING POINTS — destaque na copy"
+  weak_fits: "Gaps a resolver no produto ou reconhecer na comunicação"
+  unaddressed: "Oportunidades de expansão ou limites a comunicar"
+
+value_proposition_statement:
+  template: |
+    Para [cliente-alvo] que [job to be done],
+    [Nome do Produto] é o [categoria] que [benefício principal].
+    Diferente de [alternativa], nós [diferencial chave].
+  example: |
+    Para engenheiros concurseiros que querem passar na Petrobras,
+    o Bizu do Engenheiro é o método que garante aprovação em 6 meses.
+    Diferente de cursinhos genéricos, nós focamos 100% nas disciplinas da Petrobras
+    com questões comentadas de provas anteriores.
+
+messaging_hierarchy:
+  structure:
+    - level: "Mensagem primária"
+      description: "A DOR #1 que você alivia — headline da página"
+    - level: "Mensagens secundárias"
+      description: "2-3 ganhos de suporte — subheadlines e bullets"
+    - level: "Proof points"
+      description: "Evidências para cada mensagem — depoimentos, números, garantia"
+
+application:
+  where_to_usar:
+    - "Headlines de página de vendas"
+    - "Copy de anúncios"
+    - "Pitch de vendas"
+    - "Sequência de emails"
+    - "Prioridades de desenvolvimento de produto"
+    - "Scripts de suporte ao cliente"
+
+anti_patterns:
+  - "Listar features em vez de jobs — 'Temos dashboard' é feature. 'Acompanhe tudo em um lugar' é job."
+  - "Adivinhar dores do cliente — se não falou com clientes reais, o canvas é ficção"
+  - "Tentar encaixar tudo — não dá pra aliviar TODA dor e criar TODO ganho. Focar nos fits mais fortes"
+  - "Um canvas pra múltiplos segmentos — segmentos diferentes têm jobs/dores/ganhos diferentes. Um canvas por segmento"
+  - "Nunca atualizar — necessidades evoluem. Revisitar trimestralmente"

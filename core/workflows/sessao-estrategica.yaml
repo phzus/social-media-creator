@@ -1,0 +1,134 @@
+# Workflow: Sessao Estrategica (Consultoria Gratuita -> Venda High-Ticket)
+# Timeline: Continuo | Ticket: R$3K-30K
+# Referencia: Russell Brunson (Application Funnel), Sam Ovens
+
+name: sessao-estrategica
+description: "Funil de consultoria estrategica gratuita que converte em venda high-ticket"
+type: high-ticket
+framework: ovens-strategy-session
+estimated_duration: "Continuo (setup 1-2 semanas)"
+ticket_range: "R$3K-30K"
+conversion_target: "call->venda 20-40% | lead->venda 8-15%"
+
+squad:
+  core:
+    - theboss
+    - claudinho    # Copy landing + script da sessao + emails
+    - pixel        # Landing + pagina de agendamento
+    - cadu         # Trafego qualificado
+    - andreza      # Conduz a sessao estrategica + fechamento
+    - salazar      # Calendly + automacoes
+  support:
+    - picasso
+    - danilo       # Triagem (opcional)
+    - metrics
+
+phases:
+
+  - id: oferta
+    name: "Oferta da Sessao + Produto Principal"
+    duration: "2-3 dias"
+    description: |
+      Definir o que a sessao gratuita entrega (diagnostico + plano de acao curto)
+      e qual o produto/servico principal que vai ser ofertado no final.
+    tasks:
+      - task: structure-offer
+        agent: theboss
+        description: "Sessao como diagnostico + produto high-ticket como solucao"
+    deliverables:
+      - "{PROJ}_OFR_SESSAO-ESTRATEGICA_V1.md"
+
+  - id: captacao
+    name: "Landing + Agendamento"
+    duration: "3-5 dias"
+    description: |
+      Landing conversacional: promete diagnostico especifico + CTA pra agendar.
+      Formulario curto (5-8 perguntas) filtra fit antes de agendar.
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: captacao
+        description: "Copy landing + formulario + confirmacao de agendamento"
+      - task: build-pages
+        agent: pixel
+        scope: captacao
+        description: "Landing + Calendly embedado + pagina pos-agendamento"
+      - task: create-creatives
+        agent: picasso
+        scope: captacao
+    deliverables:
+      - "{PROJ}_CAP_PGN_LANDING-SESSAO_V1.md"
+      - "{PROJ}_CAP_PGN_CALENDLY_V1.md"
+
+  - id: pre-call
+    name: "Preparacao do Lead (no-show prevention)"
+    duration: "Paralelo"
+    description: |
+      Sequencia automatica: confirmacao + email de preparacao + WhatsApp lembrete
+      + video de warm-up (opcional) pra aumentar show rate.
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: pre-call
+        description: "Emails + WhatsApp de confirmacao e aquecimento"
+      - task: setup-automations
+        agent: salazar
+        scope: pre-call
+    deliverables:
+      - "{PROJ}_PRE_EML_CONFIRMACAO_V1.md"
+      - "{PROJ}_PRE_EML_AQUECIMENTO_V1.md"
+      - "{PROJ}_PRE_WPP_LEMBRETE-24H_V1.md"
+
+  - id: call
+    name: "Sessao Estrategica (45-60min)"
+    duration: "Continuo"
+    description: |
+      Estrutura: rapport (5min) -> descoberta profunda (20min) -> diagnostico
+      honesto (10min) -> apresentacao do caminho (10min) -> oferta + objecoes (15min).
+    tasks:
+      - task: close-sales
+        agent: andreza
+        description: "Conduzir sessao com script testado"
+    deliverables:
+      - "{PROJ}_CLL_SCRIPT-SESSAO_V1.md"
+      - "{PROJ}_CLL_PERGUNTAS-DESCOBERTA_V1.md"
+
+  - id: followup
+    name: "Follow-up Pos-Sessao"
+    duration: "7-14 dias"
+    description: "Quem nao comprou na call recebe sequencia de follow-up"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: followup
+        description: "5-7 emails + WhatsApp de follow-up"
+      - task: setup-automations
+        agent: salazar
+        scope: followup
+    deliverables:
+      - "{PROJ}_FUP_EML_SEQUENCIA-POS-SESSAO_V1.md"
+
+  - id: trafego
+    name: "Trafego"
+    duration: "Continuo"
+    tasks:
+      - task: plan-traffic
+        agent: cadu
+        description: "Meta + Google Ads direcionado pra avatar high-ticket"
+      - task: analyze-metrics
+        agent: metrics
+
+gates:
+  - name: "Script de sessao ensaiado"
+    before: call
+    check: "Closer fez 3+ role-plays com feedback"
+  - name: "No-show rate < 30%"
+    before: scaling
+    check: "Sequencia pre-call reduziu no-show"
+
+success_metrics:
+  cpl: "< 8% do ticket"
+  agendamento_show_rate: "> 70%"
+  call_to_sale: "20-40%"
+  lead_to_sale: "8-15%"
+  cpa_cliente: "< 20% do ticket"

@@ -1,0 +1,1348 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Plano de Conteúdo — Arte em Manipulação · Maio + Junho 2026 · Lone Mídia</title>
+<style>
+  @page { size: 167mm 297mm; margin: 0; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body {
+    font-family: -apple-system, BlinkMacSystemFont, "Inter", "Helvetica Neue", "Segoe UI", Arial, sans-serif;
+    background: #e8e8e8;
+    color: #0a0a0a;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  .page {
+    width: 167mm;
+    height: 297mm;
+    position: relative;
+    page-break-after: always;
+    background: #ffffff;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    margin: 16px auto;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+  }
+  .page:last-child { page-break-after: auto; }
+  @media print {
+    body { background: #fff; }
+    .page { margin: 0; box-shadow: none; }
+  }
+
+  /* ===== HEADER ===== */
+  header {
+    background: #0a0a0a;
+    padding: 5mm 12mm;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 0.6mm solid #1A2DD9;
+  }
+  .brand img { height: 8mm; width: auto; display: block; }
+  .badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 1.5mm;
+    background: #ffffff;
+    color: #0a0a0a;
+    padding: 1.5mm 2.5mm;
+    font-size: 1.7mm;
+    font-weight: 700;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    border-radius: 1mm;
+  }
+  .badge .badge-label { opacity: 0.5; font-weight: 500; }
+  .badge .badge-dot {
+    width: 1.2mm; height: 1.2mm;
+    background: #1A2DD9;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  /* ===== PAGE BODY ===== */
+  .page-body {
+    flex: 1;
+    padding: 7mm 12mm 14mm;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  /* ===== TITLE BLOCK ===== */
+  .title-block {
+    margin-bottom: 5mm;
+    padding-bottom: 3.5mm;
+    border-bottom: 0.4mm solid #1A2DD9;
+  }
+  .kicker {
+    display: inline-block;
+    font-size: 2.2mm;
+    font-weight: 800;
+    color: #1A2DD9;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 1.5mm;
+    background: #f0f2ff;
+    padding: 0.8mm 2mm;
+    border-radius: 0.6mm;
+  }
+  h1 {
+    font-family: "Playfair Display", "Georgia", serif;
+    font-size: 9mm;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+    color: #0a0a0a;
+    line-height: 1;
+    margin-bottom: 1.5mm;
+  }
+  .meta {
+    font-size: 2.7mm;
+    color: #5a5a5a;
+    font-weight: 500;
+  }
+  .meta span + span::before {
+    content: "·";
+    margin: 0 1.5mm;
+    color: #c0c0c0;
+  }
+  .meta .reserved {
+    background: #fff3cd;
+    color: #b58400;
+    padding: 0.5mm 1.5mm;
+    border-radius: 0.5mm;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 1.8mm;
+    letter-spacing: 0.8px;
+  }
+
+  /* ===== SECTIONS ===== */
+  section.block {
+    margin-bottom: 4mm;
+  }
+  section.block h2 {
+    font-size: 2.3mm;
+    font-weight: 800;
+    color: #0a0a0a;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 2mm;
+    padding-bottom: 1mm;
+    border-bottom: 0.3mm solid #d5d5d5;
+    display: flex;
+    align-items: center;
+    gap: 1.5mm;
+  }
+  section.block h2::before {
+    content: "";
+    width: 1.6mm; height: 1.6mm;
+    background: #1A2DD9;
+    border-radius: 0.4mm;
+  }
+
+  .strategy-text {
+    font-size: 2.5mm;
+    line-height: 1.5;
+    color: #2a2a2a;
+  }
+
+  /* ===== COPY BLOCKS ===== */
+  .copy-item {
+    margin-bottom: 2.5mm;
+    display: grid;
+    grid-template-columns: 22mm 1fr;
+    gap: 2mm;
+    align-items: start;
+  }
+  .copy-label {
+    font-size: 2.3mm;
+    font-weight: 800;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #1A2DD9;
+    background: #f0f2ff;
+    padding: 1mm 1.5mm;
+    border-radius: 0.6mm;
+    text-align: center;
+    line-height: 1.1;
+  }
+  .copy-content { line-height: 1.45; }
+  .copy-content p {
+    font-size: 4.0mm;
+    color: #0a0a0a;
+    font-weight: 500;
+  }
+  .copy-content p.dialog::before {
+    content: "“"; color: #1A2DD9; font-weight: 800; margin-right: 0.4mm;
+  }
+  .copy-content p.dialog::after {
+    content: "”"; color: #1A2DD9; font-weight: 800; margin-left: 0.4mm;
+  }
+  .copy-content p.body-text {
+    font-size: 3.0mm;
+    color: #2a2a2a;
+    line-height: 1.5;
+    font-weight: 400;
+    white-space: pre-line;
+  }
+  .copy-content .meta-info {
+    font-size: 2.5mm;
+    color: #7a7a7a;
+    margin-top: 1mm;
+    font-style: italic;
+  }
+  .copy-content .hashtags {
+    font-size: 2.6mm;
+    color: #5a5a5a;
+    margin-top: 1mm;
+    word-break: break-word;
+  }
+  .placeholder-block {
+    background: #fff8e6;
+    border-left: 1mm solid #f5b400;
+    border-radius: 0 1mm 1mm 0;
+    padding: 2mm 2.5mm;
+    font-size: 2.7mm;
+    color: #4a4a4a;
+    line-height: 1.4;
+  }
+  .placeholder-block strong {
+    display: block;
+    font-size: 2.4mm;
+    font-weight: 800;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #b58400;
+    margin-bottom: 1mm;
+  }
+
+  /* ===== TIMELINE (Reels) ===== */
+  .timeline-block {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 3.5mm;
+  }
+  .timeline-header {
+    display: flex;
+    align-items: center;
+    gap: 2.5mm;
+    margin-bottom: 1.5mm;
+  }
+  .timeline-time {
+    font-size: 2.4mm;
+    font-weight: 800;
+    color: #1A2DD9;
+    background: #f0f2ff;
+    padding: 1mm 2mm;
+    border-radius: 0.6mm;
+    text-align: center;
+    line-height: 1.1;
+    flex-shrink: 0;
+  }
+  .timeline-header .lbl {
+    font-size: 2.2mm;
+    font-weight: 800;
+    color: #5a5a5a;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    padding: 0.8mm 2mm;
+    background: #f5f5f5;
+    border-radius: 0.4mm;
+  }
+  .timeline-content {
+    line-height: 1.45;
+  }
+  .timeline-content p {
+    font-size: 3.7mm;
+    line-height: 1.4;
+    color: #0a0a0a;
+    font-weight: 500;
+    margin-bottom: 1mm;
+  }
+  .timeline-content p.scn {
+    font-size: 3.3mm;
+    color: #5a5a5a;
+    font-weight: 400;
+    padding-left: 2.5mm;
+    border-left: 0.4mm solid #d5d5d5;
+  }
+  .timeline-content p.scn::before {
+    content: "CENA · ";
+    font-weight: 800;
+    color: #1A2DD9;
+    letter-spacing: 0.6px;
+    font-size: 2.1mm;
+  }
+
+  /* ===== BRIEF DE ARTE ===== */
+  .brief-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3mm;
+  }
+  .brief-item .brief-label {
+    font-size: 1.7mm;
+    font-weight: 800;
+    color: #1A2DD9;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    margin-bottom: 1mm;
+  }
+  .brief-item p {
+    font-size: 2.2mm;
+    line-height: 1.4;
+    color: #2a2a2a;
+  }
+  .brief-item .ref-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .brief-item .ref-list li {
+    font-size: 2.0mm;
+    color: #2a2a2a;
+    padding: 0.8mm 0;
+    line-height: 1.3;
+    padding-left: 3mm;
+    position: relative;
+  }
+  .brief-item .ref-list li::before {
+    content: "→";
+    color: #1A2DD9;
+    font-weight: 800;
+    position: absolute;
+    left: 0;
+  }
+
+  /* ===== FOOTER ===== */
+  footer {
+    position: absolute;
+    bottom: 6mm;
+    left: 12mm;
+    right: 12mm;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 0.3mm solid #e5e5e5;
+    padding-top: 2.5mm;
+    font-size: 1.7mm;
+    color: #7a7a7a;
+    letter-spacing: 0.3px;
+  }
+  footer .footer-brand { font-weight: 700; color: #0a0a0a; }
+  footer .footer-meta { display: flex; gap: 3mm; align-items: center; }
+  .page-num {
+    font-weight: 700;
+    color: #1A2DD9;
+    background: #f0f2ff;
+    padding: 0.8mm 2mm;
+    border-radius: 0.6mm;
+    letter-spacing: 0.5px;
+  }
+
+  /* ===== COVER ===== */
+  .cover {
+    background: linear-gradient(135deg, #0a0a0a 0%, #1A2DD9 100%);
+    color: #fff;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .cover header {
+    background: transparent;
+    border-bottom: none;
+    padding: 14mm 12mm 0;
+  }
+  .cover .badge {
+    background: rgba(255,255,255,0.1);
+    color: #fff;
+    border: 0.3mm solid rgba(255,255,255,0.2);
+  }
+  .cover-body {
+    padding: 0 12mm;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .cover-kicker {
+    font-size: 2.7mm;
+    font-weight: 700;
+    color: rgba(255,255,255,0.6);
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-bottom: 6mm;
+  }
+  .cover-title {
+    font-family: "Playfair Display", "Georgia", serif;
+    font-size: 18mm;
+    font-weight: 700;
+    line-height: 0.95;
+    margin-bottom: 8mm;
+    letter-spacing: -1px;
+    color: #ffffff;
+  }
+  .cover-subtitle {
+    font-size: 3.7mm;
+    line-height: 1.4;
+    color: rgba(255,255,255,0.85);
+    max-width: 130mm;
+    margin-bottom: 15mm;
+  }
+  .cover-stats {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 4mm;
+    border-top: 0.3mm solid rgba(255,255,255,0.2);
+    padding-top: 8mm;
+  }
+  .cover-stat-num {
+    font-family: "Playfair Display", "Georgia", serif;
+    font-size: 12mm;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 1.5mm;
+  }
+  .cover-stat-label {
+    font-size: 2.0mm;
+    color: rgba(255,255,255,0.65);
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    line-height: 1.3;
+  }
+  .cover-footer {
+    padding: 0 12mm 12mm;
+    font-size: 2.1mm;
+    color: rgba(255,255,255,0.5);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+</style>
+</head>
+<body>
+
+<!-- =============== CAPA =============== -->
+<section class="page cover">
+  <header>
+    <div class="brand">
+      <img src="../../../shared/identidade-lone/lone-midia-logo-azul-branco.png" alt="Lone Mídia">
+    </div>
+    <div class="badge">
+      <span class="badge-dot"></span>
+      <span class="badge-label">Cliente</span>
+      <span>Arte em Manipulação</span>
+    </div>
+  </header>
+
+  <div class="cover-body">
+    <div class="cover-kicker">Plano de Conteúdo</div>
+    <h1 class="cover-title">Maio + Junho<br>2026.</h1>
+    <p class="cover-subtitle">
+      Janela 15/05 → 26/06 · 18 peças mapeadas em funil de conteúdo (TOFU · MOFU · BOFU) + 1 ideia em aberto · copy por peça.
+    </p>
+    <div class="cover-stats">
+      <div>
+        <div class="cover-stat-num">18</div>
+        <div class="cover-stat-label">Peças<br>Planejadas</div>
+      </div>
+      <div>
+        <div class="cover-stat-num">7</div>
+        <div class="cover-stat-label">Reels<br>de Vídeo</div>
+      </div>
+      <div>
+        <div class="cover-stat-num">3</div>
+        <div class="cover-stat-label">Reservadas<br>(Namorados)</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="cover-footer">Lone Mídia · Marketing & Vendas · Araruama</div>
+</section>
+
+<!-- =============== TEMPLATE PÁGINA =============== -->
+<!-- HEADER FIXO PRA TODA PÁGINA -->
+
+<!-- 1 — 15/05 SEXTA — DERMOCOSMÉTICO PRÓPRIO -->
+<section class="page">
+  <header>
+    <div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-branco.png" alt="Lone Mídia"></div>
+    <div class="badge"><span class="badge-dot"></span><span class="badge-label">Cliente</span><span>Arte em Manipulação</span></div>
+  </header>
+  <div class="page-body">
+    <div class="title-block">
+      <span class="kicker">15/05 · Sexta-feira</span>
+      <h1>Pele que reflete cuidado.</h1>
+      <div class="meta">
+        <span>Post estático</span>
+        <span>Linha própria · Dermocosmético</span>
+        <span>Venda</span>
+      </div>
+    </div>
+
+    <section class="block">
+      <h2>Copy</h2>
+      <div class="copy-item">
+        <span class="copy-label">Título<br>da arte</span>
+        <div class="copy-content"><p class="dialog">Pele que reflete cuidado.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">Linha<br>de apoio</span>
+        <div class="copy-content"><p class="dialog">Produtos manipulados feitos para você trazem mais resultados.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">Legenda</span>
+        <div class="copy-content"><p class="body-text">Linha de dermocosméticos da Arte em Manipulação. Fórmula feita pra você, com o ativo certo pra sua pele.
+
+[📝 Supervisora: indicar produto-foco da semana — Creme Hidratante, Cacau Beauty ou outro. A legenda completa fecha quando souber qual.]</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">CTA</span>
+        <div class="copy-content"><p>📲 (22) 98871-1426 · Boutique Arte em Manipulação</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">#</span>
+        <div class="copy-content"><p class="hashtags">#ArteEmManipulacao #LinhaPropria #Dermocosmeticos #SkinCareManipulado #Araruama</p></div>
+      </div>
+    </section>
+  </div>
+  <footer><span class="footer-brand">Lone Mídia</span><div class="footer-meta"><span>Plano de Conteúdo</span><span class="page-num">02 / 20</span></div></footer>
+</section>
+
+<!-- 5 — 18/05 SEGUNDA — PRÉ-TREINO -->
+<section class="page">
+  <header>
+    <div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-branco.png" alt="Lone Mídia"></div>
+    <div class="badge"><span class="badge-dot"></span><span class="badge-label">Cliente</span><span>Arte em Manipulação</span></div>
+  </header>
+  <div class="page-body">
+    <div class="title-block">
+      <span class="kicker">18/05 · Segunda-feira</span>
+      <h1>Você não precisa de mais cápsula.</h1>
+      <div class="meta">
+        <span>Post estático</span>
+        <span>Esportiva / Wellness</span>
+        <span>Educativo + contraintuitivo</span>
+      </div>
+    </div>
+
+    <section class="block">
+      <h2>Copy</h2>
+      <div class="copy-item">
+        <span class="copy-label">Título<br>da arte</span>
+        <div class="copy-content"><p class="dialog">Você não precisa de mais cápsula.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">Subtítulo<br>(serif menor)</span>
+        <div class="copy-content"><p class="dialog">Talvez precise da dose certa.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">Legenda</span>
+        <div class="copy-content"><p class="body-text">Tomar três suplementos juntos não acelera resultado. Faz cada um trabalhar pior.
+
+O que muda é tomar o pré-treino certo, na dose certa pra você. Não é tomar mais — é tomar o que faz diferença.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">CTA</span>
+        <div class="copy-content"><p>📲 (22) 98871-1426 · WhatsApp da farmacêutica</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">#</span>
+        <div class="copy-content"><p class="hashtags">#ArteEmManipulacao #PreTreino #SuplementacaoEsportiva #Wellness #FarmaciaDeManipulacao #Araruama</p></div>
+      </div>
+    </section>
+  </div>
+  <footer><span class="footer-brand">Lone Mídia</span><div class="footer-meta"><span>Plano de Conteúdo</span><span class="page-num">03 / 20</span></div></footer>
+</section>
+
+<!-- 6 — 20/05 QUARTA — REELS FARMACÊUTICA MONTA -->
+<section class="page">
+  <header>
+    <div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-branco.png" alt="Lone Mídia"></div>
+    <div class="badge"><span class="badge-dot"></span><span class="badge-label">Cliente</span><span>Arte em Manipulação</span></div>
+  </header>
+  <div class="page-body">
+    <div class="title-block">
+      <span class="kicker">20/05 · Quarta-feira · Reels</span>
+      <h1>Receita especial para a @</h1>
+      <div class="meta">
+        <span>Reels highlight · ~15s</span>
+        <span>Bastidores reais</span>
+        <span>Possível formato recorrente</span>
+      </div>
+    </div>
+
+    <section class="block">
+      <h2>Conceito</h2>
+      <div class="copy-item">
+        <span class="copy-label">Ideia</span>
+        <div class="copy-content"><p class="body-text">Highlight curto da preparação de uma fórmula real, com o nome (ou @) do cliente na tela. O Reels é o próprio vídeo de entrega — mostra que sai uma fórmula com nome e endereço.
+
+Formato pode virar série recorrente: toda quarta, uma "receita especial" diferente (com permissão da pessoa).</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">Texto<br>na tela</span>
+        <div class="copy-content"><p class="dialog">Receita especial para a @[nome ou @ do cliente]</p></div>
+      </div>
+    </section>
+
+    <section class="block">
+      <h2>Roteiro</h2>
+      <div class="timeline-block"><div class="timeline-time">0–3s</div><div class="timeline-content"><p>Receita especial para a @[cliente]</p></div></div>
+      <div class="timeline-block"><div class="timeline-time">3–12s</div><div class="timeline-content"><p>(sem voice over · trilha discreta)</p></div></div>
+      <div class="timeline-block"><div class="timeline-time">12–15s</div><div class="timeline-content"><p>(texto na tela: pronto)</p></div></div>
+    </section>
+
+    <section class="block">
+      <h2>Legenda</h2>
+      <div class="copy-item">
+        <span class="copy-label">Texto</span>
+        <div class="copy-content"><p class="body-text">Tem receita que sai com nome e endereço. Cada frasco é pra alguém — esse aqui é pra @[cliente].
+
+Se quiser que a próxima seja a sua, manda no WhatsApp.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">CTA</span>
+        <div class="copy-content"><p>📲 (22) 98871-1426 · Boutique Arte em Manipulação</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">#</span>
+        <div class="copy-content"><p class="hashtags">#ArteEmManipulacao #FarmaciaDeManipulacao #ReceitaEspecial #Araruama #ManipulacaoArtesanal</p></div>
+      </div>
+    </section>
+
+    <section class="block">
+      <h2>Pendências antes de gravar</h2>
+      <div class="copy-item">
+        <span class="copy-label">Validar</span>
+        <div class="copy-content"><p class="body-text">→ Pedir autorização escrita do cliente pra usar nome/@ na peça (LGPD)
+→ Confirmar se preferimos @ (Instagram) ou primeiro nome
+→ Gravar a preparação real (~30min de footage gera 15s de highlight)</p></div>
+      </div>
+    </section>
+  </div>
+  <footer><span class="footer-brand">Lone Mídia</span><div class="footer-meta"><span>Plano de Conteúdo</span><span class="page-num">04 / 20</span></div></footer>
+</section>
+
+<!-- 7 — 22/05 SEXTA — BOUTIQUE NOVA -->
+<section class="page">
+  <header>
+    <div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-branco.png" alt="Lone Mídia"></div>
+    <div class="badge"><span class="badge-dot"></span><span class="badge-label">Cliente</span><span>Arte em Manipulação</span></div>
+  </header>
+  <div class="page-body">
+    <div class="title-block">
+      <span class="kicker">22/05 · Sexta-feira</span>
+      <h1>A gente fica aqui.</h1>
+      <div class="meta">
+        <span>Post estático</span>
+        <span>Boutique nova</span>
+        <span>Localização</span>
+      </div>
+    </div>
+
+    <section class="block">
+      <h2>Copy</h2>
+      <div class="copy-item">
+        <span class="copy-label">Título<br>da arte</span>
+        <div class="copy-content"><p class="dialog">A gente fica aqui.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">Legenda</span>
+        <div class="copy-content"><p class="body-text">Boutique Arte em Manipulação · Trade Center, ao lado da Câmara dos Vereadores.
+
+Tem o que sua família e seu pet precisam — passa pra conhecer ou chama no WhatsApp.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">CTA</span>
+        <div class="copy-content"><p>📍 Av. John Kennedy, 82 · Loja 13 · Araruama<br>📲 (22) 98871-1426</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">#</span>
+        <div class="copy-content"><p class="hashtags">#ArteEmManipulacao #ArteBoutique #Araruama #TradeCenter #FarmaciaDeManipulacao #CentroDeAraruama</p></div>
+      </div>
+    </section>
+  </div>
+  <footer><span class="footer-brand">Lone Mídia</span><div class="footer-meta"><span>Plano de Conteúdo</span><span class="page-num">05 / 20</span></div></footer>
+</section>
+
+<!-- 8 — 25/05 SEGUNDA — ARTEVET -->
+<section class="page">
+  <header>
+    <div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-branco.png" alt="Lone Mídia"></div>
+    <div class="badge"><span class="badge-dot"></span><span class="badge-label">Cliente</span><span>Arte em Manipulação</span></div>
+  </header>
+  <div class="page-body">
+    <div class="title-block">
+      <span class="kicker">25/05 · Segunda-feira</span>
+      <h1>ArteVet.</h1>
+      <div class="meta">
+        <span>Post estático</span>
+        <span>ArteVet</span>
+        <span>Apresentação lifestyle</span>
+      </div>
+    </div>
+
+    <section class="block">
+      <h2>Copy</h2>
+      <div class="copy-item">
+        <span class="copy-label">Título<br>da arte (serif)</span>
+        <div class="copy-content"><p class="dialog">ArteVet.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">Subtítulo<br>(sans menor)</span>
+        <div class="copy-content"><p class="dialog">Remédio manipulado para seu amado pet.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">Legenda</span>
+        <div class="copy-content"><p class="body-text">Cachorro, gato, ou os bichinhos menos comuns — a gente cuida da receita que o veterinário passou.
+
+Manda a receita no WhatsApp que a farmacêutica veterinária te orienta.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">CTA</span>
+        <div class="copy-content"><p>📍 R. Ary Barroso, 26 · Centro · Araruama<br>📲 (22) 99742-9275</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">#</span>
+        <div class="copy-content"><p class="hashtags">#ArteVet #ArteEmManipulacao #ManipulacaoVeterinaria #PetCareAraruama #Araruama #FarmaciaVeterinaria</p></div>
+      </div>
+    </section>
+  </div>
+  <footer><span class="footer-brand">Lone Mídia</span><div class="footer-meta"><span>Plano de Conteúdo</span><span class="page-num">06 / 20</span></div></footer>
+</section>
+
+<!-- 9 — 27/05 QUARTA — REELS SAÚDE DA MULHER -->
+<section class="page">
+  <header>
+    <div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-branco.png" alt="Lone Mídia"></div>
+    <div class="badge"><span class="badge-dot"></span><span class="badge-label">Cliente</span><span>Arte em Manipulação</span></div>
+  </header>
+  <div class="page-body">
+    <div class="title-block">
+      <span class="kicker">27/05 · Quarta-feira · Reels</span>
+      <h1>Cuidar de você como se fosse única. Porque é.</h1>
+      <div class="meta">
+        <span>Reels · 25s</span>
+        <span>Dia da Saúde da Mulher</span>
+        <span>Homenagem · MOFU emocional</span>
+      </div>
+    </div>
+
+    <section class="block">
+      <h2>Roteiro</h2>
+      <div class="timeline-block"><div class="timeline-time">0–3s</div><div class="timeline-content"><p>28 de maio · Dia Internacional da Saúde da Mulher.</p></div></div>
+      <div class="timeline-block"><div class="timeline-time">3–15s</div><div class="timeline-content"><p>(sem voice over · trilha emocional)</p></div></div>
+      <div class="timeline-block"><div class="timeline-time">15–22s</div><div class="timeline-content"><p>Cuidar de você como se você fosse única. Porque é.</p></div></div>
+      <div class="timeline-block"><div class="timeline-time">22–25s</div><div class="timeline-content"><p>Arte em Manipulação · Boutique no Trade Center · (22) 98871-1426</p></div></div>
+    </section>
+
+    <section class="block">
+      <h2>Legenda</h2>
+      <div class="copy-item">
+        <span class="copy-label">Texto</span>
+        <div class="copy-content"><p class="body-text">Hoje é Dia Internacional da Saúde da Mulher.
+
+A gente trabalha pra que cuidar de você seja simples — do jeito que faz sentido pra você. Porque você é única, e a forma como cada uma cuida da própria saúde também é.
+
+Parabéns por estar aqui. Pelo que você é.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">#</span>
+        <div class="copy-content"><p class="hashtags">#DiaDaSaudeDaMulher #ArteEmManipulacao #Autocuidado #SaudeDaMulher #FarmaciaDeManipulacao #Araruama</p></div>
+      </div>
+    </section>
+  </div>
+  <footer><span class="footer-brand">Lone Mídia</span><div class="footer-meta"><span>Plano de Conteúdo</span><span class="page-num">07 / 20</span></div></footer>
+</section>
+
+<!-- 10 — 29/05 SEXTA — PROVA SOCIAL -->
+<section class="page">
+  <header>
+    <div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-branco.png" alt="Lone Mídia"></div>
+    <div class="badge"><span class="badge-dot"></span><span class="badge-label">Cliente</span><span>Arte em Manipulação</span></div>
+  </header>
+  <div class="page-body">
+    <div class="title-block">
+      <span class="kicker">29/05 · Sexta-feira</span>
+      <h1>4,8 ★</h1>
+      <div class="meta">
+        <span>Post estático</span>
+        <span>Prova social</span>
+        <span>Posicionamento</span>
+      </div>
+    </div>
+
+    <section class="block">
+      <h2>Copy</h2>
+      <div class="copy-item">
+        <span class="copy-label">Número<br>principal (serif)</span>
+        <div class="copy-content"><p class="dialog">4,8 ★</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">Linha<br>de apoio</span>
+        <div class="copy-content"><p class="dialog">193 avaliações no Google.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">Legenda</span>
+        <div class="copy-content"><p class="body-text">São quase 200 pessoas que vieram, foram atendidas e voltaram pra contar. A gente lê uma por uma — e agradece.
+
+[📝 PH: incluir 1-2 prints de avaliação real do Google (com permissão se for citar nome).]</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">CTA</span>
+        <div class="copy-content"><p>📲 (22) 98871-1426 · Boutique Arte em Manipulação</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">#</span>
+        <div class="copy-content"><p class="hashtags">#ArteEmManipulacao #ArteVet #FarmaciaDeManipulacao #Araruama #AvaliacoesReais</p></div>
+      </div>
+    </section>
+  </div>
+  <footer><span class="footer-brand">Lone Mídia</span><div class="footer-meta"><span>Plano de Conteúdo</span><span class="page-num">08 / 20</span></div></footer>
+</section>
+
+<!-- 11 — 01/06 SEGUNDA — COMO COMEÇAR -->
+<section class="page">
+  <header>
+    <div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-branco.png" alt="Lone Mídia"></div>
+    <div class="badge"><span class="badge-dot"></span><span class="badge-label">Cliente</span><span>Arte em Manipulação</span></div>
+  </header>
+  <div class="page-body">
+    <div class="title-block">
+      <span class="kicker">01/06 · Segunda-feira</span>
+      <h1>Como funciona, do começo ao frasco.</h1>
+      <div class="meta">
+        <span>Carrossel 4 slides</span>
+        <span>Educativo</span>
+        <span>Quebra de barreira</span>
+      </div>
+    </div>
+
+    <section class="block">
+      <h2>Copy</h2>
+      <div class="copy-item">
+        <span class="copy-label">Capa<br>(slide 1)</span>
+        <div class="copy-content"><p class="dialog">Primeira vez na farmácia de manipulação? Veja como funciona.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">Slide 2</span>
+        <div class="copy-content"><p class="body-text"><strong>1. Você chega com a receita.</strong><br>Se tiver dúvida ou ainda não tem receita, a farmacêutica conversa pra entender o que você precisa.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">Slide 3</span>
+        <div class="copy-content"><p class="body-text"><strong>2. A gente confere a fórmula.</strong><br>Quando precisa manipular, cada ingrediente é pesado e ajustado na bancada antes de virar o seu frasco.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">Slide 4</span>
+        <div class="copy-content"><p class="body-text"><strong>3. Em 1-2 dias úteis, é só retirar.</strong><br>Frasco etiquetado com seu nome, dose e validade. Pronto pra começar.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">Legenda</span>
+        <div class="copy-content"><p class="body-text">Manipulação é processo, não mistério. Se ficou alguma dúvida, chama no WhatsApp que a gente conversa.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">CTA</span>
+        <div class="copy-content"><p>WhatsApp (22) 98871-1426 · Boutique Arte em Manipulação.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">#</span>
+        <div class="copy-content"><p class="hashtags">#ArteEmManipulacao #FarmaciaDeManipulacao #ManipulacaoMagistral #Araruama #SaudePersonalizada</p></div>
+      </div>
+    </section>
+  </div>
+  <footer><span class="footer-brand">Lone Mídia</span><div class="footer-meta"><span>Plano de Conteúdo</span><span class="page-num">09 / 20</span></div></footer>
+</section>
+
+<!-- 12 — 03/06 QUARTA — REELS BASTIDORES -->
+<section class="page">
+  <header>
+    <div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-branco.png" alt="Lone Mídia"></div>
+    <div class="badge"><span class="badge-dot"></span><span class="badge-label">Cliente</span><span>Arte em Manipulação</span></div>
+  </header>
+  <div class="page-body">
+    <div class="title-block">
+      <span class="kicker">03/06 · Quarta-feira · Reels</span>
+      <h1>Atrás do balcão</h1>
+      <div class="meta">
+        <span>Reels · 25s</span>
+        <span>Atendimento acolhedor</span>
+        <span>Bastidores humanos</span>
+      </div>
+    </div>
+
+    <section class="block">
+      <h2>Roteiro</h2>
+      <div class="timeline-block"><div class="timeline-time">0–3s</div><div class="timeline-content"><p>Pouca gente sabe o que acontece atrás do balcão.</p></div></div>
+      <div class="timeline-block"><div class="timeline-time">3–10s</div><div class="timeline-content"><p>Tem um profissional capacitado fazendo o suplemento ou produto que vai ajudar na sua saúde.</p></div></div>
+      <div class="timeline-block"><div class="timeline-time">10–17s</div><div class="timeline-content"><p>(sem voice over · som ambiente + trilha discreta)</p></div></div>
+      <div class="timeline-block"><div class="timeline-time">17–23s</div><div class="timeline-content"><p>Antes de chegar em você, a gente garante a melhor qualidade e segurança.</p></div></div>
+      <div class="timeline-block"><div class="timeline-time">23–25s</div><div class="timeline-content"><p>Arte em Manipulação · Boutique no Trade Center · (22) 98871-1426</p></div></div>
+    </section>
+  </div>
+  <footer><span class="footer-brand">Lone Mídia</span><div class="footer-meta"><span>Plano de Conteúdo</span><span class="page-num">10 / 20</span></div></footer>
+</section>
+
+<!-- 13 — 05/06 SEXTA — ARTEVET -->
+<section class="page">
+  <header>
+    <div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-branco.png" alt="Lone Mídia"></div>
+    <div class="badge"><span class="badge-dot"></span><span class="badge-label">Cliente</span><span>Arte em Manipulação</span></div>
+  </header>
+  <div class="page-body">
+    <div class="title-block">
+      <span class="kicker">05/06 · Sexta-feira</span>
+      <h1>Seu pet tem receita do veterinário?</h1>
+      <div class="meta">
+        <span>Post estático</span>
+        <span>ArteVet</span>
+        <span>BOFU · Venda direta institucional</span>
+      </div>
+    </div>
+
+    <section class="block">
+      <h2>Copy</h2>
+      <div class="copy-item">
+        <span class="copy-label">Hook<br>Question</span>
+        <div class="copy-content"><p class="dialog">Seu pet tem receita do veterinário?</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">Legenda</span>
+        <div class="copy-content"><p class="body-text">A ArteVet manipula medicamento veterinário conforme a prescrição do veterinário do seu pet. A farmacêutica responsável avalia cada caso, conversa com você e prepara.
+
+Manda a foto da receita no WhatsApp ou passa na nossa unidade.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">CTA</span>
+        <div class="copy-content"><p>📍 R. Ary Barroso, 26 · Centro · Araruama<br>📲 (22) 99742-9275</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">#</span>
+        <div class="copy-content"><p class="hashtags">#ArteVet #ArteEmManipulacao #ManipulacaoVeterinaria #PetCareAraruama #Araruama #SaudePet</p></div>
+      </div>
+    </section>
+  </div>
+  <footer><span class="footer-brand">Lone Mídia</span><div class="footer-meta"><span>Plano de Conteúdo</span><span class="page-num">11 / 20</span></div></footer>
+</section>
+
+<!-- 14 — 08/06 SEGUNDA — RESERVADO NAMORADOS ANTECIPAÇÃO -->
+<section class="page">
+  <header>
+    <div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-branco.png" alt="Lone Mídia"></div>
+    <div class="badge"><span class="badge-dot"></span><span class="badge-label">Cliente</span><span>Arte em Manipulação</span></div>
+  </header>
+  <div class="page-body">
+    <div class="title-block">
+      <span class="kicker">08/06 · Segunda-feira</span>
+      <h1>Antecipação · Namorados</h1>
+      <div class="meta">
+        <span class="reserved">Reservado · A validar</span>
+        <span>Estética</span>
+        <span>Educativo + Emocional</span>
+      </div>
+    </div>
+
+    <section class="block">
+      <h2>Copy proposta</h2>
+      <div class="copy-item">
+        <span class="copy-label">Hook<br>Question</span>
+        <div class="copy-content"><p class="dialog">Em dúvida do que dar pra ela esse Dia dos Namorados?</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">Legenda</span>
+        <div class="copy-content"><p class="body-text">Tem opção que ela vai usar todo dia.
+
+Aqui na Arte em Manipulação a gente faz fórmula sob medida — pra pele dela, pro cabelo, pro que ela tá passando agora. Não é mais um produto na gaveta.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">CTA</span>
+        <div class="copy-content"><p>Chama no WhatsApp pra montar o presente certo.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">#</span>
+        <div class="copy-content"><p class="hashtags">#ArteEmManipulacao #DiaDosNamorados #LinhaPropria #PresentePersonalizado #Araruama</p></div>
+      </div>
+    </section>
+  </div>
+  <footer><span class="footer-brand">Lone Mídia</span><div class="footer-meta"><span>Plano de Conteúdo</span><span class="page-num">12 / 20</span></div></footer>
+</section>
+
+<!-- 15 — 10/06 QUARTA — REELS NAMORADOS GANCHO -->
+<section class="page">
+  <header>
+    <div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-branco.png" alt="Lone Mídia"></div>
+    <div class="badge"><span class="badge-dot"></span><span class="badge-label">Cliente</span><span>Arte em Manipulação</span></div>
+  </header>
+  <div class="page-body">
+    <div class="title-block">
+      <span class="kicker">10/06 · Quarta-feira · Reels</span>
+      <h1>Reels Namorados · Gancho</h1>
+      <div class="meta">
+        <span class="reserved">Reservado · A validar</span>
+        <span>Estética / Dermocosméticos</span>
+        <span>Venda</span>
+      </div>
+    </div>
+
+    <section class="block">
+      <h2>Roteiro proposto</h2>
+      <div class="timeline-block"><div class="timeline-time">0–3s</div><div class="timeline-content"><p>Em dúvida do que dar pra sua namorada no Dia dos Namorados?</p></div></div>
+      <div class="timeline-block"><div class="timeline-time">3–8s</div><div class="timeline-content"><p>Perfume ela já tem. Bombom não dura. O que tá no shopping ela já recebeu.</p></div></div>
+      <div class="timeline-block"><div class="timeline-time">8–18s</div><div class="timeline-content"><div class="placeholder-block"><strong>📝 Supervisora preenche</strong>Produto/kit destacado da linha própria — descrição curta + benefício + oferta da campanha (% off, kit, condição especial) com validade até 12/06.</div></div></div>
+      <div class="timeline-block"><div class="timeline-time">18–25s</div><div class="timeline-content"><p>Presente que ela vai usar todo dia. Sob medida pra rotina dela.</p></div></div>
+      <div class="timeline-block"><div class="timeline-time">25–30s</div><div class="timeline-content"><p>Vem garantir. Campanha até 12 de junho. Arte em Manipulação · Boutique no Trade Center · WhatsApp (22) 98871-1426.</p></div></div>
+    </section>
+  </div>
+  <footer><span class="footer-brand">Lone Mídia</span><div class="footer-meta"><span>Plano de Conteúdo</span><span class="page-num">13 / 20</span></div></footer>
+</section>
+
+<!-- 16 — 11/06 QUINTA — IDEIA PRODUTO PRA CASAL · WHITE LABEL (DIA EXTRA NA SEMANA DE NAMORADOS) -->
+<section class="page">
+  <header>
+    <div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-branco.png" alt="Lone Mídia"></div>
+    <div class="badge"><span class="badge-dot"></span><span class="badge-label">Cliente</span><span>Arte em Manipulação</span></div>
+  </header>
+  <div class="page-body">
+    <div class="title-block">
+      <span class="kicker">11/06 · Quinta-feira · Dia extra</span>
+      <h1>[Produto pra casal · linha íntima]</h1>
+      <div class="meta">
+        <span class="reserved">💡 Ideia · A validar</span>
+        <span>Linha própria · Dia dos Namorados</span>
+        <span>Peça extra · fora das 12 contratadas</span>
+      </div>
+    </div>
+
+    <section class="block">
+      <h2>Contexto</h2>
+      <div class="copy-item">
+        <span class="copy-label">De onde</span>
+        <div class="copy-content"><p class="body-text">A supervisora mencionou (em conversa com PH) que a Arte em Manipulação manipula produto pra casal — gel/uso íntimo. Encaixe escolhido: <strong>11/06 quinta</strong>, dia extra fora do calendário regular Lone (seg/qua/sex), véspera do Dia dos Namorados (12/06).
+
+Por ser tema sensível (uso íntimo · regulamentação · tom), tudo aqui é template — fica aberto pra alinhamento com supervisora.</p></div>
+      </div>
+    </section>
+
+    <section class="block">
+      <h2>Copy white label</h2>
+      <div class="copy-item">
+        <span class="copy-label">Título<br>da arte</span>
+        <div class="copy-content"><p class="dialog">[Nome do produto] · pra dois.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">Subtítulo</span>
+        <div class="copy-content"><p class="dialog">[Uma frase curta sobre o que o produto faz — sutil, sem ser explícito]</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">Legenda</span>
+        <div class="copy-content"><p class="body-text">[Texto curto explicando que a Arte em Manipulação tem essa categoria na linha própria. Tom respeitoso, adulto, sem ser pegajoso. Mencionar avaliação farmacêutica antes do uso.]
+
+[Indicar restrições/contraindicações conforme orientação da supervisora.]
+
+[CTA leve — algo como "manda mensagem que a farmacêutica orienta" ou "vem na Boutique conversar".]</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">CTA</span>
+        <div class="copy-content"><p>📲 (22) 98871-1426 · Boutique Arte em Manipulação</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">#</span>
+        <div class="copy-content"><p class="hashtags">[Hashtags a definir conforme tom escolhido — evitar termos que cortem alcance no IG]</p></div>
+      </div>
+    </section>
+
+    <section class="block">
+      <h2>Pendências (todas pra supervisora)</h2>
+      <div class="copy-item">
+        <span class="copy-label">Validar</span>
+        <div class="copy-content"><p class="body-text">→ Nome do produto e descrição técnica (sem cair em jargão)
+→ Indicação principal · público-alvo · restrições
+→ Tom desejado: mais leve/lúdico ou mais técnico/orientação?
+→ Formato: post estático, carrossel ou Reels?
+→ Como tratar regulamentação Anvisa pra esse tipo de produto na peça
+→ Imagens disponíveis (do produto · da embalagem · ambiente)</p></div>
+      </div>
+    </section>
+  </div>
+  <footer><span class="footer-brand">Lone Mídia</span><div class="footer-meta"><span>Plano de Conteúdo</span><span class="page-num">14 / 20</span></div></footer>
+</section>
+
+<!-- 17 — 12/06 SEXTA — REELS NAMORADOS VENDA -->
+<section class="page">
+  <header>
+    <div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-branco.png" alt="Lone Mídia"></div>
+    <div class="badge"><span class="badge-dot"></span><span class="badge-label">Cliente</span><span>Arte em Manipulação</span></div>
+  </header>
+  <div class="page-body">
+    <div class="title-block">
+      <span class="kicker">12/06 · Sexta-feira · Reels</span>
+      <h1>Reels Namorados · Venda</h1>
+      <div class="meta">
+        <span class="reserved">Reservado · A validar</span>
+        <span>Linha própria</span>
+        <span>Venda direta + Urgência</span>
+      </div>
+    </div>
+
+    <section class="block">
+      <h2>Roteiro proposto</h2>
+      <div class="timeline-block"><div class="timeline-time">0–3s</div><div class="timeline-content"><p>Hoje é dia. E ainda dá tempo de acertar o presente.</p></div></div>
+      <div class="timeline-block"><div class="timeline-time">3–10s</div><div class="timeline-content"><p>Boutique aberta até 18h. WhatsApp na mão.</p></div></div>
+      <div class="timeline-block"><div class="timeline-time">10–20s</div><div class="timeline-content"><p>Em algumas horas você pode estar com o presente certo na bolsa.</p></div></div>
+      <div class="timeline-block"><div class="timeline-time">20–25s</div><div class="timeline-content"><div class="placeholder-block"><strong>📝 Supervisora preenche</strong>Oferta específica de Dia dos Namorados — kit, vale-presente, % de desconto, ou algum produto da linha própria com tratamento especial.</div></div></div>
+      <div class="timeline-block"><div class="timeline-time">25–30s</div><div class="timeline-content"><p>(22) 98871-1426. Trade Center. Vai.</p></div></div>
+    </section>
+  </div>
+  <footer><span class="footer-brand">Lone Mídia</span><div class="footer-meta"><span>Plano de Conteúdo</span><span class="page-num">15 / 20</span></div></footer>
+</section>
+
+<!-- 18 — 15/06 SEGUNDA — MANIPULADO ≠ INDUSTRIALIZADO -->
+<section class="page">
+  <header>
+    <div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-branco.png" alt="Lone Mídia"></div>
+    <div class="badge"><span class="badge-dot"></span><span class="badge-label">Cliente</span><span>Arte em Manipulação</span></div>
+  </header>
+  <div class="page-body">
+    <div class="title-block">
+      <span class="kicker">15/06 · Segunda-feira</span>
+      <h1>O segredo não está na quantidade.</h1>
+      <div class="meta">
+        <span>Post estático</span>
+        <span>Educativo</span>
+        <span>Contraintuitivo</span>
+      </div>
+    </div>
+
+    <section class="block">
+      <h2>Copy</h2>
+      <div class="copy-item">
+        <span class="copy-label">Título<br>da arte (serif gigante)</span>
+        <div class="copy-content"><p class="dialog">O segredo não está na quantidade.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">Linha<br>de apoio</span>
+        <div class="copy-content"><p class="dialog">Está em qual cabe pra você.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">Legenda</span>
+        <div class="copy-content"><p class="body-text">Tem gente com remédio acumulado e nada que resolve. Às vezes, uma fórmula manipulada — pensada pro seu caso — resolve o que três da prateleira não resolveram.
+
+Manda a receita no WhatsApp que a farmacêutica avalia.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">CTA</span>
+        <div class="copy-content"><p>📲 (22) 98871-1426 · Boutique Arte em Manipulação</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">#</span>
+        <div class="copy-content"><p class="hashtags">#ArteEmManipulacao #ManipulacaoMagistral #FarmaciaDeManipulacao #Araruama</p></div>
+      </div>
+    </section>
+  </div>
+  <footer><span class="footer-brand">Lone Mídia</span><div class="footer-meta"><span>Plano de Conteúdo</span><span class="page-num">16 / 20</span></div></footer>
+</section>
+
+<!-- 19 — 17/06 QUARTA — REELS VENDA DIRETA · CAPTAÇÃO LOCAL -->
+<section class="page">
+  <header>
+    <div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-branco.png" alt="Lone Mídia"></div>
+    <div class="badge"><span class="badge-dot"></span><span class="badge-label">Cliente</span><span>Arte em Manipulação</span></div>
+  </header>
+  <div class="page-body">
+    <div class="title-block">
+      <span class="kicker">17/06 · Quarta-feira · Reels</span>
+      <h1>Em Araruama, pra cada parte do seu cuidado.</h1>
+      <div class="meta">
+        <span>Reels · 20s</span>
+        <span>Venda direta · Local</span>
+        <span>BOFU · Captação</span>
+      </div>
+    </div>
+
+    <section class="block">
+      <h2>Roteiro</h2>
+      <div class="timeline-block"><div class="timeline-time">0–3s</div><div class="timeline-content"><p>Em Araruama, você encontra fórmula sob medida pra cada parte do seu cuidado.</p></div></div>
+      <div class="timeline-block"><div class="timeline-time">3–12s</div><div class="timeline-content"><p>Pele. Cabelo. Treino. Sono. Hormônio. Saúde do dia a dia.</p></div></div>
+      <div class="timeline-block"><div class="timeline-time">12–17s</div><div class="timeline-content"><p>Tudo aqui na Arte em Manipulação. Chama no WhatsApp ou vem na Boutique do Trade Center.</p></div></div>
+      <div class="timeline-block"><div class="timeline-time">17–20s</div><div class="timeline-content"><p>Av. John Kennedy, 82 · Loja 13 · Trade Center · (22) 98871-1426</p></div></div>
+    </section>
+
+    <section class="block">
+      <h2>Legenda</h2>
+      <div class="copy-item">
+        <span class="copy-label">Texto</span>
+        <div class="copy-content"><p class="body-text">Em Araruama, fórmula sob medida pra cada parte do seu cuidado — pele, cabelo, treino, sono, hormônio, e o que mais precisar.
+
+Manda mensagem no WhatsApp ou passa na Boutique pra conversar com a farmacêutica.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">CTA</span>
+        <div class="copy-content"><p>📍 Av. John Kennedy, 82 · Loja 13 (Trade Center) · Araruama<br>📲 (22) 98871-1426</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">#</span>
+        <div class="copy-content"><p class="hashtags">#ArteEmManipulacao #Araruama #FarmaciaDeManipulacao #ManipulacaoArtesanal #LinhaPropria #TradeCenter</p></div>
+      </div>
+    </section>
+  </div>
+  <footer><span class="footer-brand">Lone Mídia</span><div class="footer-meta"><span>Plano de Conteúdo</span><span class="page-num">17 / 20</span></div></footer>
+</section>
+
+<!-- 20 — 22/06 SEGUNDA — HIDRATAÇÃO INVERNO -->
+<section class="page">
+  <header>
+    <div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-branco.png" alt="Lone Mídia"></div>
+    <div class="badge"><span class="badge-dot"></span><span class="badge-label">Cliente</span><span>Arte em Manipulação</span></div>
+  </header>
+  <div class="page-body">
+    <div class="title-block">
+      <span class="kicker">22/06 · Segunda-feira</span>
+      <h1>Pele no inverno pede cuidado.</h1>
+      <div class="meta">
+        <span>Post estático</span>
+        <span>Linha própria · Cuidado da pele</span>
+        <span>MOFU · Solution-Aware</span>
+      </div>
+    </div>
+
+    <section class="block">
+      <h2>Composição da arte</h2>
+      <div class="copy-item">
+        <span class="copy-label">Fundo</span>
+        <div class="copy-content"><p class="body-text">Foto editorial com produtos da linha própria da Arte em Manipulação dispostos (Creme Hidratante, Cacau Beauty, e outros que a supervisora indicar). Luz natural lateral · superfície neutra (mármore, madeira clara ou linho) · espaço em branco respirando. Não chapado, não horror vacui.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">Layout</span>
+        <div class="copy-content"><p class="body-text">Título serif grande no topo + subtítulo sans logo abaixo · tópicos de benefício alinhados (lista vertical ou cards) na metade inferior · logo discreta no rodapé com endereço.</p></div>
+      </div>
+    </section>
+
+    <section class="block">
+      <h2>Copy</h2>
+      <div class="copy-item">
+        <span class="copy-label">Título<br>da arte (serif)</span>
+        <div class="copy-content"><p class="dialog">Pele no inverno pede cuidado.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">Subtítulo<br>(sans)</span>
+        <div class="copy-content"><p class="dialog">Linha de cuidado da pele · Arte em Manipulação.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">Tópicos<br>(benefícios)</span>
+        <div class="copy-content"><p class="body-text">· Hidrata e segura água por mais tempo
+· Devolve brilho na pele que ficou opaca
+· Apoia o cuidado com manchas e acne
+· Adapta a rotina pra cada tipo de pele
+
+[📝 Supervisora: confirmar quais benefícios cobrir e se há claim específico de algum produto. Pode trocar/ajustar conforme a linha.]</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">Legenda</span>
+        <div class="copy-content"><p class="body-text">Tempo seco muda a pele de quase todo mundo. A linha da Arte em Manipulação tem produto pra cada parte do cuidado — hidratação, brilho, manchas, acne.
+
+Manda mensagem no WhatsApp ou passa na Boutique pra conversar com a farmacêutica sobre o que cabe pra você.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">CTA</span>
+        <div class="copy-content"><p>📲 (22) 98871-1426 · Boutique Arte em Manipulação</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">#</span>
+        <div class="copy-content"><p class="hashtags">#ArteEmManipulacao #LinhaPropria #CuidadoDaPele #Dermocosmeticos #Inverno #Araruama</p></div>
+      </div>
+    </section>
+  </div>
+  <footer><span class="footer-brand">Lone Mídia</span><div class="footer-meta"><span>Plano de Conteúdo</span><span class="page-num">18 / 20</span></div></footer>
+</section>
+
+<!-- 21 — 24/06 QUARTA — REELS FARMACÊUTICA RESPONDE -->
+<section class="page">
+  <header>
+    <div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-branco.png" alt="Lone Mídia"></div>
+    <div class="badge"><span class="badge-dot"></span><span class="badge-label">Cliente</span><span>Arte em Manipulação</span></div>
+  </header>
+  <div class="page-body">
+    <div class="title-block">
+      <span class="kicker">24/06 · Quarta-feira · Reels</span>
+      <h1>A pergunta que a gente mais ouve.</h1>
+      <div class="meta">
+        <span>Reels · 25s</span>
+        <span>Farmacêutica responde</span>
+        <span>MOFU · Product-Aware</span>
+      </div>
+    </div>
+
+    <section class="block">
+      <h2>Roteiro</h2>
+      <div class="timeline-block"><div class="timeline-time">0–3s</div><div class="timeline-content"><p>A pergunta que a gente mais ouve aqui:</p></div></div>
+      <div class="timeline-block"><div class="timeline-time">3–8s</div><div class="timeline-content"><p>"Manipulado faz a mesma coisa que o de prateleira?"</p></div></div>
+      <div class="timeline-block"><div class="timeline-time">8–20s</div><div class="timeline-content"><p>Faz uma coisa diferente — não "melhor", diferente. O de prateleira é fórmula pensada pra todo mundo. O manipulado é dose, sabor e forma ajustados pra você. Pra alguns casos faz diferença. Pra outros, o de prateleira já resolve. A gente avalia caso a caso.</p></div></div>
+      <div class="timeline-block"><div class="timeline-time">20–25s</div><div class="timeline-content"><p>Manda a receita ou a dúvida no WhatsApp. (22) 98871-1426 · Boutique Arte em Manipulação.</p></div></div>
+    </section>
+  </div>
+  <footer><span class="footer-brand">Lone Mídia</span><div class="footer-meta"><span>Plano de Conteúdo</span><span class="page-num">19 / 20</span></div></footer>
+</section>
+
+<!-- 22 — 26/06 SEXTA — CARROSSEL MITO VS VERDADE -->
+<section class="page">
+  <header>
+    <div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-branco.png" alt="Lone Mídia"></div>
+    <div class="badge"><span class="badge-dot"></span><span class="badge-label">Cliente</span><span>Arte em Manipulação</span></div>
+  </header>
+  <div class="page-body">
+    <div class="title-block">
+      <span class="kicker">26/06 · Sexta-feira</span>
+      <h1>Mito ou verdade?</h1>
+      <div class="meta">
+        <span>Carrossel 5 slides</span>
+        <span>Educativo · Quebra de objeção</span>
+        <span>BOFU · Product-Aware</span>
+      </div>
+    </div>
+
+    <section class="block">
+      <h2>Copy</h2>
+      <div class="copy-item">
+        <span class="copy-label">Capa<br>(slide 1)</span>
+        <div class="copy-content"><p class="dialog">Mito ou verdade · manipulação magistral.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">Slide 2</span>
+        <div class="copy-content"><p class="body-text"><strong>❌ MITO:</strong> "Manipulado demora demais."<br><br><strong>✅ VERDADE:</strong> Em geral, fica pronto em 1-2 dias úteis. Em casos urgentes, a farmacêutica avalia o que dá pra adiantar.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">Slide 3</span>
+        <div class="copy-content"><p class="body-text"><strong>❌ MITO:</strong> "Pra comprar manipulado preciso de receita médica."<br><br><strong>✅ VERDADE:</strong> Depende do produto. Algumas fórmulas pedem receita. Outras a farmacêutica orienta direto.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">Slide 4</span>
+        <div class="copy-content"><p class="body-text"><strong>❌ MITO:</strong> "Manipulado é só pra coisa exótica."<br><br><strong>✅ VERDADE:</strong> Manipulação atende tanto rotina quanto caso específico — dermocosmético, suplemento, fitoterápico, hormônio.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">Slide 5 (CTA)</span>
+        <div class="copy-content"><p class="dialog">Tem outra dúvida? Manda no WhatsApp.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">Legenda</span>
+        <div class="copy-content"><p class="body-text">3 confusões que a gente ouve toda semana no balcão. Junta tudo num post só pra você não precisar perguntar.
+
+Se sobrou dúvida, manda no WhatsApp que a farmacêutica responde.</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">CTA</span>
+        <div class="copy-content"><p>📲 (22) 98871-1426 · Boutique Arte em Manipulação</p></div>
+      </div>
+      <div class="copy-item">
+        <span class="copy-label">#</span>
+        <div class="copy-content"><p class="hashtags">#ArteEmManipulacao #FarmaciaDeManipulacao #ManipulacaoMagistral #MitoOuVerdade #Araruama</p></div>
+      </div>
+    </section>
+  </div>
+  <footer><span class="footer-brand">Lone Mídia</span><div class="footer-meta"><span>Plano de Conteúdo</span><span class="page-num">20 / 20</span></div></footer>
+</section>
+
+</body>
+</html>

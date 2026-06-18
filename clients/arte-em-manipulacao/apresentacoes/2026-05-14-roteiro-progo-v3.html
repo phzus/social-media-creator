@@ -1,0 +1,614 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Roteiro PROGO v3 — Arte em Manipulação · Lone Mídia</title>
+<style>
+  @page {
+    size: 167mm 297mm;
+    margin: 0;
+  }
+
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  html, body {
+    font-family: -apple-system, BlinkMacSystemFont, "Inter", "Helvetica Neue", "Segoe UI", Arial, sans-serif;
+    background: #e8e8e8;
+    color: #0a0a0a;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .page {
+    width: 167mm;
+    height: 297mm;
+    position: relative;
+    page-break-after: always;
+    background: #ffffff;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    margin: 16px auto;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+  }
+
+  .page:last-child { page-break-after: auto; }
+
+  @media print {
+    body { background: #fff; }
+    .page { margin: 0; box-shadow: none; }
+  }
+
+  /* ===== HEADER ===== */
+  header {
+    background: #0a0a0a;
+    padding: 6mm 12mm;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 0.6mm solid #1A2DD9;
+  }
+
+  .brand img {
+    height: 9mm;
+    width: auto;
+    display: block;
+  }
+
+  .badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 1.5mm;
+    background: #ffffff;
+    color: #0a0a0a;
+    padding: 1.8mm 3mm;
+    font-size: 1.9mm;
+    font-weight: 700;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    border-radius: 1mm;
+  }
+
+  .badge .badge-label {
+    opacity: 0.5;
+    font-weight: 500;
+  }
+
+  .badge .badge-dot {
+    width: 1.2mm;
+    height: 1.2mm;
+    background: #1A2DD9;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  /* ===== PAGE BODY ===== */
+  .page-body {
+    flex: 1;
+    padding: 10mm 12mm 16mm;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  /* ===== TITLE BLOCK ===== */
+  .title-block {
+    margin-bottom: 6mm;
+    padding-bottom: 4mm;
+    border-bottom: 0.5mm solid #1A2DD9;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 6mm;
+  }
+
+  h1 {
+    font-size: 14mm;
+    font-weight: 800;
+    letter-spacing: -1.5px;
+    color: #0a0a0a;
+    line-height: 0.95;
+  }
+
+  .subtitle {
+    font-size: 2.3mm;
+    font-weight: 700;
+    color: #1A2DD9;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    text-align: right;
+  }
+
+  .subtitle small {
+    display: block;
+    color: #7a7a7a;
+    font-weight: 500;
+    letter-spacing: 0.8px;
+    font-size: 1.9mm;
+    margin-top: 1mm;
+  }
+
+  /* ===== TIMELINE ===== */
+  .timeline {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 4mm;
+  }
+
+  .block {
+    display: grid;
+    grid-template-columns: 14mm 1fr;
+    gap: 3mm;
+    align-items: start;
+  }
+
+  .time {
+    font-size: 2.1mm;
+    font-weight: 800;
+    color: #1A2DD9;
+    letter-spacing: 0.5px;
+    background: #f0f2ff;
+    padding: 1.4mm 1mm;
+    border-radius: 0.8mm;
+    text-align: center;
+    line-height: 1;
+  }
+
+  .block-content {
+    line-height: 1.4;
+  }
+
+  .label-tag {
+    display: inline-block;
+    font-size: 2.9mm;
+    font-weight: 800;
+    color: #5a5a5a;
+    letter-spacing: 1.6px;
+    text-transform: uppercase;
+    margin-bottom: 2mm;
+    padding: 0.8mm 2mm;
+    background: #f5f5f5;
+    border-radius: 0.6mm;
+  }
+
+  .line {
+    font-size: 3.7mm;
+    line-height: 1.4;
+    color: #0a0a0a;
+    font-weight: 500;
+    margin-bottom: 2mm;
+  }
+
+  .line.dialog::before {
+    content: "“";
+    color: #1A2DD9;
+    font-weight: 800;
+    margin-right: 0.5mm;
+  }
+
+  .line.dialog::after {
+    content: "”";
+    color: #1A2DD9;
+    font-weight: 800;
+    margin-left: 0.5mm;
+  }
+
+  .scene {
+    font-size: 3.1mm;
+    line-height: 1.45;
+    color: #5a5a5a;
+    font-weight: 400;
+    padding-left: 3mm;
+    border-left: 0.4mm solid #d5d5d5;
+    margin-top: 1mm;
+  }
+
+  .scene::before {
+    content: "CENA · ";
+    font-weight: 800;
+    color: #1A2DD9;
+    letter-spacing: 0.8px;
+    font-size: 1.7mm;
+  }
+
+  /* ===== TRIPLA ACAO (cards) ===== */
+  .tripla-acao {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5mm;
+    margin: 1.5mm 0 2mm;
+  }
+
+  .acao {
+    background: #f8f9ff;
+    border-left: 0.8mm solid #1A2DD9;
+    padding: 2mm 3mm;
+    border-radius: 0 1mm 1mm 0;
+    display: grid;
+    grid-template-columns: 18mm 1fr;
+    gap: 3mm;
+    align-items: start;
+  }
+
+  .acao-titulo {
+    font-size: 2.9mm;
+    font-weight: 800;
+    color: #1A2DD9;
+    letter-spacing: 0.6px;
+    text-transform: uppercase;
+    align-self: center;
+  }
+
+  .acao-desc {
+    font-size: 3.2mm;
+    line-height: 1.4;
+    color: #0a0a0a;
+    font-weight: 500;
+  }
+
+  .acao.destaque {
+    background: #1A2DD9;
+    border-left-color: #1A2DD9;
+  }
+
+  .acao.destaque .acao-titulo { color: #ffffff; }
+  .acao.destaque .acao-desc { color: #ffffff; }
+
+  .acao.destaque .acao-desc strong {
+    background: #ffffff;
+    color: #1A2DD9;
+    padding: 0.4mm 1.5mm;
+    border-radius: 0.6mm;
+    font-size: 2.0mm;
+    font-weight: 800;
+    letter-spacing: 0.6px;
+    text-transform: uppercase;
+    margin-right: 1.5mm;
+    vertical-align: middle;
+  }
+
+  .closing-line {
+    font-size: 3.5mm;
+    line-height: 1.4;
+    color: #0a0a0a;
+    font-weight: 600;
+    font-style: italic;
+    margin-top: 2mm;
+    padding: 2mm 3mm;
+    border-left: 0.5mm solid #1A2DD9;
+    background: #fcfcff;
+  }
+
+  /* ===== PAGINA 2 — LEGENDA + OBS ===== */
+  .section {
+    margin-bottom: 7mm;
+  }
+
+  .section-title {
+    font-size: 3.9mm;
+    font-weight: 800;
+    letter-spacing: -0.3px;
+    color: #0a0a0a;
+    margin-bottom: 3.5mm;
+    padding-bottom: 1.8mm;
+    border-bottom: 0.4mm solid #1A2DD9;
+  }
+
+  .caption {
+    background: #f8f9ff;
+    border-left: 1mm solid #1A2DD9;
+    padding: 4mm 5mm;
+    border-radius: 0 1mm 1mm 0;
+  }
+
+  .caption p {
+    font-size: 2.7mm;
+    line-height: 1.55;
+    color: #0a0a0a;
+    margin-bottom: 2mm;
+  }
+
+  .caption p:last-child { margin-bottom: 0; }
+
+  .caption ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 2mm 0;
+  }
+
+  .caption ul li {
+    font-size: 2.7mm;
+    line-height: 1.5;
+    color: #0a0a0a;
+    padding-left: 5mm;
+    position: relative;
+    margin-bottom: 1.5mm;
+  }
+
+  .caption ul li::before {
+    content: "·";
+    position: absolute;
+    left: 1mm;
+    font-weight: 800;
+    color: #1A2DD9;
+    font-size: 3.7mm;
+    line-height: 1.2;
+  }
+
+  .caption .meta {
+    font-size: 2.5mm;
+    color: #5a5a5a;
+    margin-top: 3mm;
+  }
+
+  .hashtags {
+    font-size: 2.6mm;
+    color: #1A2DD9;
+    font-weight: 600;
+    line-height: 1.5;
+  }
+
+  .alert {
+    background: #fff8e6;
+    border-left: 1mm solid #f5b400;
+    padding: 4mm 5mm;
+    border-radius: 0 1mm 1mm 0;
+    margin-bottom: 6mm;
+  }
+
+  .alert strong.alert-title {
+    display: block;
+    font-size: 2.3mm;
+    font-weight: 800;
+    color: #b58400;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 2.5mm;
+  }
+
+  .alert p {
+    font-size: 2.6mm;
+    line-height: 1.5;
+    color: #4a4a4a;
+    margin-bottom: 2mm;
+  }
+
+  .alert ul {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 2mm;
+  }
+
+  .alert ul li {
+    font-size: 2.6mm;
+    line-height: 1.5;
+    color: #2a2a2a;
+    padding-left: 5mm;
+    position: relative;
+    margin-bottom: 2mm;
+  }
+
+  .alert ul li::before {
+    content: "▸";
+    position: absolute;
+    left: 0;
+    color: #b58400;
+    font-weight: 800;
+  }
+
+  .alert ul li strong { color: #b58400; font-weight: 800; }
+
+  /* ===== FOOTER ===== */
+  footer {
+    position: absolute;
+    bottom: 7mm;
+    left: 12mm;
+    right: 12mm;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 0.3mm solid #e5e5e5;
+    padding-top: 3mm;
+    font-size: 1.9mm;
+    color: #7a7a7a;
+    letter-spacing: 0.3px;
+  }
+
+  footer .footer-brand {
+    font-weight: 700;
+    color: #0a0a0a;
+  }
+
+  footer .footer-meta {
+    display: flex;
+    gap: 3mm;
+    align-items: center;
+  }
+
+  .page-num {
+    font-weight: 700;
+    color: #1A2DD9;
+    background: #f0f2ff;
+    padding: 1mm 2.5mm;
+    border-radius: 0.8mm;
+    letter-spacing: 0.5px;
+  }
+</style>
+</head>
+<body>
+
+<!-- ============================== -->
+<!-- PÁGINA 1 — TIMELINE             -->
+<!-- ============================== -->
+<section class="page">
+  <header>
+    <div class="brand">
+      <img src="../../../shared/identidade-lone/lone-midia-logo-azul-branco.png" alt="Lone Mídia">
+    </div>
+    <div class="badge">
+      <span class="badge-dot"></span>
+      <span class="badge-label">Cliente</span>
+      <span>Arte em Manipulação</span>
+    </div>
+  </header>
+
+  <div class="page-body">
+    <div class="title-block">
+      <h1>PROGO</h1>
+      <div class="subtitle">
+        Reels · Lançamento de Ativo
+        <small>~45s · v3 · 14/05/2026</small>
+      </div>
+    </div>
+
+    <div class="timeline">
+
+      <div class="block">
+        <div class="time">0–5s</div>
+        <div class="block-content">
+          <p class="line dialog">Você emagrece... e depois engorda tudo de novo?</p>
+          <p class="closing-line">OU: "Você sente fome o tempo inteiro... mesmo tentando emagrecer?"</p>
+        </div>
+      </div>
+
+      <div class="block">
+        <div class="time">5–12s</div>
+        <div class="block-content">
+          <p class="line dialog">Muita gente acha que o problema é falta de dieta. Mas na verdade... o corpo continua pedindo comida o tempo todo.</p>
+        </div>
+      </div>
+
+      <div class="block">
+        <div class="time">12–20s</div>
+        <div class="block-content">
+          <p class="line dialog">Por isso a Arte em Manipulação trouxe o PROGO. Um ativo natural com ação inteligente no emagrecimento e controle da fome.</p>
+        </div>
+      </div>
+
+      <div class="block">
+        <div class="time">20–33s</div>
+        <div class="block-content">
+          <p class="line">O PROGO atua ajudando:</p>
+          <div class="tripla-acao">
+            <div class="acao">
+              <div class="acao-titulo">✔</div>
+              <div class="acao-desc">na saciedade</div>
+            </div>
+            <div class="acao">
+              <div class="acao-titulo">✔</div>
+              <div class="acao-desc">no controle da fome</div>
+            </div>
+            <div class="acao">
+              <div class="acao-titulo">✔</div>
+              <div class="acao-desc">no metabolismo</div>
+            </div>
+            <div class="acao destaque">
+              <div class="acao-titulo">✔</div>
+              <div class="acao-desc">e até na saúde intestinal</div>
+            </div>
+          </div>
+          <p class="closing-line">Inclusive podendo potencializar resultados de quem já usa canetas emagrecedoras.</p>
+        </div>
+      </div>
+
+      <div class="block">
+        <div class="time">33–40s</div>
+        <div class="block-content">
+          <p class="line dialog">Porque emagrecer não é só comer menos. É fazer o corpo trabalhar a seu favor.</p>
+        </div>
+      </div>
+
+      <div class="block">
+        <div class="time">40–45s</div>
+        <div class="block-content">
+          <p class="line dialog">Quer entender se o PROGO faz sentido pro seu caso? Chama agora no WhatsApp ou venha na Arte em Manipulação.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <footer>
+    <span class="footer-brand">Lone Mídia</span>
+    <div class="footer-meta">
+      <span>Roteiro · PROGO · v3</span>
+      <span class="page-num">01 / 02</span>
+    </div>
+  </footer>
+</section>
+
+<!-- ============================== -->
+<!-- PÁGINA 2 — LEGENDA + ALERTAS    -->
+<!-- ============================== -->
+<section class="page">
+  <header>
+    <div class="brand">
+      <img src="../../../shared/identidade-lone/lone-midia-logo-azul-branco.png" alt="Lone Mídia">
+    </div>
+    <div class="badge">
+      <span class="badge-dot"></span>
+      <span class="badge-label">Cliente</span>
+      <span>Arte em Manipulação</span>
+    </div>
+  </header>
+
+  <div class="page-body">
+    <div class="title-block">
+      <h1>Legenda &amp; Validações</h1>
+      <div class="subtitle">
+        PROGO · v3
+        <small>Instagram Reels @arte.em.manipulacao</small>
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Legenda do post</div>
+      <div class="caption">
+        <p><strong>Você não precisa lutar contra a fome o tempo inteiro pra emagrecer.</strong></p>
+        <p>O <strong>PROGO</strong> foi desenvolvido para auxiliar no controle da saciedade, metabolismo e saúde intestinal — ajudando seu corpo a trabalhar a favor do emagrecimento.</p>
+        <ul>
+          <li>Mais saciedade</li>
+          <li>Menos compulsão</li>
+          <li>Auxílio no metabolismo</li>
+          <li>Pode potencializar resultados de quem já usa canetas emagrecedoras</li>
+        </ul>
+        <p class="meta">📍 Arte em Manipulação — Araruama<br>📲 Chame no WhatsApp e fale com nossa equipe.</p>
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Direção visual recomendada</div>
+      <div class="caption">
+        <ul>
+          <li>Cenas rápidas</li>
+          <li>Expressões reais</li>
+          <li>Produto premium</li>
+          <li>Texto forte na tela</li>
+          <li>Música moderna e emocional</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Hashtags</div>
+      <p class="hashtags">#ArteEmManipulacao #PROGO #FarmaciaDeManipulacao #Emagrecimento #Saciedade #LinhaPropria #Araruama #ManipulacaoArtesanal</p>
+    </div>
+
+  </div>
+
+  <footer>
+    <span class="footer-brand">Lone Mídia</span>
+    <div class="footer-meta">
+      <span>Roteiro · PROGO · v3</span>
+      <span class="page-num">02 / 02</span>
+    </div>
+  </footer>
+</section>
+
+</body>
+</html>

@@ -1,0 +1,173 @@
+# Workflow: Imersao Paga (1-5 dias presencial ou online ao vivo)
+# Timeline: 4-8 semanas prep | Ticket: R$297-10K (entrada) + upsell R$5K-50K+
+# Referencia: Metodo Andre Cia (Pitch ao Vivo)
+
+name: imersao-paga
+description: "Imersao paga com pitch ao vivo de produto high-ticket no ultimo dia"
+type: evento
+framework: andre-cia-pitch
+estimated_duration: "4-8 semanas"
+ticket_range: "R$297-10K (imersao) + R$5K-50K+ (upsell)"
+conversion_target: "imersao->upsell 25-45%"
+
+variants:
+  - imersao_online: "Imersao online ao vivo (Zoom/YouTube privado)"
+  - imersao_presencial: "Imersao presencial (evento fisico)"
+  - imersao_hibrida: "Presencial + transmissao online"
+
+squad:
+  core:
+    - theboss
+    - claudinho      # Copy captacao + scripts + emails
+    - picasso        # Brandbook + criativos + palco
+    - pixel          # Landing + checkout
+    - cadu           # Trafego
+    - pitchinho      # Engenharia do pitch ao vivo (CORE do funil)
+    - slides-creator # Slides das aulas + pitch
+  support:
+    - andreza        # Mesa de vendas apos pitch
+    - danilo         # SDR de qualificacao (pre-imersao)
+    - salazar        # Automacoes
+    - rafa           # Logistica do evento
+    - metrics
+    - milagroso      # Producao audiovisual do evento
+
+phases:
+
+  - id: engenharia-reversa
+    name: "Engenharia Reversa do Produto"
+    duration: "3-5 dias"
+    description: |
+      Parte CRITICA. @pitchinho engenhara o produto principal de tras pra frente:
+      qual a transformacao, quais as 3-5 verdades que precisam ser ditas antes do pitch,
+      como estruturar cada aula pra preparar a venda final sem parecer vendedor.
+    tasks:
+      - task: criar-engenharia-reversa
+        agent: pitchinho
+        description: "Mapear narrativa dos dias ate o pitch"
+    deliverables:
+      - "{PROJ}_ENG_ENGENHARIA-REVERSA_V1.md"
+      - "{PROJ}_ENG_NARRATIVA-DOS-DIAS_V1.md"
+
+  - id: oferta
+    name: "Estruturacao da Oferta High-Ticket"
+    duration: "3-5 dias"
+    tasks:
+      - task: structure-offer
+        agent: theboss
+        description: "Oferta de entrada (imersao) + oferta principal (high-ticket)"
+      - task: criar-pitch
+        agent: pitchinho
+        description: "Stack + ancoragem + bonus + garantia"
+    deliverables:
+      - "{PROJ}_OFR_IMERSAO-ENTRADA_V1.md"
+      - "{PROJ}_OFR_HIGHTICKET-PRINCIPAL_V1.md"
+
+  - id: captacao
+    name: "Captacao de Inscritos"
+    duration: "2-4 semanas"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: captacao
+      - task: build-pages
+        agent: pixel
+        scope: captacao
+      - task: create-creatives
+        agent: picasso
+        scope: captacao
+      - task: plan-traffic
+        agent: cadu
+        description: "Meta + YouTube + lista propria"
+      - task: qualify-leads
+        agent: danilo
+        description: "SDR filtrando inscritos por fit"
+    deliverables:
+      - "{PROJ}_CAP_PGN_LANDING-IMERSAO_V1.md"
+      - "{PROJ}_CAP_PGN_CHECKOUT_V1.md"
+      - "{PROJ}_CAP_ADS-META-YOUTUBE_V1.md"
+
+  - id: antecipacao
+    name: "Indoctrinacao Pre-Imersao"
+    duration: "1-2 semanas"
+    description: "Lembretes + conteudos de aquecimento + inscricao no grupo"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: antecipacao
+      - task: setup-automations
+        agent: salazar
+        scope: antecipacao
+
+  - id: producao-evento
+    name: "Producao do Evento"
+    duration: "Paralelo a captacao"
+    tasks:
+      - task: criar-script-evento
+        agent: pitchinho
+        description: "Run of show completo + scripts por bloco"
+      - task: create-creatives
+        agent: slides-creator
+        scope: evento
+        description: "Slides das aulas + slides do pitch final"
+      - task: create-creatives
+        agent: picasso
+        scope: evento
+        description: "Visual do palco + materiais impressos"
+    deliverables:
+      - "{PROJ}_PRD_SCR_RUN-OF-SHOW_V1.md"
+      - "{PROJ}_PRD_CRT_SLIDES-AULAS_V1.pdf"
+      - "{PROJ}_PRD_CRT_SLIDES-PITCH_V1.pdf"
+
+  - id: evento
+    name: "Imersao ao Vivo"
+    duration: "1-5 dias"
+    description: |
+      Execucao do run of show. Cada aula entrega conteudo + seeding da oferta.
+      Pitch final (ultimo dia) + janela de venda + mesa de fechamento.
+    tasks:
+      - task: criar-seeding
+        agent: pitchinho
+        description: "Seeding distribuido em cada aula"
+
+  - id: vendas
+    name: "Mesa de Vendas + Follow-up"
+    duration: "3-7 dias"
+    tasks:
+      - task: close-sales
+        agent: andreza
+        description: "Mesa de vendas pos-pitch + 1-1 com interessados"
+      - task: write-copy
+        agent: claudinho
+        scope: follow-up
+        description: "Emails de follow-up + ultima chance"
+    deliverables:
+      - "{PROJ}_VND_SCR_MESA-DE-VENDAS_V1.md"
+      - "{PROJ}_VND_EML_FOLLOWUP-POS-IMERSAO_V1.md"
+
+  - id: pos-venda
+    name: "Onboarding dos Novos Clientes"
+    duration: "Continuo"
+    tasks:
+      - task: onboard-client
+        agent: carla
+      - task: analyze-metrics
+        agent: metrics
+
+gates:
+  - name: "Engenharia reversa aprovada"
+    before: captacao
+    check: "Narrativa dos dias leva inevitavelmente ao pitch sem forcar"
+  - name: "Pitch ensaiado"
+    before: evento
+    check: "Pitch ensaiado no minimo 3x com cronometro"
+  - name: "Mesa de vendas briefada"
+    before: evento
+    check: "Closers conhecem objecoes + scripts de quebra"
+
+success_metrics:
+  show_rate: "> 80% (pagou, apareceu)"
+  pitch_to_mesa: "> 40% (assistiu, foi pra mesa)"
+  mesa_to_venda: "> 60%"
+  imersao_to_highticket: "25-45%"
+  roas_combinado: "> 5x (contando imersao + upsell)"

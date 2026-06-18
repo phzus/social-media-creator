@@ -1,0 +1,130 @@
+# A/B Test & Funnel Analysis — Arsenal do @metrics
+# Framework de hipótese + análise de drop-off + benchmarks
+# Uso: @metrics — referência para otimização data-driven
+
+ab_testing:
+  core_principle: "Todo teste PRECISA de uma hipótese ESCRITA antes de começar. Se não consegue declarar o que espera e por quê, está adivinhando, não testando."
+
+  hypothesis_framework:
+    template: "Se nós [mudança], então [métrica] vai [melhorar/aumentar/diminuir] porque [razão baseada em insight de comportamento]."
+    example: "Se mudarmos o texto do CTA de 'Saiba Mais' para 'Começar Agora', o CTR vai aumentar 15% porque define uma expectativa mais clara do próximo passo."
+
+  test_design:
+    elements:
+      control_a: "Versão atual — descrever especificamente"
+      variant_b: "Versão alterada — com UMA diferença clara"
+      rule: "Testar apenas UMA variável por vez. Múltiplas mudanças = impossível saber o que causou a diferença."
+
+    what_to_test:
+      high_impact:
+        - "Headlines da landing page (maior impacto)"
+        - "Texto do CTA (botão)"
+        - "Oferta/preço"
+        - "Subject line de email"
+        - "Hook dos primeiros 3 segundos (vídeo)"
+        - "Imagem principal vs vídeo"
+      medium_impact:
+        - "Cor do botão CTA"
+        - "Tamanho do formulário (campos)"
+        - "Posição da prova social"
+        - "Formato de depoimento (texto vs vídeo)"
+      low_impact:
+        - "Fonte tipográfica"
+        - "Espaçamento"
+        - "Ícones decorativos"
+
+  sample_size:
+    rule: "NUNCA concluir antes de atingir significância estatística"
+    guidelines:
+      - "Mínimo 100 conversões por variante antes de decidir"
+      - "Mínimo 1 semana (cobrir todos os dias)"
+      - "95% de confiança como padrão"
+    quick_calc: |
+      Se conversão atual = 3% e quer detectar melhoria de 20% relativa:
+      → Precisa de ~4.000 visitantes por variante
+      → A 500 visitantes/dia = 16 dias de teste
+
+  reporting:
+    template: |
+      ## Resultado do Teste A/B
+
+      **Hipótese:** [hipótese original]
+      **Duração:** [período]
+      **Amostra:** [N por variante]
+
+      | Variante | Métrica | Resultado | Confiança |
+      |----------|---------|-----------|-----------|
+      | Control (A) | [métrica] | [valor] | — |
+      | Variant (B) | [métrica] | [valor] | [%] |
+
+      **Vencedor:** [A ou B]
+      **Uplift:** [%]
+      **Decisão:** [Implementar / Continuar testando / Inconcluso]
+      **Próximo teste:** [o que testar em seguida]
+
+funnel_analysis:
+  core_principle: "Conserte o MAIOR vazamento primeiro. Uma melhoria de 10% no pior ponto de drop-off supera uma melhoria de 50% em um step que já converte bem."
+
+  funnel_mapping:
+    per_stage:
+      - "Volume (números absolutos)"
+      - "Taxa de conversão entre stages"
+      - "Taxa de drop-off (inverso da conversão)"
+      - "Conversão cumulativa do topo ao fundo"
+
+  diagnosis_framework:
+    step_1: "Mapear todas as stages com dados reais"
+    step_2: "Calcular drop-off em cada transição"
+    step_3: "Comparar com benchmarks do nicho"
+    step_4: "Identificar o MAIOR gap vs benchmark"
+    step_5: "Priorizar: consertar o maior vazamento primeiro"
+    step_6: "Definir meta realista de melhoria"
+    step_7: "Propor ação específica + teste A/B"
+
+  benchmarks_por_stage:
+    awareness_to_click:
+      benchmark: "1-3% CTR"
+      if_below: "Criativo/copy não está parando o scroll → testar novos hooks"
+    click_to_landing:
+      benchmark: "70-90% (landing rate)"
+      if_below: "Página muito lenta ou mobile-broken → otimizar velocidade"
+    landing_to_lead:
+      benchmark: "25-45% (captura)"
+      if_below: "Oferta fraca ou formulário longo → simplificar + testar headline"
+    lead_to_sales_page:
+      benchmark: "15-30% (email → click)"
+      if_below: "Subject lines fracas ou nurture inadequado → testar sequência"
+    sales_page_to_checkout:
+      benchmark: "3-8% (vendas)"
+      if_below: "Oferta, copy ou preço — testar headline + CTA + garantia"
+    checkout_to_purchase:
+      benchmark: "50-70% (checkout completion)"
+      if_below: "Fricção no checkout → simplificar, adicionar selos de segurança"
+    purchase_to_upsell:
+      benchmark: "20-40% (order bump), 10-25% (upsell)"
+      if_below: "Oferta de upsell fraca → testar preço e relevância"
+
+  funnel_math:
+    template: |
+      ## Projeção de Funil
+
+      [N] visitantes/mês
+      × [X]% opt-in = [N] leads
+      × [X]% conversão = [N] vendas
+      × R$[valor] = R$[receita]
+      × [X]% order bump (R$[valor]) = R$[extra]
+      × [X]% upsell (R$[valor]) = R$[extra]
+
+      Receita mensal: R$[total]
+      Receita por lead: R$[total/leads]
+      CPL breakeven: R$[receita por lead]
+    rule: "Se os números não funcionam no papel, não vão funcionar na prática. RODAR as projeções ANTES de lançar."
+
+  optimization_priority:
+    order:
+      - "1. Consertar o stage com menor conversão vs benchmark"
+      - "2. Testar headlines das landing pages (maior impacto)"
+      - "3. Otimizar engajamento da sequência de emails"
+      - "4. Testar ofertas de upsell/downsell"
+      - "5. Escalar tráfego SOMENTE após funil otimizado"
+    anti_pattern: "NUNCA escalar tráfego antes de consertar conversão. Mandar mais tráfego pra funil quebrado = desperdiçar dinheiro."

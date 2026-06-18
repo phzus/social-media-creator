@@ -1,0 +1,135 @@
+# Workflow: Workshop Pago (1-3 aulas)
+# Timeline: 1-2 semanas | Ticket: R$97-997
+# Referencia: Jeff Walker (PLF mini), Russell Brunson (One-Time Event)
+
+name: workshop
+description: "Workshop pago de 1-3 aulas com oferta de upsell pra produto principal"
+type: evento
+framework: walker-plf
+estimated_duration: "1-2 semanas"
+ticket_range: "R$97-997 (workshop) + upsell R$497-5K"
+conversion_target: "registros 25-45% | workshop->upsell 15-35%"
+
+variants:
+  - workshop_1_dia: "Workshop de 1 dia intensivo"
+  - workshop_3_dias: "Workshop de 3 dias (Jeff Walker style)"
+  - workshop_weekend: "Workshop de fim de semana (sex-sab-dom)"
+
+squad:
+  core:
+    - theboss
+    - claudinho    # Copy de captacao + script workshop + emails
+    - picasso      # Slides + criativos
+    - pixel        # Landing + checkout
+    - cadu         # Trafego pago
+    - slides-creator  # Slides de alto impacto pra aulas
+  support:
+    - salazar      # Entrega do workshop + automacoes
+    - pitchinho    # Pitch ao vivo do upsell (ultima aula)
+    - metrics
+
+phases:
+
+  - id: preparacao
+    name: "Estrategia + Oferta do Workshop"
+    duration: "2-3 dias"
+    tasks:
+      - task: onboarding-expert
+        agent: theboss
+      - task: structure-offer
+        agent: theboss
+        description: "Oferta de entrada (workshop) + oferta principal (upsell)"
+    deliverables:
+      - "{PROJ}_BRF_WORKSHOP-ESTRATEGIA_V1.md"
+      - "{PROJ}_BRF_OFERTA-WORKSHOP-UPSELL_V1.md"
+
+  - id: captacao
+    name: "Paginas de Venda + Registro"
+    duration: "2-4 dias"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: captacao
+        description: "Copy da landing do workshop + checkout"
+      - task: build-pages
+        agent: pixel
+        scope: captacao
+        description: "Landing + checkout + area do aluno temporaria"
+      - task: create-creatives
+        agent: picasso
+        scope: captacao
+        description: "Criativos para ads"
+      - task: plan-traffic
+        agent: cadu
+        description: "Campanha pra registro pago"
+    deliverables:
+      - "{PROJ}_CAP_PGN_LANDING-WORKSHOP_V1.md"
+      - "{PROJ}_CAP_PGN_CHECKOUT_V1.md"
+
+  - id: preparacao_aulas
+    name: "Producao das Aulas"
+    duration: "3-5 dias"
+    description: |
+      1-3 aulas + pitch ao vivo no final. Estrutura de cada aula:
+      entrega real + cliffhanger pra proxima + seeding do produto principal.
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: aulas
+        description: "Scripts de cada aula + seeding"
+      - task: create-creatives
+        agent: slides-creator
+        scope: aulas
+        description: "Slides de alto impacto (40-80 por aula)"
+      - task: criar-pitch
+        agent: pitchinho
+        description: "Pitch ao vivo do upsell na ultima aula"
+    deliverables:
+      - "{PROJ}_AUL_SCR_AULA-01_V1.md"
+      - "{PROJ}_AUL_SCR_AULA-02_V1.md"
+      - "{PROJ}_AUL_SCR_AULA-03_V1.md"
+      - "{PROJ}_AUL_CRT_SLIDES-TODAS-AULAS_V1.pdf"
+      - "{PROJ}_AUL_SCR_PITCH-UPSELL_V1.md"
+
+  - id: evento
+    name: "Workshop (1-3 dias)"
+    duration: "1-3 dias"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: evento
+        description: "Emails de lembrete + replay + urgencia do upsell"
+      - task: setup-automations
+        agent: salazar
+        scope: evento
+
+  - id: pos-workshop
+    name: "Upsell + Follow-up"
+    duration: "3-7 dias"
+    description: "Janela de oferta do produto principal pra quem fez o workshop"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: pos-workshop
+        description: "Emails de follow-up + urgencia"
+      - task: build-pages
+        agent: pixel
+        scope: pos-workshop
+        description: "Pagina de upsell + checkout high-ticket"
+    deliverables:
+      - "{PROJ}_PWK_EML_FOLLOWUP-01-A-05_V1.md"
+      - "{PROJ}_PWK_PGN_UPSELL-PRINCIPAL_V1.md"
+
+gates:
+  - name: "Workshop entrega valor real"
+    before: evento
+    check: "Cada aula sozinha vale o preco do workshop"
+  - name: "Pitch do upsell ancorado"
+    before: evento
+    check: "Ancoragem de preco + stack de bonus + garantia validados"
+
+success_metrics:
+  cpl: "< 30% do ticket do workshop"
+  workshop_show_rate: "> 60% (pagou, apareceu)"
+  upsell_conversion: "15-35%"
+  ltv_por_workshop_taker: "3-8x o ticket do workshop"

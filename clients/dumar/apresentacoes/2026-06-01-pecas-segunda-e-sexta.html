@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Peças da Quinzena · Dumar · 01 e 05 de Junho 2026 · Lone Mídia</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  @page { size: A4; margin: 0; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body {
+    font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    background: #e8e8e8;
+    color: #1a1a1a;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+    font-feature-settings: "ss01", "cv11";
+  }
+  .page {
+    width: 210mm;
+    height: 297mm;
+    position: relative;
+    page-break-after: always;
+    background: #ffffff;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    margin: 16px auto;
+    box-shadow: 0 4px 28px rgba(0,0,0,0.10);
+  }
+  .page:last-child { page-break-after: auto; }
+  @media print {
+    body { background: #fff; }
+    .page { margin: 0; box-shadow: none; }
+  }
+
+  /* ===== HEADER ===== */
+  .top-header {
+    padding: 12mm 16mm 5mm;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 0.5mm solid #1A2DD9;
+    margin-bottom: 8mm;
+  }
+  .brand img { height: 7mm; width: auto; display: block; }
+  .header-badge {
+    background: #f4f5f7;
+    border: 0.3mm solid #d4d8e0;
+    padding: 2mm 4mm;
+    border-radius: 1.2mm;
+    font-size: 2.5mm;
+    color: #4a5060;
+    letter-spacing: 0.5px;
+  }
+  .header-badge strong { color: #0d1b3d; font-weight: 700; margin-left: 1.5mm; }
+  .header-badge .dot { margin: 0 1.5mm; color: #c0c4cc; }
+
+  /* ===== PAGE BODY ===== */
+  .page-body {
+    flex: 1;
+    padding: 0 16mm;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  /* ===== FOOTER ===== */
+  footer.page-footer {
+    padding: 4mm 16mm 6mm;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 2.4mm;
+    color: #9094a0;
+    letter-spacing: 0.3px;
+  }
+  footer.page-footer .footer-brand strong { color: #5a5e6a; font-weight: 600; }
+
+  /* ===== COVER PAGE ===== */
+  .cover-body {
+    flex: 1;
+    padding: 0 16mm 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+  .cover-kicker {
+    font-size: 2.6mm;
+    font-weight: 700;
+    color: #5a6275;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-bottom: 6mm;
+  }
+  .cover-title {
+    font-size: 28mm;
+    font-weight: 800;
+    line-height: 0.95;
+    letter-spacing: -1.5px;
+    color: #ffffff;
+    margin-bottom: 8mm;
+  }
+  .cover-title .accent { color: #d65f56; }
+  .cover-description {
+    font-size: 4mm;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #c8cfe0;
+    max-width: 145mm;
+    margin-bottom: 30mm;
+  }
+  .cover-divider {
+    height: 0.3mm;
+    background: #2a3a6e;
+    margin-bottom: 12mm;
+  }
+  .cover-metrics {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10mm;
+    margin-bottom: 14mm;
+    max-width: 160mm;
+  }
+  .cover-metric .num {
+    font-size: 18mm;
+    font-weight: 800;
+    line-height: 1;
+    color: #ffffff;
+    letter-spacing: -1px;
+    margin-bottom: 2.5mm;
+  }
+  .cover-metric .label {
+    font-size: 2.4mm;
+    font-weight: 600;
+    color: #8a92a8;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    line-height: 1.4;
+  }
+
+  .page.cover-page { background: #0d1b3d; color: #ffffff; }
+  .page.cover-page .top-header { border-bottom-color: #1A2DD9; }
+  .page.cover-page .header-badge { background: rgba(255,255,255,0.07); border-color: rgba(255,255,255,0.18); color: #c8cfe0; }
+  .page.cover-page .header-badge strong { color: #ffffff; }
+  .page.cover-page footer.page-footer { color: #5a6275; }
+  .page.cover-page footer.page-footer .footer-brand strong { color: #9aa0b4; }
+
+  /* ===== PIECE CARD ===== */
+  .pieces-stack {
+    display: flex;
+    flex-direction: column;
+    gap: 5mm;
+    flex: 1;
+  }
+  .piece {
+    display: grid;
+    grid-template-columns: 8mm 1fr;
+    border: 0.3mm solid #e3e5ec;
+    border-radius: 1.2mm;
+    overflow: hidden;
+    background: #ffffff;
+  }
+  .piece-side {
+    background: #4a7fd8;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 6mm 0;
+  }
+  .piece-side .side-label {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    font-size: 2.6mm;
+    font-weight: 800;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+  }
+  .piece.preco .piece-side { background: #c2342a; }
+
+  .piece-body { padding: 5mm 6mm; }
+  .piece-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 4mm;
+    margin-bottom: 1mm;
+  }
+  .piece-date {
+    font-size: 2.5mm;
+    font-weight: 700;
+    color: #5a6275;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    margin-bottom: 1mm;
+    display: flex;
+    align-items: center;
+    gap: 2mm;
+    flex-wrap: wrap;
+  }
+  .piece-date .pillar-tag {
+    background: #f4f5f7;
+    color: #1a1a1a;
+    padding: 0.8mm 2mm;
+    border-radius: 0.5mm;
+    font-size: 1.9mm;
+    font-weight: 800;
+    letter-spacing: 1px;
+    border-left: 1mm solid #4a7fd8;
+  }
+  .piece.preco .pillar-tag { border-left-color: #c2342a; }
+
+  .piece-title {
+    font-size: 5mm;
+    font-weight: 700;
+    color: #0d1b3d;
+    line-height: 1.15;
+    letter-spacing: -0.3px;
+  }
+  .piece-format {
+    background: #0a0a0a;
+    color: #ffffff;
+    padding: 1.5mm 2.8mm;
+    border-radius: 0.8mm;
+    font-size: 2.2mm;
+    font-weight: 700;
+    letter-spacing: 1.3px;
+    text-transform: uppercase;
+    white-space: nowrap;
+    align-self: center;
+    flex-shrink: 0;
+  }
+  .piece-divider {
+    height: 0.2mm;
+    background: #e3e5ec;
+    margin: 3mm 0 3mm;
+  }
+  .piece-block { margin-bottom: 2.8mm; }
+  .piece-block:last-child { margin-bottom: 0; }
+  .piece-block-label {
+    font-size: 2.1mm;
+    font-weight: 800;
+    color: #1A2DD9;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin-bottom: 1.2mm;
+  }
+  .piece-block-text {
+    font-size: 2.7mm;
+    line-height: 1.45;
+    color: #2a2e3a;
+  }
+  .piece-block-text + .piece-block-text { margin-top: 1.4mm; }
+  .piece-icon { color: #1A2DD9; font-size: 2.5mm; margin-right: 1mm; }
+  .piece-block-text .key { font-weight: 700; color: #0d1b3d; }
+
+  /* Headline-na-arte destacada */
+  .arte-headline {
+    background: #0d1b3d;
+    color: #ffffff;
+    padding: 3mm 4mm;
+    border-radius: 0.8mm;
+    font-size: 4mm;
+    font-weight: 700;
+    letter-spacing: -0.2px;
+    display: inline-block;
+    margin-top: 0.5mm;
+  }
+  .piece.preco .arte-headline { background: #c2342a; }
+</style>
+</head>
+<body>
+
+<!-- ============================================================ -->
+<!-- PÁGINA 1 — COVER                                              -->
+<!-- ============================================================ -->
+<section class="page cover-page">
+  <div class="top-header">
+    <div class="brand">
+      <img src="../../../shared/identidade-lone/lone-midia-logo-branco-azul.png" alt="Lone Mídia">
+    </div>
+    <div class="header-badge">CLIENTE <span class="dot">·</span><strong>DUMAR</strong></div>
+  </div>
+
+  <div class="cover-body">
+    <div class="cover-kicker">PEÇAS DA QUINZENA</div>
+    <h1 class="cover-title">01 e 05 de<br><span class="accent">Junho.</span></h1>
+    <p class="cover-description">Duas peças estáticas pra bater o recado direto: preço continua o mesmo, loja a pleno vapor, passa pra ver. Complementam o vídeo de quarta com a operação funcionando.</p>
+    <div class="cover-divider"></div>
+    <div class="cover-metrics">
+      <div class="cover-metric"><div class="num">1</div><div class="label">SEGUNDA · 01/06<br>POST DE PREÇO</div></div>
+      <div class="cover-metric"><div class="num">1</div><div class="label">SEXTA · 05/06<br>CONVITE PRESENCIAL</div></div>
+    </div>
+  </div>
+
+  <footer class="page-footer">
+    <div class="footer-brand"><strong>LONE MÍDIA</strong> · Peças da Quinzena · Dumar</div>
+    <div class="page-num">1 / 2</div>
+  </footer>
+</section>
+
+<!-- ============================================================ -->
+<!-- PÁGINA 2 — SEG 01/06 + SEX 05/06                              -->
+<!-- ============================================================ -->
+<section class="page">
+  <div class="top-header">
+    <div class="brand">
+      <img src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia">
+    </div>
+    <div class="header-badge">CLIENTE <span class="dot">·</span><strong>DUMAR</strong></div>
+  </div>
+
+  <div class="page-body">
+    <div class="pieces-stack">
+
+      <!-- SEGUNDA 01/06 — POST DE PREÇO -->
+      <div class="piece preco">
+        <div class="piece-side"><div class="side-label">P R E Ç O</div></div>
+        <div class="piece-body">
+          <div class="piece-header">
+            <div>
+              <div class="piece-date">01/06 · Segunda-feira <span class="pillar-tag">CONTINUIDADE DA REFORMA</span></div>
+              <div class="piece-title">A reforma mudou a loja. Não o preço.</div>
+            </div>
+            <div class="piece-format">POST ESTÁTICO</div>
+          </div>
+          <div class="piece-divider"></div>
+
+          <div class="piece-block">
+            <div class="piece-block-label">Formato</div>
+            <div class="piece-block-text">Estático único · 1080×1080 ou 4:5 · foto real do banco Dumar dominando a peça · identidade gráfica em segundo plano (logo discreto + rodapé fino com endereço/WhatsApp).</div>
+          </div>
+
+          <div class="piece-block">
+            <div class="piece-block-label">Estratégia</div>
+            <div class="piece-block-text">Abre a semana com <span class="key">contraste social</span> ("enquanto muita empresa usa qualquer mudança como desculpa pra aumentar preço, a Dumar fez diferente") — posiciona contra o comportamento médio do mercado e cria razão emocional pra continuar lendo. Estrutura clássica de copy de conversão: setup → reversal → lista escaneável → ponto-chave reforçado → prova social leve → CTA.</div>
+          </div>
+
+          <div class="piece-block">
+            <div class="piece-block-label">Texto na arte — 2 opções</div>
+            <div class="arte-headline">A reforma mudou a loja. Não o preço.</div>
+            <div class="piece-block-text" style="margin-top:2mm;"><span class="key">Opção B:</span> Loja nova. Preço de sempre.</div>
+          </div>
+
+          <div class="piece-block">
+            <div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">Enquanto muita empresa usa qualquer mudança como desculpa para aumentar preço, a Dumar fez diferente.</div>
+            <div class="piece-block-text">A loja está passando por melhorias.</div>
+            <div class="piece-block-text">Mais organização.<br>Mais conforto.<br>Mais praticidade para você encontrar o que precisa.</div>
+            <div class="piece-block-text">Mas uma coisa continua exatamente igual:</div>
+            <div class="piece-block-text"><span class="key">O preço.</span></div>
+            <div class="piece-block-text">Você continua encontrando a mesma variedade, o mesmo atendimento e os preços que fizeram a Dumar ser referência para tanta gente.</div>
+            <div class="piece-block-text">Passe aqui e confira pessoalmente.</div>
+            <div class="piece-block-text"><span class="piece-icon">📍</span>Félix Valadares Júnior, 135 — Centro &nbsp;·&nbsp; <span class="piece-icon">📲</span>(22) 98873-3904</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- SEXTA 05/06 — CONVITE PRESENCIAL -->
+      <div class="piece">
+        <div class="piece-side"><div class="side-label">C O N V I T E</div></div>
+        <div class="piece-body">
+          <div class="piece-header">
+            <div>
+              <div class="piece-date">05/06 · Sexta-feira <span class="pillar-tag">RETA FINAL DA OBRA</span></div>
+              <div class="piece-title">Você já viu como a Dumar está ficando?</div>
+            </div>
+            <div class="piece-format">POST ESTÁTICO</div>
+          </div>
+          <div class="piece-divider"></div>
+
+          <div class="piece-block">
+            <div class="piece-block-label">Formato</div>
+            <div class="piece-block-text">Estático único · 1080×1080 ou 4:5 · foto real com movimento (vendedor + cliente + bancada ao fundo) OU entrada/fachada com adesivagem subindo.</div>
+          </div>
+
+          <div class="piece-block">
+            <div class="piece-block-label">Estratégia</div>
+            <div class="piece-block-text">Fecha a semana com <span class="key">hook de curiosidade</span> ("quem passou já percebeu") + resolve a objeção implícita ("você não precisa esperar a obra acabar") direto, sem rodeio. Os 4 checks de garantias dão leitura rápida do "o que NÃO mudou". CTA presencial fecha sem deixar o leitor procurar o próximo passo.</div>
+          </div>
+
+          <div class="piece-block">
+            <div class="piece-block-label">Texto na arte — 2 opções</div>
+            <div class="arte-headline">Você já viu como a Dumar está ficando?</div>
+            <div class="piece-block-text" style="margin-top:2mm;"><span class="key">Opção B:</span> Vale a pena passar aqui.</div>
+          </div>
+
+          <div class="piece-block">
+            <div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">Quem passou na Dumar nos últimos dias já percebeu:</div>
+            <div class="piece-block-text">A loja está mudando.</div>
+            <div class="piece-block-text">A reforma está entrando na reta final e cada detalhe está sendo pensado para deixar sua experiência melhor.</div>
+            <div class="piece-block-text">Mas o mais importante não mudou:</div>
+            <div class="piece-block-text">✔ Atendimento de quem entende do assunto.<br>✔ Variedade de produtos.<br>✔ Preço justo.<br>✔ Loja funcionando normalmente.</div>
+            <div class="piece-block-text">Ou seja: você não precisa esperar a obra acabar.</div>
+            <div class="piece-block-text">A Dumar continua trabalhando todos os dias.</div>
+            <div class="piece-block-text">Passe aqui, veja de perto e aproveite para encontrar o que você precisa.</div>
+            <div class="piece-block-text"><span class="piece-icon">📍</span>Félix Valadares Júnior, 135 — Centro &nbsp;·&nbsp; <span class="piece-icon">📲</span>(22) 98873-3904</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <footer class="page-footer">
+    <div class="footer-brand"><strong>LONE MÍDIA</strong> · Peças da Quinzena · Dumar</div>
+    <div class="page-num">2 / 2</div>
+  </footer>
+</section>
+
+</body>
+</html>

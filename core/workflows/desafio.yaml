@@ -1,0 +1,154 @@
+# Workflow: Desafio — Challenge Funnel (Pedro Adao)
+# Timeline: 2-3 semanas (1 semana prep + 5-7 dias desafio + follow-up)
+# Ticket: R$500-5K
+# Referencia: Challenge Secrets (Pedro Adao + Russell Brunson)
+
+name: desafio
+description: "Desafio 5-7 dias — Challenge Secrets (Pedro Adao)"
+type: launch
+framework: adao-challenge
+estimated_duration: "2-3 semanas"
+ticket_range: "R$500-5K"
+conversion_target: "3-10% dos participantes"
+
+squad:
+  core:
+    - theboss    # Estrategia + framework 7 passos
+    - claudinho    # Copy (missoes, emails, pitch)
+    - picasso      # Criativos + cards de missao
+    - cadu         # Trafego para inscricao
+    - salazar      # Automacao do grupo + engajamento
+  support:
+    - pixel        # Pagina inscricao
+    - metrics      # Metricas diarias
+    - rafa         # Gestao do cronograma
+
+phases:
+
+  - id: preparacao
+    name: "Preparacao"
+    duration: "1 semana"
+    tasks:
+      - task: onboarding-expert
+        agent: theboss
+      - task: create-briefing-copy
+        agent: theboss
+      - task: structure-offer
+        agent: theboss
+        description: "Definir a Promessa do Desafio (resultado em 5-7 dias)"
+
+  - id: captacao
+    name: "Captacao para o Desafio"
+    duration: "1-2 semanas"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: captacao
+        description: "Email convite, copy LP inscricao, copy ads"
+      - task: create-creatives
+        agent: picasso
+        scope: captacao
+        description: "Criativos para ads do desafio"
+      - task: build-pages
+        agent: pixel
+        scope: captacao
+        description: "Pagina de inscricao do desafio"
+      - task: plan-traffic
+        agent: cadu
+        description: "Campanha de captacao para o desafio"
+      - task: setup-automations
+        agent: salazar
+        scope: captacao
+        description: "Formulario → grupo + email boas-vindas"
+    deliverables:
+      - "{PROJ}_CAP_EML_CONVITE-DESAFIO_V1.md"
+      - "{PROJ}_CAP_PGN_PAGINA-INSCRICAO_V1.md"
+      - "{PROJ}_CAP_ADS-META_VIDEO-DESAFIO_V1.md"
+
+  - id: antecipacao
+    name: "Pre-Desafio (Aquecimento)"
+    duration: "2-3 dias"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: antecipacao
+        description: "Boas-vindas grupo, regras, expectativa"
+      - task: setup-automations
+        agent: salazar
+        scope: antecipacao
+        description: "Mensagens automaticas no grupo (regras, contagem regressiva)"
+    deliverables:
+      - "{PROJ}_ANT_EML_BOAS-VINDAS-GRUPO_V1.md"
+      - "{PROJ}_ANT_MSG-GRP_REGRAS-DESAFIO_V1.md"
+
+  - id: evento
+    name: "Desafio (5-7 dias)"
+    duration: "5-7 dias"
+    description: |
+      Cada dia:
+      1. Live do expert (30-60 min) — conteudo + inspiracao
+      2. Missao do dia — acao pratica que gera micro resultado
+      3. Engajamento no grupo — participantes compartilham resultados
+      4. Recap + gancho pro proximo dia
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: evento
+        description: "Script de cada dia (live + missao) + mensagens grupo"
+      - task: create-creatives
+        agent: picasso
+        scope: evento
+        description: "Cards de missao diaria + materiais de apoio"
+      - task: setup-automations
+        agent: salazar
+        scope: evento
+        description: "Envio de missoes + lembretes + engajamento automatico"
+    deliverables:
+      - "{PROJ}_EVT_SCR_DIA-01-MISSAO_V1.md"
+      - "{PROJ}_EVT_SCR_DIA-02-MISSAO_V1.md"
+      - "{PROJ}_EVT_SCR_DIA-03-MISSAO_V1.md"
+      - "{PROJ}_EVT_SCR_DIA-04-MISSAO_V1.md"
+      - "{PROJ}_EVT_SCR_DIA-05-MISSAO_V1.md"
+      - "{PROJ}_EVT_MSG-GRP_MISSAO-DIA-01_V1.md"
+
+  - id: vendas
+    name: "Pitch + Vendas"
+    duration: "3-5 dias"
+    description: "Dia 5 ou 6: Pitch da oferta. Follow-up de 3-5 dias."
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: vendas
+        description: "Script do pitch + emails/mensagens de venda"
+      - task: build-pages
+        agent: pixel
+        scope: vendas
+        description: "Pagina de vendas"
+    deliverables:
+      - "{PROJ}_VND_SCR_PITCH-OFERTA_V1.md"
+      - "{PROJ}_VND_EML_OFERTA-VIP_V1.md"
+      - "{PROJ}_VND_MSG-GRP_OFERTA_V1.md"
+      - "{PROJ}_VND_PGN_PAGINA-DE-VENDAS_V1.md"
+
+  - id: pos-venda
+    name: "Pos-Venda"
+    duration: "Continuo"
+    tasks:
+      - task: onboard-client
+        agent: carla
+      - task: campaign-report
+        agent: metrics
+
+gates:
+  - name: "Minimo de inscritos"
+    before: evento
+    check: "Pelo menos 100 inscritos no desafio"
+  - name: "Engajamento dia 1"
+    after: evento.dia1
+    check: "Pelo menos 40% completaram missao do dia 1"
+
+success_metrics:
+  inscritos: ">= 100"
+  participacao_media: "> 40% completam missoes"
+  conversion: "3-10% dos participantes"
+  roas: "> 3x"

@@ -1,0 +1,118 @@
+# Workflow: Venda Interna (Ascension)
+# Timeline: Continuo | Ticket: qualquer (upsell pra base existente)
+# Referencia: Russell Brunson (Value Ladder), Todd Brown (Ascension)
+
+name: venda-interna
+description: "Campanha direcionada a base de clientes/alunos existentes pra upsell, cross-sell ou reoferta"
+type: perpetuo
+framework: brunson-value-ladder
+estimated_duration: "1-2 semanas por ciclo"
+ticket_range: "Qualquer (depende do produto upsell)"
+conversion_target: "5-20% da base ativada"
+
+variants:
+  - ascension: "Upgrade de tier (basico -> premium)"
+  - cross_sell: "Produto complementar ao ja comprado"
+  - reoferta: "Nova chance pra quem nao comprou na campanha anterior"
+  - renovacao: "Renovar assinatura/acesso vencido"
+  - unlock_bonus: "Liberar novo produto como bonus pra ativos"
+
+squad:
+  core:
+    - theboss
+    - analyzer     # Segmentacao da base + analise de comportamento
+    - claudinho    # Copy personalizada por segmento
+    - salazar      # Automacao + segmentacao
+    - metrics      # Analise de LTV + propensao
+  support:
+    - picasso      # Criativos (se precisar ads)
+    - pixel        # Pagina de oferta
+    - andreza      # Mesa de vendas (se high-ticket)
+    - carla        # Filtro de clientes ativos
+
+phases:
+
+  - id: segmentacao
+    name: "Analise + Segmentacao da Base"
+    duration: "2-3 dias"
+    description: "Separar a base por: quem comprou o que, quando, com qual ticket, quem ta engajado"
+    tasks:
+      - task: analyze-audience
+        agent: analyzer
+        description: "Segmentar base por comportamento + LTV"
+      - task: analyze-metrics
+        agent: metrics
+        description: "Identificar segmentos com maior propensao"
+    deliverables:
+      - "{PROJ}_SEG_ANALISE-DA-BASE_V1.md"
+      - "{PROJ}_SEG_SEGMENTOS-ALVO_V1.md"
+
+  - id: oferta
+    name: "Oferta Personalizada por Segmento"
+    duration: "2-3 dias"
+    tasks:
+      - task: structure-offer
+        agent: theboss
+        description: "Oferta especifica por segmento (nao generica)"
+    deliverables:
+      - "{PROJ}_OFR_POR-SEGMENTO_V1.md"
+
+  - id: copy
+    name: "Copy da Campanha Interna"
+    duration: "3-5 dias"
+    description: "Sequencia de 5-10 emails + mensagens WhatsApp + DM"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: venda-interna
+        description: "Emails + WhatsApp + DM por segmento"
+    deliverables:
+      - "{PROJ}_CPY_EML_SEQUENCIA-INTERNA_V1.md"
+      - "{PROJ}_CPY_WPP_MENSAGENS_V1.md"
+
+  - id: pagina
+    name: "Pagina de Oferta"
+    duration: "2 dias"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: pagina-oferta
+      - task: build-pages
+        agent: pixel
+        description: "Pagina simples com urgencia temporal + checkout"
+    deliverables:
+      - "{PROJ}_PGN_OFERTA-INTERNA_V1.md"
+
+  - id: disparo
+    name: "Disparo + Acompanhamento"
+    duration: "5-10 dias (janela da campanha)"
+    tasks:
+      - task: setup-automations
+        agent: salazar
+        description: "Automacao de disparo segmentado + tracking de cliques"
+      - task: analyze-metrics
+        agent: metrics
+        description: "Acompanhamento diario da campanha"
+
+  - id: mesa-de-vendas
+    name: "Fechamento 1-1 (se high-ticket)"
+    duration: "Paralelo ao disparo"
+    description: "Se a oferta for high-ticket, closer entra em contato direto"
+    tasks:
+      - task: close-sales
+        agent: andreza
+        description: "Follow-up 1-1 com quem clicou mas nao comprou"
+
+gates:
+  - name: "Base segmentada corretamente"
+    before: oferta
+    check: "Cada segmento tem < 20% de sobreposicao com outro"
+  - name: "Oferta nao generica"
+    before: disparo
+    check: "Cada segmento recebe copy + oferta especifica"
+
+success_metrics:
+  open_rate: "> 40% (base quente)"
+  click_rate: "> 8%"
+  conversion_da_base: "5-20%"
+  roas_interno: "> 10x (trafego organico + CRM = praticamente grátis)"

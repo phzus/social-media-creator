@@ -1,0 +1,167 @@
+# Workflow: Servicos (Freelancer / Agencia)
+# Timeline: Continuo | Ticket: R$500-100K+/projeto
+# Referencia: Alex Hormozi (100M Offers), Blair Enns (Win Without Pitching)
+
+name: servicos
+description: "Funil de aquisicao de clientes pra prestacao de servicos (freelancer, agencia, consultoria)"
+type: servicos
+framework: hormozi-grand-slam + blair-enns
+estimated_duration: "Continuo"
+ticket_range: "R$500-100K+/projeto"
+conversion_target: "lead->proposta 30% | proposta->fechamento 40-60%"
+
+variants:
+  - freelancer: "Freelancer solo (R$500-10K/projeto)"
+  - agencia: "Agencia estruturada (R$5K-100K+/projeto)"
+  - consultoria: "Consultoria especializada (R$3K-50K/projeto)"
+  - retainer: "Retainer mensal recorrente"
+
+squad:
+  core:
+    - theboss
+    - claudinho    # Copy de posicionamento + propostas + emails
+    - pixel        # Site/portfolio + landing
+    - cadu         # Trafego (se escalar)
+    - andreza      # Reuniao de diagnostico + fechamento
+    - rafa         # Proposta + contrato + onboarding
+  support:
+    - picasso      # Brandbook do prestador + portfolio visual
+    - laurinha     # LinkedIn + social como canal de autoridade
+    - metrics
+
+phases:
+
+  - id: posicionamento
+    name: "Posicionamento + Nicho"
+    duration: "3-5 dias"
+    description: |
+      Parte que a maioria pula. Precisa responder: EXATAMENTE quem e o cliente ideal,
+      qual problema especifico resolve, qual resultado entrega, qual mecanismo unico
+      usa. Sem isso, cai na guerra de precos.
+    tasks:
+      - task: analyze-audience
+        agent: analyzer
+        description: "Nicho + sub-nicho + ICP"
+      - task: structure-offer
+        agent: theboss
+        description: "Oferta de servico Grand Slam (Hormozi)"
+    deliverables:
+      - "{PROJ}_POS_ICP_V1.md"
+      - "{PROJ}_POS_OFERTA-SERVICO_V1.md"
+
+  - id: autoridade
+    name: "Construcao de Autoridade"
+    duration: "2-4 semanas (ongoing)"
+    description: |
+      Canal organico que atrai o ICP. Mais trabalhoso mas traz lead quente.
+      LinkedIn + portfolio + cases + conteudo tecnico.
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: autoridade
+        description: "Perfil LinkedIn + bio + 10-20 posts de autoridade"
+      - task: build-pages
+        agent: pixel
+        scope: portfolio
+        description: "Site/portfolio simples com cases + depoimentos"
+      - task: write-copy
+        agent: laurinha
+        scope: social
+        description: "Calendario de conteudo LinkedIn/Instagram"
+    deliverables:
+      - "{PROJ}_AUT_PERFIL-LINKEDIN_V1.md"
+      - "{PROJ}_AUT_PORTFOLIO-SITE_V1.md"
+      - "{PROJ}_AUT_CASES-DE-SUCESSO_V1.md"
+
+  - id: captacao
+    name: "Canais de Captacao"
+    duration: "Continuo"
+    description: |
+      3 canais: organico (conteudo), indicacao (clientes satisfeitos),
+      outbound (prospeccao ativa no LinkedIn).
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: outbound
+        description: "Scripts de cold outbound (LinkedIn DM + email)"
+      - task: plan-traffic
+        agent: cadu
+        description: "Meta/LinkedIn Ads (opcional, se escalar)"
+    deliverables:
+      - "{PROJ}_CAP_DM_LINKEDIN-OUTBOUND_V1.md"
+      - "{PROJ}_CAP_EML_COLD-EMAIL_V1.md"
+
+  - id: diagnostico
+    name: "Reuniao de Diagnostico"
+    duration: "Continuo"
+    description: |
+      Call 30-45min: entender necessidade do cliente + validar fit + nao
+      vender nada ainda. Posicao de consultor, nao de vendedor.
+    tasks:
+      - task: close-sales
+        agent: andreza
+        scope: diagnostico
+        description: "Script de reuniao de diagnostico (Blair Enns)"
+    deliverables:
+      - "{PROJ}_DIA_SCR_REUNIAO-DIAGNOSTICO_V1.md"
+      - "{PROJ}_DIA_PERGUNTAS-CHAVE_V1.md"
+
+  - id: proposta
+    name: "Proposta Comercial"
+    duration: "2-5 dias pos-diagnostico"
+    description: |
+      Proposta escrita com escopo + entregaveis + investimento + garantia
+      + prova social. NAO enviar em PDF frio - apresentar ao vivo sempre.
+    tasks:
+      - task: create-proposal
+        agent: rafa
+        description: "Proposta comercial estruturada"
+      - task: write-copy
+        agent: claudinho
+        scope: proposta
+        description: "Copy da proposta (problema -> solucao -> investimento)"
+    deliverables:
+      - "{PROJ}_PRP_PROPOSTA-COMERCIAL_V1.md"
+      - "{PROJ}_PRP_ESCOPO-DE-TRABALHO_V1.md"
+
+  - id: fechamento
+    name: "Apresentacao + Fechamento"
+    duration: "Continuo"
+    description: "Apresentar proposta ao vivo + quebrar objecoes + fechar contrato"
+    tasks:
+      - task: close-sales
+        agent: andreza
+        scope: fechamento
+    deliverables:
+      - "{PROJ}_FEC_SCR_APRESENTACAO-PROPOSTA_V1.md"
+      - "{PROJ}_FEC_CONTRATO-TEMPLATE_V1.md"
+
+  - id: onboarding
+    name: "Onboarding do Cliente"
+    duration: "1-2 semanas apos venda"
+    description: "Kickoff + briefing + acessos + cronograma + squad de entrega"
+    tasks:
+      - task: onboard-client
+        agent: rafa
+        description: "Kickoff + briefing + acessos + cronograma"
+    deliverables:
+      - "{PROJ}_ONB_KICKOFF-DECK_V1.md"
+      - "{PROJ}_ONB_CRONOGRAMA-ENTREGA_V1.md"
+
+gates:
+  - name: "Posicionamento claro"
+    before: autoridade
+    check: "ICP definido + oferta Grand Slam + nicho especifico"
+  - name: "Autoridade minima"
+    before: captacao
+    check: "3+ cases escritos + portfolio online + perfil LinkedIn otimizado"
+  - name: "Diagnostico antes de proposta"
+    before: proposta
+    check: "Nunca enviar proposta sem reuniao de diagnostico"
+
+success_metrics:
+  meeting_to_proposal: "> 30%"
+  proposal_to_close: "40-60%"
+  tempo_medio_lead_ate_cliente: "< 30 dias"
+  ticket_medio: "Subir 20-40% a cada trimestre"
+  retention_retainer: "> 6 meses (se aplicavel)"

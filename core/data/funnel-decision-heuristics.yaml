@@ -1,0 +1,275 @@
+# Funnel Decision Heuristics — Qual Funil Escolher?
+# Uso: @theboss — decision tree para seleção de tipo de funil
+# Complementa: core/frameworks/funnel-decision-table.md
+# Atualizado: v3.1 — 20 funis (integração squad-funis)
+
+# ══════════════════════════════════════════════════════════════
+# CATEGORIAS DE FUNIS (6 categorias, 20 funis)
+# ══════════════════════════════════════════════════════════════
+
+categorias:
+  captacao_entrada:
+    nome: "Captação e Entrada"
+    funis:
+      - id: isca-gratuita
+        ticket: "Gratuito"
+        timeline: "Contínuo"
+        workflow: "isca-gratuita.yaml"
+        descricao: "Lead magnet. Ebook, checklist, template ou aula gratuita para captura de leads qualificados."
+        quando_usar: "Precisa construir lista de leads antes de vender"
+      - id: quiz
+        ticket: "Qualquer"
+        timeline: "Contínuo"
+        workflow: "quiz.yaml"
+        descricao: "Quiz interativo que segmenta leads por perfil e direciona para a oferta certa."
+        quando_usar: "Tem multiplos produtos/ofertas e precisa segmentar leads automaticamente"
+      - id: low-ticket
+        ticket: "R$7-197"
+        timeline: "Contínuo"
+        workflow: "low-ticket.yaml"
+        descricao: "Tripwire ou SLO que paga o tráfego e transforma leads em compradores."
+        quando_usar: "Quer cobrir custo de ads e criar base de compradores"
+
+  lancamento:
+    nome: "Lançamento"
+    funis:
+      - id: lancamento-pago
+        ticket: "R$497-5K"
+        timeline: "4-8 semanas"
+        workflow: "lancamento-classico.yaml"
+        descricao: "PLF clássico alimentado por tráfego pago. CPLs + abertura de carrinho com deadline."
+        quando_usar: "Expert tem audiência >10K e budget >R$3K para tráfego"
+      - id: lancamento-gratuito
+        ticket: "R$497-5K"
+        timeline: "2-3 semanas"
+        workflow: "lancamento-gratuito.yaml"
+        descricao: "PLF com CPLs gratuitos, sequência de nutrição e abertura de carrinho."
+        quando_usar: "Expert tem audiência >5K mas budget limitado para tráfego"
+      - id: lancamento-semente
+        ticket: "R$200-2K"
+        timeline: "3-7 semanas"
+        workflow: "lancamento-semente.yaml"
+        descricao: "Seed Launch. Valida oferta com grupo pequeno antes de escalar."
+        quando_usar: "Expert começando do zero ou validando novo produto"
+      - id: lancamento-meteorico
+        ticket: "R$200-2K"
+        timeline: "3-7 dias"
+        workflow: "lancamento-meteorico.yaml"
+        descricao: "Grupos de WhatsApp com antecipação, pertencimento e escassez. Conversão até 30%."
+        quando_usar: "Tem lista WhatsApp ativa e quer velocidade máxima"
+
+  eventos_experiencias:
+    nome: "Eventos e Experiências"
+    funis:
+      - id: webinar
+        ticket: "R$297-5K"
+        timeline: "1-2 semanas"
+        workflow: "webinar.yaml"
+        descricao: "Aula ao vivo ou gravada com pitch estruturado. Ao vivo ou evergreen."
+        quando_usar: "Precisa construir autoridade rápido + vender em uma única apresentação"
+      - id: workshop
+        ticket: "R$97-997"
+        timeline: "1-2 semanas"
+        workflow: "workshop.yaml"
+        descricao: "Evento prático de 2-4 horas. Participante sai com resultado feito."
+        quando_usar: "Produto permite resultado rápido demonstrável"
+      - id: desafio-pago
+        ticket: "R$47-497"
+        timeline: "2-3 semanas"
+        workflow: "desafio.yaml"
+        descricao: "Challenge de 5-14 dias com transformação real e oferta no final."
+        quando_usar: "Expert quer engajamento alto + comunidade + oferta no fim"
+      - id: imersao-paga
+        ticket: "R$297-10K"
+        timeline: "2-5 dias"
+        workflow: "imersao-paga.yaml"
+        descricao: "Evento intensivo pago de 2-5 dias com oferta high ticket no encerramento."
+        quando_usar: "Expert tem autoridade e quer oferta premium no final de evento intenso"
+      - id: evento-presencial
+        ticket: "R$1K-50K+"
+        timeline: "6-8 semanas"
+        workflow: "evento-presencial.yaml"
+        descricao: "Evento ao vivo com oferta no palco. Maior taxa de conversão que existe."
+        quando_usar: "Expert tem capacidade logística + quer conversão máxima com oferta no palco"
+
+  automatizado_perpetuo:
+    nome: "Automatizado e Perpétuo"
+    funis:
+      - id: perpetuo
+        ticket: "R$47-2K"
+        timeline: "Contínuo"
+        workflow: "funil-perpetuo.yaml"
+        descricao: "Funil evergreen automatizado. Vende 24/7/365."
+        quando_usar: "Produto já validado + quer receita previsível sem lançamentos"
+      - id: venda-interna
+        ticket: "Qualquer"
+        timeline: "Contínuo"
+        workflow: "venda-interna.yaml"
+        descricao: "Maximiza ticket médio com upsell, downsell, order bump e cross-sell."
+        quando_usar: "Já tem funil rodando e quer aumentar LTV de cada comprador"
+      - id: campanha-rapida
+        ticket: "R$200-2K"
+        timeline: "1-3 dias"
+        workflow: "campanha-rapida.yaml"
+        descricao: "Promoção rápida, flash sale ou bônus especial."
+        quando_usar: "Quer gerar receita rápida com base existente"
+
+  high_ticket_premium:
+    nome: "High Ticket e Premium"
+    funis:
+      - id: aplicacao
+        ticket: "R$3K-100K+"
+        timeline: "1-2 semanas"
+        workflow: "aplicacao.yaml"
+        descricao: "Formulário de qualificação. O cliente se aplica para comprar. Inversão de poder."
+        quando_usar: "Oferta premium onde o prospect precisa provar que é qualificado"
+      - id: sessao-estrategica
+        ticket: "R$2K-30K+"
+        timeline: "1-2 semanas"
+        workflow: "sessao-estrategica.yaml"
+        descricao: "Call gratuita de diagnóstico com fechamento consultivo para ofertas premium."
+        quando_usar: "Tem time comercial (SDR + Closer) e oferta personalizada"
+      - id: sala-secreta
+        ticket: "R$2K-50K+"
+        timeline: "1-2 semanas"
+        workflow: "sala-secreta.yaml"
+        descricao: "Ambiente exclusivo por convite. Escassez real, curadoria e oferta premium."
+        quando_usar: "Quer exclusividade máxima com curadoria de clientes VIP"
+      - id: high-ticket-generico
+        ticket: "R$3K-50K+"
+        timeline: "1-2 semanas"
+        workflow: "high-ticket.yaml"
+        descricao: "Aplicação + Call obrigatório. Nunca vender via página para este ticket."
+        quando_usar: "Oferta >R$3K sem modelo específico — usar como base"
+
+  servicos:
+    nome: "Serviços"
+    funis:
+      - id: servicos
+        ticket: "R$500-20K+"
+        timeline: "1-3 semanas"
+        workflow: "servicos.yaml"
+        descricao: "Funil para freelancers, agências e consultores. Portfólio, proposta e fechamento."
+        quando_usar: "Expert vende serviço (não produto digital) e precisa de pipeline"
+
+# ══════════════════════════════════════════════════════════════
+# DECISION TREE
+# ══════════════════════════════════════════════════════════════
+
+decision_tree:
+  question_1:
+    text: "Qual é o objetivo principal?"
+    options:
+      "Captar leads (lista/audiência)":
+        goto: question_captacao
+      "Vender produto digital":
+        goto: question_ticket
+      "Vender serviço/consultoria":
+        funil: "servicos"
+        workflow: "servicos.yaml"
+      "Aumentar ticket médio de compradores existentes":
+        funil: "venda-interna"
+        workflow: "venda-interna.yaml"
+
+  question_captacao:
+    text: "Qual formato de captação?"
+    options:
+      "Material gratuito (ebook, checklist, aula)":
+        funil: "isca-gratuita"
+        workflow: "isca-gratuita.yaml"
+      "Quiz interativo para segmentação":
+        funil: "quiz"
+        workflow: "quiz.yaml"
+      "Produto barato que paga o tráfego":
+        funil: "low-ticket"
+        workflow: "low-ticket.yaml"
+
+  question_ticket:
+    text: "Qual é o ticket do produto?"
+    options:
+      "R$7-197 (low ticket)":
+        funil: "low-ticket"
+        workflow: "low-ticket.yaml"
+      "R$200-2K (mid ticket)":
+        goto: question_mid
+      "R$2K-5K (high mid)":
+        goto: question_high_mid
+      "R$5K+ (high ticket)":
+        goto: question_high
+
+  question_mid:
+    text: "O expert já tem audiência?"
+    options:
+      "Sim (>5K seguidores / >1K emails)":
+        goto: question_mid_audience
+      "Não (começando do zero)":
+        funil: "lancamento-semente"
+        workflow: "lancamento-semente.yaml"
+
+  question_mid_audience:
+    text: "Qual formato prefere?"
+    options:
+      "Lançamento com CPLs (3 aulas)":
+        goto: question_budget_lancamento
+      "WhatsApp-first (rápido, 3-7 dias)":
+        funil: "lancamento-meteorico"
+        workflow: "lancamento-meteorico.yaml"
+      "Desafio interativo (5-14 dias)":
+        funil: "desafio-pago"
+        workflow: "desafio.yaml"
+      "Workshop prático (2-4 horas)":
+        funil: "workshop"
+        workflow: "workshop.yaml"
+      "Funil automático 24/7":
+        funil: "perpetuo"
+        workflow: "funil-perpetuo.yaml"
+      "Promoção rápida (1-3 dias)":
+        funil: "campanha-rapida"
+        workflow: "campanha-rapida.yaml"
+
+  question_budget_lancamento:
+    text: "Tem budget para tráfego pago?"
+    options:
+      "Sim (>R$3K)":
+        funil: "lancamento-pago"
+        workflow: "lancamento-classico.yaml"
+      "Não (orgânico apenas)":
+        funil: "lancamento-gratuito"
+        workflow: "lancamento-gratuito.yaml"
+
+  question_high_mid:
+    text: "Qual formato prefere?"
+    options:
+      "Webinar (uma apresentação)":
+        funil: "webinar"
+        workflow: "webinar.yaml"
+      "Imersão paga (2-5 dias intensivos)":
+        funil: "imersao-paga"
+        workflow: "imersao-paga.yaml"
+      "Lançamento com CPLs":
+        goto: question_budget_lancamento
+      "Sessão estratégica (call 1:1)":
+        funil: "sessao-estrategica"
+        workflow: "sessao-estrategica.yaml"
+      "Sala secreta (VIP por convite)":
+        funil: "sala-secreta"
+        workflow: "sala-secreta.yaml"
+
+  question_high:
+    text: "Qual modelo de venda?"
+    options:
+      "Formulário de aplicação":
+        funil: "aplicacao"
+        workflow: "aplicacao.yaml"
+      "Call de diagnóstico (SDR + Closer)":
+        funil: "sessao-estrategica"
+        workflow: "sessao-estrategica.yaml"
+      "Evento presencial com oferta no palco":
+        funil: "evento-presencial"
+        workflow: "evento-presencial.yaml"
+      "Sala secreta (VIP por convite)":
+        funil: "sala-secreta"
+        workflow: "sala-secreta.yaml"
+      "Imersão paga com oferta high ticket":
+        funil: "imersao-paga"
+        workflow: "imersao-paga.yaml"

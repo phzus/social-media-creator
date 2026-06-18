@@ -1,0 +1,167 @@
+# Workflow: Evento Presencial — Seminario, Workshop, Imersao
+# Timeline: 6-8 semanas
+# Ticket: R$5K-50K+
+# Referencia: Live Events (seminarios, workshops, masterminds, imersoes)
+
+name: evento-presencial
+description: "Evento Presencial — Seminario, Workshop ou Imersao"
+type: launch
+framework: custom
+estimated_duration: "6-8 semanas"
+ticket_range: "R$5K-50K+"
+conversion_target: "5-60% (varia por tipo)"
+
+# Tipos e taxas de conversao:
+# Seminario gratuito: 5-10%
+# Workshop pago: 15-25%
+# Mastermind: 30-50%
+# Imersao VIP: 40-60%
+
+squad:
+  core:
+    - theboss    # Estrategia + roteiro
+    - claudinho    # Copy (convites, emails, roteiro palco, pitch)
+    - picasso      # Materiais visuais + slides
+    - cadu         # Trafego para inscricao
+    - andreza      # Fechamento ao vivo
+    - rafa         # Logistica e gestao
+  support:
+    - pixel        # Pagina inscricao
+    - salazar      # Automacoes
+    - danilo       # Qualificacao (se necessario)
+    - metrics      # Metricas
+    - carla        # CS pos-evento
+
+phases:
+
+  - id: preparacao
+    name: "Preparacao"
+    duration: "2 semanas"
+    tasks:
+      - task: onboarding-expert
+        agent: theboss
+      - task: create-briefing-copy
+        agent: theboss
+      - task: structure-offer
+        agent: theboss
+        description: "Oferta de palco (apresentada no evento)"
+
+  - id: captacao
+    name: "Captacao"
+    duration: "4-6 semanas"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: captacao
+        description: "Copy convite + LP + ads + emails"
+      - task: build-pages
+        agent: pixel
+        scope: captacao
+        description: "Pagina de inscricao do evento"
+      - task: create-creatives
+        agent: picasso
+        scope: captacao
+        description: "Criativos para ads"
+      - task: plan-traffic
+        agent: cadu
+    deliverables:
+      - "{PROJ}_CAP_PGN_PAGINA-INSCRICAO_V1.md"
+      - "{PROJ}_CAP_EML_CONVITE-EVENTO_V1.md"
+      - "{PROJ}_CAP_ADS-META_VIDEO-EVENTO_V1.md"
+
+  - id: antecipacao
+    name: "Antecipacao + Logistica"
+    duration: "2-3 semanas"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: antecipacao
+        description: "Emails confirmacao, logistica, lembretes"
+      - task: setup-automations
+        agent: salazar
+        scope: antecipacao
+        description: "Sequencia automatica pre-evento"
+    deliverables:
+      - "{PROJ}_ANT_EML_CONFIRMACAO-PRESENCA_V1.md"
+      - "{PROJ}_ANT_EML_LOGISTICA_V1.md"
+      - "{PROJ}_ANT_EML_LEMBRETE-EVENTO_V1.md"
+
+  - id: pre-evento
+    name: "Pre-Evento (logistica)"
+    duration: "1 semana"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: pre-evento
+        description: "Ultimo lembrete + instrucoes"
+      # Logistica: @rafa coordena local, equipamentos, materiais
+
+  - id: evento
+    name: "Evento (1-3 dias)"
+    duration: "1-3 dias"
+    description: |
+      Estrutura tipica:
+      Dia 1: Conteudo de alto valor + conexao
+      Dia 2: Aprofundamento + transformacao
+      Dia 3: Pitch do palco + fechamento
+      (ou comprimido em 1 dia para seminarios)
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: evento
+        description: "Roteiro do palco + pitch de vendas ao vivo"
+      - task: create-creatives
+        agent: picasso
+        scope: evento
+        description: "Slides do evento + materiais impressos"
+      - task: close-sales
+        agent: andreza
+        description: "Fechamento ao vivo (mesa de vendas)"
+    deliverables:
+      - "{PROJ}_EVT_SCR_ROTEIRO-PALCO_V1.md"
+      - "{PROJ}_EVT_SCR_PITCH-PALCO_V1.md"
+      - "{PROJ}_EVT_CRT_SLIDES-EVENTO_V1.md"
+
+  - id: vendas
+    name: "Follow-up Pos-Evento"
+    duration: "2-4 semanas"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: vendas
+        description: "Emails follow-up para quem nao comprou"
+      - task: close-sales
+        agent: andreza
+        description: "Calls de follow-up com interessados"
+    deliverables:
+      - "{PROJ}_VND_EML_FOLLOWUP-NAO-COMPROU_V1.md"
+
+  - id: pos-venda
+    name: "Pos-Venda"
+    duration: "Continuo"
+    tasks:
+      - task: onboard-client
+        agent: carla
+        description: "Onboarding premium"
+      - task: campaign-report
+        agent: metrics
+    deliverables:
+      - "{PROJ}_PVD_EML_BOAS-VINDAS_V1.md"
+
+gates:
+  - name: "Inscricoes minimas"
+    before: evento
+    check: "Meta minima de inscritos atingida"
+  - name: "Roteiro e slides prontos"
+    before: evento
+    check: "Roteiro do palco + pitch + slides finalizados"
+  - name: "Logistica confirmada"
+    before: evento
+    check: "Local, equipamentos, materiais, equipe OK"
+
+success_metrics:
+  inscritos: "meta definida"
+  show_rate: "> 70%"
+  conversion_palco: "5-60% (por tipo)"
+  ticket_medio: "> R$ definido"
+  nps_evento: "> 9.0"

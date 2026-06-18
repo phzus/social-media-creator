@@ -1,0 +1,103 @@
+# Benchmarks de Mercado Digital Brasil
+# Fonte: Compilação de dados públicos (2024-2026)
+# Uso: @metrics, @cadu, @theboss — referência para metas e diagnósticos
+# IMPORTANTE: Valores são REFERÊNCIA. Cada nicho varia. @analyzer deve pesquisar dados específicos.
+
+benchmarks:
+  meta_ads:
+    cpl_medio:
+      infoproduto: "R$3-8"
+      saude: "R$5-15"
+      financeiro: "R$8-20"
+      b2b: "R$15-50"
+      e-commerce: "R$2-5"
+      nota: "Varia por nicho, sazonalidade e qualidade do criativo"
+    ctr_medio:
+      feed: "0.8-2.0%"
+      stories: "0.4-1.2%"
+      reels: "1.0-3.0%"
+    cpm_medio:
+      brasil: "R$15-40"
+      nota: "Aumenta em novembro/dezembro (BFCM)"
+    roas_meta:
+      bom: "> 3x"
+      excelente: "> 5x"
+      ruim: "< 2x"
+    frequencia_limite:
+      publico_frio: "< 2.5"
+      remarketing: "< 5.0"
+      nota: "Acima = criativo saturado"
+
+  google_ads:
+    cpc_medio:
+      search_brand: "R$0.50-2.00"
+      search_generic: "R$2.00-8.00"
+      display: "R$0.30-1.50"
+    taxa_conversao:
+      search: "3-8%"
+      display: "0.5-2%"
+      landing_page: "15-35%"
+
+  email_marketing:
+    taxa_abertura:
+      media: "18-25%"
+      boa: "> 30%"
+      excelente: "> 40%"
+    taxa_clique:
+      media: "2-4%"
+      boa: "> 5%"
+    taxa_conversao:
+      lancamento: "1-5% da lista"
+      evergreen: "0.5-2% por mês"
+
+  landing_page:
+    taxa_conversao:
+      captura: "25-45%"
+      vendas_low_ticket: "3-8%"
+      vendas_mid_ticket: "1-3%"
+      vendas_high_ticket: "0.5-2%"
+      aplicacao: "15-30%"
+      webinar: "30-50%"
+
+  whatsapp:
+    taxa_abertura: "> 85%"
+    taxa_clique: "15-30%"
+    melhor_horario: "9h-11h e 19h-21h"
+
+  funis:
+    plf_pago:
+      taxa_conversao: "1-3% da lista"
+      roas_esperado: "3-5x"
+      custo_lancamento: "R$5K-50K (ads)"
+    webinar:
+      taxa_registro: "30-50%"
+      taxa_presenca: "25-40%"
+      taxa_conversao: "5-15% dos presentes"
+    desafio:
+      taxa_conversao: "3-8% dos participantes"
+      retencao_dia5: "40-60%"
+    low_ticket:
+      taxa_conversao: "3-8%"
+      ltv_meta: "3-5x do ticket"
+    high_ticket:
+      taxa_aplicacao: "15-30%"
+      taxa_show_call: "60-80%"
+      taxa_fechamento: "20-40%"
+
+  sazonalidade:
+    picos:
+      - mes: "Janeiro"
+        nota: "Recomeço, resoluções, cursos"
+      - mes: "Março"
+        nota: "Volta às aulas, concursos"
+      - mes: "Setembro"
+        nota: "Segundo semestre, black friday prep"
+      - mes: "Novembro"
+        nota: "Black Friday — CPL sobe, competição alta"
+    vales:
+      - mes: "Fevereiro"
+        nota: "Carnaval — pausa no consumo"
+      - mes: "Julho"
+        nota: "Férias — menos engajamento B2B"
+      - mes: "Dezembro"
+        nota: "Natal — atenção em presentes, não cursos"

@@ -1,0 +1,1511 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Plano de Conteúdo · Dumar · Maio + Junho 2026 · Lone Mídia</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  @page { size: A4; margin: 0; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body {
+    font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    background: #e8e8e8;
+    color: #1a1a1a;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+    font-feature-settings: "ss01", "cv11";
+  }
+  .page {
+    width: 210mm;
+    height: 297mm;
+    position: relative;
+    page-break-after: always;
+    background: #ffffff;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    margin: 16px auto;
+    box-shadow: 0 4px 28px rgba(0,0,0,0.10);
+  }
+  .page:last-child { page-break-after: auto; }
+  @media print {
+    body { background: #fff; }
+    .page { margin: 0; box-shadow: none; }
+  }
+
+  /* ===== HEADER ===== */
+  .top-header {
+    padding: 12mm 16mm 5mm;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 0.5mm solid #1A2DD9;
+    margin-bottom: 8mm;
+  }
+  .brand {
+    display: flex;
+    align-items: center;
+  }
+  .brand img {
+    height: 7mm;
+    width: auto;
+    display: block;
+  }
+  .header-badge {
+    background: #f4f5f7;
+    border: 0.3mm solid #d4d8e0;
+    padding: 2mm 4mm;
+    border-radius: 1.2mm;
+    font-size: 2.5mm;
+    color: #4a5060;
+    letter-spacing: 0.5px;
+  }
+  .header-badge strong {
+    color: #0d1b3d;
+    font-weight: 700;
+    margin-left: 1.5mm;
+  }
+  .header-badge .dot {
+    margin: 0 1.5mm;
+    color: #c0c4cc;
+  }
+
+  /* ===== PAGE BODY ===== */
+  .page-body {
+    flex: 1;
+    padding: 0 16mm;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  /* ===== FOOTER ===== */
+  footer.page-footer {
+    padding: 4mm 16mm 6mm;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 2.4mm;
+    color: #9094a0;
+    letter-spacing: 0.3px;
+  }
+  footer.page-footer .footer-brand strong { color: #5a5e6a; font-weight: 600; }
+
+  /* ===== COVER PAGE ===== */
+  .cover-body {
+    flex: 1;
+    padding: 0 16mm 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+  .cover-kicker {
+    font-size: 2.6mm;
+    font-weight: 700;
+    color: #5a6275;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-bottom: 6mm;
+  }
+  .cover-title {
+    font-size: 28mm;
+    font-weight: 800;
+    line-height: 0.95;
+    letter-spacing: -1.5px;
+    color: #ffffff;
+    margin-bottom: 8mm;
+  }
+  .cover-title .accent {
+    color: #d65f56;
+  }
+  .cover-description {
+    font-size: 4mm;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #c8cfe0;
+    max-width: 130mm;
+    margin-bottom: 30mm;
+  }
+  .cover-divider {
+    height: 0.3mm;
+    background: #2a3a6e;
+    margin-bottom: 12mm;
+  }
+  .cover-metrics {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 8mm;
+    margin-bottom: 14mm;
+  }
+  .cover-metric .num {
+    font-size: 18mm;
+    font-weight: 800;
+    line-height: 1;
+    color: #ffffff;
+    letter-spacing: -1px;
+    margin-bottom: 2.5mm;
+  }
+  .cover-metric .label {
+    font-size: 2.4mm;
+    font-weight: 600;
+    color: #8a92a8;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    line-height: 1.4;
+  }
+
+  /* dark cover variant */
+  .page.cover-page { background: #0d1b3d; color: #ffffff; }
+  .page.cover-page .top-header { border-bottom-color: #1A2DD9; }
+  .page.cover-page .header-badge { background: rgba(255,255,255,0.07); border-color: rgba(255,255,255,0.18); color: #c8cfe0; }
+  .page.cover-page .header-badge strong { color: #ffffff; }
+  .page.cover-page footer.page-footer { color: #5a6275; }
+  .page.cover-page footer.page-footer .footer-brand strong { color: #9aa0b4; }
+
+  /* ===== SECTION TITLES ===== */
+  .section-title-block {
+    display: flex;
+    align-items: center;
+    gap: 5mm;
+    margin-bottom: 7mm;
+  }
+  .section-tag {
+    background: #0d1b3d;
+    color: #ffffff;
+    padding: 1.8mm 3.5mm;
+    border-radius: 1mm;
+    font-size: 2.3mm;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+  }
+  .section-title {
+    font-size: 13mm;
+    font-weight: 800;
+    color: #0d1b3d;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+
+  .page-title {
+    font-size: 11mm;
+    font-weight: 800;
+    color: #0d1b3d;
+    line-height: 1;
+    letter-spacing: -0.8px;
+    margin-bottom: 1.5mm;
+  }
+  .page-subtitle {
+    font-size: 2.6mm;
+    font-weight: 700;
+    color: #5a6275;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 8mm;
+  }
+
+  /* ===== SUB-SECTION INDEX ===== */
+  .sub-section {
+    display: flex;
+    align-items: center;
+    gap: 3mm;
+    margin-bottom: 5mm;
+    margin-top: 2mm;
+  }
+  .sub-num {
+    background: #1A2DD9;
+    color: #ffffff;
+    width: 6mm;
+    height: 6mm;
+    border-radius: 1mm;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3mm;
+    font-weight: 800;
+  }
+  .sub-title {
+    font-size: 3.2mm;
+    font-weight: 800;
+    color: #0d1b3d;
+    letter-spacing: 1.3px;
+    text-transform: uppercase;
+  }
+
+  /* ===== PILLAR CARDS (5 colunas) ===== */
+  .pillars-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 3mm;
+    margin-bottom: 7mm;
+  }
+  .pillar-card {
+    background: #f6f7fb;
+    border-radius: 1.5mm;
+    padding: 4mm 4mm 4.5mm;
+    border-top: 1.5mm solid #1A2DD9;
+  }
+  .pillar-card.p1 { border-top-color: #c2342a; }
+  .pillar-card.p2 { border-top-color: #1A2DD9; }
+  .pillar-card.p3 { border-top-color: #0d1b3d; }
+  .pillar-card.p4 { border-top-color: #4a7fd8; }
+  .pillar-card.p5 { border-top-color: #0a0a0a; }
+
+  .pillar-badge {
+    display: inline-block;
+    padding: 1mm 2mm;
+    border-radius: 0.8mm;
+    font-size: 2mm;
+    font-weight: 800;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #ffffff;
+    margin-bottom: 2.5mm;
+  }
+  .pillar-card.p1 .pillar-badge { background: #c2342a; }
+  .pillar-card.p2 .pillar-badge { background: #1A2DD9; }
+  .pillar-card.p3 .pillar-badge { background: #0d1b3d; }
+  .pillar-card.p4 .pillar-badge { background: #4a7fd8; }
+  .pillar-card.p5 .pillar-badge { background: #0a0a0a; }
+
+  .pillar-card h3 {
+    font-size: 3.2mm;
+    font-weight: 800;
+    color: #0d1b3d;
+    margin-bottom: 1.5mm;
+    line-height: 1.15;
+    letter-spacing: -0.2px;
+  }
+  .pillar-card p {
+    font-size: 2.3mm;
+    line-height: 1.4;
+    color: #515566;
+  }
+  .pillar-card .pillar-count {
+    display: block;
+    font-size: 2.2mm;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin-top: 2.5mm;
+    padding-top: 2mm;
+    border-top: 0.2mm solid #d4d8e0;
+  }
+
+  /* ===== CALENDAR ===== */
+  .calendar {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 1px;
+    background: #e0e3eb;
+    border-radius: 1.5mm;
+    overflow: hidden;
+    margin-bottom: 5mm;
+  }
+  .calendar thead th {
+    background: #0d1b3d;
+    color: #ffffff;
+    padding: 2.5mm 0;
+    font-size: 2.4mm;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-align: center;
+  }
+  .calendar tbody td {
+    background: #ffffff;
+    width: calc(100% / 7);
+    height: 17mm;
+    vertical-align: top;
+    padding: 1.8mm 2mm;
+    position: relative;
+  }
+  .calendar tbody td.empty { background: #fafbfc; color: #b5bac4; }
+  .calendar tbody td .day-num {
+    font-size: 3.2mm;
+    font-weight: 700;
+    color: #0d1b3d;
+    line-height: 1;
+    margin-bottom: 1.5mm;
+  }
+  .calendar tbody td.empty .day-num { color: #b5bac4; font-weight: 400; }
+  .calendar tbody td .cell-type {
+    font-size: 1.8mm;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #5a6275;
+    margin-top: 0.5mm;
+  }
+  .calendar tbody td .cell-title {
+    font-size: 2.2mm;
+    font-weight: 600;
+    color: #1a1a1a;
+    line-height: 1.2;
+    margin-top: 0.5mm;
+  }
+  .calendar tbody td.has-post { padding-left: 2.8mm; }
+  .calendar tbody td.has-post::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 1.5mm;
+    bottom: 1.5mm;
+    width: 1.2mm;
+    background: #1d2c5b;
+    border-radius: 0 0.5mm 0.5mm 0;
+  }
+  .calendar tbody td.type-reels::before { background: #0a0a0a; }
+  .calendar tbody td.type-post::before { background: #1A2DD9; }
+  .calendar tbody td.type-carrossel::before { background: #c2342a; }
+  .calendar tbody td.type-namorados::before { background: #c2342a; }
+  .calendar tbody td.type-namorados { background: #fdf3f1; }
+  .calendar tbody td.type-namorados .cell-type { color: #8c1f17; font-weight: 800; }
+
+  /* legenda calendário */
+  .cal-legend {
+    display: flex;
+    gap: 8mm;
+    margin-top: 3mm;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .cal-legend-item {
+    display: flex;
+    align-items: center;
+    gap: 2mm;
+    font-size: 2.5mm;
+    color: #515566;
+  }
+  .cal-legend-bar {
+    width: 1.2mm;
+    height: 4mm;
+    border-radius: 0.4mm;
+  }
+  .cal-legend-bar.b-post { background: #1A2DD9; }
+  .cal-legend-bar.b-reels { background: #0a0a0a; }
+  .cal-legend-bar.b-carrossel { background: #c2342a; }
+  .cal-legend-bar.b-namorados { background: #c2342a; opacity: 0.4; }
+
+  /* ===== PIECE CARD ===== */
+  .pieces-stack {
+    display: flex;
+    flex-direction: column;
+    gap: 5mm;
+    flex: 1;
+  }
+  .piece {
+    display: grid;
+    grid-template-columns: 8mm 1fr;
+    border: 0.3mm solid #e3e5ec;
+    border-radius: 1.2mm;
+    overflow: hidden;
+    background: #ffffff;
+  }
+  .piece-side {
+    background: #1d2c5b;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 6mm 0;
+  }
+  .piece-side .side-label {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    font-size: 2.6mm;
+    font-weight: 800;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+  }
+  .piece.p1 .piece-side { background: #c2342a; }
+  .piece.p2 .piece-side { background: #1A2DD9; }
+  .piece.p3 .piece-side { background: #0d1b3d; }
+  .piece.p4 .piece-side { background: #4a7fd8; }
+  .piece.p5 .piece-side { background: #0a0a0a; }
+
+  .piece-body {
+    padding: 5mm 6mm 5mm;
+  }
+  .piece-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 4mm;
+    margin-bottom: 1mm;
+  }
+  .piece-date {
+    font-size: 2.6mm;
+    font-weight: 700;
+    color: #5a6275;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    margin-bottom: 1mm;
+    display: flex;
+    align-items: center;
+    gap: 2mm;
+    flex-wrap: wrap;
+  }
+  .piece-date .pillar-tag {
+    background: #f4f5f7;
+    color: #1a1a1a;
+    padding: 0.8mm 2mm;
+    border-radius: 0.5mm;
+    font-size: 1.9mm;
+    font-weight: 800;
+    letter-spacing: 1px;
+    border-left: 1mm solid #1A2DD9;
+  }
+  .piece.p1 .pillar-tag { border-left-color: #c2342a; }
+  .piece.p2 .pillar-tag { border-left-color: #1A2DD9; }
+  .piece.p3 .pillar-tag { border-left-color: #0d1b3d; }
+  .piece.p4 .pillar-tag { border-left-color: #4a7fd8; }
+  .piece.p5 .pillar-tag { border-left-color: #0a0a0a; }
+
+  .piece-date .anchor {
+    background: #c2342a;
+    color: #ffffff;
+    padding: 0.8mm 2mm;
+    border-radius: 0.5mm;
+    font-size: 1.9mm;
+    font-weight: 800;
+    letter-spacing: 1px;
+  }
+  .piece-date .validar {
+    background: #c2851e;
+    color: #ffffff;
+    padding: 0.8mm 2mm;
+    border-radius: 0.5mm;
+    font-size: 1.9mm;
+    font-weight: 800;
+    letter-spacing: 1px;
+  }
+  .piece-date .confirmed {
+    background: #166534;
+    color: #ffffff;
+    padding: 0.8mm 2mm;
+    border-radius: 0.5mm;
+    font-size: 1.9mm;
+    font-weight: 800;
+    letter-spacing: 1px;
+  }
+  .piece-title {
+    font-size: 5mm;
+    font-weight: 700;
+    color: #0d1b3d;
+    line-height: 1.15;
+    letter-spacing: -0.3px;
+  }
+  .piece-format {
+    background: #0a0a0a;
+    color: #ffffff;
+    padding: 1.5mm 2.8mm;
+    border-radius: 0.8mm;
+    font-size: 2.2mm;
+    font-weight: 700;
+    letter-spacing: 1.3px;
+    text-transform: uppercase;
+    white-space: nowrap;
+    align-self: center;
+    flex-shrink: 0;
+  }
+  .piece-format.fmt-post { background: #ffffff; color: #0a0a0a; border: 0.3mm solid #0a0a0a; }
+  .piece-format.fmt-reels { background: #0a0a0a; color: #ffffff; }
+  .piece-format.fmt-carrossel { background: #0d1b3d; color: #ffffff; }
+  .piece-divider {
+    height: 0.2mm;
+    background: #e3e5ec;
+    margin: 3.5mm 0 3mm;
+  }
+  .piece-block {
+    margin-bottom: 3mm;
+  }
+  .piece-block:last-child { margin-bottom: 0; }
+  .piece-block-label {
+    font-size: 2.2mm;
+    font-weight: 800;
+    color: #1A2DD9;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin-bottom: 1.5mm;
+  }
+  .piece-block-text {
+    font-size: 2.8mm;
+    line-height: 1.45;
+    color: #2a2e3a;
+  }
+  .piece-block-text + .piece-block-text { margin-top: 1.5mm; }
+  .piece-art {
+    background: #f4f5f9;
+    border-left: 0.8mm solid #1A2DD9;
+    padding: 2.5mm 3.5mm;
+    border-radius: 0 0.8mm 0.8mm 0;
+  }
+  .piece-art .piece-block-label { color: #1A2DD9; margin-bottom: 1mm; }
+  .piece-art .piece-block-text { color: #515566; font-size: 2.7mm; }
+  .piece-icon {
+    color: #1A2DD9;
+    font-size: 2.5mm;
+    margin-right: 1mm;
+  }
+  .piece-block-text .key { font-weight: 600; }
+
+  /* ===== CLOSING PAGE ===== */
+  .closing-body {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0 30mm;
+    text-align: center;
+  }
+  .closing-logo {
+    height: 14mm;
+    width: auto;
+    margin-bottom: 6mm;
+  }
+  .closing-tag {
+    font-size: 2.6mm;
+    font-weight: 600;
+    color: #7a808e;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    margin-bottom: 12mm;
+  }
+  .closing-message {
+    font-size: 3.2mm;
+    line-height: 1.6;
+    color: #4a5060;
+    max-width: 120mm;
+    margin-bottom: 10mm;
+  }
+  .closing-rule {
+    width: 18mm;
+    height: 0.6mm;
+    background: #c2342a;
+    margin-bottom: 8mm;
+  }
+  .closing-footer {
+    font-size: 2.5mm;
+    font-weight: 700;
+    color: #5a6275;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    line-height: 1.7;
+  }
+</style>
+</head>
+<body>
+
+<!-- ============================================================ -->
+<!-- PÁGINA 1 — COVER                                              -->
+<!-- ============================================================ -->
+<section class="page cover-page">
+  <div class="top-header">
+    <div class="brand">
+      <img src="../../../shared/identidade-lone/lone-midia-logo-branco-azul.png" alt="Lone Mídia">
+    </div>
+    <div class="header-badge">CLIENTE <span class="dot">·</span><strong>DUMAR</strong></div>
+  </div>
+
+  <div class="cover-body">
+    <div class="cover-kicker">PLANO DE CONTEÚDO</div>
+    <h1 class="cover-title">Maio + Junho<br><span class="accent">2026.</span></h1>
+    <p class="cover-description">Janela 22/05 → 26/06 · 16 peças mapeadas em 5 pilares editoriais (Na Dumar Tem · Ferramenta Certa · Invisível da Internet · Bastidores Dumar · Dumar Pro) · Dia dos Namorados como única data-âncora do período.</p>
+    <div class="cover-divider"></div>
+    <div class="cover-metrics">
+      <div class="cover-metric"><div class="num">16</div><div class="label">PEÇAS<br>PLANEJADAS</div></div>
+      <div class="cover-metric"><div class="num">5</div><div class="label">REELS<br>DE VÍDEO</div></div>
+      <div class="cover-metric"><div class="num">5</div><div class="label">CARROSSÉIS<br>SEMANAIS</div></div>
+      <div class="cover-metric"><div class="num">6</div><div class="label">POSTS<br>ESTÁTICOS</div></div>
+    </div>
+  </div>
+
+  <footer class="page-footer">
+    <div class="footer-brand"><strong>LONE MÍDIA</strong> · Plano de Conteúdo · Dumar</div>
+    <div class="page-num">1 / 12</div>
+  </footer>
+</section>
+
+<!-- ============================================================ -->
+<!-- PÁGINA 2 — VISÃO GERAL + CALENDÁRIO MAIO                      -->
+<!-- ============================================================ -->
+<section class="page">
+  <div class="top-header">
+    <div class="brand">
+      <img src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia">
+    </div>
+    <div class="header-badge">CLIENTE <span class="dot">·</span><strong>DUMAR</strong></div>
+  </div>
+
+  <div class="page-body">
+    <h2 class="page-title">Visão Geral</h2>
+    <div class="page-subtitle">DISTRIBUIÇÃO DAS PEÇAS NOS 5 PILARES EDITORIAIS</div>
+
+    <div class="sub-section">
+      <div class="sub-num">1</div>
+      <div class="sub-title">PILARES DE CONTEÚDO</div>
+    </div>
+
+    <div class="pillars-grid">
+      <div class="pillar-card p1">
+        <div class="pillar-badge">PILAR 1</div>
+        <h3>Na Dumar Tem</h3>
+        <p>Hero da marca. Materializa o slogan e a variedade. Carrosséis de produto, tour pela loja, "tem ou não tem".</p>
+        <span class="pillar-count">5 PEÇAS · 31%</span>
+      </div>
+      <div class="pillar-card p2">
+        <div class="pillar-badge">PILAR 2</div>
+        <h3>Ferramenta Certa</h3>
+        <p>Educacional. Dumar sabendo mais que o cliente. Justifica a consultoria do balcão. Salvamento e compartilhamento.</p>
+        <span class="pillar-count">4 PEÇAS · 25%</span>
+      </div>
+      <div class="pillar-card p3">
+        <div class="pillar-badge">PILAR 3</div>
+        <h3>Invisível da Internet</h3>
+        <p>Competitivo. O que Mercado Livre, Amazon e Shopee não entregam. Fonte primária de criativos de ads.</p>
+        <span class="pillar-count">3 PEÇAS · 19%</span>
+      </div>
+      <div class="pillar-card p4">
+        <div class="pillar-badge">PILAR 4</div>
+        <h3>Bastidores</h3>
+        <p>Humanização. Assistência técnica em ação, equipe, frota, "entrou quebrada, saiu como nova".</p>
+        <span class="pillar-count">3 PEÇAS · 19%</span>
+      </div>
+      <div class="pillar-card p5">
+        <div class="pillar-badge">PILAR 5</div>
+        <h3>Dumar Pro</h3>
+        <p>B2B corporativo. 2º andar, mostruário robusto, cases de hotel, marmoraria, marina, construtora.</p>
+        <span class="pillar-count">1 PEÇA · 6%</span>
+      </div>
+    </div>
+
+    <div class="sub-section">
+      <div class="sub-num">2</div>
+      <div class="sub-title">CALENDÁRIO · MAIO</div>
+    </div>
+
+    <table class="calendar">
+      <thead>
+        <tr><th>DOM</th><th>SEG</th><th>TER</th><th>QUA</th><th>QUI</th><th>SEX</th><th>SÁB</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="empty"><div class="day-num">17</div></td>
+          <td class="empty"><div class="day-num">18</div></td>
+          <td class="empty"><div class="day-num">19</div></td>
+          <td class="empty"><div class="day-num">20</div></td>
+          <td class="empty"><div class="day-num">21</div></td>
+          <td class="has-post type-carrossel"><div class="day-num">22</div><div class="cell-type">CARROSSEL</div><div class="cell-title">Makita à bateria</div></td>
+          <td class="empty"><div class="day-num">23</div></td>
+        </tr>
+        <tr>
+          <td class="empty"><div class="day-num">24</div></td>
+          <td class="has-post type-post"><div class="day-num">25</div><div class="cell-type">POST</div><div class="cell-title">"Vai fazer o quê?"</div></td>
+          <td class="empty"><div class="day-num">26</div></td>
+          <td class="has-post type-reels"><div class="day-num">27</div><div class="cell-type">REELS</div><div class="cell-title">Entrou quebrada</div></td>
+          <td class="empty"><div class="day-num">28</div></td>
+          <td class="has-post type-carrossel"><div class="day-num">29</div><div class="cell-type">CARROSSEL</div><div class="cell-title">Isso só no balcão</div></td>
+          <td class="empty"><div class="day-num">30</div></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <footer class="page-footer">
+    <div class="footer-brand"><strong>LONE MÍDIA</strong> · Plano de Conteúdo · Dumar</div>
+    <div class="page-num">2 / 12</div>
+  </footer>
+</section>
+
+<!-- ============================================================ -->
+<!-- PÁGINA 3 — CALENDÁRIO JUNHO + LEGENDA                         -->
+<!-- ============================================================ -->
+<section class="page">
+  <div class="top-header">
+    <div class="brand">
+      <img src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia">
+    </div>
+    <div class="header-badge">CLIENTE <span class="dot">·</span><strong>DUMAR</strong></div>
+  </div>
+
+  <div class="page-body">
+    <div class="sub-section">
+      <div class="sub-num">3</div>
+      <div class="sub-title">CALENDÁRIO · JUNHO</div>
+    </div>
+
+    <table class="calendar">
+      <thead>
+        <tr><th>DOM</th><th>SEG</th><th>TER</th><th>QUA</th><th>QUI</th><th>SEX</th><th>SÁB</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="empty"><div class="day-num">31</div></td>
+          <td class="has-post type-post"><div class="day-num">1</div><div class="cell-type">POST</div><div class="cell-title">Furadeira × parafusadeira</div></td>
+          <td class="empty"><div class="day-num">2</div></td>
+          <td class="has-post type-reels"><div class="day-num">3</div><div class="cell-type">REELS</div><div class="cell-title">Quem te atende</div></td>
+          <td class="empty"><div class="day-num">4</div></td>
+          <td class="has-post type-carrossel"><div class="day-num">5</div><div class="cell-type">CARROSSEL</div><div class="cell-title">Assistência no balcão</div></td>
+          <td class="empty"><div class="day-num">6</div></td>
+        </tr>
+        <tr>
+          <td class="empty"><div class="day-num">7</div></td>
+          <td class="has-post type-post"><div class="day-num">8</div><div class="cell-type">POST</div><div class="cell-title">Qual chave precisa?</div></td>
+          <td class="empty"><div class="day-num">9</div></td>
+          <td class="has-post type-reels"><div class="day-num">10</div><div class="cell-type">REELS</div><div class="cell-title">Tem ou não tem?</div></td>
+          <td class="empty"><div class="day-num">11</div></td>
+          <td class="has-post type-namorados"><div class="day-num">12</div><div class="cell-type">POST · NAMORADOS</div><div class="cell-title">Feliz Dia dos Namorados</div></td>
+          <td class="empty"><div class="day-num">13</div></td>
+        </tr>
+        <tr>
+          <td class="empty"><div class="day-num">14</div></td>
+          <td class="has-post type-post"><div class="day-num">15</div><div class="cell-type">POST</div><div class="cell-title">Resolve hoje</div></td>
+          <td class="empty"><div class="day-num">16</div></td>
+          <td class="has-post type-reels"><div class="day-num">17</div><div class="cell-type">REELS</div><div class="cell-title">Frota tá rodando</div></td>
+          <td class="empty"><div class="day-num">18</div></td>
+          <td class="has-post type-carrossel"><div class="day-num">19</div><div class="cell-type">CARROSSEL</div><div class="cell-title">Linha jardinagem</div></td>
+          <td class="empty"><div class="day-num">20</div></td>
+        </tr>
+        <tr>
+          <td class="empty"><div class="day-num">21</div></td>
+          <td class="has-post type-post"><div class="day-num">22</div><div class="cell-type">POST</div><div class="cell-title">Vale gastar mais?</div></td>
+          <td class="empty"><div class="day-num">23</div></td>
+          <td class="has-post type-reels"><div class="day-num">24</div><div class="cell-type">REELS</div><div class="cell-title">Subiu pro 2º andar</div></td>
+          <td class="empty"><div class="day-num">25</div></td>
+          <td class="has-post type-carrossel"><div class="day-num">26</div><div class="cell-type">CARROSSEL</div><div class="cell-title">Esse mês na Dumar</div></td>
+          <td class="empty"><div class="day-num">27</div></td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div class="cal-legend">
+      <div class="cal-legend-item"><div class="cal-legend-bar b-post"></div>Post estático (segundas)</div>
+      <div class="cal-legend-item"><div class="cal-legend-bar b-reels"></div>Reels 25-35s (quartas)</div>
+      <div class="cal-legend-item"><div class="cal-legend-bar b-carrossel"></div>Carrossel (sextas)</div>
+      <div class="cal-legend-item"><div class="cal-legend-bar b-namorados"></div>Data-âncora (12/06)</div>
+    </div>
+  </div>
+
+  <footer class="page-footer">
+    <div class="footer-brand"><strong>LONE MÍDIA</strong> · Plano de Conteúdo · Dumar</div>
+    <div class="page-num">3 / 12</div>
+  </footer>
+</section>
+
+<!-- ============================================================ -->
+<!-- PÁGINA 4 — MAIO · 22/05 + 25/05                               -->
+<!-- ============================================================ -->
+<section class="page">
+  <div class="top-header">
+    <div class="brand">
+      <img src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia">
+    </div>
+    <div class="header-badge">CLIENTE <span class="dot">·</span><strong>DUMAR</strong></div>
+  </div>
+
+  <div class="page-body">
+    <div class="section-title-block">
+      <div class="section-tag">MÊS 1</div>
+      <div class="section-title">Maio</div>
+    </div>
+
+    <div class="pieces-stack">
+      <!-- 22/05 P1 — JÁ AGENDADA (Makita bateria) -->
+      <div class="piece p1">
+        <div class="piece-side"><div class="side-label">P I L A R · 1</div></div>
+        <div class="piece-body">
+          <div class="piece-header">
+            <div>
+              <div class="piece-date">22/05 · Sexta-feira <span class="pillar-tag">NA DUMAR TEM</span> <span class="confirmed">✓ JÁ AGENDADA</span></div>
+              <div class="piece-title">Confira nossa linha completa da Makita à bateria.</div>
+            </div>
+            <div class="piece-format fmt-carrossel">CARROSSEL DE IMAGENS</div>
+          </div>
+          <div class="piece-divider"></div>
+          <div class="piece-block">
+            <div class="piece-block-label">Ideia do post</div>
+            <div class="piece-block-text">Carrossel direto da linha bateria Makita — capa + slides de fotos dos produtos. Tom simples, sem inflar narrativa: comunica a variedade da linha LXT disponível no balcão da Dumar.</div>
+          </div>
+          <div class="piece-art">
+            <div class="piece-block-label">Arte / Slides</div>
+            <div class="piece-block-text"><span class="key">Capa:</span> "Confira nossa linha completa da Makita à bateria." (com identidade visual Dumar discreta + logo Makita no canto)</div>
+            <div class="piece-block-text"><span class="key">Slides 2-N:</span> fotos da linha bateria Makita disponíveis no banco da Dumar. Uma ferramenta por slide, foto da prateleira ou produto na loja, nome do modelo curto sobre a imagem se couber.</div>
+            <div class="piece-block-text"><span class="key">Último slide (CTA):</span> "Linha completa no balcão · WhatsApp (22) 98873-3904 · Rua Félix Valadares Júnior, 135 · Centro · Araruama."</div>
+            <div class="piece-block-text"><span class="key">Foto base já no banco:</span> IMG_3498/3499 (soprador LXT) + IMG_3517/3518 (parafusadeira HP0300). Demais ferramentas da linha bateria entram conforme banco disponível.</div>
+          </div>
+          <div class="piece-block" style="margin-top:3mm;">
+            <div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">A linha à bateria da Makita reunida no balcão da Dumar.</div>
+            <div class="piece-block-text">Furadeira, parafusadeira, esmerilhadeira, soprador, serra — mesma bateria, força sem fio. Pra obra, oficina ou trabalho do dia a dia, sem depender de tomada perto.</div>
+            <div class="piece-block-text">Passa pra ver pessoalmente ou chama no WhatsApp.</div>
+            <div class="piece-block-text"><span class="piece-icon">📲</span>(22) 98873-3904 · Rua Félix Valadares Júnior, 135 · Centro · Araruama</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 25/05 P2 -->
+      <div class="piece p2">
+        <div class="piece-side"><div class="side-label">P I L A R · 2</div></div>
+        <div class="piece-body">
+          <div class="piece-header">
+            <div>
+              <div class="piece-date">25/05 · Segunda-feira <span class="pillar-tag">FERRAMENTA CERTA</span></div>
+              <div class="piece-title">Antes de comprar, responde uma coisa: vai fazer o quê?</div>
+            </div>
+            <div class="piece-format fmt-post">POST ESTÁTICO</div>
+          </div>
+          <div class="piece-divider"></div>
+          <div class="piece-block">
+            <div class="piece-block-label">Ideia do post</div>
+            <div class="piece-block-text">Apresenta a pergunta-âncora do balcão da Dumar como pilar editorial. Posiciona a marca como consultor honesto: corrige compra errada com respeito, justifica investimento com argumento técnico.</div>
+          </div>
+          <div class="piece-art">
+            <div class="piece-block-label">Arte</div>
+            <div class="piece-block-text">Headline curta em destaque ("Antes de comprar, responde uma coisa:") com a pergunta protagonista logo abaixo ("Vai fazer o quê?"). Foto da chave hexagonal Vonder com etiqueta "FERRAMENTAS MANUAIS" (IMG_3505) como elemento visual lateral. Sem moldura, sem balão, sem confete.</div>
+          </div>
+          <div class="piece-block" style="margin-top:3mm;">
+            <div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">Essa é a primeira pergunta que sai do balcão da Dumar.</div>
+            <div class="piece-block-text">Antes de te indicar uma ferramenta, a gente entende o serviço. Se a que você tá pensando não vai resolver, eu te falo. Se vai, eu te justifico — modelo, potência, marca, tudo.</div>
+            <div class="piece-block-text">35 anos fazendo isso. Não dá pra errar pra cima de você.</div>
+            <div class="piece-block-text"><span class="piece-icon">📲</span>(22) 98873-3904 · Rua Félix Valadares Júnior, 135 · Centro · Araruama</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="page-footer">
+    <div class="footer-brand"><strong>LONE MÍDIA</strong> · Plano de Conteúdo · Dumar</div>
+    <div class="page-num">4 / 12</div>
+  </footer>
+</section>
+
+<!-- ============================================================ -->
+<!-- PÁGINA 5 — MAIO · 27/05 + 29/05                               -->
+<!-- ============================================================ -->
+<section class="page">
+  <div class="top-header">
+    <div class="brand">
+      <img src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia">
+    </div>
+    <div class="header-badge">CLIENTE <span class="dot">·</span><strong>DUMAR</strong></div>
+  </div>
+
+  <div class="page-body">
+    <div class="pieces-stack">
+      <!-- 27/05 P4 REELS -->
+      <div class="piece p4">
+        <div class="piece-side"><div class="side-label">P I L A R · 4</div></div>
+        <div class="piece-body">
+          <div class="piece-header">
+            <div>
+              <div class="piece-date">27/05 · Quarta-feira <span class="pillar-tag">BASTIDORES</span></div>
+              <div class="piece-title">Entrou quebrada. Saiu como nova.</div>
+            </div>
+            <div class="piece-format fmt-reels">REELS · 30S</div>
+          </div>
+          <div class="piece-divider"></div>
+          <div class="piece-block">
+            <div class="piece-block-label">Ideia do post</div>
+            <div class="piece-block-text">Primeira peça da franquia de conteúdo mais forte da Dumar — o antes/depois real da assistência técnica. Mostra o processo padronizado: limpeza, diagnóstico, troca com peça original, teste antes de devolver.</div>
+          </div>
+          <div class="piece-art">
+            <div class="piece-block-label">Vídeo · 30s</div>
+            <div class="piece-block-text"><span class="key">Gancho (0-3s):</span> mão entregando máquina quebrada no balcão da assistência.</div>
+            <div class="piece-block-text"><span class="key">Contexto (3-10s):</span> técnico fala: "Essa aqui chegou com o motor travado, sem girar."</div>
+            <div class="piece-block-text"><span class="key">Solução (10-22s):</span> cortes rápidos — limpeza, diagnóstico, troca com peça original, teste.</div>
+            <div class="piece-block-text"><span class="key">Benefício (22-27s):</span> "Sai funcionando 100%. Testada antes de voltar pra tua mão."</div>
+            <div class="piece-block-text"><span class="key">CTA (27-30s):</span> "Tá precisando? Traz pra gente. WhatsApp (22) 98873-3904."</div>
+          </div>
+          <div class="piece-block" style="margin-top:3mm;">
+            <div class="piece-block-label">Captação</div>
+            <div class="piece-block-text">Captação pela equipe Dumar · celular · piso 1, área de assistência técnica · luz natural ou do ambiente, sem flash.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 29/05 P3 — Isso aqui você não encontra na internet -->
+      <div class="piece p3">
+        <div class="piece-side"><div class="side-label">P I L A R · 3</div></div>
+        <div class="piece-body">
+          <div class="piece-header">
+            <div>
+              <div class="piece-date">29/05 · Sexta-feira <span class="pillar-tag">INVISÍVEL DA INTERNET</span></div>
+              <div class="piece-title">Isso aqui você não encontra na internet.</div>
+            </div>
+            <div class="piece-format fmt-carrossel">CARROSSEL · 5 SLIDES</div>
+          </div>
+          <div class="piece-divider"></div>
+          <div class="piece-block">
+            <div class="piece-block-label">Ideia do post</div>
+            <div class="piece-block-text">Convite — não confronto. Apresenta o que SÓ existe no balcão da Dumar, sem comparar preço e sem nominar concorrente. Slide a slide mostra a camada de serviço que envolve a compra.</div>
+          </div>
+          <div class="piece-art">
+            <div class="piece-block-label">Slides</div>
+            <div class="piece-block-text"><span class="key">Capa:</span> "Isso aqui você não encontra na internet."</div>
+            <div class="piece-block-text"><span class="key">Slide 2:</span> "Alguém te pergunta o que você vai fazer com a máquina antes de bater o preço."</div>
+            <div class="piece-block-text"><span class="key">Slide 3:</span> "Área pra testar antes de levar."</div>
+            <div class="piece-block-text"><span class="key">Slide 4:</span> "Assistência técnica autorizada multimarca na mesma porta."</div>
+            <div class="piece-block-text"><span class="key">Slide 5 (CTA):</span> "Vem ver. Rua Félix Valadares Júnior, 135 · Centro · Araruama · (22) 98873-3904."</div>
+          </div>
+          <div class="piece-block" style="margin-top:3mm;">
+            <div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">Tem coisa que só acontece no balcão.</div>
+            <div class="piece-block-text">Alguém te ouve antes de te vender. Você pega na ferramenta, testa, sente o peso, antes de levar pra casa. Se quebrar, a assistência tá aqui — mesma porta, mesma assinatura.</div>
+            <div class="piece-block-text">35 anos resolvendo. Na Dumar tem.</div>
+            <div class="piece-block-text"><span class="piece-icon">📲</span>(22) 98873-3904 · Rua Félix Valadares Júnior, 135 · Centro · Araruama</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="page-footer">
+    <div class="footer-brand"><strong>LONE MÍDIA</strong> · Plano de Conteúdo · Dumar</div>
+    <div class="page-num">5 / 12</div>
+  </footer>
+</section>
+
+<!-- ============================================================ -->
+<!-- PÁGINA 6 — JUNHO · 01/06 + 03/06                              -->
+<!-- ============================================================ -->
+<section class="page">
+  <div class="top-header">
+    <div class="brand">
+      <img src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia">
+    </div>
+    <div class="header-badge">CLIENTE <span class="dot">·</span><strong>DUMAR</strong></div>
+  </div>
+
+  <div class="page-body">
+    <div class="section-title-block">
+      <div class="section-tag">MÊS 2</div>
+      <div class="section-title">Junho</div>
+    </div>
+
+    <div class="pieces-stack">
+      <!-- 01/06 P2 -->
+      <div class="piece p2">
+        <div class="piece-side"><div class="side-label">P I L A R · 2</div></div>
+        <div class="piece-body">
+          <div class="piece-header">
+            <div>
+              <div class="piece-date">01/06 · Segunda-feira <span class="pillar-tag">FERRAMENTA CERTA</span></div>
+              <div class="piece-title">Furadeira, parafusadeira ou martelete — quando usar cada uma?</div>
+            </div>
+            <div class="piece-format fmt-post">POST ESTÁTICO</div>
+          </div>
+          <div class="piece-divider"></div>
+          <div class="piece-block">
+            <div class="piece-block-label">Ideia do post</div>
+            <div class="piece-block-text">Educacional de alto valor de salvamento. Tira a confusão mais comum do balcão. Posiciona a Dumar como consultor honesto: cada ferramenta pra cada serviço, sem empurrar a mais cara.</div>
+          </div>
+          <div class="piece-art">
+            <div class="piece-block-label">Arte</div>
+            <div class="piece-block-text">Foto da parafusadeira Makita HP0300 (IMG_3517) ocupando dominante. Headline em faixa lateral curta: "Cada uma serve pra quê?". Comparativo curto em texto direto (3 linhas no máximo): "Furadeira: furo em madeira/parede. · Parafusadeira: aperta sem maltratar. · Martelete: concreto e bate-pino."</div>
+          </div>
+          <div class="piece-block" style="margin-top:3mm;">
+            <div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">Confusão clássica do balcão: cliente pede furadeira pra aparafusar, leva pra casa, descasca o parafuso na primeira volta.</div>
+            <div class="piece-block-text">Furadeira fura. Parafusadeira aparafusa. Martelete bate em concreto. Cada uma tem força e função própria — comprar a errada custa caro.</div>
+            <div class="piece-block-text">Tá em dúvida? Manda no WhatsApp o que você precisa fazer que a gente te diz qual modelo cabe.</div>
+            <div class="piece-block-text"><span class="piece-icon">📲</span>(22) 98873-3904 · Centro · Araruama</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 03/06 P4 REELS -->
+      <div class="piece p4">
+        <div class="piece-side"><div class="side-label">P I L A R · 4</div></div>
+        <div class="piece-body">
+          <div class="piece-header">
+            <div>
+              <div class="piece-date">03/06 · Quarta-feira <span class="pillar-tag">BASTIDORES</span></div>
+              <div class="piece-title">Quem te atende quando tu entra na Dumar?</div>
+            </div>
+            <div class="piece-format fmt-reels">REELS · 25S</div>
+          </div>
+          <div class="piece-divider"></div>
+          <div class="piece-block">
+            <div class="piece-block-label">Ideia do post</div>
+            <div class="piece-block-text">Humaniza a marca apresentando uma pessoa real da equipe Dumar. Fala direta pra câmera, sem maquiagem editorial. Reforça a regra da casa: todo cliente é recebido com o mesmo cuidado.</div>
+          </div>
+          <div class="piece-art">
+            <div class="piece-block-label">Vídeo · 25s</div>
+            <div class="piece-block-text"><span class="key">Gancho (0-3s):</span> pessoa da equipe olhando pra câmera — "Pergunta clássica do balcão: vai fazer o quê com ela?"</div>
+            <div class="piece-block-text"><span class="key">Contexto (3-12s):</span> quick cuts atendendo cliente, mostrando opções na prateleira.</div>
+            <div class="piece-block-text"><span class="key">Solução (12-19s):</span> "Antes de bater o preço, eu entendo o serviço. Se a ferramenta tá errada, eu digo. Se tá certa, eu mostro por quê."</div>
+            <div class="piece-block-text"><span class="key">Fechamento (19-25s):</span> "35 anos fazendo isso. Passa aqui ou chama no WhatsApp (22) 98873-3904."</div>
+          </div>
+          <div class="piece-block" style="margin-top:3mm;">
+            <div class="piece-block-label">Captação</div>
+            <div class="piece-block-text">Captação pela equipe Dumar · piso 1 (balcão) · escolher 1 vendedor pra protagonizar · release assinado.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="page-footer">
+    <div class="footer-brand"><strong>LONE MÍDIA</strong> · Plano de Conteúdo · Dumar</div>
+    <div class="page-num">6 / 12</div>
+  </footer>
+</section>
+
+<!-- ============================================================ -->
+<!-- PÁGINA 7 — JUNHO · 05/06 + 08/06                              -->
+<!-- ============================================================ -->
+<section class="page">
+  <div class="top-header">
+    <div class="brand">
+      <img src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia">
+    </div>
+    <div class="header-badge">CLIENTE <span class="dot">·</span><strong>DUMAR</strong></div>
+  </div>
+
+  <div class="page-body">
+    <div class="pieces-stack">
+      <!-- 05/06 P3 CARROSSEL -->
+      <div class="piece p3">
+        <div class="piece-side"><div class="side-label">P I L A R · 3</div></div>
+        <div class="piece-body">
+          <div class="piece-header">
+            <div>
+              <div class="piece-date">05/06 · Sexta-feira <span class="pillar-tag">INVISÍVEL DA INTERNET</span></div>
+              <div class="piece-title">Tua ferramenta parou? A assistência tá no balcão.</div>
+            </div>
+            <div class="piece-format fmt-carrossel">CARROSSEL · 5 SLIDES</div>
+          </div>
+          <div class="piece-divider"></div>
+          <div class="piece-block">
+            <div class="piece-block-label">Ideia do post</div>
+            <div class="piece-block-text">Posiciona a assistência técnica autorizada como a coisa que SÓ a Dumar entrega na região. Tom positivo, foco na solução presente — não no problema da compra. Multimarca, peça original, atende mesmo que a ferramenta tenha sido comprada em outro lugar.</div>
+          </div>
+          <div class="piece-art">
+            <div class="piece-block-label">Slides</div>
+            <div class="piece-block-text"><span class="key">Capa:</span> "Tua ferramenta parou? A assistência tá no balcão."</div>
+            <div class="piece-block-text"><span class="key">Slide 2:</span> "Assistência técnica autorizada multimarca." (foto: detalhe Vonder IMG_3500)</div>
+            <div class="piece-block-text"><span class="key">Slide 3:</span> "Diagnostica, troca com peça original, testa."</div>
+            <div class="piece-block-text"><span class="key">Slide 4:</span> "Devolvemos funcionando 100%. Com garantia."</div>
+            <div class="piece-block-text"><span class="key">Slide 5 (CTA):</span> "Tá precisando? Traz pra gente. WhatsApp (22) 98873-3904."</div>
+          </div>
+          <div class="piece-block" style="margin-top:3mm;">
+            <div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">Quando a ferramenta para, dá pra resolver aqui — com peça original, técnico autorizado, e teste antes de devolver.</div>
+            <div class="piece-block-text">Assistência técnica autorizada multimarca. Mesmo que você não tenha comprado a máquina na Dumar, a gente atende.</div>
+            <div class="piece-block-text"><span class="piece-icon">📲</span>(22) 98873-3904 · Rua Félix Valadares Júnior, 135 · Centro · Araruama</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 08/06 P2 -->
+      <div class="piece p2">
+        <div class="piece-side"><div class="side-label">P I L A R · 2</div></div>
+        <div class="piece-body">
+          <div class="piece-header">
+            <div>
+              <div class="piece-date">08/06 · Segunda-feira <span class="pillar-tag">FERRAMENTA CERTA</span></div>
+              <div class="piece-title">Qual chave você tá precisando?</div>
+            </div>
+            <div class="piece-format fmt-post">POST ESTÁTICO</div>
+          </div>
+          <div class="piece-divider"></div>
+          <div class="piece-block">
+            <div class="piece-block-label">Ideia do post</div>
+            <div class="piece-block-text">Mostra a variedade da seção de chaves da Dumar — o objetivo é vitrine de tipos disponíveis, não aula técnica. Headline-pergunta direta + tópicos curtos com função de cada tipo, foto das chaves do banco ao fundo. Comunica "tem a chave certa pro teu serviço" sem inflar de teoria.</div>
+          </div>
+          <div class="piece-art">
+            <div class="piece-block-label">Arte</div>
+            <div class="piece-block-text">Foto das chaves Vonder do banco (IMG_3500/3501 e/ou IMG_3505) ao fundo, ocupando dominante, com tratamento de opacidade suave pra o texto sobrepor com legibilidade.</div>
+            <div class="piece-block-text"><span class="key">Headline:</span> "Qual chave você tá precisando?"</div>
+            <div class="piece-block-text"><span class="key">Tópicos (lista curta sobre a foto):</span></div>
+            <div class="piece-block-text">• <span class="key">Combinada</span> — aperta e solta porca e parafuso comum.</div>
+            <div class="piece-block-text">• <span class="key">Hexagonal (Allen)</span> — parafuso com encaixe sextavado interno.</div>
+            <div class="piece-block-text">• <span class="key">Fenda ou Phillips</span> — parafuso de cabeça simples ou cruzada.</div>
+            <div class="piece-block-text">• <span class="key">Inglesa</span> — ajustável, serve em mais de uma medida.</div>
+            <div class="piece-block-text">• <span class="key">Catraca</span> — aperta sem precisar tirar e recolocar.</div>
+            <div class="piece-block-text"><span class="key">Rodapé:</span> WhatsApp (22) 98873-3904 · endereço · logo discreto.</div>
+          </div>
+          <div class="piece-block" style="margin-top:3mm;">
+            <div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">Chave combinada, hexagonal, de fenda, inglesa, catraca — tem o tipo certo pra cada serviço, em várias medidas, várias marcas.</div>
+            <div class="piece-block-text">Tá em dúvida da medida ou do modelo pra teu serviço? Manda no WhatsApp que a gente te indica.</div>
+            <div class="piece-block-text"><span class="piece-icon">📲</span>(22) 98873-3904 · Centro · Araruama</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="page-footer">
+    <div class="footer-brand"><strong>LONE MÍDIA</strong> · Plano de Conteúdo · Dumar</div>
+    <div class="page-num">7 / 12</div>
+  </footer>
+</section>
+
+<!-- ============================================================ -->
+<!-- PÁGINA 8 — JUNHO · 10/06 + 12/06 (NAMORADOS)                  -->
+<!-- ============================================================ -->
+<section class="page">
+  <div class="top-header">
+    <div class="brand">
+      <img src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia">
+    </div>
+    <div class="header-badge">CLIENTE <span class="dot">·</span><strong>DUMAR</strong></div>
+  </div>
+
+  <div class="page-body">
+    <div class="pieces-stack">
+      <!-- 10/06 P1 REELS -->
+      <div class="piece p1">
+        <div class="piece-side"><div class="side-label">P I L A R · 1</div></div>
+        <div class="piece-body">
+          <div class="piece-header">
+            <div>
+              <div class="piece-date">10/06 · Quarta-feira <span class="pillar-tag">NA DUMAR TEM</span></div>
+              <div class="piece-title">Tem ou não tem? Aqui na Dumar tem.</div>
+            </div>
+            <div class="piece-format fmt-reels">REELS · 35S</div>
+          </div>
+          <div class="piece-divider"></div>
+          <div class="piece-block">
+            <div class="piece-block-label">Ideia do post</div>
+            <div class="piece-block-text">Reels que materializa o slogan em duas partes: primeiro a "pegadinha" — câmera no peito percorrendo a loja com voz disparando perguntas e cada parada confirmando o produto na prateleira. Depois corta direto pro atendente em câmera fechando com a fala institucional curta. Tom de bastidor + fechamento humano direto.</div>
+          </div>
+          <div class="piece-art">
+            <div class="piece-block-label">Vídeo · 35s</div>
+            <div class="piece-block-text"><span class="key">Bloco 1 · Pegadinha (0-22s):</span> câmera no peito correndo pelos corredores. Voz pergunta "tem [produto]?" → câmera para na prateleira → mostra o material → voz responde "tem". Repete pra 4-5 itens diferentes: broca pra concreto, chave hexagonal, esmerilhadeira, disco de corte, cortador de grama.</div>
+            <div class="piece-block-text"><span class="key">Bloco 2 · Atendente em câmera (22-35s):</span> corte direto pro atendente olhando pra câmera, ambiente da loja ao fundo, fala simples e direta:</div>
+            <div class="piece-block-text" style="margin-left:4mm;">"São mais de 35 anos de história, trabalhando com mais de 12 marcas pra atender todas as suas necessidades. Se você tá precisando de ferramentas, máquinas, assistência técnica — pode vir, aqui na Dumar tem."</div>
+            <div class="piece-block-text"><span class="key">Tela final (35s, 1s):</span> WhatsApp (22) 98873-3904 · Rua Félix Valadares Júnior, 135 · Centro · Araruama. Sem tipografia decorativa.</div>
+          </div>
+          <div class="piece-block" style="margin-top:3mm;">
+            <div class="piece-block-label">Captação</div>
+            <div class="piece-block-text">Captação pela equipe Dumar · piso 1 · câmera no peito ou celular na mão estável · áudio do ambiente preservado no Bloco 1 · áudio limpo do atendente no Bloco 2 (sem música por cima da fala) · release do atendente assinado.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 12/06 P1 POST NAMORADOS -->
+      <div class="piece p1">
+        <div class="piece-side"><div class="side-label">P I L A R · 1</div></div>
+        <div class="piece-body">
+          <div class="piece-header">
+            <div>
+              <div class="piece-date">12/06 · Sexta-feira <span class="pillar-tag">NA DUMAR TEM</span> <span class="anchor">DIA DOS NAMORADOS</span></div>
+              <div class="piece-title">Feliz Dia dos Namorados.</div>
+            </div>
+            <div class="piece-format fmt-post">POST ESTÁTICO</div>
+          </div>
+          <div class="piece-divider"></div>
+          <div class="piece-block">
+            <div class="piece-block-label">Ideia do post</div>
+            <div class="piece-block-text">Post estático simples pra marcar a data sem inflar narrativa. Saudação curta + convite direto pro presente. Formato direto, sem grande produção.</div>
+          </div>
+          <div class="piece-art">
+            <div class="piece-block-label">Arte</div>
+            <div class="piece-block-text">Headline serif em destaque: "Feliz Dia dos Namorados."</div>
+            <div class="piece-block-text">Sub-headline menor: "Aproveita pra garantir o presente do companheiro aqui na Dumar."</div>
+            <div class="piece-block-text">Foto de fundo: ferramenta da loja (sugestão: parafusadeira Makita HP0300 — IMG_3517) com tratamento limpo. Sem coração, sem casal, sem decoração rosa. Rodapé com WhatsApp e endereço.</div>
+          </div>
+          <div class="piece-block" style="margin-top:3mm;">
+            <div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">Feliz Dia dos Namorados de toda a equipe da Dumar.</div>
+            <div class="piece-block-text">Se ainda tá em dúvida do presente, passa aqui — tem opção pra todo perfil de companheiro. Chama no WhatsApp que a gente te ajuda a escolher.</div>
+            <div class="piece-block-text"><span class="piece-icon">📲</span>(22) 98873-3904 · Rua Félix Valadares Júnior, 135 · Centro · Araruama</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="page-footer">
+    <div class="footer-brand"><strong>LONE MÍDIA</strong> · Plano de Conteúdo · Dumar</div>
+    <div class="page-num">8 / 12</div>
+  </footer>
+</section>
+
+<!-- ============================================================ -->
+<!-- PÁGINA 9 — JUNHO · 15/06 + 17/06                              -->
+<!-- ============================================================ -->
+<section class="page">
+  <div class="top-header">
+    <div class="brand">
+      <img src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia">
+    </div>
+    <div class="header-badge">CLIENTE <span class="dot">·</span><strong>DUMAR</strong></div>
+  </div>
+
+  <div class="page-body">
+    <div class="pieces-stack">
+      <!-- 15/06 P3 -->
+      <div class="piece p3">
+        <div class="piece-side"><div class="side-label">P I L A R · 3</div></div>
+        <div class="piece-body">
+          <div class="piece-header">
+            <div>
+              <div class="piece-date">15/06 · Segunda-feira <span class="pillar-tag">INVISÍVEL DA INTERNET</span></div>
+              <div class="piece-title">Quando a ferramenta para, dá pra resolver hoje.</div>
+            </div>
+            <div class="piece-format fmt-post">POST ESTÁTICO</div>
+          </div>
+          <div class="piece-divider"></div>
+          <div class="piece-block">
+            <div class="piece-block-label">Ideia do post</div>
+            <div class="piece-block-text">Convite positivo, sem comparativo. Foco no que SÓ a Dumar entrega na região: assistência no mesmo dia, peça no estoque, técnico no balcão. Sem confronto, sem números de contraste — só a presença da solução aqui e agora.</div>
+          </div>
+          <div class="piece-art">
+            <div class="piece-block-label">Arte</div>
+            <div class="piece-block-text">Headline serif grande em destaque ("Quando a ferramenta para, dá pra resolver hoje."). Linha de apoio menor abaixo ("Peça no estoque · técnico no balcão · garantia na mesma porta."). Foto da parafusadeira Makita (IMG_3517) ou da chave Vonder (IMG_3500) como elemento visual lateral discreto. Rodapé com endereço e WhatsApp.</div>
+          </div>
+          <div class="piece-block" style="margin-top:3mm;">
+            <div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">Tua ferramenta parou num momento que você precisava dela. Tem solução perto.</div>
+            <div class="piece-block-text">Na Dumar, peça no estoque, técnico no balcão, garantia que se resolve aqui — mesma porta, mesma assinatura. Sem ficha de protocolo, sem espera de semana.</div>
+            <div class="piece-block-text">Passa no balcão ou chama no WhatsApp pra começar.</div>
+            <div class="piece-block-text"><span class="piece-icon">📲</span>(22) 98873-3904 · Centro · Araruama</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 17/06 P4 REELS -->
+      <div class="piece p4">
+        <div class="piece-side"><div class="side-label">P I L A R · 4</div></div>
+        <div class="piece-body">
+          <div class="piece-header">
+            <div>
+              <div class="piece-date">17/06 · Quarta-feira <span class="pillar-tag">BASTIDORES</span></div>
+              <div class="piece-title">A frota Dumar tá rodando.</div>
+            </div>
+            <div class="piece-format fmt-reels">REELS · 30S</div>
+          </div>
+          <div class="piece-divider"></div>
+          <div class="piece-block">
+            <div class="piece-block-label">Ideia do post</div>
+            <div class="piece-block-text">Mostra a frota própria adesivada em ação — diferencial que ninguém da internet entrega. Conecta com cliente B2B (hotel, marmoraria, marina) que depende de coleta/entrega rápida na Região dos Lagos.</div>
+          </div>
+          <div class="piece-art">
+            <div class="piece-block-label">Vídeo · 30s</div>
+            <div class="piece-block-text"><span class="key">Gancho (0-3s):</span> carro adesivado da Dumar saindo da loja, plano aberto da rua.</div>
+            <div class="piece-block-text"><span class="key">Contexto (3-12s):</span> motorista conta entrega do dia: "Hoje saiu pra Cabo Frio levar peça pra marina, depois Búzios."</div>
+            <div class="piece-block-text"><span class="key">Solução (12-22s):</span> "Quando tua ferramenta para, a gente vai buscar. Conserta. Devolve."</div>
+            <div class="piece-block-text"><span class="key">Benefício (22-27s):</span> "Tua produção não para esperando transportadora."</div>
+            <div class="piece-block-text"><span class="key">CTA (27-30s):</span> "Frota Dumar · Região dos Lagos · WhatsApp (22) 98873-3904."</div>
+          </div>
+          <div class="piece-block" style="margin-top:3mm;">
+            <div class="piece-block-label">Captação</div>
+            <div class="piece-block-text">Captação pela equipe Dumar · captar saída ou chegada da frota · entrevistar motorista (release).</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="page-footer">
+    <div class="footer-brand"><strong>LONE MÍDIA</strong> · Plano de Conteúdo · Dumar</div>
+    <div class="page-num">9 / 12</div>
+  </footer>
+</section>
+
+<!-- ============================================================ -->
+<!-- PÁGINA 10 — JUNHO · 19/06 + 22/06                             -->
+<!-- ============================================================ -->
+<section class="page">
+  <div class="top-header">
+    <div class="brand">
+      <img src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia">
+    </div>
+    <div class="header-badge">CLIENTE <span class="dot">·</span><strong>DUMAR</strong></div>
+  </div>
+
+  <div class="page-body">
+    <div class="pieces-stack">
+      <!-- 19/06 P1 CARROSSEL LINHA JARDINAGEM -->
+      <div class="piece p1">
+        <div class="piece-side"><div class="side-label">P I L A R · 1</div></div>
+        <div class="piece-body">
+          <div class="piece-header">
+            <div>
+              <div class="piece-date">19/06 · Sexta-feira <span class="pillar-tag">NA DUMAR TEM</span></div>
+              <div class="piece-title">Linha jardinagem: cortador de grama pra cada terreno.</div>
+            </div>
+            <div class="piece-format fmt-carrossel">CARROSSEL · 5 SLIDES</div>
+          </div>
+          <div class="piece-divider"></div>
+          <div class="piece-block">
+            <div class="piece-block-label">Ideia do post</div>
+            <div class="piece-block-text">Vitrine simples da seção de jardinagem da Dumar. Foto + headline curta, sem inflar narrativa. Mostra a variedade de cortadores de grama disponíveis na loja — comunica "Na Dumar tem" no formato direto.</div>
+          </div>
+          <div class="piece-art">
+            <div class="piece-block-label">Slides</div>
+            <div class="piece-block-text"><span class="key">Capa:</span> "Linha jardinagem. Cortador de grama pra cada terreno."</div>
+            <div class="piece-block-text"><span class="key">Slide 2:</span> Cortador de grama elétrico (foto da linha — banco da Dumar).</div>
+            <div class="piece-block-text"><span class="key">Slide 3:</span> Cortador a gasolina/combustão (foto da linha — banco da Dumar).</div>
+            <div class="piece-block-text"><span class="key">Slide 4:</span> Roçadeira ou aparador (foto da linha — banco da Dumar).</div>
+            <div class="piece-block-text"><span class="key">Slide 5 (CTA):</span> "Tá em dúvida do modelo certo? Conta o tamanho do terreno no WhatsApp · (22) 98873-3904."</div>
+          </div>
+          <div class="piece-block" style="margin-top:3mm;">
+            <div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">Terreno pequeno, grande, com declive, com pedra — cada um pede um cortador diferente.</div>
+            <div class="piece-block-text">Linha completa na Dumar: elétrico, à bateria, à gasolina, roçadeira, aparador. Passa pra ver o que cabe no teu quintal ou conta o tamanho no WhatsApp que a gente te indica.</div>
+            <div class="piece-block-text"><span class="piece-icon">📲</span>(22) 98873-3904 · Rua Félix Valadares Júnior, 135 · Centro · Araruama</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 22/06 P2 -->
+      <div class="piece p2">
+        <div class="piece-side"><div class="side-label">P I L A R · 2</div></div>
+        <div class="piece-body">
+          <div class="piece-header">
+            <div>
+              <div class="piece-date">22/06 · Segunda-feira <span class="pillar-tag">FERRAMENTA CERTA</span></div>
+              <div class="piece-title">Quando vale gastar mais. Quando não vale.</div>
+            </div>
+            <div class="piece-format fmt-post">POST ESTÁTICO</div>
+          </div>
+          <div class="piece-divider"></div>
+          <div class="piece-block">
+            <div class="piece-block-label">Ideia do post</div>
+            <div class="piece-block-text">Educacional contraintuitivo de consultor honesto. Quebra a expectativa que a Dumar empurra a versão mais cara. Mostra critério prático: pra uso eventual, a básica resolve; pra trabalho diário, a profissional paga a diferença em durabilidade.</div>
+          </div>
+          <div class="piece-art">
+            <div class="piece-block-label">Arte</div>
+            <div class="piece-block-text">Headline serif/sans contraposta: "Quando vale gastar mais." (linha superior) "Quando não vale." (linha inferior). Foto da chave Vonder (IMG_3505) como elemento visual lateral. Rodapé com endereço e WhatsApp. Sem comparativo em tabela visual — texto direto.</div>
+          </div>
+          <div class="piece-block" style="margin-top:3mm;">
+            <div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">A pergunta honesta: vale pagar o dobro pela ferramenta profissional?</div>
+            <div class="piece-block-text">Pra uso eventual em casa — montar um móvel, furar uma parede uma vez por mês — a versão básica resolve e dura anos.</div>
+            <div class="piece-block-text">Pra trabalho diário — pedreiro, marceneiro, eletricista, mecânico — a profissional paga a diferença em poucos meses só pela durabilidade.</div>
+            <div class="piece-block-text">Conta o teu uso real que a gente te indica a faixa certa.</div>
+            <div class="piece-block-text"><span class="piece-icon">📲</span>(22) 98873-3904 · Centro · Araruama</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="page-footer">
+    <div class="footer-brand"><strong>LONE MÍDIA</strong> · Plano de Conteúdo · Dumar</div>
+    <div class="page-num">10 / 12</div>
+  </footer>
+</section>
+
+<!-- ============================================================ -->
+<!-- PÁGINA 11 — JUNHO · 24/06 + 26/06                             -->
+<!-- ============================================================ -->
+<section class="page">
+  <div class="top-header">
+    <div class="brand">
+      <img src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia">
+    </div>
+    <div class="header-badge">CLIENTE <span class="dot">·</span><strong>DUMAR</strong></div>
+  </div>
+
+  <div class="page-body">
+    <div class="pieces-stack">
+      <!-- 24/06 P5 REELS DUMAR PRO -->
+      <div class="piece p5">
+        <div class="piece-side"><div class="side-label">P I L A R · 5</div></div>
+        <div class="piece-body">
+          <div class="piece-header">
+            <div>
+              <div class="piece-date">24/06 · Quarta-feira <span class="pillar-tag">DUMAR PRO</span></div>
+              <div class="piece-title">Subiu pro 2º andar.</div>
+            </div>
+            <div class="piece-format fmt-reels">REELS · 35S</div>
+          </div>
+          <div class="piece-divider"></div>
+          <div class="piece-block">
+            <div class="piece-block-label">Ideia do post</div>
+            <div class="piece-block-text">Primeira peça do Pilar 5 do período. Apresenta o ambiente B2B — mostruário corporativo, sala de testes, sala de reunião — como diferencial pra hotel, marmoraria, construtora, marina. Tom mais sóbrio que B2C, mantém mão na massa.</div>
+          </div>
+          <div class="piece-art">
+            <div class="piece-block-label">Vídeo · 35s</div>
+            <div class="piece-block-text"><span class="key">Gancho (0-3s):</span> câmera subindo a escada do 1º pro 2º andar.</div>
+            <div class="piece-block-text"><span class="key">Contexto (3-12s):</span> pessoa da equipe: "Aqui em cima é pra cliente corporativo. Hotel, marmoraria, marina, construtora."</div>
+            <div class="piece-block-text"><span class="key">Tour (12-28s):</span> cortes mostrando mostruário robusto + sala de reunião + sala de testes + canto de produção. "Sentar, testar, negociar — tudo num lugar só."</div>
+            <div class="piece-block-text"><span class="key">Benefício (28-32s):</span> "Pra quem depende de ferramenta no dia a dia, isso é tempo e produção preservados."</div>
+            <div class="piece-block-text"><span class="key">CTA (32-35s):</span> "Tua empresa tem demanda? Agenda visita no WhatsApp (22) 98873-3904."</div>
+          </div>
+          <div class="piece-block" style="margin-top:3mm;">
+            <div class="piece-block-label">Captação</div>
+            <div class="piece-block-text">Captação pela equipe Dumar · piso 2 inteiro · cuidar pra mostruário estar abastecido na hora da gravação.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 26/06 P1 CARROSSEL -->
+      <div class="piece p1">
+        <div class="piece-side"><div class="side-label">P I L A R · 1</div></div>
+        <div class="piece-body">
+          <div class="piece-header">
+            <div>
+              <div class="piece-date">26/06 · Sexta-feira <span class="pillar-tag">NA DUMAR TEM</span></div>
+              <div class="piece-title">Esse mês na Dumar.</div>
+            </div>
+            <div class="piece-format fmt-carrossel">CARROSSEL · 5 SLIDES</div>
+          </div>
+          <div class="piece-divider"></div>
+          <div class="piece-block">
+            <div class="piece-block-label">Ideia do post</div>
+            <div class="piece-block-text">Peça de fechamento do mês. Resumo visual do que aconteceu — produtos destacados, novidades, reforma andando. Ancora a marca como ativa, em movimento, sem precisar fazer auto-promoção institucional ("estamos crescendo").</div>
+          </div>
+          <div class="piece-art">
+            <div class="piece-block-label">Slides</div>
+            <div class="piece-block-text"><span class="key">Capa:</span> "Esse mês na Dumar."</div>
+            <div class="piece-block-text"><span class="key">Slide 2:</span> "Linha Makita completa no balcão." (foto: parafusadeira HP0300)</div>
+            <div class="piece-block-text"><span class="key">Slide 3:</span> "Linha jardinagem chegou pronta pro inverno." (foto: cortador de grama — banco da Dumar)</div>
+            <div class="piece-block-text"><span class="key">Slide 4:</span> "Reforma do prédio andando — vem novidade aí." (foto: detalhe da reforma — banco da Dumar)</div>
+            <div class="piece-block-text"><span class="key">Slide 5 (CTA):</span> "Passa pra ver. Rua Félix Valadares Júnior, 135 · WhatsApp (22) 98873-3904."</div>
+          </div>
+          <div class="piece-block" style="margin-top:3mm;">
+            <div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">Resumo rápido do que rolou esse mês no balcão.</div>
+            <div class="piece-block-text">Linha Makita completa, jardinagem pronta pra estação, e a reforma do prédio entrando na reta final — em breve a gente abre o espaço todo.</div>
+            <div class="piece-block-text">Passa pra ver pessoalmente ou chama no WhatsApp.</div>
+            <div class="piece-block-text"><span class="piece-icon">📲</span>(22) 98873-3904 · Rua Félix Valadares Júnior, 135 · Centro · Araruama</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="page-footer">
+    <div class="footer-brand"><strong>LONE MÍDIA</strong> · Plano de Conteúdo · Dumar</div>
+    <div class="page-num">11 / 12</div>
+  </footer>
+</section>
+
+<!-- ============================================================ -->
+<!-- PÁGINA 12 — FECHAMENTO                                        -->
+<!-- ============================================================ -->
+<section class="page">
+  <div class="top-header">
+    <div class="brand">
+      <img src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia">
+    </div>
+    <div class="header-badge">CLIENTE <span class="dot">·</span><strong>DUMAR</strong></div>
+  </div>
+
+  <div class="closing-body">
+    <img class="closing-logo" src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia">
+    <div class="closing-tag">MARKETING &amp; VENDAS · ARARUAMA</div>
+    <p class="closing-message">Esse plano é vivo. Pode ser ajustado conforme a estratégia da Dumar evoluir — datas de reinauguração, mudanças de produto-foco, releases B2B que aparecerem no caminho, ou ajustes solicitados pela equipe. A captação interna alimenta os 5 reels; fotos da linha Makita e dos cortadores de grama destravam os carrosséis de maio e junho.</p>
+    <div class="closing-rule"></div>
+    <div class="closing-footer">PLANO DE CONTEÚDO · MAIO + JUNHO 2026<br>JANELA 22/05 → 26/06</div>
+  </div>
+
+  <footer class="page-footer">
+    <div class="footer-brand"><strong>LONE MÍDIA</strong> · Plano de Conteúdo · Dumar</div>
+    <div class="page-num">12 / 12</div>
+  </footer>
+</section>
+
+</body>
+</html>

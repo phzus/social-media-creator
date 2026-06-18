@@ -1,0 +1,147 @@
+# Automation Sequences — Arsenal do @salazar
+# Welcome, abandono, engagement, loyalty, referral
+# Uso: @salazar — referência para automações de funil
+
+sequences:
+
+  welcome_sequence:
+    name: "Welcome Sequence (5 Emails)"
+    trigger: "Novo lead capturado"
+    timing: "Imediato → 7 dias"
+    emails:
+      - id: 1
+        delay: "Imediato"
+        subject: "Bem-vindo(a)! Aqui está seu [lead magnet]"
+        goal: "Entregar o prometido + primeira impressão forte"
+        content: "Link do lead magnet + quem é o expert + o que esperar"
+      - id: 2
+        delay: "+1 dia"
+        subject: "A coisa #1 que [avatar] erra sobre [tema]"
+        goal: "Valor puro — posicionar como autoridade"
+        content: "Insight prático + prova de conhecimento"
+      - id: 3
+        delay: "+3 dias"
+        subject: "Minha história com [tema] (não foi fácil)"
+        goal: "Conexão emocional + vulnerabilidade"
+        content: "História do expert + lição aprendida"
+      - id: 4
+        delay: "+5 dias"
+        subject: "[N] dicas que mudaram [resultado] pra mim"
+        goal: "Mais valor + demonstrar expertise"
+        content: "Dicas práticas e acionáveis"
+      - id: 5
+        delay: "+7 dias"
+        subject: "Próximo passo pra [resultado desejado]"
+        goal: "Transição suave pra oferta"
+        content: "CTA para produto/serviço + sem pressão"
+
+  abandoned_cart:
+    name: "Abandoned Cart Recovery"
+    trigger: "Checkout abandonado"
+    timing: "1h → 72h"
+    emails:
+      - id: 1
+        delay: "1 hora"
+        subject: "Esqueceu algo?"
+        tone: "Helpful, sem pressão"
+        content: "Lembrete amigável + link direto pro checkout"
+        incentivo: "Nenhum (ainda)"
+      - id: 2
+        delay: "24 horas"
+        subject: "Sua inscrição está reservada (por pouco tempo)"
+        tone: "Suave urgência"
+        content: "Reforçar benefício principal + prova social"
+        incentivo: "Nenhum (ainda)"
+      - id: 3
+        delay: "48 horas"
+        subject: "Posso te ajudar com alguma dúvida?"
+        tone: "Empático, quebra de objeções"
+        content: "FAQ das 3 maiores objeções + garantia"
+        incentivo: "Frete grátis ou bônus extra"
+      - id: 4
+        delay: "72 horas"
+        subject: "Última mensagem sobre [produto]"
+        tone: "Final, sem culpa"
+        content: "Resumo da oferta + link + 'se não for pra você, tudo bem'"
+        incentivo: "Desconto 10% (se aprovado pelo @theboss)"
+
+  engagement_playbook:
+    name: "Engagement Re-activation"
+    trigger: "Sem abrir emails por 30+ dias"
+    sequence:
+      - id: 1
+        subject: "Sumiu? 😅"
+        content: "Check-in leve + conteúdo de alto valor"
+      - id: 2
+        delay: "+3 dias"
+        subject: "Trouxe algo especial pra você"
+        content: "Conteúdo exclusivo ou recurso grátis"
+      - id: 3
+        delay: "+7 dias"
+        subject: "Último email (a não ser que você queira continuar)"
+        content: "Opção de continuar ou sair da lista"
+    rules:
+      - "Se não abrir nenhum dos 3: mover pra lista fria"
+      - "Se abrir qualquer um: voltar pra lista ativa"
+      - "NUNCA deletar — apenas segmentar"
+
+  loyalty_program:
+    name: "Loyalty & Referral System"
+    components:
+      milestone_emails:
+        - trigger: "30 dias de cliente"
+          action: "Email de celebração + pedir depoimento"
+        - trigger: "90 dias de cliente"
+          action: "Acesso a conteúdo exclusivo"
+        - trigger: "1 ano de cliente"
+          action: "Badge de membro + desconto especial"
+      referral:
+        structure: "Cliente indica → amigo compra → ambos ganham"
+        incentivos:
+          indicador: "R$50 de crédito ou desconto na renovação"
+          indicado: "10% na primeira compra"
+        tracking: "Link único de indicação por cliente"
+        automation: "n8n: detectar compra com UTM de referral → disparar recompensa"
+
+  sms_whatsapp:
+    abandoned_cart_sms:
+      - delay: "2 horas"
+        message: "Oi [Nome]! Vi que você não finalizou sua inscrição no [produto]. Posso ajudar com alguma dúvida? [link]"
+      - delay: "24 horas"
+        message: "[Nome], sua vaga em [produto] ainda está reservada. Últimas horas com [benefício]. Finalizar: [link]"
+    rules:
+      - "Max 2 SMS/WhatsApp por abandono"
+      - "Horário: 9h-21h apenas"
+      - "Tom conversacional, nunca formal"
+      - "CTA com link encurtado"
+
+automation_patterns:
+  tag_based:
+    description: "Toda ação do lead gera uma tag que define próxima automação"
+    examples:
+      - "lead-captura-webinar → welcome sequence webinar"
+      - "assistiu-cpl1 → email de recap + lembrete CPL2"
+      - "visitou-pagina-vendas → retargeting audience + email de objeção"
+      - "comprou → excluir de vendas + iniciar onboarding"
+      - "abandonou-checkout → abandoned cart sequence"
+
+  conditional_flows:
+    description: "Branching baseado em comportamento"
+    examples:
+      - "IF abriu email THEN enviar follow-up em 24h ELSE esperar 48h"
+      - "IF clicou CTA THEN adicionar tag 'interessado' ELSE enviar ângulo diferente"
+      - "IF score >= 75 THEN passar pra @andreza ELSE continuar nurture"
+
+tools_priority:
+  - tool: "n8n"
+    use: "Automações complexas, self-hosted"
+    priority: "Principal"
+  - tool: "Make (ex-Integromat)"
+    use: "Automações médias, SaaS"
+    priority: "Secundário"
+  - tool: "ManyChat"
+    use: "Chatbots WhatsApp/Instagram"
+    priority: "Chatbot"
+  - tool: "ActiveCampaign"
+    use: "Email marketing + CRM"
+    priority: "Email"

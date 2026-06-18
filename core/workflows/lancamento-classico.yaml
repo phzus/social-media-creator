@@ -1,0 +1,215 @@
+# Workflow: Lancamento Classico — PLF Pago (Jeff Walker)
+# Timeline: 4-8 semanas
+# Ticket: R$500-5K
+# Referencia: Product Launch Formula (pago, com trafego)
+
+name: lancamento-classico
+description: "Lancamento Pago (PLF) — Jeff Walker com trafego pago"
+type: launch
+framework: walker-plf
+estimated_duration: "4-8 semanas"
+ticket_range: "R$500-5K"
+conversion_target: "1-3% da lista"
+
+# Squad necessario
+squad:
+  core:
+    - theboss    # Estrategia e orquestracao
+    - claudinho    # Copy (emails, CPLs, pagina vendas)
+    - picasso      # Criativos e slides CPL
+    - cadu         # Trafego pago (Meta/Google)
+    - pixel        # Landing pages
+  support:
+    - nerd         # Implementacao tecnica
+    - salazar      # Automacoes
+    - metrics      # Metricas e relatorios
+    - rafa         # Gestao de projeto
+  optional:
+    - carla        # Pos-venda (se pos-venda estruturada)
+
+# Fases do workflow
+phases:
+
+  # ===== FASE 0: PREPARACAO (D-8 a D-6 semanas) =====
+  - id: preparacao
+    name: "Preparacao"
+    duration: "2 semanas"
+    tasks:
+      - task: onboarding-expert
+        agent: theboss
+        description: "Coletar informacoes do expert (questionario 21 perguntas)"
+      - task: create-briefing-copy
+        agent: theboss
+        description: "Preencher briefing de copy (5 partes)"
+        depends_on: [onboarding-expert]
+      - task: define-funnel
+        agent: theboss
+        description: "Confirmar PLF Pago como funil ideal"
+        depends_on: [onboarding-expert]
+      - task: structure-offer
+        agent: theboss
+        description: "Estruturar oferta (Hormozi)"
+        depends_on: [onboarding-expert, define-funnel]
+      - task: create-squad
+        agent: theboss
+        description: "Montar squad e criar estrutura de pastas"
+        depends_on: [define-funnel]
+
+  # ===== FASE 1: PRE-PRELAUNCH / CAPTACAO (D-6 a D-4 semanas) =====
+  - id: captacao
+    name: "Captacao (Pre-Prelaunch)"
+    duration: "2 semanas"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: captacao
+        description: "Emails de convite, copy da LP, copy dos ads"
+        depends_on: [preparacao]
+      - task: create-creatives
+        agent: picasso
+        scope: captacao
+        description: "Criativos para ads (feed, stories, reels)"
+        depends_on: [preparacao]
+        parallel: true
+      - task: build-pages
+        agent: pixel
+        scope: captacao
+        description: "Pagina de captura + pagina obrigado"
+        depends_on: [write-copy.captacao]
+      - task: setup-automations
+        agent: salazar
+        scope: captacao
+        description: "Automacao de captura (form → email → tag)"
+        depends_on: [build-pages.captacao]
+      - task: plan-traffic
+        agent: cadu
+        description: "Plano de midia completo"
+        depends_on: [create-creatives.captacao, build-pages.captacao]
+    deliverables:
+      - "{PROJ}_CAP_EML_CONVITE-BASE_V1.md"
+      - "{PROJ}_CAP_PGN_PAGINA-CAPTURA_V1.md"
+      - "{PROJ}_CAP_ADS-META_VIDEO-DOR_V1.md"
+      - "{PROJ}_CAP_MSG-API_CONVITE-INSCRICAO_V1.md"
+
+  # ===== FASE 2: PRELAUNCH / ANTECIPACAO (D-4 a D-2 semanas) =====
+  - id: antecipacao
+    name: "Antecipacao (Prelaunch)"
+    duration: "2 semanas"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: antecipacao
+        description: "Sequencia de aquecimento (5-7 emails)"
+      - task: create-creatives
+        agent: picasso
+        scope: antecipacao
+        description: "Posts de conteudo, stories, thumbnails"
+        parallel: true
+      - task: setup-automations
+        agent: salazar
+        scope: antecipacao
+        description: "Sequencia de emails automatizada"
+    deliverables:
+      - "{PROJ}_ANT_EML_AQUECIMENTO-01_V1.md (ate 07)"
+      - "{PROJ}_ANT_MSG-GRP_CONTEUDO-VALOR_V1.md"
+
+  # ===== FASE 3: LAUNCH / EVENTO — CPLs (D-2 a D semanas) =====
+  - id: evento
+    name: "Evento (3 CPLs)"
+    duration: "1-2 semanas"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: evento
+        description: "Scripts dos 3 CPLs + emails de suporte"
+      - task: create-creatives
+        agent: picasso
+        scope: evento
+        description: "Slides dos CPLs + thumbnails"
+        parallel: true
+      - task: setup-automations
+        agent: salazar
+        scope: evento
+        description: "Automacao presenca + emails pos-aula"
+    deliverables:
+      - "{PROJ}_EVT_CPL_CPL1-OPORTUNIDADE_V1.md"
+      - "{PROJ}_EVT_CPL_CPL2-TRANSFORMACAO_V1.md"
+      - "{PROJ}_EVT_CPL_CPL3-OWNERSHIP_V1.md"
+      - "{PROJ}_EVT_EML_LEMBRETE-CPL_V1.md"
+
+  # ===== FASE 4: OPEN CART / VENDAS (D a D+7 dias) =====
+  - id: vendas
+    name: "Vendas (Carrinho Aberto)"
+    duration: "5-7 dias"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: vendas
+        description: "5 emails de venda + copy pagina vendas + mensagens WhatsApp"
+      - task: build-pages
+        agent: pixel
+        scope: vendas
+        description: "Pagina de vendas + checkout"
+      - task: create-creatives
+        agent: picasso
+        scope: vendas
+        description: "Criativos de venda (urgencia, depoimentos)"
+        parallel: true
+      - task: setup-automations
+        agent: salazar
+        scope: vendas
+        description: "Sequencia vendas + abandono checkout + boleto"
+    deliverables:
+      - "{PROJ}_VND_EML_ABERTURA-CARRINHO_V1.md"
+      - "{PROJ}_VND_EML_LOGICA_V1.md"
+      - "{PROJ}_VND_EML_EMOCAO_V1.md"
+      - "{PROJ}_VND_EML_URGENCIA_V1.md"
+      - "{PROJ}_VND_EML_ULTIMA-CHANCE_V1.md"
+      - "{PROJ}_VND_PGN_PAGINA-DE-VENDAS_V1.md"
+
+  # ===== FASE 5: DOWNSELL (D+7 a D+10 dias) =====
+  - id: downsell
+    name: "Downsell"
+    duration: "3 dias"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: downsell
+        description: "Email de oferta alternativa"
+    deliverables:
+      - "{PROJ}_DWS_EML_OFERTA-ALTERNATIVA_V1.md"
+
+  # ===== FASE 6: POS-VENDA (D+7 em diante) =====
+  - id: pos-venda
+    name: "Pos-Venda"
+    duration: "Continuo"
+    tasks:
+      - task: onboard-client
+        agent: carla
+        description: "Onboarding dos novos compradores"
+      - task: analyze-metrics
+        agent: metrics
+        description: "Analise de performance durante lancamento"
+      - task: campaign-report
+        agent: metrics
+        description: "Relatorio final de campanha"
+        depends_on: [vendas, downsell]
+
+# Quality gates
+gates:
+  - name: "Briefing aprovado"
+    before: captacao
+    check: "Briefing Estrategico + Briefing Copy aprovados pelo Anthony"
+  - name: "Paginas e automacoes testadas"
+    before: evento
+    check: "LP funcional, emails disparando, pixel rastreando"
+  - name: "CPLs prontos"
+    before: vendas
+    check: "3 CPLs gravados/finalizados, pagina vendas pronta"
+
+# Metricas de sucesso
+success_metrics:
+  leads: "meta definida no briefing"
+  conversion: "1-3% da lista"
+  roas: "> 3x"
+  nps: "> 8.0"

@@ -1,0 +1,128 @@
+# Workflow: Quiz Funnel
+# Timeline: Continuo | Ticket: Qualquer (segmentacao + venda)
+# Referencia: Ryan Levesque (ASK Method), Russell Brunson (Traffic Secrets)
+
+name: quiz
+description: "Quiz funnel que segmenta o lead por perfil/problema e entrega oferta personalizada"
+type: captacao
+framework: levesque-ask-method
+estimated_duration: "2-3 semanas (setup) + continuo"
+ticket_range: "R$97-5K (varia por segmento)"
+conversion_target: "opt-in 40-70% | quiz-taker -> cliente 4-12%"
+
+variants:
+  - diagnostico: "Quiz de diagnostico (descobre o problema)"
+  - perfil: "Quiz de perfil (qual categoria voce e?)"
+  - recomendacao: "Quiz de recomendacao (qual produto e pra voce?)"
+
+squad:
+  core:
+    - theboss
+    - analyzer     # Mapeamento de arquetipos/segmentos
+    - claudinho    # Copy das perguntas + resultados
+    - pixel        # Pagina do quiz + resultado
+    - salazar      # Logica condicional + segmentacao automatica
+  support:
+    - picasso      # Identidade visual do quiz
+    - cadu         # Trafego
+    - metrics      # Funil por segmento
+
+phases:
+
+  - id: estrategia
+    name: "Arquitetura do Quiz"
+    duration: "3-5 dias"
+    description: |
+      Definir: quantos segmentos, quais perguntas, qual produto/oferta por segmento.
+      Fundacao da conversao: pergunta errada = resultado errado = oferta errada.
+    tasks:
+      - task: onboarding-expert
+        agent: theboss
+      - task: create-briefing-copy
+        agent: theboss
+      - task: analyze-audience
+        agent: analyzer
+        description: "Mapear 3-5 arquetipos/segmentos do avatar"
+    deliverables:
+      - "{PROJ}_EST_BRF_ARQUITETURA-QUIZ_V1.md"
+      - "{PROJ}_EST_SEG_PERFIS-SAIDA_V1.md"
+
+  - id: perguntas
+    name: "Perguntas do Quiz"
+    duration: "3-5 dias"
+    description: |
+      5-10 perguntas que segmentam por comportamento, dor, nivel, estagio.
+      Cada pergunta tem logica condicional que leva a um dos resultados finais.
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: perguntas
+        description: "Perguntas + opcoes + logica de scoring"
+    deliverables:
+      - "{PROJ}_PRG_CNT_ARVORE-DECISAO_V1.md"
+
+  - id: resultados
+    name: "Paginas de Resultado"
+    duration: "3-5 dias"
+    description: |
+      1 pagina de resultado por segmento. Cada uma: diagnostico personalizado,
+      validacao do problema, plano de acao, oferta especifica.
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: resultados
+        description: "Copy da pagina de cada resultado (3-5 variantes)"
+      - task: build-pages
+        agent: pixel
+        scope: resultados
+        description: "Paginas de resultado + quiz interativo"
+      - task: create-creatives
+        agent: picasso
+        scope: resultados
+        description: "Identidade visual + badges de perfil"
+    deliverables:
+      - "{PROJ}_RES_PGN_RESULTADO-SEGMENTO-A_V1.md"
+      - "{PROJ}_RES_PGN_RESULTADO-SEGMENTO-B_V1.md"
+      - "{PROJ}_RES_PGN_RESULTADO-SEGMENTO-C_V1.md"
+
+  - id: automacoes
+    name: "Segmentacao Automatica"
+    duration: "2-4 dias"
+    description: "Tagueamento + sequencias de email por segmento"
+    tasks:
+      - task: setup-automations
+        agent: salazar
+        scope: segmentacao
+        description: "Tags por resultado + fluxos de email por perfil"
+      - task: write-copy
+        agent: claudinho
+        scope: automacoes
+        description: "3-5 emails por segmento (nurture personalizado)"
+    deliverables:
+      - "{PROJ}_AUT_FLUXO-SEGMENTACAO_V1.yaml"
+      - "{PROJ}_AUT_EML_NURTURE-POR-SEGMENTO_V1.md"
+
+  - id: trafego
+    name: "Trafego + Otimizacao"
+    duration: "Continuo"
+    tasks:
+      - task: plan-traffic
+        agent: cadu
+        description: "Anuncios focados em curiosidade (qual o seu perfil?)"
+      - task: analyze-metrics
+        agent: metrics
+        description: "Funil por segmento + LTV por arquetipo"
+
+gates:
+  - name: "Arvore de decisao validada"
+    before: resultados
+    check: "Cada combinacao de respostas leva a 1 resultado claro"
+  - name: "Oferta por segmento alinhada"
+    before: trafego
+    check: "Cada segmento tem oferta especifica, nao a mesma oferta genérica"
+
+success_metrics:
+  start_rate: "> 65% (quem chega na pagina inicia o quiz)"
+  complete_rate: "> 70% (quem comeca termina)"
+  opt_in_rate: "> 45% (no resultado)"
+  segment_to_customer: "4-12%"

@@ -1,0 +1,750 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Bastidor + Depoimento Seu Oscar — Tindaro Solar · Lone Mídia</title>
+<style>
+  @page {
+    size: A4;
+    margin: 0;
+  }
+
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  html, body {
+    font-family: -apple-system, BlinkMacSystemFont, "Inter", "Helvetica Neue", "Segoe UI", Arial, sans-serif;
+    background: #e8e8e8;
+    color: #0a0a0a;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .page {
+    width: 210mm;
+    height: 297mm;
+    position: relative;
+    page-break-after: always;
+    background: #ffffff;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    margin: 16px auto;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+  }
+
+  .page:last-child { page-break-after: auto; }
+
+  @media print {
+    body { background: #fff; }
+    .page { margin: 0; box-shadow: none; }
+  }
+
+  /* ===== HEADER ===== */
+  header {
+    background: #0a0a0a;
+    padding: 6mm 12mm;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 0.6mm solid #1A2DD9;
+  }
+
+  .brand img {
+    height: 9mm;
+    width: auto;
+    display: block;
+  }
+
+  .badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 1.5mm;
+    background: #ffffff;
+    color: #0a0a0a;
+    padding: 1.8mm 3mm;
+    font-size: 2.2mm;
+    font-weight: 700;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    border-radius: 1mm;
+  }
+
+  .badge .badge-label {
+    opacity: 0.5;
+    font-weight: 500;
+  }
+
+  .badge .badge-dot {
+    width: 1.2mm;
+    height: 1.2mm;
+    background: #1A2DD9;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  /* ===== PAGE BODY ===== */
+  .page-body {
+    flex: 1;
+    padding: 10mm 12mm 16mm;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  /* ===== TITLE BLOCK ===== */
+  .title-block {
+    margin-bottom: 6mm;
+    padding-bottom: 4mm;
+    border-bottom: 0.5mm solid #1A2DD9;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 6mm;
+  }
+
+  h1 {
+    font-size: 11mm;
+    font-weight: 800;
+    letter-spacing: -1.2px;
+    color: #0a0a0a;
+    line-height: 0.95;
+  }
+
+  .subtitle {
+    font-size: 2.6mm;
+    font-weight: 700;
+    color: #1A2DD9;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    text-align: right;
+  }
+
+  .subtitle small {
+    display: block;
+    color: #7a7a7a;
+    font-weight: 500;
+    letter-spacing: 0.8px;
+    font-size: 2.2mm;
+    margin-top: 1mm;
+  }
+
+  /* ===== TIMELINE ===== */
+  .timeline {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 4.5mm;
+  }
+
+  .block {
+    display: grid;
+    grid-template-columns: 14mm 1fr;
+    gap: 3mm;
+    align-items: start;
+  }
+
+  .time {
+    font-size: 2.4mm;
+    font-weight: 800;
+    color: #1A2DD9;
+    letter-spacing: 0.5px;
+    background: #f0f2ff;
+    padding: 1.4mm 1mm;
+    border-radius: 0.8mm;
+    text-align: center;
+    line-height: 1;
+  }
+
+  .block-content {
+    line-height: 1.4;
+  }
+
+  .label-tag {
+    display: inline-block;
+    font-size: 3.2mm;
+    font-weight: 800;
+    color: #5a5a5a;
+    letter-spacing: 1.6px;
+    text-transform: uppercase;
+    margin-bottom: 2mm;
+    padding: 0.8mm 2mm;
+    background: #f5f5f5;
+    border-radius: 0.6mm;
+  }
+
+  .line {
+    font-size: 3.4mm;
+    line-height: 1.4;
+    color: #0a0a0a;
+    font-weight: 500;
+    margin-bottom: 2mm;
+  }
+
+  .line.dialog::before {
+    content: "“";
+    color: #1A2DD9;
+    font-weight: 800;
+    margin-right: 0.5mm;
+  }
+
+  .line.dialog::after {
+    content: "”";
+    color: #1A2DD9;
+    font-weight: 800;
+    margin-left: 0.5mm;
+  }
+
+  .scene {
+    font-size: 2.8mm;
+    line-height: 1.45;
+    color: #5a5a5a;
+    font-weight: 400;
+    padding-left: 3mm;
+    border-left: 0.4mm solid #d5d5d5;
+    margin-top: 1mm;
+  }
+
+  .scene::before {
+    content: "CENA · ";
+    font-weight: 800;
+    color: #1A2DD9;
+    letter-spacing: 0.8px;
+    font-size: 2mm;
+  }
+
+  /* ===== TRIO GRID ===== */
+  .trio {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 2mm;
+    margin: 1.5mm 0 2mm;
+  }
+
+  .trio-item {
+    background: #f8f9ff;
+    border-left: 0.8mm solid #1A2DD9;
+    padding: 2.5mm 3mm;
+    border-radius: 0 1mm 1mm 0;
+  }
+
+  .trio-titulo {
+    font-size: 2.4mm;
+    font-weight: 800;
+    color: #1A2DD9;
+    letter-spacing: 0.8px;
+    text-transform: uppercase;
+    margin-bottom: 1.5mm;
+  }
+
+  .trio-desc {
+    font-size: 2.8mm;
+    line-height: 1.35;
+    color: #0a0a0a;
+    font-weight: 500;
+  }
+
+  /* ===== SECTIONS ===== */
+  .section {
+    margin-bottom: 7mm;
+  }
+
+  .section:last-child { margin-bottom: 0; }
+
+  .section-title {
+    font-size: 4.2mm;
+    font-weight: 800;
+    letter-spacing: -0.3px;
+    color: #0a0a0a;
+    margin-bottom: 3.5mm;
+    padding-bottom: 1.8mm;
+    border-bottom: 0.4mm solid #1A2DD9;
+  }
+
+  .section-title small {
+    font-size: 2.6mm;
+    font-weight: 500;
+    color: #7a7a7a;
+    letter-spacing: 0.5px;
+    margin-left: 2mm;
+    text-transform: none;
+  }
+
+  /* B-roll grid 2 colunas */
+  .broll-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2.5mm 4mm;
+  }
+
+  .broll-item {
+    display: flex;
+    gap: 2.5mm;
+    align-items: baseline;
+    font-size: 2.9mm;
+    line-height: 1.4;
+    color: #0a0a0a;
+    padding: 1.8mm 0;
+    border-bottom: 0.2mm solid #ececec;
+  }
+
+  .broll-num {
+    flex: 0 0 5mm;
+    font-size: 3mm;
+    font-weight: 800;
+    color: #1A2DD9;
+    background: #f0f2ff;
+    border-radius: 0.6mm;
+    padding: 0.6mm 0;
+    text-align: center;
+    line-height: 1;
+  }
+
+  .broll-text {
+    flex: 1;
+  }
+
+  .broll-text strong {
+    font-weight: 700;
+    color: #0a0a0a;
+  }
+
+  /* Caption / legenda */
+  .caption {
+    background: #f8f9ff;
+    border-left: 1mm solid #1A2DD9;
+    padding: 4mm 5mm;
+    border-radius: 0 1mm 1mm 0;
+  }
+
+  .caption p {
+    font-size: 3.2mm;
+    line-height: 1.55;
+    color: #0a0a0a;
+    margin-bottom: 2mm;
+  }
+
+  .caption p:last-child { margin-bottom: 0; }
+
+  .caption .meta {
+    font-size: 2.8mm;
+    color: #5a5a5a;
+    margin-top: 3mm;
+  }
+
+  .hashtags {
+    font-size: 3mm;
+    color: #1A2DD9;
+    font-weight: 600;
+    line-height: 1.5;
+  }
+
+  /* Info box (azul) */
+  .info {
+    background: #f8f9ff;
+    border-left: 1mm solid #1A2DD9;
+    padding: 3.5mm 4.5mm;
+    border-radius: 0 1mm 1mm 0;
+  }
+
+  .info strong.info-label {
+    display: block;
+    font-size: 2.4mm;
+    font-weight: 800;
+    color: #1A2DD9;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    margin-bottom: 2mm;
+  }
+
+  .info p {
+    font-size: 2.95mm;
+    line-height: 1.5;
+    color: #0a0a0a;
+    margin-bottom: 1.5mm;
+  }
+
+  .info p:last-child { margin-bottom: 0; }
+
+  .info ul {
+    list-style: none;
+    margin-top: 1mm;
+  }
+
+  .info ul li {
+    font-size: 2.9mm;
+    line-height: 1.5;
+    color: #0a0a0a;
+    padding-left: 5mm;
+    position: relative;
+    margin-bottom: 1.2mm;
+  }
+
+  .info ul li::before {
+    content: "→";
+    position: absolute;
+    left: 0;
+    color: #1A2DD9;
+    font-weight: 800;
+    font-size: 3mm;
+  }
+
+  .info ul li strong {
+    color: #1A2DD9;
+    font-weight: 800;
+  }
+
+  /* Ads tag — selo de "anúncio" */
+  .ads-tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 1.5mm;
+    background: #1A2DD9;
+    color: #ffffff;
+    padding: 1.8mm 3mm;
+    font-size: 2.2mm;
+    font-weight: 700;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    border-radius: 1mm;
+  }
+
+  .ads-tag .ads-dot {
+    width: 1.2mm;
+    height: 1.2mm;
+    background: #ffffff;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  /* ===== FOOTER ===== */
+  footer {
+    position: absolute;
+    bottom: 7mm;
+    left: 12mm;
+    right: 12mm;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 0.3mm solid #e5e5e5;
+    padding-top: 3mm;
+    font-size: 2.2mm;
+    color: #7a7a7a;
+    letter-spacing: 0.3px;
+  }
+
+  footer .footer-brand {
+    font-weight: 700;
+    color: #0a0a0a;
+  }
+
+  footer .footer-meta {
+    display: flex;
+    gap: 3mm;
+    align-items: center;
+  }
+
+  .page-num {
+    font-weight: 700;
+    color: #1A2DD9;
+    background: #f0f2ff;
+    padding: 1mm 2.5mm;
+    border-radius: 0.8mm;
+    letter-spacing: 0.5px;
+  }
+</style>
+</head>
+<body>
+
+<!-- ============================== -->
+<!-- PÁGINA 1 — REELS BASTIDOR        -->
+<!-- ============================== -->
+<section class="page">
+  <header>
+    <div class="brand">
+      <img src="../../../shared/identidade-lone/lone-midia-logo-azul-branco.png" alt="Lone Mídia">
+    </div>
+    <div class="badge">
+      <span class="badge-dot"></span>
+      <span class="badge-label">Cliente</span>
+      <span>Tindaro Solar</span>
+    </div>
+  </header>
+
+  <div class="page-body">
+    <div class="title-block">
+      <h1>Reels Bastidor · Fazenda do Seu Oscar</h1>
+      <div class="subtitle">
+        Reels · Instagram &amp; Facebook
+        <small>35–40s · v1 · 11/05/2026</small>
+      </div>
+    </div>
+
+    <div class="timeline">
+
+      <div class="block">
+        <div class="time">0–4s</div>
+        <div class="block-content">
+          <span class="label-tag">Hook</span>
+          <p class="line dialog">Hoje a Tindaro começou a instalar uma usina solar nessa fazenda aqui do Sul Fluminense.</p>
+          <p class="scene">Plano aberto da fazenda (pan amplo) · módulos brilhando no sol · equipe começando o serviço. Você aparece em pé, fundo nítido da propriedade.</p>
+        </div>
+      </div>
+
+      <div class="block">
+        <div class="time">4–12s</div>
+        <div class="block-content">
+          <span class="label-tag">Dor</span>
+          <p class="line dialog">Quem é produtor rural sabe: a conta de luz da fazenda não é igual à de casa. Irrigação, equipamento, máquina ligada o dia todo — a conta vem alta todo mês.</p>
+          <p class="scene">Cortes intercalados: você falando + close em equipamento da fazenda que consome energia (bomba, irrigação, depósito, máquina).</p>
+        </div>
+      </div>
+
+      <div class="block">
+        <div class="time">12–22s</div>
+        <div class="block-content">
+          <span class="label-tag">Diferencial</span>
+          <p class="line dialog">Aqui a gente não vende pacote pronto. Esse projeto foi dimensionado pro consumo real da propriedade do seu Oscar — pelo tamanho da fazenda e pelo que ele consome de verdade.</p>
+          <p class="scene">Pico visual: equipe carregando módulos, fixando estrutura, parafusando, subindo escada. Cortes rápidos (1–2s cada) intercalados com você falando.</p>
+        </div>
+      </div>
+
+      <div class="block">
+        <div class="time">22–32s</div>
+        <div class="block-content">
+          <span class="label-tag">Benefícios</span>
+          <p class="line dialog">A expectativa é a conta dele cair pro valor mínimo da concessionária. Sistema se paga em uns 5 anos e gera por mais de 25. Isso é previsibilidade — todo mês, todo ano.</p>
+          <div class="trio">
+            <div class="trio-item">
+              <div class="trio-titulo">Conta</div>
+              <div class="trio-desc">Tende a cair pro valor mínimo da concessionária.</div>
+            </div>
+            <div class="trio-item">
+              <div class="trio-titulo">Payback</div>
+              <div class="trio-desc">Sistema se paga em ~5 anos.</div>
+            </div>
+            <div class="trio-item">
+              <div class="trio-titulo">Vida útil</div>
+              <div class="trio-desc">Gera energia por mais de 25 anos.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="block">
+        <div class="time">32–40s</div>
+        <div class="block-content">
+          <span class="label-tag">CTA</span>
+          <p class="line dialog">Tem fazenda, sítio, comércio ou casa gastando demais com luz? Chama a Tindaro Solar no WhatsApp. Orçamento sem compromisso.</p>
+          <p class="scene">Você falando · corte final pra logo Tindaro Solar + WhatsApp (24) 99918-3544 na tela.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <footer>
+    <span class="footer-brand">Lone Mídia</span>
+    <div class="footer-meta">
+      <span>Reels Bastidor · v1</span>
+      <span class="page-num">01 / 03</span>
+    </div>
+  </footer>
+</section>
+
+<!-- ============================== -->
+<!-- PÁGINA 2 — O QUE FILMAR + LEGENDA -->
+<!-- ============================== -->
+<section class="page">
+  <header>
+    <div class="brand">
+      <img src="../../../shared/identidade-lone/lone-midia-logo-azul-branco.png" alt="Lone Mídia">
+    </div>
+    <div class="badge">
+      <span class="badge-dot"></span>
+      <span class="badge-label">Cliente</span>
+      <span>Tindaro Solar</span>
+    </div>
+  </header>
+
+  <div class="page-body">
+    <div class="title-block">
+      <h1>O que filmar &amp; Legenda</h1>
+      <div class="subtitle">
+        Reels Bastidor · v1
+        <small>Lista de cenas + texto do post</small>
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">O que filmar <small>capture tudo, sobra é bom</small></div>
+      <div class="broll-grid">
+        <div class="broll-item">
+          <div class="broll-num">01</div>
+          <div class="broll-text"><strong>Plano aberto da fazenda</strong> — pan amplo (gira devagar). 2 takes.</div>
+        </div>
+        <div class="broll-item">
+          <div class="broll-num">02</div>
+          <div class="broll-text"><strong>Equipe carregando módulos</strong> — pegam, sobem, posicionam.</div>
+        </div>
+        <div class="broll-item">
+          <div class="broll-num">03</div>
+          <div class="broll-text"><strong>Equipe no telhado</strong> fixando estrutura — parafusando, alinhando.</div>
+        </div>
+        <div class="broll-item">
+          <div class="broll-num">04</div>
+          <div class="broll-text"><strong>Close de detalhes</strong> — parafuso entrando, ferramenta, módulo no sol.</div>
+        </div>
+        <div class="broll-item">
+          <div class="broll-num">05</div>
+          <div class="broll-text"><strong>Equipamento da fazenda</strong> — bomba d'água, irrigação, depósito, máquinas.</div>
+        </div>
+        <div class="broll-item">
+          <div class="broll-num">06</div>
+          <div class="broll-text"><strong>Caminhão/van da Tindaro</strong> chegando ou descarregando (se aplicar).</div>
+        </div>
+        <div class="broll-item">
+          <div class="broll-num">07</div>
+          <div class="broll-text"><strong>Telhado antes e depois</strong> dos módulos. Cria sensação de progresso.</div>
+        </div>
+        <div class="broll-item">
+          <div class="broll-num">08</div>
+          <div class="broll-text"><strong>Quadro do medidor antigo</strong> em close. Vira material pra peça futura.</div>
+        </div>
+        <div class="broll-item">
+          <div class="broll-num">09</div>
+          <div class="broll-text"><strong>Você falando o roteiro completo</strong> — 2 a 3 vezes, ritmos diferentes.</div>
+        </div>
+        <div class="broll-item">
+          <div class="broll-num">10</div>
+          <div class="broll-text"><strong>Você falando bloco a bloco</strong> em takes separados. Facilita o corte.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Legenda do post</div>
+      <div class="caption">
+        <p><strong>Começamos hoje, na fazenda do seu Oscar.</strong></p>
+        <p>Produtor rural do Sul Fluminense, fazenda grande, conta de luz pesada todo mês — irrigação, equipamento, máquina ligada o dia inteiro. A conta da fazenda não é igual à de casa.</p>
+        <p>Por isso o sistema dele foi dimensionado pelo consumo real da propriedade. Sem pacote pronto. Cada projeto é um projeto.</p>
+        <p>A expectativa é a conta cair pro valor mínimo da concessionária. Sistema se paga em ~5 anos e gera por mais de 25.</p>
+        <p>Se você tem fazenda, sítio, comércio ou casa gastando demais com luz, chama a Tindaro no WhatsApp 👉 <strong>(24) 99918-3544</strong>.</p>
+        <p class="meta">📍 Sul Fluminense · Volta Redonda · Barra Mansa · Resende · Barra do Piraí · Piraí · Rio Claro</p>
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Hashtags</div>
+      <p class="hashtags">#TindaroSolar #EnergiaSolar #SulFluminense #VoltaRedonda #BarraMansa #Resende #ProdutorRural #Fazenda #EnergiaRenovavel #EconomiaNaContaDeLuz #PlacaSolar #UsinaSolar #Fotovoltaico</p>
+    </div>
+
+  </div>
+
+  <footer>
+    <span class="footer-brand">Lone Mídia</span>
+    <div class="footer-meta">
+      <span>Reels Bastidor · v1</span>
+      <span class="page-num">02 / 03</span>
+    </div>
+  </footer>
+</section>
+
+<!-- ============================== -->
+<!-- PÁGINA 3 — ANÚNCIO DEPOIMENTO    -->
+<!-- ============================== -->
+<section class="page">
+  <header>
+    <div class="brand">
+      <img src="../../../shared/identidade-lone/lone-midia-logo-azul-branco.png" alt="Lone Mídia">
+    </div>
+    <div class="ads-tag">
+      <span class="ads-dot"></span>
+      <span>Vídeo para anúncio</span>
+    </div>
+  </header>
+
+  <div class="page-body">
+    <div class="title-block">
+      <h1>Depoimento do Seu Oscar</h1>
+      <div class="subtitle">
+        Vídeo de anúncio · Meta Ads
+        <small>40–45s · vertical 9:16 · v1 · 11/05/2026</small>
+      </div>
+    </div>
+
+    <div class="timeline">
+
+      <div class="block">
+        <div class="time">0–4s</div>
+        <div class="block-content">
+          <span class="label-tag">Apresentação</span>
+          <p class="line dialog">Eu sou o Oscar. Sou produtor rural aqui no Sul Fluminense, e conta de luz alta nunca foi novidade pra mim.</p>
+          <p class="scene">Ele em primeiro plano, fazenda nítida ao fundo. Camisa neutra. Olhar pra câmera.</p>
+        </div>
+      </div>
+
+      <div class="block">
+        <div class="time">4–14s</div>
+        <div class="block-content">
+          <span class="label-tag">Dor</span>
+          <p class="line dialog">Irrigação, equipamento, motor ligado o dia inteiro. Todo mês a conta vinha pesada.</p>
+          <p class="scene">Pode intercalar com close de equipamento da fazenda enquanto ele fala (cortes curtos).</p>
+        </div>
+      </div>
+
+      <div class="block">
+        <div class="time">14–24s</div>
+        <div class="block-content">
+          <span class="label-tag">Decisão</span>
+          <p class="line dialog">Demorei pra decidir colocar painel solar. Pesquisei, conversei com vizinho. Quando fui fechar, escolhi a Tindaro.</p>
+          <p class="scene">Ele continua falando · pode entrar B-roll dos módulos sendo descarregados / equipe chegando.</p>
+        </div>
+      </div>
+
+      <div class="block">
+        <div class="time">24–34s</div>
+        <div class="block-content">
+          <span class="label-tag">Diferencial</span>
+          <p class="line dialog">Vieram aqui, olharam a fazenda, mediram tudo. Não me empurraram pacote pronto. Fizeram o projeto pelo meu consumo de verdade.</p>
+          <p class="scene">B-roll forte: equipe trabalhando no telhado, projeto sendo executado · volta pra ele falando.</p>
+        </div>
+      </div>
+
+      <div class="block">
+        <div class="time">34–45s</div>
+        <div class="block-content">
+          <span class="label-tag">CTA</span>
+          <p class="line dialog">Se você é produtor, tem comércio ou paga conta de luz alta em casa, vale a pena chamar a Tindaro. Orçamento sem compromisso.</p>
+          <p class="scene">Ele falando · fim com logo Tindaro Solar + WhatsApp (24) 99918-3544 na tela.</p>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="info" style="margin-top:6mm;">
+      <strong class="info-label">Como gravar com o Seu Oscar</strong>
+      <ul>
+        <li><strong>Ele pode adaptar as palavras dele.</strong> Se não falar "irrigação" no dia-a-dia, troca pelo que ele usa. A ideia importa mais que a frase exata.</li>
+        <li><strong>Um take por bloco</strong> — sem pressa. Lê o bloco, fala, descansa, próximo. Mais fácil pra ele e pro editor.</li>
+        <li><strong>Vertical 9:16</strong>, fazenda nítida no fundo, sem música forte na hora da gravação.</li>
+        <li><strong>Autorização gravada antes:</strong> <em>"Seu Oscar, posso usar esse vídeo em anúncio no Facebook e Instagram da Tindaro?"</em></li>
+      </ul>
+    </div>
+
+  </div>
+
+  <footer>
+    <span class="footer-brand">Lone Mídia</span>
+    <div class="footer-meta">
+      <span>Anúncio · Depoimento Seu Oscar · v1</span>
+      <span class="page-num">03 / 03</span>
+    </div>
+  </footer>
+</section>
+
+</body>
+</html>

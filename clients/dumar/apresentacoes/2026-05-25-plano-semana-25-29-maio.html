@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Plano da Semana · Dumar · 25 a 29 de Maio 2026 · Lone Mídia</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  @page { size: A4; margin: 0; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body {
+    font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    background: #e8e8e8;
+    color: #1a1a1a;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+    font-feature-settings: "ss01", "cv11";
+  }
+  .page {
+    width: 210mm;
+    height: 297mm;
+    position: relative;
+    page-break-after: always;
+    background: #ffffff;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    margin: 16px auto;
+    box-shadow: 0 4px 28px rgba(0,0,0,0.10);
+  }
+  .page:last-child { page-break-after: auto; }
+  @media print {
+    body { background: #fff; }
+    .page { margin: 0; box-shadow: none; }
+  }
+
+  /* ===== HEADER ===== */
+  .top-header {
+    padding: 12mm 16mm 5mm;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 0.5mm solid #1A2DD9;
+    margin-bottom: 8mm;
+  }
+  .brand img { height: 7mm; width: auto; display: block; }
+  .header-badge {
+    background: #f4f5f7;
+    border: 0.3mm solid #d4d8e0;
+    padding: 2mm 4mm;
+    border-radius: 1.2mm;
+    font-size: 2.5mm;
+    color: #4a5060;
+    letter-spacing: 0.5px;
+  }
+  .header-badge strong { color: #0d1b3d; font-weight: 700; margin-left: 1.5mm; }
+  .header-badge .dot { margin: 0 1.5mm; color: #c0c4cc; }
+
+  /* ===== PAGE BODY ===== */
+  .page-body {
+    flex: 1;
+    padding: 0 16mm;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  /* ===== FOOTER ===== */
+  footer.page-footer {
+    padding: 4mm 16mm 6mm;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 2.4mm;
+    color: #9094a0;
+    letter-spacing: 0.3px;
+  }
+  footer.page-footer .footer-brand strong { color: #5a5e6a; font-weight: 600; }
+
+  /* ===== COVER PAGE ===== */
+  .cover-body {
+    flex: 1;
+    padding: 0 16mm 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+  .cover-kicker {
+    font-size: 2.6mm;
+    font-weight: 700;
+    color: #5a6275;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-bottom: 6mm;
+  }
+  .cover-title {
+    font-size: 28mm;
+    font-weight: 800;
+    line-height: 0.95;
+    letter-spacing: -1.5px;
+    color: #ffffff;
+    margin-bottom: 8mm;
+  }
+  .cover-title .accent { color: #d65f56; }
+  .cover-description {
+    font-size: 4mm;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #c8cfe0;
+    max-width: 130mm;
+    margin-bottom: 30mm;
+  }
+  .cover-divider {
+    height: 0.3mm;
+    background: #2a3a6e;
+    margin-bottom: 12mm;
+  }
+  .cover-metrics {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8mm;
+    margin-bottom: 14mm;
+  }
+  .cover-metric .num {
+    font-size: 18mm;
+    font-weight: 800;
+    line-height: 1;
+    color: #ffffff;
+    letter-spacing: -1px;
+    margin-bottom: 2.5mm;
+  }
+  .cover-metric .label {
+    font-size: 2.4mm;
+    font-weight: 600;
+    color: #8a92a8;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    line-height: 1.4;
+  }
+
+  .page.cover-page { background: #0d1b3d; color: #ffffff; }
+  .page.cover-page .top-header { border-bottom-color: #1A2DD9; }
+  .page.cover-page .header-badge { background: rgba(255,255,255,0.07); border-color: rgba(255,255,255,0.18); color: #c8cfe0; }
+  .page.cover-page .header-badge strong { color: #ffffff; }
+  .page.cover-page footer.page-footer { color: #5a6275; }
+  .page.cover-page footer.page-footer .footer-brand strong { color: #9aa0b4; }
+
+  /* ===== PIECE CARD (compacto) ===== */
+  .pieces-stack {
+    display: flex;
+    flex-direction: column;
+    gap: 5mm;
+    flex: 1;
+  }
+  .piece {
+    display: grid;
+    grid-template-columns: 8mm 1fr;
+    border: 0.3mm solid #e3e5ec;
+    border-radius: 1.2mm;
+    overflow: hidden;
+    background: #ffffff;
+  }
+  .piece-side {
+    background: #1d2c5b;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 6mm 0;
+  }
+  .piece-side .side-label {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    font-size: 2.6mm;
+    font-weight: 800;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+  }
+  .piece.p1 .piece-side { background: #c2342a; }
+  .piece.p2 .piece-side { background: #1A2DD9; }
+  .piece.p3 .piece-side { background: #0d1b3d; }
+  .piece.p4 .piece-side { background: #4a7fd8; }
+  .piece.p5 .piece-side { background: #0a0a0a; }
+
+  .piece-body { padding: 4.5mm 5.5mm 4.5mm; }
+  .piece-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 4mm;
+    margin-bottom: 1mm;
+  }
+  .piece-date {
+    font-size: 2.5mm;
+    font-weight: 700;
+    color: #5a6275;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    margin-bottom: 1mm;
+    display: flex;
+    align-items: center;
+    gap: 2mm;
+    flex-wrap: wrap;
+  }
+  .piece-date .pillar-tag {
+    background: #f4f5f7;
+    color: #1a1a1a;
+    padding: 0.8mm 2mm;
+    border-radius: 0.5mm;
+    font-size: 1.9mm;
+    font-weight: 800;
+    letter-spacing: 1px;
+    border-left: 1mm solid #1A2DD9;
+  }
+  .piece.p1 .pillar-tag { border-left-color: #c2342a; }
+  .piece.p4 .pillar-tag { border-left-color: #4a7fd8; }
+
+  .piece-title {
+    font-size: 4.5mm;
+    font-weight: 700;
+    color: #0d1b3d;
+    line-height: 1.15;
+    letter-spacing: -0.3px;
+  }
+  .piece-format {
+    background: #0a0a0a;
+    color: #ffffff;
+    padding: 1.5mm 2.8mm;
+    border-radius: 0.8mm;
+    font-size: 2.2mm;
+    font-weight: 700;
+    letter-spacing: 1.3px;
+    text-transform: uppercase;
+    white-space: nowrap;
+    align-self: center;
+    flex-shrink: 0;
+  }
+  .piece-format.fmt-post { background: #ffffff; color: #0a0a0a; border: 0.3mm solid #0a0a0a; }
+  .piece-format.fmt-reels { background: #0a0a0a; color: #ffffff; }
+  .piece-format.fmt-carrossel { background: #0d1b3d; color: #ffffff; }
+  .piece-divider {
+    height: 0.2mm;
+    background: #e3e5ec;
+    margin: 3mm 0 2.5mm;
+  }
+  .piece-block { margin-bottom: 2.5mm; }
+  .piece-block:last-child { margin-bottom: 0; }
+  .piece-block-label {
+    font-size: 2.1mm;
+    font-weight: 800;
+    color: #1A2DD9;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin-bottom: 1mm;
+  }
+  .piece-block-text {
+    font-size: 2.7mm;
+    line-height: 1.42;
+    color: #2a2e3a;
+  }
+  .piece-block-text + .piece-block-text { margin-top: 1.2mm; }
+  .piece-icon { color: #1A2DD9; font-size: 2.5mm; margin-right: 1mm; }
+  .piece-block-text .key { font-weight: 700; color: #0d1b3d; }
+
+  /* ===== CLOSING ===== */
+  .closing-body {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0 30mm;
+    text-align: center;
+  }
+  .closing-logo { height: 14mm; width: auto; margin-bottom: 6mm; }
+  .closing-tag {
+    font-size: 2.6mm;
+    font-weight: 600;
+    color: #7a808e;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    margin-bottom: 12mm;
+  }
+  .closing-message {
+    font-size: 3.2mm;
+    line-height: 1.6;
+    color: #4a5060;
+    max-width: 120mm;
+    margin-bottom: 10mm;
+  }
+  .closing-rule {
+    width: 18mm;
+    height: 0.6mm;
+    background: #c2342a;
+    margin-bottom: 8mm;
+  }
+  .closing-footer {
+    font-size: 2.5mm;
+    font-weight: 700;
+    color: #5a6275;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    line-height: 1.7;
+  }
+</style>
+</head>
+<body>
+
+<!-- ============================================================ -->
+<!-- PÁGINA 1 — COVER                                              -->
+<!-- ============================================================ -->
+<section class="page cover-page">
+  <div class="top-header">
+    <div class="brand">
+      <img src="../../../shared/identidade-lone/lone-midia-logo-branco-azul.png" alt="Lone Mídia">
+    </div>
+    <div class="header-badge">CLIENTE <span class="dot">·</span><strong>DUMAR</strong></div>
+  </div>
+
+  <div class="cover-body">
+    <div class="cover-kicker">PLANO DA SEMANA</div>
+    <h1 class="cover-title">25 a 29 de<br><span class="accent">Maio.</span></h1>
+    <p class="cover-description">3 peças pra essa semana — segunda, quarta e sexta. Carrossel de óleos lubrificantes, Reels com aplicação prática e post estático de assistência técnica.</p>
+    <div class="cover-divider"></div>
+    <div class="cover-metrics">
+      <div class="cover-metric"><div class="num">1</div><div class="label">CARROSSEL<br>COM VÍDEOS</div></div>
+      <div class="cover-metric"><div class="num">1</div><div class="label">REELS<br>DE APLICAÇÃO</div></div>
+      <div class="cover-metric"><div class="num">1</div><div class="label">POST ESTÁTICO<br>DE ASSISTÊNCIA</div></div>
+    </div>
+  </div>
+
+  <footer class="page-footer">
+    <div class="footer-brand"><strong>LONE MÍDIA</strong> · Plano da Semana · Dumar</div>
+    <div class="page-num">1 / 3</div>
+  </footer>
+</section>
+
+<!-- ============================================================ -->
+<!-- PÁGINA 2 — SEG 25/05 + QUA 27/05                              -->
+<!-- ============================================================ -->
+<section class="page">
+  <div class="top-header">
+    <div class="brand">
+      <img src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia">
+    </div>
+    <div class="header-badge">CLIENTE <span class="dot">·</span><strong>DUMAR</strong></div>
+  </div>
+
+  <div class="page-body">
+    <div class="pieces-stack">
+
+      <!-- 25/05 P1 — CARROSSEL ÓLEOS -->
+      <div class="piece p1">
+        <div class="piece-side"><div class="side-label">P I L A R · 1</div></div>
+        <div class="piece-body">
+          <div class="piece-header">
+            <div>
+              <div class="piece-date">25/05 · Segunda-feira <span class="pillar-tag">NA DUMAR TEM</span></div>
+              <div class="piece-title">Óleos lubrificantes pra suas máquinas.</div>
+            </div>
+            <div class="piece-format fmt-carrossel">CARROSSEL · 8 SLIDES</div>
+          </div>
+          <div class="piece-divider"></div>
+
+          <div class="piece-block">
+            <div class="piece-block-label">Formato</div>
+            <div class="piece-block-text">Carrossel · capa estática + 7 slides de vídeo curto (3-5s cada).</div>
+          </div>
+
+          <div class="piece-block">
+            <div class="piece-block-label">Estratégia</div>
+            <div class="piece-block-text">Apresenta a variedade da linha de óleos da Dumar. O vídeo de cada produto comunica por si só — sem texto sobreposto, leitura rápida no feed.</div>
+          </div>
+
+          <div class="piece-block">
+            <div class="piece-block-label">Conteúdo</div>
+            <div class="piece-block-text"><span class="key">Capa:</span> foto da prateleira de óleos (foto já enviada) com headline "Óleos lubrificantes pra suas máquinas." em faixa superior fina.</div>
+            <div class="piece-block-text"><span class="key">Slides 2-8:</span> 1 vídeo curto por óleo (7 óleos já gravados pela equipe Dumar), sem texto sobreposto. Mesma paleta e enquadramento em todos.</div>
+          </div>
+
+          <div class="piece-block">
+            <div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">A Dumar tem óleo pra cada tipo de máquina.</div>
+            <div class="piece-block-text">Óleo de compressor, óleo mineral pra ferramenta pneumática, óleo aditivado, óleo pra motor 2T. Cada um trabalha numa situação diferente — usar o errado encurta a vida da máquina, usar o certo faz ela durar.</div>
+            <div class="piece-block-text">Tá em dúvida sobre qual cabe no teu equipamento? Chama no WhatsApp ou passa na loja com a ferramenta.</div>
+            <div class="piece-block-text"><span class="piece-icon">📲</span>(22) 98873-3904 · Rua Félix Valadares Júnior, 135 · Centro · Araruama</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 27/05 P1 — REELS APLICAÇÃO -->
+      <div class="piece p1">
+        <div class="piece-side"><div class="side-label">P I L A R · 1</div></div>
+        <div class="piece-body">
+          <div class="piece-header">
+            <div>
+              <div class="piece-date">27/05 · Quarta-feira <span class="pillar-tag">NA DUMAR TEM</span></div>
+              <div class="piece-title">Quando comprar cada tipo de óleo.</div>
+            </div>
+            <div class="piece-format fmt-reels">REELS · 20-25S</div>
+          </div>
+          <div class="piece-divider"></div>
+
+          <div class="piece-block">
+            <div class="piece-block-label">Formato</div>
+            <div class="piece-block-text">Reels vertical · 20-25 segundos · alguém da equipe Dumar narrando com 2-3 óleos na mão.</div>
+          </div>
+
+          <div class="piece-block">
+            <div class="piece-block-label">Estratégia</div>
+            <div class="piece-block-text">Aprofunda o que o carrossel de segunda apresentou. Em vez de só listar óleos (óbvio), foca em <span class="key">sinais práticos de quando comprar cada um</span> — fala com quem já tem a máquina e tá em dúvida se já é hora de trocar/repor.</div>
+          </div>
+
+          <div class="piece-block">
+            <div class="piece-block-label">Conteúdo · brief de captação pra Dumar</div>
+            <div class="piece-block-text"><span class="key">Quem grava:</span> Ducler ou um funcionário da equipe Dumar.</div>
+            <div class="piece-block-text"><span class="key">Onde:</span> balcão, com 2 ou 3 óleos diferentes em mãos (escolher os que mais saem).</div>
+            <div class="piece-block-text"><span class="key">Plano:</span> celular vertical, luz natural ou ambiente da loja, sem flash.</div>
+            <div class="piece-block-text" style="margin-top:2mm;"><span class="key">Direção do roteiro</span> (a fala exata fica com quem grava — domínio técnico é de vocês):</div>
+            <div class="piece-block-text"><span class="key">0-3s — gancho:</span> "Máquina rangendo, sem força, fazendo barulho estranho? Quase sempre é falta do óleo certo."</div>
+            <div class="piece-block-text"><span class="key">3-7s — transição:</span> "Esses 3 são os que mais saem aqui. Cada um pra um tipo de máquina."</div>
+            <div class="piece-block-text"><span class="key">7-18s — corpo:</span> pega cada óleo e diz a aplicação. Sugestões pra adaptar com precisão técnica: óleo de motor 2T (roçadeira, motosserra), óleo de compressor de pistão, óleo pneumático (ferramenta de ar comprimido). Os exemplos acima são <span class="key">ilustrativos</span> — vocês ajustam com a aplicação certa de cada caso.</div>
+            <div class="piece-block-text"><span class="key">18-25s — fechamento:</span> "Tá com algum desses sinais na tua máquina? Passa na Dumar ou chama no WhatsApp que a gente te indica."</div>
+          </div>
+
+          <div class="piece-block">
+            <div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">Máquina rangendo, sem força, fazendo barulho estranho? Quase sempre é falta do óleo certo.</div>
+            <div class="piece-block-text">Tem óleo de motor 2T pra roçadeira e motosserra, óleo pra compressor de pistão, óleo pneumático pra ferramenta de ar comprimido — cada um pra uma situação. Usar o errado, ou demorar pra trocar, encurta a vida da máquina.</div>
+            <div class="piece-block-text">Tá com algum desses sinais? Passa aqui com a ferramenta ou manda mensagem.</div>
+            <div class="piece-block-text"><span class="piece-icon">📲</span>(22) 98873-3904 · Rua Félix Valadares Júnior, 135 · Centro · Araruama</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <footer class="page-footer">
+    <div class="footer-brand"><strong>LONE MÍDIA</strong> · Plano da Semana · Dumar</div>
+    <div class="page-num">2 / 3</div>
+  </footer>
+</section>
+
+<!-- ============================================================ -->
+<!-- PÁGINA 3 — SEX 29/05 + CLOSING                                -->
+<!-- ============================================================ -->
+<section class="page">
+  <div class="top-header">
+    <div class="brand">
+      <img src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia">
+    </div>
+    <div class="header-badge">CLIENTE <span class="dot">·</span><strong>DUMAR</strong></div>
+  </div>
+
+  <div class="page-body">
+    <div class="pieces-stack">
+
+      <!-- 29/05 P4 — POST ESTÁTICO ASSISTÊNCIA TÉCNICA -->
+      <div class="piece p4">
+        <div class="piece-side"><div class="side-label">P I L A R · 4</div></div>
+        <div class="piece-body">
+          <div class="piece-header">
+            <div>
+              <div class="piece-date">29/05 · Sexta-feira <span class="pillar-tag">BASTIDORES</span></div>
+              <div class="piece-title">Máquina parou?</div>
+            </div>
+            <div class="piece-format fmt-post">POST ESTÁTICO</div>
+          </div>
+          <div class="piece-divider"></div>
+
+          <div class="piece-block">
+            <div class="piece-block-label">Formato</div>
+            <div class="piece-block-text">Post estático · 1 imagem · feed quadrado ou 4:5.</div>
+          </div>
+
+          <div class="piece-block">
+            <div class="piece-block-label">Estratégia</div>
+            <div class="piece-block-text">Fala direto com quem tem dor emergente — a máquina parou hoje, tá perdendo dia de trabalho. Headline curta e seca pra qualificar o público certo já no scroll. Sexta funciona bem pra esse recorte: quem chegou no fim de semana com equipamento parado vai precisar resolver até segunda.</div>
+          </div>
+
+          <div class="piece-block">
+            <div class="piece-block-label">Conteúdo</div>
+            <div class="piece-block-text"><span class="key">Imagem:</span> foto da área de assistência técnica no balcão da Dumar (banco da Dumar — escolher uma que mostre a bancada com máquina sendo trabalhada, não só ambiente vazio).</div>
+            <div class="piece-block-text"><span class="key">Headline na arte:</span> "Máquina parou?" — em destaque, faixa superior ou em sobreposição leve sobre a foto.</div>
+            <div class="piece-block-text"><span class="key">Sub-linha (opcional, embaixo da headline):</span> "Resolve aqui no balcão."</div>
+            <div class="piece-block-text"><span class="key">Rodapé fino:</span> WhatsApp + endereço, logo Dumar discreto canto inferior.</div>
+          </div>
+
+          <div class="piece-block">
+            <div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">Quando a ferramenta para de funcionar, a Dumar resolve no balcão.</div>
+            <div class="piece-block-text">Pode ser equipamento do dia a dia ou ferramenta que tu usa só de vez em quando — a gente recebe, diagnostica, troca com peça original e testa antes de devolver. Sem SAC pelo telefone, sem semanas de espera.</div>
+            <div class="piece-block-text">Traz pra gente ou chama no WhatsApp antes pra adiantar.</div>
+            <div class="piece-block-text"><span class="piece-icon">📲</span>(22) 98873-3904 · Rua Félix Valadares Júnior, 135 · Centro · Araruama</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <footer class="page-footer">
+    <div class="footer-brand"><strong>LONE MÍDIA</strong> · Plano da Semana · Dumar</div>
+    <div class="page-num">3 / 3</div>
+  </footer>
+</section>
+
+</body>
+</html>

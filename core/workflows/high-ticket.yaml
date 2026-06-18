@@ -1,0 +1,113 @@
+# Workflow: High Ticket — Aplicacao + Call (Hormozi-style)
+# Timeline: 1-2 semanas (setup) + continuo
+# Ticket: R$3K-50K+
+# Referencia: $100M Offers (Alex Hormozi) — Grand Slam Offer
+
+name: high-ticket
+description: "High Ticket — Aplicacao + Sales Call (Hormozi-style)"
+type: evergreen
+framework: hormozi-offer
+estimated_duration: "2-3 semanas (setup) + continuo"
+ticket_range: "R$3K-50K+"
+conversion_target: "30-50% das calls"
+
+squad:
+  core:
+    - theboss    # Estrategia + Grand Slam Offer
+    - danilo       # SDR — qualificacao BANT
+    - andreza      # Closer — call de vendas
+    - cadu         # Trafego qualificado
+    - pixel        # Pagina de aplicacao
+  support:
+    - claudinho    # Copy (pagina, emails, nurture)
+    - salazar      # Automacao (qualificacao + CRM)
+    - metrics      # Metricas de pipeline
+    - carla        # Pos-venda
+
+phases:
+
+  - id: preparacao
+    name: "Preparacao"
+    duration: "1 semana"
+    tasks:
+      - task: onboarding-expert
+        agent: theboss
+      - task: structure-offer
+        agent: theboss
+        description: "Grand Slam Offer — Equacao de Valor completa"
+      - task: close-sales
+        agent: andreza
+        description: "Criar script de venda para call"
+
+  - id: captacao
+    name: "Captacao Qualificada"
+    duration: "1-2 semanas"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: captacao
+        description: "Copy pagina de aplicacao + ads + emails nurture"
+      - task: build-pages
+        agent: pixel
+        scope: captacao
+        description: "Pagina de aplicacao (formulario qualificador)"
+      - task: create-creatives
+        agent: picasso
+        scope: captacao
+      - task: plan-traffic
+        agent: cadu
+        description: "Trafego para pagina de aplicacao"
+      - task: setup-automations
+        agent: salazar
+        scope: captacao
+        description: "Formulario → CRM → notificacao SDR"
+    deliverables:
+      - "{PROJ}_CAP_PGN_PAGINA-APLICACAO_V1.md"
+      - "{PROJ}_CAP_AUT_FLUXO-QUALIFICACAO_V1.md"
+      - "{PROJ}_CAP_EML_NURTURE-APLICACAO_V1.md"
+
+  - id: qualificacao
+    name: "Qualificacao SDR"
+    duration: "Continuo"
+    tasks:
+      - task: qualify-leads
+        agent: danilo
+        description: "Qualificar leads BANT + agendar calls"
+    deliverables:
+      - "{PROJ}_VND_SDR_SCRIPT-QUALIFICACAO_V1.md"
+      - "{PROJ}_VND_SDR_CADENCIA-FOLLOWUP_V1.md"
+
+  - id: vendas
+    name: "Sales Call"
+    duration: "Continuo"
+    tasks:
+      - task: close-sales
+        agent: andreza
+        description: "Conduzir calls de venda + fechar"
+    deliverables:
+      - "{PROJ}_VND_SCV_SCRIPT-CALL-VENDAS_V1.md"
+
+  - id: pos-venda
+    name: "Pos-Venda"
+    duration: "Continuo"
+    tasks:
+      - task: onboard-client
+        agent: carla
+        description: "Onboarding premium (high-touch)"
+      - task: analyze-metrics
+        agent: metrics
+        description: "Metricas de pipeline (CPL, CPA, close rate)"
+
+gates:
+  - name: "Script de venda validado"
+    before: vendas
+    check: "Script completo revisado + role-play feito"
+  - name: "Pipeline com volume"
+    check: "Pelo menos 5 calls/semana agendadas"
+
+success_metrics:
+  cpl: "< R$ definido (leads qualificados)"
+  show_rate: "> 80%"
+  close_rate: "30-50%"
+  ticket_medio: "> R$ definido"
+  ltv: "> 3x CPA"

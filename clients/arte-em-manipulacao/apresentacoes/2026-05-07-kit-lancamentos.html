@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Roteiros de Lançamento — Arte em Manipulação · Lone Mídia</title>
+<style>
+  @page {
+    size: 167mm 297mm;
+    margin: 0;
+  }
+
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  html, body {
+    font-family: -apple-system, BlinkMacSystemFont, "Inter", "Helvetica Neue", "Segoe UI", Arial, sans-serif;
+    background: #e8e8e8;
+    color: #0a0a0a;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .page {
+    width: 167mm;
+    height: 297mm;
+    position: relative;
+    page-break-after: always;
+    background: #ffffff;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    margin: 16px auto;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+  }
+
+  .page:last-child { page-break-after: auto; }
+
+  @media print {
+    body { background: #fff; }
+    .page { margin: 0; box-shadow: none; }
+  }
+
+  /* ===== HEADER ===== */
+  header {
+    background: #0a0a0a;
+    padding: 6mm 12mm;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 0.6mm solid #1A2DD9;
+  }
+
+  .brand img {
+    height: 9mm;
+    width: auto;
+    display: block;
+  }
+
+  .badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 1.5mm;
+    background: #ffffff;
+    color: #0a0a0a;
+    padding: 1.8mm 3mm;
+    font-size: 2.2mm;
+    font-weight: 700;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    border-radius: 1mm;
+  }
+
+  .badge .badge-label {
+    opacity: 0.5;
+    font-weight: 500;
+  }
+
+  .badge .badge-dot {
+    width: 1.2mm;
+    height: 1.2mm;
+    background: #1A2DD9;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  /* ===== PAGE BODY ===== */
+  .page-body {
+    flex: 1;
+    padding: 10mm 12mm 16mm;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  /* ===== TITLE BLOCK ===== */
+  .title-block {
+    margin-bottom: 8mm;
+    padding-bottom: 5mm;
+    border-bottom: 0.5mm solid #1A2DD9;
+  }
+
+  h1 {
+    font-size: 14mm;
+    font-weight: 800;
+    letter-spacing: -1.5px;
+    color: #0a0a0a;
+    line-height: 0.95;
+  }
+
+  /* ===== TIMELINE ===== */
+  .timeline {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 5mm;
+  }
+
+  .block {
+    display: grid;
+    grid-template-columns: 14mm 1fr;
+    gap: 3mm;
+    align-items: start;
+  }
+
+  .time {
+    font-size: 2.4mm;
+    font-weight: 800;
+    color: #1A2DD9;
+    letter-spacing: 0.5px;
+    background: #f0f2ff;
+    padding: 1.4mm 1mm;
+    border-radius: 0.8mm;
+    text-align: center;
+    line-height: 1;
+  }
+
+  .block-content {
+    line-height: 1.4;
+  }
+
+  .label-tag {
+    display: inline-block;
+    font-size: 3.5mm;
+    font-weight: 800;
+    color: #5a5a5a;
+    letter-spacing: 1.6px;
+    text-transform: uppercase;
+    margin-bottom: 2mm;
+    padding: 0.8mm 2mm;
+    background: #f5f5f5;
+    border-radius: 0.6mm;
+  }
+
+  .line {
+    font-size: 3.5mm;
+    line-height: 1.4;
+    color: #0a0a0a;
+    font-weight: 500;
+    margin-bottom: 2mm;
+  }
+
+  .line.dialog::before {
+    content: "“";
+    color: #1A2DD9;
+    font-weight: 800;
+    margin-right: 0.5mm;
+  }
+
+  .line.dialog::after {
+    content: "”";
+    color: #1A2DD9;
+    font-weight: 800;
+    margin-left: 0.5mm;
+  }
+
+  .scene {
+    font-size: 3mm;
+    line-height: 1.45;
+    color: #5a5a5a;
+    font-weight: 400;
+    padding-left: 3mm;
+    border-left: 0.4mm solid #d5d5d5;
+    margin-top: 1mm;
+  }
+
+  .scene::before {
+    content: "CENA · ";
+    font-weight: 800;
+    color: #1A2DD9;
+    letter-spacing: 0.8px;
+    font-size: 2mm;
+  }
+
+  .placeholder {
+    font-size: 2.5mm;
+    line-height: 1.4;
+    color: #4a4a4a;
+    font-weight: 500;
+    padding: 2.5mm 3mm;
+    background: #fff8e6;
+    border-left: 1mm solid #f5b400;
+    border-radius: 0 1mm 1mm 0;
+    margin-bottom: 2mm;
+  }
+
+  .placeholder strong {
+    display: block;
+    font-size: 2.2mm;
+    font-weight: 800;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #b58400;
+    margin-bottom: 1mm;
+  }
+
+  /* ===== FOOTER ===== */
+  footer {
+    position: absolute;
+    bottom: 7mm;
+    left: 12mm;
+    right: 12mm;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 0.3mm solid #e5e5e5;
+    padding-top: 3mm;
+    font-size: 2.2mm;
+    color: #7a7a7a;
+    letter-spacing: 0.3px;
+  }
+
+  footer .footer-brand {
+    font-weight: 700;
+    color: #0a0a0a;
+  }
+
+  footer .footer-meta {
+    display: flex;
+    gap: 3mm;
+    align-items: center;
+  }
+
+  .page-num {
+    font-weight: 700;
+    color: #1A2DD9;
+    background: #f0f2ff;
+    padding: 1mm 2.5mm;
+    border-radius: 0.8mm;
+    letter-spacing: 0.5px;
+  }
+</style>
+</head>
+<body>
+
+<!-- ============================== -->
+<!-- PÁGINA 1 — PROGO                -->
+<!-- ============================== -->
+<section class="page">
+  <header>
+    <div class="brand">
+      <img src="../../../shared/identidade-lone/lone-midia-logo-azul-branco.png" alt="Lone Mídia">
+    </div>
+    <div class="badge">
+      <span class="badge-dot"></span>
+      <span class="badge-label">Cliente</span>
+      <span>Arte em Manipulação</span>
+    </div>
+  </header>
+
+  <div class="page-body">
+    <div class="title-block">
+      <h1>PROGO</h1>
+    </div>
+
+    <div class="timeline">
+
+      <div class="block">
+        <div class="time">0–3s</div>
+        <div class="block-content">
+          <span class="label-tag">Hook</span>
+          <p class="line dialog">Você não está cansada de tentar emagrecer. Está cansada de tentar e não ver diferença.</p>
+          <p class="scene">Rótulo do PROGO em close + bancada da Boutique + manipuladora trabalhando.</p>
+        </div>
+      </div>
+
+      <div class="block">
+        <div class="time">3–7s</div>
+        <div class="block-content">
+          <span class="label-tag">Apresentação</span>
+          <p class="line dialog">Por isso a gente lançou o PROGO — novo produto na nossa Boutique.</p>
+          <p class="scene">Rótulo do PROGO em close + ambiente da Boutique + manipuladora segurando o produto.</p>
+        </div>
+      </div>
+
+      <div class="block">
+        <div class="time">7–15s</div>
+        <div class="block-content">
+          <span class="label-tag">Dor</span>
+          <p class="line dialog">Não é falta de força de vontade. Não é falta de academia. É que muito suplemento da prateleira é fórmula padrão — e o que funciona pra uma pessoa nem sempre funciona pra você.</p>
+          <p class="scene">Mulher checando rótulo de pote genérico de farmácia · fechando a geladeira tarde da noite · pote indo pro lixo.</p>
+        </div>
+      </div>
+
+      <div class="block">
+        <div class="time">15–25s</div>
+        <div class="block-content">
+          <span class="label-tag">Benefício</span>
+          <div class="placeholder">
+            <strong>📝 Supervisora preenche</strong>
+            O que o PROGO faz pra cliente: o que muda na vida de quem usa, perfil indicado, tempo de resposta, dose, diferencial vs outros emagrecedores manipulados.
+          </div>
+          <p class="scene">Sequência rápida: paciente sendo orientada no balcão · produto sendo manipulado · cliente saindo da farmácia.</p>
+        </div>
+      </div>
+
+      <div class="block">
+        <div class="time">25–30s</div>
+        <div class="block-content">
+          <span class="label-tag">CTA</span>
+          <p class="line dialog">PROGO chegou — e nossa farmacêutica te orienta no que faz sentido pro seu caso. Chama no WhatsApp ou vem na Boutique do Trade Center.</p>
+          <p class="scene">Logo Arte em Manipulação · endereço Av. John Kennedy, 82 — Loja 13 (Trade Center) · WhatsApp (22) 98871-1426.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <footer>
+    <span class="footer-brand">Lone Mídia</span>
+    <div class="footer-meta">
+      <span>Roteiro · PROGO</span>
+      <span class="page-num">01 / 03</span>
+    </div>
+  </footer>
+</section>
+
+<!-- ============================== -->
+<!-- PÁGINA 2 — GHK-Cu               -->
+<!-- ============================== -->
+<section class="page">
+  <header>
+    <div class="brand">
+      <img src="../../../shared/identidade-lone/lone-midia-logo-azul-branco.png" alt="Lone Mídia">
+    </div>
+    <div class="badge">
+      <span class="badge-dot"></span>
+      <span class="badge-label">Cliente</span>
+      <span>Arte em Manipulação</span>
+    </div>
+  </header>
+
+  <div class="page-body">
+    <div class="title-block">
+      <h1>GHK-Cu</h1>
+    </div>
+
+    <div class="timeline">
+
+      <div class="block">
+        <div class="time">0–7s</div>
+        <div class="block-content">
+          <span class="label-tag">Hook + Apresentação</span>
+          <p class="line dialog">Acaba de ficar disponível o GHK-Cu — a nova fórmula manipulada para melhorar sua pele e seu cabelo.</p>
+          <p class="scene">Rótulo do GHK-Cu em close · sequência de aplicação (rosto / couro cabeludo) · frasco com etiqueta personalizada da linha.</p>
+        </div>
+      </div>
+
+      <div class="block">
+        <div class="time">7–15s</div>
+        <div class="block-content">
+          <span class="label-tag">Dor</span>
+          <p class="line dialog">Perda de firmeza. Cabelo que você vê na escova, no travesseiro, no chão do banheiro. Aquela mancha no rosto que não some. Quem se cuida sabe: produto comum trata toda pele igual — e a SUA pele é única.</p>
+          <p class="scene">Mulher tocando a pele observando · fios na escova · mãos com pele ressecada · pequenas marcas no rosto.</p>
+        </div>
+      </div>
+
+      <div class="block">
+        <div class="time">15–25s</div>
+        <div class="block-content">
+          <span class="label-tag">Benefício</span>
+          <div class="placeholder">
+            <strong>📝 Supervisora preenche</strong>
+            O que o GHK-Cu faz: indicação principal (pele / cabelo / cicatrização), forma do produto, como aplicar, tempo de resposta, perfil indicado, diferencial vs cosmético comum.
+          </div>
+          <p class="scene">Laboratório · manipuladora · frasco final com etiqueta personalizada · cliente aplicando o produto.</p>
+        </div>
+      </div>
+
+      <div class="block">
+        <div class="time">25–30s</div>
+        <div class="block-content">
+          <span class="label-tag">CTA</span>
+          <p class="line dialog">GHK-Cu chegou na Arte em Manipulação. Chama no WhatsApp ou vem na Boutique do Trade Center — a nossa farmacêutica monta a fórmula que combina com o seu caso.</p>
+          <p class="scene">Logo Arte em Manipulação · endereço Av. John Kennedy, 82 — Loja 13 (Trade Center) · WhatsApp (22) 98871-1426.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <footer>
+    <span class="footer-brand">Lone Mídia</span>
+    <div class="footer-meta">
+      <span>Roteiro · GHK-Cu</span>
+      <span class="page-num">02 / 03</span>
+    </div>
+  </footer>
+</section>
+
+<!-- ============================== -->
+<!-- PÁGINA 3 — COLAGENEW           -->
+<!-- ============================== -->
+<section class="page">
+  <header>
+    <div class="brand">
+      <img src="../../../shared/identidade-lone/lone-midia-logo-azul-branco.png" alt="Lone Mídia">
+    </div>
+    <div class="badge">
+      <span class="badge-dot"></span>
+      <span class="badge-label">Cliente</span>
+      <span>Arte em Manipulação</span>
+    </div>
+  </header>
+
+  <div class="page-body">
+    <div class="title-block">
+      <h1>COLAGENEW</h1>
+    </div>
+
+    <div class="timeline">
+
+      <div class="block">
+        <div class="time">0–3s</div>
+        <div class="block-content">
+          <span class="label-tag">Hook</span>
+          <p class="line dialog">Você não deve usar qualquer produto pra melhorar sua produção de colágeno.</p>
+          <p class="scene">Corte rápido de várias mãos pegando potes diferentes na prateleira · alguém desistindo de um pote · produto sendo deixado de lado.</p>
+        </div>
+      </div>
+
+      <div class="block">
+        <div class="time">3–7s</div>
+        <div class="block-content">
+          <span class="label-tag">Apresentação</span>
+          <p class="line dialog">Conheça o COLAGENEW — um [tipo do produto] feito sob medida pra você.</p>
+          <p class="scene">Rótulo do COLAGENEW em close · ambiente da Boutique · bancada de manipulação.</p>
+        </div>
+      </div>
+
+      <div class="block">
+        <div class="time">7–15s</div>
+        <div class="block-content">
+          <span class="label-tag">Dor</span>
+          <p class="line dialog">Rosto cansado mesmo dormindo bem, perda de brilho, manchas no rosto. Quem se cuida sabe que produto comum trata toda pele da mesma forma — e a SUA pele é única.</p>
+          <p class="scene">Close em rosto / pele observando no espelho · mulher tocando a pele.</p>
+        </div>
+      </div>
+
+      <div class="block">
+        <div class="time">15–25s</div>
+        <div class="block-content">
+          <span class="label-tag">Benefício</span>
+          <div class="placeholder">
+            <strong>📝 Supervisora preenche</strong>
+            O que é o COLAGENEW + benefício real + indicação + forma + como tomar/aplicar + tempo de resposta + perfil indicado + diferencial.
+          </div>
+          <p class="scene">Laboratório · manipuladora · etiqueta personalizada da linha · cliente usando o produto.</p>
+        </div>
+      </div>
+
+      <div class="block">
+        <div class="time">25–30s</div>
+        <div class="block-content">
+          <span class="label-tag">CTA</span>
+          <p class="line dialog">COLAGENEW chegou — e a gente te explica se ele combina com o que a SUA pele precisa. Chama no WhatsApp ou vem na Boutique do Trade Center.</p>
+          <p class="scene">Logo Arte em Manipulação · endereço Av. John Kennedy, 82 — Loja 13 (Trade Center) · WhatsApp (22) 98871-1426.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <footer>
+    <span class="footer-brand">Lone Mídia</span>
+    <div class="footer-meta">
+      <span>Roteiro · COLAGENEW</span>
+      <span class="page-num">03 / 03</span>
+    </div>
+  </footer>
+</section>
+
+</body>
+</html>

@@ -1,0 +1,39 @@
+{
+  "permissions": {
+    "allow": [
+      "Read",
+      "Glob",
+      "Grep",
+      "Write clients/**",
+      "Edit clients/**",
+      "Write docs/**",
+      "Edit docs/**",
+      "Write shared/**",
+      "Edit shared/**",
+      "Write core/agents/**",
+      "Write core/tasks/**",
+      "Write core/workflows/**",
+      "Write core/templates/**",
+      "Write core/checklists/**",
+      "Write core/frameworks/**",
+      "Write core/data/**",
+      "Write core/protocols/**",
+      "Write projects/**",
+      "Edit core/agents/**",
+      "Edit core/tasks/**",
+      "Edit core/workflows/**",
+      "Edit core/templates/**",
+      "Edit core/checklists/**",
+      "Edit core/frameworks/**",
+      "Edit core/data/**",
+      "Edit core/protocols/**",
+      "Edit projects/**"
+    ],
+    "deny": [
+      "Write core/constitution.md",
+      "Edit core/constitution.md",
+      "Write core/config.yaml",
+      "Edit core/config.yaml"
+    ]
+  }
+}

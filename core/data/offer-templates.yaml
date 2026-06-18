@@ -1,0 +1,87 @@
+# Offer Templates — Estruturas de Oferta por Tipo de Funil
+# Uso: @theboss, @claudinho — referência para construção de ofertas
+# Baseado em: Hormozi (Grand Slam Offer), Brunson (Value Ladder), Kennedy (Direct Response)
+
+offer_templates:
+
+  grand_slam_offer:
+    name: "Grand Slam Offer (Hormozi)"
+    components:
+      dream_outcome:
+        prompt: "Qual é o resultado #1 que seu avatar sonha?"
+        example: "Passar em concurso da Petrobras e ganhar R$15K/mês"
+      perceived_likelihood:
+        prompt: "Por que o avatar vai acreditar que funciona?"
+        provas:
+          - "Depoimentos de alunos aprovados (com nomes e fotos reais)"
+          - "Metodologia proprietária com nome (ex: 'Método 7 Chaves')"
+          - "Garantia de resultado (ex: 'Se não passar, repita grátis')"
+          - "Números verificáveis (ex: '2.347 aprovados desde 2019')"
+      time_delay:
+        prompt: "Em quanto tempo o avatar terá resultado?"
+        examples: ["30 dias", "3 meses", "até a próxima prova"]
+      effort_sacrifice:
+        prompt: "Quão fácil é o processo?"
+        examples: ["2h/dia", "método passo-a-passo", "mentoria personalizada"]
+
+    stack_structure:
+      - label: "Programa Principal"
+        value_anchor: "R$X.XXX"
+        description: "O core da oferta"
+      - label: "Bônus 1 — Resolve Objeção #1"
+        value_anchor: "R$XXX"
+        description: "Remove a maior barreira"
+      - label: "Bônus 2 — Acelera Resultado"
+        value_anchor: "R$XXX"
+        description: "Atalho para resultado mais rápido"
+      - label: "Bônus 3 — Remove Risco"
+        value_anchor: "R$XXX"
+        description: "Safety net (comunidade, suporte, revisão)"
+      - label: "Total em Valor"
+        value_anchor: "R$XX.XXX"
+      - label: "Investimento Real"
+        price: "R$X.XXX ou 12x R$XXX"
+      - label: "Garantia"
+        type: "7 dias incondicional / 30 dias condicional"
+
+  value_ladder:
+    name: "Value Ladder (Russell Brunson)"
+    rungs:
+      - level: "Lead Magnet"
+        price: "Grátis"
+        purpose: "Capturar lead, gerar reciprocidade"
+        examples: ["PDF", "checklist", "mini-curso", "workshop grátis"]
+      - level: "Tripwire / SLO"
+        price: "R$27-97"
+        purpose: "Converter lead em comprador, cobrir custo de aquisição"
+        examples: ["e-book premium", "workshop pago", "toolkit"]
+      - level: "Core Offer"
+        price: "R$297-2K"
+        purpose: "Produto principal, maior volume de vendas"
+        examples: ["curso online", "membership", "mentoria em grupo"]
+      - level: "Premium"
+        price: "R$2K-10K"
+        purpose: "Alto ticket, alto valor, acesso exclusivo"
+        examples: ["mentoria individual", "mastermind", "imersão"]
+      - level: "Inner Circle"
+        price: "R$10K+"
+        purpose: "Elite, proximidade máxima, resultados garantidos"
+        examples: ["consultoria 1:1", "partnership", "licenciamento"]
+
+  pricing_psychology:
+    anchoring:
+      rule: "Sempre mostrar valor total ANTES do preço real"
+      ratio: "Valor percebido deve ser 3-10x o preço cobrado"
+      example: "Total: R$12.847 — Hoje por apenas R$997"
+    parcelamento:
+      rule: "Sempre oferecer parcelamento quando ticket > R$200"
+      destaque: "12x R$83 (destacar o valor da parcela, não o total)"
+    comparacao:
+      rule: "Comparar com alternativa mais cara"
+      example: "Faculdade: R$50K em 4 anos. Este método: R$997 em 3 meses."
+    garantia:
+      tipos:
+        - "Incondicional (7-15 dias): 'Não gostou? Devolvemos 100%'"
+        - "Condicional (30 dias): 'Se fizer X e não tiver resultado, devolvemos'"
+        - "Dupla garantia: Incondicional + condicional"
+      nota: "Garantia AUMENTA vendas e raramente é acionada (1-5% em média)"

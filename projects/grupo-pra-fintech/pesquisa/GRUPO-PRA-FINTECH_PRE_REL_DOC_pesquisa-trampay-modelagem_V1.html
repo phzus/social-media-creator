@@ -1,0 +1,1780 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Inteligência Competitiva — Trampay & Modelagem Fintech Grupo PRA | MSE</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..900;1,9..144,300..900&family=Manrope:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ink:#0B0D0C;
+  --paper:#F5F3EE;
+  --paper-2:#EEEAE0;
+  --gold:#C8A45C;
+  --gold-deep:#8F6F2E;
+  --forest:#1E3A2E;
+  --forest-light:#2D5A47;
+  --terracotta:#B54C35;
+  --muted:#6B6860;
+  --line:#D8D2C4;
+  --serif:"Fraunces", Georgia, serif;
+  --sans:"Manrope", -apple-system, sans-serif;
+  --mono:"JetBrains Mono", monospace;
+}
+*{margin:0;padding:0;box-sizing:border-box;-webkit-font-smoothing:antialiased;}
+html{scroll-behavior:smooth;}
+body{
+  font-family:var(--sans);
+  font-weight:400;
+  background:var(--paper);
+  color:var(--ink);
+  font-size:16px;
+  line-height:1.65;
+}
+
+/* HERO */
+.hero{
+  min-height:100vh;
+  background:var(--ink);
+  color:var(--paper);
+  position:relative;
+  overflow:hidden;
+  display:flex;
+  flex-direction:column;
+  justify-content:space-between;
+  padding:48px 64px;
+}
+.hero::before{
+  content:"";
+  position:absolute;
+  inset:0;
+  background-image:url("https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=1920&q=85&auto=format");
+  background-size:cover;
+  background-position:center;
+  opacity:0.22;
+  filter:grayscale(100%) contrast(1.1);
+}
+.hero::after{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:linear-gradient(180deg, rgba(11,13,12,0.4) 0%, rgba(11,13,12,0.85) 60%, rgba(11,13,12,0.98) 100%);
+}
+.hero-inner{position:relative;z-index:2;display:flex;flex-direction:column;justify-content:space-between;flex:1;}
+.hero-top{display:flex;justify-content:space-between;align-items:flex-start;}
+.brand{
+  font-family:var(--mono);
+  font-size:11px;
+  letter-spacing:0.3em;
+  text-transform:uppercase;
+  color:var(--gold);
+  border:1px solid var(--gold);
+  padding:8px 14px;
+}
+.meta{
+  font-family:var(--mono);
+  font-size:11px;
+  letter-spacing:0.18em;
+  text-transform:uppercase;
+  color:rgba(245,243,238,0.55);
+  text-align:right;
+}
+.meta strong{color:var(--paper);display:block;font-weight:500;margin-top:4px;}
+
+.hero-center{margin:80px 0;}
+.eyebrow{
+  font-family:var(--mono);
+  font-size:12px;
+  letter-spacing:0.24em;
+  text-transform:uppercase;
+  color:var(--gold);
+  margin-bottom:28px;
+}
+.hero h1{
+  font-family:var(--serif);
+  font-weight:300;
+  font-size:clamp(48px, 7vw, 112px);
+  line-height:0.98;
+  letter-spacing:-0.035em;
+  color:var(--paper);
+  max-width:1200px;
+}
+.hero h1 em{
+  font-style:italic;
+  font-weight:400;
+  color:var(--gold);
+}
+.hero-sub{
+  margin-top:40px;
+  font-size:21px;
+  line-height:1.55;
+  max-width:760px;
+  color:rgba(245,243,238,0.82);
+  font-weight:300;
+}
+
+.hero-bottom{display:flex;justify-content:space-between;align-items:flex-end;gap:64px;flex-wrap:wrap;}
+.hero-stats{display:flex;gap:56px;flex-wrap:wrap;}
+.stat-hero .num{
+  font-family:var(--serif);
+  font-size:48px;
+  line-height:1;
+  color:var(--gold);
+  font-weight:400;
+}
+.stat-hero .lbl{
+  font-family:var(--mono);
+  font-size:10px;
+  letter-spacing:0.22em;
+  text-transform:uppercase;
+  color:rgba(245,243,238,0.6);
+  margin-top:8px;
+}
+.scroll-cue{
+  font-family:var(--mono);
+  font-size:10px;
+  letter-spacing:0.28em;
+  text-transform:uppercase;
+  color:rgba(245,243,238,0.5);
+  writing-mode:vertical-rl;
+  transform:rotate(180deg);
+}
+
+/* SECTIONS */
+section{padding:120px 64px;max-width:100%;}
+.section-inner{max-width:1380px;margin:0 auto;}
+
+.section-label{
+  display:flex;
+  align-items:baseline;
+  gap:24px;
+  margin-bottom:40px;
+}
+.section-num{
+  font-family:var(--mono);
+  font-size:12px;
+  letter-spacing:0.28em;
+  color:var(--gold-deep);
+  font-weight:500;
+}
+.section-tag{
+  font-family:var(--mono);
+  font-size:11px;
+  letter-spacing:0.24em;
+  text-transform:uppercase;
+  color:var(--muted);
+  border-top:1px solid var(--line);
+  padding-top:10px;
+  flex:1;
+}
+.section-title{
+  font-family:var(--serif);
+  font-weight:300;
+  font-size:clamp(38px, 5vw, 68px);
+  line-height:1.02;
+  letter-spacing:-0.025em;
+  color:var(--ink);
+  margin-bottom:28px;
+  max-width:1100px;
+}
+.section-title em{font-style:italic;color:var(--forest);}
+.section-lead{
+  font-size:19px;
+  line-height:1.6;
+  max-width:780px;
+  color:var(--muted);
+  font-weight:400;
+  margin-bottom:56px;
+}
+
+/* EXEC SUMMARY */
+.exec{background:var(--paper-2);}
+.exec-grid{
+  display:grid;
+  grid-template-columns:repeat(5,1fr);
+  gap:1px;
+  background:var(--line);
+  border-top:1px solid var(--line);
+  border-bottom:1px solid var(--line);
+}
+.exec-cell{
+  background:var(--paper);
+  padding:40px 28px;
+  min-height:320px;
+  display:flex;
+  flex-direction:column;
+  justify-content:space-between;
+}
+.exec-cell .kicker{
+  font-family:var(--mono);
+  font-size:10px;
+  letter-spacing:0.28em;
+  color:var(--gold-deep);
+  text-transform:uppercase;
+  margin-bottom:20px;
+}
+.exec-cell .big{
+  font-family:var(--serif);
+  font-size:44px;
+  line-height:1;
+  color:var(--ink);
+  font-weight:300;
+  letter-spacing:-0.02em;
+  margin-bottom:16px;
+}
+.exec-cell .desc{font-size:14.5px;line-height:1.55;color:var(--muted);}
+
+/* TRAMPAY ANATOMY */
+.anatomy{background:var(--paper);}
+.anatomy-split{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:80px;
+  align-items:start;
+  margin-top:40px;
+}
+.anatomy-visual{
+  position:relative;
+  border-radius:4px;
+  overflow:hidden;
+  aspect-ratio:4/5;
+  background:var(--ink);
+}
+.anatomy-visual img{
+  width:100%;height:100%;object-fit:cover;
+  filter:grayscale(25%) contrast(1.05);
+}
+.anatomy-visual::after{
+  content:"";position:absolute;inset:0;
+  background:linear-gradient(180deg, transparent 40%, rgba(11,13,12,0.7));
+}
+.anatomy-badge{
+  position:absolute;
+  bottom:32px;
+  left:32px;
+  right:32px;
+  color:var(--paper);
+  z-index:2;
+}
+.anatomy-badge .tag{
+  font-family:var(--mono);
+  font-size:10px;
+  letter-spacing:0.3em;
+  color:var(--gold);
+  text-transform:uppercase;
+  margin-bottom:12px;
+}
+.anatomy-badge h3{
+  font-family:var(--serif);
+  font-size:32px;
+  font-weight:400;
+  line-height:1.1;
+  letter-spacing:-0.015em;
+}
+
+.anatomy-facts dt{
+  font-family:var(--mono);
+  font-size:10px;
+  letter-spacing:0.24em;
+  text-transform:uppercase;
+  color:var(--gold-deep);
+  margin-bottom:6px;
+  padding-top:24px;
+  border-top:1px solid var(--line);
+}
+.anatomy-facts dt:first-child{border-top:0;padding-top:0;}
+.anatomy-facts dd{
+  font-family:var(--serif);
+  font-size:22px;
+  line-height:1.35;
+  font-weight:400;
+  color:var(--ink);
+  margin-bottom:24px;
+  letter-spacing:-0.01em;
+}
+.anatomy-facts dd span.small{
+  display:block;
+  font-family:var(--sans);
+  font-size:14px;
+  color:var(--muted);
+  font-weight:400;
+  margin-top:6px;
+  letter-spacing:0;
+}
+
+.callout{
+  margin-top:80px;
+  padding:48px 56px;
+  background:var(--ink);
+  color:var(--paper);
+  border-left:6px solid var(--gold);
+  position:relative;
+}
+.callout::before{
+  content:"INSIGHT CRÍTICO";
+  font-family:var(--mono);
+  font-size:10px;
+  letter-spacing:0.3em;
+  color:var(--gold);
+  display:block;
+  margin-bottom:20px;
+}
+.callout p{
+  font-family:var(--serif);
+  font-size:28px;
+  line-height:1.4;
+  font-weight:300;
+  letter-spacing:-0.015em;
+}
+.callout p strong{color:var(--gold);font-weight:400;font-style:italic;}
+
+/* FEES */
+.fees{background:var(--forest);color:var(--paper);}
+.fees .section-title{color:var(--paper);}
+.fees .section-tag{color:rgba(245,243,238,0.55);border-color:rgba(245,243,238,0.18);}
+.fees .section-num{color:var(--gold);}
+.fees .section-lead{color:rgba(245,243,238,0.72);}
+
+.fees-table{
+  width:100%;
+  border-collapse:collapse;
+  margin-top:40px;
+}
+.fees-table th{
+  font-family:var(--mono);
+  font-size:10px;
+  letter-spacing:0.22em;
+  text-transform:uppercase;
+  text-align:left;
+  padding:18px 20px;
+  color:var(--gold);
+  border-bottom:1px solid rgba(245,243,238,0.2);
+  font-weight:500;
+}
+.fees-table td{
+  padding:28px 20px;
+  border-bottom:1px solid rgba(245,243,238,0.1);
+  vertical-align:top;
+  color:rgba(245,243,238,0.85);
+  font-size:15px;
+  line-height:1.5;
+}
+.fees-table td.item{
+  font-family:var(--serif);
+  font-size:19px;
+  color:var(--paper);
+  font-weight:400;
+  letter-spacing:-0.01em;
+}
+.fees-table td.val{
+  font-family:var(--mono);
+  font-size:16px;
+  color:var(--gold);
+  font-weight:500;
+  white-space:nowrap;
+}
+
+/* COMPETITORS */
+.compet{background:var(--paper);}
+.cat-grid{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:24px;
+  margin-top:48px;
+}
+.cat{
+  background:var(--paper-2);
+  padding:40px 32px;
+  border-top:3px solid var(--gold);
+  min-height:480px;
+  display:flex;
+  flex-direction:column;
+}
+.cat.primary{border-color:var(--terracotta);}
+.cat.secondary{border-color:var(--forest);}
+.cat .cat-lbl{
+  font-family:var(--mono);
+  font-size:10px;
+  letter-spacing:0.26em;
+  text-transform:uppercase;
+  color:var(--gold-deep);
+  margin-bottom:16px;
+}
+.cat.primary .cat-lbl{color:var(--terracotta);}
+.cat.secondary .cat-lbl{color:var(--forest);}
+.cat h3{
+  font-family:var(--serif);
+  font-size:30px;
+  font-weight:400;
+  line-height:1.1;
+  letter-spacing:-0.015em;
+  margin-bottom:20px;
+}
+.cat .cat-desc{
+  font-size:14.5px;
+  line-height:1.55;
+  color:var(--muted);
+  margin-bottom:28px;
+}
+.cat ul{list-style:none;margin-top:auto;}
+.cat ul li{
+  padding:14px 0;
+  border-top:1px solid rgba(11,13,12,0.08);
+  font-size:14.5px;
+  display:flex;
+  justify-content:space-between;
+  gap:16px;
+  align-items:baseline;
+}
+.cat ul li:first-child{border-top:1px solid rgba(11,13,12,0.2);}
+.cat ul li strong{
+  font-family:var(--serif);
+  font-size:18px;
+  font-weight:400;
+  color:var(--ink);
+}
+.cat ul li span{
+  font-family:var(--mono);
+  font-size:11px;
+  color:var(--muted);
+  letter-spacing:0.06em;
+  text-align:right;
+  flex-shrink:0;
+}
+
+/* GLOBAL PLAYERS */
+.global{
+  background:var(--ink);
+  color:var(--paper);
+}
+.global .section-title{color:var(--paper);}
+.global .section-tag{color:rgba(245,243,238,0.55);border-color:rgba(245,243,238,0.18);}
+.global .section-num{color:var(--gold);}
+.global .section-lead{color:rgba(245,243,238,0.72);}
+.global-grid{
+  display:grid;
+  grid-template-columns:repeat(2,1fr);
+  gap:32px;
+  margin-top:48px;
+}
+.global-card{
+  background:rgba(245,243,238,0.04);
+  border:1px solid rgba(245,243,238,0.1);
+  padding:40px;
+  position:relative;
+  overflow:hidden;
+}
+.global-card::before{
+  content:"";
+  position:absolute;
+  top:0;left:0;right:0;height:2px;
+  background:var(--gold);
+  transform:scaleX(0.3);
+  transform-origin:left;
+}
+.global-card .name{
+  font-family:var(--serif);
+  font-size:40px;
+  font-weight:300;
+  letter-spacing:-0.02em;
+  color:var(--paper);
+  margin-bottom:4px;
+}
+.global-card .loc{
+  font-family:var(--mono);
+  font-size:10px;
+  letter-spacing:0.26em;
+  color:var(--gold);
+  margin-bottom:24px;
+  text-transform:uppercase;
+}
+.global-card .desc{
+  font-size:15px;
+  line-height:1.6;
+  color:rgba(245,243,238,0.78);
+  margin-bottom:28px;
+}
+.global-stats{display:grid;grid-template-columns:1fr 1fr;gap:24px;}
+.global-stats div{border-left:2px solid var(--gold);padding-left:14px;}
+.global-stats strong{
+  font-family:var(--serif);
+  font-size:26px;
+  color:var(--gold);
+  display:block;
+  line-height:1;
+  margin-bottom:4px;
+  font-weight:400;
+}
+.global-stats span{
+  font-family:var(--mono);
+  font-size:10px;
+  letter-spacing:0.2em;
+  text-transform:uppercase;
+  color:rgba(245,243,238,0.55);
+}
+
+/* REGULATION */
+.reg{background:var(--paper);}
+.reg-matrix{
+  margin-top:48px;
+  background:var(--paper-2);
+  padding:6px;
+}
+.reg-row{
+  display:grid;
+  grid-template-columns:240px 1fr 200px 200px 140px;
+  gap:24px;
+  padding:32px 28px;
+  background:var(--paper);
+  margin-bottom:2px;
+  align-items:center;
+}
+.reg-row.head{
+  background:var(--ink);
+  color:var(--paper);
+  padding:20px 28px;
+}
+.reg-row.head div{
+  font-family:var(--mono);
+  font-size:10px;
+  letter-spacing:0.22em;
+  text-transform:uppercase;
+  color:var(--gold);
+  font-weight:500;
+}
+.reg-row .mod{
+  font-family:var(--serif);
+  font-size:24px;
+  line-height:1.15;
+  font-weight:400;
+  letter-spacing:-0.01em;
+}
+.reg-row .mod small{
+  font-family:var(--mono);
+  font-size:10px;
+  letter-spacing:0.2em;
+  text-transform:uppercase;
+  color:var(--gold-deep);
+  display:block;
+  margin-top:6px;
+}
+.reg-row .what{
+  font-size:14.5px;
+  line-height:1.55;
+  color:var(--muted);
+}
+.reg-row .cap{
+  font-family:var(--mono);
+  font-size:16px;
+  color:var(--ink);
+  font-weight:500;
+}
+.reg-row .cap em{font-style:normal;color:var(--terracotta);font-size:13px;display:block;margin-top:4px;font-weight:400;}
+.reg-row .time{
+  font-family:var(--serif);
+  font-size:20px;
+  color:var(--forest);
+  font-weight:400;
+}
+.reg-row .badge{
+  font-family:var(--mono);
+  font-size:10px;
+  letter-spacing:0.2em;
+  text-transform:uppercase;
+  padding:6px 10px;
+  display:inline-block;
+  text-align:center;
+  font-weight:500;
+}
+.badge.fast{background:var(--forest);color:var(--paper);}
+.badge.mid{background:var(--gold);color:var(--ink);}
+.badge.hard{background:var(--terracotta);color:var(--paper);}
+
+/* MARKET */
+.market{background:var(--paper-2);}
+.market-split{
+  display:grid;
+  grid-template-columns:1.1fr 0.9fr;
+  gap:80px;
+  align-items:center;
+  margin-top:40px;
+}
+.market-chart{
+  background:var(--paper);
+  padding:56px 48px;
+  border:1px solid var(--line);
+}
+.chart-title{
+  font-family:var(--mono);
+  font-size:10px;
+  letter-spacing:0.26em;
+  text-transform:uppercase;
+  color:var(--gold-deep);
+  margin-bottom:8px;
+}
+.chart-headline{
+  font-family:var(--serif);
+  font-size:34px;
+  font-weight:300;
+  letter-spacing:-0.02em;
+  margin-bottom:48px;
+  line-height:1.15;
+}
+.bars{display:flex;align-items:flex-end;gap:14px;height:260px;margin-bottom:24px;}
+.bar{
+  flex:1;
+  background:linear-gradient(180deg, var(--gold) 0%, var(--gold-deep) 100%);
+  position:relative;
+  transition:all 0.4s;
+}
+.bar:first-child{background:var(--line);}
+.bar span{
+  position:absolute;
+  top:-28px;
+  left:50%;
+  transform:translateX(-50%);
+  font-family:var(--mono);
+  font-size:12px;
+  font-weight:500;
+  color:var(--ink);
+  white-space:nowrap;
+}
+.bar em{
+  position:absolute;
+  bottom:-28px;
+  left:50%;
+  transform:translateX(-50%);
+  font-family:var(--mono);
+  font-size:10px;
+  color:var(--muted);
+  font-style:normal;
+  letter-spacing:0.1em;
+}
+.market-facts{display:flex;flex-direction:column;gap:36px;}
+.market-fact{border-left:3px solid var(--gold);padding-left:24px;}
+.market-fact .big{
+  font-family:var(--serif);
+  font-size:52px;
+  line-height:1;
+  color:var(--ink);
+  font-weight:300;
+  letter-spacing:-0.025em;
+  margin-bottom:8px;
+}
+.market-fact .big em{color:var(--gold-deep);font-style:italic;font-size:36px;}
+.market-fact .desc{font-size:15px;line-height:1.5;color:var(--muted);}
+
+/* GAP */
+.gap{background:var(--terracotta);color:var(--paper);position:relative;overflow:hidden;}
+.gap::before{
+  content:"";
+  position:absolute;
+  inset:0;
+  background-image:url("https://images.unsplash.com/photo-1519003722824-194d4455a60c?w=1600&q=80");
+  background-size:cover;
+  background-position:center;
+  opacity:0.12;
+  filter:grayscale(100%);
+}
+.gap .section-inner{position:relative;z-index:2;}
+.gap .section-title{color:var(--paper);}
+.gap .section-tag{color:rgba(245,243,238,0.6);border-color:rgba(245,243,238,0.22);}
+.gap .section-num{color:var(--ink);background:var(--paper);padding:4px 12px;}
+.gap .section-lead{color:rgba(245,243,238,0.85);}
+
+.gap-diamond{
+  margin-top:80px;
+  display:grid;
+  grid-template-columns:1fr;
+  gap:2px;
+}
+.gap-row{
+  display:grid;
+  grid-template-columns:80px 1fr 1fr;
+  gap:40px;
+  padding:40px 0;
+  border-top:1px solid rgba(245,243,238,0.3);
+  align-items:start;
+}
+.gap-row:last-child{border-bottom:1px solid rgba(245,243,238,0.3);}
+.gap-row .num{
+  font-family:var(--serif);
+  font-size:48px;
+  line-height:1;
+  color:rgba(245,243,238,0.6);
+  font-weight:300;
+}
+.gap-row .title{
+  font-family:var(--serif);
+  font-size:28px;
+  font-weight:400;
+  letter-spacing:-0.015em;
+  line-height:1.15;
+  color:var(--paper);
+}
+.gap-row .desc{
+  font-size:15.5px;
+  line-height:1.6;
+  color:rgba(245,243,238,0.85);
+}
+
+/* MODELING */
+.model{background:var(--paper);}
+.pillars{
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  gap:2px;
+  margin-top:60px;
+  background:var(--line);
+  border:1px solid var(--line);
+}
+.pillar{
+  background:var(--paper);
+  padding:44px 32px;
+  min-height:400px;
+  display:flex;
+  flex-direction:column;
+}
+.pillar .pill-num{
+  font-family:var(--mono);
+  font-size:11px;
+  letter-spacing:0.3em;
+  color:var(--gold-deep);
+  margin-bottom:32px;
+}
+.pillar .pill-title{
+  font-family:var(--serif);
+  font-size:26px;
+  font-weight:400;
+  line-height:1.15;
+  letter-spacing:-0.01em;
+  margin-bottom:20px;
+  color:var(--ink);
+}
+.pillar .pill-desc{font-size:14.5px;line-height:1.6;color:var(--muted);}
+
+.blueprint{
+  margin-top:100px;
+  background:var(--ink);
+  color:var(--paper);
+  padding:72px 64px;
+  position:relative;
+  overflow:hidden;
+}
+.blueprint::before{
+  content:"";
+  position:absolute;
+  top:-200px;right:-200px;
+  width:600px;height:600px;
+  background:radial-gradient(circle, rgba(200,164,92,0.15), transparent 70%);
+}
+.blueprint .bp-kicker{
+  font-family:var(--mono);
+  font-size:11px;
+  letter-spacing:0.3em;
+  color:var(--gold);
+  text-transform:uppercase;
+  margin-bottom:16px;
+}
+.blueprint h3{
+  font-family:var(--serif);
+  font-size:52px;
+  font-weight:300;
+  letter-spacing:-0.025em;
+  line-height:1.05;
+  margin-bottom:48px;
+  position:relative;
+  max-width:900px;
+}
+.bp-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:48px;position:relative;}
+.bp-block h4{
+  font-family:var(--mono);
+  font-size:11px;
+  letter-spacing:0.26em;
+  color:var(--gold);
+  text-transform:uppercase;
+  margin-bottom:20px;
+  border-bottom:1px solid rgba(200,164,92,0.3);
+  padding-bottom:10px;
+}
+.bp-block ul{list-style:none;}
+.bp-block li{
+  padding:14px 0;
+  display:grid;
+  grid-template-columns:28px 1fr;
+  gap:16px;
+  align-items:baseline;
+  border-bottom:1px solid rgba(245,243,238,0.08);
+}
+.bp-block li em{
+  font-family:var(--mono);
+  font-size:12px;
+  color:var(--gold);
+  font-style:normal;
+  font-weight:500;
+}
+.bp-block li span{
+  font-size:15px;
+  line-height:1.5;
+  color:rgba(245,243,238,0.88);
+}
+.bp-block li span strong{color:var(--paper);font-weight:600;}
+
+/* ROADMAP */
+.road{background:var(--paper-2);}
+.timeline{
+  margin-top:60px;
+  position:relative;
+  padding-left:4px;
+}
+.timeline::before{
+  content:"";
+  position:absolute;
+  left:0;top:24px;bottom:24px;
+  width:2px;
+  background:linear-gradient(180deg, var(--gold), var(--forest) 33%, var(--forest-light) 66%, var(--muted));
+}
+.phase{
+  display:grid;
+  grid-template-columns:180px 1fr;
+  gap:48px;
+  padding:40px 0 40px 48px;
+  position:relative;
+  border-bottom:1px solid var(--line);
+}
+.phase:last-child{border-bottom:0;}
+.phase::before{
+  content:"";
+  position:absolute;
+  left:-8px;top:56px;
+  width:18px;height:18px;
+  background:var(--paper);
+  border:4px solid var(--gold);
+  border-radius:50%;
+}
+.phase.f2::before{border-color:var(--forest);}
+.phase.f3::before{border-color:var(--forest-light);}
+.phase.f4::before{border-color:var(--muted);}
+.phase .when{
+  font-family:var(--mono);
+  font-size:11px;
+  letter-spacing:0.24em;
+  text-transform:uppercase;
+  color:var(--gold-deep);
+  padding-top:12px;
+}
+.phase.f2 .when{color:var(--forest);}
+.phase.f3 .when{color:var(--forest-light);}
+.phase.f4 .when{color:var(--muted);}
+.phase h4{
+  font-family:var(--serif);
+  font-size:30px;
+  font-weight:400;
+  letter-spacing:-0.015em;
+  line-height:1.15;
+  margin-bottom:16px;
+  color:var(--ink);
+}
+.phase p{
+  font-size:16px;
+  line-height:1.65;
+  color:var(--muted);
+  margin-bottom:20px;
+  max-width:720px;
+}
+.phase .deliver{
+  display:flex;
+  gap:12px;
+  flex-wrap:wrap;
+}
+.phase .deliver span{
+  font-family:var(--mono);
+  font-size:10px;
+  letter-spacing:0.18em;
+  text-transform:uppercase;
+  padding:7px 12px;
+  background:var(--paper);
+  border:1px solid var(--line);
+  color:var(--ink);
+}
+
+/* FINAL */
+.final{background:var(--ink);color:var(--paper);position:relative;overflow:hidden;}
+.final::before{
+  content:"";
+  position:absolute;
+  top:-300px;left:-200px;
+  width:800px;height:800px;
+  background:radial-gradient(circle, rgba(200,164,92,0.12), transparent 70%);
+}
+.final-kicker{
+  font-family:var(--mono);
+  font-size:12px;
+  letter-spacing:0.32em;
+  color:var(--gold);
+  text-transform:uppercase;
+  margin-bottom:32px;
+  position:relative;
+}
+.final h2{
+  font-family:var(--serif);
+  font-size:clamp(44px,6vw,92px);
+  font-weight:300;
+  letter-spacing:-0.03em;
+  line-height:1.02;
+  max-width:1200px;
+  margin-bottom:48px;
+  position:relative;
+  color:var(--paper);
+}
+.final h2 em{color:var(--gold);font-style:italic;}
+.final-grid{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:40px;
+  margin-top:80px;
+  position:relative;
+}
+.final-card{
+  padding:40px 36px;
+  background:rgba(245,243,238,0.04);
+  border:1px solid rgba(245,243,238,0.1);
+  border-top:3px solid var(--gold);
+}
+.final-card .fc-kick{
+  font-family:var(--mono);
+  font-size:11px;
+  letter-spacing:0.26em;
+  text-transform:uppercase;
+  color:var(--gold);
+  margin-bottom:20px;
+}
+.final-card h4{
+  font-family:var(--serif);
+  font-size:28px;
+  font-weight:400;
+  line-height:1.1;
+  letter-spacing:-0.015em;
+  margin-bottom:20px;
+  color:var(--paper);
+}
+.final-card p{
+  font-size:15px;
+  line-height:1.6;
+  color:rgba(245,243,238,0.8);
+}
+
+/* SOURCES */
+.src{background:var(--paper);border-top:1px solid var(--line);}
+.src h3{
+  font-family:var(--mono);
+  font-size:11px;
+  letter-spacing:0.3em;
+  text-transform:uppercase;
+  color:var(--gold-deep);
+  margin-bottom:32px;
+}
+.src-grid{
+  columns:3;
+  column-gap:40px;
+}
+.src-grid a{
+  display:block;
+  padding:12px 0;
+  color:var(--ink);
+  text-decoration:none;
+  font-size:13px;
+  line-height:1.4;
+  break-inside:avoid;
+  border-bottom:1px solid var(--line);
+  font-family:var(--sans);
+}
+.src-grid a:hover{color:var(--gold-deep);}
+.src-grid a em{
+  display:block;
+  font-family:var(--mono);
+  font-size:10px;
+  color:var(--muted);
+  letter-spacing:0.08em;
+  font-style:normal;
+  margin-top:4px;
+  word-break:break-all;
+}
+
+.footer{
+  padding:48px 64px;
+  background:var(--ink);
+  color:rgba(245,243,238,0.5);
+  font-family:var(--mono);
+  font-size:11px;
+  letter-spacing:0.2em;
+  text-transform:uppercase;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  flex-wrap:wrap;
+  gap:20px;
+}
+.footer strong{color:var(--gold);font-weight:500;}
+
+@media (max-width:960px){
+  section{padding:80px 28px;}
+  .hero{padding:32px 28px;}
+  .exec-grid{grid-template-columns:1fr 1fr;}
+  .anatomy-split,.market-split{grid-template-columns:1fr;gap:40px;}
+  .cat-grid,.pillars,.global-grid,.final-grid{grid-template-columns:1fr;}
+  .reg-row{grid-template-columns:1fr;gap:12px;padding:24px 20px;}
+  .phase{grid-template-columns:1fr;gap:16px;padding-left:36px;}
+  .src-grid{columns:1;}
+  .bp-grid{grid-template-columns:1fr;gap:32px;}
+  .footer{padding:32px 28px;flex-direction:column;align-items:flex-start;}
+}
+</style>
+</head>
+<body>
+
+<!-- HERO -->
+<header class="hero">
+  <div class="hero-inner">
+    <div class="hero-top">
+      <div class="brand">MSE &bull; INTEL DESK</div>
+      <div class="meta">
+        Relatório preparado para<br>
+        <strong>Grupo PRA / Anthony Nichols</strong><br>
+        22 de Abril de 2026 &bull; V1
+      </div>
+    </div>
+
+    <div class="hero-center">
+      <div class="eyebrow">Inteligência competitiva &bull; 8 frentes paralelas</div>
+      <h1>A anatomia da <em>Trampay</em>,<br>o que ela realmente é<br>&mdash; e o que você<br>pode construir <em>melhor</em>.</h1>
+      <p class="hero-sub">Pesquisa global sobre o modelo, as taxas, os concorrentes brasileiros e as referências globais que estão acima da curva local. No fim, um blueprint de modelagem de uma fintech vertical para o ecossistema logístico do Grupo PRA.</p>
+    </div>
+
+    <div class="hero-bottom">
+      <div class="hero-stats">
+        <div class="stat-hero">
+          <div class="num">8</div>
+          <div class="lbl">Frentes de pesquisa</div>
+        </div>
+        <div class="stat-hero">
+          <div class="num">23+</div>
+          <div class="lbl">Players mapeados</div>
+        </div>
+        <div class="stat-hero">
+          <div class="num">US$14bi</div>
+          <div class="lbl">Mercado BaaS BR 2026</div>
+        </div>
+        <div class="stat-hero">
+          <div class="num">CAGR 28%</div>
+          <div class="lbl">Ritmo do mercado</div>
+        </div>
+      </div>
+      <div class="scroll-cue">Role para explorar</div>
+    </div>
+  </div>
+</header>
+
+<!-- EXECUTIVE SUMMARY -->
+<section class="exec">
+  <div class="section-inner">
+    <div class="section-label">
+      <span class="section-num">01 &mdash; SUMÁRIO EXECUTIVO</span>
+      <span class="section-tag">Os 5 achados que mudam sua estratégia</span>
+    </div>
+    <h2 class="section-title">Cinco verdades sobre a Trampay que <em>redefinem</em> seu plano de fintech.</h2>
+    <p class="section-lead">Você pediu uma pesquisa global. A primeira coisa que ela revelou é que a Trampay não é o que parece à primeira vista &mdash; e isso abre uma porta estratégica enorme para o Grupo PRA.</p>
+  </div>
+
+  <div class="exec-grid">
+    <div class="exec-cell">
+      <div>
+        <div class="kicker">Achado 01</div>
+        <div class="big">Não é BaaS.</div>
+      </div>
+      <div class="desc">A Trampay é uma fintech vertical B2B2C que atende entregadores de apps. Ela roda em cima de BaaS de terceiros (BMP MoneyPlus + Celcoin via Banco Afro). Não existe "white label da Trampay" no sentido técnico &mdash; existe parceria operacional.</div>
+    </div>
+    <div class="exec-cell">
+      <div>
+        <div class="kicker">Achado 02</div>
+        <div class="big">R$ 200mi.</div>
+      </div>
+      <div class="desc">Volume acumulado em antecipações, com apenas 13 mil usuários ativos e 10 operadores logísticos parceiros. Ticket médio de R$ 120, 5x por mês por usuário. Margem vem de taxa fixa de 3,99% por antecipação.</div>
+    </div>
+    <div class="exec-cell">
+      <div>
+        <div class="kicker">Achado 03</div>
+        <div class="big">Regulação.</div>
+      </div>
+      <div class="desc">Para copiar o modelo Trampay você não precisa virar IP nem SCD. Começa como correspondente bancário de um BaaS &mdash; zero capital mínimo e autorização quase imediata. IP dedicado custaria R$ 9,2 milhões em capital até 2028.</div>
+    </div>
+    <div class="exec-cell">
+      <div>
+        <div class="kicker">Achado 04</div>
+        <div class="big">Gap.</div>
+      </div>
+      <div class="desc">Ninguém atende simultaneamente last-mile de e-commerce, transporte de bebidas e rental. Frete.com foca caminhoneiro. Trampay foca entregador moto. Target Bank foca TRC. O ecossistema multi-vertical do Grupo PRA é território virgem.</div>
+    </div>
+    <div class="exec-cell">
+      <div>
+        <div class="kicker">Achado 05</div>
+        <div class="big">Vantagem.</div>
+      </div>
+      <div class="desc">A Trampay paga CAC alto para cada parceria com operador logístico. O Grupo PRA já tem motoristas, entregadores e embarcadores cativos. CAC marginal é zero &mdash; o que transforma unit economics e acelera o break-even em 4 a 6 anos.</div>
+    </div>
+  </div>
+</section>
+
+<!-- ANATOMY -->
+<section class="anatomy">
+  <div class="section-inner">
+    <div class="section-label">
+      <span class="section-num">02 &mdash; ANATOMIA DA TRAMPAY</span>
+      <span class="section-tag">Quem são, como funcionam, quanto valem</span>
+    </div>
+    <h2 class="section-title">Uma fintech de <em>nano-empréstimos</em> vestida de banco digital.</h2>
+    <p class="section-lead">A Trampay foi fundada em 2020 em Brasília por três sócios, lançou o app em outubro de 2021, e desde então escalou a partir de uma tese muito específica: o entregador de aplicativo não tem padrinho financeiro. Não é cliente de bancão, não se encaixa em crédito tradicional, e vive no ciclo curto de recebimentos semanais.</p>
+
+    <div class="anatomy-split">
+      <div class="anatomy-visual">
+        <img src="https://images.unsplash.com/photo-1609166214994-502d326bafee?w=1200&q=85" alt="Entregador">
+        <div class="anatomy-badge">
+          <div class="tag">O cliente real</div>
+          <h3>Entregador de app.<br>Ticket de R$ 120.<br>5 antecipações/mês.</h3>
+        </div>
+      </div>
+
+      <dl class="anatomy-facts">
+        <dt>Fundação e sócios</dt>
+        <dd>2020 &bull; Jorge Júnior (CEO), Vitor Quaresma (CTO), Tiago Ribeiro (CCO)
+          <span class="small">App lançado em outubro de 2021, em Brasília.</span>
+        </dd>
+
+        <dt>Modelo de negócio</dt>
+        <dd>B2B2C &mdash; fecha contrato com operadores logísticos, atende os entregadores.
+          <span class="small">10 operadores logísticos parceiros &bull; 16+ estados &bull; 200+ municípios &bull; 21 empresas prestando serviço para iFood, Amazon e Mercado Livre.</span>
+        </dd>
+
+        <dt>Base de clientes</dt>
+        <dd>13 mil entregadores ativos (2023), meta de 40 mil.
+          <span class="small">Mercado endereçável Brasil: ~386 mil trabalhadores de plataforma (Cebrap). Penetração atual: 3,3%.</span>
+        </dd>
+
+        <dt>Infraestrutura bancária</dt>
+        <dd>BMP MoneyPlus (BaaS), Banco Afro (Celcoin), Gaia Securitizadora (FIDC).
+          <span class="small">A Trampay não tem licença própria. Opera como correspondente bancário e originadora de recebíveis.</span>
+        </dd>
+
+        <dt>Captação (funding)</dt>
+        <dd>R$ 6 milhões em rodada pre-seed.
+          <span class="small">R$ 5mi via FIDC Cedro Capital + R$ 1mi em equity. Negociação em andamento com fundos para captações somadas de R$ 300 milhões.</span>
+        </dd>
+
+        <dt>Volume e margem</dt>
+        <dd>R$ 200 milhões emprestados &bull; R$ 3mi de receita alvo 2023.
+          <span class="small">Principal produto: antecipação de recebíveis. Taxa fixa de 3,99% por operação. Produto secundário: split de pagamento entre operador logístico e entregador, com comissão.</span>
+        </dd>
+
+        <dt>Produtos no cardápio</dt>
+        <dd>Conta digital, Pix, pagamento de contas, cartão pré-pago, antecipação, seguros (odontológico e vida), marketplace de descontos, financiamento de moto (piloto).
+          <span class="small">Pipeline declarado: expansão para motoristas de aplicativo e pontos de apoio físicos em São Paulo e Rio.</span>
+        </dd>
+      </dl>
+    </div>
+
+    <div class="callout">
+      <p>A Trampay monetiza a <strong>liquidez curta</strong> de um trabalhador que não tem crédito em lugar nenhum. Ela não concede empréstimo de verdade &mdash; ela compra um recebível que ele já tem a receber. Risco é baixíssimo, spread é altíssimo, e a infraestrutura é terceirizada.</p>
+    </div>
+  </div>
+</section>
+
+<!-- FEES -->
+<section class="fees">
+  <div class="section-inner">
+    <div class="section-label">
+      <span class="section-num">03 &mdash; ESTRUTURA DE TAXAS</span>
+      <span class="section-tag">O que é público, o que é contratado, o que você pode copiar</span>
+    </div>
+    <h2 class="section-title">Os números reais por trás do modelo Trampay e dos <em>BaaS</em> que ela contrata.</h2>
+    <p class="section-lead">A Trampay não publica tabela de preços de white label porque não vende white label. Ela vende split para operadores logísticos e vende antecipação para entregadores. A tabela abaixo separa o que a Trampay cobra de clientes finais e o que custaria para você contratar a mesma infraestrutura que ela usa.</p>
+
+    <table class="fees-table">
+      <thead>
+        <tr>
+          <th style="width:22%">Linha de receita / custo</th>
+          <th style="width:18%">Valor praticado</th>
+          <th style="width:30%">Como funciona na prática</th>
+          <th style="width:30%">Fonte</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="item">Antecipação de recebíveis &bull; Trampay &rarr; entregador</td>
+          <td class="val">3,99% + R$ 6,99</td>
+          <td>Taxa fixa por adiantamento, cobrada sobre o valor antecipado. Em um frete de R$ 150, o entregador recebe R$ 143,01 imediatamente.</td>
+          <td>Finsiders, ISTOÉ Dinheiro, seucreditodigital.com.br</td>
+        </tr>
+        <tr>
+          <td class="item">Split de pagamento &bull; Trampay &rarr; operador logístico</td>
+          <td class="val">Comissão %</td>
+          <td>A Trampay intermedeia o repasse do operador logístico para os entregadores. Cobra percentual sobre o valor intermediado. Benchmark de mercado: 0,5% a 2%.</td>
+          <td>Finsiders &ldquo;Trampay quer ser ecossistema&rdquo;</td>
+        </tr>
+        <tr>
+          <td class="item">Contratar BaaS tipo Celcoin / Dock / BMP</td>
+          <td class="val">R$ 30k &ndash; R$ 150k setup</td>
+          <td>Taxa de setup varia conforme escopo de APIs (conta, cartão, PIX, antecipação). Nenhum provedor publica tabela &mdash; todos negociam caso a caso.</td>
+          <td>Celcoin, Dock, BMP MoneyPlus (benchmarks de mercado)</td>
+        </tr>
+        <tr>
+          <td class="item">Mensalidade da plataforma BaaS</td>
+          <td class="val">R$ 5k &ndash; R$ 20k+</td>
+          <td>Fee mensal de manutenção da infraestrutura, independente de volume. Escala conforme número de contas ativas e features habilitadas.</td>
+          <td>Benchmark mercado BaaS BR 2026</td>
+        </tr>
+        <tr>
+          <td class="item">Custo por transação</td>
+          <td class="val">R$ 0,05 &ndash; R$ 0,30</td>
+          <td>Cobrado pelo BaaS em cada movimentação (Pix emitido, Pix recebido, boleto, TED). Pode ser desconto sobre o take rate do cliente final.</td>
+          <td>Benchmark mercado</td>
+        </tr>
+        <tr>
+          <td class="item">Emissão de cartão físico</td>
+          <td class="val">R$ 3 &ndash; R$ 8 / unidade</td>
+          <td>Custo de plastic + embossing + logística. Cartão virtual costuma ser gratuito ou cobrado apenas se o volume superar o free-tier.</td>
+          <td>Benchmark Dock / Celcoin</td>
+        </tr>
+        <tr>
+          <td class="item">Capital mínimo se decidir virar IP próprio</td>
+          <td class="val">R$ 9,2 milhões</td>
+          <td>Regra que entra em vigor escalonada até jan/2028. Hoje (2026) ainda são R$ 1 milhão, mas a janela está fechando. Se a conta transacional usar Pix próprio, exige R$ 5 milhões já em 2026.</td>
+          <td>Resolução BCB 80/2021 &bull; BCB 14/2025 &bull; 517/518/2025</td>
+        </tr>
+        <tr>
+          <td class="item">Capital mínimo SCD (conceder crédito próprio)</td>
+          <td class="val">R$ 1 milhão</td>
+          <td>Para virar Sociedade de Crédito Direto e conceder empréstimo com recursos próprios, sem intermediação bancária. Se acumular emissão de moeda eletrônica, prevalece o requisito mais alto.</td>
+          <td>Resoluções CMN 4.656/4.657/2018</td>
+        </tr>
+        <tr>
+          <td class="item">Setup de autorização BACEN</td>
+          <td class="val">12 &ndash; 24 meses</td>
+          <td>Tempo médio entre protocolar o pedido de autorização (IP ou SCD) e receber o OK do Banco Central. Envolve plano de negócio, governança, compliance, sistema de controles.</td>
+          <td>NDM Advogados, Baptista Luz</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- COMPETITORS -->
+<section class="compet">
+  <div class="section-inner">
+    <div class="section-label">
+      <span class="section-num">04 &mdash; PAISAGEM COMPETITIVA BRASIL</span>
+      <span class="section-tag">Três camadas que você precisa diferenciar</span>
+    </div>
+    <h2 class="section-title">Três mercados diferentes &mdash; e <em>você não vai competir</em> com o primeiro.</h2>
+    <p class="section-lead">O ecossistema BaaS brasileiro tem três camadas. A camada de infra (quem bancariza) é fornecedor seu. A camada de fintech vertical (nicho) é seu concorrente conceitual. A camada horizontal B2B é o referencial de produto. A maioria dos investidores confunde tudo &mdash; você não pode.</p>
+
+    <div class="cat-grid">
+      <div class="cat">
+        <div class="cat-lbl">Camada 1 &bull; Infra (seus fornecedores)</div>
+        <h3>BaaS puro &mdash; quem banca a operação por baixo</h3>
+        <div class="cat-desc">São os que licenciam infraestrutura bancária via API. Eles vão ser seus contratados. Já contratam fintechs como a Trampay há anos.</div>
+        <ul>
+          <li><strong>Celcoin</strong><span>R$650mi captados &bull; M&A agressivo</span></li>
+          <li><strong>Dock</strong><span>Forte em cartão e banking</span></li>
+          <li><strong>QI Tech</strong><span>Forte em crédito</span></li>
+          <li><strong>BMP MoneyPlus</strong><span>280 parceiros &bull; R$15bi/mês</span></li>
+          <li><strong>Matera, Swap, Zoop, Bankly, FitBank</strong><span>Demais players</span></li>
+        </ul>
+      </div>
+
+      <div class="cat primary">
+        <div class="cat-lbl">Camada 2 &bull; Concorrência direta sua</div>
+        <h3>Fintechs verticais de logística &bull; B2B2C</h3>
+        <div class="cat-desc">São os que atacam o mesmo padrão de avatar que você atacaria. Diferentes nichos, mesma lógica de antecipação + conta digital + cartão.</div>
+        <ul>
+          <li><strong>Trampay</strong><span>Entregadores moto/bike</span></li>
+          <li><strong>Frete.com / FretePago</strong><span>Unicórnio &bull; R$3bi transacionados &bull; 700k contas</span></li>
+          <li><strong>TruckPad Pay</strong><span>Caminhoneiros</span></li>
+          <li><strong>FreteBras Conta Digital</strong><span>150k contas &bull; R$420mi</span></li>
+          <li><strong>Target Bank / Target Cash</strong><span>Transporte rodoviário bebidas e granel</span></li>
+          <li><strong>Cargo X</strong><span>Crédito para embarcadores</span></li>
+          <li><strong>StopClub</strong><span>Motoristas de app</span></li>
+          <li><strong>Rodobank, EmiteAí, efrete</strong><span>Players adjacentes</span></li>
+        </ul>
+      </div>
+
+      <div class="cat secondary">
+        <div class="cat-lbl">Camada 3 &bull; Referência horizontal B2B</div>
+        <h3>Conta PJ generalista &mdash; o que você NÃO quer ser</h3>
+        <div class="cat-desc">Fintechs horizontais para PMEs. Referência de UX e produto, mas estratégia oposta à sua &mdash; você vai explorar o fato de que o cliente já é cativo, não generalista.</div>
+        <ul>
+          <li><strong>Conta Simples</strong><span>Conta PJ + cartão corporativo</span></li>
+          <li><strong>Cora</strong><span>Conta PJ &bull; foco em PMEs</span></li>
+          <li><strong>Stark Bank</strong><span>Automação financeira PJ</span></li>
+          <li><strong>Omie Cash</strong><span>Fintech de ERP</span></li>
+          <li><strong>Frota Bank, Onfly</strong><span>Cartão de frota / despesas</span></li>
+          <li><strong>BB Antecipa Frete</strong><span>Banco tradicional</span></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="callout">
+      <p>A Trampay é um dos <strong>15 jogadores</strong> no tabuleiro de fintech vertical logística. O Frete.com, que virou unicórnio, opera 10x o volume dela. Mas <strong>nenhum</strong> deles foi montado dentro de uma holding logística com ecossistema multi-vertical já capturado. É esse o seu ângulo.</p>
+    </div>
+  </div>
+</section>
+
+<!-- GLOBAL -->
+<section class="global">
+  <div class="section-inner">
+    <div class="section-label">
+      <span class="section-num">05 &mdash; REFERÊNCIAS GLOBAIS ACIMA DA BRASIL</span>
+      <span class="section-tag">Os benchmarks mundiais que BR ainda persegue</span>
+    </div>
+    <h2 class="section-title">Quatro players globais que estão <em>anos à frente</em> do que o Brasil conseguiu construir.</h2>
+    <p class="section-lead">Você pediu referências globais acima das brasileiras. O Brasil tem infra sofisticada (Celcoin, Dock) mas ainda não chegou a três coisas que EUA e Europa entregam há anos: tempo de go-live de 3 semanas, revenue share transparente, e integração nativa de capital de giro com cartão corporativo.</p>
+
+    <div class="global-grid">
+      <div class="global-card">
+        <div class="loc">Estados Unidos &bull; Embedded finance</div>
+        <div class="name">Unit.co</div>
+        <div class="desc">Lançamento de produto financeiro em 3 semanas. Oferece capital, banking e bill pay prontos para empresas não-financeiras. Modelo de revenue share explícito com o cliente &mdash; Unit constrói, opera e paga parte da margem de volta para a plataforma parceira.</div>
+        <div class="global-stats">
+          <div><strong>US$40bi</strong><span>Volume anual</span></div>
+          <div><strong>1,5M</strong><span>Clientes finais</span></div>
+        </div>
+      </div>
+
+      <div class="global-card">
+        <div class="loc">Estados Unidos &bull; Card issuing</div>
+        <div class="name">Marqeta</div>
+        <div class="desc">Processadora de cartão por trás de Block, DoorDash, Instacart e dezenas de fintechs globais. O BNPL e embedded finance cresceram quase 60% no último ano. Parceria com Treasury Prime colocou card issuing moderno dentro da API de BaaS.</div>
+        <div class="global-stats">
+          <div><strong>US$109bi</strong><span>Volume/trimestre</span></div>
+          <div><strong>+60%</strong><span>Crescimento BNPL</span></div>
+        </div>
+      </div>
+
+      <div class="global-card">
+        <div class="loc">Estados Unidos &bull; Platform embedded</div>
+        <div class="name">Stripe Issuing + Capital + Treasury</div>
+        <div class="desc">O modelo mais consolidado do mundo. Plataformas emitem cartão com sua marca, concedem crédito baseado em volume transacional, e gerenciam contas FDIC sem mensalidade. Plataforma ganha share do interchange a cada uso do cartão.</div>
+        <div class="global-stats">
+          <div><strong>3 produtos</strong><span>Em uma única API</span></div>
+          <div><strong>Interchange</strong><span>Revenue share ativo</span></div>
+        </div>
+      </div>
+
+      <div class="global-card">
+        <div class="loc">Estados Unidos &bull; BaaS sponsor-bridge</div>
+        <div class="name">Treasury Prime</div>
+        <div class="desc">Camada que conecta fintechs a bancos sponsors múltiplos, tornando a relação menos dependente de um único parceiro bancário. Integrado ao Marqeta para card issuing. Modelo que resolve o maior risco operacional de qualquer fintech BaaS brasileira.</div>
+        <div class="global-stats">
+          <div><strong>Multi-bank</strong><span>Arquitetura</span></div>
+          <div><strong>API única</strong><span>Para o cliente</span></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="callout">
+      <p>O padrão global não é mais "quanto você cobra" &mdash; é <strong>quanto você devolve</strong> para o cliente na forma de revenue share. Stripe devolve interchange. Unit devolve parte do spread. Se você montar a fintech PRA no modelo brasileiro clássico (apenas cobrança), nasce defasada antes de lançar.</p>
+    </div>
+  </div>
+</section>
+
+<!-- REGULATION -->
+<section class="reg">
+  <div class="section-inner">
+    <div class="section-label">
+      <span class="section-num">06 &mdash; MATRIZ REGULATÓRIA BACEN</span>
+      <span class="section-tag">A decisão que define seus próximos 24 meses</span>
+    </div>
+    <h2 class="section-title">Quatro caminhos &mdash; e o certo para você <em>começar</em> é também o mais rápido.</h2>
+    <p class="section-lead">Escolher licença é a decisão mais cara que você vai tomar neste projeto. Capital mínimo, tempo de autorização e escopo de atuação mudam o jogo inteiro. O mercado BR está em transição regulatória: o capital mínimo sobe de R$ 1mi para R$ 9,2mi até 2028, com janela de adequação em maio de 2026.</p>
+
+    <div class="reg-matrix">
+      <div class="reg-row head">
+        <div>Modalidade</div>
+        <div>O que permite</div>
+        <div>Capital mínimo</div>
+        <div>Autorização</div>
+        <div>Recomendação</div>
+      </div>
+
+      <div class="reg-row">
+        <div class="mod">Correspondente Bancário<small>Modalidade sem licença BACEN</small></div>
+        <div class="what">Distribui produtos de um banco parceiro. É o que a Trampay faz hoje. Zero exposição regulatória para você &mdash; quem responde ao BACEN é o banco contratado.</div>
+        <div class="cap">R$ 0</div>
+        <div class="time">Quase imediato</div>
+        <div><span class="badge fast">Fase 1</span></div>
+      </div>
+
+      <div class="reg-row">
+        <div class="mod">SCD Sociedade de Crédito Direto<small>Resolução CMN 4.656/2018</small></div>
+        <div class="what">Concede empréstimo, financiamento e aquisição de recebíveis com recursos próprios. Não capta do público. Ideal para quem quer ficar com o spread da antecipação.</div>
+        <div class="cap">R$ 1 milhão<em>R$ 5mi se usar Pix próprio</em></div>
+        <div class="time">12 a 18 meses</div>
+        <div><span class="badge mid">Fase 2</span></div>
+      </div>
+
+      <div class="reg-row">
+        <div class="mod">IP Instituição de Pagamento<small>Resolução BCB 80/2021 &bull; 494/2025</small></div>
+        <div class="what">Emite moeda eletrônica, opera contas de pagamento, cartão, Pix direto. É o que a Nubank, C6, Mercado Pago operam. Maior escopo, maior custo regulatório.</div>
+        <div class="cap">R$ 9,2 milhões<em>Gradual até jan/2028</em></div>
+        <div class="time">18 a 24 meses</div>
+        <div><span class="badge hard">Fase 3</span></div>
+      </div>
+
+      <div class="reg-row">
+        <div class="mod">Banco Digital<small>Autorização completa</small></div>
+        <div class="what">Captação do público, múltiplos produtos, intermediação financeira plena. Só faz sentido em escala muito grande e estratégia de longo prazo de grupo econômico.</div>
+        <div class="cap">Acima de R$ 50mi<em>Varia por atividade</em></div>
+        <div class="time">24 a 36 meses</div>
+        <div><span class="badge hard">Fora de escopo</span></div>
+      </div>
+    </div>
+
+    <div class="callout">
+      <p>Comece como <strong>correspondente bancário</strong> em cima de Celcoin, Dock ou BMP. Em 3 a 6 meses você valida o produto e começa a gerar dados. Vira <strong>SCD</strong> no mês 12 para capturar o spread do crédito. <strong>IP</strong> só quando volumes justificarem o custo de R$ 9,2 milhões em capital &mdash; provavelmente ano 3 ou 4.</p>
+    </div>
+  </div>
+</section>
+
+<!-- MARKET -->
+<section class="market">
+  <div class="section-inner">
+    <div class="section-label">
+      <span class="section-num">07 &mdash; TAMANHO E TRAÇÃO DO MERCADO</span>
+      <span class="section-tag">Por que esse é o momento certo</span>
+    </div>
+    <h2 class="section-title">O mercado brasileiro de BaaS multiplica por <em>dez</em> até 2031.</h2>
+    <p class="section-lead">Brasil concentra 73% do mercado sul-americano de BaaS. A curva de adoção está muito mais agressiva aqui do que nos EUA ou Europa, porque a base bancarizável migrou em massa nos últimos 4 anos. O ecossistema logístico foi o vertical que mais rápido ganhou tração.</p>
+
+    <div class="market-split">
+      <div class="market-chart">
+        <div class="chart-title">Mercado BaaS Brasil (US$ bilhões)</div>
+        <div class="chart-headline">De US$ 1,4bi em 2021 para US$ 5bi em 2031 &mdash; com a curva acelerando.</div>
+        <div class="bars">
+          <div class="bar" style="height:18%"><span>1,4</span><em>2021</em></div>
+          <div class="bar" style="height:32%"><span>2,5</span><em>2023</em></div>
+          <div class="bar" style="height:70%"><span>14,0</span><em>2026</em></div>
+          <div class="bar" style="height:100%"><span>~20</span><em>2031</em></div>
+        </div>
+      </div>
+
+      <div class="market-facts">
+        <div class="market-fact">
+          <div class="big">28<em>%</em></div>
+          <div class="desc">CAGR do mercado brasileiro de BaaS entre 2019 e 2031 &mdash; supera amplamente a LATAM (7%) e os EUA (~18%).</div>
+        </div>
+        <div class="market-fact">
+          <div class="big">73<em>%</em></div>
+          <div class="desc">Do mercado sul-americano de BaaS está concentrado no Brasil. Não é uma fatia disputada &mdash; é um mercado capturado pelo hub regulatório, logístico e tecnológico local.</div>
+        </div>
+        <div class="market-fact">
+          <div class="big">US$ 34,5<em>bi</em></div>
+          <div class="desc">Mercado de embedded finance na América Latina em 2029, saltando dos US$ 9,8bi de 2024. CAGR de 28,6% &mdash; praticamente o mesmo ritmo do BaaS puro.</div>
+        </div>
+        <div class="market-fact">
+          <div class="big">386<em>k</em></div>
+          <div class="desc">Entregadores de aplicativo no Brasil (Cebrap). Trampay atende 13 mil. Só no ecossistema logístico amplo (caminhoneiros, motoristas de frete, last-mile), o TAM chega a 4 milhões de profissionais ativos.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- GAP -->
+<section class="gap">
+  <div class="section-inner">
+    <div class="section-label">
+      <span class="section-num">08 &mdash; GAP DE MERCADO</span>
+      <span class="section-tag">Onde ninguém olhou ainda</span>
+    </div>
+    <h2 class="section-title">O ângulo que <em>nenhum</em> dos 15 concorrentes consegue atacar.</h2>
+    <p class="section-lead">Toda fintech vertical de logística nasceu como plataforma horizontal que precisou conquistar operadores logísticos um a um. O Grupo PRA é o movimento inverso &mdash; um operador logístico consolidado que construiria sua própria fintech. Esse inversão cria três vantagens estruturais que mudam a economia do jogo.</p>
+
+    <div class="gap-diamond">
+      <div class="gap-row">
+        <div class="num">01</div>
+        <div class="title">CAC zero <br>&mdash; a base já está cativa</div>
+        <div class="desc">Trampay paga aquisição por cada entregador. Frete.com pagou R$ 1,14 bilhão em aporte para comprar a FreteBras e ganhar escala. Você tem motoristas, entregadores e embarcadores que <strong>já operam dentro do Grupo PRA</strong>. A conversão acontece por contrato interno, não por campanha paga.</div>
+      </div>
+
+      <div class="gap-row">
+        <div class="num">02</div>
+        <div class="title">Score próprio <br>&mdash; dado transacional exclusivo</div>
+        <div class="desc">Quantas entregas cada motorista faz? Qual o histórico de volume mensal? Qual o índice de avaria? Qual a regularidade do CT-e? Esses dados vivem no ERP interno do Grupo PRA. Nenhum concorrente tem acesso a eles &mdash; e eles são o <strong>melhor preditor de inadimplência</strong> que existe no setor.</div>
+      </div>
+
+      <div class="gap-row">
+        <div class="num">03</div>
+        <div class="title">Garantia de recebível <br>&mdash; inadimplência quase zerada</div>
+        <div class="desc">Empréstimo tradicional cobra juros altos porque não controla o fluxo de renda do tomador. Você controla. Desconta direto do repasse do motorista. Inadimplência efetiva tende a ficar abaixo de 2% contra 8-15% do mercado geral. Isso permite praticar taxas menores e ainda reter margem acima da Trampay.</div>
+      </div>
+
+      <div class="gap-row">
+        <div class="num">04</div>
+        <div class="title">Multi-vertical <br>&mdash; sinergia entre 4 bases de usuário</div>
+        <div class="desc">Entregadores last-mile (ML, Amazon, Shopee, Shein), motoristas de bebida (Ambev), embarcadores B2B, locatários do rental. Cada base tem um produto financeiro diferente &mdash; e o mesmo back-end serve todas. Economia de escala que nenhuma fintech pure-play consegue replicar.</div>
+      </div>
+
+      <div class="gap-row">
+        <div class="num">05</div>
+        <div class="title">Expansão M&A <br>&mdash; você pode virar o BaaS do setor</div>
+        <div class="desc">Depois de operar 18 meses no ecossistema próprio, você vira a plataforma para outras transportadoras regionais que não têm tecnologia. Eles usam sua fintech como white label. Aí sim, Grupo PRA vira um <strong>case brasileiro de embedded finance vertical</strong> &mdash; com rede própria de distribuição.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- MODEL -->
+<section class="model">
+  <div class="section-inner">
+    <div class="section-label">
+      <span class="section-num">09 &mdash; MODELAGEM DA FINTECH PRA</span>
+      <span class="section-tag">Arquitetura recomendada &bull; produtos &bull; posicionamento</span>
+    </div>
+    <h2 class="section-title">Quatro pilares que sustentam a construção da <em>fintech vertical</em> do Grupo PRA.</h2>
+    <p class="section-lead">A arquitetura é desenhada em camadas &mdash; cada camada resolve um problema específico e pode ser construída de forma incremental. Você começa leve, valida em 90 dias com um vertical, e expande para os outros três à medida que a operação estabiliza.</p>
+
+    <div class="pillars">
+      <div class="pillar">
+        <div class="pill-num">PILAR 01</div>
+        <div class="pill-title">Infraestrutura BaaS contratada</div>
+        <div class="pill-desc">Contratar Celcoin ou Dock como core banking. Evita o custo regulatório, acelera time-to-market, e permite focar toda a energia em produto e integração com ERP interno do Grupo PRA. BMP é uma terceira opção forte por já atender a Trampay e outros players de logística.</div>
+      </div>
+      <div class="pillar">
+        <div class="pill-num">PILAR 02</div>
+        <div class="pill-title">Camada de dados proprietária</div>
+        <div class="pill-desc">Construir uma camada de integração entre o ERP da PRA (WMS, TMS, controle de frota) e a fintech. É aqui que nasce a diferença competitiva estrutural &mdash; o score de crédito, o split automático, e o motor de antecipação baseado em CT-e e rota executada.</div>
+      </div>
+      <div class="pillar">
+        <div class="pill-num">PILAR 03</div>
+        <div class="pill-title">Produto vertical por público</div>
+        <div class="pill-desc">Quatro linhas de produto, cada uma ajustada para um perfil de usuário do ecossistema PRA. Entregador last-mile, motorista de frete, embarcador B2B e locatário rental. Cada um tem jornada de onboarding, taxa e contrato próprios &mdash; mesma infra por baixo.</div>
+      </div>
+      <div class="pillar">
+        <div class="pill-num">PILAR 04</div>
+        <div class="pill-title">Marca e regulação</div>
+        <div class="pill-desc">Escolher marca-mãe (PRA Pay, PRA Bank, PRA Capital?). Começar como correspondente bancário. Migrar para SCD entre o mês 12 e o mês 18, capturando spread do crédito. IP só em fase 3, quando o volume justifica o capital mínimo de R$ 9,2 milhões.</div>
+      </div>
+    </div>
+
+    <div class="blueprint">
+      <div class="bp-kicker">Blueprint de produtos &mdash; MVP e expansão</div>
+      <h3>O que você lança no mês 6 e o que vira receita recorrente no mês 24.</h3>
+
+      <div class="bp-grid">
+        <div class="bp-block">
+          <h4>MVP &mdash; Mês 6 &bull; Foco entregador + motorista</h4>
+          <ul>
+            <li><em>01</em><span><strong>Conta digital + cartão pré-pago</strong> para motoristas e entregadores do ecossistema PRA. Onboarding por convite interno, KYC simplificado.</span></li>
+            <li><em>02</em><span><strong>Split automático</strong> do repasse da PRA direto para a conta da fintech. Elimina intermediário bancário e cria vínculo operacional.</span></li>
+            <li><em>03</em><span><strong>Antecipação de recebíveis</strong> (D+0 contra o pagamento da PRA). Taxa similar à Trampay (3,99% fixo) &mdash; ou menor, já que inadimplência é zero.</span></li>
+            <li><em>04</em><span><strong>Pix, pagamento de contas, recarga celular</strong> &mdash; funcionalidades básicas esperadas pelo usuário, entregues pela API do BaaS contratado.</span></li>
+          </ul>
+        </div>
+
+        <div class="bp-block">
+          <h4>Fase 2 &mdash; Mês 12 &bull; Expansão para frota e embarcador</h4>
+          <ul>
+            <li><em>05</em><span><strong>Cartão de frota corporativo</strong> para combustível, pedágio, lava-rápido. Gestor enxerga tudo em dashboard vinculado ao veículo.</span></li>
+            <li><em>06</em><span><strong>Crédito produtivo</strong> para pneu, revisão e IPVA, com garantia nos recebíveis futuros do motorista autônomo.</span></li>
+            <li><em>07</em><span><strong>Antecipação de CT-e</strong> para embarcadores: receba o frete antes do prazo padrão de 30 a 45 dias.</span></li>
+            <li><em>08</em><span><strong>Marketplace de benefícios</strong> &mdash; oficinas, postos, suprimentos, seguros. Revenue share com parceiros (modelo Trampay espelhado).</span></li>
+          </ul>
+        </div>
+
+        <div class="bp-block">
+          <h4>Fase 3 &mdash; Mês 18 &bull; Conta PJ + Rental</h4>
+          <ul>
+            <li><em>09</em><span><strong>Conta PJ</strong> para locatários do braço Rental da PRA. Cobrança de locação direto, crédito para manutenção.</span></li>
+            <li><em>10</em><span><strong>Seguros embutidos</strong> (frota, prestamista, vida) distribuídos como representante. Receita sem custo regulatório extra.</span></li>
+            <li><em>11</em><span><strong>Score de crédito aberto</strong> &mdash; você começa a vender seu score para parceiros (seguradoras, locadoras, postos).</span></li>
+            <li><em>12</em><span><strong>Antecipação com risco sacado</strong> &mdash; embarcador grande garante o recebível, você financia na ponta. Volume escala rápido.</span></li>
+          </ul>
+        </div>
+
+        <div class="bp-block">
+          <h4>Fase 4 &mdash; Mês 24+ &bull; White label do setor</h4>
+          <ul>
+            <li><em>13</em><span><strong>Abrir a plataforma</strong> para outras transportadoras regionais operarem como sua white label. Você vira o "Celcoin da logística".</span></li>
+            <li><em>14</em><span><strong>Tokenização de recebíveis</strong> com FIDC próprio, reduzindo custo de capital e escalando volume de crédito.</span></li>
+            <li><em>15</em><span><strong>Migrar para IP completo</strong> quando volume transacional justificar o capital mínimo de R$ 9,2 milhões.</span></li>
+            <li><em>16</em><span><strong>Exit ou spinoff</strong> &mdash; a fintech pode virar subsidiária independente com valuation próprio. Frete.com fez isso e virou unicórnio.</span></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ROADMAP -->
+<section class="road">
+  <div class="section-inner">
+    <div class="section-label">
+      <span class="section-num">10 &mdash; ROADMAP DE 18 MESES</span>
+      <span class="section-tag">Da decisão ao primeiro cartão na mão do motorista</span>
+    </div>
+    <h2 class="section-title">Quatro fases &mdash; e o <em>primeiro usuário ativo</em> em 180 dias.</h2>
+    <p class="section-lead">Este roadmap é conservador. Assume 2 sprints de preparação regulatória, 3 sprints de desenvolvimento integrado com o BaaS contratado, e uma janela de piloto antes do rollout. Os três primeiros meses são decisivos para definir o parceiro técnico e trancar a arquitetura de dados.</p>
+
+    <div class="timeline">
+      <div class="phase">
+        <div class="when">Mês 0 a 3<br>Preparação</div>
+        <div>
+          <h4>Decisão estratégica, parceiro BaaS, estrutura societária.</h4>
+          <p>Contratação do BaaS (Celcoin, Dock ou BMP). Abertura de empresa holding da fintech separada da operação logística. Definição de marca, identidade visual e posicionamento. Negociação dos termos comerciais e revenue share com o parceiro.</p>
+          <div class="deliver">
+            <span>Contrato BaaS assinado</span>
+            <span>Marca definida</span>
+            <span>Holding constituída</span>
+            <span>Capital inicial aportado</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="phase f2">
+        <div class="when">Mês 3 a 6<br>Desenvolvimento</div>
+        <div>
+          <h4>Integração com ERP interno e piloto fechado.</h4>
+          <p>Desenvolvimento das APIs de integração entre o sistema interno da PRA e o BaaS. Construção do app mobile do motorista/entregador. Criação do motor de split e do cálculo de antecipação. Onboarding de 100 motoristas em piloto fechado.</p>
+          <div class="deliver">
+            <span>App MVP em beta</span>
+            <span>ERP integrado</span>
+            <span>100 usuários piloto</span>
+            <span>Primeira antecipação paga</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="phase f3">
+        <div class="when">Mês 6 a 12<br>Rollout</div>
+        <div>
+          <h4>Expansão controlada e abertura do produto.</h4>
+          <p>Rollout para 1.000 usuários ativos em 3 meses, escalando para 5.000 no fim do período. Lançamento do cartão físico, marketplace de benefícios e primeiras linhas de crédito produtivo. Início da conversa regulatória para migrar para SCD.</p>
+          <div class="deliver">
+            <span>5k usuários ativos</span>
+            <span>Cartão físico emitido</span>
+            <span>Marketplace ao ar</span>
+            <span>Protocolo SCD BACEN</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="phase f4">
+        <div class="when">Mês 12 a 18<br>Verticalização</div>
+        <div>
+          <h4>Fase 2 de produto e migração de licença.</h4>
+          <p>Lançamento do cartão de frota corporativo, antecipação de CT-e para embarcadores e conta PJ para o braço Rental. SCD autorizada (se o protocolo foi no mês 9). Tokenização dos primeiros recebíveis em FIDC próprio para reduzir custo de capital.</p>
+          <div class="deliver">
+            <span>4 produtos ativos</span>
+            <span>SCD autorizada</span>
+            <span>FIDC próprio operando</span>
+            <span>15k+ usuários</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="phase">
+        <div class="when">Mês 18 a 24<br>Consolidação</div>
+        <div>
+          <h4>Abertura da plataforma e estudo de IP.</h4>
+          <p>Primeiras transportadoras externas operando como white label da fintech PRA. Estudo de viabilidade para virar IP completo quando o volume transacional superar R$ 500 milhões ao mês. Valuation de mercado para eventual rodada ou spinoff.</p>
+          <div class="deliver">
+            <span>3+ transportadoras white label</span>
+            <span>R$500mi volume/mês</span>
+            <span>Estudo IP concluído</span>
+            <span>Valuation externo</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FINAL -->
+<section class="final">
+  <div class="section-inner">
+    <div class="final-kicker">Recomendação estratégica &bull; @theboss</div>
+    <h2>A fintech do Grupo PRA não é uma <em>cópia</em> da Trampay &mdash; é o <em>próximo capítulo</em> do embedded finance vertical no Brasil.</h2>
+    <div class="final-grid">
+      <div class="final-card">
+        <div class="fc-kick">Decisão 01 &bull; Parceiro</div>
+        <h4>Contrate Celcoin ou Dock como BaaS &mdash; não construa infra.</h4>
+        <p>Construir BaaS próprio custa anos de licença e dezenas de milhões. Contratar Celcoin ou Dock entrega a mesma capacidade em 3 meses. Use a economia regulatória para investir em produto e integração com o ERP da PRA &mdash; é aí que mora a diferença competitiva.</p>
+      </div>
+      <div class="final-card">
+        <div class="fc-kick">Decisão 02 &bull; Licença</div>
+        <h4>Comece como correspondente. Migre para SCD no mês 12.</h4>
+        <p>Correspondente bancário zera a barreira de entrada regulatória. SCD (R$ 1 milhão de capital) captura o spread da antecipação. IP completo só entra em cogitação quando o volume transacional justificar os R$ 9,2 milhões exigidos a partir de 2028.</p>
+      </div>
+      <div class="final-card">
+        <div class="fc-kick">Decisão 03 &bull; Produto</div>
+        <h4>Ataque primeiro o entregador e o motorista. Embarcador depois.</h4>
+        <p>O entregador de last-mile e o motorista de frete sentem dor de liquidez todo mês &mdash; conversão é alta, ticket é pequeno, volume é gigantesco. Embarcador B2B tem ticket alto mas ciclo de venda lento. Comece no hard-core da operação, escale horizontal depois.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SOURCES -->
+<section class="src">
+  <div class="section-inner">
+    <h3>Fontes e referências</h3>
+    <div class="src-grid">
+      <a href="https://finsidersbrasil.com.br/reportagem-exclusiva-fintechs/trampay-quer-ser-o-ecossistema-de-solucoes-para-entregadores-e-negocia-aporte/">Finsiders Brasil — Trampay quer ser ecossistema<em>finsidersbrasil.com.br</em></a>
+      <a href="https://exame.com/negocios/fintech-dos-entregadores-trampay-capta-r-6-milhoes-para-reforcar-operacao-de-nano-emprestimos/">Exame — Trampay capta R$6mi para nano-empréstimos<em>exame.com</em></a>
+      <a href="https://istoedinheiro.com.br/trampay-conheca-a-fintech-que-facilita-credito-para-motoristas-e-entregadores">ISTOÉ Dinheiro — Fintech que facilita crédito<em>istoedinheiro.com.br</em></a>
+      <a href="https://seucreditodigital.com.br/trampay-banco-dos-entregadores-fintech/">Seu Crédito Digital — R$200mi emprestados<em>seucreditodigital.com.br</em></a>
+      <a href="https://www.projetodraft.com/banco-digital-dos-motoboys-a-trampay-promove-inclusao-financeira-de-quem-ganha-a-vida-sobre-duas-rodas-correndo-contra-o-relogio/">Draft — Banco digital dos motoboys<em>projetodraft.com</em></a>
+      <a href="https://finsidersbrasil.com.br/reportagem-exclusiva-fintechs/bmp-moneyplus-quer-deixar-bastidores-e-preve-transacionar-mais-de-r-100-bi-este-ano-2/">Finsiders — BMP MoneyPlus R$100bi<em>finsidersbrasil.com.br</em></a>
+      <a href="https://www.celcoin.com.br/">Celcoin — Infraestrutura financeira<em>celcoin.com.br</em></a>
+      <a href="https://pulse.celcoin.com.br/modelos-de-negocios-usados-no-brasil-o-que-significa-banking-as-a-service-no-brasil/">Celcoin Pulse — Modelos de negócios BaaS BR<em>pulse.celcoin.com.br</em></a>
+      <a href="https://braziljournal.com/celcoin-levanta-r-650-milhoes-para-novos-mas/">Brazil Journal — Celcoin capta R$650mi<em>braziljournal.com</em></a>
+      <a href="https://dock.tech/fluid/blog/banking/como-se-tornar-instituicao-pagamento/">Dock — Como se tornar IP<em>dock.tech</em></a>
+      <a href="https://finsidersbrasil.com.br/inovacao/baas-ou-licenca-propria-alta-do-capital-minimo-forca-fintechs-a-reverem-estrategia/">Finsiders — Capital mínimo sobe, fintechs repensam<em>finsidersbrasil.com.br</em></a>
+      <a href="https://ndmadvogados.com.br/artigo/guia-autorizacao-de-fintechs-no-bacen/">NDM Advogados — Guia IP, SCD, SCFI<em>ndmadvogados.com.br</em></a>
+      <a href="https://ndmadvogados.com.br/artigo/a-resolucao-bcb-n-80-2021-mudancas-para-instituicao-de-pagamento-ip/">NDM — Resolução BCB 80/2021<em>ndmadvogados.com.br</em></a>
+      <a href="https://silvalopes.adv.br/scd-o-que-e-e-como-fazer-o-pedido-de-autorizacao/">Silva Lopes — SCD autorização<em>silvalopes.adv.br</em></a>
+      <a href="https://www.infomoney.com.br/economia/o-que-muda-com-novas-exigencias-de-capital-minimo-a-instituicoes-autorizadas-do-bc/">Infomoney — Capital mínimo BC<em>infomoney.com.br</em></a>
+      <a href="https://finsidersbrasil.com.br/estudos-e-relatorios/mercado-de-baas-no-brasil-deve-movimentar-us-5-bi-ate-2031/">Finsiders — BaaS BR US$5bi até 2031<em>finsidersbrasil.com.br</em></a>
+      <a href="https://www.mordorintelligence.com/industry-reports/latin-america-banking-as-a-service-market">Mordor Intelligence — BaaS LATAM<em>mordorintelligence.com</em></a>
+      <a href="https://finsidersbrasil.com.br/reportagem-exclusiva-fintechs/movimento-fintech-ganha-forca-em-logistica-e-transportes/">Finsiders — Fintech em logística e transportes<em>finsidersbrasil.com.br</em></a>
+      <a href="https://brazileconomy.com.br/empresas/2025/12/fintech-do-setor-logistico-cargo-x-preve-liberar-ate-r-1-bilhao-em-credito-em-2026/">Brazil Economy — Cargo X R$1bi crédito<em>brazileconomy.com.br</em></a>
+      <a href="https://startups.com.br/negocios/cargo-x-se-junta-a-fretebras-cria-a-frete-com-e-vira-unicornio/">Startups — Cargo X + FreteBras = Frete.com unicórnio<em>startups.com.br</em></a>
+      <a href="https://www.letsmoney.com.br/noticias/frete-com-3-bi-transacoes-credito-caminhoneiros">Let's Money — Frete.com R$3bi transações<em>letsmoney.com.br</em></a>
+      <a href="https://www.truckpad.com.br/blog/truckpad-pay/">TruckPad — TruckPad Pay<em>truckpad.com.br</em></a>
+      <a href="https://blog.fretebras.com.br/como-uma-conta-digital-ajuda-transportadoras-e-motoristas/">FreteBras — Conta Digital transportadoras<em>blog.fretebras.com.br</em></a>
+      <a href="https://targetbank.com.br/blog-do-trecho/target-cash/antecipacao-de-frete/">Target Bank — Antecipação de frete<em>targetbank.com.br</em></a>
+      <a href="https://www.unit.co/blog/unit-announces-ready-to-launch-embedded-capital-banking-and-bill-pay-solutions">Unit.co — Ready-to-launch embedded finance<em>unit.co</em></a>
+      <a href="https://www.unit.co/guides/revenues-in-financial-features-a-complete-guide-for-tech-companies">Unit — Revenues guide embedded finance<em>unit.co</em></a>
+      <a href="https://www.pymnts.com/earnings/2026/marqeta-earnings-point-to-bnpl-growth-and-embedded-finance-demand/">PYMNTS — Marqeta earnings 2026<em>pymnts.com</em></a>
+      <a href="https://www.treasuryprime.com/newsroom/marqeta-partnership">Treasury Prime — Partnership com Marqeta<em>treasuryprime.com</em></a>
+      <a href="https://stripe.com/use-cases/embedded-finance">Stripe — Embedded finance for platforms<em>stripe.com</em></a>
+      <a href="https://stripe.com/guides/introduction-to-embedded-finance">Stripe — Intro to embedded finance<em>stripe.com</em></a>
+      <a href="https://www.bain.com/insights/embedded-finance/">Bain &amp; Company — Embedded Finance Report<em>bain.com</em></a>
+      <a href="https://www.bcg.com/publications/2025/moving-embedded-finance-from-promise-practice">BCG — Embedded finance 2025<em>bcg.com</em></a>
+      <a href="https://exame.com/pme/fintech-fatura-r-1bi-com-servico-financeiro-para-caminhoneiros/">Exame — Fintech R$1bi para caminhoneiros<em>exame.com</em></a>
+      <a href="https://www.imarcgroup.com/brazil-fintech-market">IMARC — Brazil Fintech Market Report<em>imarcgroup.com</em></a>
+      <a href="https://prafrentebrasil.com.br/">Grupo Pra Frente Brasil — site institucional<em>prafrentebrasil.com.br</em></a>
+      <a href="https://www.pralog.com.br/">PRA LOG — site institucional<em>pralog.com.br</em></a>
+    </div>
+  </div>
+</section>
+
+<footer class="footer">
+  <div>MSE &bull; Marketing Squad Extremo &bull; <strong>Intel Desk v1.5</strong></div>
+  <div>Preparado por <strong>@analyzer + @metrics + @theboss + @picasso + @pixel</strong></div>
+  <div>&copy; 2026 7D/SECRETS LTDA &mdash; Confidencial</div>
+</footer>
+
+</body>
+</html>

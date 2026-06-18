@@ -1,0 +1,289 @@
+# Marketing Squad Extremo — Configuração Central
+# v3.1.0
+
+project:
+  name: "Marketing Squad Extremo"
+  version: "3.2.0"
+  description: "Sistema de orquestração de agentes de IA para marketing digital de alta conversão. 17 agentes em 6 tiers, 20 tipos de funil, 11 quality gates bloqueantes. Versão v3.2 atualizada em 2026-04-10."
+  author: "Anthony Nichols"
+  type: specialist
+  independence: true
+  independence_details: |
+    Squad 100% independente, sem dependências externas obrigatórias.
+    Opera com YAML + Markdown + Claude Code.
+    Ferramentas externas (n8n, ManyChat, Meta Ads) são consumidas pelos agentes, não requeridas pelo sistema.
+    Design Squad e Content Distillery absorvidos como DNA nos agentes v3.0.
+
+# Entry point
+entry_agent: theboss
+
+# Tier Architecture
+tier_system:
+  tier_0_command:
+    name: "Comando & Estratégia"
+    description: "Diagnóstico, roteamento e orquestração de todas as operações"
+    agents:
+      - theboss       # Estrategista-Chefe & Orquestrador Master
+  tier_1_intelligence:
+    name: "Inteligência & Pesquisa"
+    description: "Pesquisa de mercado, análise competitiva, métricas, produto"
+    agents:
+      - analyzer       # Pesquisa de Mercado & Inteligência Competitiva
+      - metrics        # Analytics, Dashboards & KPIs
+      - luluzinha      # Product Experience Manager (NEW v3.0)
+  tier_2_creation:
+    name: "Criação & Produção"
+    description: "Copy, criativos, páginas, motion, social media, código"
+    agents:
+      - claudinho      # Copywriter Senior de Alta Conversão
+      - picasso        # Diretor Criativo Master, Brand Strategy & Design (UPGRADED v3.0 — Design Squad DNA)
+      - pixel          # Web Designer & LOVABLE Specialist
+      - nerd           # Desenvolvedor Full-Stack & Integrador Técnico (UPGRADED v3.0 — AIOX + ClaudeKit)
+      - milagroso      # Video Editor, Motion Designer & Visual Producer (UPGRADED v3.0 — Design Squad DNA)
+      - laurinha       # Social Media Strategist & Content Producer (NEW v3.0)
+  tier_3_growth:
+    name: "Crescimento & Distribuição"
+    description: "Tráfego pago, automações, escala"
+    agents:
+      - cadu           # Gestor de Tráfego Pago Senior
+      - salazar        # Automações & I.A
+  tier_4_revenue:
+    name: "Receita & Retenção"
+    description: "Vendas, qualificação, customer success, pitch ao vivo"
+    agents:
+      - andreza        # Closer de Vendas
+      - danilo         # SDR & Qualificação
+      - carla          # Customer Success & Pós-Venda
+      - pitchinho      # Pitch de Vendas & Script de Evento (NEW v3.2)
+  tier_5_operations:
+    name: "Operações & Gestão"
+    description: "Cronogramas, SOPs, logística"
+    agents:
+      - rafa           # Gestora de Projetos
+
+# Agent Registry
+agents:
+  total: 17
+  master: theboss
+  squads:
+    comando: [theboss]
+    inteligencia: [analyzer, metrics, luluzinha]
+    criacao: [claudinho, picasso, pixel, nerd, milagroso, laurinha]
+    growth: [cadu, salazar]
+    receita: [andreza, danilo, carla, pitchinho]
+    operacoes: [rafa]
+
+# Handoff Protocol
+handoff:
+  enabled: true
+  max_artifact_tokens: 500
+  max_retained_summaries: 3
+  storage: ".mse/handoffs/"
+  compaction_on_switch: true
+
+# Triage System
+triage:
+  philosophy: "Diagnosticar antes de agir, rotear antes de criar"
+  max_diagnostic_questions: 3
+  entry_point: theboss
+  routing_triggers:
+    copy: claudinho
+    criativo: picasso
+    pagina: pixel
+    trafego: cadu
+    automacao: salazar
+    pesquisa: analyzer
+    metricas: metrics
+    venda: andreza
+    qualificacao: danilo
+    posvenda: carla
+    cronograma: rafa
+    codigo: nerd
+    video: milagroso
+    social: laurinha
+    conteudo: laurinha
+    produto: luluzinha
+    curso: luluzinha
+    pitch: pitchinho
+    evento: pitchinho
+    imersao: pitchinho
+    seeding: pitchinho
+
+# Funis Disponíveis
+funnels:
+  - id: lancamento-pago
+    name: "Lançamento Clássico (PLF Pago)"
+    reference: "Jeff Walker"
+    ticket: "R$500-5K"
+    timeline: "4-8 semanas"
+  - id: lancamento-gratuito
+    name: "Lançamento Gratuito (PLF Orgânico)"
+    reference: "Jeff Walker"
+    ticket: "R$500-5K"
+    timeline: "2-3 semanas"
+  - id: lancamento-semente
+    name: "Seed Launch"
+    reference: "Jeff Walker"
+    ticket: "R$200-2K"
+    timeline: "3-7 semanas"
+  - id: lancamento-meteorico
+    name: "Lançamento Meteórico"
+    reference: "WhatsApp-first"
+    ticket: "R$200-2K"
+    timeline: "3-7 dias"
+  - id: desafio
+    name: "Challenge Funnel"
+    reference: "Pedro Adão"
+    ticket: "R$500-5K"
+    timeline: "2-3 semanas"
+  - id: webinar
+    name: "Perfect Webinar"
+    reference: "Russell Brunson"
+    ticket: "R$500-5K"
+    timeline: "1-2 semanas"
+  - id: low-ticket
+    name: "Tripwire / SLO"
+    reference: "Russell Brunson"
+    ticket: "R$27-197"
+    timeline: "Contínuo"
+  - id: funil-perpetuo
+    name: "Evergreen Funnel"
+    reference: "Russell Brunson"
+    ticket: "R$200-2K"
+    timeline: "Contínuo"
+  - id: high-ticket
+    name: "Aplicação + Call"
+    reference: "Alex Hormozi"
+    ticket: "R$3K-50K+"
+    timeline: "1-2 semanas"
+  - id: evento-presencial
+    name: "Evento Presencial"
+    reference: "Seminário/Workshop/Imersão"
+    ticket: "R$5K-50K+"
+    timeline: "6-8 semanas"
+  - id: sala-secreta
+    name: "Sala Secreta"
+    reference: "Evento VIP"
+    ticket: "R$1K-10K"
+    timeline: "1-2 semanas"
+  - id: campanha-rapida
+    name: "Campanha Rápida"
+    reference: "Fast Track"
+    ticket: "R$200-2K"
+    timeline: "1-3 dias"
+
+# Fases do Funil
+phases:
+  - id: captacao
+    code: CAP
+    name: "Captação"
+  - id: antecipacao
+    code: ANT
+    name: "Antecipação"
+  - id: evento
+    code: EVT
+    name: "Evento"
+  - id: vendas
+    code: VND
+    name: "Vendas"
+  - id: upsell
+    code: UPS
+    name: "Upsell"
+  - id: downsell
+    code: DWS
+    name: "Downsell"
+  - id: pos-venda
+    code: PVD
+    name: "Pós-venda"
+  - id: qualificacao
+    code: QUA
+    name: "Qualificação"
+  - id: pre-evento
+    code: PRE
+    name: "Pré-evento"
+  - id: perpetuo
+    code: PRP
+    name: "Perpétuo"
+
+# Quality System
+quality:
+  max_review_cycles: 3
+  briefing_required: true
+  theboss_review: true
+  gate_severity_levels:
+    BLOCK: "Impede avanço. Sem exceção."
+    WARN: "Permite avanço com registro de risco. Anthony informado."
+    INFO: "Registra observação. Não bloqueia."
+  gates:
+    - id: QG-001
+      name: "Briefing Completo"
+      severity: BLOCK
+      before: produção
+      checker: theboss
+    - id: QG-002
+      name: "Estratégia Aprovada"
+      severity: BLOCK
+      before: montagem
+      checker: anthony
+    - id: QG-003
+      name: "Squad Montado"
+      severity: BLOCK
+      before: produção
+      checker: theboss
+    - id: QG-004
+      name: "Copy Revisada"
+      severity: BLOCK
+      before: publicação
+      checker: theboss
+    - id: QG-005
+      name: "Pré-Lançamento"
+      severity: BLOCK
+      before: go-live
+      checker: theboss + rafa
+    - id: QG-006
+      name: "Aprovação Final"
+      severity: BLOCK
+      before: go-live
+      checker: anthony
+
+# Decision Heuristics
+decision_heuristics:
+  - id: DH-001
+    name: "Existing Project Check"
+    rule: "SEMPRE verificar projects/ antes de criar projeto novo"
+  - id: DH-002
+    name: "Workflow Match"
+    rule: "Rotear para o workflow de funil mais adequado ao cenário"
+  - id: DH-003
+    name: "Squad Availability"
+    rule: "Se agente sobrecarregado, renegociar timeline com @rafa"
+  - id: DH-004
+    name: "Micro vs Campaign"
+    rule: "Peça avulsa = task direto. Campanha completa = workflow completo"
+  - id: DH-005
+    name: "Data Before Execution"
+    rule: "Pesquisa do @analyzer ANTES de qualquer estratégia"
+
+# Paths
+paths:
+  agents: "core/agents"
+  tasks: "core/tasks"
+  workflows: "core/workflows"
+  templates: "core/templates"
+  checklists: "core/checklists"
+  frameworks: "core/frameworks"
+  data: "core/data"
+  protocols: "core/protocols"
+  scripts: "scripts"
+  projects: "projects"
+
+# State Management
+state:
+  enabled: true
+  file: ".mse/state.json"
+  track:
+    - active_project
+    - active_agent
+    - current_phase
+    - pending_gates
+    - handoff_stack

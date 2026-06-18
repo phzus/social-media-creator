@@ -1,0 +1,67 @@
+name: mse-funnel-labs
+version: "1.5.1"
+tested: true
+updated_at: "2026-04-21"
+short-title: Marketing Squad Extremo — Funnel Labs
+description: >-
+  Sistema de orquestração de agentes de IA especializados em marketing digital,
+  lançamentos, funis de alta conversão, copywriting, tráfego pago, vendas,
+  automações, web design, social media, produto digital, produção visual,
+  pitch de vendas ao vivo e criação de slides de alto impacto.
+  18 agentes, 20 tipos de funil, 10 frameworks de elite.
+  Inclui @pitchinho v2.0 (Pitch ao Vivo & Engenharia de Eventos) e
+  @slides-creator (Slides, Decks & Apresentações de Alto Impacto).
+  Integração com Design Squad (Neumeier, Draplin, McKinnon, Galloway, Premium Design)
+  e Content Distillery (Gary Vee, Dan Koe, Nicolas Cole, Justin Welsh, Tiago Forte).
+  Baseado em Russell Brunson, Alex Hormozi, Jeff Walker, Dan Kennedy, Todd Brown,
+  Gary Halbert, Eugene Schwartz, David Ogilvy, Robert Cialdini, Frank Kern,
+  Nancy Duarte, Garr Reynolds, Marty Neumeier, Aaron Draplin, Peter McKinnon,
+  Paddy Galloway, Marty Cagan, April Dunford, Nir Eyal.
+author: Anthony Nichols
+entry_agent: theboss
+slashPrefix: MSE
+
+settings:
+  activation:
+    show_ecosystem_report: true
+    show_greeting: true
+    show_quick_commands: true
+  ecosystem_report:
+    show_totals: true
+    show_top_squads: false
+    show_quality_refs: true
+    show_gaps: false
+
+metadata:
+  version: "1.5.1"
+  score: 9.5
+  pro_stats:
+    agents: 18
+    tasks: 21
+    workflows: 20
+    templates: 13
+    checklists: 9
+    frameworks: 10
+    data_files: 14
+    protocols: 3
+    skills: 3
+
+new_in_v1_5:
+  agents:
+    - id: pitchinho
+      version: "2.0"
+      title: "Pitch ao Vivo & Engenharia de Eventos"
+      tier: 2
+      customizable_name: true
+    - id: slides-creator
+      version: "1.0"
+      title: "Criador de Slides, Decks & Apresentações de Alto Impacto"
+      tier: 2
+      customizable_name: true
+  skills:
+    - id: pitch-architect
+      path: ".claude/skills/pitch-architect/SKILL.md"
+      owner: pitchinho
+    - id: slides-create
+      path: ".claude/skills/slides-create/SKILL.md"
+      owner: slides-creator

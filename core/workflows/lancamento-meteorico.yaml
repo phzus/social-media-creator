@@ -1,0 +1,105 @@
+# Workflow: Lancamento Meteorico — WhatsApp-First Launch
+# Timeline: 3-7 dias
+# Ticket: R$200-2K
+# Referencia: Lancamento via WhatsApp (velocidade maxima)
+
+name: lancamento-meteorico
+description: "Lancamento Meteorico — WhatsApp-first, velocidade maxima"
+type: launch
+framework: custom
+estimated_duration: "3-7 dias"
+ticket_range: "R$200-2K"
+conversion_target: "3-8% do grupo"
+
+# Ideal para:
+# - Expert com comunidade engajada no WhatsApp
+# - Lancamento rapido (menos de 1 semana)
+# - Relancamento para base quente
+# - Teste de oferta
+
+squad:
+  core:
+    - theboss    # Estrategia
+    - claudinho    # Copy (mensagens WhatsApp)
+    - salazar      # Automacao WhatsApp
+  support:
+    - pixel        # Pagina simples (se necessario)
+    - metrics      # Metricas basicas
+  not_needed:
+    - cadu         # Sem ads
+    - picasso      # Criativos minimos
+
+phases:
+
+  - id: preparacao
+    name: "Preparacao"
+    duration: "1 dia"
+    tasks:
+      - task: structure-offer
+        agent: theboss
+        description: "Oferta clara e simples"
+
+  - id: captacao
+    name: "Formar Grupo"
+    duration: "1-2 dias"
+    description: "Criar grupo WhatsApp e convidar base"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: captacao
+        description: "Mensagens de convite para o grupo"
+      - task: setup-automations
+        agent: salazar
+        scope: captacao
+        description: "Automacao de boas-vindas no grupo"
+    deliverables:
+      - "{PROJ}_CAP_MSG-API_CONVITE-GRUPO_V1.md"
+      - "{PROJ}_CAP_MSG-GRP_BOAS-VINDAS_V1.md"
+
+  - id: antecipacao
+    name: "Aquecimento no Grupo"
+    duration: "1-2 dias"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: antecipacao
+        description: "Conteudo de valor + depoimentos + enquetes"
+    deliverables:
+      - "{PROJ}_ANT_MSG-GRP_CONTEUDO-DIA1_V1.md"
+      - "{PROJ}_ANT_MSG-GRP_CONTEUDO-DIA2_V1.md"
+
+  - id: vendas
+    name: "Abertura de Vendas"
+    duration: "1-3 dias"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: vendas
+        description: "Sequencia de vendas no grupo + link de pagamento"
+      - task: build-pages
+        agent: pixel
+        scope: vendas
+        description: "Pagina de vendas simples (ou checkout direto)"
+    deliverables:
+      - "{PROJ}_VND_MSG-GRP_ABERTURA-VENDAS_V1.md"
+      - "{PROJ}_VND_MSG-GRP_URGENCIA_V1.md"
+      - "{PROJ}_VND_MSG-GRP_ULTIMA-CHANCE_V1.md"
+
+  - id: pos-venda
+    name: "Pos-Venda"
+    duration: "Continuo"
+    tasks:
+      - task: onboard-client
+        agent: carla
+      - task: campaign-report
+        agent: metrics
+
+gates:
+  - name: "Grupo com massa critica"
+    before: antecipacao
+    check: "Minimo 50 pessoas no grupo WhatsApp"
+
+success_metrics:
+  grupo: ">= 50 membros"
+  conversion: "3-8% do grupo"
+  velocidade: "Lancamento em < 7 dias"

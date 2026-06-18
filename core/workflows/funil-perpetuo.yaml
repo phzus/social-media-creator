@@ -1,0 +1,118 @@
+# Workflow: Funil Perpetuo — Evergreen
+# Timeline: Continuo (setup + escala)
+# Ticket: R$200-2K
+# Referencia: Funil sempre ativo, sem datas de abertura/fechamento
+
+name: funil-perpetuo
+description: "Funil Evergreen — sempre ativo, sem lancamentos"
+type: evergreen
+framework: custom
+estimated_duration: "2-3 semanas (setup) + continuo"
+ticket_range: "R$200-2K"
+conversion_target: "1-3% continuo"
+
+squad:
+  core:
+    - theboss    # Estrategia
+    - claudinho    # Copy (paginas, emails, ads)
+    - pixel        # Paginas
+    - cadu         # Trafego continuo
+    - salazar      # Automacoes (core do evergreen)
+  support:
+    - metrics      # Metricas e otimizacao
+
+phases:
+
+  - id: preparacao
+    name: "Preparacao"
+    duration: "1 semana"
+    tasks:
+      - task: onboarding-expert
+        agent: theboss
+      - task: create-briefing-copy
+        agent: theboss
+      - task: structure-offer
+        agent: theboss
+
+  - id: captacao
+    name: "Captacao Evergreen"
+    duration: "1 semana"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: captacao
+        description: "Copy LP + ads + lead magnet"
+      - task: build-pages
+        agent: pixel
+        scope: captacao
+        description: "Pagina de captura evergreen"
+      - task: create-creatives
+        agent: picasso
+        scope: captacao
+      - task: plan-traffic
+        agent: cadu
+        description: "Trafego continuo (campanha evergreen)"
+    deliverables:
+      - "{PROJ}_PRP_PGN_PAGINA-CAPTURA_V1.md"
+      - "{PROJ}_PRP_ADS-META_VIDEO-CAPTURA_V1.md"
+
+  - id: vendas
+    name: "Sequencia de Vendas Automatizada"
+    duration: "1-2 semanas"
+    description: |
+      Sequencia automatica ativada apos captura:
+      1. Email boas-vindas + entrega lead magnet
+      2. Email de valor #1 (D+1)
+      3. Email de valor #2 (D+2)
+      4. Email de transicao (D+3)
+      5. Email de oferta (D+4)
+      6. Email de prova social (D+5)
+      7. Email de urgencia (D+6) — deadline pessoal
+      8. Email ultima chance (D+7)
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: vendas
+        description: "8 emails da sequencia + copy pagina vendas"
+      - task: build-pages
+        agent: pixel
+        scope: vendas
+        description: "Pagina de vendas evergreen"
+      - task: setup-automations
+        agent: salazar
+        scope: vendas
+        description: "Sequencia completa automatizada com deadline pessoal"
+    deliverables:
+      - "{PROJ}_PRP_EML_BOAS-VINDAS_V1.md"
+      - "{PROJ}_PRP_EML_VALOR-01_V1.md"
+      - "{PROJ}_PRP_EML_VALOR-02_V1.md"
+      - "{PROJ}_PRP_EML_TRANSICAO_V1.md"
+      - "{PROJ}_PRP_EML_OFERTA_V1.md"
+      - "{PROJ}_PRP_EML_PROVA-SOCIAL_V1.md"
+      - "{PROJ}_PRP_EML_URGENCIA_V1.md"
+      - "{PROJ}_PRP_EML_ULTIMA-CHANCE_V1.md"
+      - "{PROJ}_PRP_PGN_PAGINA-DE-VENDAS_V1.md"
+
+  - id: otimizacao
+    name: "Otimizacao Continua"
+    duration: "Continuo"
+    tasks:
+      - task: analyze-metrics
+        agent: metrics
+        description: "Monitorar CPL, conversao, ROAS semanal"
+      - task: create-creatives
+        agent: picasso
+        description: "Renovar criativos a cada 30 dias (fadiga)"
+
+gates:
+  - name: "Funil completo e testado"
+    before: otimizacao
+    check: "Sequencia inteira funcional, emails disparando, paginas ok"
+  - name: "Break-even atingido"
+    check: "ROAS >= 1x por 7 dias consecutivos"
+
+success_metrics:
+  cpl: "< R$ definido"
+  conversion: "1-3% continuo"
+  roas: "> 2x"
+  ltv_30d: "> 3x CPL"

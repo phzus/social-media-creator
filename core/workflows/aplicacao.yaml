@@ -1,0 +1,140 @@
+# Workflow: Aplicacao + Call (High-Ticket 5-50K)
+# Timeline: Continuo | Ticket: R$5K-50K+
+# Referencia: Sam Ovens, Alex Hormozi (100M Offers)
+
+name: aplicacao
+description: "Funil high-ticket: trafego -> isca/VSL -> aplicacao -> triagem SDR -> call Closer -> venda"
+type: high-ticket
+framework: ovens-application-funnel
+estimated_duration: "3-5 dias do lead ate a venda"
+ticket_range: "R$5K-50K+"
+conversion_target: "aplicacao->call 30-50% | call->venda 25-45%"
+
+squad:
+  core:
+    - theboss
+    - claudinho    # Copy VSL + aplicacao + scripts SDR/Closer
+    - pixel        # Landing + pagina de aplicacao
+    - cadu         # Trafego qualificado
+    - danilo       # SDR (qualificacao)
+    - andreza      # Closer (venda 1-1)
+    - salazar      # Automacoes de agendamento
+  support:
+    - picasso      # Identidade + criativos
+    - pitchinho    # Roteiro da VSL de autoridade
+    - metrics      # Funil de aplicacao-> venda
+    - milagroso    # Producao da VSL
+
+phases:
+
+  - id: oferta
+    name: "Oferta High-Ticket"
+    duration: "3-5 dias"
+    description: "Oferta que justifica R$5K-50K+. Stack, garantia, ancoragem, unique mechanism."
+    tasks:
+      - task: structure-offer
+        agent: theboss
+        description: "Oferta high-ticket (Hormozi framework)"
+      - task: criar-pitch
+        agent: pitchinho
+        description: "Pitch da VSL de autoridade"
+    deliverables:
+      - "{PROJ}_OFR_HIGHTICKET-STACK_V1.md"
+      - "{PROJ}_OFR_GARANTIA-RISK-REVERSAL_V1.md"
+
+  - id: vsl
+    name: "VSL de Autoridade"
+    duration: "5-7 dias"
+    description: |
+      VSL 15-45min que filtra o lead. Mostra dor, autoridade, mecanismo,
+      prova, e direciona pra aplicacao (nao pra checkout direto).
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: vsl
+        description: "Script VSL de autoridade"
+      - task: create-creatives
+        agent: milagroso
+        scope: vsl
+        description: "Producao da VSL (gravacao, edicao)"
+    deliverables:
+      - "{PROJ}_VSL_SCRIPT_V1.md"
+      - "{PROJ}_VSL_VIDEO-FINAL_V1.mp4"
+
+  - id: captacao
+    name: "Landing + Aplicacao"
+    duration: "3-5 dias"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: captacao
+        description: "Landing + formulario de aplicacao (10-15 perguntas)"
+      - task: build-pages
+        agent: pixel
+        scope: captacao
+        description: "Landing + aplicacao + obrigado pos-aplicacao"
+      - task: create-creatives
+        agent: picasso
+        scope: captacao
+        description: "Criativos qualificadores (filtram o avatar certo)"
+    deliverables:
+      - "{PROJ}_CAP_PGN_LANDING-VSL_V1.md"
+      - "{PROJ}_CAP_FOR_APLICACAO_V1.md"
+
+  - id: qualificacao
+    name: "SDR Qualifica (triagem BANT)"
+    duration: "Continuo"
+    description: |
+      SDR recebe aplicacao -> BANT (Budget, Authority, Need, Timeline) ->
+      classifica HOT/WARM/COLD -> agenda call com Closer ou descarta.
+    tasks:
+      - task: qualify-leads
+        agent: danilo
+        description: "Qualificacao BANT + PASSAGEM-LEAD.md pra Closer"
+    deliverables:
+      - "{PROJ}_QLF_SCRIPT-SDR_V1.md"
+      - "{PROJ}_QLF_PASSAGEM-LEAD_V1.md (template)"
+
+  - id: fechamento
+    name: "Call de Fechamento"
+    duration: "Continuo"
+    tasks:
+      - task: close-sales
+        agent: andreza
+        description: "Call 1-1 de 45-60min (descoberta + pitch + quebra de objecao + fechamento)"
+    deliverables:
+      - "{PROJ}_CLS_SCRIPT-FECHAMENTO_V1.md"
+
+  - id: automacao
+    name: "Automacoes de Agendamento + Follow-up"
+    duration: "Paralelo"
+    tasks:
+      - task: setup-automations
+        agent: salazar
+        description: "Calendly + WhatsApp + lembretes + no-show follow-up"
+
+  - id: trafego
+    name: "Trafego Qualificado"
+    duration: "Continuo"
+    tasks:
+      - task: plan-traffic
+        agent: cadu
+        description: "Meta Ads + YouTube Ads segmentados pra avatar high-ticket"
+
+gates:
+  - name: "VSL filtra o avatar certo"
+    before: captacao
+    check: "Sem avatar > sem aplicacao > sem desperdicio de call"
+  - name: "SDR com script de BANT"
+    before: qualificacao
+    check: "Script testado + passagem-lead padronizada"
+  - name: "Closer treinado em objecoes"
+    before: fechamento
+    check: "Role-play de 3 objecoes principais"
+
+success_metrics:
+  cpa_aplicacao: "< 15% do ticket"
+  aplicacao_to_call: "30-50%"
+  call_show_rate: "> 70%"
+  call_to_sale: "25-45%"
+  cpa_cliente: "< 30% do ticket"

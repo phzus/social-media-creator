@@ -1,0 +1,140 @@
+# Competitive Analysis & Market Research — Arsenal do @analyzer
+# SWOT, sizing, competitor matrix, avatar deep-dive
+# Uso: @analyzer — referência para pesquisa estruturada
+
+competitor_analysis:
+  framework: "5 Dimensões de Análise Competitiva"
+  dimensions:
+    - name: "Oferta"
+      questions:
+        - "O que vendem? Qual o core product?"
+        - "Qual o ticket? Tem value ladder?"
+        - "Qual o mecanismo único (diferencial)?"
+        - "Quais bônus oferecem?"
+        - "Qual a garantia?"
+      deliverable: "Tabela comparativa de ofertas"
+
+    - name: "Funil"
+      questions:
+        - "Qual tipo de funil usam? (PLF, webinar, perpétuo, high-ticket)"
+        - "Qual o lead magnet?"
+        - "Como é a página de captura? E a de vendas?"
+        - "Qual a sequência de emails?"
+        - "Usam WhatsApp? Como?"
+      deliverable: "Mapa de funil do concorrente"
+
+    - name: "Tráfego"
+      questions:
+        - "Quanto tráfego têm? (SimilarWeb)"
+        - "De onde vem? (orgânico, pago, social, direto)"
+        - "Quais plataformas de ads usam?"
+        - "Quais criativos estão rodando? (Biblioteca Meta)"
+        - "Quanto investem em ads? (estimativa)"
+      deliverable: "Relatório de tráfego e mídia"
+
+    - name: "Conteúdo"
+      questions:
+        - "Qual a frequência de publicação?"
+        - "Quais formatos usam? (vídeo, blog, podcast, reels)"
+        - "Quais temas performam melhor?"
+        - "Qual o tom de voz?"
+        - "Quais hashtags e palavras-chave usam?"
+      deliverable: "Análise de conteúdo"
+
+    - name: "Reputação"
+      questions:
+        - "Qual a nota no Reclame Aqui?"
+        - "O que dizem nos comentários do YouTube/Instagram?"
+        - "Quais são as reclamações mais comuns?"
+        - "O que elogiam?"
+        - "Qual o NPS estimado?"
+      deliverable: "Mapa de percepção"
+
+  competitor_matrix:
+    template: |
+      | Critério | Nós | Concorrente A | Concorrente B | Concorrente C |
+      |----------|-----|--------------|--------------|--------------|
+      | Ticket | | | | |
+      | Lead Magnet | | | | |
+      | Tipo de Funil | | | | |
+      | Mecanismo Único | | | | |
+      | Garantia | | | | |
+      | Prova Social | | | | |
+      | Tráfego estimado | | | | |
+      | Ponto Forte | | | | |
+      | Ponto Fraco | | | | |
+
+swot_analysis:
+  template:
+    strengths:
+      prompt: "O que fazemos MELHOR que a concorrência?"
+      sources: "Dados internos, feedback de clientes, resultados"
+    weaknesses:
+      prompt: "Onde somos PIORES que a concorrência?"
+      sources: "Gaps identificados, reclamações, limitações"
+    opportunities:
+      prompt: "Que OPORTUNIDADES o mercado oferece?"
+      sources: "Tendências, gaps dos concorrentes, mudanças de comportamento"
+    threats:
+      prompt: "Que AMEAÇAS podem nos impactar?"
+      sources: "Novos concorrentes, mudanças de plataforma, regulação"
+  rule: "SWOT precisa ser baseado em DADOS, não achismo. Citar fontes."
+
+market_sizing:
+  tam_sam_som:
+    tam:
+      name: "Total Addressable Market"
+      prompt: "Tamanho total do mercado se TODO mundo comprasse"
+    sam:
+      name: "Serviceable Addressable Market"
+      prompt: "Parcela do mercado que você PODE atingir"
+    som:
+      name: "Serviceable Obtainable Market"
+      prompt: "Parcela realista que você vai CAPTURAR em 12 meses"
+  calculation: |
+    TAM = [total de pessoas no nicho] × [ticket médio]
+    SAM = [pessoas que você pode alcançar] × [ticket médio]
+    SOM = SAM × [% realista de market share]
+
+avatar_deep_dive:
+  template:
+    demographics:
+      - "Idade, gênero, localização"
+      - "Renda, profissão, escolaridade"
+      - "Estado civil, filhos"
+    psychographics:
+      - "Valores e crenças"
+      - "Medos e frustrações"
+      - "Desejos e aspirações"
+      - "Objeções à compra"
+    behavior:
+      - "Onde consome conteúdo?"
+      - "Quem segue/admira?"
+      - "Como toma decisões de compra?"
+      - "Que linguagem usa? (palavras exatas)"
+    objection_map:
+      template: |
+        | Objeção | Tipo | Frequência | Quando Aparece | Como Quebrar |
+        |---------|------|-----------|---------------|-------------|
+        | "Tá caro" | Preço | 60% | Checkout | Ancoragem + parcelamento |
+        | "Será que funciona?" | Confiança | 20% | Página vendas | Depoimento + garantia |
+
+  sources_for_avatar:
+    primary:
+      - "Google Trends (volume, sazonalidade)"
+      - "Biblioteca de Anúncios Meta (criativos ativos dos concorrentes)"
+      - "SimilarWeb (tráfego, fontes)"
+      - "Hotmart/Monetizze (temperaturas, avaliações)"
+    secondary:
+      - "Reclame Aqui (dores reais, linguagem do avatar)"
+      - "Reddit/Quora (perguntas reais, dúvidas não filtradas)"
+      - "Grupos Facebook (conversas orgânicas)"
+      - "YouTube (comentários, engajamento)"
+      - "Instagram/TikTok (tendências, formatos)"
+
+  regras:
+    - "NUNCA inventar dados — se não tem, declarar 'DADO NÃO DISPONÍVEL'"
+    - "SEMPRE citar fonte — toda afirmação tem origem rastreável"
+    - "SEMPRE diferenciar FATO de INFERÊNCIA"
+    - "SEMPRE incluir 'SO WHAT?' — implicação prática pro projeto"
+    - "Usar linguagem EXATA do avatar quando possível (entre aspas)"

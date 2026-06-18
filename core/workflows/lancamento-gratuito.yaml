@@ -1,0 +1,134 @@
+# Workflow: Lancamento Gratuito — PLF Organico / Internal Launch (Jeff Walker)
+# Timeline: 2-4 semanas
+# Ticket: R$500-5K
+# Referencia: Product Launch Formula (sem trafego pago, lista propria)
+
+name: lancamento-gratuito
+description: "Lancamento Gratuito (PLF Organico) — Jeff Walker sem ads"
+type: launch
+framework: walker-plf
+variant: internal-launch
+estimated_duration: "2-4 semanas"
+ticket_range: "R$500-5K"
+conversion_target: "2-5% da lista"
+
+# Ideal para:
+# - Expert com lista propria de 500+ contatos
+# - Sem budget para trafego pago
+# - Lancamento interno para base existente
+# - Relancamento de produto
+
+squad:
+  core:
+    - theboss    # Estrategia
+    - claudinho    # Copy (emails, CPLs, pagina vendas)
+    - picasso      # Criativos e slides
+  support:
+    - salazar      # Automacoes
+    - pixel        # Paginas simples
+    - metrics      # Metricas
+    - rafa         # Gestao
+  not_needed:
+    - cadu         # SEM trafego pago
+
+phases:
+
+  - id: preparacao
+    name: "Preparacao"
+    duration: "1 semana"
+    tasks:
+      - task: onboarding-expert
+        agent: theboss
+      - task: create-briefing-copy
+        agent: theboss
+        depends_on: [onboarding-expert]
+      - task: structure-offer
+        agent: theboss
+        depends_on: [onboarding-expert]
+
+  - id: antecipacao
+    name: "Pre-Prelaunch"
+    duration: "1 semana"
+    description: "Aquecer a lista existente antes dos CPLs"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: antecipacao
+        description: "2-3 emails de pre-prelaunch (curiosidade, expectativa)"
+      - task: setup-automations
+        agent: salazar
+        scope: antecipacao
+        description: "Sequencia automatica de pre-prelaunch"
+    deliverables:
+      - "{PROJ}_ANT_EML_PRE-PRELAUNCH-01_V1.md"
+      - "{PROJ}_ANT_EML_PRE-PRELAUNCH-02_V1.md"
+
+  - id: evento
+    name: "Evento (3 CPLs)"
+    duration: "1-2 semanas"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: evento
+        description: "Scripts 3 CPLs + emails de suporte (lembrete, pos-aula)"
+      - task: create-creatives
+        agent: picasso
+        scope: evento
+        description: "Slides dos CPLs"
+    deliverables:
+      - "{PROJ}_EVT_CPL_CPL1-OPORTUNIDADE_V1.md"
+      - "{PROJ}_EVT_CPL_CPL2-TRANSFORMACAO_V1.md"
+      - "{PROJ}_EVT_CPL_CPL3-OWNERSHIP_V1.md"
+      - "{PROJ}_EVT_EML_CPL1-DISPONIVEL_V1.md"
+
+  - id: vendas
+    name: "Vendas (Carrinho Aberto)"
+    duration: "5-7 dias"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: vendas
+        description: "5 emails de venda + copy pagina vendas"
+      - task: build-pages
+        agent: pixel
+        scope: vendas
+        description: "Pagina de vendas"
+    deliverables:
+      - "{PROJ}_VND_EML_ABERTURA-CARRINHO_V1.md"
+      - "{PROJ}_VND_EML_LOGICA_V1.md"
+      - "{PROJ}_VND_EML_EMOCAO_V1.md"
+      - "{PROJ}_VND_EML_URGENCIA_V1.md"
+      - "{PROJ}_VND_EML_ULTIMA-CHANCE_V1.md"
+      - "{PROJ}_VND_PGN_PAGINA-DE-VENDAS_V1.md"
+
+  - id: downsell
+    name: "Downsell"
+    duration: "2-3 dias"
+    tasks:
+      - task: write-copy
+        agent: claudinho
+        scope: downsell
+    deliverables:
+      - "{PROJ}_DWS_EML_OFERTA-ALTERNATIVA_V1.md"
+
+  - id: pos-venda
+    name: "Pos-Venda"
+    duration: "Continuo"
+    tasks:
+      - task: onboard-client
+        agent: carla
+      - task: campaign-report
+        agent: metrics
+
+gates:
+  - name: "Lista segmentada"
+    before: antecipacao
+    check: "Lista de emails limpa e segmentada (ativos, engajados, frios)"
+  - name: "CPLs prontos"
+    before: vendas
+    check: "3 CPLs finalizados, pagina de vendas pronta"
+
+success_metrics:
+  conversion: "2-5% da lista"
+  open_rate: "> 30%"
+  nps: "> 8.0"

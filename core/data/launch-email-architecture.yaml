@@ -1,0 +1,199 @@
+# Launch Email Architecture — Arsenal do @claudinho
+# 4 fases de lançamento + sequência de 13 emails + regras por fase
+# Uso: @claudinho — referência para sequências de email de lançamento
+
+core_principle: "Uma sequência de lançamento constrói DESEJO antes do carrinho abrir e cria URGÊNCIA antes de fechar. Todo email precisa avançar a narrativa — se não avança, não pertence."
+
+phases:
+  phase_a:
+    name: "Pré-Lançamento"
+    timing: "5-10 dias antes do carrinho abrir"
+    objetivo: "Semear o problema, construir antecipação, sem vender"
+    regras:
+      - "ZERO venda nesta fase. Valor e história apenas."
+      - "Plantar a semente do problema que o produto resolve"
+      - "Compartilhar bastidores ou história de origem"
+      - "Construir antecipação sem revelar a oferta"
+
+  phase_b:
+    name: "Carrinho Aberto"
+    timing: "Dia 0-2 do lançamento"
+    objetivo: "Anunciar a oferta completa, liderar com transformação"
+    regras:
+      - "Liderar com TRANSFORMAÇÃO, não features"
+      - "Revelar oferta completa com stack de valor"
+      - "Early bird bonus se aplicável"
+      - "CTA claro direto pra página de vendas"
+
+  phase_c:
+    name: "Mid-Launch"
+    timing: "Dia 3-5"
+    objetivo: "Prova social, quebra de objeções, clareza"
+    regras:
+      - "CADA email aborda UM ângulo diferente"
+      - "Nunca repetir 'aqui estão as features'"
+      - "Variar: prova social → objeções → FAQ"
+      - "Segmentar: excluir compradores"
+
+  phase_d:
+    name: "Carrinho Fechando"
+    timing: "Últimas 24-48h"
+    objetivo: "Urgência e deadline"
+    regras:
+      - "Urgência REAL. Nunca escassez falsa."
+      - "Tom de despedida, porta fechando"
+      - "Último argumento emocional"
+      - "Countdown visível no email"
+
+sequence_map:
+  pre_launch:
+    - id: 1
+      day: "D-7"
+      type: "Problem Awareness"
+      subject_approach: "O custo oculto de [dor]"
+      angle: "Identificar o problema. Fazer o leitor pensar 'é exatamente isso que eu sinto.'"
+      word_count: "200-300"
+
+    - id: 2
+      day: "D-4"
+      type: "Story/Origin"
+      subject_approach: "Por que eu criei [nome do produto]"
+      angle: "História pessoal do expert. Jornada. Vulnerabilidade."
+      word_count: "300-400"
+
+    - id: 3
+      day: "D-1"
+      type: "Anticipation"
+      subject_approach: "Amanhã tem algo grande..."
+      angle: "Teaser. Não revelar o que é. Criar expectativa."
+      word_count: "100-150"
+
+  cart_open:
+    - id: 4
+      day: "D+0"
+      type: "Launch Announcement"
+      subject_approach: "[Nome] está aberto"
+      angle: "Revelar TUDO. Stack de valor. Link direto. Energia alta."
+      word_count: "400-500"
+      segmentation: "Lista completa"
+
+    - id: 5
+      day: "D+1"
+      type: "Deep Dive"
+      subject_approach: "O que muda quando você [resultado]"
+      angle: "Transformação. Benefícios profundos. Pintar o futuro."
+      word_count: "300-400"
+      segmentation: "Excluir compradores"
+
+  mid_launch:
+    - id: 6
+      day: "D+3"
+      type: "Case Study / Social Proof"
+      subject_approach: "Como [nome real] [alcançou resultado]"
+      angle: "Depoimento detalhado. Antes/depois. Números reais."
+      word_count: "250-350"
+      segmentation: "Excluir compradores"
+
+    - id: 7
+      day: "D+4"
+      type: "Objection Handling"
+      subject_approach: "[Produto] é pra você?"
+      angle: "Endereçar top 3 objeções. 'Se você está pensando X...' → resposta."
+      word_count: "300-400"
+      segmentation: "Excluir compradores"
+
+    - id: 8
+      day: "D+5"
+      type: "FAQ Roundup"
+      subject_approach: "As perguntas que mais recebo"
+      angle: "5-8 FAQs reais. Resposta curta e direta cada."
+      word_count: "300-400"
+      segmentation: "Excluir compradores"
+
+  cart_close:
+    - id: 9
+      day: "D+6"
+      type: "24h Warning"
+      subject_approach: "Última chance: 24 horas"
+      angle: "Urgência real. Consequência de não agir. Recap da oferta."
+      word_count: "200-300"
+      segmentation: "Excluir compradores"
+
+    - id: 10
+      day: "D+7 (manhã)"
+      type: "Final Hours"
+      subject_approach: "Isso fecha HOJE"
+      angle: "Tom de despedida. 'Se é pra você, é agora.' Último stack."
+      word_count: "150-250"
+      segmentation: "Excluir compradores"
+
+    - id: 11
+      day: "D+7 (noite)"
+      type: "Cart Closed"
+      subject_approach: "Acabou."
+      angle: "Confirmação que fechou. Waitlist pra próxima turma."
+      word_count: "100-150"
+      segmentation: "Não-compradores"
+
+  post_launch:
+    - id: 12
+      day: "D+8"
+      type: "Thank You (Buyers)"
+      subject_approach: "Bem-vindo(a)! Próximos passos"
+      angle: "Celebração. Onboarding. O que esperar."
+      word_count: "200-300"
+      segmentation: "Apenas compradores"
+
+    - id: 13
+      day: "D+8"
+      type: "Nurture (Non-Buyers)"
+      subject_approach: "Tudo bem — aqui tem algo grátis"
+      angle: "Valor gratuito. Sem culpa. Manter relacionamento."
+      word_count: "150-200"
+      segmentation: "Apenas não-compradores"
+
+email_structure:
+  per_email:
+    - "Subject line + preview text"
+    - "Body (200-400 palavras)"
+    - "CTA — UM por email, link pra página de vendas"
+    - "Notas de segmentação — quem recebe"
+
+  writing_rules:
+    pre_launch: "SEM venda. Valor e história apenas."
+    cart_open: "Liderar com transformação, não features."
+    mid_launch: "CADA email = ângulo diferente. Nunca repetir."
+    cart_close: "Urgência REAL. Nunca escassez fabricada."
+    post_launch: "Compradores = celebração. Não-compradores = valor (sem culpa)."
+
+  subject_line_rules:
+    - "< 50 caracteres"
+    - "Sem CAPS LOCK excessivo"
+    - "Sem pontuação em série (!!!)"
+    - "Preview text complementa, não repete"
+    - "Personalização quando possível ([nome])"
+
+launch_checklist:
+  - "Todos os emails agendados com datas e horários corretos"
+  - "Página de vendas live e testada"
+  - "Processamento de pagamento testado"
+  - "Tag de comprador/automação configurada"
+  - "Mecanismo de fechamento de carrinho pronto"
+  - "Emails pós-launch enfileirados"
+  - "Segmentação de compradores funcionando (excluir de emails de venda)"
+
+anti_patterns:
+  - "Lançar sem pré-launch — de zero pra 'compre agora' não funciona"
+  - "Mesmo ângulo em todo email — repetir features mata engajamento"
+  - "Urgência falsa — se o carrinho não fecha de verdade, não diga que fecha"
+  - "Esquecer de excluir compradores — mandar 'compre agora' pra quem já comprou é amador"
+  - "Sem plano pós-launch — a sequência não termina quando o carrinho fecha"
+
+adaptations:
+  small_list:
+    threshold: "< 500 subscribers"
+    recommendation: "Encurtar pra 8 emails. Focar em conexão pessoal."
+  first_launch:
+    recommendation: "Sem prova social? Usar feedback de beta testers, resultados pessoais, ou narrativa 'por que criei'."
+  max_emails:
+    recommendation: "Max 13 emails em janela de 2 semanas. Além disso, as pessoas ignoram."

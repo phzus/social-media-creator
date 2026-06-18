@@ -1,0 +1,16 @@
+{
+  "version": "2.0",
+  "active_project": null,
+  "active_agent": null,
+  "current_phase": null,
+  "campaign_status": null,
+  "pending_gates": [],
+  "handoff_stack": [],
+  "last_updated": null,
+  "metrics": {
+    "total_projects": 0,
+    "active_campaigns": 0,
+    "agents_active": 0,
+    "tasks_completed": 0
+  }
+}
