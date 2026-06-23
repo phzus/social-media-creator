@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-06-19 — Dumar: plano da semana 22–26/06 (jardinagem + tour da reforma)
+
+3 peças no padrão Lone (2 estáticos jardinagem + 1 vídeo). Vídeo de quarta sugerido = tour da loja reformada (payoff da campanha-ponte). Captação nova liberada (pós-janela da reforma). Brief em [clients/dumar/conteudo/posts/2026-06-22-plano-semana-22-26-jun.md](../clients/dumar/conteudo/posts/2026-06-22-plano-semana-22-26-jun.md). Detalhes em [clients/dumar/PROGRESSO.md](../clients/dumar/PROGRESSO.md). Aguardando PH escolher tema do vídeo + headlines.
+
+---
+
 ## 2026-06-10 — Arte em Manipulação: 2 roteiros de Namorados (Kit Arte Brisa)
 
 Gerente mandou o **Kit completo de Skincare da linha Arte Brisa** (sabonete de pepino + séruns clareadores dia/noite) como produto-foco de Dia dos Namorados — linha própria **nova**, adicionada ao context/PADROES. Pesquisa de benefícios feita pra fundamentar sem inventar ativo. Escritos **2 roteiros de Reels** alinhados às ideias do PDF da gerente: gancho de presente (~30s) + produto específico do kit (~40s). Compliance Anvisa aplicado nos claims "clareador". Aguardando validação supervisora/farmacêutica + infos (nome/preço/desconto). Detalhes em [clients/arte-em-manipulacao/PROGRESSO.md](../clients/arte-em-manipulacao/PROGRESSO.md).

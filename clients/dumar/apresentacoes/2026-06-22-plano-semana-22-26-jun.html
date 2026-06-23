@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Plano da Semana · Dumar · 22 a 26 de Junho 2026 · Lone Mídia</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  @page { size: A4; margin: 0; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body {
+    font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    background: #e8e8e8;
+    color: #1a1a1a;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+    font-feature-settings: "ss01", "cv11";
+  }
+  .page {
+    width: 210mm; height: 297mm;
+    position: relative;
+    page-break-after: always;
+    background: #ffffff;
+    display: flex; flex-direction: column;
+    overflow: hidden;
+    margin: 16px auto;
+    box-shadow: 0 4px 28px rgba(0,0,0,0.10);
+  }
+  .page:last-child { page-break-after: auto; }
+  @media print {
+    body { background: #fff; }
+    .page { margin: 0; box-shadow: none; }
+  }
+
+  /* ===== HEADER ===== */
+  .top-header {
+    padding: 12mm 16mm 5mm;
+    display: flex; justify-content: space-between; align-items: center;
+    border-bottom: 0.5mm solid #1A2DD9;
+    margin-bottom: 9mm;
+  }
+  .brand img { height: 7mm; width: auto; display: block; }
+  .header-badge {
+    background: #f4f5f7; border: 0.3mm solid #d4d8e0;
+    padding: 2mm 4mm; border-radius: 1.2mm;
+    font-size: 2.5mm; color: #4a5060; letter-spacing: 0.5px;
+  }
+  .header-badge strong { color: #0d1b3d; font-weight: 700; margin-left: 1.5mm; }
+  .header-badge .dot { margin: 0 1.5mm; color: #c0c4cc; }
+
+  /* ===== PAGE BODY ===== */
+  .page-body {
+    flex: 1; padding: 0 16mm;
+    display: flex; flex-direction: column; gap: 9mm;
+    overflow: hidden;
+  }
+
+  /* ===== FOOTER ===== */
+  footer.page-footer {
+    padding: 4mm 16mm 6mm;
+    display: flex; justify-content: space-between; align-items: center;
+    font-size: 2.4mm; color: #9094a0; letter-spacing: 0.3px;
+  }
+  footer.page-footer .footer-brand strong { color: #5a5e6a; font-weight: 600; }
+
+  /* ===== COVER PAGE ===== */
+  .cover-body {
+    flex: 1; padding: 0 16mm 0;
+    display: flex; flex-direction: column; justify-content: flex-end;
+  }
+  .cover-kicker {
+    font-size: 2.6mm; font-weight: 700; color: #5a6275;
+    letter-spacing: 3px; text-transform: uppercase; margin-bottom: 6mm;
+  }
+  .cover-title {
+    font-size: 26mm; font-weight: 800; line-height: 0.95;
+    letter-spacing: -1.5px; color: #ffffff; margin-bottom: 8mm;
+  }
+  .cover-title .accent { color: #d65f56; }
+  .cover-description {
+    font-size: 4mm; font-weight: 400; line-height: 1.5;
+    color: #c8cfe0; max-width: 150mm; margin-bottom: 24mm;
+  }
+  .cover-divider { height: 0.3mm; background: #2a3a6e; margin-bottom: 11mm; }
+  .cover-metrics {
+    display: grid; grid-template-columns: repeat(3, 1fr);
+    gap: 8mm; margin-bottom: 14mm; max-width: 178mm;
+  }
+  .cover-metric .num {
+    font-size: 13mm; font-weight: 800; line-height: 1;
+    color: #ffffff; letter-spacing: -0.5px; margin-bottom: 2.5mm;
+  }
+  .cover-metric .label {
+    font-size: 2.3mm; font-weight: 600; color: #8a92a8;
+    letter-spacing: 1.2px; text-transform: uppercase; line-height: 1.45;
+  }
+  .page.cover-page { background: #0d1b3d; color: #ffffff; }
+  .page.cover-page .top-header { border-bottom-color: #1A2DD9; }
+  .page.cover-page .header-badge { background: rgba(255,255,255,0.07); border-color: rgba(255,255,255,0.18); color: #c8cfe0; }
+  .page.cover-page .header-badge strong { color: #ffffff; }
+  .page.cover-page footer.page-footer { color: #5a6275; }
+  .page.cover-page footer.page-footer .footer-brand strong { color: #9aa0b4; }
+
+  /* ===== PIECE CARD (visual) ===== */
+  .pcard { display: grid; grid-template-columns: 60mm 1fr; gap: 9mm; align-items: start; }
+  .pcard.video { grid-template-columns: 45mm 1fr; }
+
+  /* --- mockup --- */
+  .mock-col { display: flex; flex-direction: column; align-items: center; }
+  .mock {
+    position: relative; width: 60mm; height: 75mm;
+    border-radius: 2mm; overflow: hidden;
+    background: linear-gradient(155deg, #2a3440 0%, #141a23 100%);
+    box-shadow: 0 2.5mm 7mm rgba(13,27,61,0.22);
+    display: flex; flex-direction: column; justify-content: flex-end;
+  }
+  .mock.reel { width: 45mm; height: 80mm; background: linear-gradient(160deg, #20262f 0%, #0e1117 100%); }
+  .mock.green { background: linear-gradient(155deg, #2c3a31 0%, #121a15 100%); }
+  .mock.warm  { background: linear-gradient(155deg, #34302b 0%, #161310 100%); }
+
+  .mock-logo {
+    position: absolute; top: 3mm; left: 50%; transform: translateX(-50%); z-index: 4;
+    display: flex; align-items: center; gap: 1.6mm;
+    color: #ffffff; font-weight: 900; font-size: 2.5mm; letter-spacing: 2px;
+  }
+  .mock-logo::before, .mock-logo::after {
+    content: ''; width: 2.6mm; height: 0.5mm; background: #c2342a; display: block;
+  }
+  .mock-tag {
+    position: absolute; top: 3mm; left: 3mm; z-index: 4;
+    background: rgba(255,255,255,0.12); color: #e4e8ef;
+    font-size: 1.85mm; font-weight: 700; letter-spacing: 1px; text-transform: uppercase;
+    padding: 1mm 2mm; border-radius: 0.6mm; border: 0.2mm solid rgba(255,255,255,0.20);
+  }
+  .mock-center {
+    position: absolute; top: 50%; left: 50%; transform: translate(-50%, -58%);
+    width: 78%; text-align: center; z-index: 1;
+  }
+  .mock-frame {
+    width: 9mm; height: 9mm; margin: 0 auto 2.5mm;
+    border: 0.4mm dashed rgba(255,255,255,0.32); border-radius: 1mm; position: relative;
+  }
+  .mock-frame::after {
+    content: ''; position: absolute; left: 1.3mm; bottom: 1.3mm;
+    width: 3mm; height: 3mm; border-radius: 50%; border: 0.4mm solid rgba(255,255,255,0.32);
+  }
+  .mock-imgnote { font-size: 2mm; line-height: 1.35; color: rgba(255,255,255,0.52); font-weight: 500; }
+  .mock-play {
+    position: absolute; top: 38%; left: 50%; transform: translate(-50%,-50%); z-index: 2;
+    width: 11mm; height: 11mm; border-radius: 50%;
+    background: rgba(255,255,255,0.14); border: 0.3mm solid rgba(255,255,255,0.42);
+    display: flex; align-items: center; justify-content: center;
+  }
+  .mock-play::after {
+    content: ''; margin-left: 1mm;
+    border-left: 3mm solid #ffffff; border-top: 1.8mm solid transparent; border-bottom: 1.8mm solid transparent;
+  }
+  .mock-bottom {
+    position: relative; z-index: 3; padding: 12mm 4mm 3.5mm;
+    background: linear-gradient(to top, rgba(8,10,14,0.95) 32%, rgba(8,10,14,0));
+  }
+  .mock-arte { color: #ffffff; font-weight: 800; font-size: 3.5mm; line-height: 1.18; letter-spacing: -0.2px; }
+  .mock-arte .hl { background: #1A2DD9; padding: 0 0.8mm; border-radius: 0.4mm; }
+  .mock-arte .hlr { background: #c2342a; padding: 0 0.8mm; border-radius: 0.4mm; }
+  .mock.reel .mock-arte { font-size: 3.3mm; }
+  .mock-cta {
+    display: inline-block; margin-top: 3mm;
+    background: #1A2DD9; color: #ffffff; font-size: 1.95mm; font-weight: 700;
+    letter-spacing: 0.8px; text-transform: uppercase; padding: 1.6mm 3.6mm; border-radius: 6mm;
+  }
+  .mock-brand {
+    margin-top: 2.8mm; padding-top: 2mm; border-top: 0.2mm solid rgba(255,255,255,0.16);
+    display: flex; justify-content: space-between; align-items: center;
+    font-size: 1.7mm; color: rgba(255,255,255,0.62); letter-spacing: 0.3px;
+  }
+  .mock-brand .bname { font-weight: 800; color: #ffffff; letter-spacing: 1px; }
+
+  .mock-alts { width: 60mm; margin-top: 3mm; font-size: 2.1mm; line-height: 1.4; color: #6a7080; }
+  .pcard.video .mock-alts { width: 45mm; }
+  .mock-alts .alt-tag { font-weight: 800; color: #9aa0ae; text-transform: uppercase; letter-spacing: 0.5px; margin-right: 1.2mm; font-size: 1.9mm; }
+
+  /* --- info --- */
+  .pinfo-head {
+    display: flex; justify-content: space-between; align-items: center;
+    gap: 4mm; padding-bottom: 2.5mm; margin-bottom: 3.5mm;
+    border-bottom: 0.3mm solid #e9ebf0;
+  }
+  .pinfo-date { font-size: 3.4mm; font-weight: 800; color: #0d1b3d; letter-spacing: 0.2px; }
+  .pinfo-date .wd { color: #9094a0; font-weight: 700; }
+  .pinfo-format {
+    background: #0a0a0a; color: #ffffff; padding: 1.6mm 3mm; border-radius: 0.8mm;
+    font-size: 2.2mm; font-weight: 700; letter-spacing: 1.3px; text-transform: uppercase;
+    white-space: nowrap; flex-shrink: 0;
+  }
+  .pinfo-format.video { background: #1A2DD9; }
+  .pinfo-format.green { background: #2f7d4f; }
+  .pinfo-format.warm { background: #c2342a; }
+
+  .iblock { margin-bottom: 3mm; }
+  .iblock:last-child { margin-bottom: 0; }
+  .iblock-label {
+    font-size: 2.1mm; font-weight: 800; color: #8a90a0;
+    letter-spacing: 1.5px; text-transform: uppercase; margin-bottom: 1.2mm;
+  }
+  .iblock-text { font-size: 2.8mm; line-height: 1.5; color: #2a2e3a; }
+  .iblock-text + .iblock-text { margin-top: 1.3mm; }
+  .iblock-text .key { font-weight: 700; color: #0d1b3d; }
+  .iblock-text .ico { color: #1A2DD9; margin-right: 0.8mm; }
+
+  .roteiro-step {
+    display: grid; grid-template-columns: 17mm 1fr; gap: 3mm;
+    padding: 1.7mm 0; border-top: 0.2mm solid #eceef3;
+  }
+  .roteiro-step:first-child { border-top: none; }
+  .roteiro-time { font-size: 2.4mm; font-weight: 800; color: #1A2DD9; letter-spacing: 0.3px; padding-top: 0.2mm; }
+  .roteiro-text { font-size: 2.75mm; line-height: 1.45; color: #2a2e3a; }
+  .roteiro-text .label { font-weight: 800; color: #0d1b3d; }
+
+  .note-box {
+    background: #fbf7f0; border: 0.3mm solid #ead9bf; border-radius: 1mm;
+    padding: 2.5mm 3.5mm; font-size: 2.5mm; line-height: 1.45; color: #6b5733; margin-top: 3mm;
+  }
+  .note-box strong { color: #4a3c20; }
+</style>
+</head>
+<body>
+
+<!-- ============================================================ -->
+<!-- PÁGINA 1 — COVER                                              -->
+<!-- ============================================================ -->
+<section class="page cover-page">
+  <div class="top-header">
+    <div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-branco-azul.png" alt="Lone Mídia"></div>
+    <div class="header-badge">CLIENTE <span class="dot">·</span><strong>DUMAR</strong></div>
+  </div>
+
+  <div class="cover-body">
+    <div class="cover-kicker">PLANO DA SEMANA</div>
+    <h1 class="cover-title">22 a 26 de<br><span class="accent">Junho.</span></h1>
+    <p class="cover-description">Três peças no padrão da casa. Segunda abre a linha de jardinagem, quarta é o vídeo dos óleos que mantêm a máquina rodando, e sexta mostra a alma da Dumar: o atendimento de quem entende do serviço.</p>
+    <div class="cover-divider"></div>
+    <div class="cover-metrics">
+      <div class="cover-metric"><div class="num">SEG</div><div class="label">22/06 · Estático<br>Setor de jardinagem</div></div>
+      <div class="cover-metric"><div class="num">QUA</div><div class="label">24/06 · Vídeo · Reels<br>Tipos de óleo</div></div>
+      <div class="cover-metric"><div class="num">SEX</div><div class="label">26/06 · Estático<br>Atendimento da loja</div></div>
+    </div>
+  </div>
+
+  <footer class="page-footer">
+    <div class="footer-brand"><strong>LONE MÍDIA</strong> · Plano da Semana · Dumar</div>
+    <div class="page-num">1 / 3</div>
+  </footer>
+</section>
+
+<!-- ============================================================ -->
+<!-- PÁGINA 2 — SEG 22/06 (jardinagem) + SEX 26/06 (atendimento)   -->
+<!-- ============================================================ -->
+<section class="page">
+  <div class="top-header">
+    <div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia"></div>
+    <div class="header-badge">ESTÁTICOS <span class="dot">·</span><strong>SEG + SEX</strong></div>
+  </div>
+
+  <div class="page-body">
+
+    <!-- SEGUNDA 22/06 — JARDINAGEM -->
+    <div class="pcard">
+      <div class="mock-col">
+        <div class="mock green">
+          <div class="mock-logo">DUMAR</div>
+          <span class="mock-tag">Foto a captar</span>
+          <div class="mock-center">
+            <div class="mock-frame"></div>
+            <div class="mock-imgnote">Setor de jardinagem montado — roçadeira, cortador, soprador, aparador na exposição</div>
+          </div>
+          <div class="mock-bottom">
+            <div class="mock-arte">Todo <span class="hl">maquinário de jardinagem</span> você encontra aqui.</div>
+            <div class="mock-cta">Confira na loja</div>
+            <div class="mock-brand"><span class="bname">DUMAR</span><span>@dumarcomercio · Araruama</span></div>
+          </div>
+        </div>
+        <div class="mock-alts"><span class="alt-tag">Opções de arte</span>"Jardinagem é aqui na Dumar." · "Tudo pra jardinagem num lugar só."</div>
+      </div>
+
+      <div class="pinfo">
+        <div class="pinfo-head">
+          <div class="pinfo-date">22/06 <span class="wd">· Segunda-feira</span></div>
+          <div class="pinfo-format green">POST ESTÁTICO</div>
+        </div>
+        <div class="iblock">
+          <div class="iblock-label">Intenção</div>
+          <div class="iblock-text">Mostrar que a Dumar tem a linha completa de jardinagem em um lugar só. Posicionamento + variedade.</div>
+        </div>
+        <div class="iblock">
+          <div class="iblock-label">Legenda</div>
+          <div class="iblock-text">Roçadeira, cortador de grama, aparador, soprador e toda a ferramenta de mão pro jardim. Na Dumar você encontra a linha completa de jardinagem num lugar só.</div>
+          <div class="iblock-text">Do terreno grande ao canteiro do quintal, tem a máquina certa pro seu serviço.</div>
+          <div class="iblock-text">Passa na loja e confira — a gente te ajuda a escolher.</div>
+          <div class="iblock-text"><span class="ico">📍</span>Félix Valadares Júnior, 135 — Centro &nbsp;·&nbsp; <span class="ico">📲</span>(22) 98873-3904</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- SEXTA 26/06 — ATENDIMENTO -->
+    <div class="pcard">
+      <div class="mock-col">
+        <div class="mock warm">
+          <div class="mock-logo">DUMAR</div>
+          <span class="mock-tag">Foto da loja</span>
+          <div class="mock-center">
+            <div class="mock-frame"></div>
+            <div class="mock-imgnote">Balcão — vendedor atendendo cliente (sessão "portas abertas" ou nova)</div>
+          </div>
+          <div class="mock-bottom">
+            <div class="mock-arte">Aqui você compra com <span class="hlr">quem entende</span>.</div>
+            <div class="mock-cta">Passe na loja</div>
+            <div class="mock-brand"><span class="bname">DUMAR</span><span>@dumarcomercio · Araruama</span></div>
+          </div>
+        </div>
+        <div class="mock-alts"><span class="alt-tag">Opções de arte</span>"Atendimento de quem entende do serviço." · "A gente pergunta antes de vender."</div>
+      </div>
+
+      <div class="pinfo">
+        <div class="pinfo-head">
+          <div class="pinfo-date">26/06 <span class="wd">· Sexta-feira</span></div>
+          <div class="pinfo-format warm">POST ESTÁTICO</div>
+        </div>
+        <div class="iblock">
+          <div class="iblock-label">Intenção</div>
+          <div class="iblock-text">Reforçar o diferencial humano da Dumar — o atendimento consultivo de 35 anos. Conecta com a experiência do cliente e com a voz do Ducler.</div>
+        </div>
+        <div class="iblock">
+          <div class="iblock-label">Legenda</div>
+          <div class="iblock-text">Na Dumar, antes de bater o preço, a gente pergunta: você vai fazer o quê com ela?</div>
+          <div class="iblock-text">São 35 anos de balcão pra te indicar a ferramenta certa pro seu serviço — não a mais cara. Se a que você ia levar não serve, a gente fala na hora.</div>
+          <div class="iblock-text">É por isso que quem compra aqui uma vez volta sempre.</div>
+          <div class="iblock-text">Passa na loja e fala com a gente. A indicação certa economiza seu dinheiro e seu retrabalho.</div>
+          <div class="iblock-text"><span class="ico">📍</span>Félix Valadares Júnior, 135 — Centro &nbsp;·&nbsp; <span class="ico">📲</span>(22) 98873-3904</div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <footer class="page-footer">
+    <div class="footer-brand"><strong>LONE MÍDIA</strong> · Plano da Semana · Dumar</div>
+    <div class="page-num">2 / 3</div>
+  </footer>
+</section>
+
+<!-- ============================================================ -->
+<!-- PÁGINA 3 — QUA 24/06 (vídeo)                                  -->
+<!-- ============================================================ -->
+<section class="page">
+  <div class="top-header">
+    <div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia"></div>
+    <div class="header-badge">VÍDEO <span class="dot">·</span><strong>REELS</strong></div>
+  </div>
+
+  <div class="page-body">
+
+    <div class="pcard video">
+      <div class="mock-col">
+        <div class="mock reel">
+          <div class="mock-logo">DUMAR</div>
+          <span class="mock-tag">Reels · 20–25s</span>
+          <div class="mock-play"></div>
+          <div class="mock-center" style="transform:translate(-50%,18%);">
+            <div class="mock-imgnote">Equipe narrando com 2–3 óleos na mão, no balcão</div>
+          </div>
+          <div class="mock-bottom">
+            <div class="mock-arte">Quando comprar cada tipo de óleo.</div>
+            <div class="mock-brand"><span class="bname">DUMAR</span><span>@dumarcomercio</span></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="pinfo">
+        <div class="pinfo-head">
+          <div class="pinfo-date">24/06 <span class="wd">· Quarta-feira</span></div>
+          <div class="pinfo-format video">VÍDEO · REELS</div>
+        </div>
+
+        <div class="iblock">
+          <div class="iblock-label">Intenção</div>
+          <div class="iblock-text">Sair do óbvio (só listar óleo) e mostrar os <span class="key">sinais práticos de quando trocar/repor</span>. Amarra com a jardinagem da semana: roçadeira e motosserra rodam com óleo 2T.</div>
+        </div>
+
+        <div class="iblock">
+          <div class="iblock-label">Roteiro <span style="font-weight:400;color:#9aa0ae;text-transform:none;letter-spacing:0;">— a fala exata fica com quem grava, domínio técnico é da Dumar</span></div>
+          <div class="roteiro-step">
+            <div class="roteiro-time">0–3s</div>
+            <div class="roteiro-text"><span class="label">Gancho.</span> "Máquina rangendo, sem força, fazendo barulho estranho? Quase sempre é falta do óleo certo."</div>
+          </div>
+          <div class="roteiro-step">
+            <div class="roteiro-time">3–7s</div>
+            <div class="roteiro-text"><span class="label">Transição.</span> "Esses 3 são os que mais saem aqui. Cada um pra um tipo de máquina."</div>
+          </div>
+          <div class="roteiro-step">
+            <div class="roteiro-time">7–18s</div>
+            <div class="roteiro-text"><span class="label">Corpo.</span> Pega cada óleo e diz a aplicação: óleo de motor 2T (roçadeira, motosserra), óleo de compressor de pistão, óleo pneumático (ar comprimido). Exemplos ilustrativos — a equipe ajusta a aplicação certa.</div>
+          </div>
+          <div class="roteiro-step">
+            <div class="roteiro-time">18–25s</div>
+            <div class="roteiro-text"><span class="label">Fechamento.</span> "Tá com algum desses sinais na tua máquina? Passa na Dumar ou chama no WhatsApp que a gente te indica."</div>
+          </div>
+        </div>
+
+        <div class="iblock">
+          <div class="iblock-label">Legenda</div>
+          <div class="iblock-text">Máquina rangendo, sem força, fazendo barulho estranho? Quase sempre é falta do óleo certo.</div>
+          <div class="iblock-text">Tem óleo de motor 2T pra roçadeira e motosserra, óleo pra compressor de pistão, óleo pneumático pra ferramenta de ar comprimido — cada um pra uma situação. Usar o errado, ou demorar pra trocar, encurta a vida da máquina.</div>
+          <div class="iblock-text">Tá com algum desses sinais? Passa aqui com a ferramenta ou manda mensagem.</div>
+          <div class="iblock-text"><span class="ico">📲</span>(22) 98873-3904 &nbsp;·&nbsp; <span class="ico">📍</span>Félix Valadares Júnior, 135 — Centro</div>
+        </div>
+
+        <div class="note-box"><strong>Captação:</strong> Ducler ou um funcionário grava no balcão, com 2–3 óleos em mãos (os que mais saem). Celular vertical, sem flash.</div>
+      </div>
+    </div>
+
+  </div>
+
+  <footer class="page-footer">
+    <div class="footer-brand"><strong>LONE MÍDIA</strong> · Plano da Semana · Dumar</div>
+    <div class="page-num">3 / 3</div>
+  </footer>
+</section>
+
+</body>
+</html>

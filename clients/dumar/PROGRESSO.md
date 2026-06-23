@@ -22,6 +22,38 @@ Ducler pediu (via PH) uma **força-tarefa nas duas redes (IG + FB)** pra comunic
 
 ---
 
+## 2026-06-19 — Plano da semana 22–26/06 (jardinagem + tour da reforma)
+
+PH pediu o planejamento da semana que vem no padrão Lone: **3 peças = 2 estáticos + 1 vídeo**. Ideia dele: jardinagem entrando em 2 posts ("setorzinho com ferramentas/máquinas de jardinagem", imagem natural do ambiente, voz Dumar).
+
+**Decisões travadas (via AskUserQuestion):**
+- Estrutura: **2 estáticos jardinagem (Seg/Sex) + vídeo de outro tema (Qua)** — diversidade na semana (context.md § cronograma narrativo: mostrar a empresa inteira > tema único).
+- **Captação nova liberada** — já passamos da janela da reforma (pós ≈15/06, "produção pesada" aberta). Briefs montados pedindo foto/clipe novos.
+- Tema do vídeo: **sugeri tour da loja reformada** (payoff da campanha-ponte de 1 mês + reaproveita gancho aprovado do Gabriel "Você já viu como a Dumar ficou?"). Alternativa oferecida: assistência técnica. Aguardando escolha do PH.
+
+**Entregue:** [conteudo/posts/2026-06-22-plano-semana-22-26-jun.md](conteudo/posts/2026-06-22-plano-semana-22-26-jun.md) — 3 peças com brief visual + brief de captação + headline em opções + legenda. Copy seguindo regra-mestra estratégia>forma:
+- **Seg 22 (estático · Pilar 1):** "O setor de jardinagem" — hook na cena do quintal no mato, "Na Dumar tem", CTA pergunta-âncora.
+- **Qua 24 (vídeo · Pilar 4):** tour da loja reformada — gancho de curiosidade + "Mudou a loja. Não o preço." (continuidade no positivo, PADROES § 5.1).
+- **Sex 26 (estático · Pilar 2):** "Qual máquina de jardim pro seu serviço" — consultor honesto (roçadeira/aparador/cortador), fórmula binária concreta, fecha pra conversão.
+
+**Apresentação HTML entregue + revisada (mesmo dia):** [apresentacoes/2026-06-22-plano-semana-22-26-jun.html](apresentacoes/2026-06-22-plano-semana-22-26-jun.html). PH pediu **cortar o ruído** — só Dia · Formato · Intenção · Texto da arte · Imagem · Legenda por peça. E copy dos estáticos **mais direta/institucional** (exemplo dado: *"Você encontra todo maquinário para jardinagem aqui"*), menos hook-história.
+
+**Mudanças aplicadas (v2):**
+- HTML enxuto: removidos blocos de Estratégia, roteiro-timeline e specs técnicas. 3 páginas (capa + 2 estáticos + vídeo).
+- **Vídeo de quarta deixou de ser o tour-da-reforma.** PH redirecionou: reaproveitar o **roteiro de demonstração já planejado** (mesma lógica do reel de óleos do mês passado — ver [estratégia §5](estrategia/2026-05-22-a-2026-06-26.md)), pendente de **informação técnica** da máquina (qual modelo, como demonstrar) pra não prescrever errado.
+- Copy estáticos reescrita direta/institucional: SEG arte = *"Todo maquinário de jardinagem você encontra aqui"*; SEX arte = *"A máquina certa pro seu jardim."* Legendas curtas, recado claro.
+- [conteudo/posts/2026-06-22-plano-semana-22-26-jun.md](conteudo/posts/2026-06-22-plano-semana-22-26-jun.md) sincronizado com a v2.
+
+**Vídeo de quarta definido (mesmo dia):** PH mandou print do roteiro **"Quando comprar cada tipo de óleo"** (era 27/05, ficou pendente de info técnica) e disse "faremos dele". Colocado no card da quarta (24/06) no formato enxuto — Intenção · Formato · Roteiro (4 blocos de tempo) · Captação · Legenda. Amarra com a jardinagem da semana (óleo 2T = roçadeira/motosserra). HTML e .md sincronizados.
+
+**HTML "bonito" + troca da sexta (mesmo dia):** PH pediu pra elevar o visual (virou apresentação com mockup de cada post — preview com foto-placeholder, texto da arte renderizado, wordmark DUMAR no topo + pill de CTA, no estilo dos posts reais que ele mandou de referência). E **trocou o tema da sexta**: saiu a consultoria "máquina certa pro jardim", entrou **atendimento humano** ("Aqui você compra com quem entende") — foto real do balcão (serve a da sessão "portas abertas"), puxa os 35 anos + pergunta-âncora do Ducler. Conecta com Ducler/loja/experiência do cliente, alma Home Depot.
+
+Semana final: **SEG** jardinagem (linha) · **QUA** vídeo óleos · **SEX** atendimento. HTML + .md sincronizados.
+
+**Pendência:** PH escolhe os textos de arte (1 recomendado + 2 opções por estático). Captação: foto do setor de jardinagem (seg) + foto do balcão atendendo (sex) + Reels dos óleos (qua, equipe grava).
+
+---
+
 ## 2026-06-01 — Áudios do Ducler + carrossel de sexta (5 pilares)
 
 Ducler enviou **2 áudios** consolidando o briefing da primeira quinzena. Áudios + síntese em [referencias/2026-06-01-audios-ducler-pilares-reforma.md](referencias/2026-06-01-audios-ducler-pilares-reforma.md).
