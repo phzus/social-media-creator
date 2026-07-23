@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mockup · Carrossel "Precisamos pedir desculpas" · Complexo Vida</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Anton&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  :root { --preto:#16171b; --vermelho:#d61f26; --cinza:#8a8288; }
+  body { font-family: "Inter", -apple-system, "Segoe UI", sans-serif; background: #d8d9dd; color: #16171b; padding: 28px 16px 60px; -webkit-font-smoothing: antialiased; }
+  .wrap { max-width: 1200px; margin: 0 auto; }
+  .head { text-align: center; margin-bottom: 8px; }
+  .head .kick { font-size: 12px; font-weight: 800; letter-spacing: 3px; text-transform: uppercase; color: var(--vermelho); }
+  .head h1 { font-size: 26px; font-weight: 800; letter-spacing: -0.5px; color: var(--preto); margin: 6px 0 4px; }
+  .head p { font-size: 13.5px; color: #55505a; max-width: 640px; margin: 0 auto; line-height: 1.5; }
+  .hint { text-align: center; font-size: 12px; color: #6a646e; margin: 14px auto 22px; background: #ffffff; border: 1px solid #c9c6cd; border-radius: 999px; padding: 7px 16px; display: inline-block; }
+  .hint b { color: var(--vermelho); }
+  .center { text-align:center; }
+
+  /* ===== CARROSSEL (scroll horizontal como IG) ===== */
+  .carousel { display: flex; gap: 16px; overflow-x: auto; padding: 6px 4px 20px; scroll-snap-type: x mandatory; }
+  .carousel::-webkit-scrollbar { height: 9px; }
+  .carousel::-webkit-scrollbar-thumb { background: #b0adb5; border-radius: 999px; }
+  .slide {
+    flex: 0 0 auto; width: 340px; height: 340px; scroll-snap-align: center;
+    position: relative; border-radius: 14px; overflow: hidden;
+    background: var(--preto); color: #fff;
+    box-shadow: 0 10px 30px rgba(0,0,0,.22);
+    display: flex; flex-direction: column;
+  }
+  /* simulação de foto escurecida ao fundo */
+  .slide .photo {
+    position: absolute; inset: 0;
+    background:
+      radial-gradient(120% 90% at 70% 15%, rgba(214,31,38,.22), transparent 55%),
+      linear-gradient(180deg, #23242b 0%, #16171b 60%, #0e0e11 100%);
+  }
+  .slide .photo::after {
+    content: attr(data-foto);
+    position: absolute; left: 14px; right: 14px; top: 50%; transform: translateY(-50%);
+    text-align: center; font-size: 10.5px; letter-spacing: 1px; text-transform: uppercase;
+    color: rgba(255,255,255,.22); font-weight: 700; line-height: 1.5;
+    border: 1px dashed rgba(255,255,255,.16); border-radius: 8px; padding: 12px 8px;
+  }
+  .slide .grad { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(10,10,12,.55) 0%, rgba(10,10,12,.15) 40%, rgba(10,10,12,.82) 100%); }
+  .slide .inner { position: relative; z-index: 2; flex: 1; display: flex; flex-direction: column; padding: 20px 20px 16px; }
+  .counter { position: absolute; top: 12px; right: 14px; z-index: 3; font-size: 11px; font-weight: 700; background: rgba(0,0,0,.4); backdrop-filter: blur(4px); padding: 3px 9px; border-radius: 999px; letter-spacing: .5px; }
+  .marca { position: absolute; top: 14px; left: 16px; z-index: 3; font-weight: 800; font-size: 12px; letter-spacing: .5px; }
+  .marca b { color: var(--vermelho); }
+  .slide .body { margin-top: auto; }
+
+  /* capa (hook) */
+  .slide.cover .hook { font-family: "Anton", Impact, sans-serif; font-weight: 400; font-size: 42px; line-height: .98; letter-spacing: .3px; text-transform: uppercase; }
+  .slide.cover .hook .r { color: var(--vermelho); }
+  .slide.cover .swipe { margin-top: 14px; font-size: 12px; font-weight: 700; color: rgba(255,255,255,.85); letter-spacing: 1px; text-transform: uppercase; display:flex; align-items:center; gap:6px; }
+
+  .slide .txt { font-size: 20px; font-weight: 700; line-height: 1.24; letter-spacing: -.2px; }
+  .slide .txt .r { color: #ff6a6f; }
+  .slide.small .txt { font-size: 18px; }
+
+  /* punchline */
+  .slide.punch .photo { background: linear-gradient(180deg,#1c1d23 0%, #16171b 100%); }
+  .slide.punch .txt { font-size: 21px; }
+  .slide.punch .txt b { color: #ff6a6f; }
+
+  /* CTA slide */
+  .slide.cta .photo { background: linear-gradient(160deg, var(--vermelho) 0%, #9c141a 100%); }
+  .slide.cta .photo::after { color: rgba(255,255,255,.3); border-color: rgba(255,255,255,.25); }
+  .slide.cta .grad { background: linear-gradient(180deg, rgba(120,10,14,.2) 0%, rgba(120,10,14,.55) 100%); }
+  .slide.cta .txt { font-size: 22px; }
+  .slide.cta .contato { margin-top: 14px; font-size: 12.5px; font-weight: 600; line-height: 1.6; border-top: 1px solid rgba(255,255,255,.3); padding-top: 12px; }
+  .slide.cta .contato .ico { margin-right: 5px; }
+  .slide .faixa { position:absolute; bottom:0; left:0; right:0; z-index:3; height: 3px; background: var(--vermelho); }
+
+  /* ===== POST / LEGENDA (mock IG) ===== */
+  .post { max-width: 500px; margin: 34px auto 0; background: #fff; border: 1px solid #d5d2d8; border-radius: 14px; overflow: hidden; box-shadow: 0 6px 22px rgba(0,0,0,.08); }
+  .post .phead { display: flex; align-items: center; gap: 10px; padding: 12px 14px; border-bottom: 1px solid #efedf1; }
+  .post .ava { width: 34px; height: 34px; border-radius: 50%; background: linear-gradient(135deg, var(--vermelho), #16171b); display:flex; align-items:center; justify-content:center; color:#fff; font-weight:800; font-size:13px; }
+  .post .pname { font-size: 13.5px; font-weight: 700; color: #16171b; }
+  .post .ploc { font-size: 11.5px; color: #77727c; }
+  .post .pcap { padding: 14px 16px 18px; font-size: 14px; line-height: 1.55; color: #26242a; }
+  .post .pcap p { margin-bottom: 10px; }
+  .post .pcap .em { font-weight: 700; }
+  .post .pcap .cta { color: var(--vermelho); font-weight: 700; }
+  .post .pcap .contato { color:#55505a; font-size: 13px; }
+  .caplabel { text-align:center; font-size: 11px; font-weight:800; letter-spacing:2px; text-transform:uppercase; color:#8a8288; margin: 30px 0 8px; }
+  .foot { text-align:center; font-size: 12px; color:#7a747e; margin-top: 34px; line-height:1.6; }
+  .foot b { color:#55505a; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="head">
+    <div class="kick">Complexo Esportivo Vida · Rascunho de carrossel</div>
+    <h1>"Precisamos pedir desculpas."</h1>
+    <p>Post de posicionamento — a pessoa no centro. A capa provoca curiosidade, os slides entregam a virada: o "pedido de desculpas" é um elogio disfarçado.</p>
+  </div>
+  <div class="center"><div class="hint">Mockup de layout · a arte final usa <b>foto real</b> (as áreas tracejadas mostram onde entra cada foto) · arrasta os slides →</div></div>
+
+  <div class="carousel">
+
+    <!-- 1 CAPA -->
+    <div class="slide cover">
+      <div class="photo" data-foto="foto real: professor + aluno · escurecida"></div>
+      <div class="grad"></div>
+      <div class="counter">1/7</div>
+      <div class="marca"><b>VIDA</b> · @complexovida</div>
+      <div class="inner"><div class="body">
+        <div class="hook">Precisamos<br>pedir<br><span class="r">desculpas.</span></div>
+        <div class="swipe">arrasta →</div>
+      </div></div>
+      <div class="faixa"></div>
+    </div>
+
+    <!-- 2 -->
+    <div class="slide">
+      <div class="photo" data-foto="foto real: salão cheio / vista ampla"></div>
+      <div class="grad"></div>
+      <div class="counter">2/7</div>
+      <div class="marca"><b>VIDA</b></div>
+      <div class="inner"><div class="body"><div class="txt">Se você queria só mais uma academia pra bater ponto e sumir na multidão, a gente pede desculpa: <span class="r">aqui não é assim.</span></div></div></div>
+      <div class="faixa"></div>
+    </div>
+
+    <!-- 3 -->
+    <div class="slide small">
+      <div class="photo" data-foto="foto real: professor conversando com aluno"></div>
+      <div class="grad"></div>
+      <div class="counter">3/7</div>
+      <div class="marca"><b>VIDA</b></div>
+      <div class="inner"><div class="body"><div class="txt">Aqui o professor vai saber <span class="r">teu nome</span> e o que você veio buscar. E vai reparar quando você sumir uma semana.</div></div></div>
+      <div class="faixa"></div>
+    </div>
+
+    <!-- 4 -->
+    <div class="slide small">
+      <div class="photo" data-foto="foto real: sala de avaliação / correção de movimento"></div>
+      <div class="grad"></div>
+      <div class="counter">4/7</div>
+      <div class="marca"><b>VIDA</b></div>
+      <div class="inner"><div class="body"><div class="txt">Tem avaliação física pra saber de onde você parte, e sempre alguém do teu lado ajeitando o movimento. <span class="r">Você não treina no escuro.</span></div></div></div>
+      <div class="faixa"></div>
+    </div>
+
+    <!-- 5 -->
+    <div class="slide small">
+      <div class="photo" data-foto="foto real: aluno treinando tranquilo"></div>
+      <div class="grad"></div>
+      <div class="counter">5/7</div>
+      <div class="marca"><b>VIDA</b></div>
+      <div class="inner"><div class="body"><div class="txt">E o foco aqui é outro: dormir melhor, subir a ladeira sem parar, ter disposição pro dia. <span class="r">Saúde de verdade.</span></div></div></div>
+      <div class="faixa"></div>
+    </div>
+
+    <!-- 6 PUNCHLINE -->
+    <div class="slide punch">
+      <div class="photo" data-foto="foto real: recepção / clima acolhedor"></div>
+      <div class="grad"></div>
+      <div class="counter">6/7</div>
+      <div class="marca"><b>VIDA</b></div>
+      <div class="inner"><div class="body"><div class="txt">Então desculpa mesmo pra quem só queria um número de matrícula. Aqui <b>você é gente que a gente conhece, cuida e acompanha.</b></div></div></div>
+      <div class="faixa"></div>
+    </div>
+
+    <!-- 7 CTA -->
+    <div class="slide cta">
+      <div class="photo" data-foto="foto real: fachada / recepção"></div>
+      <div class="grad"></div>
+      <div class="counter">7/7</div>
+      <div class="marca" style="color:#fff;">VIDA</div>
+      <div class="inner"><div class="body">
+        <div class="txt">É isso que você procura? Vem conhecer o Complexo Vida.</div>
+        <div class="contato"><span class="ico">📲</span>(22) 99611-9083<br>Rua Oscarino de Andrade · São Vicente de Paula</div>
+      </div></div>
+    </div>
+
+  </div>
+
+  <div class="caplabel">— como fica no feed —</div>
+  <div class="post">
+    <div class="phead">
+      <div class="ava">CV</div>
+      <div><div class="pname">complexovida</div><div class="ploc">São Vicente de Paula · Araruama</div></div>
+    </div>
+    <div class="slide cover" style="width:100%; height:auto; aspect-ratio:1/1; border-radius:0; box-shadow:none;">
+      <div class="photo" data-foto="foto real: professor + aluno · escurecida"></div>
+      <div class="grad"></div>
+      <div class="counter">1/7</div>
+      <div class="marca"><b>VIDA</b> · @complexovida</div>
+      <div class="inner"><div class="body">
+        <div class="hook">Precisamos<br>pedir<br><span class="r">desculpas.</span></div>
+        <div class="swipe">arrasta →</div>
+      </div></div>
+      <div class="faixa"></div>
+    </div>
+    <div class="pcap">
+      <p><span class="em">complexovida</span> A gente precisa se desculpar com uma parte das pessoas. 🙃</p>
+      <p>Se você procura a academia mais lotada e mais anônima, onde dá pra treinar meses sem ninguém saber teu nome — desculpa, o Complexo Vida não é isso.</p>
+      <p>Aqui o professor te conhece, tem avaliação pra saber de onde você parte, tem gente do teu lado o treino todo, e o foco é saúde de verdade. Arrasta pra ver por quê.</p>
+      <p>No fim, a "desculpa" é essa: você não é um número aqui. É gente que a gente conhece e acompanha, pertinho de casa, aqui em São Vicente de Paula.</p>
+      <p class="cta">👉 Marca alguém que merece treinar num lugar que sabe o nome dele.</p>
+      <p class="contato">📲 (22) 99611-9083 · Rua Oscarino de Andrade · São Vicente de Paula</p>
+    </div>
+  </div>
+
+  <div class="foot">
+    <b>Mockup de layout — Lone Mídia.</b> As áreas tracejadas mostram onde entra a foto real (captação interna).<br>
+    A arte final é produzida pelo designer na identidade do Complexo Vida (preto · vermelho · branco).
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Série Isso Tem Nome · CIIL · Lone Mídia</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  @page { size: A4; margin: 0; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; background: #e8e8e8; color: #12222e; -webkit-print-color-adjust: exact; print-color-adjust: exact; font-feature-settings: "ss01", "cv11"; }
+  .page { width: 210mm; height: 297mm; position: relative; page-break-after: always; background: #ffffff; display: flex; flex-direction: column; overflow: hidden; margin: 16px auto; box-shadow: 0 4px 28px rgba(0,0,0,0.10); }
+  .page:last-child { page-break-after: auto; }
+  @media print { body { background: #fff; } .page { margin: 0; box-shadow: none; } }
+  .top-header { padding: 12mm 16mm 5mm; display: flex; justify-content: space-between; align-items: center; border-bottom: 0.5mm solid #1A7FBD; margin-bottom: 8mm; }
+  .brand img { height: 7mm; width: auto; display: block; }
+  .header-badge { background: #f0f6fa; border: 0.3mm solid #d7e6ef; padding: 2mm 4mm; border-radius: 1.2mm; font-size: 2.5mm; color: #4a6072; letter-spacing: 0.5px; }
+  .header-badge strong { color: #0D5A8C; font-weight: 700; margin-left: 1.5mm; }
+  .header-badge .dot { margin: 0 1.5mm; color: #a9c3d4; }
+  .page-body { flex: 1; padding: 0 16mm; display: flex; flex-direction: column; overflow: hidden; }
+  footer.page-footer { padding: 4mm 16mm 6mm; display: flex; justify-content: space-between; align-items: center; font-size: 2.4mm; color: #8a97a0; letter-spacing: 0.3px; }
+  footer.page-footer .footer-brand strong { color: #4a6072; font-weight: 600; }
+  .cover-body { flex: 1; padding: 0 16mm 0; display: flex; flex-direction: column; justify-content: flex-end; }
+  .cover-kicker { font-size: 2.6mm; font-weight: 700; color: #6db6de; letter-spacing: 3px; text-transform: uppercase; margin-bottom: 6mm; }
+  .cover-title { font-size: 26mm; font-weight: 800; line-height: 1.02; letter-spacing: -1.5px; color: #ffffff; margin-bottom: 8mm; }
+  .cover-title .accent { color: #2EAEE8; }
+  .cover-description { font-size: 4mm; font-weight: 400; line-height: 1.5; color: #c9dbe6; max-width: 140mm; margin-bottom: 26mm; }
+  .cover-divider { height: 0.3mm; background: #2c4c5e; margin-bottom: 12mm; }
+  .cover-metrics { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8mm; margin-bottom: 14mm; }
+  .cover-metric .num { font-size: 17mm; font-weight: 800; line-height: 1; color: #ffffff; letter-spacing: -1px; margin-bottom: 2.5mm; }
+  .cover-metric .label { font-size: 2.3mm; font-weight: 600; color: #8fb4c8; letter-spacing: 1.3px; text-transform: uppercase; line-height: 1.4; }
+  .page.cover-page { background: #0a2233; color: #ffffff; }
+  .page.cover-page .top-header { border-bottom-color: #1A7FBD; }
+  .page.cover-page .header-badge { background: rgba(255,255,255,0.07); border-color: rgba(255,255,255,0.18); color: #c9dbe6; }
+  .page.cover-page .header-badge strong { color: #ffffff; }
+  .page.cover-page footer.page-footer { color: #5c7a8c; }
+  .page.cover-page footer.page-footer .footer-brand strong { color: #8fb4c8; }
+  .section-title-block { display: flex; align-items: center; gap: 5mm; margin-bottom: 7mm; }
+  .section-tag { background: #0D5A8C; color: #ffffff; padding: 1.8mm 3.5mm; border-radius: 1mm; font-size: 2.3mm; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; }
+  .section-title { font-size: 12mm; font-weight: 800; color: #0D5A8C; line-height: 1; letter-spacing: -1px; }
+  .page-title { font-size: 10.5mm; font-weight: 800; color: #0D5A8C; line-height: 1; letter-spacing: -0.8px; margin-bottom: 1.5mm; }
+  .page-subtitle { font-size: 2.6mm; font-weight: 700; color: #5a7284; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 8mm; }
+  .sub-section { display: flex; align-items: center; gap: 3mm; margin-bottom: 5mm; margin-top: 2mm; }
+  .sub-num { background: #2EAEE8; color: #ffffff; width: 6mm; height: 6mm; border-radius: 1mm; display: flex; align-items: center; justify-content: center; font-size: 3mm; font-weight: 800; }
+  .sub-title { font-size: 3.2mm; font-weight: 800; color: #0D5A8C; letter-spacing: 1.3px; text-transform: uppercase; }
+  .rule-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 3mm; margin-bottom: 7mm; }
+  .rule-card { background: #f0f6fa; border-radius: 1.5mm; padding: 4mm 4.5mm; border-left: 1.5mm solid #1A7FBD; }
+  .rule-card h3 { font-size: 3mm; font-weight: 800; color: #0D5A8C; margin-bottom: 1.5mm; letter-spacing: -0.1px; }
+  .rule-card p { font-size: 2.35mm; line-height: 1.42; color: #3d5566; }
+  .rule-card p strong { color: #12222e; }
+  .schedule { width: 100%; border-collapse: separate; border-spacing: 0 2mm; margin-bottom: 4mm; }
+  .schedule thead th { font-size: 2.1mm; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; color: #5a7284; text-align: left; padding: 0 3mm 1.5mm; }
+  .schedule tbody tr { background: #f7fafc; }
+  .schedule tbody td { padding: 3mm 3mm; font-size: 2.6mm; color: #12222e; vertical-align: middle; }
+  .schedule tbody td:first-child { border-radius: 1mm 0 0 1mm; font-weight: 800; color: #0D5A8C; white-space: nowrap; }
+  .schedule tbody td:last-child { border-radius: 0 1mm 1mm 0; }
+  .schedule .sch-doenca { font-weight: 700; }
+  .schedule .sch-tag { display: inline-block; background: #1A7FBD; color: #fff; font-size: 1.9mm; font-weight: 800; letter-spacing: 1px; text-transform: uppercase; padding: 0.8mm 2mm; border-radius: 0.6mm; }
+  .stamp-block { display: flex; align-items: center; gap: 5mm; background: #12222e; border-radius: 1.5mm; padding: 5mm 6mm; margin-top: 3mm; }
+  .stamp-badge { background: #2EAEE8; color: #0a2233; font-weight: 800; font-size: 3.4mm; letter-spacing: 1px; padding: 2.5mm 4mm; border-radius: 1mm; white-space: nowrap; }
+  .stamp-block p { font-size: 2.4mm; line-height: 1.5; color: #c9dbe6; }
+  .stamp-block p strong { color: #ffffff; }
+  .pieces-stack { display: flex; flex-direction: column; gap: 5mm; flex: 1; }
+  .piece { border: 0.3mm solid #dbe7ee; border-radius: 1.5mm; overflow: hidden; background: #ffffff; }
+  .piece-top { background: #0D5A8C; color: #ffffff; padding: 3mm 5mm; display: flex; justify-content: space-between; align-items: center; }
+  .piece-top .seal { display: flex; align-items: center; gap: 2.5mm; }
+  .piece-top .seal-badge { background: #2EAEE8; color: #0a2233; font-size: 2.1mm; font-weight: 800; letter-spacing: 1.5px; padding: 1mm 2.2mm; border-radius: 0.6mm; text-transform: uppercase; }
+  .piece-top .seal-name { font-size: 3.6mm; font-weight: 800; letter-spacing: -0.2px; }
+  .piece-top .piece-meta { font-size: 2.2mm; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: #bfe0f2; text-align: right; }
+  .piece-top .piece-meta .fmt { display: block; background: rgba(255,255,255,0.15); padding: 0.8mm 2mm; border-radius: 0.6mm; margin-top: 1mm; }
+  .piece-body { padding: 5mm 6mm 5.5mm; }
+  .piece-art { background: #f0f6fa; border-left: 0.8mm solid #1A7FBD; padding: 3mm 4mm; border-radius: 0 1mm 1mm 0; margin-bottom: 3.5mm; }
+  .piece-headline { font-size: 4.3mm; font-weight: 800; color: #0D5A8C; line-height: 1.18; letter-spacing: -0.2px; margin-bottom: 1.8mm; }
+  .piece-subtext { font-size: 2.6mm; line-height: 1.42; color: #3d5566; margin-bottom: 2.5mm; }
+  .piece-sinais { font-size: 2.5mm; line-height: 1.55; color: #23394a; }
+  .piece-sinais .lbl { font-size: 2.0mm; font-weight: 800; letter-spacing: 1.3px; text-transform: uppercase; color: #1A7FBD; display: block; margin-bottom: 1mm; }
+  .piece-assinatura { font-size: 2.4mm; font-style: italic; color: #5a7284; margin-top: 2mm; }
+  .piece-dev-label { font-size: 2.0mm; font-weight: 800; letter-spacing: 1.3px; text-transform: uppercase; color: #1A7FBD; display: block; margin-bottom: 1mm; }
+  .piece-fechamento { font-size: 2.6mm; line-height: 1.42; color: #0D5A8C; font-weight: 600; margin-top: 2.5mm; padding-top: 2.5mm; border-top: 0.2mm solid #d7e6ef; }
+  .piece-fechamento .fch-label { font-size: 2.0mm; font-weight: 800; letter-spacing: 1.3px; text-transform: uppercase; color: #1A7FBD; display: block; margin-bottom: 1mm; }
+  .piece-block-label { font-size: 2.1mm; font-weight: 800; color: #1A7FBD; letter-spacing: 1.5px; text-transform: uppercase; margin-bottom: 1.5mm; }
+  .piece-legenda { margin-bottom: 3mm; }
+  .piece-legenda .piece-block-text { font-size: 2.42mm; line-height: 1.42; color: #23394a; }
+  .piece-legenda .piece-block-text + .piece-block-text { margin-top: 1.6mm; }
+  .piece-cta { background: #eaf6fb; border-left: 0.8mm solid #2EAEE8; padding: 2mm 3.5mm; border-radius: 0 0.8mm 0.8mm 0; margin-top: 1mm; font-size: 2.5mm; color: #0D5A8C; font-weight: 600; }
+  .piece-cta strong { color: #1A7FBD; letter-spacing: 0.3px; }
+  .piece-hashtags { font-size: 2.1mm; color: #6a8598; line-height: 1.5; margin-top: 2.8mm; }
+  .gate-note { background: #fdf6ea; border-left: 0.8mm solid #c2851e; padding: 2mm 3.5mm; border-radius: 0 0.8mm 0.8mm 0; margin-top: 3mm; font-size: 2.2mm; color: #7a5a14; line-height: 1.4; }
+  .gate-note strong { color: #8a5e0a; }
+  .closing-body { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 0 28mm; text-align: center; }
+  .closing-logo { height: 13mm; width: auto; margin-bottom: 6mm; }
+  .closing-tag { font-size: 2.6mm; font-weight: 600; color: #5a7284; letter-spacing: 4px; text-transform: uppercase; margin-bottom: 12mm; }
+  .closing-message { font-size: 3.1mm; line-height: 1.62; color: #33475a; max-width: 132mm; margin-bottom: 10mm; }
+  .closing-rule { width: 18mm; height: 0.6mm; background: #1A7FBD; margin-bottom: 8mm; }
+  .closing-footer { font-size: 2.5mm; font-weight: 700; color: #5a7284; letter-spacing: 2px; text-transform: uppercase; line-height: 1.7; }
+  .pend-list { text-align: left; margin-top: 8mm; background: #f0f6fa; border-radius: 1.5mm; padding: 5mm 6mm; max-width: 150mm; }
+  .pend-list .pend-title { font-size: 2.3mm; font-weight: 800; letter-spacing: 1.5px; text-transform: uppercase; color: #0D5A8C; margin-bottom: 2.5mm; }
+  .pend-list ul { list-style: none; }
+  .pend-list li { font-size: 2.35mm; line-height: 1.5; color: #33475a; margin-bottom: 1.6mm; padding-left: 3.5mm; position: relative; }
+  .pend-list li::before { content: "→"; position: absolute; left: 0; color: #1A7FBD; font-weight: 800; }
+  .pend-list li strong { color: #12222e; }
+</style>
+</head>
+<body>
+
+<!-- P1 COVER -->
+<section class="page cover-page">
+  <div class="top-header"><div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-branco-azul.png" alt="Lone Mídia"></div><div class="header-badge">CLIENTE <span class="dot">·</span><strong>CIIL</strong></div></div>
+  <div class="cover-body">
+    <div class="cover-kicker">SÉRIE EDITORIAL · CONTEÚDO</div>
+    <h1 class="cover-title">Isso Tem<br><span class="accent">Nome.</span></h1>
+    <p class="cover-description">3 posts estáticos, formato rápido, 1 por semana — abrindo a série que o próprio cliente pediu: <strong style="color:#fff;">falar das doenças autoimunes que a CIIL trata</strong>, pra quem sente os sinais e nunca soube que aquilo tinha nome e tratamento. Araruama e São Gonçalo.</p>
+    <div class="cover-divider"></div>
+    <div class="cover-metrics">
+      <div class="cover-metric"><div class="num">3</div><div class="label">POSTS<br>ESTÁTICOS</div></div>
+      <div class="cover-metric"><div class="num">1</div><div class="label">POR<br>SEMANA</div></div>
+      <div class="cover-metric"><div class="num">2</div><div class="label">UNIDADES<br>ATENDIDAS</div></div>
+      <div class="cover-metric"><div class="num">6</div><div class="label">DOENÇAS NA<br>SÉRIE COMPLETA</div></div>
+    </div>
+  </div>
+  <footer class="page-footer"><div class="footer-brand"><strong>LONE MÍDIA</strong> · Série Isso Tem Nome · CIIL</div><div class="page-num">1 / 6</div></footer>
+</section>
+
+<!-- P2 VISÃO GERAL -->
+<section class="page">
+  <div class="top-header"><div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia"></div><div class="header-badge">CLIENTE <span class="dot">·</span><strong>CIIL</strong></div></div>
+  <div class="page-body">
+    <h2 class="page-title">Visão Geral</h2>
+    <div class="page-subtitle">MUITA GENTE TEM A DOENÇA E NEM SABE QUE TEM NOME</div>
+
+    <div class="sub-section"><div class="sub-num">1</div><div class="sub-title">DE ONDE VEIO</div></div>
+    <div class="rule-grid">
+      <div class="rule-card"><h3>O pedido do cliente</h3><p>"Muita gente tem a doença e nem sabe dos tratamentos, nem consegue um médico capaz de identificar e tratar." A série nasceu dessa fala — <strong>uma doença por peça</strong>, "e assim vai".</p></div>
+      <div class="rule-card"><h3>A fórmula fixa</h3><p><strong>Reconhecer sinais</strong> → afirmar que há <strong>tratamento que controla</strong> (nunca "cura" — são doenças crônicas) → convite a <strong>buscar avaliação</strong>. Nunca autodiagnóstico.</p></div>
+    </div>
+
+    <div class="sub-section"><div class="sub-num">2</div><div class="sub-title">CALENDÁRIO · LARGADA + PRÓXIMAS SEGUNDAS</div></div>
+    <table class="schedule">
+      <thead><tr><th>Data</th><th>Doença</th><th>Título</th><th></th></tr></thead>
+      <tbody>
+        <tr><td>03/07 · Sex</td><td class="sch-doenca">Psoríase</td><td>A descamação que sempre volta pode não ser caspa</td><td><span class="sch-tag">Largada</span></td></tr>
+        <tr><td>06/07 · Seg</td><td class="sch-doenca">Artrite Reumatoide</td><td>Já foi em três médicos e ninguém deu nome pra essa dor?</td><td><span class="sch-tag">Semana 2</span></td></tr>
+        <tr><td>13/07 · Seg</td><td class="sch-doenca">Dermatite Atópica</td><td>Aquela coceira que rouba o sono todo santo dia tem nome</td><td><span class="sch-tag">Semana 3</span></td></tr>
+      </tbody>
+    </table>
+
+    <div class="stamp-block">
+      <div class="stamp-badge">ISSO<br>TEM NOME</div>
+      <p><strong>Selo fixo da série</strong> em toda peça — mesma posição, cor e tipografia; só o nome da doença varia. Copy enxuta: <strong>Título → Desenvolvimento → Fechamento</strong> (fala da CIIL + do tratamento). O título nunca repete o padrão da peça anterior. Conteúdo <strong>idêntico nas duas unidades</strong> (@ciilagos + @ciil.sg) — só muda o rodapé fixo de design.</p>
+    </div>
+
+    <div class="sub-section" style="margin-top:6mm;"><div class="sub-num">3</div><div class="sub-title">O QUE VEM DEPOIS</div></div>
+    <div class="rule-grid">
+      <div class="rule-card"><h3>Próximas 2 doenças</h3><p><strong>Espondilite Anquilosante</strong> (dor lombar que melhora com movimento) e <strong>Artrite Psoriática</strong> (fecha o arco pele→juntas) — estático ou <strong>carrossel curto</strong> (2-3 slides, ref. @imunovidavacinas).</p></div>
+      <div class="rule-card"><h3>Peça de vídeo (opcional)</h3><p>Roteiro de <strong>Doença de Crohn</strong> em Reel já está pronto, estilo especialista em câmera (referência @imunovitta) — entra numa quarta quando quiser injetar vídeo.</p></div>
+    </div>
+  </div>
+  <footer class="page-footer"><div class="footer-brand"><strong>LONE MÍDIA</strong> · Série Isso Tem Nome · CIIL</div><div class="page-num">2 / 6</div></footer>
+</section>
+
+<!-- P3 — PSORÍASE -->
+<section class="page">
+  <div class="top-header"><div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia"></div><div class="header-badge">CLIENTE <span class="dot">·</span><strong>CIIL</strong></div></div>
+  <div class="page-body">
+    <div class="section-title-block"><div class="section-tag">LARGADA</div><div class="section-title">03/07 · Sexta</div></div>
+    <div class="pieces-stack">
+      <div class="piece">
+        <div class="piece-top">
+          <div class="seal"><span class="seal-badge">Isso Tem Nome</span><span class="seal-name">Psoríase</span></div>
+          <div class="piece-meta">Educativo <span class="fmt">Estático</span></div>
+        </div>
+        <div class="piece-body">
+          <div class="piece-art">
+            <div class="piece-headline">A descamação que sempre volta pode não ser caspa</div>
+            <div class="piece-sinais"><span class="piece-dev-label">Desenvolvimento (tópicos)</span>
+              · Placas avermelhadas com escamas, principalmente no couro cabeludo, cotovelos e joelhos<br>
+              · Descamação que sempre volta, mesmo trocando de xampu<br>
+              · Coceira ou pele repuxando nas placas
+            </div>
+            <div class="piece-fechamento"><span class="fch-label">Fechamento</span>Isso pode ser psoríase. Tem tratamento — e a CIIL cuida disso com acompanhamento especializado. Muita gente não sabe que dá pra tratar por aqui.</div>
+          </div>
+          <div class="piece-legenda">
+            <div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">Aquela descamação que sempre volta — você já trocou de xampu, já testou hidratante, e nada resolve de vez.</div>
+            <div class="piece-block-text">Isso pode ser psoríase: uma doença crônica da pele, não é falta de higiene e não pega. Aparece em placas avermelhadas com escamas, principalmente no couro cabeludo, cotovelos e joelhos.</div>
+            <div class="piece-block-text">Tem tratamento — e a CIIL cuida disso com acompanhamento especializado, em day clinic, sem internação. Muita gente não sabe que dá pra tratar por aqui.</div>
+          </div>
+          <div class="piece-cta"><strong>CTA:</strong> Agende uma avaliação. Chame a gente no WhatsApp. · Marque quem troca de xampu há anos e a descamação sempre volta.</div>
+          <div class="piece-hashtags">#psoriase #doencasautoimunes #imunobiologicos #saudedapele #imunologia #dermatologia #ciil #regiaodoslagos #araruama #saogoncalo</div>
+          <div class="gate-note"><strong>Gate de escopo (bloqueante):</strong> não publicar até confirmar que a CIIL faz a infusão do imunobiológico pra psoríase nas duas unidades + que atende/encaminha dermatologista. Validação clínica do responsável técnico médico segue pendente.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer class="page-footer"><div class="footer-brand"><strong>LONE MÍDIA</strong> · Série Isso Tem Nome · CIIL</div><div class="page-num">3 / 6</div></footer>
+</section>
+
+<!-- P4 — ARTRITE REUMATOIDE -->
+<section class="page">
+  <div class="top-header"><div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia"></div><div class="header-badge">CLIENTE <span class="dot">·</span><strong>CIIL</strong></div></div>
+  <div class="page-body">
+    <div class="section-title-block"><div class="section-tag">SEMANA 2</div><div class="section-title">06/07 · Segunda</div></div>
+    <div class="pieces-stack">
+      <div class="piece">
+        <div class="piece-top">
+          <div class="seal"><span class="seal-badge">Isso Tem Nome</span><span class="seal-name">Artrite Reumatoide</span></div>
+          <div class="piece-meta">Educativo <span class="fmt">Estático</span></div>
+        </div>
+        <div class="piece-body">
+          <div class="piece-art">
+            <div class="piece-headline">Já foi em três médicos e ninguém deu nome pra essa dor nas mãos?</div>
+            <div class="piece-subtext"><span class="piece-dev-label">Desenvolvimento (frase)</span>A mão acorda travada, o inchaço bate nos dois lados ao mesmo tempo, e tarefas simples como girar a chave viram difíceis logo cedo.</div>
+            <div class="piece-fechamento"><span class="fch-label">Fechamento</span>Isso pode ser artrite reumatoide. Tem tratamento — a CIIL cuida disso com acompanhamento de perto. Muita gente não sabe que dá pra tratar por aqui.</div>
+          </div>
+          <div class="piece-legenda">
+            <div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">Já foi em três médicos e ninguém deu nome pra essa dor nas mãos?</div>
+            <div class="piece-block-text">A mão acorda travada, o inchaço bate nos dois lados ao mesmo tempo, e tarefas simples como girar a chave viram difíceis logo cedo. Isso pode ser artrite reumatoide — o próprio sistema de defesa atacando a articulação por engano, diferente do desgaste da artrose.</div>
+            <div class="piece-block-text">Tem tratamento — as terapias imunobiológicas ajudam a controlar a inflamação, e a CIIL faz essa infusão com acompanhamento de perto. Muita gente não sabe que dá pra tratar por aqui.</div>
+          </div>
+          <div class="piece-cta"><strong>CTA:</strong> Procure um reumatologista pra avaliar. · Marque quem convive com essa dor há tempo e nunca investigou a fundo.</div>
+          <div class="piece-hashtags">#ArtriteReumatoide #DoençasAutoimunes #Reumatologia #Imunobiológicos #SaúdeImunológica #Autoimune #CIIL #Araruama #RegiãoDosLagos #SãoGonçalo</div>
+          <div class="gate-note"><strong>Gate de escopo (bloqueante):</strong> não publicar até confirmar que a CIIL faz a infusão do imunobiológico pra artrite reumatoide nas duas unidades. Termo "referência em imunologia" também depende do aval do responsável técnico médico.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer class="page-footer"><div class="footer-brand"><strong>LONE MÍDIA</strong> · Série Isso Tem Nome · CIIL</div><div class="page-num">4 / 6</div></footer>
+</section>
+
+<!-- P5 — DERMATITE ATÓPICA -->
+<section class="page">
+  <div class="top-header"><div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia"></div><div class="header-badge">CLIENTE <span class="dot">·</span><strong>CIIL</strong></div></div>
+  <div class="page-body">
+    <div class="section-title-block"><div class="section-tag">SEMANA 3</div><div class="section-title">13/07 · Segunda</div></div>
+    <div class="pieces-stack">
+      <div class="piece">
+        <div class="piece-top">
+          <div class="seal"><span class="seal-badge">Isso Tem Nome</span><span class="seal-name">Dermatite Atópica</span></div>
+          <div class="piece-meta">Educativo <span class="fmt">Estático</span></div>
+        </div>
+        <div class="piece-body">
+          <div class="piece-art">
+            <div class="piece-headline">Aquela coceira que rouba o sono todo santo dia tem nome.</div>
+            <div class="piece-sinais"><span class="piece-dev-label">Desenvolvimento (tópicos)</span>
+              · Coceira que atrapalha o sono, principalmente à noite<br>
+              · Pele que resseca e volta a inflamar sempre nos mesmos lugares<br>
+              · Fases que vão e voltam, sem "ficar bom de vez"
+            </div>
+            <div class="piece-fechamento"><span class="fch-label">Fechamento</span>Isso pode ser dermatite atópica. Tem tratamento — e a CIIL cuida disso com acompanhamento especializado. Muita gente não sabe que dá pra tratar por aqui.</div>
+          </div>
+          <div class="piece-legenda">
+            <div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">Aquela coceira que rouba o sono todo santo dia — você já trocou de sabonete, testou hidratante caro, cortou alimento, e nada resolve.</div>
+            <div class="piece-block-text">Isso pode ser dermatite atópica: uma inflamação crônica da pele, que costuma voltar sempre nos mesmos lugares (dobra dos braços, atrás dos joelhos, rosto). Em bebês, aparece no rosto e no couro cabeludo.</div>
+            <div class="piece-block-text">Tem tratamento — nos casos mais intensos, o imunobiológico ajuda a controlar as crises, e a CIIL cuida disso com acompanhamento. Muita gente não sabe que dá pra tratar por aqui.</div>
+          </div>
+          <div class="piece-cta"><strong>CTA:</strong> Agende uma avaliação. Chame a gente no WhatsApp. · Marque quem perde noite de sono se coçando.</div>
+          <div class="piece-hashtags">#DermatiteAtopica #DoençasAutoimunes #Imunobiológicos #SaúdeDaPele #Imunologia #Alergologia #CIIL #Araruama #RegiãoDosLagos #SãoGonçalo</div>
+          <div class="gate-note"><strong>Gate de escopo (bloqueante):</strong> não publicar até confirmar que a CIIL faz a infusão do imunobiológico pra dermatite atópica nas duas unidades + que atende/encaminha dermato ou alergista-imunologista.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer class="page-footer"><div class="footer-brand"><strong>LONE MÍDIA</strong> · Série Isso Tem Nome · CIIL</div><div class="page-num">5 / 6</div></footer>
+</section>
+
+<!-- P6 CLOSING -->
+<section class="page">
+  <div class="top-header"><div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia"></div><div class="header-badge">CLIENTE <span class="dot">·</span><strong>CIIL</strong></div></div>
+  <div class="closing-body">
+    <img class="closing-logo" src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia">
+    <div class="closing-tag">MARKETING &amp; VENDAS · SAÚDE</div>
+    <p class="closing-message">O fio da série é reconhecer: aquilo que a pessoa tratava como "frescura" ou "coisa de idade" pode ter nome — e tratamento. Copy enxuta (Título → Desenvolvimento → Fechamento), sem prometer cura e sem induzir autodiagnóstico, com o título sempre variando de peça pra peça. Próximas entradas podem virar carrossel curto (2-3 slides) quando fizer sentido — não precisa ser sempre estático.</p>
+    <div class="closing-rule"></div>
+    <div class="pend-list">
+      <div class="pend-title">Pendências antes de publicar</div>
+      <ul>
+        <li>Confirmar com PH + responsável técnico médico o <strong>gate de escopo</strong> de cada doença (a CIIL faz a infusão do imunobiológico pra ela? qual especialidade encaminha?).</li>
+        <li><strong>Validação clínica</strong> de todos os claims — nenhuma peça publica sem o OK do responsável técnico médico.</li>
+        <li><strong>Foto autoral</strong> nos moldes pedidos no brief de cada peça (rotina, luz natural, sem close de lesão).</li>
+        <li>2–3 <strong>referências de Pinterest</strong> por peça, curadas por PH, antes de mandar pro designer.</li>
+      </ul>
+    </div>
+    <div class="closing-footer" style="margin-top:8mm;">SÉRIE ISSO TEM NOME · JULHO 2026<br>ARARUAMA · SÃO GONÇALO</div>
+  </div>
+  <footer class="page-footer"><div class="footer-brand"><strong>LONE MÍDIA</strong> · Série Isso Tem Nome · CIIL</div><div class="page-num">6 / 6</div></footer>
+</section>
+
+</body>
+</html>

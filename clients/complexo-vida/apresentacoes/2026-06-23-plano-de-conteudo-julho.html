@@ -1,0 +1,607 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Plano de Conteúdo · Complexo Vida · Julho 2026 · Lone Mídia</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  @page { size: A4; margin: 0; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { font-family: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; background: #e8e8e8; color: #1a1a1a; -webkit-print-color-adjust: exact; print-color-adjust: exact; font-feature-settings: "ss01", "cv11"; }
+  .page { width: 210mm; height: 297mm; position: relative; page-break-after: always; background: #ffffff; display: flex; flex-direction: column; overflow: hidden; margin: 16px auto; box-shadow: 0 4px 28px rgba(0,0,0,0.10); }
+  .page:last-child { page-break-after: auto; }
+  @media print { body { background: #fff; } .page { margin: 0; box-shadow: none; } }
+  .top-header { padding: 12mm 16mm 5mm; display: flex; justify-content: space-between; align-items: center; border-bottom: 0.5mm solid #d61f26; margin-bottom: 8mm; }
+  .brand img { height: 7mm; width: auto; display: block; }
+  .header-badge { background: #f6f3f3; border: 0.3mm solid #e0d4d4; padding: 2mm 4mm; border-radius: 1.2mm; font-size: 2.5mm; color: #5a4a4a; letter-spacing: 0.5px; }
+  .header-badge strong { color: #16171b; font-weight: 700; margin-left: 1.5mm; }
+  .header-badge .dot { margin: 0 1.5mm; color: #c4b6b6; }
+  .page-body { flex: 1; padding: 0 16mm; display: flex; flex-direction: column; overflow: hidden; }
+  footer.page-footer { padding: 4mm 16mm 6mm; display: flex; justify-content: space-between; align-items: center; font-size: 2.4mm; color: #9a9298; letter-spacing: 0.3px; }
+  footer.page-footer .footer-brand strong { color: #5e565c; font-weight: 600; }
+  .cover-body { flex: 1; padding: 0 16mm 0; display: flex; flex-direction: column; justify-content: flex-end; }
+  .cover-kicker { font-size: 2.6mm; font-weight: 700; color: #c98b8e; letter-spacing: 3px; text-transform: uppercase; margin-bottom: 6mm; }
+  .cover-title { font-size: 30mm; font-weight: 800; line-height: 0.95; letter-spacing: -1.5px; color: #ffffff; margin-bottom: 8mm; }
+  .cover-title .accent { color: #ee2b32; }
+  .cover-description { font-size: 4mm; font-weight: 400; line-height: 1.5; color: #cdc7ca; max-width: 138mm; margin-bottom: 30mm; }
+  .cover-divider { height: 0.3mm; background: #44343a; margin-bottom: 12mm; }
+  .cover-metrics { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8mm; margin-bottom: 14mm; }
+  .cover-metric .num { font-size: 18mm; font-weight: 800; line-height: 1; color: #ffffff; letter-spacing: -1px; margin-bottom: 2.5mm; }
+  .cover-metric .label { font-size: 2.4mm; font-weight: 600; color: #9a8488; letter-spacing: 1.5px; text-transform: uppercase; line-height: 1.4; }
+  .page.cover-page { background: #15161a; color: #ffffff; }
+  .page.cover-page .top-header { border-bottom-color: #d61f26; }
+  .page.cover-page .header-badge { background: rgba(255,255,255,0.07); border-color: rgba(255,255,255,0.18); color: #cdc7ca; }
+  .page.cover-page .header-badge strong { color: #ffffff; }
+  .page.cover-page footer.page-footer { color: #6e6168; }
+  .page.cover-page footer.page-footer .footer-brand strong { color: #ad999f; }
+  .section-title-block { display: flex; align-items: center; gap: 5mm; margin-bottom: 7mm; }
+  .section-tag { background: #16171b; color: #ffffff; padding: 1.8mm 3.5mm; border-radius: 1mm; font-size: 2.3mm; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; }
+  .section-title { font-size: 13mm; font-weight: 800; color: #16171b; line-height: 1; letter-spacing: -1px; }
+  .page-title { font-size: 11mm; font-weight: 800; color: #16171b; line-height: 1; letter-spacing: -0.8px; margin-bottom: 1.5mm; }
+  .page-subtitle { font-size: 2.6mm; font-weight: 700; color: #6a5e64; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 8mm; }
+  .sub-section { display: flex; align-items: center; gap: 3mm; margin-bottom: 5mm; margin-top: 2mm; }
+  .sub-num { background: #d61f26; color: #ffffff; width: 6mm; height: 6mm; border-radius: 1mm; display: flex; align-items: center; justify-content: center; font-size: 3mm; font-weight: 800; }
+  .sub-title { font-size: 3.2mm; font-weight: 800; color: #16171b; letter-spacing: 1.3px; text-transform: uppercase; }
+  .pillars-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 3mm; margin-bottom: 7mm; }
+  .pillar-card { background: #f6f6f7; border-radius: 1.5mm; padding: 4mm 4mm 4.5mm; border-top: 1.5mm solid #d61f26; }
+  .pillar-card.p1 { border-top-color: #d61f26; } .pillar-card.p2 { border-top-color: #e8893b; } .pillar-card.p3 { border-top-color: #3b7ea1; } .pillar-card.p4 { border-top-color: #2b2d34; } .pillar-card.p5 { border-top-color: #8e1d4b; }
+  .pillar-badge { display: inline-block; padding: 1mm 2mm; border-radius: 0.8mm; font-size: 2mm; font-weight: 800; letter-spacing: 1.5px; text-transform: uppercase; color: #ffffff; margin-bottom: 2.5mm; }
+  .pillar-card.p1 .pillar-badge { background: #d61f26; } .pillar-card.p2 .pillar-badge { background: #e8893b; } .pillar-card.p3 .pillar-badge { background: #3b7ea1; } .pillar-card.p4 .pillar-badge { background: #2b2d34; } .pillar-card.p5 .pillar-badge { background: #8e1d4b; }
+  .pillar-card h3 { font-size: 3.1mm; font-weight: 800; color: #16171b; margin-bottom: 1.5mm; line-height: 1.15; letter-spacing: -0.2px; }
+  .pillar-card p { font-size: 2.2mm; line-height: 1.38; color: #56505a; }
+  .pillar-card .pillar-count { display: block; font-size: 2.2mm; font-weight: 700; color: #1a1a1a; margin-top: 2.5mm; padding-top: 2mm; border-top: 0.2mm solid #ddd6d9; }
+  .calendar { width: 100%; border-collapse: separate; border-spacing: 1px; background: #e2dde0; border-radius: 1.5mm; overflow: hidden; margin-bottom: 5mm; }
+  .calendar thead th { background: #16171b; color: #ffffff; padding: 2.5mm 0; font-size: 2.4mm; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; text-align: center; }
+  .calendar tbody td { background: #ffffff; width: calc(100% / 7); height: 18mm; vertical-align: top; padding: 1.8mm 2mm; position: relative; }
+  .calendar tbody td.empty { background: #fbfafb; color: #bcb4b8; }
+  .calendar tbody td .day-num { font-size: 3.2mm; font-weight: 700; color: #16171b; line-height: 1; margin-bottom: 1.5mm; }
+  .calendar tbody td.empty .day-num { color: #bcb4b8; font-weight: 400; }
+  .calendar tbody td .cell-type { font-size: 1.8mm; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: #6a5e64; margin-top: 0.5mm; }
+  .calendar tbody td .cell-title { font-size: 2.0mm; font-weight: 600; color: #1a1a1a; line-height: 1.2; margin-top: 0.5mm; }
+  .calendar tbody td.has-post { padding-left: 2.8mm; }
+  .calendar tbody td.has-post::before { content: ""; position: absolute; left: 0; top: 1.5mm; bottom: 1.5mm; width: 1.2mm; border-radius: 0 0.5mm 0.5mm 0; background: #d61f26; }
+  .calendar tbody td.type-reels::before { background: #16171b; } .calendar tbody td.type-post::before { background: #d61f26; } .calendar tbody td.type-carrossel::before { background: #3b7ea1; } .calendar tbody td.type-amigo::before { background: #e0892e; }
+  .calendar tbody td.type-amigo { background: #fdf5ec; } .calendar tbody td.type-amigo .cell-type { color: #b3651a; font-weight: 800; }
+  .cal-legend { display: flex; gap: 7mm; margin-top: 3mm; align-items: center; flex-wrap: wrap; }
+  .cal-legend-item { display: flex; align-items: center; gap: 2mm; font-size: 2.5mm; color: #56505a; }
+  .cal-legend-bar { width: 1.2mm; height: 4mm; border-radius: 0.4mm; }
+  .cal-legend-bar.b-post { background: #d61f26; } .cal-legend-bar.b-reels { background: #16171b; } .cal-legend-bar.b-carrossel { background: #3b7ea1; } .cal-legend-bar.b-amigo { background: #e0892e; }
+  .pieces-stack { display: flex; flex-direction: column; gap: 5mm; flex: 1; }
+  .piece { display: grid; grid-template-columns: 8mm 1fr; border: 0.3mm solid #e6e2e4; border-radius: 1.2mm; overflow: hidden; background: #ffffff; }
+  .piece-side { background: #d61f26; color: #ffffff; display: flex; align-items: center; justify-content: center; padding: 6mm 0; }
+  .piece-side .side-label { writing-mode: vertical-rl; transform: rotate(180deg); font-size: 2.6mm; font-weight: 800; letter-spacing: 4px; text-transform: uppercase; }
+  .piece.p1 .piece-side { background: #d61f26; } .piece.p2 .piece-side { background: #e8893b; } .piece.p3 .piece-side { background: #3b7ea1; } .piece.p4 .piece-side { background: #2b2d34; } .piece.p5 .piece-side { background: #8e1d4b; }
+  .piece-body { padding: 5mm 6mm 5mm; }
+  .piece-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 4mm; margin-bottom: 1mm; }
+  .piece-date { font-size: 2.6mm; font-weight: 700; color: #6a5e64; letter-spacing: 1.2px; text-transform: uppercase; margin-bottom: 1mm; display: flex; align-items: center; gap: 2mm; flex-wrap: wrap; }
+  .piece-date .pillar-tag { background: #f6f3f3; color: #1a1a1a; padding: 0.8mm 2mm; border-radius: 0.5mm; font-size: 1.9mm; font-weight: 800; letter-spacing: 1px; border-left: 1mm solid #d61f26; }
+  .piece.p1 .pillar-tag { border-left-color: #d61f26; } .piece.p2 .pillar-tag { border-left-color: #e8893b; } .piece.p3 .pillar-tag { border-left-color: #3b7ea1; } .piece.p4 .pillar-tag { border-left-color: #2b2d34; } .piece.p5 .pillar-tag { border-left-color: #8e1d4b; }
+  .piece-date .anchor { background: #e0892e; color: #ffffff; padding: 0.8mm 2mm; border-radius: 0.5mm; font-size: 1.9mm; font-weight: 800; letter-spacing: 1px; }
+  .piece-date .validar { background: #c2851e; color: #ffffff; padding: 0.8mm 2mm; border-radius: 0.5mm; font-size: 1.9mm; font-weight: 800; letter-spacing: 1px; }
+  .piece-title { font-size: 4.9mm; font-weight: 700; color: #16171b; line-height: 1.15; letter-spacing: -0.3px; }
+  .piece-format { background: #16171b; color: #ffffff; padding: 1.5mm 2.8mm; border-radius: 0.8mm; font-size: 2.2mm; font-weight: 700; letter-spacing: 1.3px; text-transform: uppercase; white-space: nowrap; align-self: center; flex-shrink: 0; }
+  .piece-format.fmt-post { background: #ffffff; color: #16171b; border: 0.3mm solid #16171b; } .piece-format.fmt-reels { background: #16171b; color: #ffffff; } .piece-format.fmt-carrossel { background: #3b7ea1; color: #ffffff; }
+  .piece-divider { height: 0.2mm; background: #e6e2e4; margin: 3.5mm 0 3mm; }
+  .piece-block { margin-bottom: 3mm; } .piece-block:last-child { margin-bottom: 0; }
+  .piece-block-label { font-size: 2.2mm; font-weight: 800; color: #d61f26; letter-spacing: 1.5px; text-transform: uppercase; margin-bottom: 1.5mm; }
+  .piece-block-text { font-size: 2.72mm; line-height: 1.42; color: #2c2a2e; }
+  .piece-block-text + .piece-block-text { margin-top: 1.5mm; }
+  .piece-art { background: #f6f3f4; border-left: 0.8mm solid #d61f26; padding: 2.5mm 3.5mm; border-radius: 0 0.8mm 0.8mm 0; }
+  .piece-art .piece-block-label { color: #d61f26; margin-bottom: 1mm; } .piece-art .piece-block-text { color: #56505a; font-size: 2.62mm; }
+  .piece-cta { background: #fcecec; border-left: 0.8mm solid #d61f26; padding: 1.8mm 3mm; border-radius: 0 0.8mm 0.8mm 0; margin-top: 2.5mm; font-size: 2.62mm; color: #9a1b20; font-weight: 600; }
+  .piece-cta strong { color: #d61f26; letter-spacing: 0.5px; }
+  .piece-icon { color: #d61f26; font-size: 2.5mm; margin-right: 1mm; }
+  .piece-block-text .key { font-weight: 600; }
+  .pend-note { background: #fdf6ea; border-left: 0.8mm solid #c2851e; padding: 1.8mm 3mm; border-radius: 0 0.8mm 0.8mm 0; margin-top: 2.5mm; font-size: 2.4mm; color: #7a5a14; line-height: 1.38; }
+  .pend-note strong { color: #8a5e0a; }
+  .closing-body { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 0 30mm; text-align: center; }
+  .closing-logo { height: 14mm; width: auto; margin-bottom: 6mm; }
+  .closing-tag { font-size: 2.6mm; font-weight: 600; color: #837a80; letter-spacing: 4px; text-transform: uppercase; margin-bottom: 12mm; }
+  .closing-message { font-size: 3.2mm; line-height: 1.6; color: #4a444a; max-width: 124mm; margin-bottom: 10mm; }
+  .closing-rule { width: 18mm; height: 0.6mm; background: #d61f26; margin-bottom: 8mm; }
+  .closing-footer { font-size: 2.5mm; font-weight: 700; color: #6a5e64; letter-spacing: 2px; text-transform: uppercase; line-height: 1.7; }
+</style>
+</head>
+<body>
+
+<!-- P1 COVER -->
+<section class="page cover-page">
+  <div class="top-header"><div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-branco-azul.png" alt="Lone Mídia"></div><div class="header-badge">CLIENTE <span class="dot">·</span><strong>COMPLEXO ESPORTIVO VIDA</strong></div></div>
+  <div class="cover-body">
+    <div class="cover-kicker">PLANO DE CONTEÚDO</div>
+    <h1 class="cover-title">Julho<br><span class="accent">2026.</span></h1>
+    <p class="cover-description">Janela 01/07 → 31/07 · 14 peças com o <strong style="color:#fff;">aluno no centro</strong> da história — transformação, quebra de objeções, comunidade e Combo Família · moovz em sequência · Dia do Amigo (20/07) · academia em São Vicente de Paula, Araruama.</p>
+    <div class="cover-divider"></div>
+    <div class="cover-metrics">
+      <div class="cover-metric"><div class="num">14</div><div class="label">PEÇAS<br>PLANEJADAS</div></div>
+      <div class="cover-metric"><div class="num">5</div><div class="label">REELS<br>DE VÍDEO</div></div>
+      <div class="cover-metric"><div class="num">5</div><div class="label">CARROSSÉIS<br>SEMANAIS</div></div>
+      <div class="cover-metric"><div class="num">4</div><div class="label">POSTS<br>ESTÁTICOS</div></div>
+    </div>
+  </div>
+  <footer class="page-footer"><div class="footer-brand"><strong>LONE MÍDIA</strong> · Plano de Conteúdo · Complexo Vida</div><div class="page-num">1 / 10</div></footer>
+</section>
+
+<!-- P2 VISÃO GERAL -->
+<section class="page">
+  <div class="top-header"><div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia"></div><div class="header-badge">CLIENTE <span class="dot">·</span><strong>COMPLEXO ESPORTIVO VIDA</strong></div></div>
+  <div class="page-body">
+    <h2 class="page-title">Visão Geral</h2>
+    <div class="page-subtitle">O HERÓI DE CADA PEÇA É A PESSOA — A ACADEMIA É A FERRAMENTA</div>
+    <div class="sub-section"><div class="sub-num">1</div><div class="sub-title">PILARES DE CONTEÚDO</div></div>
+    <div class="pillars-grid">
+      <div class="pillar-card p1"><div class="pillar-badge">PILAR 1</div><h3>Complexo Completo</h3><p>Estrutura e convênios (Gympass/Wellhub/TotalPass). Reduzido a 1 peça de fechamento — o foco do mês saiu da estrutura e foi pras pessoas.</p><span class="pillar-count">1 PEÇA · 7%</span></div>
+      <div class="pillar-card p2"><div class="pillar-badge">PILAR 2</div><h3>Combo Família</h3><p>A mãe sem tempo, a criança que muda no tatame. Família treinando junta, perto de casa, numa saída só.</p><span class="pillar-count">2 PEÇAS · 14%</span></div>
+      <div class="pillar-card p3"><div class="pillar-badge">PILAR 3</div><h3>Gente da Terra</h3><p>Pessoas reais de São Vicente como heróis: o professor, o depoimento, a transformação de vida, a comunidade.</p><span class="pillar-count">4 PEÇAS · 29%</span></div>
+      <div class="pillar-card p4"><div class="pillar-badge">PILAR 4</div><h3>Treino Certo &amp; Saúde</h3><p>Professor na frente + quebra de objeções (vergonha, idade, "emagrecer antes") + conteúdo de saúde que a galera compartilha.</p><span class="pillar-count">5 PEÇAS · 36%</span></div>
+      <div class="pillar-card p5"><div class="pillar-badge">PILAR 5</div><h3>Moovz</h3><p>Sequência (parte 1 → parte 2) sobre acompanhar a própria evolução. Desejo, sem afirmar mecânica/preço.</p><span class="pillar-count">2 PEÇAS · 14%</span></div>
+    </div>
+    <div class="sub-section"><div class="sub-num">2</div><div class="sub-title">CALENDÁRIO · JULHO</div></div>
+    <table class="calendar">
+      <thead><tr><th>DOM</th><th>SEG</th><th>TER</th><th>QUA</th><th>QUI</th><th>SEX</th><th>SÁB</th></tr></thead>
+      <tbody>
+        <tr>
+          <td class="empty"><div class="day-num">28</div></td><td class="empty"><div class="day-num">29</div></td><td class="empty"><div class="day-num">30</div></td>
+          <td class="has-post type-reels"><div class="day-num">1</div><div class="cell-type">REELS</div><div class="cell-title">A hora que ela não tinha</div></td>
+          <td class="empty"><div class="day-num">2</div></td>
+          <td class="has-post type-carrossel"><div class="day-num">3</div><div class="cell-type">CARROSSEL</div><div class="cell-title">Todo mundo já foi novato</div></td>
+          <td class="empty"><div class="day-num">4</div></td>
+        </tr>
+        <tr>
+          <td class="empty"><div class="day-num">5</div></td>
+          <td class="has-post type-post"><div class="day-num">6</div><div class="cell-type">POST</div><div class="cell-title">Quem treina do teu lado</div></td>
+          <td class="empty"><div class="day-num">7</div></td>
+          <td class="has-post type-reels"><div class="day-num">8</div><div class="cell-type">REELS</div><div class="cell-title">Erro no agachamento</div></td>
+          <td class="empty"><div class="day-num">9</div></td>
+          <td class="has-post type-carrossel"><div class="day-num">10</div><div class="cell-type">CARROSSEL</div><div class="cell-title">Sobe a escada sem parar</div></td>
+          <td class="empty"><div class="day-num">11</div></td>
+        </tr>
+        <tr>
+          <td class="empty"><div class="day-num">12</div></td>
+          <td class="has-post type-post"><div class="day-num">13</div><div class="cell-type">POST</div><div class="cell-title">Sinais do sedentarismo</div></td>
+          <td class="empty"><div class="day-num">14</div></td>
+          <td class="has-post type-reels"><div class="day-num">15</div><div class="cell-type">REELS</div><div class="cell-title">Por que eu treino aqui</div></td>
+          <td class="empty"><div class="day-num">16</div></td>
+          <td class="has-post type-carrossel"><div class="day-num">17</div><div class="cell-type">CARROSSEL</div><div class="cell-title">Tá evoluindo? (moovz 1)</div></td>
+          <td class="empty"><div class="day-num">18</div></td>
+        </tr>
+        <tr>
+          <td class="empty"><div class="day-num">19</div></td>
+          <td class="has-post type-amigo"><div class="day-num">20</div><div class="cell-type">POST · AMIGO</div><div class="cell-title">Dia do Amigo</div></td>
+          <td class="empty"><div class="day-num">21</div></td>
+          <td class="has-post type-reels"><div class="day-num">22</div><div class="cell-type">REELS</div><div class="cell-title">Jiu-jitsu acalma a cabeça</div></td>
+          <td class="empty"><div class="day-num">23</div></td>
+          <td class="has-post type-carrossel"><div class="day-num">24</div><div class="cell-type">CARROSSEL</div><div class="cell-title">Começa pra ficar pronto</div></td>
+          <td class="empty"><div class="day-num">25</div></td>
+        </tr>
+        <tr>
+          <td class="empty"><div class="day-num">26</div></td>
+          <td class="has-post type-post"><div class="day-num">27</div><div class="cell-type">POST</div><div class="cell-title">O tatame ensinou</div></td>
+          <td class="empty"><div class="day-num">28</div></td>
+          <td class="has-post type-reels"><div class="day-num">29</div><div class="cell-type">REELS</div><div class="cell-title">Hoje ela treina sabendo (moovz 2)</div></td>
+          <td class="empty"><div class="day-num">30</div></td>
+          <td class="has-post type-carrossel"><div class="day-num">31</div><div class="cell-type">CARROSSEL</div><div class="cell-title">Gympass vale aqui</div></td>
+          <td class="empty"><div class="day-num">1</div></td>
+        </tr>
+      </tbody>
+    </table>
+    <div class="cal-legend">
+      <div class="cal-legend-item"><div class="cal-legend-bar b-post"></div>Post estático (segundas)</div>
+      <div class="cal-legend-item"><div class="cal-legend-bar b-reels"></div>Reels (quartas)</div>
+      <div class="cal-legend-item"><div class="cal-legend-bar b-carrossel"></div>Carrossel (sextas)</div>
+      <div class="cal-legend-item"><div class="cal-legend-bar b-amigo"></div>Data-âncora (20/07)</div>
+    </div>
+  </div>
+  <footer class="page-footer"><div class="footer-brand"><strong>LONE MÍDIA</strong> · Plano de Conteúdo · Complexo Vida</div><div class="page-num">2 / 10</div></footer>
+</section>
+
+<!-- P3 — 01/07 + 03/07 -->
+<section class="page">
+  <div class="top-header"><div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia"></div><div class="header-badge">CLIENTE <span class="dot">·</span><strong>COMPLEXO ESPORTIVO VIDA</strong></div></div>
+  <div class="page-body">
+    <div class="section-title-block"><div class="section-tag">SEMANA 1</div><div class="section-title">Julho</div></div>
+    <div class="pieces-stack">
+
+      <div class="piece p2">
+        <div class="piece-side"><div class="side-label">P I L A R · 2</div></div>
+        <div class="piece-body">
+          <div class="piece-header"><div><div class="piece-date">01/07 · Quarta-feira <span class="pillar-tag">COMBO FAMÍLIA</span> <span class="validar">VALIDAR</span></div><div class="piece-title">A hora que ela achava que não tinha.</div></div><div class="piece-format fmt-reels">REELS · 30-40S</div></div>
+          <div class="piece-divider"></div>
+          <div class="piece-block"><div class="piece-block-label">Ideia do post</div><div class="piece-block-text">Protagonista = uma <span class="key">mãe real</span> de São Vicente que jurava não ter tempo. Ela descobre que treina enquanto o filho tá no jiu-jitsu kids (18h). A academia é a ferramenta que devolveu a hora dela, não o centro.</div></div>
+          <div class="piece-art">
+            <div class="piece-block-label">Vídeo · 30-40s (mãe real, captação interna)</div>
+            <div class="piece-block-text"><span class="key">Gancho (0-3s):</span> ela larga a mochila do filho, olha pra câmera meio rindo: "Eu falava que não tinha tempo de treinar. Todo dia."</div>
+            <div class="piece-block-text"><span class="key">Dor (3-9s):</span> amarrando o tênis: "Filho pra buscar, pra levar, casa, trabalho. Quando ia sobrar uma hora só pra mim?"</div>
+            <div class="piece-block-text"><span class="key">Virada (9-16s):</span> o filho de kimono entrando no jiu-jitsu kids. Voz dela: "Aí eu vi. Enquanto ele treina aqui, essa hora é minha."</div>
+            <div class="piece-block-text"><span class="key">Benefício (16-32s):</span> ela treinando de verdade → os dois saindo juntos. "Não precisei achar tempo. Já tava aqui."</div>
+          </div>
+          <div class="piece-block" style="margin-top:3mm;"><div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">"Não tenho tempo de treinar." Quantas vezes você já falou isso essa semana?</div>
+            <div class="piece-block-text">Essa é a história de uma mãe daqui de São Vicente. Filho pra levar, buscar, casa, trabalho — e a hora dela ficava sempre por último. Até ela perceber: enquanto o filho tá no jiu-jitsu kids, ela já tá no mesmo prédio, na mesma hora.</div>
+            <div class="piece-block-text">Você não precisa escolher entre cuidar dos filhos e cuidar de você. Aqui dá pra fazer os dois, sem correr a cidade.</div>
+          </div>
+          <div class="piece-block-text" style="margin-top:2.5mm;"><span class="piece-icon">📲</span>(22) 99611-9083 · Rua Oscarino de Andrade · São Vicente de Paula</div>
+          <div class="piece-cta"><strong>CTA:</strong> Me chama no direct que eu te mando a grade que bate com a aula do seu filho.</div>
+          <div class="pend-note"><strong>Pendência:</strong> confirmar a <strong>grade real</strong> (jiu kids 18h Seg/Qua × aulas adulto no mesmo horário) antes de cravar "mesma hora" + <strong>release</strong> da criança e da mãe.</div>
+        </div>
+      </div>
+
+      <div class="piece p4">
+        <div class="piece-side"><div class="side-label">P I L A R · 4</div></div>
+        <div class="piece-body">
+          <div class="piece-header"><div><div class="piece-date">03/07 · Sexta-feira <span class="pillar-tag">TREINO CERTO</span></div><div class="piece-title">Todo mundo aqui já foi novato.</div></div><div class="piece-format fmt-carrossel">CARROSSEL · 7 SLIDES</div></div>
+          <div class="piece-divider"></div>
+          <div class="piece-block"><div class="piece-block-label">Ideia do post</div><div class="piece-block-text">Quebra a <span class="key">vergonha de começar</span>: ninguém na sala tá olhando o teu corpo. Cada medo do iniciante vira um slide; a virada é que todo mundo que treina hoje já foi o novato travado.</div></div>
+          <div class="piece-art">
+            <div class="piece-block-label">Slides (um medo por slide)</div>
+            <div class="piece-block-text"><span class="key">Capa:</span> aluno de costas, fone, sozinho no treino. "Todo mundo aqui já foi novato."</div>
+            <div class="piece-block-text"><span class="key">Medos 2-5:</span> "acham que vão te olhar" (cada um tá no próprio treino) · "medo de não saber usar a máquina" (tem professor pra mostrar) · "tô fora do padrão" (treina gente de toda idade) · "preciso emagrecer antes" (o corpo muda fazendo, não esperando).</div>
+            <div class="piece-block-text"><span class="key">Slide 6 (virada):</span> "Aquele que você acha que sempre foi assim também teve um primeiro dia travado." <span class="key">Slide 7 (CTA):</span> "Vem do jeito que você tá."</div>
+          </div>
+          <div class="piece-block" style="margin-top:3mm;"><div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">Ninguém começa sabendo. A pessoa que você vê puxando peso pesado hoje já chegou aqui sem saber nem ligar a esteira.</div>
+            <div class="piece-block-text">Esse carrossel é pra quem fica adiando começar com medo do que os outros vão pensar. Passa até o final — cada medo que te trava, todo mundo que treina já sentiu. A vergonha some no primeiro dia; o que fica é a sensação boa de ter ido.</div>
+          </div>
+          <div class="piece-block-text" style="margin-top:2.5mm;"><span class="piece-icon">📲</span>(22) 99611-9083 · Rua Oscarino de Andrade · São Vicente de Paula</div>
+          <div class="piece-cta"><strong>CTA:</strong> Comenta <strong>EU VOU</strong> que a gente te recebe no teu primeiro dia, no teu ritmo.</div>
+          <div class="pend-note"><strong>Pendência:</strong> <strong>release</strong> dos alunos das fotos (slide 4 — aluno mais velho — e slide 6, comunidade).</div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  <footer class="page-footer"><div class="footer-brand"><strong>LONE MÍDIA</strong> · Plano de Conteúdo · Complexo Vida</div><div class="page-num">3 / 10</div></footer>
+</section>
+
+<!-- P4 — 06/07 + 08/07 -->
+<section class="page">
+  <div class="top-header"><div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia"></div><div class="header-badge">CLIENTE <span class="dot">·</span><strong>COMPLEXO ESPORTIVO VIDA</strong></div></div>
+  <div class="page-body">
+    <div class="section-title-block"><div class="section-tag">SEMANA 2</div><div class="section-title">Julho</div></div>
+    <div class="pieces-stack">
+
+      <div class="piece p3">
+        <div class="piece-side"><div class="side-label">P I L A R · 3</div></div>
+        <div class="piece-body">
+          <div class="piece-header"><div><div class="piece-date">06/07 · Segunda-feira <span class="pillar-tag">GENTE DA TERRA</span></div><div class="piece-title">Quem vai treinar do teu lado.</div></div><div class="piece-format fmt-post">POST ESTÁTICO</div></div>
+          <div class="piece-divider"></div>
+          <div class="piece-block"><div class="piece-block-label">Ideia do post</div><div class="piece-block-text">Um professor real e local como protagonista — confiança de bairro: quem chega vai ser acompanhado de perto por gente daqui mesmo.</div></div>
+          <div class="piece-art">
+            <div class="piece-block-label">Arte</div>
+            <div class="piece-block-text">Foto real (celular, <span class="key">não banco de imagem</span>): o professor no espaço, acompanhando um aluno / corrigindo um movimento. Expressão natural, gente de São Vicente.</div>
+            <div class="piece-block-text">Faixa fina: nome + modalidade + tempo de casa (após captação). Logo discreto + @complexovida. A cena domina.</div>
+          </div>
+          <div class="piece-block" style="margin-top:3mm;"><div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">Esse é o [NOME], um dos professores que vão te acompanhar aqui no Complexo Vida.</div>
+            <div class="piece-block-text">Ele é de São Vicente mesmo, tá na área há [X anos] e conhece cada aparelho de cor. Quando você chega perdido no primeiro dia, é ele que mostra por onde começar e ajeita o movimento.</div>
+            <div class="piece-block-text">Quem te acompanha não é um estranho de fora — é gente da terra, que cruza com você no mercado e torce pra te ver voltar.</div>
+          </div>
+          <div class="piece-block-text" style="margin-top:2.5mm;"><span class="piece-icon">📲</span>(22) 99611-9083 · Rua Oscarino de Andrade · São Vicente de Paula</div>
+          <div class="piece-cta"><strong>CTA:</strong> Comenta <strong>SIM</strong> se você queria começar com alguém assim do teu lado.</div>
+          <div class="pend-note"><strong>Pendência:</strong> definir o <strong>professor real</strong> (nome/modalidade/tempo) + <strong>release</strong> antes de publicar rosto.</div>
+        </div>
+      </div>
+
+      <div class="piece p4">
+        <div class="piece-side"><div class="side-label">P I L A R · 4</div></div>
+        <div class="piece-body">
+          <div class="piece-header"><div><div class="piece-date">08/07 · Quarta-feira <span class="pillar-tag">TREINO CERTO</span></div><div class="piece-title">O erro mais comum no agachamento.</div></div><div class="piece-format fmt-reels">REELS · 30-40S</div></div>
+          <div class="piece-divider"></div>
+          <div class="piece-block"><div class="piece-block-label">Ideia do post</div><div class="piece-block-text">Professor corrige ao vivo o erro de joelho/postura — prova que aqui tem alguém do lado pra quem nunca treinou. Tira o medo de começar.</div></div>
+          <div class="piece-art">
+            <div class="piece-block-label">Vídeo · 30-40s</div>
+            <div class="piece-block-text"><span class="key">Gancho (0-3s):</span> professor mostrando o joelho indo pra dentro. "Esse é o erro que mais machuca joelho aqui."</div>
+            <div class="piece-block-text"><span class="key">Contexto (3-12s):</span> ao lado de um aluno: aponta joelho caindo, tronco à frente. "Não é o agachamento, é a postura."</div>
+            <div class="piece-block-text"><span class="key">Solução (12-26s):</span> ajusta com a mão — pé firme, joelho na linha do pé. "O esforço vai pra perna, não pra articulação."</div>
+            <div class="piece-block-text"><span class="key">Benefício/CTA (26-40s):</span> aluno agacha certo sozinho. "Aqui você não treina no escuro, tem sempre professor do lado."</div>
+          </div>
+          <div class="piece-block" style="margin-top:3mm;"><div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">Joelho indo pra dentro, tronco caindo pra frente — esse é o erro que mais aparece com quem tá começando. E é o que machuca joelho e lombar de quem acha que agachar faz mal.</div>
+            <div class="piece-block-text">O agachamento não é o problema — é a postura, e postura a gente conserta com alguém do lado olhando. Por isso aqui você não treina sozinho: o professor tá na sala, corrigindo na hora.</div>
+          </div>
+          <div class="piece-block-text" style="margin-top:2.5mm;"><span class="piece-icon">📲</span>(22) 99611-9083 · Rua Oscarino de Andrade · São Vicente de Paula</div>
+          <div class="piece-cta"><strong>CTA:</strong> Salva pra lembrar na hora do treino — e marca quem você sempre vê agachando torto. 😅</div>
+          <div class="pend-note"><strong>Pendência:</strong> <strong>release</strong> do aluno e do professor que aparecem.</div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  <footer class="page-footer"><div class="footer-brand"><strong>LONE MÍDIA</strong> · Plano de Conteúdo · Complexo Vida</div><div class="page-num">4 / 10</div></footer>
+</section>
+
+<!-- P5 — 10/07 + 13/07 -->
+<section class="page">
+  <div class="top-header"><div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia"></div><div class="header-badge">CLIENTE <span class="dot">·</span><strong>COMPLEXO ESPORTIVO VIDA</strong></div></div>
+  <div class="page-body">
+    <div class="pieces-stack">
+
+      <div class="piece p3">
+        <div class="piece-side"><div class="side-label">P I L A R · 3</div></div>
+        <div class="piece-body">
+          <div class="piece-header"><div><div class="piece-date">10/07 · Sexta-feira <span class="pillar-tag">GENTE DA TERRA</span> <span class="validar">VALIDAR</span></div><div class="piece-title">Hoje ele sobe a escada sem parar.</div></div><div class="piece-format fmt-carrossel">CARROSSEL · 6 SLIDES</div></div>
+          <div class="piece-divider"></div>
+          <div class="piece-block"><div class="piece-block-label">Ideia do post</div><div class="piece-block-text">A virada real de um aluno de São Vicente — da vida travada (cansaço no dia a dia) pra disposição de novo. Ele é o herói; a academia, a ferramenta. Antes/depois de <span class="key">disposição</span>, nunca de corpo.</div></div>
+          <div class="piece-art">
+            <div class="piece-block-label">Slides (mesmo aluno real do 1 ao 6)</div>
+            <div class="piece-block-text"><span class="key">Capa:</span> [NOME] na frente de uma escada. "Hoje ele sobe a escada sem parar."</div>
+            <div class="piece-block-text"><span class="key">2 (o antes):</span> "[TEMPO] atrás eu parava no meio da escada pra respirar." <span class="key">3:</span> "Comecei devagar, no meu ritmo." <span class="key">4 (a ferramenta):</span> "O que mudou foi ter gente perto que conhece teu nome."</div>
+            <div class="piece-block-text"><span class="key">5 (o agora):</span> ele subindo a escada, leve. "Voltou a [MUDANÇA REAL]." <span class="key">6 (CTA):</span> "Tem uma história dessas guardada em você?"</div>
+          </div>
+          <div class="piece-block" style="margin-top:3mm;"><div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">Faz [TEMPO] o [NOME] parava no meio da escada de casa pra respirar. Não era questão de balança — era o cansaço aparecendo em tudo, até no que ele mais gostava de fazer.</div>
+            <div class="piece-block-text">Aí ele apareceu aqui. Começou devagar, no ritmo dele, com alguém do lado que já sabia o nome dele. Hoje ele sobe a escada com a sacola de compras na mão e nem lembra que um dia foi difícil.</div>
+            <div class="piece-block-text">A academia foi só a ferramenta. O herói dessa história é ele — e pode ser você, no teu tempo.</div>
+          </div>
+          <div class="piece-block-text" style="margin-top:2.5mm;"><span class="piece-icon">📲</span>(22) 99611-9083 · Rua Oscarino de Andrade · São Vicente de Paula</div>
+          <div class="piece-cta"><strong>CTA:</strong> Conta nos comentários: o que você queria voltar a fazer sem ficar cansado?</div>
+          <div class="pend-note"><strong>Pendência (depoimento real):</strong> coletar a fala verdadeira do aluno (tempo + mudança real) — <strong>nunca inventar</strong> — + <strong>release</strong>.</div>
+        </div>
+      </div>
+
+      <div class="piece p4">
+        <div class="piece-side"><div class="side-label">P I L A R · 4</div></div>
+        <div class="piece-body">
+          <div class="piece-header"><div><div class="piece-date">13/07 · Segunda-feira <span class="pillar-tag">TREINO CERTO</span></div><div class="piece-title">O sedentarismo cobra a conta caladinho.</div></div><div class="piece-format fmt-post">POST ESTÁTICO</div></div>
+          <div class="piece-divider"></div>
+          <div class="piece-block"><div class="piece-block-label">Ideia do post</div><div class="piece-block-text">Conteúdo de <span class="key">saúde de alto alcance</span>: a pessoa se reconhece nos 5 sinais do corpo parado, salva e marca quem precisa ver. O Complexo entra como quem entende de saúde, não de corpo perfeito.</div></div>
+          <div class="piece-art">
+            <div class="piece-block-label">Arte</div>
+            <div class="piece-block-text">Foto real de uma pessoa comum de São Vicente no dia a dia (não em pose de treino) — alguém recuperando o fôlego depois da escada. Gente da terra, com release.</div>
+            <div class="piece-block-text"><span class="key">Os 5 sinais (bullets na arte):</span> cansaço pra subir escada · dor nas costas/pescoço de ficar sentado · acorda mais cansado do que deitou · sem pique nem pra coisa que gosta · corpo travado ao levantar da cadeira.</div>
+          </div>
+          <div class="piece-block" style="margin-top:3mm;"><div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">O corpo parado não grita. Ele vai cobrando devagar — e a gente vai achando que é "da idade" ou que "sempre foi assim".</div>
+            <div class="piece-block-text">Não é frescura tua nem preguiça — é o corpo pedindo movimento. E movimento não precisa ser maratona: começa com pouco, no teu ritmo, perto de casa. Tem gente aqui em São Vicente voltando a se mexer do zero, sem vergonha nenhuma.</div>
+          </div>
+          <div class="piece-block-text" style="margin-top:2.5mm;"><span class="piece-icon">📲</span>(22) 99611-9083 · Rua Oscarino de Andrade · São Vicente de Paula</div>
+          <div class="piece-cta"><strong>CTA:</strong> Marca aquela pessoa que vive cansada e nem desconfia que é o corpo parado falando.</div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  <footer class="page-footer"><div class="footer-brand"><strong>LONE MÍDIA</strong> · Plano de Conteúdo · Complexo Vida</div><div class="page-num">5 / 10</div></footer>
+</section>
+
+<!-- P6 — 15/07 + 17/07 -->
+<section class="page">
+  <div class="top-header"><div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia"></div><div class="header-badge">CLIENTE <span class="dot">·</span><strong>COMPLEXO ESPORTIVO VIDA</strong></div></div>
+  <div class="page-body">
+    <div class="section-title-block"><div class="section-tag">SEMANA 3</div><div class="section-title">Julho</div></div>
+    <div class="pieces-stack">
+
+      <div class="piece p3">
+        <div class="piece-side"><div class="side-label">P I L A R · 3</div></div>
+        <div class="piece-body">
+          <div class="piece-header"><div><div class="piece-date">15/07 · Quarta-feira <span class="pillar-tag">GENTE DA TERRA</span></div><div class="piece-title">Por que eu treino aqui.</div></div><div class="piece-format fmt-reels">REELS · 30-40S</div></div>
+          <div class="piece-divider"></div>
+          <div class="piece-block"><div class="piece-block-label">Ideia do post</div><div class="piece-block-text">Um aluno real de São Vicente conta, na voz dele e na sala de Spinning, por que treina aqui. Rosto conhecido da cidade gera identificação e viral de bairro.</div></div>
+          <div class="piece-art">
+            <div class="piece-block-label">Vídeo · 30-40s (depoimento real)</div>
+            <div class="piece-block-text"><span class="key">Formato:</span> gravado no celular, aluno na bike, áudio ambiente. A fala real dele manda — sem roteiro decorado.</div>
+            <div class="piece-block-text"><span class="key">Gancho (0-3s):</span> ele na bike: "Quer saber por que eu treino aqui?" <span class="key">(3-24s):</span> conta quem é, onde mora, o que o traz e faz voltar — perto de casa, a galera, pertencer.</div>
+            <div class="piece-block-text"><span class="key">Benefício/CTA (24-40s):</span> a frase-âncora dele sobre o que mudou (sem induzir estética) → "Vem conhecer a sala."</div>
+          </div>
+          <div class="piece-block" style="margin-top:3mm;"><div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">O [NOME] parou no meio da pedalada só pra responder uma pergunta: por que ele treina aqui. Respondeu na hora, direto da bike, do jeito dele — sem texto pronto, a gente só perguntou.</div>
+            <div class="piece-block-text">É isso que faz o Complexo Vida ser o Complexo Vida: gente daqui, que você cruza no mercado, treinando junto perto de casa. Quando você entra, já tem cara conhecida na sala.</div>
+          </div>
+          <div class="piece-block-text" style="margin-top:2.5mm;"><span class="piece-icon">📲</span>(22) 99611-9083 · Rua Oscarino de Andrade · São Vicente de Paula</div>
+          <div class="piece-cta"><strong>CTA:</strong> Marca aí embaixo quem é da turma do Spinning.</div>
+          <div class="pend-note"><strong>Pendência:</strong> <strong>release</strong> do aluno + gravar a fala verdadeira (nunca inventar depoimento).</div>
+        </div>
+      </div>
+
+      <div class="piece p5">
+        <div class="piece-side"><div class="side-label">P I L A R · 5</div></div>
+        <div class="piece-body">
+          <div class="piece-header"><div><div class="piece-date">17/07 · Sexta-feira <span class="pillar-tag">MOOVZ · PARTE 1</span> <span class="validar">VALIDAR</span></div><div class="piece-title">Tá evoluindo ou só treinando?</div></div><div class="piece-format fmt-carrossel">CARROSSEL · 6 SLIDES</div></div>
+          <div class="piece-divider"></div>
+          <div class="piece-block"><div class="piece-block-label">Ideia do post</div><div class="piece-block-text">Coloca <span class="key">você</span> frente à própria evolução (treinar por treinar × ver que ficou mais forte). A moovz é o jeito de acompanhar isso. Parte 1 de 2. Sem afirmar mecânica/preço/número.</div></div>
+          <div class="piece-art">
+            <div class="piece-block-label">Slides (você como sujeito)</div>
+            <div class="piece-block-text"><span class="key">Capa:</span> aluno no meio do treino, suado. "Tá evoluindo ou só treinando?" Selo "PARTE 1".</div>
+            <div class="piece-block-text"><span class="key">2:</span> "Você vai todo dia, pega o mesmo peso, faz a mesma série — e nem percebe que parou de avançar." <span class="key">3:</span> "Sem olhar pra trás, fica difícil saber se você melhorou de verdade."</div>
+            <div class="piece-block-text"><span class="key">4:</span> "Quem evolui acompanha a própria evolução — quanto levantava, quanto aguenta hoje." <span class="key">5:</span> close no pulso (moovz na cena, sem tela): "É aí que entra a moovz." <span class="key">6 (CTA):</span> "Essa é a parte 1."</div>
+          </div>
+          <div class="piece-block" style="margin-top:3mm;"><div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">Você treina há meses, mas ainda pega o mesmo peso de quando começou. Vai, sua, cumpre a série — e segue no automático, sem saber direito se tá melhorando.</div>
+            <div class="piece-block-text">Treinar e VER que você ficou mais forte, mais disposto, que sobe a escada sem cansar igual antes — isso é outro nível de motivação. Com a moovz, você acompanha a sua própria evolução de perto. A sua, não a do colega nem a do feed.</div>
+            <div class="piece-block-text">Isso aqui é só a parte 1 — tem continuação vindo.</div>
+          </div>
+          <div class="piece-block-text" style="margin-top:2.5mm;"><span class="piece-icon">📲</span>(22) 99611-9083 · Rua Oscarino de Andrade · São Vicente de Paula</div>
+          <div class="piece-cta"><strong>CTA:</strong> Comenta: você sabe dizer se tá mais forte que quando começou?</div>
+          <div class="pend-note"><strong>Pendência (moovz):</strong> mecânica/preço não confirmados — só desejo, sem tela/número. <strong>Release</strong> do aluno + definir conteúdo da Parte 2.</div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  <footer class="page-footer"><div class="footer-brand"><strong>LONE MÍDIA</strong> · Plano de Conteúdo · Complexo Vida</div><div class="page-num">6 / 10</div></footer>
+</section>
+
+<!-- P7 — 20/07 (ÂNCORA) + 22/07 -->
+<section class="page">
+  <div class="top-header"><div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia"></div><div class="header-badge">CLIENTE <span class="dot">·</span><strong>COMPLEXO ESPORTIVO VIDA</strong></div></div>
+  <div class="page-body">
+    <div class="section-title-block"><div class="section-tag">SEMANA 4</div><div class="section-title">Julho</div></div>
+    <div class="pieces-stack">
+
+      <div class="piece p3">
+        <div class="piece-side"><div class="side-label">P I L A R · 3</div></div>
+        <div class="piece-body">
+          <div class="piece-header"><div><div class="piece-date">20/07 · Segunda-feira <span class="pillar-tag">GENTE DA TERRA</span> <span class="anchor">★ DIA DO AMIGO</span></div><div class="piece-title">Marca quem você treinaria junto.</div></div><div class="piece-format fmt-post">POST ESTÁTICO</div></div>
+          <div class="piece-divider"></div>
+          <div class="piece-block"><div class="piece-block-label">Ideia do post</div><div class="piece-block-text">No Dia do Amigo, a marcação orgânica de uma dupla real de São Vicente vira prova social + convite — sem oferta nem desconto (desconto é roadmap pendente).</div></div>
+          <div class="piece-art">
+            <div class="piece-block-label">Arte</div>
+            <div class="piece-block-text">Foto real: dupla/trio de amigos reais e locais treinando junto (musculação na mesma série ou grupo no fim de uma aula, suados, rindo). Cumplicidade real, nada de pose. Release dos protagonistas.</div>
+            <div class="piece-block-text">Headline na arte + selo discreto "Dia do Amigo · 20/07" (sem fogo/selo de promoção). Foto domina.</div>
+          </div>
+          <div class="piece-block" style="margin-top:3mm;"><div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">Você sabe quem é: o amigo que vive falando "bora treinar" e nunca marca direito. Hoje dá pra cobrar — é Dia do Amigo. 🤝</div>
+            <div class="piece-block-text">Aqui em São Vicente a gente se encontra na rua, no mercado e na recepção da academia. Treinar perto de casa com essa galera é o que faz a aula virar encontro.</div>
+          </div>
+          <div class="piece-block-text" style="margin-top:2.5mm;"><span class="piece-icon">📲</span>(22) 99611-9083 · Rua Oscarino de Andrade · São Vicente de Paula</div>
+          <div class="piece-cta"><strong>CTA:</strong> Marca aquele amigo que você levaria pra treinar junto aqui do lado.</div>
+          <div class="pend-note"><strong>Pendência:</strong> dupla/grupo real com <strong>release</strong>. Sem prometer desconto (Dia do Amigo é só comunidade).</div>
+        </div>
+      </div>
+
+      <div class="piece p4">
+        <div class="piece-side"><div class="side-label">P I L A R · 4</div></div>
+        <div class="piece-body">
+          <div class="piece-header"><div><div class="piece-date">22/07 · Quarta-feira <span class="pillar-tag">TREINO CERTO</span></div><div class="piece-title">Jiu-jitsu acalma a cabeça também.</div></div><div class="piece-format fmt-reels">REELS · 30-40S</div></div>
+          <div class="piece-divider"></div>
+          <div class="piece-block"><div class="piece-block-label">Ideia do post</div><div class="piece-block-text">Professor de jiu-jitsu da terra derruba o mito de que é só briga e mostra a luta como saúde mental e defesa pra vida real. Atrai quem nunca pensou em pisar num tatame.</div></div>
+          <div class="piece-art">
+            <div class="piece-block-label">Vídeo · 30-40s</div>
+            <div class="piece-block-text"><span class="key">Gancho (0-3s):</span> professor no tatame, suado. "Acham que jiu-jitsu é só pra brigar. Não é."</div>
+            <div class="piece-block-text"><span class="key">Mito (3-12s):</span> "Quem chega tenso sai mais leve. Ninguém vem pra bater em ninguém — vem pra respirar e pensar antes de reagir."</div>
+            <div class="piece-block-text"><span class="key">Solução (12-24s):</span> mostra uma defesa básica, devagar. "Vale na rua e no dia que o trabalho pega pesado."</div>
+            <div class="piece-block-text"><span class="key">Benefício/CTA (24-40s):</span> turma reunida, gente da terra. "Quer ver como é? Aparece num treino."</div>
+          </div>
+          <div class="piece-block" style="margin-top:3mm;"><div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">Tem gente que acha que jiu-jitsu é briga. Quem entra no tatame sente outra coisa — a cabeça baixa o ritmo, o corpo cansa do jeito bom.</div>
+            <div class="piece-block-text">No treino você aprende a respirar, a pensar antes de reagir e a se defender de verdade. E o que treina ali não fica no tatame: segura quando a vida aperta lá fora. Tem jiu pra adulto e pra criança, com professor da terra do lado.</div>
+          </div>
+          <div class="piece-block-text" style="margin-top:2.5mm;"><span class="piece-icon">📲</span>(22) 99611-9083 · Rua Oscarino de Andrade · São Vicente de Paula</div>
+          <div class="piece-cta"><strong>CTA:</strong> Comenta <strong>EU QUERO</strong> experimentar uma aula no tatame.</div>
+          <div class="pend-note"><strong>Pendência:</strong> professor real de jiu com <strong>release</strong> (o time real já aparece na grade do perfil).</div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  <footer class="page-footer"><div class="footer-brand"><strong>LONE MÍDIA</strong> · Plano de Conteúdo · Complexo Vida</div><div class="page-num">7 / 10</div></footer>
+</section>
+
+<!-- P8 — 24/07 + 27/07 -->
+<section class="page">
+  <div class="top-header"><div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia"></div><div class="header-badge">CLIENTE <span class="dot">·</span><strong>COMPLEXO ESPORTIVO VIDA</strong></div></div>
+  <div class="page-body">
+    <div class="pieces-stack">
+
+      <div class="piece p4">
+        <div class="piece-side"><div class="side-label">P I L A R · 4</div></div>
+        <div class="piece-body">
+          <div class="piece-header"><div><div class="piece-date">24/07 · Sexta-feira <span class="pillar-tag">TREINO CERTO</span></div><div class="piece-title">Você começa pra ficar pronto.</div></div><div class="piece-format fmt-carrossel">CARROSSEL · 7 SLIDES</div></div>
+          <div class="piece-divider"></div>
+          <div class="piece-block"><div class="piece-block-label">Ideia do post</div><div class="piece-block-text">Quebra a desculpa "<span class="key">preciso emagrecer/entrar em forma antes</span>" e "tô velho/parado demais". O iniciante mais velho e fora de forma como protagonista acolhido. Saúde acima de estética.</div></div>
+          <div class="piece-art">
+            <div class="piece-block-label">Slides</div>
+            <div class="piece-block-text"><span class="key">Capa:</span> aluno mais velho/fora de forma chegando, expressão tranquila. "Você começa pra ficar pronto."</div>
+            <div class="piece-block-text"><span class="key">2:</span> "'Quando eu emagrecer eu começo' — a frase que segura mais gente aqui dentro." <span class="key">3:</span> "Ninguém entra em forma pra depois começar. Você começa, e ficar em forma vem no caminho."</div>
+            <div class="piece-block-text"><span class="key">5:</span> "60 anos não é tarde. Parado há 10 anos não é tarde. Fôlego curto é o motivo de vir, não de esperar." <span class="key">6:</span> "Saúde, não vitrine." <span class="key">7 (CTA):</span> "Vem do jeito que você tá."</div>
+          </div>
+          <div class="piece-block" style="margin-top:3mm;"><div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">Muita gente adia a academia esperando "emagrecer um pouco antes". Só que o corpo que você tá esperando é justamente o que vem treinando — então a espera só empurra o começo pra mais longe.</div>
+            <div class="piece-block-text">Você entra do jeito que tá hoje, no peso que dá pra hoje, com professor do lado mostrando o movimento. Parado há anos, fôlego curto, 60 no documento — nada disso é motivo pra esperar. É o próprio motivo de vir. E o foco é saúde: dormir melhor, subir a ladeira sem parar, ter disposição pro dia.</div>
+          </div>
+          <div class="piece-block-text" style="margin-top:2.5mm;"><span class="piece-icon">📲</span>(22) 99611-9083 · Rua Oscarino de Andrade · São Vicente de Paula</div>
+          <div class="piece-cta"><strong>CTA:</strong> Comenta a idade que você acha "tarde demais" pra começar — spoiler: não é.</div>
+          <div class="pend-note"><strong>Pendência:</strong> confirmar aula experimental gratuita + <strong>release</strong> do aluno mais velho/iniciante protagonista.</div>
+        </div>
+      </div>
+
+      <div class="piece p2">
+        <div class="piece-side"><div class="side-label">P I L A R · 2</div></div>
+        <div class="piece-body">
+          <div class="piece-header"><div><div class="piece-date">27/07 · Segunda-feira <span class="pillar-tag">COMBO FAMÍLIA</span> <span class="validar">VALIDAR</span></div><div class="piece-title">O tatame ensinou o que eu não consegui.</div></div><div class="piece-format fmt-post">POST ESTÁTICO</div></div>
+          <div class="piece-divider"></div>
+          <div class="piece-block"><div class="piece-block-label">Ideia do post</div><div class="piece-block-text">Pela ótica do <span class="key">pai/mãe orgulhoso</span>: o que mudou na criança depois do judô/jiu kids (respeito, foco, menos timidez). E os pais treinam no mesmo lugar. Fim das férias, encaixar a rotina.</div></div>
+          <div class="piece-art">
+            <div class="piece-block-label">Arte</div>
+            <div class="piece-block-text">Cena real: criança de kimono no tatame (cumprimento, guarda, atenção no professor) em primeiro plano; pai/mãe treinando ao fundo. <span class="key">Rosto de criança só com release do responsável</span> — sem release, enquadrar de costas/kimono.</div>
+            <div class="piece-block-text">Headline curta sobre a cena. Foto domina, cor do pilar (laranja) na faixa.</div>
+          </div>
+          <div class="piece-block" style="margin-top:3mm;"><div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">Ele era o que ficava atrás de todo mundo na festa da escola. Hoje cumprimenta o colega, espera a vez e olha no olho do professor. Mudou ali, no tatame.</div>
+            <div class="piece-block-text">A gente não procurava "esporte de luta". Procurava um lugar pra ele gastar energia e aprender a se respeitar — e o jiu/judô kids trouxe uma disciplina que nenhum sermão meu em casa tinha conseguido. E enquanto ele tá no tatame, você treina ali do lado, no mesmo lugar, sem correr a cidade.</div>
+          </div>
+          <div class="piece-block-text" style="margin-top:2.5mm;"><span class="piece-icon">📲</span>(22) 99611-9083 · Rua Oscarino de Andrade · São Vicente de Paula</div>
+          <div class="piece-cta"><strong>CTA:</strong> Comenta a idade do seu filho que eu te digo a turma kids certa pra ele.</div>
+          <div class="pend-note"><strong>Pendência:</strong> <strong>release</strong> do responsável (rosto de criança) + grade real kids × adulto antes de afirmar horário coincidente.</div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  <footer class="page-footer"><div class="footer-brand"><strong>LONE MÍDIA</strong> · Plano de Conteúdo · Complexo Vida</div><div class="page-num">8 / 10</div></footer>
+</section>
+
+<!-- P9 — 29/07 + 31/07 -->
+<section class="page">
+  <div class="top-header"><div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia"></div><div class="header-badge">CLIENTE <span class="dot">·</span><strong>COMPLEXO ESPORTIVO VIDA</strong></div></div>
+  <div class="page-body">
+    <div class="section-title-block"><div class="section-tag">SEMANA 5</div><div class="section-title">Julho</div></div>
+    <div class="pieces-stack">
+
+      <div class="piece p5">
+        <div class="piece-side"><div class="side-label">P I L A R · 5</div></div>
+        <div class="piece-body">
+          <div class="piece-header"><div><div class="piece-date">29/07 · Quarta-feira <span class="pillar-tag">MOOVZ · PARTE 2</span> <span class="validar">VALIDAR</span></div><div class="piece-title">Hoje ela treina sabendo.</div></div><div class="piece-format fmt-reels">REELS · 30-40S</div></div>
+          <div class="piece-divider"></div>
+          <div class="piece-block"><div class="piece-block-label">Ideia do post</div><div class="piece-block-text">Parte 2 da sequência: de uma <span class="key">aluna real</span>, o gesto diário de acompanhar a própria evolução. A moovz como ferramenta dela, sem afirmar tela/número/mecânica.</div></div>
+          <div class="piece-art">
+            <div class="piece-block-label">Vídeo · 30-40s</div>
+            <div class="piece-block-text"><span class="key">Gancho (0-3s):</span> close no rosto da aluna terminando uma série, pega na moovz no pulso. "Hoje ela treina sabendo."</div>
+            <div class="piece-block-text"><span class="key">Cena 1 (3-10s):</span> ela começa o treino. Voz dela: "Antes eu vinha, treinava e ia embora. Achava que tava melhorando, mas era no chute."</div>
+            <div class="piece-block-text"><span class="key">Callback Parte 1 (10-20s):</span> texto na tela: "Semana passada ficou a pergunta: você tá melhor que no primeiro dia? Hoje, como ela acompanha." Foco no gesto de olhar o pulso, <span class="key">não na tela</span>.</div>
+            <div class="piece-block-text"><span class="key">Benefício/CTA (20-40s):</span> ela mais solta, professor "tá no teu ritmo". "Agora cada treino eu sei se rendeu."</div>
+          </div>
+          <div class="piece-block" style="margin-top:3mm;"><div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">Semana passada ficou a pergunta no ar: você tá melhor que no teu primeiro dia de treino, ou tá indo no "acho que sim"?</div>
+            <div class="piece-block-text">Essa é a [NOME] (aluna real, com release). Ela treinava igual muita gente: vinha, fazia, ia embora, sem saber se rendeu. Hoje ela acompanha de perto, e cada treino tem um porquê. A moovz entra justo aí — no teu ritmo, sem ficar de olho no vizinho.</div>
+          </div>
+          <div class="piece-block-text" style="margin-top:2.5mm;"><span class="piece-icon">📲</span>(22) 99611-9083 · Rua Oscarino de Andrade · São Vicente de Paula</div>
+          <div class="piece-cta"><strong>CTA:</strong> Manda <strong>EVOLUÇÃO</strong> no direct que a gente te conta como funciona.</div>
+          <div class="pend-note"><strong>Pendência (moovz):</strong> mecânica/preço não confirmados — só desejo, sem tela/número. <strong>Release</strong> da aluna + confirmar que já há aluno usando.</div>
+        </div>
+      </div>
+
+      <div class="piece p1">
+        <div class="piece-side"><div class="side-label">P I L A R · 1</div></div>
+        <div class="piece-body">
+          <div class="piece-header"><div><div class="piece-date">31/07 · Sexta-feira <span class="pillar-tag">COMPLEXO COMPLETO</span> <span class="validar">VALIDAR</span></div><div class="piece-title">Gympass, Wellhub e TotalPass valem aqui.</div></div><div class="piece-format fmt-carrossel">CARROSSEL · 6 SLIDES</div></div>
+          <div class="piece-divider"></div>
+          <div class="piece-block"><div class="piece-block-label">Ideia do post</div><div class="piece-block-text">Fecha o mês <span class="key">removendo a objeção de preço</span>: dá pra treinar usando Gympass, Wellhub ou TotalPass, sem ser mensalista. Recap das modalidades + convite à aula experimental.</div></div>
+          <div class="piece-art">
+            <div class="piece-block-label">Slides</div>
+            <div class="piece-block-text"><span class="key">Capa:</span> recepção/fachada com gente entrando. "Gympass, Wellhub e TotalPass valem aqui."</div>
+            <div class="piece-block-text"><span class="key">2:</span> "Talvez você nem saiba: dá pra treinar aqui usando teu Gympass, Wellhub ou TotalPass." <span class="key">3:</span> "Sem precisar ser mensalista."</div>
+            <div class="piece-block-text"><span class="key">4:</span> "É o complexo todo: musculação, spinning, funcional, jiu-jitsu e judô." <span class="key">5:</span> "Não tem convênio? Faz uma aula experimental." <span class="key">6 (CTA):</span> "Chega aqui e treina." + contato.</div>
+          </div>
+          <div class="piece-block" style="margin-top:3mm;"><div class="piece-block-label">Legenda</div>
+            <div class="piece-block-text">Tem gente que mora aqui do lado e não sabe: o Complexo Vida aceita Gympass, Wellhub e TotalPass.</div>
+            <div class="piece-block-text">Se a tua empresa te dá um desses, dá pra treinar aqui sem precisar ser mensalista. Musculação, spinning, funcional, jiu-jitsu e judô — o complexo todo, perto de casa. E se você não tem convênio, tranquilo: passa aqui e faz uma aula experimental, sem compromisso.</div>
+          </div>
+          <div class="piece-block-text" style="margin-top:2.5mm;"><span class="piece-icon">📲</span>(22) 99611-9083 · Rua Oscarino de Andrade · São Vicente de Paula</div>
+          <div class="piece-cta"><strong>CTA:</strong> Chama no direct com o nome do teu convênio que a gente confirma se vale aqui.</div>
+          <div class="pend-note"><strong>Pendência:</strong> confirmar quais <strong>planos/tiers</strong> de Gympass, Wellhub e TotalPass são aceitos + aula experimental gratuita.</div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  <footer class="page-footer"><div class="footer-brand"><strong>LONE MÍDIA</strong> · Plano de Conteúdo · Complexo Vida</div><div class="page-num">9 / 10</div></footer>
+</section>
+
+<!-- P10 CLOSING -->
+<section class="page">
+  <div class="top-header"><div class="brand"><img src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia"></div><div class="header-badge">CLIENTE <span class="dot">·</span><strong>COMPLEXO ESPORTIVO VIDA</strong></div></div>
+  <div class="closing-body">
+    <img class="closing-logo" src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia">
+    <div class="closing-tag">MARKETING &amp; VENDAS · ARARUAMA</div>
+    <p class="closing-message">O fio do mês é um só: o herói não é a academia, é a pessoa. A mãe sem tempo, quem tem vergonha de começar, o aluno que voltou a subir a escada sem cansar, a criança que achou disciplina no tatame — o Complexo aparece como a ferramenta que ajudou. Os bastidores (professores chegando cedo, a turma do spinning, a recepção) vivem na <strong>rotina diária de Stories</strong>, fora do feed. As peças marcadas <strong>VALIDAR</strong> destravam quando o Complexo confirmar a grade kids × adulto, a moovz, os convênios e a aula experimental. Depoimento real nunca se inventa — coleta-se com a pessoa.</p>
+    <div class="closing-rule"></div>
+    <div class="closing-footer">PLANO DE CONTEÚDO · JULHO 2026<br>JANELA 01/07 → 31/07 · SÃO VICENTE DE PAULA, ARARUAMA</div>
+  </div>
+  <footer class="page-footer"><div class="footer-brand"><strong>LONE MÍDIA</strong> · Plano de Conteúdo · Complexo Vida</div><div class="page-num">10 / 10</div></footer>
+</section>
+
+</body>
+</html>
