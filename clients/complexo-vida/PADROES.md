@@ -114,6 +114,14 @@ Sem banco de fotos, a tentação é cair em stock e texto institucional. Proibid
 - 🚫 Não publicar o **valor** (~R$10 é meta interna do dono, não necessariamente o preço final ao aluno).
 - 🚫 Não afirmar **como se adquire** (precisa de wearable/cinta individual? é da aula? mensalidade? avulso?) nem se vale só spinning ou musculação também.
 - ✅ Ângulo sempre **desejo, não imposição:** "ver tua evolução", "teu desempenho medido", "saber se tá melhorando de verdade". Mostrar o app/tela real em uso cria vontade — sem vender o acessório de forma fria nem obrigar compra.
+
+### Calibração 2026-07-26 (PH): a moovz pede peça mais informativa
+
+PH pediu **mais informação sobre a moovz nas peças**. O gate comercial continua fechado, mas existe uma camada de profundidade que **não depende do dono**: em vez de só listar os números, **explicar o que cada um significa** (batimento = coração ao vivo · esforço = se tá leve ou já subiu de faixa · caloria = o gasto daquela aula · ranking = lugar na turma). Aplicado na peça #13 ([roteiro de 29/07](conteudo/roteiros/2026-07-29-moovz-o-que-cada-numero-significa.md)).
+
+⚠️ **Limite dessa camada:** só o que é **rótulo explícito na tela** pode ser afirmado. Batimento, caloria e ranking são leitura direta. O **percentual com faixa nomeada** ("39% Repouso" no frame analisado) é **interpretação** — confirmar com o dono o que mede antes de afirmar em copy.
+
+**O que destravaria a peça de moovz de verdade** — 4 perguntas curtas pro dono, ainda sem resposta: (1) tá incluso no plano ou é à parte? (2) quanto custa ao aluno? (3) precisa de pulseira/cinta individual ou é da aula? (4) vale só spinning ou musculação também? Com isso, o Pilar 5 sai de "mostrar" pra "explicar como ter".
 - ✅ Quando o dono confirmar preço/aquisição, atualizar este parágrafo + o [context.md](context.md) + as peças do Pilar 5.
 
 ---

@@ -4,6 +4,38 @@ Log datado do trabalho com o cliente. Entrada mais recente no topo.
 
 ---
 
+## 2026-07-26 — PH pediu mais informação sobre a moovz → peça #13 vira "o que cada número significa"
+
+PH perguntou se dá pra passar **informação maior sobre a moovz no post**. Conferi o que temos documentado: **tudo que está confirmado já entrou no carrossel de 17/07** (app, calorias, batimento, percentual, ranking). Não existe fato novo pra adicionar sem resposta do dono.
+
+**O que dá pra fazer sem depender do gate:** trocar *listar* os números por *explicar o que cada um significa*. É informação de verdade e cabe na regra. Aplicado na peça #13, próximo slot do pilar: [conteudo/roteiros/2026-07-29-moovz-o-que-cada-numero-significa.md](conteudo/roteiros/2026-07-29-moovz-o-que-cada-numero-significa.md) — Reels de quarta, apresentador de frente pra TV do spinning, close campo a campo (batimento → esforço → caloria → ranking), fecho "você não sai achando que treinou, sai sabendo".
+
+**Inversão deliberada do plano:** o calendário previa esta peça "com gesto, **sem tela/número**". Como a parte 1 já mostrou que os números existem, repetir isso seria a mesma peça duas vezes — a tela virou protagonista. Registrado no arquivo.
+
+**Precisão — separei o que é leitura direta do que é interpretação minha:** batimento, caloria e ranking são rótulos explícitos na tela real. O **percentual com faixa nomeada** ("39% Repouso") **não é** — descrevi como "se tá leve ou já subiu de faixa", mas o que ele mede exatamente precisa de confirmação do dono. Se não vier a tempo, o roteiro corta esse bloco e roda com 3 campos.
+
+**Compliance ficou mais pesado, não menos:** a peça **vive de close na tela**, então o release do aluno visível (Julio Elisban, 🔴 já aberto) é mais crítico aqui do que foi em 17/07. Deixei 3 caminhos no brief, em ordem de preferência (captação nova com release · enquadrar sem a coluna de nomes · desfocar na pós, última opção).
+
+**Doc vivo:** [PADROES §5](PADROES.md) ganhou a calibração — a camada "explicar, não só listar" fica como padrão do Pilar 5, com o limite explícito de só afirmar rótulo da tela. E registrei as **4 perguntas curtas** que destravariam a moovz de verdade (tá incluso ou é à parte · quanto custa · precisa de pulseira/cinta · vale fora do spinning).
+
+---
+
+## 2026-07-25 — Peça #12 (segunda 27/07): a criança no tatame, vista de casa
+
+PH pediu posts pros três clientes (Complexo Vida, CIIL, Maicom) na mesma conversa. Aqui produzi o **próximo slot do calendário**: [conteudo/posts/2026-07-27-crianca-no-tatame.md](conteudo/posts/2026-07-27-crianca-no-tatame.md) — peça #12, Pilar 2 (Combo Família), estático em cena real da turma kids.
+
+**Ângulo:** o pai/mãe matricula pra "gastar energia" e a mudança aparece **dentro de casa**, não na academia (arruma o quimono sozinho, espera a vez, cumprimenta olhando no olho, perde e volta pra fila, dorme melhor). A academia entra na penúltima linha, como ferramenta — regra-mãe 3 respeitada. CTA do banco do P2: "Comenta a idade do seu filho".
+
+**Duas decisões de fato, pra não chutar:** (1) escrevi **"no mesmo lugar"**, não "no mesmo horário" — a grade kids × adulto segue 🟡 pendente; se PH confirmar que as turmas batem, a linha vira "mesmo horário" e a peça fica bem mais forte; (2) **Circuito Kids ficou de fora** — é produto confirmado (R$120), mas faixa etária e formato ainda não estão calibrados.
+
+**Anti-IA (rodado por mim contra o checklist + PADROES, sem subagent):** peguei na revisão uma **fórmula binária** que tinha escapado na 1ª versão ("Nada disso é sobre virar lutador. É sobre..."), o mesmo Pecado 9 já corrigido nas peças de 09/07 e 17/07 — reescrita. Antropomorfização checada de propósito (quem ensina é o professor, nunca "o tatame").
+
+**Pendências pra publicar:** 🔴 **release do responsável** de toda criança identificável (sem isso, enquadrar sem rosto) · 🟡 grade kids × adulto · 🟡 vermelho exato da marca.
+
+**Estado do calendário de julho:** as peças **#9 (20/07, Dia do Amigo), #10 (22/07, Reels jiu) e #11 (24/07, iniciante mais velho) não foram produzidas** — as datas passaram. Restam #13 (29/07, Reels moovz parte 2) e #14 (31/07, carrossel de convênios). **E o briefing de agosto vence hoje** (janela 22–25 do mês anterior, [playbook §3](../../shared/playbook-lone-midia.md)) — sinalizado a PH.
+
+---
+
 ## 2026-07-16 — Carrossel moovz (peça #8, sexta 17/07) — pedido urgente de PH
 
 PH pediu **urgente** o post de sexta 17/07 sobre moovz — que já era a peça #8 do calendário de julho (Pilar 5, moovz parte 1). Entregue: [conteudo/posts/2026-07-17-moovz-evoluindo-ou-so-treinando.md](conteudo/posts/2026-07-17-moovz-evoluindo-ou-so-treinando.md) — carrossel de 4 slides, ângulo "você tá evoluindo ou só treinando?", mostrando a tela real do app moovz no spinning (calorias, batimento, % de esforço, ranking). CTA de comentário (engajamento), não venda dura — consistente com o Pilar 5 (desejo, não imposição).

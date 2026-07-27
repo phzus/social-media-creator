@@ -4,6 +4,22 @@ Log datado do trabalho feito pra CIIL. Topo = mais recente. Entrada por bloco de
 
 ---
 
+## 2026-07-25 — Slot de segunda 27/07: véspera do Dia Mundial das Hepatites
+
+PH pediu posts pros três clientes (Complexo Vida, CIIL, Maicom) na mesma conversa. Aqui produzi o **próximo slot do calendário**: [conteudo/posts/2026-07-27-vespera-dia-mundial-hepatites.md](conteudo/posts/2026-07-27-vespera-dia-mundial-hepatites.md) — estático educativo que fecha o Julho Amarelo na véspera do **28/07**.
+
+**Ângulo novo (recorte ainda não usado no mês):** o **adulto** que acha que carteira de vacinação é assunto encerrado desde a escola. Gancho "Vacina não é só coisa de criança" — deliberadamente diferente do gancho da peça parkeada de 06/07 (que abre por "você lembra se tomou todas as doses?"). A efeméride entra no corpo, não no gancho.
+
+> 📌 **Decisão pra PH:** o [Julho Amarelo de 06/07](conteudo/posts/2026-07-06-julho-amarelo-hepatite-b.md) ficou parkeado e era candidato natural a esta data. **Escolher uma das duas** — publicar as duas seria repetir o tema em três semanas. A nova tem gancho mais forte e está ancorada na data; a parkeada já está pronta há mais tempo.
+
+**Compliance:** sem gate de escopo por doença (fala de vacina, serviço-núcleo confirmado) · sem número epidemiológico · sem conduta individual (fala em "esquema completo", **sem citar número de doses ou intervalo**) · só vacina, sem teste/sorologia · promete só serviço documentado (vacina + domiciliar). Vai pro RT como toda peça clínica.
+
+**Fatos conferidos na fonte antes de escrever** — aplicando a lição de 16/07 (o horário inventado): horário Seg–Sex 8h–18h sem sábado, telefones das 2 unidades, cobertura domiciliar do briefing §1. **Vício de "trânsito" evitado**: o obstáculo do domiciliar é "se sair de casa for o problema", universal pras duas praças.
+
+**Estado do calendário:** a peça de **Sex 24/07 (carrossel B2B de vacinação corporativa) não foi produzida** — a data passou. Qua 29/07 e Sex 31/07 seguem como buffer livre. **O briefing de agosto vence hoje** (janela 22–25, [playbook §3](../../shared/playbook-lone-midia.md)) — sinalizado a PH.
+
+---
+
 ## 2026-07-21 — Roteiro institucional publicitário pras duas unidades (Araruama + São Gonçalo)
 
 PH pediu um roteiro pra hoje: vídeo **publicitário, parecido com os que a CIIL já gravou**, **só pras duas unidades**, deixando claro que tem unidade em **Araruama E São Gonçalo**. Pediu pra (1) olhar a biblioteca de anúncios do Facebook e adaptar o que performa, e (2) pegar **só a copy** dos vídeos gravados (nome com "(ciil)") como inspiração — **sem reusar frames/imagens**.

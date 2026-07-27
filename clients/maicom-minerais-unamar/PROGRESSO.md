@@ -4,6 +4,22 @@ Log datado do trabalho feito pra Maicom. Topo = mais recente. Entrada por bloco 
 
 ---
 
+## 2026-07-25 — Peça 1 de agosto: lançamento da campanha do brinde (03/08)
+
+PH pediu posts pros três clientes (Complexo Vida, CIIL, Maicom) na mesma conversa. Como as 4 peças de aquecimento de julho já estavam fechadas, produzi a **próxima da fila**: [conteudo/posts/2026-08-03-lancamento-brinde-4m2.md](conteudo/posts/2026-08-03-lancamento-brinde-4m2.md) — peça 1 de 15 e abertura da Campanha A.
+
+**Função da peça:** entregar a regra com clareza absoluta e virar conta na cabeça de quem lê. Quem compra piso já mediu o cômodo — se a régua é 4 m² e acumula, a pessoa faz a multiplicação sozinha e chega no zap com o número na mão. Por isso a arte **anuncia** em vez de argumentar; o argumento ("quanto maior o ambiente, mais material grátis") vive na legenda.
+
+**Continuidade com o esquenta de 31/07:** a legenda abre pagando a promessa ("Na sexta a gente pediu pra você segurar a compra. Era por isso.") e a arte quebra visualmente com a anterior de propósito — a de sexta era vermelho vazio de suspense, esta é cheia, com o **saco de AC-1 e o rejunte ao lado do piso**. Evitei repetir a fórmula binária de sexta ("não é desconto, é melhor que desconto"): callback por referência, não por repetição de estrutura.
+
+**Decisão de copy — o preço-âncora ficou de fora.** "A partir de R$ 22,99/m²" está liberado ([PADROES §2](PADROES.md)), mas numa peça de lançamento ele disputa atenção com a regra do brinde, e o mês inteiro foi construído pra **não vender por preço**. O âncora rende mais nos Reels (V1/V4) e nas peças de variedade.
+
+**Checagem:** sem "porcelanato", sem desconto/%/starburst, mecânica exatamente como PH confirmou (4 m² = 1 brinde, acumula sem teto), sem detalhe fino na arte ("o resto é no balcão"), fatos batidos contra a tabela do [PADROES §4](PADROES.md).
+
+**Pendências:** 🔴 foto real do saco de AC-1 + rejunte + piso (sem ela a peça perde a prova física) · ⚠️ confirmar início em **03/08** (se for 01/08, o kicker e o callback à sexta mudam) · 🟡 hex oficiais (vira gargalo com 15 artes) · 🟡 risco do WhatsApp — esta é a peça que vai gerar o maior volume de mensagens do mês; vale plantão no dia 3.
+
+---
+
 ## 2026-07-23 (2) — Roteiros de vídeo do PH: integrados + regras reconciliadas
 
 PH mandou **4 roteiros de vídeo** ([referência](referencias/2026-07-23-roteiros-recebidos-agosto.md)) que vão ser produzidos, com 2 instruções: (1) *"continua no que ele falou, isso não interessa a gente"* → li como **seguir o pedido do cliente e não travar no atendimento do WhatsApp**; (2) *"Piso ele vende, mas não vende mais porcelanato"* → **resolve a OQ #D** (piso vende e aparece; só o porcelanato sai).
