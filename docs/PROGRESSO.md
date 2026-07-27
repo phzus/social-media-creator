@@ -4,6 +4,72 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-07-27 — Atlas Corretora entra no fluxo: onboarding + estratégia de agosto
+
+Cliente novo, o **9º da carteira**: **Atlas Corretora de Seguros** (@__atlas.corretora — dois underscores), corretora multi-seguradora **100% digital que atende todo o Brasil**. PH repassou um diagnóstico de 6 páginas da própria Lone. Estrutura completa em [clients/atlas-corretora/](../clients/atlas-corretora/) + [estratégia de agosto](../clients/atlas-corretora/estrategia/2026-08.md).
+
+**O diagnóstico em três números:** **172 seguidores** · 87% do feed é estático com mediana de **2 curtidas** · os 5 Reels da amostra fazem **3.876 views de média**, com pico de 16.562. O cliente pediu vídeo de dúvida no estilo do @danibarbizan (mandou também @chammah.seguralta pra copy), e o pedido dele bate exatamente com o que o dado mostra — faltava virar execução.
+
+**A estratégia:** 12 peças Seg/Qua/Sex com **7 Reels (58%)**, contra 8% de vídeo hoje. Três apostas: vídeo vira o produto; **lucros cessantes é o território livre** (aposta que o PDF não fez — franquia e "o que não cobre" são disputados por milhares de corretores, lucro cessante quase ninguém explica, é o maior ticket da lista e o cliente já pediu o tema); e **o rosto antes do produto**, porque conta de 172 seguidores não tem autoridade emprestada — o mês abre com o corretor se apresentando. O buffer de 31/08 é o oitavo Reel, com tema saído da caixinha de dúvidas.
+
+⚠️ **O que acrescentei:** o PDF só registrava nas limitações que regra de seguro varia por apólice. Virou **gate técnico do corretor** no [PADROES §2](../clients/atlas-corretora/PADROES.md) — roteiro que afirma cobertura passa por ele **antes de gravar**, senão a correção custa regravação. Junto foi a revisão dos roteiros prontos, com **cinco ajustes de linguagem**: nada de "o seguro paga" sem condicional, fora a comparação de preço, fora "as melhores seguradoras", e todo Reel fecha com a assinatura verbal *"condições variam por apólice, chama que eu confiro a sua"*. Também entraram a regra de dado sensível em caso de sinistro e uma **checagem obrigatória antes de publicar** — nasceu de um erro real: uma publicação da conta foi ao ar começando em "Aqui estão algumas opções de legendas para a imagem da Atlas Corretora...".
+
+**O que esse cliente tem de diferente:** chega com **marca pronta e boa** (azul-marinho, serifada, monograma "A") — não há kit a criar, há kit a aplicar em vídeo, o oposto do BodySkin. E atende o Brasil inteiro, então cai a âncora regional que vale pra todos os outros clientes da casa. Detalhe em [clients/atlas-corretora/PROGRESSO.md](../clients/atlas-corretora/PROGRESSO.md).
+
+---
+
+## 2026-07-26 (3) — BodySkin: primeiro post do cliente (ATA educativo, seg 27/07)
+
+PH pediu post pra segunda, fora das promoções, focado no **peeling de ATA**. Entregue em [conteudo/posts/2026-07-27-ata-mancha-avaliacao-antes.md](../clients/bodyskin-araruama/conteudo/posts/2026-07-27-ata-mancha-avaliacao-antes.md) — peça avulsa, não consome slot de agosto, e vira o **tempo zero do arco do ATA** (27/07 planta → 14/08 explica → 17/08 lança → 28/08 fecha).
+
+**O nó:** o gate da RT trava indicação, contraindicação e promessa de ATA, e o post sai amanhã. Escrevi **sem afirmar o que o ATA resolve** — a copy nomeia a dor concreta (a sombra no buço coberta com base todo dia), diz que existe protocolo de clínica, e joga a decisão pra avaliação. **A ressalva clínica virou o argumento da peça:** "o que a sua pele pede depende do seu tom de pele, do que causou a mancha e do que você já usou antes" resolve o ponto sensível da pele melanada sem excluir ninguém nem prometer a ninguém, e é o posicionamento que agosto quer construir. Título: *"Tem mancha que não sai com creme de farmácia."* Zero preço, CTA de salvamento, nenhum telefone (a pendência dos 4 WhatsApps segue aberta). Seis itens anexados pra validação da RT.
+
+⚠️ Como a peça sai antes de 03/08 e o kit de identidade ainda não existe, ela vira na prática o **protótipo da nova linha visual** — sinalizado a PH como decisão, não como post solto.
+
+---
+
+## 2026-07-26 (2) — BodySkin: chegou o catálogo de promoções de agosto (9 ofertas)
+
+PH repassou o pacote que a cliente manda todo mês — **10 artes prontas, 9 ofertas** — com um recado importante junto: **a cliente reclamou de a Lone só republicar as artes de IA que ela envia**, mas nem tudo ali é descartável. Registro em [referencias/2026-07-26-promocoes-agosto-cliente.md](../clients/bodyskin-araruama/referencias/2026-07-26-promocoes-agosto-cliente.md).
+
+**A estratégia de agosto tinha sido escrita sabendo de uma oferta. São nove.** Se cada uma virar post, agosto reproduz o julho que a cliente reclamou. Resolvido em [estratégia §11](../clients/bodyskin-araruama/estrategia/2026-08.md) separando **onde o preço mora**: destaque fixo "Agosto" nos stories como cardápio do mês, rodízio semanal, condição no fecho da legenda das peças de laser (nunca na arte), e feed com preço só nas duas peças do ATA. O buffer de 31/08 virou **carrossel de última chamada** — urgência com data que existe. Venda sobe de 17% pra 23% do mês, ainda longe dos ~100% de hoje.
+
+⚠️ **O compliance saiu do hipotético.** A cliente quer no ar preço de injetável **com brinde** ("ganhe preparação de pele grátis") em toxina e preenchimento, mais **enzimas para gordura localizada**, serviço que nem constava no briefing. As artes ainda trazem "efeito que dura por meses" e "resultados desde as primeiras sessões". Subi no [PADROES §2](../clients/bodyskin-araruama/PADROES.md) de 🟡 pra 🔴 com prazo real: **sem resposta da RT antes de 03/08, publicamos seis das nove ofertas do mês dela.**
+
+**PH respondeu três das quatro perguntas no mesmo dia** e uma delas afrouxou uma trava que eu tinha apertado demais: **encarte é conteúdo de stories** (a cliente já usa esse formato lá), e **post de feed com tema próprio pode comunicar as condições sem problema** — o vício nunca foi falar de preço, foi o encarte replicado. O §11 ganhou um banco de ângulos por oferta ("quanto custa continuar na cera" pras pernas, "a área que mais dói na cera é a que mais compensa no laser" pra virilha), então agosto absorve pedido de mais venda no feed sem quebrar a virada. Também ficou registrada a **exceção de urgência** (post de última hora pode usar algo parecido com a arte dela). Além disso: **"sua melhor versão" banida em definitivo**, mesmo sendo a assinatura preferida da cliente; e **"sem prender o limite do cartão" é verdade** — o cliente parcela e o limite não fica preso, o que é o argumento mais subaproveitado do pacote e hoje vive num iconezinho no canto da arte.
+
+**O que aproveitei da arte que ela mandou** (criou o [PADROES §7](../clients/bodyskin-araruama/PADROES.md), "o pacote dela é fonte de oferta, não briefing de arte"): o rodapé das peças já diz **"4 lasers em 1"** e **"todos os tons de pele"** — a bandeira do mês existe no vocabulário da própria cliente, em corpo 8, e o trabalho é trazer pro centro; a paleta teal + laranja + creme e o **monograma de flor de lótus** dão base pro kit de identidade em vez de partir do zero; e a arte de "10 sessões rosto", que quebra o padrão com foto em ambiente real, é a ponte na conversa — a que ela já fez diferente é a que funciona melhor. Duas pendências fecharam de graça: o ATA **encerra 31/08** (validade declarada) e **"últimas vagas" está fora** (nenhuma arte fala em vaga limitada). Detalhe em [clients/bodyskin-araruama/PROGRESSO.md](../clients/bodyskin-araruama/PROGRESSO.md).
+
+---
+
+## 2026-07-26 — BodySkin Araruama entra no fluxo: onboarding + estratégia de agosto
+
+Cliente novo, o **8º da carteira**: clínica de estética avançada no Centro de Araruama (@bodyskin.araruama, 5.638 seg.) — depilação a laser como carro-chefe + harmonização. PH repassou um diagnóstico de 8 páginas da própria Lone e pediu um calendário. Estrutura completa criada em [clients/bodyskin-araruama/](../clients/bodyskin-araruama/) + [estratégia de agosto](../clients/bodyskin-araruama/estrategia/2026-08.md).
+
+**O diagnóstico em um número:** mediana de **1 curtida**. 80% do feed é cartaz de preço; os Reels, que são só 18% do que a cliente posta, fazem **5.749 plays de média**. O esforço inteiro está no formato que menos alcança. A raiz do "repetitivo" que a cliente apontou não são as legendas — é monotonia de intenção: todo post vende preço.
+
+**A estratégia inverte a proporção de formato do cliente:** Reels 18% → **42%**, carrossel 1% → 17%, estático 80% → 42%. Três apostas: vídeo dobra de peso; os **4 lasers pra todos os fototipos** viram a bandeira do mês (único diferencial que não pode ser copiado por desconto, hoje parado numa linha da bio); e o **peeling de ATA entra por educação** — arco de 3 tempos (14/08 explica → 17/08 lança → 28/08 fecha) com ancoragem de economia justificada, porque preço baixo em estética levanta suspeita em vez de gerar desejo.
+
+⚠️ **O que acrescentei ao material de entrada: compliance.** O diagnóstico não tratava disso, e é o **primeiro cliente da Lone com injetável na pauta**. Criei o gate no [PADROES §2](../clients/bodyskin-araruama/PADROES.md), no padrão já usado na CIIL: **antes e depois travado** até a RT autorizar (a regra muda conforme o conselho de quem executa) — por isso as peças de prova foram construídas em depoimento e mudança de rotina, não em imagem comparativa; **preço de injetável travado** (o perfil publica preço de toxina hoje, verifiquei ao vivo); e o **ATA em pele melanada**, cujo risco de hiperpigmentação o próprio diagnóstico registra — delicado numa clínica que se vende por "todos os fototipos".
+
+Também reconciliei duas regras do diagnóstico com o playbook: **CTA** (caminho de conversão único, mas forma variada — peça de topo pede comentário/salvamento, não WhatsApp) e **cadência** (adotado o padrão Lone 12/mês Seg/Qua/Sex no lugar dos 8 em 14 dias do PDF; pende do plano contratado). Detalhe em [clients/bodyskin-araruama/PROGRESSO.md](../clients/bodyskin-araruama/PROGRESSO.md).
+
+---
+
+## 2026-07-25 — Posts pros três clientes: Complexo Vida, CIIL e Maicom
+
+PH pediu posts pros três de uma vez, sem especificar data. Produzi **o próximo slot pendente de cada calendário**, um por cliente:
+
+- **Complexo Vida — Seg 27/07, peça #12** ([post](../clients/complexo-vida/conteudo/posts/2026-07-27-crianca-no-tatame.md)). Pilar 2 (Combo Família), estático em cena real da turma kids. Ângulo: a mudança da criança aparece **dentro de casa**, não na academia — arruma o quimono sozinho, espera a vez, perde e volta pra fila. Escrevi "mesmo lugar" e não "mesmo horário" (grade kids × adulto ainda 🟡) e deixei o Circuito Kids fora (faixa etária não calibrada). Peguei na revisão uma fórmula binária que tinha escapado, o mesmo Pecado 9 já corrigido em 09/07 e 17/07.
+- **CIIL — Seg 27/07, véspera do Dia Mundial das Hepatites** ([post](../clients/ciil/conteudo/posts/2026-07-27-vespera-dia-mundial-hepatites.md)). Fecha o Julho Amarelo com o recorte que faltava no mês: o **adulto** que acha que carteira de vacinação acabou na escola. Sem gate por doença (fala de vacina), sem número epidemiológico, sem citar dose/intervalo. **Decisão pendente de PH:** a peça parkeada de 06/07 também era candidata a essa data — publicar as duas seria repetir tema em três semanas.
+- **Maicom — Seg 03/08, peça 1 de agosto** ([post](../clients/maicom-minerais-unamar/conteudo/posts/2026-08-03-lancamento-brinde-4m2.md)). Lançamento da Campanha A ("a cada 4 m², argamassa AC-1 e rejunte por nossa conta, e acumula"). O aquecimento de julho já estava fechado, então a fila era essa. A peça anuncia em vez de argumentar — a régua baixa faz a pessoa calcular sozinha e chegar no zap com a metragem. Preço-âncora deixado de fora de propósito: numa peça de lançamento ele disputa com o brinde.
+
+**Validação** rodada por mim contra o voice-quality-checklist, o [anti-ai-protocol](../.claude/rules/anti-ai-protocol.md) e o PADROES de cada cliente (sem subagent nesta conversa).
+
+⚠️ **Dois avisos de calendário levantados pra PH:** (1) ficaram peças não produzidas com data vencida — Complexo Vida #9/#10/#11 (20, 22 e 24/07) e o carrossel B2B da CIIL (24/07); (2) o **briefing mensal de agosto vence hoje, 25/07** (janela 22–25 do mês anterior, [playbook §3](../shared/playbook-lone-midia.md)) pro Complexo Vida e pra CIIL — a Maicom já tem agosto fechado.
+
+---
+
 ## 2026-07-23 (2) — Maicom Minerais: 4 roteiros de vídeo do PH integrados + regras reconciliadas
 
 PH mandou 4 roteiros de vídeo que vão ser produzidos + 2 instruções: *"continua no que ele falou, isso não interessa a gente"* (li como: seguir o cliente, **não travar no WhatsApp**) e *"piso vende, porcelanato não"* (resolve o escopo da restrição — piso aparece, só o porcelanato sai). Produzi as [versões limpas](../clients/maicom-minerais-unamar/conteudo/roteiros/2026-08-videos-campanha.md): **corrigi o nome (vinha "Maicon" → Maicom, com M**, bate com CNPJ/@), troquei o tom genérico pela voz de varejo popular, apliquei identidade e a estrutura de venda do playbook. Mapeados nos Reels de 05, 12, 19 e 21/08. **Reconciliei o preço:** os roteiros usam "piso a partir de R$ 22,99/m²", que batia com minha regra "sem preço de piso no feed" — liberei o **preço-âncora** (não é desconto; desconto continua fora). **Rebaixei o gargalo do WhatsApp de bloqueante → risco registrado** (por orientação do PH). Sinalizei o nome "Maicon" e a reversão parcial da regra de preço pra ele confirmar. Detalhe em [clients/maicom-minerais-unamar/PROGRESSO.md](../clients/maicom-minerais-unamar/PROGRESSO.md).
