@@ -4,6 +4,364 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-08-13 (5) — Veterinária Regional: diagnóstico concreto do problema de copy + post de amanhã corrigido
+
+PH detalhou o "muito ruim": a copy colava ideias sem lógica real entre as frases (conectivo forçado tipo "e é por isso que", fórmula binária solta, fechamento duplicado que não puxava CTA) — não era (só) tom institucional, como eu tinha hipotetizado a partir do benchmark. Corrigi o post de Dia do Cardiologista (14/08, data fixa) reescrevendo a legenda como uma única linha de raciocínio. Falta reler as outras 6 peças do lote com esse mesmo filtro antes de destravar produção nova. Detalhe em [clients/veterinaria-regional/PROGRESSO.md](../clients/veterinaria-regional/PROGRESSO.md).
+
+---
+
+## 2026-08-13 (4) — Veterinária Regional: PH avalia conteúdo como "muito ruim", produção pausada pra revisão de estratégia/copy
+
+PH deu feedback direto sobre os 7 posts produzidos até aqui: estratégia/ângulos e copy não estão bons (visual/design ok). Produção pausada até revisar com benchmark novo de referências (além da lista de 30/07 já registrada). Levantamento em andamento. Detalhe em [clients/veterinaria-regional/PROGRESSO.md](../clients/veterinaria-regional/PROGRESSO.md).
+
+---
+
+## 2026-08-13 (3) — Bruno das Tintas: primeiro post escrito ("Aqui a maresia come a tinta")
+
+PH escolheu, entre 4 opções da primeira leva do briefing de reset, o **Post 5** — arte estática do pilar "Casa de beira de lagoa" (Qualyvinil 6 em 1 e Maza Superflex resistindo à maresia, argumento hiperlocal nunca usado no feed antigo). Peça escrita com brief completo pro designer, copy, legenda e checagem contra o PADROES.md do cliente. CTA sai com WhatsApp em branco (número oficial ainda não confirmado). Detalhe em [clients/bruno-das-tintas/PROGRESSO.md](../clients/bruno-das-tintas/PROGRESSO.md).
+
+---
+
+## 2026-08-13 (2) — Bruno das Tintas: onboarding formal no repositório + briefing de reset
+
+PH trouxe um briefing estratégico e plano de ação completo pra Bruno das Tintas (loja de tintas, 2 unidades, Araruama e Iguaba Grande). Cliente já é ativo pra Lone desde ~abril/2026 (dezenas de artes/vídeos já produzidos fora deste sistema), mas era a primeira vez entrando na estrutura `clients/<slug>/`. Documento audita os 16 posts do feed atual (feed 81% azul-marinho numa loja que vende cor, "leia a legenda" 3x, 2 logos/4 rodapés/4 telefones circulando) e propõe reset: 3 pilares novos (Cor resolvida · Casa de beira de lagoa · O balcão que o pintor confia), 8 linhas de conteúdo, calendário de 12 semanas, 6 briefings de arte prontos. Estrutura completa criada (BRIEFING/context/PADROES/OPEN-QUESTIONS/PROGRESSO). Detalhe em [clients/bruno-das-tintas/PROGRESSO.md](../clients/bruno-das-tintas/PROGRESSO.md).
+
+---
+
+## 2026-08-13 — Contele: regra nova proíbe "queima combustível"/"sem fumaça" no copy de energia solar
+
+PH corrigiu o post de sexta 14/08 ("Painel solar não queima nada"): mesmo sem citar a rede elétrica diretamente, dizer que o painel "não queima combustível" implica contraste com algo que queima — e a matriz elétrica brasileira é majoritariamente hidrelétrica (água de rio, não combustão), então a comparação é imprecisa. Direção nova, permanente: falar só que a energia solar é uma fonte sustentável, sem entrar nessa comparação. Post de 14/08 reescrito e regra registrada em [clients/contele-solar/PADROES.md](../clients/contele-solar/PADROES.md). Detalhe em [clients/contele-solar/PROGRESSO.md](../clients/contele-solar/PROGRESSO.md).
+
+---
+
+## 2026-08-12 (2) — Posts de sexta 14/08: Contele (Dia de Combate à Poluição) + VR (Dia do Cardiologista)
+
+PH pediu os posts de sexta 14/08 pra dois clientes, ancorados em datas comemorativas verificadas por busca antes de escrever. **Contele:** post único "Painel solar não queima nada", ligando energia solar ao Dia Nacional de Combate à Poluição — saiu primeiro como carrossel de 5 slides, mas PH pediu pra simplificar pra uma peça só; cuidado tomado pra não sugerir que a rede elétrica brasileira polui (matriz é majoritariamente hidrelétrica). **Veterinária Regional:** cardiologia já tinha sido tema de terça 11/08, então o Dia do Cardiologista (data de medicina humana) criava repetição de especialidade na mesma semana — perguntei a PH, que optou por manter cardiologia com ângulo comemorativo/institucional em vez dos sinais de alerta já usados. Detalhe em [clients/contele-solar/PROGRESSO.md](../clients/contele-solar/PROGRESSO.md) e [clients/veterinaria-regional/PROGRESSO.md](../clients/veterinaria-regional/PROGRESSO.md).
+
+---
+
+## 2026-08-11 (6) — CIIL: 4 pendências resolvidas, caminho livre pra fechar agosto
+
+PH respondeu as 4 perguntas pendentes: vacinação reduz no mix (tratamento ganha espaço), gate do RT não precisa mais confirmar por unidade (só o fato clínico + especialidade), decisor confirmado (mesma pessoa que passou o recado de foco), e o briefing de agosto é só essa diretriz mesmo, sem promoção adicional. Simplifica a pergunta que falta mandar pro RT e libera fechar a estratégia de agosto, que segue sem existir formalmente. Detalhe em [clients/ciil/PROGRESSO.md](../clients/ciil/PROGRESSO.md).
+
+---
+
+## 2026-08-11 (5) — CIIL: cliente confirmou foco em tratamento de doenças
+
+PH repassou recado do contato da CIIL: o foco do negócio é tratamento de doenças. Isso aponta pra série "Isso Tem Nome" (autoimune/infusão) + os procedimentos dermatológicos novos, e eleva a prioridade de destravar o gate do RT médico (Espondilite Anquilosante, Artrite Psoriática, procedimentos dermatológicos) — a série já estava com estoque de peças-ponte zerado e sem material pra segunda 17/08. Fica em aberto se isso reduz o peso de vacinação no mix ou soma em cima. Detalhe em [clients/ciil/PROGRESSO.md](../clients/ciil/PROGRESSO.md).
+
+---
+
+## 2026-08-11 (4) — Veneza Estofados: 3 posts fixados definidos, terceiro escrito
+
+PH fechou os 3 posts fixados do perfil — Localização, Horário de funcionamento e "somos fábrica, por isso o preço não tem intermediário" (recomendação da Lone, aprovada). Escrevi essa terceira peça sintetizada em só 2 linhas de texto, pedido explícito de PH. Faltam escrever Localização/Horário e curar material real pra tudo. Detalhe em [clients/veneza-estofados/PROGRESSO.md](../clients/veneza-estofados/PROGRESSO.md).
+
+---
+
+## 2026-08-11 (3) — Veneza Estofados: primeira leva de conteúdo escrita
+
+PH deu sinal verde pro onboarding ("Bora de onboarding"). Escrevi as 6 peças da "primeira leva" já briefadas no documento-fonte — 4 posts estáticos + 2 roteiros de Reels — distribuídas em 2 semanas (17 a 28/08) seguindo a cadência confirmada (segunda leve, quarta Reels, sexta produto). Falta curadoria de material real do drive do cliente e definir quem grava os 2 Reels — nenhum dos dois bloqueia a escrita, só a produção final. Detalhe em [clients/veneza-estofados/PROGRESSO.md](../clients/veneza-estofados/PROGRESSO.md).
+
+---
+
+## 2026-08-11 (2) — Veneza Estofados: Fase 0 destravada
+
+PH resolveu os 4 bloqueantes originais do onboarding: prazo de entrega (7 dias úteis, confirmado sem auditar — "somos apenas prestadores de serviço"), telefone oficial ((22) 98811-4216), fabricação × revenda (só colchão é revenda) e garantia/troca/pagamento na entrega (virou regra permanente de nunca mencionar, não é mais pendência). Também resolvida a autorização de prova social — usar avaliações reais do Google Maps. Único item que segue em aberto é a ficha técnica/preço do mix ampliado (poltrona, cama box, cabeceira, colchão), tratada agora como fluxo contínuo do cliente, não bloqueante. Nada mais impede produzir as artes de onboarding. Detalhe em [clients/veneza-estofados/PROGRESSO.md](../clients/veneza-estofados/PROGRESSO.md).
+
+---
+
+## 2026-08-11 (1) — Veneza Estofados: pendências importantes/desejáveis respondidas
+
+PH respondeu 7 das pendências abertas do onboarding (fundação, cadência real, Google Meu Negócio, bio/destaques, prints de Reels) e pediu explicação do porquê das pendências bloqueantes. Achado com valor pra calendário: print da aba de Reels da própria conta mostrou que vídeos com pessoa em cena alcançam 18-22 mil views contra 800-5 mil dos vídeos só de produto. Corrigida também a cadência real (3 posts/semana — 2 estáticos + 1 Reels, padrão Lone), que era mais pesada no documento-fonte original e nunca tinha sido confirmada. Seguem abertos os 4 bloqueantes, a ficha técnica do mix ampliado (#5) e a autorização de depoimento (#8). Detalhe em [clients/veneza-estofados/PROGRESSO.md](../clients/veneza-estofados/PROGRESSO.md).
+
+---
+
+## 2026-08-10 (2) — Novo cliente: Veneza Estofados Araruama (onboarding)
+
+PH trouxe a Veneza Estofados (fábrica + loja física de estofados, Araruama/RJ) com um briefing estratégico completo já pronto (diagnóstico + plano de ação em 4 fases) e o questionário do cliente respondido no mesmo dia. Estrutura completa criada — [clients/veneza-estofados/](../clients/veneza-estofados/) — com BRIEFING, context, PADROES e OPEN-QUESTIONS cruzando as pendências do documento original contra o que o questionário já resolveu.
+
+**Achado principal:** o questionário resolveu a pendência de material de captação (cliente tem banco próprio, incluindo fotos da fábrica) e revelou que bases baú e colchões estão entre os produtos que mais vendem — categoria sem ficha técnica levantada no diagnóstico original (que era quase todo sofá). Seguem 100% abertas: prazo real de entrega, telefone oficial (divergência DDD 21 × 22), fabricação própria × revenda item a item, garantia/troca.
+
+**Cliente tem reputação abalada** (Reclame Aqui 5,6/10, 45,56% das reclamações são atraso de entrega) — regra permanente registrada em PADROES: nunca prometer prazo/velocidade não confirmado, nem copiar o tom de urgência dos perfis de referência do cliente (P21, Unity), cuja operação de volume a Veneza não sustenta hoje.
+
+Nada produzido ainda — aguardando PH definir próximo passo. Detalhe completo em [clients/veneza-estofados/PROGRESSO.md](../clients/veneza-estofados/PROGRESSO.md).
+
+---
+
+## 2026-08-10 — Calendário da semana (10-14/08) pra 10 clientes: post de segunda pronto + esboço de quarta/sexta
+
+PH pediu velocidade: post estático de hoje (segunda) pronto pra designer em todos os clientes ativos, mais o esboço do resto da semana. Rodei 10 agentes em paralelo, um por cliente (CIIL, BodySkin Araruama, Atlas Corretora, Maicom Minerais, Bazar Ribeiro, Nova União Glass, Contele Solar, Veterinária Regional, Quero Tintas, Complexo Vida — Engetec ficou de fora desta rodada, a pedido de PH). Antes de produzir, confirmei com PH duas coisas que mudavam o resultado: (1) a lista de clientes desta rodada (não é "todos" do índice, é a lista acima) e (2) que a nova diretriz do chefe dele — cada cliente postando uma linha temática única de categoria por semana (ex. Bazar Ribeiro só hidráulica) — **não vale ainda**, só entra em prática a partir de 17/08/2026 (registrado em [OPEN-QUESTIONS](OPEN-QUESTIONS.md)). Por isso a semana de 10-14/08 seguiu o mix normal de cada cliente.
+
+**Resultado por cliente** (detalhe completo no PROGRESSO.md de cada um):
+- **Complexo Vida** — semana inteira já estava pronta desde 05/08 (pedido pontual anterior de PH, "semana só moovz"). Só confirmei, nada duplicado.
+- **Veterinária Regional** — post de segunda já existia (03/08), revisado e aprovado. Esboços de quarta (humor/identificação) e sexta (curiosidade sobre visão de cães/gatos) escritos.
+- **Maicom Minerais** — post de segunda novo ("quantos m² tem seu cômodo"). Corrigi uma conta de brinde que contradizia o PADROES (não confirmada com o cliente). Quarta já tem roteiro fechado; sexta trava em depoimento real ainda não confirmado.
+- **Contele Solar** — post de segunda novo (6 cidades atendidas). Sinalizado: 4 peças seguidas fora dos pilares de prova social/institucional por falta de dado do cliente — vale acelerar resposta.
+- **Bazar Ribeiro** — sem calendário nenhum pra essa semana (campanha de Dia dos Pais encerrou 09/08); planejei do zero. Post de segunda novo (pilar educativo, "sinais de que o chuveiro vai queimar"), rodando nos dois perfis (Maricá + Saquarema).
+- **Atlas Corretora** — post de segunda novo (seguro residencial além de incêndio), tema puxado do banco original nunca usado. Sinalizei que a semana ficou concentrada em Mitos/educativo (variei por ramo: residencial/auto).
+- **BodySkin Araruama** — post de segunda novo (laser em agosto, sem preço/injetável). Gate da RT sobre injetável segue travado desde 03/08 e agora bloqueou até o tema de quarta — troquei por esboço seguro (dor no laser). Sexta já estava pronta desde 31/07.
+- **Nova União Glass** — post de segunda novo (guia de espessura de vidro). Esboços de quarta e sexta escritos.
+- **Quero Tintas** — primeira peça já publicável do cliente (educativo, "quanto de tinta comprar") — as 3 peças anteriores seguem travadas por falta de validação de tom com o dono. Esboços de quarta/sexta em tom neutro, sem depender dessa validação.
+- **CIIL** — post de segunda novo (peça-ponte da série "Isso Tem Nome", fora do gate por doença). Sinalizado: o estoque de pontes esgotou, segunda 17/08 fica sem material de reserva se o RT não liberar novas doenças.
+
+**Pendências que PH precisa revisar antes de mandar qualquer peça pro designer:** todas as peças acima levam "Pendências"/observações no próprio arquivo (gate de RT em 2 clientes — BodySkin e CIIL —, preços a reconfirmar no Bazar Ribeiro e Maicom, decisão de tema em Atlas e Quero Tintas). Nenhuma peça inventou preço, horário, nome de pessoa ou dado não documentado — onde faltou informação, ficou como placeholder ou o tema foi trocado por um que não depende do dado ausente.
+
+---
+
+## 2026-08-06 (9) — Quero Tintas: post de sexta 07/08, carrossel "Mostrou o print, levou o desconto"
+
+PH pediu o post de sexta 07/08 pra Quero Tintas. O briefing estratégico do cliente propõe sexta = Reel "Nem Vem"/comparativo (um dos 15 roteiros de Reel já mapeados), mas optei por **não** seguir essa proposta ainda e usei a estrutura oficial da Lone (sexta = carrossel/venda) em vez do calendário alternativo do briefing, porque três pendências específicas deste cliente seguem em aberto: cadência de 5 posts/semana não confirmada contra o plano contratado, tom de provocação do formato "Nem Vem" sem aval do dono (mesmo sem citar concorrente), e nome/disponibilidade formal do dono como persona recorrente em vídeo ainda não confirmado. Escrevi um carrossel de 6 slides sobre a mecânica "preço de fábrica" (print do anúncio = desconto) — 100% factual, já validada no perfil, sem inventar preço/produto, sem depender de vídeo do dono e sem tom de provocação; reusa só o bordão já existente "Preço de fábrica na Quero, você acha em qualquer lugar? Duvido.", sem inventar bordão novo. **Segue como as outras 2 peças do cliente: não publicável antes de validar tom/bordões com o dono** — este é o cliente com mais pendências abertas da carteira (5 bloqueantes, nenhuma resolvida). Detalhe em [clients/quero-tintas/PROGRESSO.md](../clients/quero-tintas/PROGRESSO.md).
+
+---
+
+## 2026-08-06 (8) — BodySkin Araruama: roteiro de sexta 07/08, "Para eles" (bastidor masculino, véspera Dia dos Pais)
+
+PH pediu a peça de sexta-feira (07/08) pra BodySkin Araruama. O calendário de agosto já mapeava esse dia como peça 3 (exceção ao padrão Seg/Qua/Sex do mês: sexta vira **Reels** de bastidor em vez de carrossel/venda, por ser véspera do Dia dos Pais). Antes de escrever, conferi o `OPEN-QUESTIONS.md` — o **gate de compliance da RT segue 🔴 sem resposta** (prazo pedido era 03/08, sem sinal de resolução até hoje), então o roteiro ficou 100% em depilação a laser (carro-chefe, fora do gate), sem tocar em nenhum procedimento injetável. A oferta usada (combo masculino tórax+abdômen+axilas ou barba, 18x R$79) é depilação a laser — categoria não travada na tabela de preços — e entra só na legenda, nunca no vídeo. WhatsApp segue sem número oficial confirmado, então o CTA é de engajamento ("marca ele aqui embaixo") em vez de apontar pra um número específico. Repeti a adaptação "sem rosto identificável" do primeiro roteiro do cliente, porque nem o nome da RT nem o consentimento de imagem avançaram. Detalhe completo em [clients/bodyskin-araruama/PROGRESSO.md](../clients/bodyskin-araruama/PROGRESSO.md).
+
+---
+
+## 2026-08-06 (7) — Contele Solar: post de sexta 07/08, carrossel "Como funciona a instalação"
+
+PH pediu o post de sexta 07/08 pra Contele Solar — slot de "carrossel ou conteúdo focado em venda" da estrutura oficial. Pilar 2 (Prova social) e Pilar 3 (Institucional/local) seguem bloqueados (falta caso real e falta nome real de equipe/cliente pra citação — este segundo motivo descoberto agora, registrado em [OPEN-QUESTIONS](../clients/contele-solar/OPEN-QUESTIONS.md)). Resolvido com variação de carrossel do Pilar 1 (Educativo): 6 slides do processo real de instalação (visita técnica → projeto → homologação Enel → instalação), fechando com o número confirmado +700 e CTA de DM — sem inventar prazo de nenhuma etapa. Detalhe em [clients/contele-solar/PROGRESSO.md](../clients/contele-solar/PROGRESSO.md).
+
+---
+
+## 2026-08-06 (6) — Maicom Minerais: post de sexta 07/08, carrossel de venda "A conta que ninguém faz"
+
+PH pediu o post de sexta-feira (07/08) pra Maicom Minerais. A peça já estava mapeada na estratégia de agosto como peça 3 do calendário (Carrossel, Educativo + Venda) — produzi exatamente como planejado: 8 slides que narram a dor de fechar o orçamento do piso e descobrir no balcão que falta argamassa e rejunte, revelando no final a campanha do mês (a cada 4 m² de piso, argamassa e rejunte por conta da loja). CTA "comenta a metragem do teu cômodo", escolhido deliberadamente pra não prometer resposta rápida em cima do gargalo de atendimento já conhecido do cliente. Respeitou a palavra banida "porcelanato" e não inventou nenhum valor em reais pra argamassa/rejunte avulsos. Detalhe completo em [clients/maicom-minerais-unamar/PROGRESSO.md](../clients/maicom-minerais-unamar/PROGRESSO.md).
+
+---
+
+## 2026-08-06 (5) — Veterinária Regional: post de sexta 07/08, Dia Internacional do Gato
+
+PH pediu o post de sexta-feira (07/08) pra Veterinária Regional. Slot fixo de "Data ou curiosidade pet" ([context.md](../clients/veterinaria-regional/context.md)). O Dia Internacional do Gato cai em 8/08 (sábado, dia bônus condicional deste cliente) — antecipei a peça pra sexta, dia útil garantido do calendário-base, em vez de arriscar o slot condicional. Confirmei a data via busca (instituída pelo IFAW em 2002) antes de escrever. Ângulo: em vez de homenagem institucional pura, usei a curiosidade real e amplamente aceita de que gato esconde dor/mal-estar por instinto de sobrevivência — conecta com o perfil do público (motivado por sinal de alerta concreto), fecha em CTA de observação + WhatsApp, nunca em diagnóstico à distância. Detalhe completo, incluindo as pendências recorrentes (banco de stock a definir, briefing/cadência ainda não validada com o cliente) e a antecipação de data sinalizada a PH, em [clients/veterinaria-regional/PROGRESSO.md](../clients/veterinaria-regional/PROGRESSO.md).
+
+---
+
+## 2026-08-06 (4) — Nova União Glass: post de sexta 07/08, primeira peça além do institucional ("Mito ou verdade: vidro temperado não quebra?")
+
+PH pediu o post de sexta-feira (07/08) pra Nova União Glass, avisando que a fase de abertura institucional (31 anos, "Conheça a Nova União", "Tudo em vidro num quadro só", todas de 03/08) já tinha passado — a peça podia ir além, com produto específico, objeção ou prova de aplicação. Escolhi objeção técnica: "vidro temperado não quebra" é crença comum e tecnicamente errada — ele quebra sim, em grânulos pequenos e sem borda cortante, por isso vira box, guarda-corpo e porta. Formato Mito x Verdade, estático, 100% tipográfico (não depende do banco de stock de arquitetura ainda não curado). Claim técnico respeitou o compliance já registrado (nunca "não quebra"/"indestrutível", sem citar norma ABNT específica) e usei pela primeira vez o dado confirmado de parcelamento em 10x sem juros pra reforçar o caráter de venda do slot de sexta. CTA seguiu o molde já validado ("peça seu orçamento — link na bio") — sem WhatsApp, que segue sem confirmação por escrito, e briefing segue não validado formalmente com o cliente. Detalhe em [clients/nova-uniao-glass/PROGRESSO.md](../clients/nova-uniao-glass/PROGRESSO.md).
+
+---
+
+## 2026-08-06 (3) — CIIL: post de sexta 07/08, carrossel de venda "Vacinação corporativa"
+
+PH pediu o post de sexta-feira (07/08) pra CIIL. Sem estratégia de agosto fechada ainda (OQ #2), e com as duas peças-ponte da série "Isso Tem Nome" (únicas fora do gate de escopo por doença) já usadas em 29/07 e 03/08, resgatei um asset parkeado duas vezes no calendário de julho: o carrossel B2B de vacinação corporativa ("Seu time protegido pro inverno"), cotado originalmente pra 24/07 e desviado nessa data pelo post de Excisão de Lesões — só o título existia, a copy é inédita. Carrossel curto (3 slides), pilar Venda, fora do gate por doença (fala de vacinação como categoria, não nomeia doença autoimune). Cobertura geográfica tratada com cautela: o briefing só confirma área ampla ("Região dos Lagos + SG") pro atendimento domiciliar, não pro corporativo — a copy cita só as duas cidades das unidades e deixa pendência pra PH confirmar se a área é maior. Detalhe em [clients/ciil/PROGRESSO.md](../clients/ciil/PROGRESSO.md).
+
+---
+
+## 2026-08-06 (2) — Complexo Vida: post de sexta 07/08, 3ª peça da série modalidades (Spinning)
+
+PH pediu o post de sexta-feira (07/08) pra Complexo Vida. Sem estratégia de agosto fechada ainda, segui o padrão vivo já confirmado — a série "modalidades" (post estático semanal, cena real, headline 2 linhas pergunta+giro, herói é a pessoa/grupo, não a academia): Musculação (29/07) e Treino Funcional (03/08) abriram a série, esta é a 3ª, **Spinning**. Peça independente e anterior à campanha moovz já agendada pra semana seguinte (10, 12 e 14/08) — mencionei a moovz só de leve (app mostra esforço em tempo real no spinning), sem tocar em preço/mecânica, que é assunto exclusivo daquela campanha. Diferenciei o ângulo das duas peças anteriores da série (energia de grupo sustentando o ritmo, em vez de repetir "acompanhamento"). Detalhe em [clients/complexo-vida/PROGRESSO.md](../clients/complexo-vida/PROGRESSO.md).
+
+---
+
+## 2026-08-06 — Atlas Corretora: post de sexta 07/08 ("Você conhece a Atlas?")
+
+PH pediu o post de sexta-feira (07/08) pra Atlas Corretora. A estratégia de agosto já mapeava esse dia como a peça 3 do calendário (P4 Institucional, Carrossel) — produzi a peça exatamente como planejada: 4 slides apresentando os ramos que a Atlas atende (auto, vida, residencial, empresarial com lucro cessante), a lógica multi-seguradora e o atendimento 100% digital pro Brasil inteiro. Troquei o CTA sugerido na estratégia ("link na bio") por "chama no direct", porque o canal de atendimento do CTA segue pendência aberta (OQ #4) e direct já é canal validado nas peças anteriores. Detalhe completo, incluindo a tensão sinalizada sobre a peça ter sido produzida antes da apresentação do corretor (ainda parqueada por falta de nome + gravação), em [clients/atlas-corretora/PROGRESSO.md](../clients/atlas-corretora/PROGRESSO.md).
+
+---
+
+## 2026-08-05 — Complexo Vida: semana especial 100% moovz (2 carrosséis + 1 estático, 10-14/08)
+
+PH pediu uma semana de conteúdo exclusivamente sobre a pulseira/frequencímetro moovz — sem vídeo — cobrindo posicionamento → venda → geração de oportunidade, convidando pra aula experimental no spinning ou funcional com o pedido "solicite seu frequencímetro". Sem estratégia de agosto fechada ainda, perguntei a PH a janela de dias (semana atual só tinha 2 slots livres vs. semana seguinte com os 3 completos) — confirmou 10, 12 e 14/08. Primeira entrega saiu 100% carrossel (o pedido original dizia "apenas carrossel"); PH corrigiu pedindo pelo menos 1 estático — converti a peça de venda (12/08) pro formato "naipe de flyer" já validado nesse cliente pra peças de oferta.
+
+**Achado que destravou o pilar:** cruzando o pedido com o site oficial moovz.com.br, descobri que o produto é app + frequencímetro físico + TV Box vendido em kit pra academias (não venda individual) — o que resolveu 2 das 4 perguntas bloqueantes que travavam esse pilar desde junho (mecânica de wearable e cobertura no funcional). Preço ao aluno segue não confirmado, nenhuma peça afirma valor. Detalhe completo, as 3 peças e as correções do `validador-copy` (rodado em paralelo nas 3, 0 violações da regra crítica de preço/mecânica) em [clients/complexo-vida/PROGRESSO.md](../clients/complexo-vida/PROGRESSO.md).
+
+---
+
+## 2026-08-04 (5) — Homenagem de Dia dos Pais em 9 clientes da carteira (+ Maicom Minerais, registrado separado)
+
+Continuação do pedido de Dia dos Pais: PH pediu uma homenagem simples de "Feliz Dia dos Pais" (sem venda, sem preço) publicada no dia exato do evento (domingo, 09/08/2026) em vários clientes da carteira, não só no Bazar Ribeiro. Antes de produzir, perguntei o escopo — PH confirmou "vários clientes" na lista sugerida.
+
+Disparados 10 agentes em paralelo (1 por cliente), cada um lendo o `context.md`/`PADROES.md`/posts recentes do próprio cliente e escrevendo uma peça no formato-referência já validado no Bazar Ribeiro ("Obrigado, pai") — 100% emocional/institucional, sem preço nem CTA de venda, com ângulo específico ao negócio de cada um: **Complexo Vida** (treino como hábito entre gerações), **BodySkin** (o pai que cuida de todo mundo e quase não sobra tempo pra ele), **Atlas Corretora** (instinto de proteção paterno, sem citar seguro/cobertura), **Império Material de Construção** (quem ensinou a construir com as próprias mãos), **Contele Solar** (quem sempre cuidou da conta de luz e da casa), **Veterinária Regional** (Dia dos Pais também é de quem é pai de pet), **Nova União Glass** (quem ensinou a fazer bem feito, sem pressa), **Quero Tintas** (quem ensinava a escolher a cor certa da parede — marcado como pendente de validação de tom, igual ao resto do conteúdo desse cliente), **CIIL** (o pai que cuida de todo mundo e é o último a perguntar como ele mesmo está, zero claim clínico). Cada peça respeitou as restrições específicas do cliente (palavra banida da Maicom, gate de compliance da RT na BodySkin e do corretor na Atlas, regra de nunca usar IA fotorrealista de animal na Vet Regional, hashtag sem âncora regional na Atlas). Detalhe de cada peça no `PROGRESSO.md` do respectivo cliente.
+
+---
+
+## 2026-08-04 (4) — Maicom Minerais: post de homenagem de Dia dos Pais
+
+Peça isolada de Dia dos Pais (09/08, domingo), parte da homenagem que a Lone está publicando em vários clientes da carteira no dia do evento — 100% emocional/institucional, sem preço, sem menção ao brinde de agosto e fora da numeração da campanha. Ângulo: a paciência de fazer obra direito (medir duas vezes, trena, nível) como algo aprendido com o pai, conectando com o público de Unamar/Tamoios que reforma a própria casa. Respeitou a palavra banida "porcelanato" e não inventou tempo de mercado (loja é nova). Detalhe em [clients/maicom-minerais-unamar/PROGRESSO.md](../clients/maicom-minerais-unamar/PROGRESSO.md).
+
+---
+
+## 2026-08-04 (3) — Bazar Ribeiro: 3 posts + sequência de Stories a partir da lista de promoções de Dia dos Pais
+
+PH trouxe uma lista de 7 produtos com preço promocional de Dia dos Pais (marmita elétrica, fone bluetooth, máquina de cortar cabelo, mini motosserra, lava jato, parafusadeira, TV box) e pediu peças com frase de efeito sobre a dor de cada produto + preço exclusivo. Achado no caminho: a lista confirma que o catálogo do Bazar Ribeiro é mais amplo do que só material de construção (também vende eletroportáteis de bazar) — atualizado em [context.md](../clients/bazar-ribeiro/context.md).
+
+Antes de produzir, sinalizei o risco de estourar o mix obrigatório (venda pura empilhada em cima de uma semana já venda-pesada da campanha "mestre-de-obras") e perguntei o formato — PH validou um mix: as 3 ferramentas (motosserra, lava jato, parafusadeira) viram post de feed, os 4 itens de presente mais genérico viram uma sequência de Stories. Detalhe completo em [clients/bazar-ribeiro/PROGRESSO.md](../clients/bazar-ribeiro/PROGRESSO.md).
+
+---
+
+## 2026-08-04 (2) — Adaptação de referência de Pinterest: Atlas Corretora + Quero Tintas
+
+PH trouxe um post do Pinterest (@yampaoficial, "Finanças para empresas") — formato de comparação em 2 painéis "medo bobo vs. medo real do nicho", com humor e humanização — e pediu pra adaptar pros dois clientes citados na conversa. Pra **Atlas Corretora**: medo de bater o carro sem seguro, peça extra fora do calendário fechado de agosto (passa limpa pelo gate técnico do corretor). Pra **Quero Tintas**: medo de tinta que "rende pouco e acaba", reaproveitando o bordão #NemVem que já é do próprio perfil do cliente — mas marcada como não publicável até validar tom com o dono (bloqueante já registrado no onboarding). Detalhe em [clients/atlas-corretora/PROGRESSO.md](../clients/atlas-corretora/PROGRESSO.md) e [clients/quero-tintas/PROGRESSO.md](../clients/quero-tintas/PROGRESSO.md).
+
+---
+
+## 2026-08-04 — Novo cliente: Quero Tintas (onboarding a partir de briefing estratégico)
+
+Cliente novo, o **15º da carteira**: **Quero Tintas** (@querotintas), loja de tintas em Araruama/RJ (2 lojas), 1.584 seguidores. PH trouxe o pedido junto com uma ideia de adaptar um post de Pinterest (humor + humanização) tanto pra Atlas Corretora quanto pra Quero Tintas — na sequência trouxe um briefing estratégico completo já elaborado pela Lone (auditoria de feed, benchmark de setor, plano de 15 Reels, 8 formatos-âncora de trend).
+
+Diferencial deste onboarding: a aposta central do documento é transformar o dono em **persona/marca-personagem** ("o cara da Quero", bordões #NemVem e "fica localizada"), e diferente da maioria dos clientes novos, **a captação de vídeo não é gargalo** — o dono já grava com naturalidade. Estrutura completa criada em [clients/quero-tintas/](../clients/quero-tintas/). Nada produzido ainda — 5 pendências bloqueantes (validar tom com o cliente, endereço da Loja 2, WhatsApp, horário, nome do rosto oficial). Detalhe em [clients/quero-tintas/PROGRESSO.md](../clients/quero-tintas/PROGRESSO.md).
+
+---
+
+## 2026-08-03 (5) — Novo cliente: Nova União Glass (onboarding + 1º post)
+
+Cliente novo, o **14º da carteira**: **Nova União Glass** (@novauniaoglass), distribuidora de vidros e espelhos em Iguabinha, Araruama/RJ, 31 anos de mercado. PH trouxe um briefing estratégico completo já elaborado pela própria Lone (auditoria de feed + benchmark Blindex + sistema visual + plano de posts), ainda não validado com o cliente. Mesma restrição operacional da Veterinária Regional: cliente não manda material, calendário roda 100% com stock/IA/template.
+
+Estrutura completa criada em [clients/nova-uniao-glass/](../clients/nova-uniao-glass/). Primeiro post produzido: template Institucional/31 Anos, escolhido por ser a recomendação #1 do briefing e não depender de nenhuma pendência de curadoria visual ou dado não confirmado (CTA usa "link na bio" — nenhum WhatsApp confirmado por escrito). Detalhe em [clients/nova-uniao-glass/PROGRESSO.md](../clients/nova-uniao-glass/PROGRESSO.md).
+
+---
+
+## 2026-08-03 (4) — Veterinária Regional: post de vacinação · Bazar Ribeiro: campanha enxuta pros 6 dias até o Dia dos Pais
+
+Dois pedidos de PH na sequência:
+- **Veterinária Regional:** tema de vacinação pra série Mito x Verdade — "gato de apartamento não precisa de vacina", agendado pro próximo slot de segunda (10/08). Detalhe em [clients/veterinaria-regional/PROGRESSO.md](../clients/veterinaria-regional/PROGRESSO.md).
+- **Bazar Ribeiro:** primeira produção real do cliente, montada com a régua de que hoje é dia 3 e o Dia dos Pais é dia 9 — só 6 dias. Constatei que o desafio dos 3 pregos e o sorteio da furadeira não fecham mais nesse prazo original e recomendei cortar os dois; PH decidiu manter o desafio dos pregos replanejado pra 1 sábado só (08/08) e manteve o sorteio cortado. Produzi as 5 peças da semana (abertura, reserva de reel, presente certeiro, convite do desafio, post afetivo) e uma apresentação HTML do plano pra PH mostrar ao dono da loja. Fica em aberto, urgente: data/crew do reel de quarta + confirmação de crew e orçamento pro desafio de sábado. Detalhe em [clients/bazar-ribeiro/PROGRESSO.md](../clients/bazar-ribeiro/PROGRESSO.md).
+
+---
+
+## 2026-08-03 (3) — Maicom: correção — acúmulo do brinde nunca foi confirmado
+
+PH corrigiu um registro anterior: a regra "acumula, sem teto" do brinde de piso vinha marcada como fechada desde 2026-07-23, mas nunca foi de fato confirmada (a fonte original já listava "acumula?" como pergunta em aberto). Corrigido em PADROES, OPEN-QUESTIONS e estratégia; peças 1 e 1b (já prontas) tiveram a afirmação removida da arte/legenda; a peça 1c foi **retida** porque seu conceito inteiro dependia do acúmulo e substituída pela **1d** ("o que vem de graça com o seu piso" — o brinde como produto físico, sem multiplicação). Detalhe em [clients/maicom-minerais-unamar/PROGRESSO.md](../clients/maicom-minerais-unamar/PROGRESSO.md).
+
+---
+
+## 2026-08-03 (2) — Maicom: segunda peça extra de hoje, cartela "quanto brinde cabe no teu ambiente"
+
+PH pediu mais uma peça pra hoje além da 1b já existente. Escolhemos juntos o ângulo (outro ângulo do brinde, via AskUserQuestion) — exemplo prático por ambiente (quarto/sala/cozinha) em vez de depoimento, porque a campanha começou há só 2 dias e ainda não tem caso real pra citar sem inventar. Calendário de agosto passa a ter 2 peças adicionais (1b e 1c). Detalhe em [clients/maicom-minerais-unamar/PROGRESSO.md](../clients/maicom-minerais-unamar/PROGRESSO.md).
+
+---
+
+## 2026-08-03 — Posts de segunda também pra Contele Solar e Veterinária Regional
+
+PH pediu os posts de segunda (03/08) de todos os clientes, evitando Reels. Além dos 5 já prontos no lote anterior (Atlas, BodySkin, CIIL, Complexo Vida, Maicom), faltavam **Contele Solar** e **Veterinária Regional** — os dois sem post datado ainda pra hoje. Produzi o 1º post de cada, escolhendo em ambos o pilar/formato que não depende de nenhuma pendência bloqueante do onboarding:
+
+- **Contele Solar** — 1º post do cliente, Pilar 1 (Educativo), usando o único dado confirmado no briefing (+700 sistemas instalados) em vez de qualquer percentual de economia não confirmado. Detalhe em [clients/contele-solar/PROGRESSO.md](../clients/contele-solar/PROGRESSO.md).
+- **Veterinária Regional** — 2º post do cliente, estreia do formato-âncora "Mito x Verdade" (slot fixo de segunda no mix proposto), mito sazonal de inverno sem estatística inventada. Detalhe em [clients/veterinaria-regional/PROGRESSO.md](../clients/veterinaria-regional/PROGRESSO.md).
+
+Império Material de Construção e Bazar Ribeiro seguem sem post pra hoje — nenhum tem cadência de segunda confirmada/desbloqueada ainda.
+
+---
+
+## 2026-07-31 (5) — Ajustes de última hora: Maicom (data movida + adicional), Atlas (correção de calendário), CIIL e Complexo Vida (posts de 03/08 fechados)
+
+Depois do lote inicial de posts de 03/08, PH trouxe três pedidos na sequência:
+
+- **Maicom:** lançamento do brinde movido de segunda (03/08) pra sábado (01/08). Peça renomeada e ajustada; sinalizada (não corrigida) a inconsistência com o esquenta de 31/07, já publicado, que prometia "segunda 03/08" em selo de arte. Peça adicional criada pro slot de segunda que sobrou, recapitulando o brinde e antecipando o café de aniversário (22/08). Detalhe em [clients/maicom-minerais-unamar/PROGRESSO.md](../clients/maicom-minerais-unamar/PROGRESSO.md).
+- **Atlas Corretora:** PH cortou a exceção que colocava Reel em segunda/sexta — "atlas não é dia de reels". Calendário de agosto revisado: Reel só na quarta (4, não 7). 🔴 Sinalizado, não resolvido: isso derruba a meta contratada de 8 Reels/30 dias pela metade — precisa de decisão de PH. Detalhe em [clients/atlas-corretora/PROGRESSO.md](../clients/atlas-corretora/PROGRESSO.md).
+- **CIIL e Complexo Vida:** produzi os posts de 03/08 mesmo sem estratégia de agosto fechada, apoiando em padrões vivos já confirmados por PH (linha editorial "Isso Tem Nome" na CIIL; série "modalidades" no Complexo Vida) em vez de inventar pauta nova. Pendência de fechar a estratégia de agosto dos dois segue registrada em OPEN-QUESTIONS — o próximo slot de cada um já não tem essa rede de segurança.
+
+---
+
+## 2026-07-31 (4) — Posts de segunda 03/08 pros clientes com agosto já rodando
+
+PH pediu posts pra segunda 03/08 (abertura de agosto no padrão Lone). Passei pelas 4 estratégias de agosto já existentes:
+
+- **Maicom Minerais** — peça 1 já estava pronta ([conteudo/posts/2026-08-03-lancamento-brinde-4m2.md](../clients/maicom-minerais-unamar/conteudo/posts/2026-08-03-lancamento-brinde-4m2.md)), nada a fazer.
+- **BodySkin Araruama** — escrevi a peça 1 (abertura do mês, identidade nova). Detalhe em [clients/bodyskin-araruama/PROGRESSO.md](../clients/bodyskin-araruama/PROGRESSO.md).
+- **Atlas Corretora** — a peça 1 original (Reel do corretor) segue parqueada; puxei a peça 10 (bastidor de atendimento) pro lugar, mesma lógica das duas antecipações anteriores. Detalhe em [clients/atlas-corretora/PROGRESSO.md](../clients/atlas-corretora/PROGRESSO.md).
+- **Bazar Ribeiro** — estratégia segue **em revisão, sem aprovação pra produção** ([estratégia](../clients/bazar-ribeiro/estrategia/2026-08.md)); calendário deles também só abre em 04/08. Nada produzido.
+
+**Sinalizado, não resolvido:** CIIL e Complexo Vida não têm estratégia de agosto fechada ainda (calendário de julho de ambos já terminou). Não inventei peça pra 03/08 nesses dois — produzir sem estratégia mensal é erro listado no [playbook](../shared/playbook-lone-midia.md). Registrado em [clients/ciil/OPEN-QUESTIONS.md](../clients/ciil/OPEN-QUESTIONS.md) e [clients/complexo-vida/OPEN-QUESTIONS.md](../clients/complexo-vida/OPEN-QUESTIONS.md).
+
+---
+
+## 2026-07-31 (3) — BodySkin Araruama: peça do ATA (14/08) trocada de carrossel pra estático
+
+PH avisou que não vai dar tempo de produzir o carrossel da peça 6 do calendário de agosto da BodySkin (14/08, "o que o peeling de ATA resolve"). Reescrita como post estático, mesmo conteúdo e mesma função no arco de três tempos do ATA, com o mesmo gate de compliance da RT usado no post de 27/07 (queixas nomeadas de forma genérica, sem apresentar indicação fechada). Calendário atualizado: distribuição de formato do mês passa de 2 carrosséis pra 1. Detalhe em [clients/bodyskin-araruama/PROGRESSO.md](../clients/bodyskin-araruama/PROGRESSO.md).
+
+---
+
+## 2026-07-31 (2) — Bazar Ribeiro entra no fluxo: onboarding + revisão crítica da campanha de agosto
+
+Cliente novo, o **13º da carteira**: **Bazar Ribeiro** (@bazarribeiro_marica + @bazarribeiro_saquarema), rede de material de construção e ferragens desde 1989, duas unidades (Maricá matriz + Saquarema). PH trouxe um briefing externo já com campanha de agosto pronta ("O melhor mestre-de-obras da minha vida também é meu pai", gancho no Dia dos Pais) e pediu revisão/aprovação antes de produzir.
+
+Estrutura completa criada em [clients/bazar-ribeiro/](../clients/bazar-ribeiro/). Conceito da campanha aprovado, mas revisão em [estrategia/2026-08.md](../clients/bazar-ribeiro/estrategia/2026-08.md) encontrou 4 bloqueantes (horário de funcionamento não informado, sorteio de furadeira sem regulamento/responsável legal, agenda de filmagem dos 4 reels-depoimento com data já vencida, volume de 28 peças/mês a confirmar contra o plano contratado) e pontos de ajuste (calendário usa Reels às terças/carrossel às quintas, fora da estrutura oficial Segunda/Quarta/Sexta da Lone; mix sem peça educativa; Saquarema sem contrapartida ao Cartão Mumbuca exclusivo de Maricá). Nada produzido ainda — aguardando PH alinhar com o dono. Detalhe em [clients/bazar-ribeiro/PROGRESSO.md](../clients/bazar-ribeiro/PROGRESSO.md).
+
+---
+
+## 2026-07-30 (4) — Veterinária Regional: foto real aprovada como base visual (corrige "sempre ilustração")
+
+PH mandou mais material de apoio da Veterinária Regional e, principalmente, um print de um post real do perfil (odontologia) dizendo que gostou da arte e queria ela como base. Isso corrigiu uma simplificação que eu tinha herdado do briefing consolidado ("sempre ilustração, nunca foto") — a regra de origem só proíbe **IA fotorrealista**, e foto real de banco de imagem sempre foi uma opção válida no benchmark. Atualizei [PADROES.md](../clients/veterinaria-regional/PADROES.md) com o template validado e revisei o 1º post já escrito pra usar foto real em vez de ilustração. Detalhe em [clients/veterinaria-regional/PROGRESSO.md](../clients/veterinaria-regional/PROGRESSO.md).
+
+---
+
+## 2026-07-30 (3) — Veterinária Regional entra no fluxo: onboarding + 1º post (checklist de alimentos)
+
+Cliente novo, o **12º da carteira**: **Veterinária Regional** (@vetregionalofc), clínica veterinária completa em Araruama/RJ com diferencial de **13 especialidades sob o mesmo teto**. PH repassou um briefing completo já elaborado pela própria Lone — análise de perfil, benchmark de nicho, sistema visual e calendário de 13 semanas. Ponto central: **o cliente responde pouco e capta material devagar, então todo o calendário precisa rodar sem depender de foto/vídeo real dele** — daí a regra dura de nunca usar IA fotorrealista de animal, sempre ilustração.
+
+Estrutura completa em [clients/veterinaria-regional/](../clients/veterinaria-regional/), com as regras rígidas (4 templates-mãe, regra do fotorrealismo) em [PADROES.md](../clients/veterinaria-regional/PADROES.md). PH pediu um post estático pra hoje (quinta-feira) — usei o slot já previsto no mix semanal do próprio briefing (Quinta = Alerta/checklist) e escrevi um checklist de "alimentos proibidos pro pet", tema que não depende de nada do cliente: [conteudo/posts/2026-07-30-alerta-alimentos-proibidos.md](../clients/veterinaria-regional/conteudo/posts/2026-07-30-alerta-alimentos-proibidos.md). Detalhe em [clients/veterinaria-regional/PROGRESSO.md](../clients/veterinaria-regional/PROGRESSO.md).
+
+---
+
+## 2026-07-30 (2) — Contele Solar entra no fluxo: onboarding com direção de marca já aprovada
+
+Cliente novo, o **11º da carteira**: **Contele Solar** (@contelesolarenergy), energia solar residencial na Região dos Lagos/RJ (sede Araruama). PH repassou um documento de handoff de social media da própria Lone — **diferente de todos os onboardings anteriores, aqui a direção de marca já vem aprovada**: paleta em hex, tipografia nomeada, estrutura fixa de 3 pilares e guia de voz com exemplos. Não é diagnóstico a validar, é manual pra executar.
+
+Estrutura completa em [clients/contele-solar/](../clients/contele-solar/), incluindo [PADROES.md](../clients/contele-solar/PADROES.md) com as regras rígidas transcritas na íntegra do documento recebido. Dois pontos sinalizados antes de qualquer produção: (1) os exemplos de prova social do guia ("família Marques", "Rafaela") parecem ilustrativos — preciso de caso real confirmado antes de produzir o Pilar 2; (2) o CTA do documento é só DM do Instagram, sem WhatsApp — diferente de todos os outros clientes, a confirmar se é intencional. Detalhe em [clients/contele-solar/PROGRESSO.md](../clients/contele-solar/PROGRESSO.md).
+
+---
+
+## 2026-07-30 — Império Material de Construção entra no fluxo: onboarding + 3º post fixado
+
+Cliente novo, o **10º da carteira**: **Império Material de Construção** (@imperio_materialdeconstrucao), casa de material de construção em Macaé/RJ. PH repassou o briefing de onboarding da Lone (PDF, levantamento factual do perfil). Diferente da maioria dos onboardings, **o Império já tem uma operação saudável** (6.768 seguidores, ritmo quase diário, 70% do feed em Reel) — o trabalho é consistência de marca (paleta e mascote inconsistentes hoje) e variar o mix de conteúdo (hoje quase só oferta de preço).
+
+Estrutura completa em [clients/imperio-material-de-construcao/](../clients/imperio-material-de-construcao/). PH pediu o terceiro de três posts fixados de estreia (os outros dois, horário e localização, já estavam prontos) — entreguei uma peça institucional simples de apresentação da loja, sem oferta e sem repetir horário/endereço: [conteudo/posts/2026-07-30-apresentacao-quem-somos.md](../clients/imperio-material-de-construcao/conteudo/posts/2026-07-30-apresentacao-quem-somos.md). Detalhe em [clients/imperio-material-de-construcao/PROGRESSO.md](../clients/imperio-material-de-construcao/PROGRESSO.md).
+
+---
+
+## 2026-07-29 (3) — Complexo Vida: série "modalidades" é posts separados, não carrossel único
+
+PH pediu "mais um post sobre as modalidades". Primeira tentativa foi um carrossel único P1 listando 6 modalidades — **PH corrigiu**: são posts separados, uma modalidade por semana. Descartei o carrossel e escrevi a peça certa, abrindo a série pela Musculação. Formato novo registrado no PADROES do cliente pra próximas semanas seguirem o padrão certo. Detalhe em [clients/complexo-vida/PROGRESSO.md](../clients/complexo-vida/PROGRESSO.md).
+
+---
+
+## 2026-07-29 (4) — Atlas: estático "perfil do seguro" antecipado
+
+PH pediu um estático da Atlas sem premissa fixada (não a ideia de oficina/BYD ainda em aberto). Antecipei a peça 7 do calendário de agosto (card tipográfico "por que mentir sai caro no perfil do seguro") por não depender dos gargalos atuais (nome do corretor, gravação). Linguagem condicional aplicada no gate de cobertura. Detalhe em [clients/atlas-corretora/PROGRESSO.md](../clients/atlas-corretora/PROGRESSO.md).
+
+---
+
+## 2026-07-29 (5) — CIIL: estático pra sexta, peça-ponte da série "Isso Tem Nome"
+
+PH perguntou se tinha estático pronto da CIIL pra sexta. As duas peças pendentes da série (Espondilite Anquilosante, Artrite Psoriática) seguem gated pelo RT — não dava pra usar. Escrevi uma peça-ponte já prevista na linha editorial ("O que é uma doença autoimune, afinal?"), que fica fora do gate por não nomear doença específica. Detalhe em [clients/ciil/PROGRESSO.md](../clients/ciil/PROGRESSO.md).
+
+---
+
+## 2026-07-31 — Roteiros de vídeo pra 4 clientes: Complexo Vida, CIIL, Atlas e BodySkin
+
+PH pediu roteiro de vídeo pra sexta 31/07 pros quatro clientes de uma vez. Cada um partiu de uma situação diferente:
+
+- **Complexo Vida** — peça #14 do calendário já existia como carrossel (convênios Gympass/Wellhub/TotalPass); convertida pra Reels no molde do apresentador da terra, com abertura nova (recepção/balcão, ainda não usada). [Roteiro](../clients/complexo-vida/conteudo/roteiros/2026-07-31-convenios-reels.md).
+- **CIIL** — sexta era buffer livre; preenchido com o tema parkeado "frio e quem trata com biológico" (institucional, fora do gate por doença). [Roteiro](../clients/ciil/conteudo/roteiros/2026-07-31-frio-imunossuprimido.md).
+- **Atlas** — escrevi a peça 2 do calendário de agosto ("lucros cessantes"), que é exatamente o que a sequência de produção da estratégia previa pra esta janela (29-31/07). Sinalizei uma tensão de ordem — a peça 1 (apresentação) deveria abrir a conta antes desta — sem decidir sozinho, deixando a chamada pra PH. [Roteiro](../clients/atlas-corretora/conteudo/roteiros/2026-07-31-lucros-cessantes.md).
+- **BodySkin** — primeiro roteiro de vídeo do cliente. Como falta o nome da RT e não há release de imagem confirmado, escrevi uma peça de bastidor **sem pessoa em cena** (só espaço/equipamento + voz em off não identificada) — solução de curto prazo, não o padrão a partir de agosto. [Roteiro](../clients/bodyskin-araruama/conteudo/roteiros/2026-07-31-bastidor-avaliacao.md).
+
+**Padrão que se repetiu nos 4:** nenhum peça inventou dado que não estava confirmado (nome de corretor/RT, telefone, hex de cor) — onde faltava, ficou placeholder explícito ou adaptação de formato (ex.: sem rosto na BodySkin) em vez de completar "o que soa plausível". Detalhe em cada PROGRESSO.md de cliente.
+
+---
+
+## 2026-07-29 — Atlas: pauta nova sugerida pela cliente (vídeo de oficinas/concessionária + BYD)
+
+PH repassou feedback direto da dona da Atlas: ideia de vídeo mostrando o benefício de fechar seguro com a Atlas — cliente pode levar o carro na concessionária da marca, com destaque pra BYD/elétricos (mão de obra qualificada). Registrado em [referencias/2026-07-29-feedback-video-oficinas-byd.md](../clients/atlas-corretora/referencias/2026-07-29-feedback-video-oficinas-byd.md). Sem slot no calendário de agosto (já fechado); candidato a buffer ou setembro. Detalhe em [clients/atlas-corretora/PROGRESSO.md](../clients/atlas-corretora/PROGRESSO.md) e [OQ #15](../clients/atlas-corretora/OPEN-QUESTIONS.md).
+
+**No mesmo dia, PH confirmou o contexto e pediu o roteiro:** a gravação na concessionária/oficina já está prevista (equipe da Lone vai ao local) — e corrigiu que roteiro **não deve opinar sobre take/ângulo de câmera**, só sobre fala e estrutura. Escrevi [conteudo/roteiros/2026-07-29-oficina-concessionaria-byd.md](../clients/atlas-corretora/conteudo/roteiros/2026-07-29-oficina-concessionaria-byd.md), com linguagem condicional nos pontos que ainda dependem do corretor confirmar (PADROES §2 segue aberto). **Preferência de PH sobre escopo de roteiro salva em memória persistente** — vale pra próximas peças com gravação em local real.
+
+---
+
+## 2026-07-27 (2) — Posts de segunda: Atlas antecipa a peça 1, Maicom já estava pronta
+
+PH pediu post pra Atlas e pra Maicom, no slot de hoje (segunda 27/07). Levantamento mostrou que os dois clientes estavam em situações opostas:
+
+- **Maicom** já tinha a peça do dia **100% escrita** desde 25/07 — [conteudo/posts/2026-07-27-quantas-caixas-de-piso.md](../clients/maicom-minerais-unamar/conteudo/posts/2026-07-27-quantas-caixas-de-piso.md) (peça A2, educativo "quanto piso comprar"). Nada a produzir, só encaminhar pro designer.
+- **Atlas** não tinha nada planejado pra hoje — a estratégia só começa em 03/08, e o cliente entrou no fluxo ontem. Perguntei a PH o que fazer; ele escolheu **antecipar a peça 1** ("Quem responde aqui", Reel de apresentação do corretor). Escrevi o roteiro completo, com placeholders explícitos (`[NOME DO CORRETOR]`, `[TEMPO DE ESTRADA]`, `[MOTIVO PESSOAL]`) porque nenhum desses fatos está confirmado. **No mesmo dia, PH corrigiu:** o post de hoje precisa ser **estático**, não Reel. O roteiro do corretor ficou **parqueado** — [conteudo/roteiros/2026-07-27-quem-responde-aqui.md](../clients/atlas-corretora/conteudo/roteiros/2026-07-27-quem-responde-aqui.md) — pra quando nome + gravação resolverem, e a estreia virou a **peça 4 antecipada** (institucional, "por que passar por um corretor" vs. app do banco), que fala em nome da agência e não depende de nada disso: [conteudo/posts/2026-07-27-corretor-vs-app-banco.md](../clients/atlas-corretora/conteudo/posts/2026-07-27-corretor-vs-app-banco.md).
+
+Detalhe em [clients/atlas-corretora/PROGRESSO.md](../clients/atlas-corretora/PROGRESSO.md).
+
+---
+
 ## 2026-07-27 — Atlas Corretora entra no fluxo: onboarding + estratégia de agosto
 
 Cliente novo, o **9º da carteira**: **Atlas Corretora de Seguros** (@__atlas.corretora — dois underscores), corretora multi-seguradora **100% digital que atende todo o Brasil**. PH repassou um diagnóstico de 6 páginas da própria Lone. Estrutura completa em [clients/atlas-corretora/](../clients/atlas-corretora/) + [estratégia de agosto](../clients/atlas-corretora/estrategia/2026-08.md).
@@ -67,6 +425,32 @@ PH pediu posts pros três de uma vez, sem especificar data. Produzi **o próximo
 **Validação** rodada por mim contra o voice-quality-checklist, o [anti-ai-protocol](../.claude/rules/anti-ai-protocol.md) e o PADROES de cada cliente (sem subagent nesta conversa).
 
 ⚠️ **Dois avisos de calendário levantados pra PH:** (1) ficaram peças não produzidas com data vencida — Complexo Vida #9/#10/#11 (20, 22 e 24/07) e o carrossel B2B da CIIL (24/07); (2) o **briefing mensal de agosto vence hoje, 25/07** (janela 22–25 do mês anterior, [playbook §3](../shared/playbook-lone-midia.md)) pro Complexo Vida e pra CIIL — a Maicom já tem agosto fechado.
+
+---
+
+## 2026-07-24 (2) — CIIL (serviço novo SG) + Complexo Vida: posts estáticos de sexta, a pedido de PH
+
+PH definiu que os posts de hoje precisavam ser **estáticos** (não carrossel) e pediu peça pra **CIIL** e **Complexo Vida** — bodyskin e maicom ficaram de fora (já resolvidos no bloco anterior do dia).
+
+**CIIL:** PH repassou mensagem de WhatsApp do cliente (datada 15/06, só chegou até mim hoje) revelando **excisão de lesões**, **tratamento de câncer de pele** e **tratamento de hidradenite supurativa** — escopo novo, fora do BRIEFING original. Salvo em [referencias](../clients/ciil/referencias/2026-07-24-procedimentos-novos-sao-goncalo.md) e no [context.md](../clients/ciil/context.md). Escolhi falar de **Excisão de Lesões** (o menos sensível dos três) e deixei câncer de pele/hidradenite pra um post futuro com ângulo e validação de RT próprios — registrado como pendência. [Post aqui](../clients/ciil/conteudo/posts/2026-07-24-excisao-de-lesoes.md), ocupando o slot que era carrossel B2B de vacinação corporativa (parkeado). **PH confirmou depois que o serviço é das 2 unidades** (não exclusivo de São Gonçalo, como a assinatura da mensagem sugeria) — post reescrito pra conteúdo idêntico @ciilagos + @ciil.sg. Falta só o OK do RT (padrão em toda peça clínica).
+
+**Complexo Vida:** o slot de hoje (#11, objeção "tarde demais pra começar") era carrossel na estratégia — troquei só o formato pra **estático designed** (pôster tipográfico, sem cena real), mesma calibração já aprovada por PH na peça de sedentarismo (13/07). Mesmo ângulo e CTA do calendário original. [Post aqui](../clients/complexo-vida/conteudo/posts/2026-07-24-tarde-demais-nao-existe.md).
+
+Detalhe em [clients/ciil/PROGRESSO.md](../clients/ciil/PROGRESSO.md) e [clients/complexo-vida/PROGRESSO.md](../clients/complexo-vida/PROGRESSO.md).
+
+---
+
+## 2026-07-24 — BodySkin Araruama: onboarding + carrossel de estreia (rascunho, substituído pelo onboarding oficial de 26/07)
+
+PH trouxe o Briefing Estratégico + Consultoria da BodySkin Araruama (estética avançada + depilação a laser, rede Bodylaser, Araruama/Região dos Lagos) — documento de 13 páginas já preparado pela própria Lone com pesquisa de mercado, concorrência, personas, pilares e banco de ideias — e pediu pra clonar na pasta do cliente + produzir um post pra hoje.
+
+Onboarding completo: estrutura de pastas, material bruto em [referencias/](../clients/bodyskin-araruama-rascunho-24-07/referencias/2026-07-24-briefing-estrategico-bodyskin.md), síntese em [BRIEFING.md](../clients/bodyskin-araruama-rascunho-24-07/BRIEFING.md), [context.md](../clients/bodyskin-araruama-rascunho-24-07/context.md) com 4 personas/5 pilares/anti-padrões, e [OPEN-QUESTIONS.md](../clients/bodyskin-araruama-rascunho-24-07/OPEN-QUESTIONS.md) com as pendências operacionais (endereço, WhatsApp, preços, oferta ativa, nome da profissional, avaliações Google — nenhuma confirmada ainda).
+
+Hoje é sexta → estrutura oficial da Lone pede carrossel. Como não há nenhum dado comercial confirmado, produzi peça 100% educativa/quebra-objeção (não depende de nenhuma pendência): "por que o pelo volta depois do laser" (ciclo do pelo), cumprindo também a recomendação do próprio briefing de 1 quebra-objeção por semana. [Post aqui](../clients/bodyskin-araruama-rascunho-24-07/conteudo/posts/2026-07-24-ciclo-do-pelo-quebra-objecao.md). Validado por `validador-copy` (2 correções pequenas aplicadas: CTA duplicado, marca ausente do corpo do texto).
+
+**Ainda no mesmo dia**, PH mandou 11 artes prontas da Campanha de Julho (tema arraiá) com preços/combos reais e pediu urgência — sem carrossel hoje, melhor aproveitar arte já pronta. Isso resolveu endereço, telefones, tabela de preços real e validade da campanha e corrigiu a paleta da marca (é laranja+teal, não laranja+roxo). Perguntei a PH qual das 9 ofertas possíveis encaixar no slot de sexta em vez de chutar; ele escolheu harmonização facial (toxina + preenchimento labial) — única arte com validade explícita, dando urgência real de fim de mês. [Post final aqui](../clients/bodyskin-araruama-rascunho-24-07/conteudo/posts/2026-07-24-campanha-julho-arraia.md). O carrossel educativo ficou parqueado, não descartado.
+
+⚠️ **Nota de reconciliação (2026-07-27):** este onboarding foi feito nesta sessão local mas nunca chegou a ser commitado. Enquanto isso, outra sessão fez o onboarding oficial da BodySkin Araruama a partir de um diagnóstico mais completo (8 páginas) e esse virou o registro oficial do cliente (ver entrada de 2026-07-26 acima, e [clients/bodyskin-araruama/](../clients/bodyskin-araruama/)). Este rascunho ficou guardado à parte em `clients/bodyskin-araruama-rascunho-24-07/` pra PH revisar se algo dele vale aproveitar (ex.: os posts da Campanha de Julho/arraiá, que não têm equivalente no onboarding oficial).
 
 ---
 

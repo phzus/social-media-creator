@@ -74,6 +74,8 @@ O diagnóstico pede **um CTA por post, sempre o mesmo caminho: avaliação gratu
 - 🚫 Jargão técnico sem tradução (fototipo aparece **explicado**, não solto).
 - ✅ Hashtags locais (Araruama, Região dos Lagos) — o perfil vende pra quem chega de carro, não pro Brasil.
 
+**Molde de gancho genérico liberado (PH, 2026-07-31):** "Você de [Araruama/local] tá [dor/atividade do público]? Então você precisa conhecer a BodySkin." ou "Você tem [problema estético]? Sabia que tem tratamento..." — mesmo formato hiperlocal/direto já validado no Complexo Vida ("Se você é de São Vicente..."). PH pediu explicitamente **"textos mais genéricos"** pra este cliente — não é vício a evitar aqui, é escolha deliberada de tom pra vídeo/Reels. Usado pela 1ª vez em [conteudo/roteiros/2026-07-31-bastidor-avaliacao.md](conteudo/roteiros/2026-07-31-bastidor-avaliacao.md).
+
 ---
 
 ## 6. Ancoragem do peeling de ATA
@@ -130,6 +132,7 @@ Ela envia as promoções já diagramadas: modelo de IA, preço gigante em laranj
 
 ## Histórico
 
+- **2026-07-31 (v1.3)** — PH pediu ganchos mais genéricos/diretos pra este cliente (molde "Você de [local] tá [dor]? Então você precisa conhecer a BodySkin" / "Você tem [problema]? Sabia que tem tratamento..."), mesmo formato já validado no Complexo Vida. Registrado em §5.
 - **2026-07-26 (v1.2)** — respostas de PH: "sua melhor versão" **banida em definitivo** (§5); "sem prender o limite do cartão" **confirmado como verdade e liberado** pra copy de depilação (§7); e a regra do encarte ganhou nuance — **stories é o lugar dele**, feed aceita oferta com tema próprio, urgência tem válvula de escape (§7).
 - **2026-07-26 (v1.1)** — chegou o pacote de promoções de agosto. Criada a **regra 7** (como tratar o material da cliente + tabela oficial de preços do mês). Na regra 2, o preço de injetável subiu de 🟡 pra 🔴 (a cliente pede preço + brinde no ar) e entrou a linha das enzimas. Na regra 6, a escassez do ATA virou **prazo até 31/08**, não vaga.
 - **2026-07-26 (v1.0)** — criado no onboarding, a partir do diagnóstico repassado por PH. Regras 1, 3, 4, 5 e 6 vêm do diagnóstico; a **regra 2 (gate da RT)** é acréscimo da Lone — o material de entrada não tratava compliance de estética avançada.

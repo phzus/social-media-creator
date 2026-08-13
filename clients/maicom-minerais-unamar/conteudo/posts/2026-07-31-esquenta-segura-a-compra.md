@@ -2,6 +2,8 @@
 
 **Cliente:** maicom-minerais-unamar · **Data:** 2026-07-31 (sex) · **Plataforma:** Instagram (feed 4:5) · **Pilar:** Esquenta / Antecipação · **Formato:** Arte designed única
 
+> ⚠️ **Nota de 2026-07-31 (mesmo dia, depois da publicação):** PH decidiu mover o lançamento da campanha de **03/08 (segunda) pra 01/08 (sábado)** — ver [peça de lançamento](2026-08-01-lancamento-brinde-4m2.md). Esta peça já foi ao ar prometendo "a partir de segunda, 03/08" em selo de arte; não dá pra corrigir o que já publicou. Fica registrado como aprendizado: **não cravar data em elemento de arte** de peça de suspense/esquenta quando a data de início ainda pode mudar — próxima vez, usar linguagem relativa ("já já", "essa semana") ou confirmar a data como definitiva antes de produzir.
+>
 > **Contexto:** peça 4 de 4 do aquecimento ([estratégia §3](../../estrategia/2026-08.md)). É o esquenta que PH pediu — a peça que faz o público chegar em agosto já querendo comprar.
 >
 > 🎯 **Estratégia:** pedir pra segurar a compra parece jogar venda fora. Faz o contrário. Quem ia fechar piso no concorrente hoje passa a esperar a segunda **aqui**, e quem chama no WhatsApp pra saber o que vem chega em agosto já como lead qualificado. A peça revela **a categoria** do benefício (não é desconto, o que elimina a comparação de preço) sem entregar a mecânica — o que sobra é curiosidade com data marcada.

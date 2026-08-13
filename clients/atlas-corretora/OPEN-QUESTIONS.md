@@ -14,6 +14,7 @@ Ele é o rosto da conta e a autoridade técnica de tudo que for ao ar. Precisamo
 **2. Quem grava, quando e com que equipamento.**
 A estratégia inteira depende do corretor na frente da câmera. Sete Reels em agosto significam pelo menos **duas sessões de gravação em lote**. Sem data marcada, o mês não sai.
 *Trava:* 7 das 12 peças de agosto.
+*Nota (2026-08-10):* impacto imediato é a peça 5 (Reel "Franquia"), mapeada pra quarta 12/08. Sem gravação marcada até terça 11/08, essa data cai pro estático de reserva — ver esboço em [PROGRESSO.md](PROGRESSO.md).
 
 **3. Plano contratado — quantos posts por mês.**
 O calendário de agosto assume o **padrão Lone: 12 posts, Seg/Qua/Sex**. O PDF propunha 6 publicações em 2 semanas, que é a mesma cadência lida em outro recorte. Confirmar o que foi vendido.
@@ -43,6 +44,10 @@ Existe cliente atendido disposto a dar depoimento? Existe sinistro resolvido que
 
 **10. Seguradoras parceiras.**
 Quais são, e pode citá-las nas peças? Nome de seguradora em post tem regra de uso de marca, e "parceria" comunicada errado vira problema com a companhia.
+
+**15. Rede referenciada / oficina de concessionária (BYD e outras marcas).**
+A dona da Atlas sugeriu vídeo mostrando o benefício de levar o carro na concessionária da marca, com destaque pra BYD/elétricos ([referência](referencias/2026-07-29-feedback-video-oficinas-byd.md)). Falta saber: isso vale pra toda apólice vendida pela Atlas ou só por seguradora/plano específico? Quais marcas exatamente têm essa rede? Dá pra gravar dentro de uma oficina/concessionária real?
+*Trava:* vira afirmação de cobertura (PADROES §2) — não roteiriza sem o corretor confirmar.
 
 ---
 

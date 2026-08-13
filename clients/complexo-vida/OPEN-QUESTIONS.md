@@ -2,9 +2,14 @@
 
 > Pendências que travam produção final. Atualizar conforme o dono/PH responder. Bloqueantes 🔴.
 
-**Criado:** 2026-06-23. **Atualizado:** 2026-07-13 (tabela de preços oficial completa + Circuito Kids confirmado como produto).
+**Criado:** 2026-06-23. **Atualizado:** 2026-08-05 (mecânica de uso da moovz — frequencímetro é solicitado na aula, funciona no funcional além do spinning).
 
 ---
+
+## ✅ Resolvidas (2026-08-05)
+
+- ✅ **moovz — precisa de wearable/cinta individual ou é da aula?** PH confirmou (no pedido da semana de carrosséis moovz): o aluno **solicita/pede o frequencímetro** na aula — é item emprestado, não uma compra nem wearable pessoal. Cruzado com o site oficial [moovz.com.br](https://moovz.com.br/): produto é app + frequencímetro físico + TV Box, vendido em **kit pra academias**, não ao aluno individualmente. *(→ destrava copy de mecânica de uso, ver [PADROES §5](PADROES.md).)*
+- ✅ **moovz — vale só spinning ou também outra modalidade?** PH confirmou que vale **no spinning e no funcional**. Musculação segue não confirmada. *(→ CTAs de moovz podem convidar pra aula experimental no spinning OU no funcional.)*
 
 ## ✅ Resolvidas (2026-07-13)
 
@@ -34,13 +39,14 @@
 
 ## 🔴 Ainda bloqueiam produção
 
-- 🟡 **moovz — modelo comercial (valor/aquisição).** Já sabemos que é **app** (mostra calorias/batimentos/%/ranking no spinning, com "dispositivo complexo vida"). Falta: é upsell pago? preço ao aluno (~R$10 era meta interna)? precisa wearable/cinta individual ou é da aula? vale só spinning ou musculação também? — *até confirmar preço, peças do Pilar Moovz podem MOSTRAR o app em uso e falar de "ver tua evolução", mas NÃO afirmar preço nem obrigar compra.*
+- 🟡 **moovz — preço ao aluno.** Já sabemos que é app + frequencímetro físico + TV Box, solicitado na aula (spinning ou funcional) — ver resolvidas acima. Falta só: é upsell pago? preço ao aluno (~R$10 era meta interna)? está incluso no plano ou cobrado à parte? — *até confirmar, peças do Pilar Moovz podem MOSTRAR o app/frequencímetro em uso e instruir a mecânica ("pede na recepção"), mas NÃO afirmar preço nem obrigar compra.*
 - ✅ ~~**"Circuito Kids" existe como produto?**~~ → **Resolvido 2026-07-13**: é produto (R$120, tabela oficial). Falta só o formato/faixa etária pra descrever com precisão (ver 🟢 calibração).
 - 🟡 **Horários das aulas (grade) kids × adulto.** O Combo Família vende "treina no mesmo horário do filho" — precisa confirmar quais aulas kids batem com quais aulas adulto. — *afeta a precisão das peças de Combo Família.*
 - 🟡 **Release/autorização de imagem** de alunos (e de crianças — precisa de autorização dos responsáveis). Sem isso, humanização "gente da terra", prova social e Combo Família com pessoas não saem. — *trava peças de Gente da Terra e cenas com alunos/crianças.*
 - 🔴 **Release específico do aluno "Julio Elisban"** (2026-07-16) — o frame já analisado do vídeo `complexo vida diaria` mostra o nome dele + dados biométricos (calorias/batimentos) na tela da moovz. Achado ao produzir o carrossel moovz de 17/07 ([post](conteudo/posts/2026-07-17-moovz-evoluindo-ou-so-treinando.md)): esse frame específico só pode ir ao ar com o release dele. Sem release a tempo, alternativa é desfocar nome/números ou captar de novo com outro aluno autorizado. — *trava o uso desse frame específico nas peças do Pilar 5 (moovz).*
 - 🟡 **Captação interna** (quem grava/fotografa + quando). Sem banco de fotos, tudo depende disso. — *trava todos os Reels e fotos.*
 - 🟡 **Nome do dono e dos professores** (pra humanização e peças educativas com professor na frente).
+- 🔴 **Estratégia de agosto não existe ainda.** O calendário de julho v3 segue aguardando aprovação de PH ([estrategia](estrategia/)) e não há estratégia própria de agosto — janela de briefing mensal (22-25/07, [playbook §3](../../shared/playbook-lone-midia.md)) passou. Sinalizado em 2026-07-31 ao PH pedir posts de segunda 03/08: **não produzi peça pra essa data** pra não cair em "postar sem estratégia" (erro listado no playbook). Fechar julho v3 (ou já pular pra estratégia de agosto) antes do próximo slot.
 
 ## 🟢 Novo — não bloqueia conteúdo, mas vale registrar (2026-07-09)
 

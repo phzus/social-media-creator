@@ -32,7 +32,7 @@
 
 **Headline:** MAS ESCOLHER O PISO É A PARTE BOA
 
-**Apoio:** Mais de 1.000 modelos pra você escolher o seu — aqui em Unamar
+**Apoio:** Piso bonito pra cada canto da casa — aqui em Unamar
 
 **Selo:** 10x sem juros
 
@@ -44,7 +44,7 @@
 
 Ninguém fica animado com saco de cimento. Mas na hora de escolher o piso a obra muda de humor — é o momento em que a casa começa a ter cara de casa.
 
-E é aí que a gente entra. São mais de 1.000 modelos na loja pra você ver de perto, comparar do lado do outro e sair com o seu escolhido. Claro, escuro, amadeirado, pra dentro, pra área externa. Tem pra cada cômodo e pra cada bolso, parcelado em até 10x sem juros.
+E aqui essa parte fica ainda melhor. Piso bonito de verdade, pra cada gosto e pra cada cômodo — claro, escuro, amadeirado, pra dentro, pra área externa. Você vê de perto, compara um do lado do outro e sai com o que combinou com a sua casa, parcelado em até 10x sem juros.
 
 Já sabe a metragem do ambiente? Manda no WhatsApp que a gente monta seu orçamento antes mesmo de você vir.
 

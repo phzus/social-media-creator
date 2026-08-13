@@ -60,6 +60,12 @@ Cobertas as 6 doenças, a série continua com **novo ângulo por rodada** (mesmo
 
 **Peças-ponte** (entram entre rodadas, ainda sob o selo): *"O que é uma doença autoimune, afinal?"* e *"O que é um imunobiológico?"* — TOFU forte, explica o guarda-chuva que conecta a série toda.
 
+> ✅ **"O que é uma doença autoimune, afinal?" produzida (2026-07-29)** — entrou fora de ordem, direto pra sexta, porque as peças #4 e #5 da Rodada 1 (Espondilite Anquilosante, Artrite Psoriática) seguem gated e não tinha estático pronto pra sexta. [Arquivo](../conteudo/posts/2026-07-29-o-que-e-doenca-autoimune.md).
+>
+> ✅ **"O que é um imunobiológico?" produzida (2026-08-03)** — usada pra ocupar o slot de segunda quando a estratégia de agosto ainda não existia. [Arquivo](../conteudo/posts/2026-08-03-o-que-e-um-imunobiologico.md).
+>
+> ✅ **"Reconheceu um sintoma? O próximo passo" produzida (2026-08-10)** — o candidato de ponte nova sugerido aqui ("o que fazer se suspeitar de doença autoimune") virou peça. [Arquivo](../conteudo/posts/2026-08-10-o-que-fazer-se-suspeitar-doenca-autoimune.md). Já avança pra MOFU/ação (CTA de WhatsApp, não "salva esse post" das 2 pontes anteriores). **Com esta, o estoque de pontes sugeridas está zerado** — a próxima falta na série depende de destravar #4/#5 (gate do RT, sem confirmação desde 13/07) ou de ideação de ponte totalmente nova antes da segunda 17/08.
+
 ---
 
 ## Regras fixas da série (checklist de produção)
@@ -81,4 +87,4 @@ Cobertas as 6 doenças, a série continua com **novo ângulo por rodada** (mesmo
 2. ✅ **Re-datar as peças prontas** — feito (Psoríase 03/07, AR 06/07, Dermatite 13/07; Crohn Reel opcional).
 3. **Produzir semanas 4 e 5** — Espondilite Anquilosante (20/07) e Artrite Psoriática (27/07), em estático, no mesmo modelo.
 4. **Reconciliar a [estratégia de julho](2026-07.md)** — encaixar o drip da série no calendário e devolver Julho Amarelo / Alergia / domiciliar aos seus slots (a série agora só toma 1 slot/semana).
-5. **Gate de escopo + validação do RT médico** (BLOQUEANTE) — segue valendo pra cada peça antes de publicar (ver [../OPEN-QUESTIONS.md](../OPEN-QUESTIONS.md) #5).
+5. **Gate de escopo + validação do RT médico** (BLOQUEANTE) — segue valendo pra cada peça antes de publicar (ver [../OPEN-QUESTIONS.md](../OPEN-QUESTIONS.md) #5). **Prioridade máxima a partir de 2026-08-11** — cliente confirmou que tratamento de doenças é o foco declarado do negócio ([referência](../referencias/2026-08-11-foco-tratamento-doencas.md)), e essa é a série que carrega esse pilar. Estoque de pontes zerado, segunda 17/08 sem peça — só destrava com o RT.

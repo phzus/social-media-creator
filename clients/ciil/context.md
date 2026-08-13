@@ -12,9 +12,11 @@ status: 🟡 Versão 1.0 — destilado do briefing/auditoria da Cowork AI (Maio/
 - **Type:** Brand (cliente da Lone Mídia).
 - **Name:** CIIL — Centro de Imunobiológicos e Imunização Lagos.
 - **Handles:** Araruama → Instagram **@ciilagos** · Facebook /ciilagos. São Gonçalo → Instagram **@ciil.sg** · Facebook /ciil.sg. Linktree: linktr.ee/Ciilagos.
-- **Role:** Clínica de infusão (day clinic) especializada em **terapias imunobiológicas** pra doenças autoimunes + **vacinação** (todas as idades, corporativa, domiciliar) + exames (ultrassom, PPD) + **consultas em imunologia e alergia/alergologia** (oferece — confirmado PH 22/06).
+- **Role:** Clínica de infusão (day clinic) especializada em **terapias imunobiológicas** pra doenças autoimunes + **vacinação** (todas as idades, corporativa, domiciliar) + exames (ultrassom, PPD) + **consultas em imunologia e alergia/alergologia** (oferece — confirmado PH 22/06) + **procedimentos cirúrgicos dermatológicos** (novo, ver abaixo).
+- **Novo (2026-07-24, WhatsApp do cliente repassado por PH, datado 15/06):** a CIIL oferece **excisão de lesões** (remoção de verrugas, cistos, sinais, tumores), **tratamento de câncer de pele** e **tratamento de hidradenite supurativa**. Não estava no BRIEFING original (Cowork AI). ✅ **Confirmado por PH (2026-07-24): é serviço das 2 unidades** (Araruama + São Gonçalo), não exclusivo de SG — mesmo tratamento das demais peças (conteúdo idêntico entre unidades). Fonte: [referencias/2026-07-24-procedimentos-novos-sao-goncalo.md](referencias/2026-07-24-procedimentos-novos-sao-goncalo.md).
 - **Industry/niche:** Saúde — imunologia, imunobiológicos e imunização.
 - **Positioning (proposto, a validar):** *A referência em saúde imunológica da região — autoridade científica com acolhimento humano. Cuida do corpo, da qualidade de vida e da tranquilidade do paciente e da família.*
+- **Foco declarado pelo cliente (2026-08-11, via PH):** o foco do negócio é **tratamento de doenças** — na prática, terapia imunobiológica pra doenças autoimunes (série [Isso Tem Nome](estrategia/linha-editorial-isso-tem-nome.md)) + os procedimentos dermatológicos (excisão de lesões, câncer de pele, hidradenite supurativa). Não ficou claro se isso reduz o peso de vacinação no mix ou soma em cima — ver [OPEN-QUESTIONS](OPEN-QUESTIONS.md). Detalhe em [referencias/2026-08-11-foco-tratamento-doencas.md](referencias/2026-08-11-foco-tratamento-doencas.md).
 - **Momento estratégico:** Onboarding na Lone. Operação digital vinha sendo tocada pela **@vivamidia**. Duas frentes desbalanceadas: Araruama consolidada (1.555 seg.), São Gonçalo defasada (388 seg.) e sem identidade local. Maior lacuna do negócio inteiro: **vídeo/Reels quase inexistente**.
 
 ---
@@ -77,6 +79,8 @@ Baixo. Leveza e calor humano, sim; piada de marca, não. É saúde — confianç
 
 Herdados da proposta Cowork AI (validar % com a Lone na 1ª estratégia mensal). 5 pilares:
 
+> ⚠️ **Cliente confirmou (2026-08-11) que o foco do negócio é tratamento de doenças** (autoimune/infusão + procedimentos dermatológicos). **PH confirmou a direção (2026-08-11): reduzir o peso de vacinação no mix, dar mais espaço a tratamento.** Não veio percentual novo — os % abaixo (herdados da Cowork AI) ficam como referência solta até a próxima estratégia mensal recalibrar de fato; na prática, ao montar o calendário, priorizar peça de doença/tratamento sobre peça de vacinação sempre que os dois competirem pelo mesmo slot.
+
 1. **Autoridade (≈20%)** — referência técnica/científica: calendário vacinal, novas terapias, dados de imunização, presença em congressos.
 2. **Educativo (≈30%, maior peso)** — saúde e prevenção: o que são biológicos, doenças autoimunes, sintomas de alerta, por que vacinar, mitos e verdades. Formato natural: carrossel + Reels explicativo.
 3. **Venda (≈20%)** — converter em agendamento: serviços, convênios aceitos, vacinação domiciliar, vacinação corporativa, campanhas sazonais (gripe, dengue).
@@ -133,7 +137,7 @@ Herdados da proposta Cowork AI (validar % com a Lone na 1ª estratégia mensal).
 - **Gestão:** **a Lone assume 100% da CIIL** (decisão PH 22/06). A **@vivamidia não cuida mais** da CIIL. Garantir handoff de acessos das contas.
 - **Estrutura oficial Lone:** Seg = post estratégico simples · Qua = Reels · Sex = carrossel/venda. **Qua (Reels) é estratégico aqui** — Reels é a maior lacuna do CIIL.
 - **Identidade visual:** azul institucional #1A7FBD / #0D5A8C · branco e azul claro · ciano #2EAEE8 (destaque). Logo = símbolo CIIL (molécula/folha). Auditoria sugere paleta expandida (verde-turquesa/off-white pra wellness) + tipografia display (DM Sans/Sora) — propostas, validar.
-- **Decisor / contato direto:** a confirmar.
+- **Decisor / contato direto:** ✅ confirmado (PH, 2026-08-11) — é a contato ("a menina da CIIL") que passa recados de foco/estratégia pra PH. Nome ainda não registrado, confirmar quando for prático.
 - **Banco de mídia:** **há fotos autorais** da equipe e da clínica (confirmado PH, 22/06) + banco stock. Humanização e Reels usam o autoral; stock cobre educativo/venda/datas. PH apontar a pasta do material autoral pra referência nos briefs.
 - **Janela de briefing mensal:** dias 22–25 do mês anterior (padrão Lone).
 

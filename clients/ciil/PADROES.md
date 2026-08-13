@@ -58,6 +58,14 @@ Ao produzir as próximas entradas (Espondilite Anquilosante, Artrite Psoriática
 
 ---
 
+## Regra nova — não especificar unidade em claim de tratamento (PH, 2026-08-11)
+
+Ao afirmar que a CIIL faz um tratamento/procedimento (série Isso Tem Nome, procedimentos dermatológicos, qualquer claim clínico novo), **usar sempre fraseado genérico** — "a CIIL realiza", "aqui a gente faz", "é feito na CIIL" — **sem especificar se é nas duas unidades ou numa só**. PH: confirmar unidade por unidade não impede nem destrava produção, então não vale gastar ciclo de RT com isso — só importa confirmar **o fato clínico** (a CIIL faz aquele tratamento?) e **a especialidade** que encaminha.
+
+Isso não é novo pro fechamento padrão da série (já era "menciona a CIIL e que há tratamento/prevenção feito lá", genérico) — a mudança é não usar mais "nas duas unidades" como qualificador em nenhuma peça nova, mesmo quando o fato aparece nas fontes já confirmadas.
+
+---
+
 ## Vocabulário e ângulo (herdado do context.md, reforçado aqui)
 
 - Nunca "cura" — sempre "tratamento", "controla", "cuida". Doenças autoimunes da série são crônicas.
@@ -68,5 +76,6 @@ Ao produzir as próximas entradas (Espondilite Anquilosante, Artrite Psoriática
 
 ## Histórico de revisões
 
+- **2026-08-11** — Registrada regra: claim de tratamento nunca especifica unidade (PH) — só o fato clínico + especialidade importam pro gate do RT.
 - **2026-07-16** — Registrado vício "dor de trânsito/estacionamento não é real em Araruama" (peça de vacina domiciliar/cuidador de idoso reescrita após correção de PH).
 - **2026-07-02** — v1.0 criado a partir do feedback de PH sobre a 1ª leva da série "Isso Tem Nome": liberou carrossel curto (2-3 slides, ref. @imunovidavacinas), simplificou a copy do estático (Título/Desenvolvimento/Fechamento) e cortou a repetição de gancho entre peças.

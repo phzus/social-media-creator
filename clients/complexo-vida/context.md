@@ -1,7 +1,7 @@
 # Social Media Context — Complexo Vida
 
 last_updated: 2026-06-23
-status: 🟡 Versão 2.0 — incorpora respostas do PH (modalidades reais + contatos) e a direção estratégica de humanização/comunidade/Combo Família. Pendência central restante: mecânica/preço da **moovz**.
+status: 🟡 Versão 2.0 — incorpora respostas do PH (modalidades reais + contatos) e a direção estratégica de humanização/comunidade/Combo Família. Pendência central restante: **preço** da **moovz** (mecânica de uso confirmada em 2026-08-05 — ver Pilar 5).
 
 > Fonte de verdade pra todas as skills `*-sms` quando trabalhando com o Complexo Vida. Substitui `.agents/social-media-context-sms.md` (ver [CLAUDE.md](../../CLAUDE.md) sobre o redirecionamento).
 
@@ -167,8 +167,9 @@ Leve, situacional (a preguiça de segunda, o pós-treino, a criança animada na 
 ## References
 
 - **Benchmark citado pelo cliente:** [@moovz](https://www.instagram.com/moovz) — pela pulseira de desempenho (inspiração de produto, não de tom).
+- **Benchmarks de concorrência local (PH, 2026-08-05):** [@academiamitraararuama](https://www.instagram.com/academiamitraararuama/) e [@ac.estacao_fitness](https://www.instagram.com/ac.estacao_fitness/) — concorrentes diretos em Araruama, ~19K seguidores cada, nenhum comunica tecnologia de desempenho tipo moovz. Análise em [referencias/2026-08-05-benchmarks-concorrentes-araruama.md](referencias/2026-08-05-benchmarks-concorrentes-araruama.md).
 - **Estratégia de engajamento/humanização (PH, 2026-06-23):** [referencias/2026-06-23-respostas-ph-modalidades-estrategia.md](referencias/2026-06-23-respostas-ph-modalidades-estrategia.md).
-- **Análise do perfil atual:** pendente — fetch do Instagram bloqueado. Checklist em [referencias/2026-06-23-analise-perfil-instagram.md](referencias/2026-06-23-analise-perfil-instagram.md).
+- **Análise do perfil atual:** feita em 2026-06-23 (a partir de prints enviados por PH, fetch direto bloqueado na época). Fetch direto **desbloqueou em 2026-08-05** (testado ao salvar os benchmarks acima) — checagem rápida confirmou 3.065 seguidores, destaques atualizados, grade sem mudança estrutural. Recalibração completa de paleta/tom via `analista-perfil-ig` (pedida no [PADROES §7](PADROES.md)) segue não feita — próximo ciclo, se PH quiser. Ver [referencias/2026-06-23-analise-perfil-instagram.md](referencias/2026-06-23-analise-perfil-instagram.md) (com addendum de 2026-08-05).
 
 ---
 

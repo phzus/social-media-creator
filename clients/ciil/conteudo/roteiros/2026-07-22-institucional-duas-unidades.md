@@ -27,7 +27,9 @@ Mesmo arco dos vídeos gravados, vocabulário novo. Eixo geográfico puxa **as d
 ## 1. Gancho (0-3s) — fala + visual
 
 **Fala (apresentador, olhando na câmera, tom direto e próximo):**
-"Se você faz tratamento com imunobiológico, essa é pra você: dá pra receber a sua medicação sem sair da sua cidade."
+"Se você faz tratamento com imunobiológico, presta atenção nisso:
+
+você sabia que dá pra receber a sua medicação sem sair da sua cidade."
 
 **Visual:** apresentador de scrub CIIL em plano médio, recepção/corredor desfocado ao fundo (caloroso). Corte seco. **Legenda queimada** no 1º frame: "Sua medicação, na sua cidade." Logo bug centralizado embaixo desde o frame 1.
 
@@ -36,7 +38,7 @@ Mesmo arco dos vídeos gravados, vocabulário novo. Eixo geográfico puxa **as d
 ## 2. Dor / contexto — fala + visual
 
 **Fala:**
-"Muita gente carrega a ideia de que, pra tomar o biológico, vai ter que encarar hospital grande, marcação difícil e um dia inteiro perdido. Não tem que ser assim."
+"Muita gente pensa que, pra tomar o biológico, vai ter que encarar hospital grande, marcação difícil e um dia inteiro perdido. Não tem que ser assim."
 
 **Visual:** B-roll da estrutura real da CIIL que contradiz essa ideia — poltrona de infusão confortável, sala organizada, geladeira de imunobiológicos. Sem dramatizar dor, sem paciente identificável. **On-screen:** "hospital grande? marcação difícil? não precisa."
 

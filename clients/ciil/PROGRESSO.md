@@ -4,6 +4,111 @@ Log datado do trabalho feito pra CIIL. Topo = mais recente. Entrada por bloco de
 
 ---
 
+## 2026-08-11 (2) — 4 pendências resolvidas: vacinação, unidade, decisor, briefing
+
+PH respondeu as 4 perguntas que eu tinha levantado pra continuar:
+
+1. **Vacinação reduz no mix**, tratamento ganha mais espaço — sem percentual novo, mas tratamento vence quando os dois competem pelo mesmo slot.
+2. **Não precisa mais confirmar por unidade** no gate de escopo — o conteúdo vai ficar genérico ("a CIIL realiza"), sem citar Araruama/São Gonçalo. Isso simplifica (não elimina) o gate do RT: ainda falta confirmar o fato clínico + especialidade pra Espondilite Anquilosante, Artrite Psoriática e os 3 procedimentos dermatológicos. Registrei a regra nova em [PADROES §](PADROES.md).
+3. **Decisor confirmado** — é a mesma pessoa que passou o recado de foco em tratamento ("a menina da CIIL"). Nome ainda não registrado.
+4. **Briefing mensal é só isso mesmo** — sem promoção/campanha sazonal ou meta adicional pra agosto além da diretriz de foco em tratamento.
+
+Atualizei [OPEN-QUESTIONS.md](OPEN-QUESTIONS.md) (resolvendo 4 pendências antigas, incluindo a duplicata de numeração no bloqueante #2), [context.md](context.md) e [PADROES.md](PADROES.md). Com a granularidade por unidade fora do caminho, a pergunta pro RT fica mais simples e rápida de responder — segue pendente escrever essa pergunta final pro PH mandar.
+
+---
+
+## 2026-08-11 (1) — Cliente confirmou foco: tratamento de doenças
+
+PH repassou recado do contato da CIIL: o foco do negócio é **tratamento de doenças** — e o que isso engloba. Registrei em [referencias/2026-08-11-foco-tratamento-doencas.md](referencias/2026-08-11-foco-tratamento-doencas.md), cruzando com o que já existe: aponta pra terapia imunobiológica autoimune (série [Isso Tem Nome](estrategia/linha-editorial-isso-tem-nome.md)) + os 3 procedimentos dermatológicos novos (excisão, câncer de pele, hidradenite — ainda sem validação do RT).
+
+**Por que isso muda a prioridade prática:** a série já estava com estoque de pontes zerado e segunda 17/08 sem peça (registrado em 10/08) — o único jeito de produzir mais conteúdo de doença é o RT confirmar Espondilite Anquilosante/Artrite Psoriática e os procedimentos dermatológicos. Isso já era o maior gargalo da conta; agora também é a prioridade #1 declarada pelo cliente. Atualizei [OPEN-QUESTIONS.md](OPEN-QUESTIONS.md) (#16 e nova #19) e a [linha editorial](estrategia/linha-editorial-isso-tem-nome.md) marcando essa pendência como prioridade máxima.
+
+**Pergunta que fica em aberto pra PH:** isso significa reduzir o peso de vacinação no mix mensal, ou é ênfase adicional em cima do que já existe? Afeta a estratégia de agosto, que ainda não foi fechada.
+
+---
+
+## 2026-08-10 — Calendário da semana 10-14/08 (Seg/Qua/Sex)
+
+PH pediu o calendário da semana com prioridade no post estático de hoje (segunda). CIIL segue **sem estratégia de agosto fechada** ([OQ #2](OPEN-QUESTIONS.md), aberta desde 31/07) e sem nada planejado/escrito pra 10, 12 ou 14/08 — conferido em [estrategia/](estrategia/) e [conteudo/](conteudo/) antes de escrever. Mix normal da semana (não entra a restrição de 1 linha temática/semana — PH confirmou que só vale a partir de 17/08).
+
+**Seg 10/08 · Educativo/MOFU:** [conteudo/posts/2026-08-10-o-que-fazer-se-suspeitar-doenca-autoimune.md](conteudo/posts/2026-08-10-o-que-fazer-se-suspeitar-doenca-autoimune.md) — nova peça-ponte da série "Isso Tem Nome" (*"Reconheceu um sintoma? Não é hora de esperar mais um pouco"*). As duas pontes já previstas na [linha editorial](estrategia/linha-editorial-isso-tem-nome.md) foram consumidas em 29/07 e 03/08; esta escreve o candidato que já estava sugerido mas nunca redigido ("o que fazer se suspeitar"). Fora do gate por doença (não nomeia nenhuma além dos 3 sintomas já publicados). CTA muda pra WhatsApp (as 2 pontes anteriores fechavam em "salva esse post") — reflete o avanço de TOFU puro pra MOFU/ação. **[Linha editorial atualizada](estrategia/linha-editorial-isso-tem-nome.md)** registrando o consumo.
+
+**Qua 12/08 · Emocional/Autoridade (institucional):** [conteudo/roteiros/2026-08-12-institucional-anos-sem-resposta.md](conteudo/roteiros/2026-08-12-institucional-anos-sem-resposta.md) — roteiro completo no formato institucional publicitário já validado (apresentador + B-roll + "se sentir bem"), ângulo novo: a demora até alguém dar nome ao que a pessoa sente. Fora do gate por doença, mesma lógica dos institucionais de 22/07 e 31/07. **Sem bloqueio de captação identificado** (mesmo apresentador já validado dos vídeos anteriores) — mas **sem confirmação de agenda de gravação pra esta data**, então entreguei o roteiro pronto pra fila de produção em vez de presumir que a filmagem está marcada. Cobre o pilar Emocional, que segunda (educativo) e sexta (venda) não cobrem. Uma claim nova precisa de OK explícito do RT: "não precisa chegar com o nome da doença fechado — precisa chegar com a queixa" (extensão razoável do serviço de consultas em imunologia já documentado, mas não confirmada antes).
+
+**Sex 14/08 · Venda/Remarketing:** [conteudo/posts/2026-08-14-convenios-aceitos.md](conteudo/posts/2026-08-14-convenios-aceitos.md) — carrossel curto (3 slides) sobre convênios aceitos, ângulo ainda não usado (os 2 carrosséis de venda anteriores foram domiciliar e corporativo). Ataca a objeção "vou ter que pagar particular". Peça administrativa, não clínica — não passa pelo fluxo do RT do mesmo jeito, mas **a lista de convênios vem do briefing de maio/2026 e nunca foi reconfirmada**; registrado como pendência antes de publicar.
+
+**Mix da semana:** educativo → emocional → venda, cobrindo 3 dos 6 tipos do mix obrigatório. Posicionamento aparece embutido nas 3 peças (série + institucional + convênio como prova de estrutura séria). Prova social não entra — não há depoimento com autorização disponível (não vou inventar).
+
+**Pendências que seguem:**
+- 🔴 Estratégia de agosto ainda não existe ([OQ #2](OPEN-QUESTIONS.md)) — as 3 peças desta semana ocupam os slots estruturais, não decorrem de estratégia mensal fechada. Sinalizando de novo: **o estoque de pontes/assets de reserva está no fim.**
+- 🔴 **Segunda 17/08 sem peça de reserva** — as pontes previstas acabaram nesta entrada. A próxima segunda só tem peça de série se o RT liberar Espondilite Anquilosante ou Artrite Psoriática, ou se surgir ideia de ponte nova. Vale antecipar com PH.
+- 🟡 OK do RT nas 3 peças (padrão em toda peça clínica; a de convênios tem revisão mais leve, ver arquivo).
+- 🟡 Confirmar agenda de gravação do roteiro de 12/08 com produção.
+- 🟡 Confirmar lista de convênios atualizada com PH/cliente antes de publicar 14/08.
+
+---
+
+## 2026-08-06 — Slot de sexta 07/08: carrossel de venda "Vacinação corporativa"
+
+PH pediu o post de sexta 07/08. Sexta é o slot estrutural carrossel/venda da grade Lone, mas a CIIL segue sem estratégia de agosto fechada ([OQ #2](OPEN-QUESTIONS.md), aberta desde 31/07). As duas peças-ponte da série "Isso Tem Nome" (únicas 100% fora do gate de escopo por doença) já foram usadas em 29/07 e 03/08 — e as próximas entradas naturais da série (Espondilite Anquilosante, Artrite Psoriática) seguem **gated**, sem confirmação do RT desde 13/07. Sem peça de série disponível pra essa sexta, resgatei o asset **parkeado duas vezes** no calendário de julho: o carrossel B2B de vacinação corporativa, cotado originalmente pra Sex 24/07 ("Seu time protegido pro inverno") e desviado nessa data pelo post de Excisão de Lesões. Só o título/ângulo existia — a copy nunca tinha sido escrita.
+
+Entregue: [conteudo/posts/2026-08-07-vacinacao-corporativa.md](conteudo/posts/2026-08-07-vacinacao-corporativa.md) — carrossel curto (3 slides), pilar Venda, BOFU/Most-Aware. Fala de vacinação corporativa como categoria de serviço (não nomeia doença autoimune), então **fora do gate de escopo por doença** — mesma lógica das demais peças institucionais/genéricas já publicadas. Ainda passa pelo RT como toda peça clínica.
+
+**Cobertura geográfica tratada com cautela:** o briefing só documenta cobertura ampla ("toda a Região dos Lagos e SG") pro atendimento **domiciliar** — não pro corporativo. Como não há confirmação equivalente pro B2B, a copy cita só as duas cidades das unidades (Araruama e São Gonçalo), sem estender a área. Registrado como pendência pra PH confirmar.
+
+**Diagramação variada:** o único outro carrossel de venda da CIIL (domiciliar, 10/07) usa 4 bullets no slide 2; este usa frase corrida + 2 bullets, pra não clonar a estrutura interna nem cair no tricolon de 3 itens (vício anti-IA).
+
+**Pendências que seguem:**
+- 🔴 Estratégia de agosto ainda não existe ([OQ #2](OPEN-QUESTIONS.md)) — este post resgata asset parkeado pra ocupar o slot estrutural, não decorre de estratégia mensal fechada. Fechar agosto antes do próximo slot (10/08).
+- 🟡 OK do RT antes de publicar (padrão em toda peça clínica).
+- 🟡 Confirmar com PH/cliente se a cobertura da vacinação corporativa é a mesma do domiciliar (Região dos Lagos + SG) ou restrita às cidades das unidades.
+
+---
+
+## 2026-08-04 — Homenagem de Dia dos Pais
+
+A Lone decidiu fazer uma homenagem de Dia dos Pais em vários clientes da carteira, todos publicando no dia exato, domingo 09/08/2026. Escrevi a peça pra CIIL: [conteudo/posts/2026-08-09-feliz-dia-dos-pais.md](conteudo/posts/2026-08-09-feliz-dia-dos-pais.md) — arte designed única, 100% emocional/institucional, sem preço, oferta ou CTA de venda.
+
+**Ângulo escolhido:** o pai que cuida de todo mundo em casa e pergunta por último como ele mesmo está — hábito de cuidado genérico, sem citar doença, exame, vacina ou tratamento, então a peça fica fora do fluxo de validação clínica do RT. Selo reforça a tagline institucional já usada pela CIIL ("se sentir bem"), sem soar forçado.
+
+**Conteúdo idêntico nas duas unidades** (Araruama + São Gonçalo) — não há recorte local aplicável ao tema.
+
+---
+
+## 2026-07-31 (2) — Post de segunda 03/08: peça-ponte "O que é um imunobiológico?"
+
+PH pediu o resto dos posts pendentes. A CIIL não tem estratégia de agosto fechada ([OQ #2](OPEN-QUESTIONS.md)), mas a linha editorial "Isso Tem Nome" tinha uma peça-ponte ainda não usada — escrevi ela pro slot de segunda: [conteudo/posts/2026-08-03-o-que-e-um-imunobiologico.md](conteudo/posts/2026-08-03-o-que-e-um-imunobiologico.md). Fora do gate de escopo por doença, mesma lógica da peça-irmã de 29/07.
+
+**Consumiu a última peça-ponte disponível** — registrado em [linha-editorial](estrategia/linha-editorial-isso-tem-nome.md). Próxima peça da série depende de destravar Espondilite/Artrite Psoriática (gate do RT) ou criar ponte nova.
+
+**Pendência que segue:** estratégia de agosto ainda não existe — o próximo slot (10/08) já não tem peça-ponte de reserva.
+
+---
+
+## 2026-07-29 (2) — Estático pra sexta: peça-ponte "O que é uma doença autoimune?"
+
+PH perguntou se tinha post estático pronto da CIIL, pra sexta. Não tinha — o que estava pendente na série ("Isso Tem Nome") eram **Espondilite Anquilosante e Artrite Psoriática** (#4 e #5 da [linha editorial](estrategia/linha-editorial-isso-tem-nome.md)), atrasadas desde 20/07 e 27/07, mas ambas **gated** (RT nunca confirmou o escopo, só a Dermatite foi liberada). Não dava pra usar nenhuma das duas sem esbarrar no gate.
+
+Escrevi no lugar uma das **peças-ponte já previstas** na linha editorial (Rodada 2 e além): *"O que é uma doença autoimune, afinal?"* — sob o selo da série, mas sem nomear doença específica, então fica fora do gate (mesma lógica do post de day clinic de 06/07). Entregue: [conteudo/posts/2026-07-29-o-que-e-doenca-autoimune.md](conteudo/posts/2026-07-29-o-que-e-doenca-autoimune.md).
+
+**Gancho variado de propósito:** os 3 já publicados usaram declaração+negação, pergunta direta e declaração+marca da série — esta usa analogia ("sistema de defesa que erra o alvo"), pra não repetir nenhum dos 3 padrões (vício já registrado no [PADROES](PADROES.md)).
+
+**Pendência que segue:** confirmar com PH em qual sexta exatamente esta peça entra — a mais próxima (31/07) já tem o Reel de frio/imunossuprimido no buffer. E as duas doenças atrasadas da série (Espondilite, Artrite Psoriática) continuam precisando do RT pra destravar.
+
+---
+
+## 2026-07-31 — Buffer de sexta preenchido: Reel institucional sobre inverno + imunossuprimido
+
+PH pediu roteiro de vídeo pra hoje. Sex 31/07 era buffer livre no calendário de julho. Escolhi o tema **"frio e quem trata com biológico"** — parkeado desde 22/07 quando o institucional das duas unidades entrou no lugar — em vez do B2B de vacinação corporativa (também parkeado, mas mais carrossel/venda que Reel de autoridade). Entregue: [conteudo/roteiros/2026-07-31-frio-imunossuprimido.md](conteudo/roteiros/2026-07-31-frio-imunossuprimido.md).
+
+**Fora do gate por doença:** fala de "tratamento imunológico" como modalidade, sem nomear doença autoimune — mesma lógica do post de 06/07 e do institucional de 22/07. Continua exigindo OK do RT quanto à descrição da operação (e à orientação de "avisar a equipe antes da data" — não é conduta clínica inventada, mas vale confirmação).
+
+**Variação de linguagem:** os 3 institucionais + o de 22/07 já abriram duas vezes com "Você sabia que...". Este roteiro evita repetir essa abertura e as frases-assinatura já usadas duas vezes ("conforto e menos burocracia", "fale com a gente"/"manda mensagem no WhatsApp" idênticas).
+
+**Pendência que segue:** o fluxo de "quem é e como/quando o RT revisa" ainda não está formalizado (OQ #1) — vale fechar isso antes desta peça específica ir ao ar, já que ela toca em orientação de cuidado, não só descrição de serviço.
+
+---
+
 ## 2026-07-25 — Slot de segunda 27/07: véspera do Dia Mundial das Hepatites
 
 PH pediu posts pros três clientes (Complexo Vida, CIIL, Maicom) na mesma conversa. Aqui produzi o **próximo slot do calendário**: [conteudo/posts/2026-07-27-vespera-dia-mundial-hepatites.md](conteudo/posts/2026-07-27-vespera-dia-mundial-hepatites.md) — estático educativo que fecha o Julho Amarelo na véspera do **28/07**.
@@ -17,6 +122,18 @@ PH pediu posts pros três clientes (Complexo Vida, CIIL, Maicom) na mesma conver
 **Fatos conferidos na fonte antes de escrever** — aplicando a lição de 16/07 (o horário inventado): horário Seg–Sex 8h–18h sem sábado, telefones das 2 unidades, cobertura domiciliar do briefing §1. **Vício de "trânsito" evitado**: o obstáculo do domiciliar é "se sair de casa for o problema", universal pras duas praças.
 
 **Estado do calendário:** a peça de **Sex 24/07 (carrossel B2B de vacinação corporativa) não foi produzida** — a data passou. Qua 29/07 e Sex 31/07 seguem como buffer livre. **O briefing de agosto vence hoje** (janela 22–25, [playbook §3](../../shared/playbook-lone-midia.md)) — sinalizado a PH.
+
+---
+
+## 2026-07-24 — Serviço novo (excisão de lesões, SG) + troca do slot de sexta pra estático
+
+PH pediu posts estáticos hoje (em vez do padrão de sexta = carrossel) e trouxe uma mensagem de WhatsApp do cliente (datada 15/06, repassada só agora): a unidade **São Gonçalo** faz **excisão de lesões** (verrugas, cistos, sinais, tumores), **tratamento de câncer de pele** e **tratamento de hidradenite supurativa** — serviços que não estavam no BRIEFING original (Cowork AI). Salvo em [referencias/2026-07-24-procedimentos-novos-sao-goncalo.md](referencias/2026-07-24-procedimentos-novos-sao-goncalo.md) e refletido no [context.md](context.md).
+
+PH sugeriu falar de um dos três; escolhi **Excisão de Lesões** por ser o menos sensível clinicamente — câncer de pele e hidradenite pedem ângulo próprio e validação do RT mais cuidadosa antes de virar post, então ficam de fora por ora (registrado como pendência). Post entregue: [conteudo/posts/2026-07-24-excisao-de-lesoes.md](conteudo/posts/2026-07-24-excisao-de-lesoes.md) — estático, tom de "aquele carocinho que você convive há anos", convite pra avaliação (sem autodiagnóstico, sem prometer resultado). Ocupou o slot de sexta 24/07, que era o carrossel B2B de vacinação corporativa ("Seu time protegido pro inverno") — esse fica parkeado, não descartado. Estratégia atualizada.
+
+**Correção de PH (mesmo dia):** o serviço é das **2 unidades**, não exclusivo de São Gonçalo (a assinatura "Ciil - São Gonçalo" na mensagem original era só o WhatsApp de origem, não o escopo). Post reescrito pra conteúdo idêntico nas duas contas (@ciilagos + @ciil.sg), com rodapé de endereços/telefones das duas — mesmo padrão já usado no post de vacinação domiciliar. OPEN-QUESTIONS e context.md atualizados.
+
+**Pendência que segue aberta:** falta o OK do RT antes de publicar (padrão em toda peça clínica).
 
 ---
 

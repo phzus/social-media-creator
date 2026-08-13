@@ -41,11 +41,13 @@ A alavanca/**tema** de venda do mês é o **brinde** (argamassa AC-1 + rejunte a
 - ❌ Fora: "de R$ X **por** R$ Y", "X% off", starburst "PROMOÇÃO!!!", "promoção do dia", desconto relâmpago de piso.
 - ⚠️ O "a partir de R$ 22,99" só entra se **existir piso real a esse preço** — o "a partir de" tem que ser verdade (confirmar na tabela).
 
-### Mecânica do brinde (confirmada por PH, 2026-07-23)
+### Mecânica do brinde (parcialmente confirmada por PH, 2026-07-23 — corrigido 2026-08-03)
 
-**A cada 4 m² de piso fechados = 1 brinde (argamassa AC-1 + rejunte). Acumula, sem teto.** Fechou 8 m², leva 2. Fechou 12 m², leva 3. É o argumento-mãe da campanha: **quanto maior o ambiente, mais material grátis** — usar na copy.
+**A cada 4 m² de piso fechados = 1 brinde (argamassa AC-1 + rejunte).** Isso é o que está confirmado.
 
-- **"O resto é no balcão."** Os detalhes finos (quantos kg de AC-1 e rejunte, cor do rejunte, entrega, estoque) **se resolvem presencialmente — não vão na peça.** A comunicação fica **simples**: "a cada 4 m² de piso, a argamassa AC-1 e o rejunte são por nossa conta — e acumula". Sem asterisco, sem regulamento na arte.
+⚠️ **Acúmulo NÃO confirmado (correção de PH, 2026-08-03).** Uma versão anterior deste documento tratava "acumula, sem teto" (8 m² = 2, 12 m² = 3) como fechado — não era. A fonte original ([referencias/2026-07-23-roteiros-recebidos-agosto.md](referencias/2026-07-23-roteiros-recebidos-agosto.md)) sempre listou "acumula?" como pergunta em aberto. **Nenhuma peça pode afirmar nem negar acúmulo** até confirmação real com o cliente — comunicar só a regra base (1 brinde a cada 4 m²). Ver [OPEN-QUESTIONS](OPEN-QUESTIONS.md).
+
+- **"O resto é no balcão."** Os detalhes finos (quantos kg de AC-1 e rejunte, cor do rejunte, entrega, estoque, e agora também acúmulo) **se resolvem presencialmente — não vão na peça.** A comunicação fica **simples**: "a cada 4 m² de piso, a argamassa AC-1 e o rejunte são por nossa conta". Sem asterisco, sem regulamento na arte.
 - **Não é nossa alçada auditar o cliente** (PH, 2026-07-23: *"não cabe a gente saber essas coisas, essas informações são suficientes"*). Preço "a partir de R$ 22,99/m²" e regras do brinde = dados do cliente, usar como vieram. Comunicação começa 03/08 falando "durante agosto".
 
 ---
@@ -77,7 +79,7 @@ Nunca escrever horário, endereço, preço ou condição "que soa plausível". O
 | Variedade | +1.000 modelos de piso | Bio |
 | Nome | **Maicom** Minerais (com **M**) — nunca "Maicon" | Razão social + @ · confirmado PH 2026-07-23 |
 | Preço de piso | a partir de **R$ 22,99/m²** | Roteiros PH, 2026-07-23 |
-| Brinde | a cada 4 m² de piso = argamassa **AC-1** + rejunte grátis, **acumula sem teto** | PH, 2026-07-23 |
+| Brinde | a cada 4 m² de piso = argamassa **AC-1** + rejunte grátis. **Acúmulo NÃO confirmado** — não afirmar nem negar | PH, 2026-07-23 (base) · correção 2026-08-03 |
 | Aniversário da loja | 23/08 (a loja; o CNPJ é de 08/07/2025 — vale a data do cliente) | PH, 2026-07-23 |
 | Café de aniversário | 22/08 (sáb), a partir das 7h30 (abertura de sábado da loja) | PH, 2026-07-23 |
 
@@ -96,5 +98,6 @@ Nunca escrever horário, endereço, preço ou condição "que soa plausível". O
 
 ## Histórico
 
+- **2026-08-03** — PH corrigiu: a regra de acúmulo do brinde (8 m² = 2, 12 m² = 3) **nunca foi confirmada** — estava registrada como fechada por engano em §2 e na tabela §4. Corrigido pra "não confirmado, não afirmar nem negar". A peça 1c (conteúdo/posts), inteira construída em cima do acúmulo, foi retida — precisa de conceito novo. Peças 1 e 1b já publicadas/prontas foram ajustadas pra remover a afirmação.
 - **2026-07-23 (2)** — PH mandou os 4 [roteiros de vídeo](conteudo/roteiros/2026-08-videos-campanha.md) + 2 instruções. **§1:** escopo do porcelanato **confirmado** (piso vende/aparece; só o porcelanato sai). **§2:** preço-âncora "a partir de R$ 22,99/m²" **liberado** (não é desconto). Tabela §4: + nome Maicom, preço, argamassa AC-1, café 22/08. WhatsApp rebaixado de trava → risco registrado (PH: "isso não interessa a gente").
 - **2026-07-23** — criado. Regras 1 e 2 vieram do briefing de agosto ([referência](referencias/2026-07-23-briefing-agosto-campanhas.md)). Regras 3, 4 e 5 consolidadas do context/BRIEFING de onboarding.

@@ -54,3 +54,17 @@ Link na bio = WhatsApp. Informações ficam nos Destaques.
 ## Pendência levantada
 
 - ⚠️ **Endereço divergente:** "R. Oscarina Pereira de Andrade" (post jiu-jitsu) × "R. Oscarino de Andrade" (post Gympass + resposta do PH). Confirmar o nome exato da rua antes de publicar.
+
+---
+
+## Addendum — 2026-08-05 (fetch direto funcionou desta vez)
+
+Ao salvar benchmarks de concorrência pedidos por PH ([2026-08-05-benchmarks-concorrentes-araruama.md](2026-08-05-benchmarks-concorrentes-araruama.md)), testei de novo o fetch direto do @complexovida — que estava bloqueado em 2026-06-23 — e funcionou. Achados rápidos (não é a análise completa de grade/tom que o `analista-perfil-ig` faria, só uma checagem de bio/números/destaques):
+
+- **3.065 seguidores · 210 seguindo.**
+- **Destaques atuais:** "Galera VIDA" · "Horários" · "Modalidades" (aparece duplicada) · "Resultados" — mudou desde a análise de junho (que não tinha "Galera VIDA" nem "Resultados" registrados). ⚠️ **Vale conferir o destaque "Resultados"** — se for "antes e depois" de corpo, esbarra no anti-padrão do [PADROES §3](../PADROES.md); se for resultado de negócio/prova social, tá ok.
+- **Grade seguue no mesmo padrão da análise de junho:** mix de horários, modalidades, tabela de preços, motivacional, vídeos de estrutura — sem mudança estrutural grande em 6 semanas.
+
+**Comparação com os concorrentes locais (mesmo levantamento, 2026-08-05):** @academiamitraararuama e @ac.estacao_fitness têm **~19K seguidores cada** — o Complexo Vida está **muito atrás em alcance** (3K vs 19K), apesar de modalidades e convênios equivalentes. Não é motivo pra mudar estratégia de conteúdo (o ângulo "gente da terra" segue certo), mas é dado relevante pra calibrar expectativa de crescimento com PH.
+
+**Não fiz a recalibração completa de paleta/tom que o [PADROES §7](../PADROES.md) pede** ("quando sair a primeira análise real do perfil") — isso pede o subagent `analista-perfil-ig` rodando de verdade sobre a grade completa, não só bio/destaques. Como o fetch direto desbloqueou, vale rodar isso no próximo ciclo se PH quiser.

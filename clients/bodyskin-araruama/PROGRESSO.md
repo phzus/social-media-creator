@@ -4,6 +4,113 @@ Log datado do trabalho feito pra BodySkin. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-08-10 (2) — Peça de sexta 14/08 (ATA) reescrita: PH pediu indicação direta + preço
+
+PH abriu a peça de 14/08 no editor e pediu explicitamente: "tem que falar que o peeling de ATA resolve isso e tem na BodySkin por tantos reais". Antes de reescrever, perguntei se era essa peça específica que devia virar oferta direta (confirmado por PH) e reescrevi [conteudo/posts/2026-08-14-o-que-o-ata-resolve.md](conteudo/posts/2026-08-14-o-que-o-ata-resolve.md) — de peça puramente educativa (sem preço, sem indicação direta) pra peça combinada educativo+oferta: agora afirma que o ATA resolve as três queixas (mancha, textura irregular, marca de acne) e informa o preço (R$ 650, 3 sessões), ancorado contra o valor de mercado (~R$ 3.000) por [PADROES §6](PADROES.md).
+
+**Dois pontos sinalizados a PH no próprio arquivo, sem travar a entrega:**
+1. **Muda o teste do mês.** A estratégia de agosto apostava em educar sem preço antes de vender (Aposta 3, arco de 3 tempos 14→17→28/08) como teste da tese central do mês. Com preço já em 14/08, as peças de 17/08 e 28/08 repetem a mesma oferta — PH precisa decidir se ajusta essas duas.
+2. **Gate da RT sobre indicação de ATA segue aberto** ([OPEN-QUESTIONS #4](OPEN-QUESTIONS.md)), especialmente pele melanada/hiperpigmentação. Esta versão faz a afirmação mais direta já escrita pro ATA — a validação da RT fica mais urgente, não menos. Não removi a peça nem travei a produção (mesmo padrão já usado nas outras peças do cliente — não trava o calendário, trava a publicação), só reforcei o aviso.
+
+---
+
+## 2026-08-10 — Calendário da semana (10 a 14/08): post de segunda pronto + esboço de quarta + confirmação de sexta
+
+PH pediu o calendário da semana com prioridade no estático de hoje. Conferi [context.md](context.md), [PADROES.md](PADROES.md), [OPEN-QUESTIONS.md](OPEN-QUESTIONS.md), [estratégia de agosto](estrategia/2026-08.md) e o log até 06/08 antes de escrever. **Nota:** a nova direção de "1 categoria temática por semana" (do chefe do PH) não se aplica ainda — só entra em vigor em 17/08, confirmado por PH. Esta semana segue o mix normal (venda + posicionamento + emocional + educativo + prova social + remarketing).
+
+### Segunda 10/08 — peça 4, pronta pro designer
+
+Estático P1 Autoridade, "Quem começa o laser em agosto chega pronta no verão" — o ângulo é o mecanismo técnico do protocolo (sessões espaçadas + menos sol entre elas = mais seguro), não repetição do "tá frio, comece agora" da peça 1 (03/08). Entregue em [conteudo/posts/2026-08-10-comece-o-laser-em-agosto.md](conteudo/posts/2026-08-10-comece-o-laser-em-agosto.md).
+
+**Cuidado com repetição:** a peça 1 (03/08) já usa o mesmo pano de fundo sazonal. Diferenciei via ângulo (mecanismo técnico específico de laser, não identidade/pele em geral) e CTA (convite a montar cronograma, não só "salva pra lembrar"). Registrado no topo do arquivo pra quem revisar depois.
+
+**Compliance:** sem preço, sem antes/depois, sem promessa de resultado/sessões. A frase sobre exposição solar foi escrita como claim de **segurança**, não de eficácia ("mais seguro", não "mais eficaz") — vai pro crivo da RT mesmo assim, mesmo critério já usado nas peças de 27/07, 03/08 e 14/08. Zero menção a injetável. WhatsApp: [OQ #2](OPEN-QUESTIONS.md) segue sem número confirmado — CTA aponta só pro link na bio.
+
+### Quarta 12/08 — peça 5, tema original bloqueado pelo gate da RT, esboço com substituto
+
+O calendário de agosto ([estratégia §4](estrategia/2026-08.md)) previa Reels **"Bioestimulador × toxina botulínica: não é a mesma coisa"** — 100% sobre procedimento injetável. Conferi o [OQ #1](OPEN-QUESTIONS.md) (gate da RT) e ele **segue 🔴 aberto**, sem sinal de resposta desde a checagem de 06/08. Não dá pra produzir esse tema esta semana — nem preço, nem promessa, nem **conteúdo puramente educativo sobre injetável**, seguindo o mesmo critério cauteloso já aplicado na peça 3 (07/08): enquanto o gate não libera, nenhuma peça nova toca em toxina, bioestimulador, preenchimento ou enzimas, mesmo sem preço na peça.
+
+**Esboço do substituto (pronto pra virar roteiro assim que houver confirmação de captação):**
+- **Tema:** "Depilação a laser dói?" — mito/objeção real, sem tocar em injetável.
+- **Gancho:** pergunta direta ligada à dúvida mais comum de quem nunca fez laser (medo da dor), puxando pro argumento dos 4 aparelhos — o aparelho certo pro teu tipo de pele/pelo também é o mais confortável pro teu caso.
+- **Por que encaixa no mix:** mantém o pilar P1 Autoridade da peça 5 original, reforça a bandeira do mês (4 lasers, todos os fototipos — aposta 2 da estratégia) sem esbarrar no gate, e não duplica nem a peça 4 (10/08, mecanismo de cronograma) nem a peça 3 (07/08, bastidor masculino, já entregue).
+- **Sem promessa absoluta:** não afirmar "não dói" — cada pele sente de um jeito, o argumento é sobre conforto relativo entre os 4 aparelhos, não garantia de ausência de dor.
+- ⚠️ **Depende de captação** ([OQ #8](OPEN-QUESTIONS.md) segue sem confirmação de quem grava e quando). Se não houver material até 12/08, a saída é **estático de reserva** com o mesmo tema, não empurrar a gravação de última hora.
+
+Registrando esta pendência também no [OPEN-QUESTIONS.md](OPEN-QUESTIONS.md), porque ela some do calendário de agosto se ninguém sinalizar.
+
+### Sexta 14/08 — peça 6, já pronta, confirmado
+
+Já existia: [conteudo/posts/2026-08-14-o-que-o-ata-resolve.md](conteudo/posts/2026-08-14-o-que-o-ata-resolve.md), escrito em 31/07. É o tempo 1 do arco do ATA (educa → 17/08 lança → 28/08 fecha), estático, sem preço, sem indicação fechada de ATA — construído pra caber no gate da RT (nomeia as dores em geral, não afirma "o ATA resolve X"). Não precisa de retrabalho; só confirmar que a arte foi (ou será) enviada ao designer com a lista de validação da RT anexada, como já registrado no próprio arquivo.
+
+### Pendências que seguem travando o mês
+
+🔴 Gate da RT ([OQ #1](OPEN-QUESTIONS.md)) — agora com impacto direto e nomeado na peça 5 desta semana. 🔴 WhatsApp oficial ([OQ #2](OPEN-QUESTIONS.md)) — nenhuma peça desta semana usa número. 🟡 Captação ([OQ #8](OPEN-QUESTIONS.md)) — trava o Reels de 12/08 se não houver sinal até lá.
+
+---
+
+## 2026-08-06 — Roteiro de sexta 07/08: peça 3 ("Para eles", bastidor masculino)
+
+PH pediu a peça de sexta-feira 07/08. O calendário de agosto já mapeava esse dia como **peça 3** ([estratégia §4](estrategia/2026-08.md)) — uma das duas exceções ao padrão Seg/Qua/Sex do mês: sexta normalmente é carrossel/venda, mas essa vira **Reels** de bastidor porque é véspera do Dia dos Pais (dom 09/08). Entregue em [conteudo/roteiros/2026-08-07-para-eles-bastidor-masculino.md](conteudo/roteiros/2026-08-07-para-eles-bastidor-masculino.md) (vídeo, não post estático — vai pra `roteiros/`, não `posts/`).
+
+**Checagem de compliance antes de escrever:** conferi o [OPEN-QUESTIONS.md](OPEN-QUESTIONS.md) primeiro. O **gate da RT (item #1) segue 🔴 sem sinal de resolução** até esta data — o prazo pedido era 03/08 e não há entrada nova confirmando resposta. Por isso o roteiro fica **100% em depilação a laser** (carro-chefe, fora do gate) e não toca em nenhum procedimento injetável (toxina, preenchimento, bioestimulador, enzimas).
+
+**Oferta usada é a que já estava liberada:** o combo masculino (tórax + abdômen + axilas ou faixa de barba, 18x R$ 79) é depilação a laser, categoria que **não** está travada na tabela de preços do [PADROES §7](PADROES.md) — só as três linhas de injetável têm 🔴. O preço entra **só na legenda**, nunca na arte/vídeo, seguindo a regra já definida na [estratégia §11](estrategia/2026-08.md). Aproveitei também o argumento "parcelado sem travar o limite do cartão", já confirmado como verdade e liberado pra ofertas de laser.
+
+**WhatsApp:** [OQ #2](OPEN-QUESTIONS.md) segue sem número confirmado. CTA principal é engajamento — "marca ele aqui embaixo" (já definido no calendário) — e a condição completa aponta só pro link na bio, sem citar nenhum dos 4 números.
+
+**Sem rosto identificável:** repeti a mesma adaptação do primeiro roteiro do cliente (31/07) — nem o nome da RT ([OQ #1](OPEN-QUESTIONS.md)) nem o consentimento de imagem ([OQ #5](OPEN-QUESTIONS.md)) avançaram desde então, então o vídeo é 100% bastidor de ambiente/equipamento, sem cliente nem profissional em cena.
+
+**Não duplica a peça de Dia dos Pais** (08/09, avulsa, 100% emocional sem oferta) — esta carrega bastidor + oferta, aquela é só homenagem.
+
+⚠️ **Pendências bloqueantes desta peça:** gate da RT (segue aberto, motivo pelo qual a peça evita injetável) e WhatsApp oficial (segue aberto, motivo pelo qual o CTA não usa número). Nenhuma das duas impede a publicação desta peça específica — só limitam o que ela pode dizer.
+
+---
+
+## 2026-08-04 — Homenagem de Dia dos Pais
+
+Ação da agência: homenagem simples de Dia dos Pais publicada no dia exato (domingo, 09/08) em vários clientes da carteira. Peça avulsa, fora do calendário fechado de agosto e 100% emocional — sem preço, sem CTA de avaliação e sem citar nenhum procedimento, o que a deixa fora do gate da RT ([PADROES §2](PADROES.md)) por não fazer nenhuma afirmação clínica.
+
+**Ângulo:** o pai que cuida da agenda, da saúde e do bem-estar de todo mundo em casa e quase nunca sobra tempo pra cuidar de si mesmo — conecta com o recorte "para eles" (masculino) já registrado como pilar subaproveitado no [context.md](context.md), mas sem empurrar a oferta que já está reservada pra peça 3 (07/08, "Para eles"). Entregue em [conteudo/posts/2026-08-09-feliz-dia-dos-pais.md](conteudo/posts/2026-08-09-feliz-dia-dos-pais.md).
+
+---
+
+## 2026-07-31 (2) — Post de segunda 03/08: peça 1 (abertura do mês, identidade nova)
+
+PH pediu posts pros clientes pro dia 03/08. Escrevi a **peça 1** do calendário de agosto ([estratégia §4](estrategia/2026-08.md)) — estático P4 Aspiracional, zero preço, ângulo sazonal (inverno é a janela pro cuidado que aparece no verão). Entregue: [conteudo/posts/2026-08-03-a-pele-do-verao-comeca-agora.md](conteudo/posts/2026-08-03-a-pele-do-verao-comeca-agora.md).
+
+**Kit de identidade segue provisório** ([OQ #6](OPEN-QUESTIONS.md)): usei a mesma paleta lida da própria arte da cliente (teal/petróleo + creme + laranja de acento) já aplicada nos posts de 27/07 e 14/08, não uma identidade nova — essa é justamente a peça que deveria instalar o kit oficial, então **é a que mais perde se o kit fechar depois de publicada**. Sinalizado no arquivo pra aplicar o oficial no lugar, se sair a tempo.
+
+**Compliance:** sem preço, sem antes/depois, sem promessa de resultado — só sazonalidade real (protocolo de laser leva meses, pede menos sol). Ainda assim vai pro crivo da RT por citar exposição solar, mesmo sendo peça de identidade.
+
+---
+
+## 2026-07-31 (2) — Peça 6 (14/08) trocada de carrossel pra estático, sem tempo de produção
+
+PH avisou que não vai dar tempo de produzir o carrossel da peça 6 do calendário de agosto (14/08, "o que o peeling de ATA resolve"). Reescrevi como **post estático**, mantendo o mesmo conteúdo e a mesma função no arco do ATA (tempo 1 de 3: educa → 17/08 lança → 28/08 fecha): [conteudo/posts/2026-08-14-o-que-o-ata-resolve.md](conteudo/posts/2026-08-14-o-que-o-ata-resolve.md).
+
+**Mesmo gate da RT do post de 27/07:** as três queixas (mancha, textura irregular, marca de acne) são nomeadas como dores gerais, não como indicações fechadas do ATA — quem resolve o quê fica pra avaliação. Isso preserva a peça publicável antes do aval da RT, que segue pendente ([OQ #4](OPEN-QUESTIONS.md)).
+
+Atualizei o calendário ([estrategia/2026-08.md §3 e §4](estrategia/2026-08.md)) pra refletir a troca: distribuição de formato passa de 5 Reels/2 carrosséis/5 estáticos pra 5 Reels/**1 carrossel**/**6 estáticos**. A peça 9 (21/08) continua carrossel — é a única que resta no mês.
+
+---
+
+## 2026-07-31 — Primeiro roteiro de vídeo: bastidor da avaliação, sem rosto nem nome
+
+PH pediu roteiro de vídeo pra hoje. `conteudo/roteiros/` estava vazio — é o primeiro. Entregue: [conteudo/roteiros/2026-07-31-bastidor-avaliacao.md](conteudo/roteiros/2026-07-31-bastidor-avaliacao.md), continuando o território do post de 27/07 (avaliação antes de qualquer indicação), agora em vídeo.
+
+**Adaptação por causa de duas pendências ainda abertas:** não sabemos o nome da responsável técnica ([OQ #1](OPEN-QUESTIONS.md)) nem existe release de imagem confirmado ([OQ #5](OPEN-QUESTIONS.md), [PADROES §2](PADROES.md)). Em vez de inventar nome ou usar rosto sem autorização, o roteiro é **100% bastidor de espaço/equipamento + voz em off sem identificar quem fala** — nenhuma pessoa em cena. Registrado como solução de curto prazo, não o padrão — a peça 2 do calendário de agosto (05/08) já prevê profissional com rosto em cena, assim que a RT for identificada.
+
+**Cuidado pra não atropelar a estreia oficial de Reels:** o primeiro Reels calendarizado do mês (05/08) é o mito "laser não pega em pele morena?" — este roteiro não toca nesse ângulo, fica em outro terreno (processo de avaliação).
+
+**Sem preço, sem antes/depois, sem WhatsApp** (CTA aponta só pro link na bio, mesma regra do post de 27/07 — OQ #2 do WhatsApp segue sem resposta).
+
+**Ajuste de gancho (mesmo dia):** PH pediu texto mais genérico pra este cliente — trocado o gancho elaborado por um molde direto/hiperlocal: **"Você de [local] tá [dor]? Então você precisa conhecer a [empresa]"**, mesmo formato já validado no Complexo Vida. Preenchido com depilação a laser (carro-chefe, ainda não tocado em vídeo). Registrado como padrão liberado no [PADROES §5](PADROES.md) — vale pras próximas peças, não é vício a evitar aqui.
+
+**Ajuste de escopo (mesmo dia, 2ª rodada):** PH pediu pra ampliar de "só o processo de avaliação" pra **apresentação da clínica** — nomear os 4 lasers e citar harmonização facial + peeling de ATA como outras frentes, virando cartão de visita em vídeo. A avaliação gratuita deixou de ser o tema inteiro e virou o fecho/diferencial. Como a menção ao ATA pelo nome exige a mesma confirmação da RT que o post de 27/07 já sinalizava, deixei registrado no roteiro que, se a RT não liberar nem a menção, a fala corta essa linha e mantém só a harmonização.
+
+---
+
 ## 2026-07-26 (3) — Primeiro post do cliente: ATA educativo pra segunda 27/07
 
 PH pediu post pra amanhã, fora das promoções, focado no **peeling de ATA** porque é onde a cliente quer foco. Entregue em [conteudo/posts/2026-07-27-ata-mancha-avaliacao-antes.md](conteudo/posts/2026-07-27-ata-mancha-avaliacao-antes.md).

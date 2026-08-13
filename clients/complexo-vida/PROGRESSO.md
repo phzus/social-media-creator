@@ -4,6 +4,104 @@ Log datado do trabalho com o cliente. Entrada mais recente no topo.
 
 ---
 
+## 2026-08-10 — Checagem do calendário da semana (10-14/08): peças já prontas, sem duplicar
+
+PH pediu o calendário da semana com prioridade no post estático de hoje (segunda 10/08). Antes de escrever qualquer coisa, chequei se já existia algo pra 10, 12 e 14/08 — e existe: a **semana especial 100% moovz** (produzida em 2026-08-05, ver entrada abaixo) já cobre as 3 datas com peça completa, `validador-copy` já rodado, pronta pro brief de designer. Não dupliquei nada.
+
+- **10/08 (hoje) — [carrossel, posicionamento](conteudo/posts/2026-08-10-moovz-tecnologia-perto-de-casa.md):** "Seu treino tem número, ou só suor?" — TOFU/MOFU, CTA de comentário.
+- **12/08 (quarta) — [estático, naipe de flyer, venda](conteudo/posts/2026-08-12-moovz-aula-experimental-frequencimetro.md):** "Aula Experimental Grátis" + "Peça seu frequencímetro" — MOFU/BOFU, CTA WhatsApp.
+- **14/08 (sexta) — [carrossel, geração de oportunidade](conteudo/posts/2026-08-14-moovz-ranking-chama-no-direct.md):** ranking como gatilho de curiosidade — BOFU, CTA direct ("Manda EVOLUÇÃO").
+
+**Duas coisas que valem PH revisar, não bloqueiam nada sozinhas:**
+
+1. **A peça de hoje é carrossel, não post estático.** O padrão Lone pede segunda = estático leve; essa semana foge disso porque foi pedido explícito e pontual do PH em 2026-08-05 ("semana inteira só sobre a moovz, sem vídeo, posicionamento → venda → oportunidade"). Já está registrado como desvio intencional no próprio arquivo e no PROGRESSO de 05/08. Não reescrevi pra forçar caber no padrão — a peça já foi validada, e descartar trabalho aprovado sem motivo novo seria retrabalho sem propósito. Se PH quiser mesmo um post estático adicional pra hoje, é pedido novo — melhor confirmar do que decidir sozinho.
+2. **Essa semana já é, na prática, uma semana de categoria única** (moovz nas 3 peças, só o Pilar 5) — o formato que a nova diretriz do chefe do PH só deveria valer a partir de 17/08. Não é a diretriz nova chegando cedo (foi pedido específico do PH pra essa campanha, decidido antes de a diretriz existir), mas registro pra não gerar confusão se alguém comparar as duas depois. Nenhuma ação necessária — só transparência.
+
+**Confirmado, sem mudança:** não existe estratégia formal de agosto (`estrategia/2026-08.md` não existe) — o mês roda com decisões ad hoc registradas aqui no PROGRESSO (série "modalidades" nas segundas + semana moovz + Dia dos Pais). Pendência recorrente desde 31/07, ainda sem fechar.
+
+**Pendências que seguem travando publicação (sem mudança desde 05/08):** release de aluno/recepcionista em cena nas 3 peças (crítico pra 10/08 e 14/08, que dependem de captação nova) · vermelho exato da marca com o designer · fluxo de quem responde os directs gerados pela peça de 14/08 no fim de semana (academia abre sáb 8h-12h).
+
+---
+
+## 2026-08-06 — Post de sexta 07/08: 3ª peça da série modalidades (Spinning)
+
+PH pediu o post de sexta-feira (07/08). Sem estratégia de agosto fechada ainda ([OPEN-QUESTIONS](OPEN-QUESTIONS.md)), segui o mesmo caminho das duas peças anteriores: a série "modalidades" já é padrão vivo confirmado ([PADROES §6/P1](PADROES.md)) — Musculação (29/07) e Treino Funcional (03/08) abriram a série, **Spinning** é a próxima confirmada na lista (seguida por Jiu-jitsu, Judô, Ergometria). Entregue: [conteudo/posts/2026-08-07-modalidade-spinning.md](conteudo/posts/2026-08-07-modalidade-spinning.md).
+
+**Peça independente e anterior à campanha moovz (10, 12 e 14/08)** — não faz parte dela. Diferenciei o ângulo das duas peças anteriores pra não repetir a mesma lógica de "acompanhamento" três vezes seguidas: Musculação usou acompanhamento individual de ficha, Funcional usou variação de circuito, esta usa **energia de grupo sustentando o ritmo até o fim** (dor real do treino solo, que desacelera perto do final). Mencionei a moovz de leve na legenda (app mostra esforço em tempo real no spinning) — mantendo o gate do [PADROES §5](PADROES.md): zero preço, zero mecânica de aquisição, essa parte fica pra campanha moovz da semana seguinte.
+
+**Pendências pra publicar:** release dos alunos e do instrutor em cena (aula coletiva tem mais gente em quadro que as peças anteriores, então mais releases necessários) · vermelho exato da marca com o designer (recorrente) · estratégia de agosto segue sem fechar — vale endereçar antes do próximo slot.
+
+---
+
+## 2026-08-05 (2) — Benchmarks de concorrência local + fetch do Instagram desbloqueou
+
+PH indicou dois concorrentes locais como referência: [@academiamitraararuama](https://www.instagram.com/academiamitraararuama/) e [@ac.estacao_fitness](https://www.instagram.com/ac.estacao_fitness/). Registrei a análise em [referencias/2026-08-05-benchmarks-concorrentes-araruama.md](referencias/2026-08-05-benchmarks-concorrentes-araruama.md): ambos com ~19K seguidores, tom institucional/motivacional genérico (diferente do "gente da terra" já validado aqui), nenhum comunica tecnologia de desempenho tipo moovz — reforça que moovz pode ser diferencial competitivo real, não só copy.
+
+**Achado extra:** testei de novo o fetch direto do @complexovida (bloqueado desde a análise de junho) — funcionou. Números atuais: **3.065 seguidores**, bem atrás dos dois concorrentes (~19K cada) apesar de modalidades/convênios equivalentes. Grade sem mudança estrutural desde a análise de junho. Addendum salvo em [referencias/2026-06-23-analise-perfil-instagram.md](referencias/2026-06-23-analise-perfil-instagram.md). **Não rodei a recalibração completa de paleta/tom** que o [PADROES §7](PADROES.md) pede (isso exige o subagent `analista-perfil-ig` sobre a grade inteira, não só bio/destaques) — ofereci a PH rodar no próximo ciclo.
+
+---
+
+## 2026-08-05 — Semana especial 100% moovz (2 carrosséis + 1 estático, 10-14/08)
+
+PH pediu uma semana de conteúdo **exclusivamente sobre a pulseira/frequencímetro moovz** — sem vídeo, cobrindo posicionamento → venda → geração de oportunidade, convidando pra aula experimental no spinning ou no funcional e frisando "solicite seu frequencímetro" (pedi pra melhorar essa linha, ver peça 2). Como o Complexo Vida ainda não tem estratégia de agosto fechada e segunda 03/08 (Funcional) e domingo 09/08 (Dia dos Pais) já estavam ocupados, perguntei a PH a janela — confirmou **semana que vem (10, 12 e 14/08)**.
+
+**Achado que destravou a semana:** cruzei o pedido de PH com o site oficial [moovz.com.br](https://moovz.com.br/) e descobri que o produto é **app + frequencímetro físico + TV Box**, vendido em kit pra academias (não venda individual ao aluno) — bate exatamente com "pedir" o frequencímetro na aula, que é o que PH descreveu. Isso **resolveu 2 das 4 perguntas bloqueantes** que travavam o Pilar 5 desde junho ([OPEN-QUESTIONS](OPEN-QUESTIONS.md)): não precisa de wearable/cinta individual (é item emprestado da aula) e vale também no funcional, não só spinning. Atualizei [PADROES §5](PADROES.md), [OPEN-QUESTIONS.md](OPEN-QUESTIONS.md) e [context.md](context.md) com o fato novo. **Preço ao aluno segue não confirmado** — nenhuma das 3 peças afirma valor.
+
+**Correção de PH depois da 1ª entrega:** pedi inicialmente as 3 peças 100% carrossel (era o que o pedido original dizia — "não precisamos de vídeo, apenas carrossel"). PH corrigiu: "só carrossel tbm não, pelo menos 1 estático". Converti a **peça 2 (venda, 12/08)** pro formato **naipe de flyer** já validado em [PADROES §4](PADROES.md) (oferta massiva + bloco diagonal + imagem-herói real + pills) — é a peça mais orientada a oferta/CTA das três, encaixa direto no molde que já existe pra BOFU ("Cabe no seu mês", 13/07). Peças 1 e 3 seguem carrossel, porque dependem do slide a slide pra construir a mecânica (peça 1) e a curiosidade do ranking (peça 3).
+
+**As 3 peças:**
+- **10/08 — Posicionamento (carrossel):** [conteudo/posts/2026-08-10-moovz-tecnologia-perto-de-casa.md](conteudo/posts/2026-08-10-moovz-tecnologia-perto-de-casa.md) — "Seu treino tem número, ou só suor?", moovz como diferencial de tecnologia acessível perto de casa (TOFU/MOFU, CTA de comentário).
+- **12/08 — Venda (estático, naipe de flyer):** [conteudo/posts/2026-08-12-moovz-aula-experimental-frequencimetro.md](conteudo/posts/2026-08-12-moovz-aula-experimental-frequencimetro.md) — "Aula Experimental Grátis" + "pede teu frequencímetro na recepção" (linha original de PH reescrita pra tirar o adjetivo genérico "eleve o nível"), CTA WhatsApp direto. **Dois desvios pontuais do padrão Lone, ambos intencionais:** quarta normalmente é vídeo (PH pediu sem vídeo essa semana) e normalmente seria carrossel (convertido pra estático pelo pedido de variedade de formato).
+- **14/08 — Geração de oportunidade (carrossel):** [conteudo/posts/2026-08-14-moovz-ranking-chama-no-direct.md](conteudo/posts/2026-08-14-moovz-ranking-chama-no-direct.md) — ranking como gatilho de curiosidade/competição saudável (não comparação humilhante — checado com atenção redobrada contra a regra-mãe 1), CTA "Manda EVOLUÇÃO no direct" pra gerar lista de interessados pro fim de semana.
+
+**`validador-copy` rodado nas 3 peças (paralelo).** Regra bloqueante da moovz (zero preço/aquisição além do confirmado) passou 100% nas três. Correções pequenas aplicadas: fórmula binária reescrita na legenda da peça 1 (e nota Anti-IA corrigida, que afirmava "zero" quando não era o caso) · slide 5 da peça 1 clarificado · contraste "academia grande do outro lado da cidade" trocado por versão mais distante do ângulo já reprovado pelo dono em 2026-07-09 · capa da peça 3 trocada (tirei o framing de possível fracasso "aguentaria o ritmo") · telefone removido da legenda da peça 3 (CTA é canal único, direct) · nome "moovz" inserido explicitamente na peça 3 (antes só na hashtag) · nota sobre "esforço" como leitura qualitativa (não confirmada em detalhe) adicionada às peças 1 e 2 por consistência de rastreio com a peça de 29/07.
+
+**2ª correção de PH — CTA do cliente tinha sumido da peça 2:** ao reescrever "eleve o nível do seu treino" (pedido de PH), o "peça teu frequencímetro" virou sub-hero de apoio, e o CTA de fechamento da arte acabou só "chama no WhatsApp". PH apontou que **o CTA pedido pelo próprio cliente (dono) tinha sumido** — a chamada de ação real é "peça seu frequencímetro", não o canal de agendamento. Perguntei o escopo (as 3 peças ou só a 2) — PH confirmou **só a peça 2**. Reestruturei a peça 2: "Peça seu frequencímetro" agora é o CTA principal da arte (peso tipográfico próximo à headline), WhatsApp vira rodapé/contato. Peças 1 e 3 mantidas como estavam (CTA de engajamento/direct).
+
+**Pendências que seguem travando produção (não copy):** release de qualquer aluno/recepcionista identificável em cena nas 3 peças · vermelho exato da marca com o designer · fluxo de quem responde os directs gerados pela peça 3 no fim de semana (sem isso, gera lead sem capacidade de resposta — erro listado no playbook).
+
+---
+
+## 2026-08-04 — Homenagem de Dia dos Pais
+
+Peça de fechamento pro domingo 09/08 (Dia dos Pais), parte da campanha da agência aplicada a vários clientes da carteira no mesmo dia. 100% emocional/institucional — sem preço, sem oferta, sem CTA de matrícula. Ângulo: treino como hábito passado entre gerações, puxando o que já é real do cliente — pai que leva o filho pro jiu-jitsu/judô e acompanha do lado do tatame, e o filho que hoje treina musculação ao lado do próprio pai. Arte 100% tipográfica (sem cena real), pra não depender de captação/release num prazo curto de fim de semana. Entregue: [conteudo/posts/2026-08-09-feliz-dia-dos-pais.md](conteudo/posts/2026-08-09-feliz-dia-dos-pais.md).
+
+---
+
+## 2026-07-31 (3) — Post de segunda 03/08: 2ª peça da série modalidades (Treino Funcional)
+
+PH pediu o resto dos posts pendentes. O Complexo Vida não tem estratégia de agosto fechada, mas a série "modalidades" já é padrão vivo confirmado ([PADROES §6](PADROES.md)) — segui pra Treino Funcional, próxima da lista depois de Musculação (29/07): [conteudo/posts/2026-08-03-modalidade-funcional.md](conteudo/posts/2026-08-03-modalidade-funcional.md).
+
+**Pendência que segue:** julho v3 segue aguardando aprovação e agosto não tem estratégia própria — vale fechar antes do próximo slot.
+
+---
+
+## 2026-07-29 (2) — Correção de PH: modalidades são posts separados, não carrossel único
+
+PH corrigiu: **"são posts separados pra cada modalidade... essa semana vamos fazer um e na outra outra modalidade e assim vai."** O carrossel único de 8 slides (v1, abaixo) não era o formato pedido — descartei o arquivo e escrevi a peça certa: um post estático dedicado só à **Musculação**, abrindo a série. Entregue: [conteudo/posts/2026-07-29-modalidade-musculacao.md](conteudo/posts/2026-07-29-modalidade-musculacao.md).
+
+**Registrado como padrão novo** no [PADROES §6/P1](PADROES.md) (v2.8): série "modalidades" = 1 post por semana, cena real, headline 2 linhas, ângulo de acompanhamento/pessoa — não listagem. Próximas semanas seguem pelas modalidades restantes (Funcional, Spinning, Jiu-jitsu, Judô, Ergometria).
+
+---
+
+## 2026-07-29 — ~~Carrossel extra de modalidades ("Musculação é só o começo.")~~ [DESCARTADO — ver correção acima]
+
+PH pediu "mais um post sobre as modalidades" (aberto o arquivo da peça #12, crianca-no-tatame, no IDE — mas essa é P2/Combo Família, não uma listagem de estrutura). Entendi (errado) como pedido do formato **P1 — carrossel de modalidades**, já descrito no [PADROES §6](PADROES.md) mas nunca produzido: 1 modalidade por slide, foto real + nome + "pra quê serve/pra quem é". Produzi um carrossel de 8 slides (capa + 6 modalidades + fecho) — **arquivo removido**, PH queria posts separados por modalidade, não isso.
+
+**Sem slot no calendário de julho** (14 peças já fechadas, P1 já usou sua única vaga do mês em convênios #14) — era peça extra, mesmo padrão dos outros extras do mês (flyer de oferta, tabela de preços). Sinalizei a tensão com a virada v3 (institucional reduzido de propósito) sem resolver sozinho.
+
+---
+
+## 2026-07-31 — Peça #14 trocada de carrossel pra Reels: convênios
+
+PH pediu roteiro de vídeo pra hoje. A peça #14 do calendário já existia como carrossel de convênios (Gympass/Wellhub/TotalPass, fechamento do mês) — convertida pra **Reels no molde do apresentador da terra**, mesma decisão já tomada na peça #11 (24/07, carrossel→estático). Entregue: [conteudo/roteiros/2026-07-31-convenios-reels.md](conteudo/roteiros/2026-07-31-convenios-reels.md).
+
+**Variação de abertura:** os 3 Reels de P1 anteriores abriram na rua (2x) e na tela do spinning (moovz, 29/07). Este abre **na recepção/balcão** — cenário novo, evita repetir pela terceira vez.
+
+**Nada de novo em compliance:** convênios e regras já confirmados desde o onboarding. Únicas pendências seguem as recorrentes (release do apresentador/alunos, hex do vermelho da marca, confirmar se existe mesmo placa de convênio na recepção).
+
+---
+
 ## 2026-07-26 — PH pediu mais informação sobre a moovz → peça #13 vira "o que cada número significa"
 
 PH perguntou se dá pra passar **informação maior sobre a moovz no post**. Conferi o que temos documentado: **tudo que está confirmado já entrou no carrossel de 17/07** (app, calorias, batimento, percentual, ranking). Não existe fato novo pra adicionar sem resposta do dono.
@@ -33,6 +131,12 @@ PH pediu posts pros três clientes (Complexo Vida, CIIL, Maicom) na mesma conver
 **Pendências pra publicar:** 🔴 **release do responsável** de toda criança identificável (sem isso, enquadrar sem rosto) · 🟡 grade kids × adulto · 🟡 vermelho exato da marca.
 
 **Estado do calendário de julho:** as peças **#9 (20/07, Dia do Amigo), #10 (22/07, Reels jiu) e #11 (24/07, iniciante mais velho) não foram produzidas** — as datas passaram. Restam #13 (29/07, Reels moovz parte 2) e #14 (31/07, carrossel de convênios). **E o briefing de agosto vence hoje** (janela 22–25 do mês anterior, [playbook §3](../../shared/playbook-lone-midia.md)) — sinalizado a PH.
+
+---
+
+## 2026-07-24 — Peça #11 (sexta) trocada de carrossel pra estático, a pedido de PH
+
+PH pediu posts estáticos hoje. O slot de sexta 24/07 (#11, "o iniciante mais velho/fora de forma", objeção "começa pra ficar pronto") era carrossel na estratégia — reformatado pra **estático designed** seguindo a mesma calibração do §8 do [PADROES.md](PADROES.md) já usada na peça #6 (sedentarismo, 13/07): pôster tipográfico, sem cena real, sem card de texto raso. Mantido o mesmo ângulo, gancho e CTA ("Comenta a idade que acha 'tarde demais'") — só mudou o formato. Entregue: [conteudo/posts/2026-07-24-tarde-demais-nao-existe.md](conteudo/posts/2026-07-24-tarde-demais-nao-existe.md). Estratégia atualizada.
 
 ---
 

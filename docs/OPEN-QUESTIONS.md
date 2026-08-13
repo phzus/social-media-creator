@@ -31,3 +31,11 @@ Formato: `### Tópico\n- Pergunta\n- Status: aberta / respondida em YYYY-MM-DD /
 - Vale a pena ter um `shared/calendario-datas-br.md` com as datas comemorativas brasileiras + nichos típicos (saúde, alimentação, etc.) para acelerar a estratégia mensal de qualquer cliente?
 - Status: aberta
 - Decisão: —
+
+### Linha temática única por semana (direção do chefe do PH)
+
+- O chefe do PH pediu pra testar, a partir de **17/08/2026**, cada cliente postando a semana inteira em cima de **uma única linha/categoria de produto** (exemplo dado: Bazar Ribeiro só hidráulica na semana). PH confirmou que também vale pra "perfis de serviço como a Atlas", mas o "e etc" ficou em aberto — falta fechar a lista completa de quais clientes entram nesse teste.
+- Ainda não definido: (1) lista final de clientes participantes do teste, (2) qual categoria cada um usa na semana de estreia (17-21/08), (3) como isso convive com a regra de mix obrigatório da Lone (venda + posicionamento + emocional + educativo + prova social + remarketing — linha única por semana pode empurrar pra "só um pilar" se não for pensado com cuidado), (4) se vale só pra segunda/quarta/sexta ou também stories.
+- Nesta rodada (calendário de 10-14/08/2026), a diretriz **não foi aplicada** — confirmado por PH, entra em prática só a partir de 17/08. Nota registrada também em `clients/bazar-ribeiro/OPEN-QUESTIONS.md` e `clients/veterinaria-regional/OPEN-QUESTIONS.md`.
+- Status: aberta
+- Decisão: —

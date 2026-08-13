@@ -13,6 +13,8 @@ Depilação a laser, toxina botulínica, bioestimulador, preenchimento, peeling 
 *Contexto:* o perfil já publica preço de toxina botulínica ("50UI · 12x de R$ 141,00", verificado no perfil em 26/07). Precisamos saber se isso segue.
 🔥 **Subiu de prioridade em 26/07.** O pacote de promoções de agosto que a cliente mandou traz **três ofertas de injetável com preço e brinde na capa** — toxina 50 UI (10x R$ 79,90 + preparação de pele grátis), toxina + preenchimento labial (12x R$ 141 + preparação grátis) e **enzimas para gordura localizada** (10x R$ 160, serviço que nem estava mapeado). Agora não é hipótese: é pedido concreto na mesa. Sem a resposta da RT **antes de 03/08**, a Lone vai ter que dizer que não publica um terço das ofertas do mês da cliente — e essa conversa é melhor antes do calendário começar do que no dia 17.
 
+🔥🔥 **Estourou o prazo e agora trava conteúdo educativo, não só oferta (checado em 10/08).** O prazo de 03/08 passou sem resposta confirmada. O gate segue 🔴 aberto e já bloqueou duas peças concretas: o roteiro de 07/08 (peça 3, ficou 100% em laser) e agora a **peça 5 do calendário (12/08, Reels "Bioestimulador × toxina botulínica")**, que nem tinha preço — era conteúdo puramente educativo sobre injetável, e mesmo assim ficou de fora por precaução, seguindo o mesmo critério da peça 3. Substituído por esboço seguro ("Depilação a laser dói?"), registrado em [PROGRESSO 2026-08-10](PROGRESSO.md). Se o gate não resolver logo, o mês inteiro de pilares que dependem de harmonização (P1 educativo sobre injetável, parte do P2 Prova) fica sem conteúdo original pra usar.
+
 **2. Qual WhatsApp usar nas peças.**
 O Linktree lista 4 números (Avaliação · Agendar · Vendas · Dúvidas). Quais seguem ativos, quem responde cada um, e qual entra no CTA das peças?
 *Trava:* o número em toda arte e legenda. Enquanto não vier, CTA aponta pro link na bio.
@@ -25,6 +27,7 @@ O calendário de agosto assume o **padrão Lone: 12 posts, Seg/Qua/Sex**. O PDF 
 - ✅ **Datas resolvidas em 26/07:** o material da cliente diz "promoção válida para Agosto 2026". A condição vale o mês inteiro e **encerra em 31/08/2026**.
 - ✅ **Escassez resolvida por ausência:** nenhuma arte fala em vaga limitada. Então o fechamento se ancora em **prazo**, e "últimas vagas" está fora — a menos que alguém conte vaga de verdade.
 - 🔴 **Continua aberto:** indicações e **contraindicações** validadas pela RT — inclusive o recorte de **pele melanada** (risco de hiperpigmentação registrado no diagnóstico), delicado numa clínica que se vende por "todos os fototipos".
+- 🔥 **Urgência subiu em 10/08.** PH pediu que a peça de 14/08 já afirme diretamente "o ATA resolve isso" + preço (R$ 650), em vez de ficar só na educação como o arco original previa. Reescrita em [conteudo/posts/2026-08-14-o-que-o-ata-resolve.md](conteudo/posts/2026-08-14-o-que-o-ata-resolve.md), mas é a afirmação de indicação mais direta já escrita pro ATA — precisa do aval da RT antes de publicar, com prioridade maior que antes. **Pergunta nova:** com preço já em 14/08, as peças de 17/08 (lançamento) e 28/08 (fechamento) do arco ficam redundantes — PH quer ajustar o conteúdo dessas duas, ou manter como reforço da oferta?
 
 **5. Consentimento de imagem de cliente.**
 Existe termo assinado hoje? Há clientes dispostas a dar depoimento em vídeo? Sem isso, o pilar Prova/Resultado fica só em bastidor.

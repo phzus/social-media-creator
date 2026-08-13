@@ -16,8 +16,8 @@ Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes
 
 ## 🔴 Bloqueantes de agosto/2026
 
-**A. Brinde — fechado, o que temos basta (PH, 2026-07-23):**
-- **Acumula, sem teto:** a cada 4 m² = 1 brinde (argamassa AC-1 + rejunte); 12 m² = 3. Argumento-mãe da copy.
+**A. Brinde — parcialmente fechado (PH, 2026-07-23; corrigido 2026-08-03):**
+- ⚠️ **Acumula? NÃO confirmado.** Uma versão anterior deste documento tratava "acumula, sem teto" (8 m² = 2, 12 m² = 3) como fechado — PH avisou em 2026-08-03 que isso nunca foi confirmado com o cliente. A fonte original ([referencias/2026-07-23-roteiros-recebidos-agosto.md](referencias/2026-07-23-roteiros-recebidos-agosto.md)) sempre listou isso como pergunta em aberto. **Regra segura pra copy: 1 brinde a cada 4 m², sem afirmar nem negar acúmulo**, até confirmação real com o cliente.
 - **Preço-âncora "piso a partir de R$ 22,99/m²"** e os detalhes do brinde (kg, cor, entrega, estoque) **não são da nossa alçada** — são do cliente/balcão. PH: *"não cabe a gente saber essas coisas, essas informações são suficientes."* **Produzir com o que temos, sem auditar.**
 - **Data:** a comunicação começa **03/08** e fala "durante agosto" — decisão de calendário nossa, não pergunta pro cliente.
 
@@ -48,6 +48,8 @@ Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes
 10. **Plano contratado com a Lone.** Frequência/pacote (assumindo referência padrão 12/mês Seg/Qua/Sex até confirmar).
 
 11. **Confirmar foco de produto.** Cliente só citou "pisos". Validar se é **foco exclusivo** ou principal — se vale empurrar louça/argamassa/"materiais em geral" em algumas peças pra não virar monotema.
+
+15. **🆕 (2026-08-10) Texto literal do depoimento de janainaalmeida0707, pra peça 6 de 14/08.** A peça de sexta (carrossel de prova social) quer usar o comentário real da cliente, mas hoje só temos a paráfrase do levantamento de perfil ("elogia variedade, preço e atendimento presencial") — não a citação exata. Precisa de print do comentário original ou o texto copiado. Some à pendência já registrada na [estratégia §7](estrategia/2026-08.md) sobre a foto de ambiente pronto pra mesma peça — os dois insumos faltam pra fechar a copy final antes de 14/08.
 
 ## 🟢 Desejáveis
 

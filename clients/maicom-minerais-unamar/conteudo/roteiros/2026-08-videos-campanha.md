@@ -91,5 +91,5 @@
 - ✅ Nome **Maicom** (com M) em todos.
 - ✅ Estrutura gancho → dor → solução → benefício → CTA.
 - ✅ Data absoluta (sábado, 22/08) — sem "esse fim de semana" solto.
-- 🟢 **Preço "a partir de R$ 22,99"** e **brinde (acumula, a cada 4 m²)** são dados do cliente — usar como vieram, sem auditar ([PADROES §2](../../PADROES.md)).
+- 🟢 **Preço "a partir de R$ 22,99"** e **brinde (1 a cada 4 m²)** são dados do cliente — usar como vieram, sem auditar ([PADROES §2](../../PADROES.md)). ⚠️ **Acúmulo não confirmado** (correção de PH, 2026-08-03) — nenhum roteiro afirma nem nega que acumula.
 - 🟢 **Nossa parte na produção:** (1) quem apresenta — ideal o dono/vendedor que a clientela reconhece; (2) captar o produto real na mão (saco de AC-1, rejunte, placas de piso); (3) horário do café na tela — usar **"a partir das 7h30"** (abertura de sábado da loja).

@@ -63,7 +63,7 @@ A marca já existe e é boa: **azul-marinho + branco, serifada, monograma "A" e 
 | **P1 — Dúvidas em vídeo** | ~40% | O carro-chefe novo. Corretor respondendo uma dúvida por vídeo, modelo @danibarbizan. É o que traz alcance e autoridade. |
 | **P2 — Mitos / cobre × não cobre** | ~20% | Situação em que a pessoa acha que está coberta e não está. É o conteúdo de maior compartilhamento do nicho. |
 | **P3 — Prova / Conexão** | ~20% | Cliente atendido, sinistro resolvido, bastidor, o corretor se apresentando. ⚠️ Depende de autorização — ver [PADROES §3](PADROES.md). |
-| **P4 — Institucional / Oferta** | ~20% | Ramos, seguradoras parceiras, cotação. Mantém a função comercial sem virar o feed inteiro. |
+| **P4 — Institucional / Oferta** | ~20% | Ramos, seguradoras parceiras, cotação. Mantém a função comercial sem virar o feed inteiro. Inclui a ideia da dona: benefício de levar o carro na concessionária da marca (rede referenciada), com destaque pra BYD/elétricos, que exigem mão de obra qualificada — pauta em aberto ([OQ #15](OPEN-QUESTIONS.md)). |
 
 ---
 

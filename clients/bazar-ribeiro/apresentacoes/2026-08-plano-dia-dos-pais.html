@@ -1,0 +1,399 @@
+<title>Bazar Ribeiro · Plano de Dia dos Pais</title>
+<style>
+  :root {
+    --ink: #16233d;
+    --paper: #f6f2e6;
+    --paper-raised: #fffdf7;
+    --royal: #1d3c8c;
+    --royal-deep: #10265c;
+    --yellow: #ec9f0e;
+    --yellow-soft: #fbe3ae;
+    --line: rgba(29, 60, 140, 0.16);
+    --muted: #5b6478;
+    --ok: #2f7a52;
+    --pending: #b9670a;
+    --cut: #8a5a4a;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --ink: #eef1f7;
+      --paper: #0c1526;
+      --paper-raised: #121d33;
+      --royal: #6d93ff;
+      --royal-deep: #a9c0ff;
+      --yellow: #ffcf6b;
+      --yellow-soft: #4a3a17;
+      --line: rgba(255, 255, 255, 0.14);
+      --muted: #93a0bd;
+      --ok: #57c98a;
+      --pending: #ffb454;
+      --cut: #d99a86;
+    }
+  }
+  :root[data-theme="dark"] {
+    --ink: #eef1f7;
+    --paper: #0c1526;
+    --paper-raised: #121d33;
+    --royal: #6d93ff;
+    --royal-deep: #a9c0ff;
+    --yellow: #ffcf6b;
+    --yellow-soft: #4a3a17;
+    --line: rgba(255, 255, 255, 0.14);
+    --muted: #93a0bd;
+    --ok: #57c98a;
+    --pending: #ffb454;
+    --cut: #d99a86;
+  }
+  :root[data-theme="light"] {
+    --ink: #16233d;
+    --paper: #f6f2e6;
+    --paper-raised: #fffdf7;
+    --royal: #1d3c8c;
+    --royal-deep: #10265c;
+    --yellow: #ec9f0e;
+    --yellow-soft: #fbe3ae;
+    --line: rgba(29, 60, 140, 0.16);
+    --muted: #5b6478;
+    --ok: #2f7a52;
+    --pending: #b9670a;
+    --cut: #8a5a4a;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: -apple-system, "Segoe UI", system-ui, sans-serif;
+    line-height: 1.6;
+  }
+
+  .page {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 3.5rem 1.5rem 6rem;
+  }
+
+  .display {
+    font-family: "Arial Narrow", "Helvetica Neue Condensed", "Roboto Condensed", sans-serif;
+    font-weight: 800;
+    letter-spacing: 0.01em;
+    text-wrap: balance;
+  }
+
+  .mono {
+    font-family: ui-monospace, "SF Mono", "Roboto Mono", Menlo, monospace;
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* masthead */
+  .masthead {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 2px solid var(--royal);
+  }
+
+  .from {
+    font-size: 0.72rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+
+  .bolt {
+    width: 34px;
+    height: 34px;
+    flex: none;
+  }
+
+  h1.title {
+    font-size: clamp(1.9rem, 5vw, 2.6rem);
+    margin: 0.6rem 0 0.3rem;
+    color: var(--royal);
+    text-transform: uppercase;
+  }
+
+  .subtitle {
+    margin: 0;
+    color: var(--muted);
+    font-size: 1.05rem;
+    max-width: 46ch;
+  }
+
+  /* timeline */
+  .timeline {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 0.5rem;
+    margin: 2.5rem 0;
+  }
+
+  .day {
+    background: var(--paper-raised);
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    padding: 0.6rem 0.4rem;
+    text-align: center;
+  }
+
+  .day .num {
+    font-family: ui-monospace, monospace;
+    font-size: 1.15rem;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .day .dow {
+    font-size: 0.62rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--muted);
+    display: block;
+    margin-bottom: 0.25rem;
+  }
+
+  .day .tag {
+    display: block;
+    font-size: 0.62rem;
+    margin-top: 0.35rem;
+    line-height: 1.3;
+    color: var(--ink);
+  }
+
+  .day.today { border-color: var(--royal); box-shadow: inset 0 0 0 1px var(--royal); }
+  .day.event { border-color: var(--yellow); box-shadow: inset 0 0 0 1px var(--yellow); }
+
+  .dot {
+    display: inline-block;
+    width: 6px; height: 6px;
+    border-radius: 50%;
+    margin-right: 4px;
+    vertical-align: middle;
+  }
+  .dot.ok { background: var(--ok); }
+  .dot.pending { background: var(--pending); }
+
+  /* section rhythm */
+  section { margin-top: 3.2rem; }
+
+  .eyebrow {
+    font-size: 0.72rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--royal);
+    font-weight: 700;
+    margin: 0 0 0.6rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+    margin: 0 0 0.9rem;
+  }
+
+  p { max-width: 62ch; }
+  p.wide { max-width: 68ch; }
+
+  /* grande ideia */
+  .thesis {
+    border-left: 3px solid var(--yellow);
+    padding: 0.2rem 0 0.2rem 1.3rem;
+    margin: 1rem 0;
+  }
+  .thesis .quote {
+    font-family: "Arial Narrow", "Helvetica Neue Condensed", sans-serif;
+    font-weight: 800;
+    font-size: clamp(1.3rem, 3.6vw, 1.8rem);
+    margin: 0;
+    color: var(--ink);
+    text-wrap: balance;
+  }
+
+  /* mechanic cards */
+  .mechanics {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.9rem;
+    margin-top: 1.2rem;
+  }
+  @media (max-width: 560px) {
+    .mechanics { grid-template-columns: 1fr; }
+    .timeline { grid-template-columns: repeat(4, 1fr); }
+  }
+
+  .card {
+    background: var(--paper-raised);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    padding: 1.1rem 1.2rem;
+  }
+  .card .when {
+    font-size: 0.68rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 0.4rem;
+  }
+  .card h3 {
+    margin: 0 0 0.4rem;
+    font-size: 1.05rem;
+  }
+  .card p {
+    margin: 0;
+    font-size: 0.92rem;
+    color: var(--ink);
+  }
+  .status {
+    display: inline-block;
+    margin-top: 0.6rem;
+    font-size: 0.7rem;
+    letter-spacing: 0.04em;
+    padding: 0.15rem 0.5rem;
+    border-radius: 3px;
+  }
+  .status.ok { color: var(--ok); background: color-mix(in srgb, var(--ok) 14%, transparent); }
+  .status.pending { color: var(--pending); background: color-mix(in srgb, var(--pending) 16%, transparent); }
+
+  /* checklist callout */
+  .callout {
+    background: var(--yellow-soft);
+    border: 1px solid var(--yellow);
+    border-radius: 6px;
+    padding: 1.3rem 1.4rem;
+  }
+  .callout h2 { color: var(--royal-deep); }
+  .callout ul { margin: 0.6rem 0 0; padding: 0; list-style: none; }
+  .callout li {
+    padding: 0.55rem 0;
+    border-top: 1px solid rgba(0,0,0,0.08);
+    display: flex;
+    gap: 0.7rem;
+    align-items: baseline;
+  }
+  .callout li:first-child { border-top: none; }
+  .callout li .k {
+    font-family: ui-monospace, monospace;
+    font-size: 0.72rem;
+    color: var(--pending);
+    flex: none;
+    width: 5.4rem;
+  }
+
+  /* cut section */
+  .cut-box {
+    border: 1px dashed var(--line);
+    border-radius: 6px;
+    padding: 1.1rem 1.3rem;
+    color: var(--muted);
+  }
+  .cut-box strong { color: var(--cut); }
+
+  footer {
+    margin-top: 4rem;
+    padding-top: 1.2rem;
+    border-top: 1px solid var(--line);
+    font-size: 0.75rem;
+    color: var(--muted);
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  a { color: var(--royal); }
+</style>
+
+<div class="page">
+
+  <div class="masthead">
+    <div>
+      <div class="from">Lone Mídia → Bazar Ribeiro</div>
+      <h1 class="title display">Plano de Dia&nbsp;dos&nbsp;Pais</h1>
+      <p class="subtitle">"O melhor mestre-de-obras da minha vida também é meu pai" — o que vai ao ar entre hoje e domingo, e o que a gente precisa de vocês pra isso acontecer.</p>
+    </div>
+    <svg class="bolt" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+      <path d="M13 2 4 14h6l-1 8 9-12h-6l1-8Z" fill="var(--yellow)"/>
+    </svg>
+  </div>
+
+  <div class="timeline" role="img" aria-label="Linha do tempo de 03 a 09 de agosto">
+    <div class="day today"><span class="dow">Seg</span><span class="num mono">03</span><span class="tag"><span class="dot ok"></span>Abertura</span></div>
+    <div class="day"><span class="dow">Ter</span><span class="num mono">04</span><span class="tag">—</span></div>
+    <div class="day"><span class="dow">Qua</span><span class="num mono">05</span><span class="tag"><span class="dot pending"></span>Reel / reserva</span></div>
+    <div class="day"><span class="dow">Qui</span><span class="num mono">06</span><span class="tag">—</span></div>
+    <div class="day"><span class="dow">Sex</span><span class="num mono">07</span><span class="tag"><span class="dot ok"></span>Presente certeiro</span></div>
+    <div class="day event"><span class="dow">Sáb</span><span class="num mono">08</span><span class="tag"><span class="dot pending"></span>Desafio pregos</span></div>
+    <div class="day event"><span class="dow">Dom</span><span class="num mono">09</span><span class="tag"><span class="dot ok"></span>Dia dos Pais</span></div>
+  </div>
+
+  <section>
+    <p class="eyebrow">A ideia por trás de tudo</p>
+    <div class="thesis">
+      <p class="quote display">O Bazar Ribeiro é onde pai e filho constroem juntos.</p>
+    </div>
+    <p class="wide">Toda ferramenta da loja ganha uma camada afetiva porque, pra quase todo mundo aqui de Maricá e Saquarema, foi o pai (ou o avô) quem ensinou a usar. É esse o fio que puxa as cinco peças da semana — da oferta de abertura até o post de agradecimento no domingo.</p>
+  </section>
+
+  <section>
+    <p class="eyebrow">O que vai ao ar</p>
+    <h2>5 peças, 6 dias</h2>
+    <div class="mechanics">
+      <div class="card">
+        <div class="when mono">SEG 03/08</div>
+        <h3>Traga o Chefe</h3>
+        <p>10% de desconto em toda a loja até domingo — abre a semana.</p>
+        <span class="status ok">pronta</span>
+      </div>
+      <div class="card">
+        <div class="when mono">QUA 05/08</div>
+        <h3>Reel "Meu pai me ensinou"</h3>
+        <p>Depoimento real gravado na loja — ou uma peça estática de reserva, se a gravação não fechar a tempo.</p>
+        <span class="status pending">precisa de data + equipe</span>
+      </div>
+      <div class="card">
+        <div class="when mono">SEX 07/08</div>
+        <h3>Presente certeiro</h3>
+        <p>A furadeira Tramontina em destaque — o presente que resolve, sem depender de kit incompleto.</p>
+        <span class="status ok">pronta</span>
+      </div>
+      <div class="card">
+        <div class="when mono">SÁB 08/08</div>
+        <h3>Desafio dos 3 Pregos</h3>
+        <p>Ativação ao vivo na loja, véspera do Dia dos Pais — quem crava os 3 pregos mais rápido leva um brinde.</p>
+        <span class="status pending">precisa de equipe + orçamento de brinde</span>
+      </div>
+      <div class="card">
+        <div class="when mono">DOM 09/08</div>
+        <h3>Obrigado, pai</h3>
+        <p>Post afetivo de fechamento — sem oferta, só agradecimento.</p>
+        <span class="status ok">pronta</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="callout">
+    <p class="eyebrow" style="color:var(--pending)">Precisamos de vocês essa semana</p>
+    <h2>2 confirmações, sem elas 2 peças não saem</h2>
+    <ul>
+      <li><span class="k">Reel</span><span>Um dia essa semana pra alguém da Lone ir até a loja gravar o depoimento — quem topa aparecer e qual horário funciona melhor?</span></li>
+      <li><span class="k">Sábado 08</span><span>Confirmar que dá pra receber o desafio dos pregos na loja nesse sábado, e aprovar o orçamento de brinde pra quem ganhar.</span></li>
+    </ul>
+  </section>
+
+  <section>
+    <p class="eyebrow">O que ficou de fora desta vez</p>
+    <div class="cut-box">
+      <p style="margin:0"><strong>O sorteio da furadeira Lotus 18V não entra nesta campanha.</strong> Sorteio com prêmio físico precisa de regulamento e responsável legal antes de anunciar qualquer data — isso não se resolve com segurança em 6 dias. Fica guardado pra rodar assim que o regulamento estiver pronto, sem pressa de calendário.</p>
+    </div>
+  </section>
+
+  <footer>
+    <span>Lone Mídia · plano de campanha, não peça final</span>
+    <span class="mono">Atualizado 03/08/2026</span>
+  </footer>
+
+</div>
