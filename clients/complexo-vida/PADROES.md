@@ -180,6 +180,29 @@ PH reprovou o **estático de card de texto** ("achei horrível") e apontou dois 
 
 ---
 
+## 9. Gosto de copy do dono (referência, não padrão a copiar)
+
+> Análise completa em [referencias/2026-08-17-copys-cliente-moovz-analise-estilo.md](referencias/2026-08-17-copys-cliente-moovz-analise-estilo.md). O dono se apresenta como copywriter e mandou 17 peças próprias sobre moovz — não são pra usar como estão (violam vários pontos deste documento), mas mostram o que ele reconhece como "copy boa". Buscas por trechos literais não encontraram fonte copiada — parece autoral, mas o padrão bate forte com a "escola" de copy pra carrossel tipo Leandro Ladeira (VTSD/Light Copy) e cursos derivados (fragmentação, caixa-alta de ênfase, fechamento de marca + CTA curto).
+
+**✅ Pode canalizar (funciona e não conflita):**
+- Contraste **antes/depois** como esqueleto de raciocínio, ancorado em sensação real, não em tabela mecânica.
+- **Progressão pessoal como prova** ("sua melhor versão, não melhor que os outros") — é o ângulo dele que MAIS bate com a regra-mãe 1.
+- Pergunta retórica de abertura (já é o nosso molde de capa, §8).
+- Fechamento de marca + CTA curto e direto (já é prática nossa).
+- Ênfase pontual em 1-2 palavras — nunca a peça inteira.
+
+**🚫 Nunca replicar (viola regra do cliente ou fato confirmado):**
+- Fragmentação de frase como padrão dominante · fórmula binária como muleta ("não é X, é Y" / "ou X, ou Y") repetida.
+- **Caixa-alta como grito estrutural ou CTA gritado** — proibido no §3.
+- Gatilho de **"grupo seleto" / "não disponível pra todos"** — falso, é só pedir o frequencímetro na aula.
+- **Comparação humilhante** entre quem tem dado e quem não tem ("eles têm dados, você tem dúvida") — fere a regra-mãe 1 e já foi reprovado antes num ângulo parecido (§3, "academia grande e anônima").
+- **"Pulseira" tratada como posse que se compra/desbloqueia/libera** — mecânica errada; é frequencímetro **pedido/emprestado na aula** (§5).
+- **Zona colorida (verde/amarelo/vermelho)** citada como fato confirmado — não é (§5).
+- **1ª pessoa estilo depoimento** sem aluno real + release — proibido inventar testemunho.
+- Preço da moovz — segue travado, nenhuma peça pode citar valor.
+
+---
+
 ## 7. Quando ajustar este documento
 
 - ⚠️ Quando PH apontar vício novo durante revisão.

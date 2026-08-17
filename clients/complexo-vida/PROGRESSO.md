@@ -4,6 +4,23 @@ Log datado do trabalho com o cliente. Entrada mais recente no topo.
 
 ---
 
+## 2026-08-17 — Análise da copy autoral do dono (moovz) + 3 conceitos de carrossel derivados
+
+PH repassou 17 peças de copy que o próprio dono do Complexo Vida escreveu (ele se apresenta como copywriter) — pediu análise de originalidade/referências e reconhecimento de padrão, não uso direto. Arquivei o material na íntegra e a análise completa em [referencias/2026-08-17-copys-cliente-moovz-analise-estilo.md](referencias/2026-08-17-copys-cliente-moovz-analise-estilo.md).
+
+**Checagem de originalidade:** busquei online pelos trechos mais distintos (`"OU VOCÊ VÊ" "OU VOCÊ ACHA"`, `"Eu VI funcionando"`) — nenhuma fonte publicada apareceu. Não há plágio literal identificável; o material parece autoral, mas o padrão (fragmentação, caixa-alta de ênfase, antes/depois, fórmula binária, fechamento de marca+CTA, gatilho de exclusividade, gamificação) bate forte com a "escola" de copy pra carrossel tipo Leandro Ladeira (VTSD/Light Copy) e cursos derivados — confiança média de que o dono estudou nesse universo, mesmo sem cópia literal.
+
+**12 padrões estruturais catalogados** (tabela completa no arquivo de referência) — dividi em **aproveitar** (contraste antes/depois, progressão pessoal como prova, pergunta retórica de abertura, fechamento de marca+CTA, ênfase pontual) e **filtrar** (fragmentação extrema, fórmula binária como muleta, caixa-alta gritada — proibida em [PADROES §3](PADROES.md) —, gatilho de "grupo seleto"/exclusividade falsa, comparação humilhante entre quem tem e quem não tem dado, "pulseira" tratada como posse quando na verdade é frequencímetro pedido/emprestado na aula, zona colorida não confirmada, 1ª pessoa estilo depoimento sem aluno real). Registrado como regra permanente em [PADROES §9](PADROES.md).
+
+**3 conceitos de carrossel produzidos** canalizando os padrões da coluna "aproveitar" com fatos e voz do Complexo Vida — sem data de publicação fixada (calendário de agosto segue sem fechar):
+- [2026-08-17-moovz-conceito-sua-melhor-versao.md](conteudo/posts/2026-08-17-moovz-conceito-sua-melhor-versao.md) — progressão pessoal (você vs. você mesmo, não vs. a turma).
+- [2026-08-17-moovz-conceito-antes-depois.md](conteudo/posts/2026-08-17-moovz-conceito-antes-depois.md) — pares antes/depois honestos, sem hype nem promessa.
+- [2026-08-17-moovz-conceito-e-so-pedir.md](conteudo/posts/2026-08-17-moovz-conceito-e-so-pedir.md) — canaliza o gancho "a galera já sabe" das peças 4/7/8 do dono, mas desmonta a exclusividade falsa no slide 2 (é mais delicada — validador-copy rodado com atenção redobrada nesse ponto).
+
+`validador-copy` rodado nas 3 peças em paralelo (2026-08-17).
+
+---
+
 ## 2026-08-10 — Checagem do calendário da semana (10-14/08): peças já prontas, sem duplicar
 
 PH pediu o calendário da semana com prioridade no post estático de hoje (segunda 10/08). Antes de escrever qualquer coisa, chequei se já existia algo pra 10, 12 e 14/08 — e existe: a **semana especial 100% moovz** (produzida em 2026-08-05, ver entrada abaixo) já cobre as 3 datas com peça completa, `validador-copy` já rodado, pronta pro brief de designer. Não dupliquei nada.

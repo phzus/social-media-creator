@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-08-17 — Complexo Vida: análise de copy autoral do dono (moovz) + 3 conceitos de carrossel
+
+PH repassou 17 peças de copy escritas pelo próprio dono do cliente (se apresenta como copywriter), pedindo análise de originalidade/referências + reconhecimento de padrão pra alinhar sem copiar. Checagem de originalidade não achou plágio literal, mas o padrão bate forte com a "escola" de copy pra carrossel tipo Leandro Ladeira (VTSD/Light Copy). Catalogados 12 padrões estruturais, separados em aproveitar (antes/depois, progressão pessoal, pergunta retórica, fechamento de marca+CTA) e filtrar (fragmentação extrema, fórmula binária como muleta, caixa-alta gritada, exclusividade falsa, comparação humilhante, "pulseira" tratada como posse — mecânica real é frequencímetro pedido na aula). Produzidos 3 conceitos de carrossel canalizando os padrões aproveitáveis com fatos/voz do cliente. Detalhe em [clients/complexo-vida/PROGRESSO.md](../clients/complexo-vida/PROGRESSO.md).
+
+---
+
 ## 2026-08-13 (5) — Veterinária Regional: diagnóstico concreto do problema de copy + post de amanhã corrigido
 
 PH detalhou o "muito ruim": a copy colava ideias sem lógica real entre as frases (conectivo forçado tipo "e é por isso que", fórmula binária solta, fechamento duplicado que não puxava CTA) — não era (só) tom institucional, como eu tinha hipotetizado a partir do benchmark. Corrigi o post de Dia do Cardiologista (14/08, data fixa) reescrevendo a legenda como uma única linha de raciocínio. Falta reler as outras 6 peças do lote com esse mesmo filtro antes de destravar produção nova. Detalhe em [clients/veterinaria-regional/PROGRESSO.md](../clients/veterinaria-regional/PROGRESSO.md).

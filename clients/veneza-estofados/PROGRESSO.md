@@ -4,6 +4,12 @@ Log datado do trabalho feito pra Veneza Estofados. Topo = mais recente. Entrada 
 
 ---
 
+## 2026-08-13 — Bio nova proposta (ação de Fase 0 pendente)
+
+PH perguntou qual bio ficaria melhor pro perfil. A atual (registrada em [referencias/2026-08-11-bio-destaques-e-prints.md](referencias/2026-08-11-bio-destaques-e-prints.md)) tinha um furo real: **não menciona sofá** (carro-chefe do catálogo) nem loja física (Pilar 2 do posicionamento). Propus duas versões, ambas dentro do limite de 150 caracteres do Instagram — uma cortando "entregamos em todo RJ" pra abrir espaço pro sofá + loja física + CTA de WhatsApp, outra mantendo a menção de alcance estadual. Aguardando PH escolher/aplicar no perfil. Ação de Fase 0 (bio) em [OPEN-QUESTIONS.md](OPEN-QUESTIONS.md) segue em aberto até confirmação.
+
+---
+
 ## 2026-08-11 (5) — Ajuste de manchete no pin da fábrica: afirmação → pergunta
 
 PH pediu pra trocar a manchete de "A gente fabrica." pra formato pergunta: **"Você sabia que a Veneza Estofados também é fábrica?"**. Troquei o título e ajustei o subtítulo pra continuar respondendo na mesma peça (sem virar pergunta retórica vazia — o dado real é que 0 em 12 posts do feed atual fala de fábrica, então é genuinamente algo que a audiência não sabe). Abertura da legenda também ajustada pra "Se você não sabia...". Atualizado [conteudo/posts/2026-08-11-somos-a-fabrica-pin.md](conteudo/posts/2026-08-11-somos-a-fabrica-pin.md) (v1.1) e [estrategia/2026-08.md §8](estrategia/2026-08.md).
