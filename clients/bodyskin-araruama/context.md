@@ -26,6 +26,8 @@ O que a marca **tem de verdade** e quase não usa: **4 tecnologias de laser, par
 
 **Terceiro recorte — quem chega pela harmonização** (toxina, bioestimulador, preenchimento). Ticket maior, ciclo de decisão mais longo, mais sensível a autoridade e menos a promoção. É o público que o feed atual espanta, porque preço estampado em injetável comunica banalização, não confiança.
 
+**Quarto recorte, novo (reunião 17/09) — público 50+.** Cintia Ferraz pediu frente própria pra harmonização facial e bioestimuladores voltada a quem tem mais de 50 anos, protocolo "full face" (bioestimulador de colágeno + toxina botulínica + preenchimento) — justificativa dela: maior estabilidade financeira. 🔴 **100% travado pelo gate da RT** ([PADROES §2](PADROES.md) e [§9](PADROES.md)) até vir aval — mesma trava que já pega o resto do injetável desde 26/07.
+
 **Recorte novo do mês — pele com mancha/textura** (peeling de ATA). Público que convive com melasma, marca de acne e tom irregular há anos, já tentou creme e clareador de farmácia, e não sabe que existe protocolo pra isso perto de casa.
 
 ---
@@ -94,6 +96,18 @@ Stories: default do playbook é sem stories, mas nesta conta eles têm função 
 
 ---
 
+## Calendário comercial próprio da cliente — as datas duplas
+
+A partir de **setembro/2026** a clínica passa a rodar **datas duplas**: **9.9 · 10.10 · 11.11 · 12.12**, cada uma concentrando a ação comercial do mês num único dia. A ideia é da cliente, veio de memorando interno pra equipe dela em 04/09, e muda o desenho de todo mês até dezembro — não é campanha pontual.
+
+**Onde isso encosta no conteúdo:** ela pediu explicitamente que *"o cliente ouça falar da data antes mesmo do dia chegar"*. Antecipação é conteúdo de feed, e é o que a Lone entrega. A parte de carteira, follow-up e mensagem de equipe é dela — mas é onde a venda de laser fecha de verdade nesta clínica, e vale a Lone escrever o texto que a equipe manda.
+
+**Onde isso conflita com a conta:** o modelo nasceu em e-commerce de compra por impulso. Aqui o ticket é R$ 1.300 a R$ 2.100 em 18x, com avaliação gratuita presencial antes de qualquer fechamento. **Ninguém compra no dia — decide no dia.** E uma data dupla por mês, somada à promoção mensal, empurra o feed de volta pro catálogo que agosto veio desmontar. Régua e arco padrão em [PADROES §8](PADROES.md).
+
+**Âncora de calendário que vale registrar:** **9 de setembro é o Dia Internacional da Beleza** (criado no CIDESCO, o comitê internacional de estética). A data dupla dela cai em cima de uma data real do próprio setor — de graça. ⚠️ A cliente acredita que o Dia da Beleza é **26/09**, e não é: em 26/09 não há data de beleza nenhuma no calendário brasileiro.
+
+---
+
 ## Constraints
 
 - **Compliance é bloqueante peça a peça.** Estética avançada com injetável na pauta: quem executa, sob qual conselho, e o que pode ser publicado (antes/depois, preço, promessa) depende da **responsável técnica**. Ver [BRIEFING §7](BRIEFING.md) e [PADROES §2](PADROES.md).
@@ -114,6 +128,8 @@ Stories: default do playbook é sem stories, mas nesta conta eles têm função 
 
 ## Histórico
 
+- **v1.4 (2026-09-17)** — Reunião com **Cintia Ferraz** (contato do cliente, papel exato a confirmar — [OPEN-QUESTIONS](OPEN-QUESTIONS.md)) trouxe recorte de público novo (50+, harmonização/full face, travado pelo gate da RT), paleta oficial reconfirmada (laranja/turquesa/branco/preto, [PADROES §9](PADROES.md)) e sinal de risco de cancelamento do contrato por ROI — ver [referencias/2026-09-17](reuniao-mensal/resumos/2026-09-17-resumo-reuniao-cintia-ferraz.md).
+- **v1.3 (2026-09-04)** — chegou o pacote de **setembro** e, junto, a estratégia de **datas duplas** da cliente (9.9 · 10.10 · 11.11 · 12.12), que passa a moldar o calendário até dezembro. Registrada a seção nova sobre o calendário comercial dela, incluindo o conflito entre o modelo de e-commerce e o ciclo de decisão real do laser, e a âncora do Dia Internacional da Beleza em 09/09. Pacote de setembro perdeu a oferta do recorte masculino.
 - **v1.2 (2026-07-26)** — PH decidiu: "sua melhor versão" fica de fora; o encarte da cliente é conteúdo de **stories** (feed aceita oferta com tema próprio); "sem prender o limite do cartão" é verdade e virou argumento liberado.
 - **v1.1 (2026-07-26)** — chegou o pacote de promoções de agosto (9 ofertas). Acrescentado: recorte masculino com oferta própria, banco de frases da própria cliente, dois anti-padrões novos (reproduzir a arte dela · empilhar "+"), e a tensão sobre "sua melhor versão".
 - **v1.0 (2026-07-26)** — criado no onboarding, a partir do diagnóstico de 8 páginas repassado por PH + verificação do perfil público no mesmo dia.

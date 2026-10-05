@@ -4,6 +4,346 @@ Log datado do trabalho feito pra BodySkin. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-10-05 — O 10.10 foi cancelado: peça de segunda trocada antes de subir e oferta do mês herdando a sexta
+
+PH confirmou hoje: **a BodySkin não vai ter 10.10.** O que vale no sábado é a campanha **Outubro OFF** ([registro](referencias/2026-10-02-promocoes-outubro-off-cliente.md)), a mesma que está no ar desde o dia 2.
+
+Isso fechou a pendência mais antiga de outubro — e reprovou a [regra 1 do PADROES §8](PADROES.md) pela primeira vez. A condição do dia tinha que ser diferente da tabela do mês, e não era.
+
+**A decisão: cancelar a data, não enfeitá-la.** Anunciar um "dia especial" com a promoção que já estava no ar não custaria o 10.10, custaria o 11.11 e o 12.12 — porque a base aprende na primeira repetição. Com a data fora, outubro perde um gancho de calendário e ganha uma peça de oferta com ângulo próprio.
+
+**O que foi feito:**
+
+| Peça | O que aconteceu |
+|---|---|
+| Segunda **05/10** | 🔴 **Reescrita antes de subir.** A versão aprovada em 02/10 era *"Sábado é 10.10. Quem chega com a avaliação feita decide na hora."* e prometia em público que o dia teria condição própria. PH confirmou que ainda não tinha publicado. Virou [**"Dá pra descobrir se o laser funciona na sua pele sem fechar pacote nenhum"**](conteudo/posts/2026-10-05-da-pra-saber-sem-fechar-pacote.md) — a avaliação gratuita como resposta ao medo de fototipo, que é a parte da peça antiga que continuava verdadeira. Arquivo renomeado. |
+| Sexta **09/10** | O carrossel do verão e o Reels do sábado viraram **uma peça só**: [**"Ninguém precisa começar o laser pelo corpo inteiro"**](conteudo/posts/2026-10-09-comeca-por-uma-area-pequena.md), carrossel de 6 slides com a oferta real do mês — áreas pequenas, 10 sessões, R$ 89. Sexta é o dia de venda no padrão da casa. |
+| Sábado **10/10** | ❌ **Fora do feed.** Vira stories com o encarte da cliente, que é o lugar dele ([PADROES §7](PADROES.md)). Sábado comum não pede peça de feed. |
+
+**Por que o carrossel não ficou com "a conta do verão":** aquele tema só se sustentava com o "amanhã é 10.10" carregando a urgência. A [peça de 26/09](conteudo/posts/2026-09-26-o-tempo-que-o-verao-pede.md) acabou de usar o argumento do calendário do verão, e repetir treze dias depois seria publicar a mesma peça duas vezes. O ângulo novo sai do que a oferta permite dizer de verdade: R$ 89 compra uma área pequena, e área pequena é como se testa o laser na própria pele antes de assinar pacote de R$ 1.300 a R$ 2.100 — que é exatamente o lead que a reunião de 17/09 disse que não fecha.
+
+**Regra nova — [PADROES §8, regra 5](PADROES.md):** sem condição própria confirmada, a data não vai ao ar. A condição do dia passa a ser input obrigatório **até o dia 25** do mês anterior, nenhuma peça de antecipação promete condição que ainda não existe (foi o erro de 29/09, salvo por um dia), e data cancelada não ganha gancho substituto pra salvar o slot.
+
+**O que ficou aberto e foi pra [PAUTA](reuniao-mensal/PAUTA.md):** condição do 11.11 até 25/10 · horário da clínica no sábado (não morreu com a data) · quais áreas entram em "áreas pequenas" e se R$ 89 é à vista ou parcelado · e o aviso pro atendimento de que as mesmas 10 sessões custavam R$ 199 em setembro.
+
+**Docs atualizados:** [estratégia de outubro](estrategia/2026-10.md) (§2 reescrito, calendário em 13 peças, distribuição recalculada, envios, pendências renumeradas) · [PADROES](PADROES.md) v1.8 · [OPEN-QUESTIONS](OPEN-QUESTIONS.md) · [PAUTA](reuniao-mensal/PAUTA.md) · [referência do Outubro OFF](referencias/2026-10-02-promocoes-outubro-off-cliente.md).
+
+---
+
+## 2026-10-02 — Chegou o pacote de outubro ("Outubro OFF"): registro, tabela de preço e cinco travas
+
+PH repassou **3 artes** da campanha de outubro da Cintia. [Registro completo](referencias/2026-10-02-promocoes-outubro-off-cliente.md), com as imagens salvas ao lado.
+
+**O que o pacote é:** uma capa de campanha (laser, sem preço), uma oferta com preço (áreas pequenas, 10 sessões, **R$ 89**) e uma segunda capa que junta laser com harmonização facial. Conceito do mês escrito pela própria cliente: *"dê um OFF nos pelos, dê um ON na sua liberdade"* — vira a assinatura das peças de laser.
+
+**O que destravou:** o nome da campanha, uma oferta de entrada com preço real (que é o papel desenhado pra primeira dezena) e a permissão de dizer "10 sessões" nesta oferta específica, porque aqui ela informou. A paleta das artes bate com a oficial — primeira remessa coerente com a cobrança de 17/09.
+
+**O que não destravou, e é o que importa:** a **condição do 10.10 não veio**, e hoje era o dia de mandar essa peça pra aprovação. O que chegou é a tabela do mês, e a [peça de 05/10](conteudo/posts/2026-10-05-sabado-e-10-10-chega-avaliada.md) já promete em público que o sábado tem condição própria. Também não vieram preço cheio (logo, nenhum percentual), oferta de limpeza de pele, oferta masculina nem validade.
+
+**Cinco travas registradas no [PADROES §7](PADROES.md):**
+- A arte 03 não é reproduzida — harmonização facial com "condições especiais" é vantagem comercial em injetável, gate da RT aberto desde 26/07.
+- Os selos *"segura e confortável"* e *"pele mais lisa e uniforme"* ficam fora da copy: afirmação de segurança e promessa de resultado.
+- "OFF" é trocadilho, não percentual. Nenhuma peça escreve "X% OFF" sem preço cheio por trás.
+- Sem "sem juros" e sem parcelamento — não está escrito em arte nenhuma.
+- As três artes são formato story, e é lá que o encarte vive.
+
+**Alerta de preço levado pro [OPEN-QUESTIONS](OPEN-QUESTIONS.md):** o mesmo pacote de áreas pequenas custava **R$ 199 em setembro** e agora custa R$ 89. A Lone produz com o valor que a cliente mandou, mas o balcão precisa saber que caiu 55% — quem fechou mês passado vai perguntar.
+
+---
+
+## 2026-09-29 — Post de segunda 05/10: "Sábado é 10.10. Quem chega com a avaliação feita decide na hora." (antecipação)
+
+Peça do lote de outubro. [Post](conteudo/posts/2026-10-05-sabado-e-10-10-chega-avaliada.md) — cumpre o slot #2 do [calendário de outubro](estrategia/2026-10.md).
+
+**A mecânica foi trocada de propósito.** A antecipação do 9.9 ([04/09](conteudo/posts/2026-09-04-guarda-o-dia-nove.md)) pediu pra pessoa **esperar** pra fechar. Repetir isso em outubro seria a mesma peça com a data trocada, e ainda desperdiçaria os cinco dias até o sábado. Esta pede o contrário: **fazer a avaliação durante a semana**, porque a [PADROES §8, regra 3](PADROES.md) já registra que aqui ninguém compra no dia — decide no dia, e a avaliação presencial gratuita é obrigatória antes.
+
+**Por que isso importa pro problema do mês:** a [reunião de 17/09](reuniao-mensal/resumos/2026-09-17-resumo-reuniao-cintia-ferraz.md) apontou lead barato que não fecha, com a conta em risco de cancelamento. Peça que enche a agenda de avaliação mexe exatamente na métrica que a Cintia quer ver subir.
+
+**Duas travas ficaram no checklist da peça, as duas com a Cintia:**
+- 🔴 A clínica abre no sábado 10/10 e até que horas? A peça convida pra decisão presencial no dia.
+- 🔴 A condição do dia 10 precisa ser diferente da tabela do mês — a peça promete isso em público, igual o 9.9 prometeu e a clínica cumpriu. Se sair a tabela de sempre, o custo é o 11.11 e o 12.12.
+
+**Compliance:** zero preço, zero injetável, zero promessa — fora do gate da RT, que segue aberto desde 26/07.
+
+---
+
+## 2026-09-25 — Post de segunda 28/09: "Depilação a laser dói?"
+
+Peça 12 da [estratégia de setembro](estrategia/2026-09.md), único slot do mês que seguia em esboço ("dúvida da caixinha de stories"). [Post escrito](conteudo/posts/2026-09-28-depilacao-a-laser-doi.md): estático, formato kicker + pergunta + resposta, mesma estrutura validada em [31/08](conteudo/posts/2026-08-31-peguei-sol-posso-fazer-laser.md) — segunda peça da série "dúvida que mais chega".
+
+**Ângulo escolhido de propósito:** "dói?" é a pergunta mais recorrente de quem nunca fez laser e não tinha sido endereçada em nenhuma peça do mês. Serve dois critérios ao mesmo tempo — segunda-feira pede leve/educativo, e o tema fica inteiramente fora do gate da RT (zero injetável, zero antes/depois, zero promessa de resultado), que segue aberto desde 26/07.
+
+**Compliance:** resposta admite variação de sensação por pessoa/área/pelo, nunca promete ausência de dor; usa a mesma lógica técnica já validada (o aparelho certo pro tom de pele muda o desconforto, não só a eficácia) — dois pontos marcados pra confirmação da RT no próprio arquivo, mesmo critério de toda peça com afirmação clínica. Paleta já sai na versão oficial estrita (laranja/turquesa/branco/preto, [PADROES §9](PADROES.md)), sem telefone impresso (WhatsApp oficial segue sem definição).
+
+**Sem pendência nova.** Peça não depende de nenhum bloqueante ativo da conta (RT, WhatsApp, promoções de outubro).
+
+---
+
+## 2026-09-24 — Outubro montado em cima da reunião de 17/09: estratégia, indicação, sessões grátis e guia de gravação
+
+PH pediu pra aplicar a reunião de 17/09 na criação a partir de agora. A reunião já estava registrada; o que faltava era transformar as decisões em peça. Produzido:
+
+- **[Estratégia de outubro](estrategia/2026-10.md)**, a primeira desenhada inteira depois da reunião. Segue as **dezenas da Cintia** (laser 1-10 · pele 11-20 · masculino 21-31), leva a campanha de indicação e as três sessões grátis e prioriza o educativo. Tem ainda **lista de gravação da visita**, **cronograma de envio seg/sex com uma semana de antecedência** e **mensagem pronta pra Cintia** pedindo as promoções até 28/09.
+- **[6 criativos de anúncio](conteudo/anuncios/2026-10-01-indicacao-e-sessoes-gratis.md)**: 3 de indicação e 3 de sessões grátis (feminino, masculino e geral). Nenhum leva preço, e todos dizem "avaliação presencial no Centro de Araruama" pra filtrar lead de fora do raio de 5 km.
+- **[Post de 02/10](conteudo/posts/2026-10-02-marca-a-amiga-que-voce-traria.md)**: lançamento da indicação, com o CTA de marcação no comentário fazendo papel de mecânica.
+- **[Guia de gravação pra Cintia](conteudo/kit-equipe/2026-09-24-guia-gravacao-cintia.md)**, com instrução de take porque quem grava é ela, sozinha (mesma exceção da Atlas).
+
+**Validação de copy (subagent):** 2A, 2B e 2C aprovados. Corrigido: o post de 02/10 repetia a piada da lâmina do anúncio 1A (quem vê os dois lia o mesmo texto duas vezes). O post ganhou ângulo próprio, "a amiga que você levaria junto". As peças também descreviam o jeito de indicar de formas diferentes. Agora o fluxo é um só em todas: a amiga fala o nome de quem indicou quando chama no WhatsApp, e é assim que a equipe credita a recompensa. Esse fluxo ainda precisa do ok da Cintia.
+
+**Três leituras que mudaram o plano:**
+1. **O lead ruim é sintoma de anúncio com preço.** A própria clínica diz que o cliente novo vem de passagem ou por indicação, então outubro põe o digital pra reforçar esses dois canais: indicação vira campanha e a fachada entra na lista de gravação.
+2. **Indicação com recompensa garantida, não sorteio.** Sorteio comercial exige regulamento (mesmo gate da Dijana), e sorteio com toxina está no gate da RT.
+3. **Gate da RT virou lista de 7 perguntas de sim ou não** ([estratégia §4](estrategia/2026-10.md)), em vez de mais um "aguardando". Se a RT responder até 05/10, as peças 50+ entram na dezena 11-20.
+
+**Correções feitas no caminho:**
+- **10/10/2026 é sábado**, não sexta como dizia a [estratégia de setembro](estrategia/2026-09.md). Corrigido lá. Abre a pergunta do horário da clínica no sábado.
+- **A peça de 26/09 usava a paleta provisória** (creme + teal), escrita antes da reunião. Trocada pra paleta oficial estrita.
+- **Conflito de prazo:** a Cintia manda as promoções "no início do mês", mas a aprovação com uma semana de antecedência exige que cheguem até ~25 do mês anterior. Levado na mensagem pra ela e na PAUTA.
+
+---
+
+## 2026-09-22 (2) — Post de sexta: "Red flag em clínica de laser" (pedido de disrupção)
+
+PH pediu peça mais disruptiva, olhando as trends. [Carrossel de 6 slides](conteudo/posts/2026-09-25-red-flags-de-clinica-de-laser.md) no lugar do slot 10 da [estratégia](estrategia/2026-09.md) — que era "ponte pro sábado", a peça mais morna do mês.
+
+**A leitura de trend que embasou** (registrada dentro da peça, com fontes): polarização leve do tipo red flag/green flag, que obriga quem vê a se posicionar; "o alerta que ninguém fala", que entrega autoridade sem prometer resultado — útil justamente porque o gate da RT trava promessa nesta conta; e menos produção, mais verdade.
+
+**O que a trend oferece e esta conta não usa:** humor de duplo sentido e áudio cômico. Segue valendo a decisão de 17/09 ([PADROES §9](PADROES.md)) — disrupção aqui é ângulo e formato, não piada.
+
+**A jogada da peça:** os cinco sinais são de processo (fechar pacote sem avaliação, prometer número de sessões, ter um aparelho só, não perguntar histórico, sumir depois do pagamento), e a legenda convida a usar a lista **também contra a BodySkin**. É o que separa critério honesto de ataque ao concorrente, e o que impede a peça de dizer que quem fez em outro lugar errou.
+
+**Encadeamento com a quarta:** o slide 4 retoma a tese do [Reels dos 4 lasers](conteudo/roteiros/2026-09-23-reels-os-quatro-lasers.md) com outras palavras — dois toques na mesma ideia em três dias, sem repetir redação.
+
+**Compliance:** zero preço, zero injetável, zero promessa (o slide 3 desmonta promessa de sessões), sem antes e depois.
+
+🔴 **Validação de copy (subagent) pegou um furo meu:** o slide 2 faz a **mesma afirmação técnica** que travou o Reels de quarta (tom de pele define o aparelho), e eu tinha classificado a peça inteira como ⚠️. Corrigido — slides 2, 3 e 5 entram na validação da RT e a peça vira **bloqueio de publicação**, igual ao vídeo. Também: o slide 4 reciclava o "precisa caber nele" do Reels (reescrito), as hashtags eram idênticas às de quarta (variadas) e faltava assinatura no brief.
+
+---
+
+## 2026-09-22 — Reels de quarta: os 4 lasers saem do texto e viram vídeo com fala
+
+PH pediu roteiro. Escrito o [Reels de 23/09](conteudo/roteiros/2026-09-23-reels-os-quatro-lasers.md) — slot 9 da [estratégia de setembro](estrategia/2026-09.md), pilar P1 Autoridade, estrutura clássica Lone (gancho → dor → solução → benefícios → CTA).
+
+**O ângulo:** a frase que a cliente do público já ouviu em outro lugar — *"a sua pele não pode fazer laser"* — e a resposta de que o limite quase sempre é o aparelho daquela clínica, não a pele dela. Abre no molde hiperlocal liberado por PH em 31/07 ("Você de Araruama..."). É o diferencial das 4 tecnologias saindo da legenda e virando imagem, coisa que estava parada desde o [pedido de captação de 25/08](conteudo/roteiros/2026-08-25-pedido-captacao-os-quatro-lasers.md), que nunca voltou.
+
+**Duas decisões de produção:**
+1. **Roteiro com fala da profissional**, agendável na visita presencial mensal que a Lone assumiu na reunião de 17/09 (contato: Letícia, 8h-16h). Fallback registrado no próprio arquivo: sem ninguém pra falar, as linhas viram texto de tela sobre os takes do pedido de 25/08.
+2. **Peça sem preço, de propósito.** A segunda já entregou venda ("até 67% OFF"); duas peças comerciais seguidas refazem o feed-panfleto que agosto desmontou ([PADROES §1](PADROES.md)).
+
+**Compliance:** zero injetável (gate da RT segue aberto) · sem número de sessões, prazo ou promessa de resultado · a fala diz "todo tom de pele", nunca "todo tipo de pelo" — pelo claro tem limitação técnica e quem responde isso é a avaliação. A explicação sobre tom de pele e parâmetro do laser vai pro crivo da RT, mesmo critério de toda peça com afirmação clínica.
+
+**Validação de copy (subagent):** aprovado com dois ajustes, já aplicados — tirado o "Aqui na BodySkin" que abria o bloco de solução (marca no meio do roteiro é vício de cadência expositiva; ela fecha na tela final) e hashtags padronizadas com acentuação. A validação da RT subiu de observação pra **bloqueio de publicação** no próprio arquivo.
+
+**Sem pendência nova.**
+
+---
+
+## 2026-09-21 — Post de segunda: "Não deixe pra amanhã" — reprodução do kit oficial da franquia com a condição real
+
+PH pediu post pra hoje seguindo as referências da reunião de 17/09, **idêntico ao material que a Cintia mandou**. [Peça escrita](conteudo/posts/2026-09-21-nao-deixe-pra-amanha-ate-67-off.md) em cima do print 7 do kit oficial ("Não deixe pra amanhã — Depilação a Laser com até 85% OFF"): mesma estrutura de arte (foto + serifada + número laranja gigante + selo com 4 ícones), paleta oficial laranja/turquesa/branco/preto, versão com movimento prevista no brief. É a primeira peça que entrega junto duas decisões da reunião — desconto percentual no lugar de preço fixo e paleta oficial estrita.
+
+**Duas trocas obrigatórias em relação ao kit, registradas na peça:** o **85% virou 67%**, porque a tabela da unidade só sustenta o desconto real da oferta 1 (R$ 3.999 → R$ 1.299,06) e percentual sem base real é o que o [PADROES §7/§9](PADROES.md) proíbe; e **"resultados comprovados" virou "tecnologia pra todos os tons de pele"** (promessa de selo não se reproduz, o substituto é vocabulário do próprio kit). Se a Cintia confirmar uma condição com base real de 85%, a arte troca só o número.
+
+Substitui o slot 8 da [estratégia de setembro](estrategia/2026-09.md) (primavera educativa) — o argumento da primavera (começa 22/09) ficou na legenda como motivo do "não deixe pra amanhã". Segunda com peça de venda é exceção à grade, por decisão de PH e pelo contexto de conta em risco.
+
+**Pendência nova** em [OPEN-QUESTIONS.md](OPEN-QUESTIONS.md) e na [PAUTA](reuniao-mensal/PAUTA.md): o "até 85% OFF" do kit tem base de preço real em Araruama?
+
+---
+
+## 2026-09-17 — Reunião com Cintia Ferraz: risco de conta + duas campanhas novas travadas pelo gate da RT
+
+PH repassou a ata (Gemini) da reunião de 17/09 com Cintia Ferraz, mais 8 prints de referência visual (Espaço Laser + material com a marca "bodyskin"). Registrei tudo em [reuniao-mensal/resumos/2026-09-17-resumo-reuniao-cintia-ferraz.md](reuniao-mensal/resumos/2026-09-17-resumo-reuniao-cintia-ferraz.md) e [referencias/2026-09-17-referencias-visuais-espacolaser-e-bodyskin.md](referencias/2026-09-17-referencias-visuais-espacolaser-e-bodyskin.md).
+
+**O que mais importa:** Cintia sinalizou que a conta está sob risco de cancelamento — custo operacional de R$47k contra menos de R$3k de retorno de marketing, sócio pressionando, leads classificados como "ruim e péssimo". Isso não é detalhe de rodapé, é o contexto que deveria pesar em qualquer priorização daqui pra frente.
+
+**Decisões da reunião** viraram regra em [PADROES §9](PADROES.md): paleta oficial confirmada (laranja/turquesa/branco/preto), criativos com movimento, desconto percentual no lugar de preço fixo (com a mesma exigência de preço-base real que já valia), frente nova de público 50+ (harmonização/full face), campanhas de indicação + sessões grátis, calendário de promoções por dezenas, cronograma de aprovação (seg/sex, 1 semana de antecedência) e visita presencial mensal como compromisso formal da Lone.
+
+🔴 **O que sinalizei com prioridade:** duas das seis decisões (campanha 50+ e sorteio com toxina de prêmio) são 100% injetável e caem direto no gate da RT — que está aberto desde 26/07, mais de 7 semanas, já travou 5+ peças, e **não foi mencionado nem uma vez durante a reunião**. Numa conta sob risco de cancelamento, prometer de novo o que já não sai há semanas é pior do que não prometer. Registrado como o item mais urgente da conta em [OPEN-QUESTIONS.md](OPEN-QUESTIONS.md).
+
+**Ainda em aberto:** se Cintia é a RT/sócia/só contato administrativo (pode inclusive resolver a pendência do item 1).
+
+**Atualização no mesmo dia — PH confirmou as duas dúvidas de nomenclatura:** "Bor Laser" era **BodyLaser**, franquia nacional citada só como referência de formato (sem relação de marca com a cliente). Os 2 criativos com logo "bodyskin" são **kit de marca oficial da franquia local BodySkin**, a que a unidade de Araruama pertence — não é material de terceiro nem precisa de confirmação adicional de origem. Isso já promove a paleta laranja/turquesa/branco/preto de "declarada por Cintia" pra "fonte de marca oficial confirmada" em [PADROES §9](PADROES.md). Falta só perguntar se a unidade tem acesso aos arquivos originais do kit (logo em alta resolução, manual de marca).
+
+---
+
+## 2026-09-15 — Peça do Dia do Cliente liberada: RT aprovou + mecânica é aberta (não só carteira)
+
+PH resolveu as duas pendências da peça de 14/09: **RT aprovou** o brinde (limpeza de pele grátis em fechamento de pacote de depilação a laser) e confirmou que a mecânica **vale pra todo mundo**, cliente novo ou antigo — proposital, o Dia do Cliente também serve pra captar gente nova. [Peça](conteudo/posts/2026-09-15-dia-do-cliente-limpeza-de-pele-de-brinde.md) liberada pra publicar sem alteração de copy (já não distinguia carteira × novo). Aprovação da RT vale só pra esta mecânica específica — não muda o gate 🔴 que segue travando injetável (toxina, preenchimento). Resolvido em [OPEN-QUESTIONS.md](OPEN-QUESTIONS.md).
+
+---
+
+## 2026-09-14 (2) — Peça extra pro Dia do Cliente (15/09): pacote de depilação + limpeza de pele de presente
+
+PH pediu uma promoção pra amanhã (Dia do Cliente): quem fecha pacote de depilação a laser leva uma limpeza de pele de presente. [Peça escrita](conteudo/posts/2026-09-15-dia-do-cliente-limpeza-de-pele-de-brinde.md) — estático, mecânica sem preço/pacote específico (nenhuma tabela confirmada tem essa combinação), delega a definição do pacote pra avaliação gratuita.
+
+Duas pendências registradas antes de publicar amanhã ([OPEN-QUESTIONS.md](OPEN-QUESTIONS.md)): aval da RT (brinde amarrado a procedimento passa pelo gate mesmo depilação sendo "menos sensível", [PADROES §2](PADROES.md)) e se a mecânica é proposital abrir pra cliente novo (a Semana do Cliente foi desenhada só pra carteira, [estratégia §3](estrategia/2026-09.md)). Post extra, fora do padrão Seg/Qua/Sex — exceção pontual, mesmo padrão do dia com outro cliente da carteira.
+
+---
+
+## 2026-09-14 (1) — Post de segunda: "Terminei as 10 sessões. E agora?" (carrossel, pilar P1)
+
+Peça do slot 5 da [estratégia de setembro](estrategia/2026-09.md) — pilar Autoridade/Educativo, seguindo a regra do playbook pra segunda-feira (leve/educativo, nunca venda pesada). [Escrita](conteudo/posts/2026-09-14-terminei-as-dez-sessoes-e-agora.md): carrossel de 5 slides explicando por que pelo pode voltar a aparecer depois do protocolo completo (ciclo de crescimento do pelo, hormônio, idade), sem prometer resultado permanente.
+
+**Função estratégica:** instala o conceito de manutenção antes da oferta de manutenção da Semana do Cliente sair na sexta (18/09, Oferta 6 do [PADROES §7](PADROES.md)) — mesmo arco de "educar antes de vender" já usado no lançamento do ATA em agosto.
+
+**Escolha de tema:** fiquei inteiramente em depilação a laser, de propósito. Evita duas coisas em aberto: o gate 🔴 da RT sobre injetável (segue travado desde 26/07, [PADROES §2](PADROES.md)) e a pendência sobre quantidade de sessões das ofertas do 9.9 ([OPEN-QUESTIONS.md](OPEN-QUESTIONS.md)) — o "10 sessões" desta peça é o protocolo padrão da tabela do mês, que tem número fechado, não uma das seis artes do 9.9.
+
+**Compliance:** sem preço, sem prazo, sem promessa absoluta ("nunca mais" é desmentido na própria peça) — mas a explicação sobre ciclo do pelo e fatores hormonais vai pro crivo da RT mesmo assim, mesmo critério de toda peça com afirmação clínica. CTA é salvamento (peça de topo de funil), com avaliação gratuita como caminho único de conversão, sem competir.
+
+**Sem novas pendências abertas** — a peça foi desenhada pra não depender de nenhum dos bloqueantes ativos (RT, WhatsApp, sessões do 9.9).
+
+---
+
+## 2026-09-11 — Bastidor do dia 9 virou promoção direta (captação não chegou)
+
+A peça de sexta 11/09 estava escrita como bastidor do 9.9 ("Foi assim o dia 9 aqui dentro"), mas dependia de foto real capturada no expediente do dia 9 — a captação não veio. PH decidiu trocar por **promoção direta** em vez de adiar.
+
+[Post reescrito](conteudo/posts/2026-09-11-virilha-total-de-3999-por-1299.md) com a Oferta 1 da tabela de setembro ([PADROES §7](PADROES.md)) — Virilha total (10 sessões) + 2 áreas pequenas grátis, de R$ 3.999 por 18x R$ 72,17. É a única oferta do mês com preço cheio informado pela cliente, logo a única que pode comunicar desconto — a mais segura pra uma peça 100% de venda.
+
+Estratégia de setembro ([§4](estrategia/2026-09.md)) atualizada: slot 4 passa de P3 Conexão pra P5 Oferta.
+
+---
+
+## 2026-09-08 (3) — Chegaram as ofertas do 9.9: o bloqueio caiu e a aposta deu certo
+
+A cliente mandou **7 artes** — as 6 ofertas do dia 9 + um teaser. [Registro completo](referencias/2026-09-08-artes-9-9-oferta-do-dia.md), tabela do dia no [PADROES §7](PADROES.md) (v1.6).
+
+**A pergunta que valia mais do que a resposta foi respondida com sim.** Em 04/09 a Lone marcou que se a condição do 9.9 repetisse a tabela do mês, a data seria encenação e queimaria o 10.10, o 11.11 e o 12.12. Não repetiu: as **mesmas pernas inteiras** custam 18x R$ 99,94 (R$ 1.798,92) na tabela de setembro e **12x R$ 99 (R$ 1.188) no dia 9** — R$ 610,92 a menos, em 6 parcelas a menos. A mecânica se sustenta, e essa passa a ser a barra do 10.10.
+
+**Produzido:**
+- [Reels de 09/09 preenchido (v2)](conteudo/roteiros/2026-09-09-reels-e-hoje-nove-nove.md) — os três campos vazios da v1 viraram oferta real. **Leva uma oferta só** (pernas inteiras): vídeo que lista seis condições em 35 segundos é o encarte falado.
+- [Sequência de stories 08 e 09/09](conteudo/stories/2026-09-09-sequencia-do-dia-9-9.md) — 3 peças de véspera + 11 no dia, com as 5 ofertas restantes distribuídas por horário. É onde o encarte dela vive ([PADROES §7](PADROES.md)) e o único formato que aguenta lista.
+- [Kit de mensagem da equipe](conteudo/kit-equipe/2026-09-09-mensagens-whatsapp-9-9.md) 🟡 **proposta, depende de OK** — 3 textos de WhatsApp (carteira · quem pediu orçamento e não fechou · contato frio). O memorando da cliente diz que a estratégia depende de todas mandando mensagem; sem texto pronto, cada uma improvisa e o que chega é o encarte colado com "aproveite".
+
+**Decisão que vale registrar: a âncora mais forte da campanha fica fora do feed.** A comparação R$ 1.798,92 → R$ 1.188 é o argumento mais convincente do dia, e publicá-la avisa quem fechou nas últimas duas semanas que pagou mais caro. Um a um, com quem pediu orçamento e não fechou, é honesto — por isso foi pro kit da equipe, não pro Reels.
+
+✅ **Resolvidas:** condição do 9.9 · "sem juros" (está escrito em 3 das 6 artes — nas outras, não se escreve) · recorte masculino (2 ofertas).
+
+🔴 **Dois bloqueios novos:** nenhuma das seis artes informa **quantas sessões** tem o pacote (a atendente vai ser perguntada isso o dia inteiro amanhã) · e a arte do **"Botox Global"** reúne seis violações do gate da RT de uma vez — injetável com preço, prazo de efeito, duração, "natural e seguro", promessa de rejuvenescimento e marca registrada como nome genérico. A Lone não reproduz. **É a terceira vez em seis semanas que chega injetável com preço sem a RT ter respondido** — precisa virar conversa direta com a cliente, não mais um item de lista.
+
+⚠️ **Amanhã alguém precisa fotografar e filmar a clínica.** O story das 14h30 e a [peça de sexta 11/09](conteudo/posts/2026-09-11-bastidor-do-dia-9.md) dependem de material real do dia — sem isso a de sexta trava, porque ela não pode sair com banco de imagem.
+
+---
+
+## 2026-09-08 (2) — Peça de urgência: "Pré 9.9 manutenção" (carrossel, fora da cadência)
+
+A cliente mandou 4 artes prontas no chat: dois teasers do 9.9 (redundantes com o que a Lone já produziu) e **duas ofertas novas de manutenção, válidas só hoje** — uma pra ela (5 virilha + 5 perianal + 5 área pequena, 10x R$79) e uma pra ele (5 tórax/costas + 5 abdômen/lombar + 5 faixa de barba, 12x R$89). Registrado em [referencias/2026-09-08](referencias/2026-09-08-promo-pre-9-9-manutencao.md) e no [PADROES §7](PADROES.md) (v1.5) com validade datada só pra hoje.
+
+**[Carrossel escrito](conteudo/posts/2026-09-08-pre-9-9-manutencao.md)** — 5 slides, usa os dados da cliente (serviço, preço, validade) sem copiar o layout de encarte dela (balão 3D, glitter, corpo de banco de imagem, "sua melhor versão"). Invoca a exceção de urgência do §7 pra ir pro feed em vez de stories — validade de um dia só não dá tempo pro ciclo normal.
+
+**Resolve uma pendência antiga:** a oferta masculina que tinha "sumido" do pacote de setembro (registrada em 04/09) apareceu nesta arte.
+
+⚠️ **Fica registrado alerta pra conversa futura com a cliente:** com esta, já são três "manutenções" diferentes em 10 dias (hoje, o 9.9 de amanhã que é aquisição, e a #6 do pacote do mês em 18/09). Vale confirmar se são condições propositalmente diferentes.
+
+---
+
+## 2026-09-08 — Peça de sexta 11/09 escrita (bastidor do 9.9, fecha o arco)
+
+PH pediu os posts do dia 11 pra carteira toda. [Bastidor do dia 9 escrito](conteudo/posts/2026-09-11-bastidor-do-dia-9.md) — pilar Conexão, fecha o arco que começou em 04/09 (antecipação) e passou por 07/09 (motivo da data) e 09/09 (o dia).
+
+**Muda a natureza da peça de propósito:** as três anteriores empurram pro 9.9; esta olha pra trás, sem reabrir a oferta nem usar "aproveite" — a condição de um dia só já fechou, e reforçar isso na sexta furaria a escassez real da §6 do PADROES.
+
+⚠️ **Fica pendente de captação real.** A peça descreve o movimento do dia 9, mas a data de escrita é 08/09 — o evento ainda não aconteceu. **A arte não pode sair com banco de imagem**; depende de foto de verdade tirada durante o expediente do dia 9 (recepção, agenda cheia). Se não render foto boa, a peça precisa adiar em vez de trocar a imagem — registrado na própria peça como bloqueio.
+
+---
+
+## 2026-09-04 — Chegou o pacote de setembro + a cliente trouxe estratégia própria (datas duplas)
+
+Dia cheio. Chegaram três coisas de uma vez: as promoções de setembro, o memorando interno dela anunciando as **datas duplas** (9.9 · 10.10 · 11.11 · 12.12) e o pedido de arte pro dia 26.
+
+**Registrado:** [referencias/2026-09-04](referencias/2026-09-04-promocoes-setembro-e-9-9-cliente.md) com os dois textos originais dela, a tabela oficial de 10 ofertas e o comparativo agosto × setembro. A tabela de preço do [PADROES §7](PADROES.md) foi substituída, e nasceu a **§8 — datas duplas**, com as quatro regras que valem daqui até dezembro.
+
+**Escrito:** [estratégia de setembro](estrategia/2026-09.md) com 13 peças + pauta pra reunião de alinhamento, e quatro peças:
+- [04/09 — "espera até quarta"](conteudo/posts/2026-09-04-guarda-o-dia-nove.md), antecipação sem entregar a condição
+- [07/09 — "09.09, Dia Internacional da Beleza"](conteudo/posts/2026-09-07-quarta-e-o-dia-da-beleza.md), o motivo da data
+- [09/09 — Reels "É hoje"](conteudo/roteiros/2026-09-09-reels-e-hoje-nove-nove.md) 🔴 com três campos vazios
+- [26/09 — "o verão não espera você decidir em novembro"](conteudo/posts/2026-09-26-o-tempo-que-o-verao-pede.md), a peça que ela pediu
+
+**O achado do dia: 9 de setembro é o Dia Internacional da Beleza** (CIDESCO). Ela escolheu o 9.9 copiando o calendário da Shopee e caiu, sem saber, em cima da data do próprio setor. Isso resolve de graça a maior fragilidade da campanha — sem âncora, o 9.9 lê como clínica de cidade imitando marketplace. **E corrige o pedido dela:** 26/09 não é o Dia da Beleza (é Dia Nacional dos Surdos, São Cosme e Damião, Dia dos Primos). A arte do 26 foi entregue na data pedida, mas sem carimbar data comemorativa nenhuma — funciona pelo relógio do verão.
+
+**O ponto estratégico que vai pra reunião:** a condição do 9.9 precisa ser diferente da tabela do mês, senão a data é encenação. E o custo não é o 9.9 — são as três datas seguintes, porque a base aprende na primeira vez. Quatro formatos de mecanismo prontos na estratégia §3, todos usando o número 9 como mecanismo.
+
+**Segunda leitura útil:** 15/09 é Dia do Cliente, e a **oferta 6 do pacote (manutenção, 14x R$ 89) só serve pra quem já fez protocolo**. Dá pra separar as duas quinzenas por natureza — 9.9 é aquisição, Semana do Cliente é carteira — em vez de duas campanhas de venda competindo em quinze dias numa conta que veio de ~100% de venda no feed.
+
+🔴 **Três bloqueios novos** em [OPEN-QUESTIONS](OPEN-QUESTIONS.md): qual é a condição do 9.9 (prazo 07/09, trava o Reels) · ATA é 1 ou 3 sessões por R$ 650 (agosto vendeu 3, setembro diz 1) · gate da RT pegando 3 das 10 ofertas pelo terceiro mês.
+
+---
+
+## 2026-08-31 — Setembro abre em pilar de valor, não numa quarta peça de ATA
+
+Escrita a peça de segunda: ["Peguei sol. Posso fazer laser?"](conteudo/posts/2026-08-31-peguei-sol-posso-fazer-laser.md) — P1 (autoridade/educativo), estático.
+
+**A decisão que importa aqui foi o que NÃO fazer.** Hoje é o último dia da condição do peeling de ATA, e o reflexo seria uma terceira peça de oferta. Só que o arco já estava fechado (14/08 explicou → 24/08 argumentou → 28/08 avisou que segunda o preço volta): a quarta peça em oito dias seria exatamente o cartaz repetido que o mês veio corrigir. **O lembrete de último dia foi pros stories**, que é o lugar do encarte por [PADROES §7](PADROES.md).
+
+**O ângulo novo aproveita a virada pro verão numa cidade de praia:** a dúvida de quem pegou sol e não sabe se pode fazer a sessão. A resposta usa o único diferencial que não se copia por preço — 4 tecnologias, todos os fototipos —, tirando ele do selo de rodapé e colocando no centro da peça.
+
+⚠️ Gate da RT com 4 itens listados no arquivo. A peça não afirma que pode nem que não pode: joga a decisão pra avaliação.
+**Pacote de setembro — sem urgência, por decisão de PH.** O pacote de promoções ainda não chegou e PH definiu no mesmo dia: *"a gente pode colocar depois as promoções."* O feed abre setembro em pilar de valor, sem preço. Nesta conta isso é vantagem, não buraco — o problema histórico dela era ~100% de venda no feed, então algumas semanas de P1/P2/P3 corrigem o mix que a estratégia do mês pediu. O gate da RT segue aberto e continua valendo pra quando o pacote vier.
+
+---
+
+## 2026-08-27 — Fecho do arco do ATA: o lembrete de sexta
+
+[Peça escrita](conteudo/posts/2026-08-28-ata-ultimo-fim-de-semana.md), cumprindo a decisão registrada em 24/08: sexta é **lembrete de último dia, arte curta**, não uma terceira peça de oferta com estrutura nova.
+
+**A diferença entre as duas peças:** a de 24/08 argumenta (dor → tempo → preço, legenda longa); esta não reargumenta nada, porque quem converte agora já leu. É relógio — uma frase, o prazo, o caminho. Fundo invertido em relação à anterior (creme com texto teal) pra as duas não lerem como a mesma arte repostada em cinco dias, que é o vício que o mês veio corrigir.
+
+**Data ancorada:** a condição vale "para Agosto 2026", então o último dia é **31/08, segunda-feira**. A arte fala em "segunda-feira" em vez de contar dias — assim não envelhece errado se a publicação escorregar. A contagem exata fica nos stories de sábado e domingo.
+
+🔴 O gate da RT continua aberto. A peça não acrescenta nenhuma afirmação clínica nova — herda exatamente as travas da de 24/08, incluindo o ponto sensível de pele melanada.
+
+---
+
+## 2026-08-25 — Pedido de captação "Os quatro lasers"
+
+[Pedido escrito](conteudo/roteiros/2026-08-25-pedido-captacao-os-quatro-lasers.md) pra destravar o slot de vídeo sem depender de ninguém aparecer falando: 10 takes de aparelho, mão, ficha e sala, montados depois com trilha e headline.
+
+É a Aposta 2 da estratégia de agosto ("os 4 lasers viram a bandeira") virando imagem — até hoje o diferencial só existiu em legenda. O take 1 (os quatro aparelhos num plano só) é o que carrega a peça, e o vídeo não estampa preço nenhum, cumprindo o movimento de sair do panfleto pro editorial.
+
+**Nenhum take de injetável** — a peça fica fora do gate da RT de propósito. Zero rosto de cliente: a pele que aparece no take da ponteira é de alguém da equipe, com autorização. 🔴 Segue pendente qual dos quatro WhatsApps entra no CTA.
+
+---
+
+## 2026-08-24 (2) — PH reprovou a v1 por genérica: peça reescrita na dor + urgência
+
+PH: *"é muito genérico, podemos tocar mais na dor do nosso lead que precisa desse procedimento e gerar a urgência de que os dias estão acabando para resolver [o problema]."*
+
+**O que mudou na v2** ([conteudo/posts/2026-08-24-ata-ultima-semana-650.md](conteudo/posts/2026-08-24-ata-ultima-semana-650.md)):
+- **Ordem de leitura da arte invertida — dor → tempo → preço**, com a dor como maior elemento. Antes o preço dominava.
+- **Dor concreta no lugar da categoria:** abre em "você já sabe de cor onde passar a base pra cobrir — faz isso todo dia, há anos", com os gestos reais de quem convive (o lado bom na foto, a luz do banheiro, os clareadores de farmácia que não resolveram). Não é mais "sofre com manchas?".
+- **Urgência reposicionada:** deixou de ser só "a promoção acaba" e virou "o tempo de resolver isso está acabando" — a janela pra começar dentro de agosto, sempre ancorada na data absoluta de 31/08.
+- Contagem de dias saiu da arte e foi pros stories, pra a peça não ficar errada se a publicação escorregar de data.
+
+⚠️ **Ponto comercial pra você confirmar:** a legenda diz que depois de 31/08 é "outro preço" — leitura natural de "condição de lançamento", mas ninguém confirmou o valor pós-campanha. Se a cliente pretende prorrogar, essa linha sai (peça que promete fim e não cumpre queima a urgência das próximas).
+
+O gate da RT segue igual, com um item novo: a frase "dá pra parar de cobrir e começar a tratar" é a mais próxima de promessa de resultado da peça.
+
+---
+
+## 2026-08-24 — Peça de fechamento do ATA: 3 sessões por R$ 650, última semana
+
+PH pediu peeling de ATA **com preço e foco total em venda**. Entregue: [conteudo/posts/2026-08-24-ata-ultima-semana-650.md](conteudo/posts/2026-08-24-ata-ultima-semana-650.md) — estático do pilar Oferta, BOFU puro (não educa, assume que 27/07 e 14/08 já explicaram o problema).
+
+**Antecipei o fechamento de 28/08 pra hoje** porque a condição encerra **31/08** e só resta uma semana. ⚠️ **Decisão pra PH:** com esta peça saindo hoje, o slot de sexta 28/08 deveria virar **lembrete de último dia** (arte curta, mesma condição, sem repetir copy) em vez de uma terceira peça de oferta com estrutura nova — três peças de oferta com layout diferente em duas semanas é exatamente o vício de campanha esticada que o [PADROES §1](PADROES.md) bane. Não escrevi as duas iguais de propósito.
+
+**Ancoragem obrigatória aplicada** ([PADROES §6](PADROES.md)): o valor de mercado (protocolo avulso passa de R$ 3.000) aparece **acima e ligado** ao R$ 650 na arte — economia justificada, nunca preço baixo solto. Urgência ancorada em **data absoluta (31/08)**, nunca em "últimas vagas".
+
+**Diferença deliberada da peça de 14/08:** aquela abre pela dor e explica o protocolo; esta abre pela decisão e pela conta. Nenhuma frase repetida entre as duas.
+
+🔴 **Gate da RT segue aberto** e aqui pesa mais que na peça anterior, porque o preço é o elemento dominante da arte: preço de procedimento em feed · ancoragem nos R$ 3.000 · indicação em pele melanada · confirmação de que a avaliação é gratuita e quem realiza. Lista completa no rodapé do arquivo.
+
+---
+
+## 2026-08-18 — Sexta 21/08: peça de venda apelativa troca o carrossel de prova social planejado
+
+PH pediu peças de venda ("apelativas, não educativas") pra sexta 21/08 em vários clientes da carteira. Pra BodySkin isso esbarrava numa decisão deliberada da própria [estratégia de agosto §4](estrategia/2026-08.md): 21/08 tinha sido escolhido **de propósito** como carrossel de prova social, não venda, porque 17/08 (lançamento do ATA) e 28/08 (fechamento do ATA) já são duas peças de venda em duas semanas — uma terceira reproduziria o vício que o mês inteiro foi desenhado pra corrigir (feed ~100% venda antes da Lone entrar). Sinalizei o risco a PH antes de produzir; ele confirmou a troca mesmo assim.
+
+**Peça:** [conteudo/posts/2026-08-21-pernas-sem-esse-problema-na-rotina.md](conteudo/posts/2026-08-21-pernas-sem-esse-problema-na-rotina.md) — estático, pacote **pernas inteiras + virilha (2 sessões) + 1 área pequena, 18x R$ 109**. Ângulo é depilação a laser (não injetável — fora do gate 🔴 da RT, que segue aberto desde 06/08 sem resposta, [OQ #1](OPEN-QUESTIONS.md)). Preço só na legenda, no fecho, nunca na arte — mesma regra já aplicada às peças de laser de 05, 10 e 21/08.
+
+**O que fica pendente:** o carrossel de prova social original ("O que muda de verdade depois do laser") não foi descartado — fica pra realocar em outro slot do mês. [Estratégia §4](estrategia/2026-08.md) atualizada com a troca e a justificativa revertida documentada.
+
+---
+
 ## 2026-08-10 (2) — Peça de sexta 14/08 (ATA) reescrita: PH pediu indicação direta + preço
 
 PH abriu a peça de 14/08 no editor e pediu explicitamente: "tem que falar que o peeling de ATA resolve isso e tem na BodySkin por tantos reais". Antes de reescrever, perguntei se era essa peça específica que devia virar oferta direta (confirmado por PH) e reescrevi [conteudo/posts/2026-08-14-o-que-o-ata-resolve.md](conteudo/posts/2026-08-14-o-que-o-ata-resolve.md) — de peça puramente educativa (sem preço, sem indicação direta) pra peça combinada educativo+oferta: agora afirma que o ATA resolve as três queixas (mancha, textura irregular, marca de acne) e informa o preço (R$ 650, 3 sessões), ancorado contra o valor de mercado (~R$ 3.000) por [PADROES §6](PADROES.md).
@@ -71,7 +411,7 @@ PH pediu a peça de sexta-feira 07/08. O calendário de agosto já mapeava esse 
 
 Ação da agência: homenagem simples de Dia dos Pais publicada no dia exato (domingo, 09/08) em vários clientes da carteira. Peça avulsa, fora do calendário fechado de agosto e 100% emocional — sem preço, sem CTA de avaliação e sem citar nenhum procedimento, o que a deixa fora do gate da RT ([PADROES §2](PADROES.md)) por não fazer nenhuma afirmação clínica.
 
-**Ângulo:** o pai que cuida da agenda, da saúde e do bem-estar de todo mundo em casa e quase nunca sobra tempo pra cuidar de si mesmo — conecta com o recorte "para eles" (masculino) já registrado como pilar subaproveitado no [context.md](context.md), mas sem empurrar a oferta que já está reservada pra peça 3 (07/08, "Para eles"). Entregue em [conteudo/posts/2026-08-09-feliz-dia-dos-pais.md](conteudo/posts/2026-08-09-feliz-dia-dos-pais.md).
+**Ângulo:** o pai que cuida da agenda, da saúde e do bem-estar de todo mundo em casa e quase nunca sobra tempo pra cuidar de si mesmo — conecta com o recorte "para eles" (masculino) já registrado como pilar subaproveitado no [context.md](context.md), mas sem empurrar a oferta que já está reservada pra peça 3 (07/08, "Para eles"). Entregue em conteudo/posts/2026-08-09-feliz-dia-dos-pais.md (peça removida na limpeza de 2026-08-24).
 
 ---
 
