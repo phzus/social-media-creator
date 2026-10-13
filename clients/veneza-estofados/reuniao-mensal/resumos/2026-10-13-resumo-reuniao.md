@@ -45,10 +45,10 @@ Segue sem solução. Lucas e Rafael não têm afinidade com stories. Mateus aval
 | **Nova Iguaçu** | Fábrica e loja lado a lado, mesmo endereço | Outras regiões do Rio, com venda também por **marketplace** |
 | **Unamar** | Loja em fase final de obra (galpão) | Sem data de abertura |
 
-**Instagram unificado — aprovado.** Mateus gostou: o catálogo e os valores são os mesmos nas duas unidades.
+**Identidade visual unificada — aprovada.** São **dois perfis ativos**, um por unidade: **@venezaestofados_araruama** (Araruama) e **@venezaestofados** (Nova Iguaçu), com a mesma identidade visual. Mateus gostou de manter assim: o catálogo e os valores são os mesmos nas duas unidades. *(Correção de PH em 13/10: a primeira versão deste resumo dizia que os perfis tinham virado um só — não viraram.)*
 
 **Regra que sai daqui:**
-- **Estático é unificado** (serve às duas unidades).
+- **Estático é unificado:** a mesma arte serve aos dois perfis.
 - **Vídeo é por unidade** — as áreas de entrega são diferentes. "Daqui para cá, de lá para lá."
 
 **Quem grava:**
@@ -101,7 +101,7 @@ Carlos apresentou o que a carteira está rodando (Esquenta Black, Halloween). **
 | Lone | Levar ao time de tráfego a melhora de conversão e gerar variações |
 | Lone | Montar a campanha de Esquenta Black com identidade visual própria |
 | Lone | Começar a desenvolver a Black Friday desde já |
-| Lone | Manter peso de preço no feed · vídeo por unidade · estático unificado |
+| Lone | Manter peso de preço no feed · vídeo por unidade, cada um no perfil da sua unidade · estático igual nos dois perfis |
 | Lone | Planejar vídeos de fábrica e falar com Roberto sobre gravar em Araruama |
 | Lone | Enviar roteiros de Nova Iguaçu via Mateus para o Vitor |
 | Lone | Produzir a peça dos combos quando os dados chegarem |
@@ -115,7 +115,7 @@ Carlos apresentou o que a carteira está rodando (Esquenta Black, Halloween). **
 
 ## O que esta reunião NÃO tratou (continua aberto)
 
-- Telefone na arte — e agora, com perfil unificado, **qual número entra no estático que serve às duas unidades**.
+- Telefone na arte — e agora, com a mesma arte nos dois perfis, **qual WhatsApp vai na assinatura de cada perfil** (o de Nova Iguaçu não está registrado).
 - Operação de entrega / capacidade de produção, que fica mais sensível com Black Friday.
 - Frequência exata do feirão (todo sábado?).
 - Fichas técnicas do mix ampliado.

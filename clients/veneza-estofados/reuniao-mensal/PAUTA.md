@@ -13,7 +13,7 @@
 
 | # | Pergunta | Por que importa (o que destrava) |
 |---|---|---|
-| 1 | **No estático unificado, qual WhatsApp entra?** Um número só, ou o de Araruama e o de Nova Iguaçu? | O perfil agora atende as duas unidades e o estático é o mesmo pras duas. Com um número só, quem é do Rio cai no atendimento de Araruama (que não entrega lá). É a dúvida que define a assinatura de toda peça. |
+| 1 | **Qual é o WhatsApp de Nova Iguaçu, e o estático sai com o número de cada unidade?** | A mesma arte vai pros dois perfis (@venezaestofados_araruama e @venezaestofados). Se a assinatura levar o número de Araruama nos dois, quem é do Rio cai num atendimento que não entrega lá. Só temos registrado o (22) 98811-4216. |
 | 2 | **Quanto a fábrica consegue produzir por semana em novembro sem estourar o prazo?** | Black Friday aumenta pedido. A maior queixa da marca é atraso de entrega — se a produção não acompanhar, a reputação piora por causa da campanha. Se a resposta for baixa, a campanha empurra o que já está pronto na loja. |
 | 3 | **O prazo de 7 dias úteis vale pra Nova Iguaçu também?** | Só temos o prazo de Araruama confirmado. Vídeo de lá não pode citar prazo até isso fechar. |
 | 4 | **Unamar já tem data de abertura?** | Inauguração precisa de pelo menos 2 semanas de antecipação no feed. Se cair perto de BF ou da temporada, muda o calendário de novembro. |
@@ -42,7 +42,7 @@
 - [ ] Roteiros de fábrica: um pra Araruama (Roberto grava) e um pra Nova Iguaçu (via Mateus → Vitor).
 - [ ] Carlos: falar com Roberto sobre a disponibilidade de gravação em Araruama.
 - [ ] Repassar ao time de tráfego a melhora de conversão (Carlos).
-- [ ] Atualizar handle/escopo do perfil unificado nos docs (o BRIEFING ainda diz que Nova Iguaçu tem perfil próprio não gerido pela Lone).
+- [ ] Gerar cada estático em duas versões de assinatura (@ + WhatsApp de cada unidade), assim que o número de Nova Iguaçu chegar.
 - [ ] Peça dos combos — pronta pra sair assim que os dados chegarem.
 
 **Cobrar do cliente (não esperar a próxima reunião):**
@@ -60,7 +60,7 @@
 
 | Data | Resumo |
 |---|---|
-| 2026-10-13 | [Mês recorde e plano de Black Friday](resumos/2026-10-13-resumo-reuniao.md) — Instagram unificado aprovado (estático unificado, vídeo por unidade) · conteúdo de fábrica nas duas unidades · Esquenta Black com identidade própria · Gabriela quase certa pra novembro · Carlos conduziu |
+| 2026-10-13 | [Mês recorde e plano de Black Friday](resumos/2026-10-13-resumo-reuniao.md) — identidade visual unificada nos dois perfis (estático igual nos dois, vídeo por unidade) · conteúdo de fábrica nas duas unidades · Esquenta Black com identidade própria · Gabriela quase certa pra novembro · Carlos conduziu |
 | 2026-09-03 | Sem resumo registrado. Pauta em [estrategia/2026-09-pauta-reuniao.md](../estrategia/2026-09-pauta-reuniao.md). Saiu daqui o feirão recorrente. |
 
 ---

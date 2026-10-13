@@ -22,8 +22,8 @@ Pendências herdadas da "Fase 0 — Destravar" e do §12 do [documento-fonte](re
 
 **Novas dúvidas que a reunião abriu:**
 
-23. 🔴 **Qual WhatsApp entra no estático unificado?** Com o perfil servindo às duas unidades, um número só manda o cliente do Rio pro atendimento de Araruama. Afeta a assinatura de toda peça ([PADROES §4 e §15](PADROES.md)). Liga com a #16 e a #3 do bloco de 06/10.
-24. 🟡 **Handle e escopo do perfil unificado.** O [BRIEFING](BRIEFING.md) diz que Nova Iguaçu tem perfil próprio não gerido pela Lone, e o context fala em canal único @venezaestofados_araruama. Na reunião, Carlos diz que "a gente já fez as mudanças" e o perfil está unificado. Confirmar com PH qual @ está valendo e se o de Nova Iguaçu foi desativado ou segue paralelo.
+23. 🔴 **WhatsApp de Nova Iguaçu.** A mesma arte de estático vai pros dois perfis; a assinatura precisa do número de cada unidade, e só o de Araruama ((22) 98811-4216) está registrado. Liga com a #16 e a #3 do bloco de 06/10.
+24. ~~Handle e escopo do perfil unificado~~ ✅ **Resolvida por PH (2026-10-13):** não unificaram. São dois perfis ativos com a mesma identidade visual — **@venezaestofados_araruama** (Araruama) e **@venezaestofados** (Nova Iguaçu). "Unificado" na reunião se refere à identidade e ao estático, não ao perfil.
 25. 🟡 **Prazo de entrega de Nova Iguaçu.** Os 7 dias úteis confirmados são de Araruama. Vídeo de Nova Iguaçu não cita prazo até confirmar.
 26. 🟡 **Endereço e horário de Nova Iguaçu.** O documento-fonte tem R. Inês, 216 — Vila Santo Antônio. Conferir antes de usar em vídeo da unidade.
 27. 🟡 **Capacidade de produção pra Black Friday** — sem estourar o prazo. Pendente desde a pauta de setembro e ainda mais sensível agora.
@@ -33,7 +33,7 @@ Pendências herdadas da "Fase 0 — Destravar" e do §12 do [documento-fonte](re
 
 **Resolvidas nesta reunião:**
 - ~~O material do cliente segue chegando?~~ (PAUTA de 18/09, #1) → Sim, e com fluxo definido: em Nova Iguaçu o Vitor grava a partir de roteiro (Lone → Mateus → Vitor); em Araruama, gravação na fábrica com Roberto.
-- ~~Perfil unificado ou separado por unidade?~~ → Unificado. Estático serve às duas unidades; vídeo é por unidade ([PADROES §15](PADROES.md)).
+- ~~Perfil unificado ou separado por unidade?~~ → Dois perfis (@venezaestofados_araruama e @venezaestofados), mesma identidade visual. Estático igual nos dois; vídeo é por unidade, no perfil da unidade ([PADROES §15](PADROES.md)).
 - ~~Black Friday entra?~~ (pauta de 03/09) → Entra, precedida de Esquenta Black com identidade própria ([PADROES §16](PADROES.md)).
 - ~~Quem da equipe topa aparecer em vídeo?~~ (pauta de 03/09, #7) → Em Nova Iguaçu, o vendedor de lá (Mateus regravou com ele) e o Vitor. Em Araruama, os vendedores Lucas e Rafael não têm afinidade com câmera — segue sem rosto fixo; a Gabriela cobre parte disso se for contratada.
 

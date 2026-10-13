@@ -92,7 +92,7 @@ Rotacionar entre: "Chama no WhatsApp (22) 98811-4216" · "Vem sentir na loja" ·
 
 | Fato | Valor confirmado | Fonte |
 |---|---|---|
-| Handle | @venezaestofados_araruama — perfil agora **unificado** (Araruama + Nova Iguaçu); confirmar se o @ mudou | Perfil · reunião 2026-10-13 ([OQ #24](OPEN-QUESTIONS.md)) |
+| Handles | **@venezaestofados_araruama** (Araruama) · **@venezaestofados** (Nova Iguaçu) — dois perfis ativos, mesma identidade visual | PH, 2026-10-13 |
 | Unidades | Araruama (loja + fábrica) · Nova Iguaçu (fábrica + loja, mesmo endereço) · Unamar (em obra, sem data) | Reunião 2026-10-13 |
 | Vendedores Araruama | Lucas e Rafael | Reunião 2026-10-13 |
 | Endereço | Rod. Amaral Peixoto, KM 90, nº 3 — Bananeiras, Araruama/RJ | Documento-fonte |
@@ -196,9 +196,9 @@ Referências: [Espumática, fábrica e estrutura](referencias/2026-10-06-referen
 
 ---
 
-## 15. Duas unidades, um perfil — estático unificado, vídeo por unidade (reunião de 2026-10-13)
+## 15. Duas unidades, dois perfis, uma identidade — estático igual, vídeo por unidade (reunião de 2026-10-13)
 
-O Instagram é **unificado** e serve Araruama e Nova Iguaçu. Mateus aprovou porque o catálogo e os valores são os mesmos nas duas.
+São **dois perfis ativos** — **@venezaestofados_araruama** (Araruama) e **@venezaestofados** (Nova Iguaçu) — com a **mesma identidade visual**. Mateus aprovou manter assim porque o catálogo e os valores são os mesmos nas duas. Não confundir "unificado" com perfil único: o que é unificado é a identidade e o estático.
 
 | | Araruama | Nova Iguaçu |
 |---|---|---|
@@ -206,10 +206,10 @@ O Instagram é **unificado** e serve Araruama e Nova Iguaçu. Mateus aprovou por
 | Cobre | Região dos Lagos e São Gonçalo (pedidos do marketing) | Outras regiões do Rio, mais marketplace |
 | Quem grava | Roberto (fábrica) | Vitor, a partir de roteiro (Lone → Mateus → Vitor) |
 
-- **Estático é unificado.** Nada de cidade, bairro ou área de entrega na arte de estático — ela vale pras duas unidades. Preço e ficha podem entrar, porque são os mesmos.
-- **Vídeo é por unidade.** Cada vídeo é gravado numa unidade e fala só daquela: endereço, área atendida, equipe. Araruama nunca fala de entrega no Rio, Nova Iguaçu nunca fala de Região dos Lagos.
+- **Estático é o mesmo nos dois perfis.** Nada de cidade, bairro ou área de entrega na arte — ela vale pras duas unidades. Preço e ficha podem entrar, porque são os mesmos. **Só a assinatura muda:** @ e WhatsApp de cada perfil.
+- **Vídeo é por unidade, no perfil da unidade.** Cada vídeo é gravado numa unidade e fala só daquela: endereço, área atendida, equipe. Araruama nunca fala de entrega no Rio, Nova Iguaçu nunca fala de Região dos Lagos.
 - 🚫 **Prazo de entrega só em vídeo de Araruama** (7 dias úteis, confirmado). Nova Iguaçu fica sem prazo até confirmar ([OPEN-QUESTIONS #25](OPEN-QUESTIONS.md)).
-- ⚠️ **Assinatura com WhatsApp no estático:** com um número só, o cliente do Rio cai no atendimento de Araruama. Até PH definir ([OPEN-QUESTIONS #23](OPEN-QUESTIONS.md)), o número da §11 continua, mas a dúvida está aberta.
+- ⚠️ **WhatsApp de Nova Iguaçu ainda não registrado** ([OPEN-QUESTIONS #23](OPEN-QUESTIONS.md)). Até chegar, a versão do @venezaestofados não sai com o número de Araruama.
 - **Preço continua no centro do feed.** O cliente avisou que o público vai direto ao Instagram pra ver preço e nem entra no site. Autoridade (fábrica, institucional, educativo) é complemento, não substitui a ficha + preço do §8.
 - **Vídeo de fábrica é a prioridade das duas unidades.** Explica o preço: o público desconfia de móvel barato, e ver a produção responde isso. Colchão nunca aparece em vídeo de fábrica (é revenda, §8).
 
@@ -229,7 +229,7 @@ O Instagram é **unificado** e serve Araruama e Nova Iguaçu. Mateus aprovou por
 
 ## Histórico
 
-- **2026-10-13** — reunião de alinhamento ([resumo](reuniao-mensal/resumos/2026-10-13-resumo-reuniao.md)). Criadas a §15 (perfil unificado: estático serve às duas unidades, vídeo é por unidade, preço segue no centro) e a §16 (Esquenta Black com identidade própria de campanha, exceção ao §5, sem desconto inventado e com data de fim).
+- **2026-10-13** — reunião de alinhamento ([resumo](reuniao-mensal/resumos/2026-10-13-resumo-reuniao.md)). Criadas a §15 (dois perfis com a mesma identidade: estático igual nos dois com assinatura de cada unidade, vídeo por unidade, preço segue no centro) e a §16 (Esquenta Black com identidade própria de campanha, exceção ao §5, sem desconto inventado e com data de fim). Corrigida no mesmo dia por PH: os perfis não foram unificados.
 - **2026-10-07** — peça de Dia das Crianças (12/10). §5 ganha as regras de peça de data com tema infantil (sem claim de uso por criança, sem horário em feriado, sem "senta antes de levar" como giro).
 - **2026-08-10** — criado no onboarding, transcrevendo as regras do documento de diagnóstico/plano de ação que PH recebeu (Fase 1 do plano original) + a régua de copy identificada no diagnóstico de comunicação. Nenhuma regra aqui é proposta nova da Lone além da tradução operacional do documento-fonte pro formato de PADROES do projeto.
 - **2026-08-11 (1)** — corrigida a cadência de Reels (era "mín. 2/semana" no documento-fonte, PH confirmou o padrão Lone de 1 Reels/semana) e fechada a data de fundação (2011). Adicionado dado real de performance de Reels (gente em cena > still de produto).

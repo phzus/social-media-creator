@@ -6,7 +6,7 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ## 2026-10-13 — Veneza Estofados: resumo da reunião de alinhamento
 
-Reunião de 13/10 (Carlos × Mateus) registrada em [clients/veneza-estofados/reuniao-mensal/resumos/2026-10-13-resumo-reuniao.md](../clients/veneza-estofados/reuniao-mensal/resumos/2026-10-13-resumo-reuniao.md). Setembro foi o mês recorde da loja; perfil unificado aprovado (estático unificado, vídeo por unidade); Esquenta Black com identidade própria no fim de outubro e Black Friday em desenvolvimento; conteúdo de fábrica nas duas unidades. PAUTA recarregada, OPEN-QUESTIONS #17–30, context e PADROES §15–16 atualizados.
+Reunião de 13/10 (Carlos × Mateus) registrada em [clients/veneza-estofados/reuniao-mensal/resumos/2026-10-13-resumo-reuniao.md](../clients/veneza-estofados/reuniao-mensal/resumos/2026-10-13-resumo-reuniao.md). Setembro foi o mês recorde da loja; identidade unificada nos dois perfis — @venezaestofados_araruama e @venezaestofados (Nova Iguaçu), estático igual nos dois, vídeo por unidade (corrigido por PH: os perfis não foram fundidos); Esquenta Black com identidade própria no fim de outubro e Black Friday em desenvolvimento; conteúdo de fábrica nas duas unidades. PAUTA recarregada, OPEN-QUESTIONS #17–30, context e PADROES §15–16 atualizados.
 
 ---
 

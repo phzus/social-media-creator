@@ -4,21 +4,21 @@ Log datado do trabalho feito pra Veneza Estofados. Topo = mais recente. Entrada 
 
 ---
 
-## 2026-10-13 — Reunião de alinhamento: mês recorde, perfil unificado e Esquenta Black
+## 2026-10-13 — Reunião de alinhamento: mês recorde, identidade unificada nos dois perfis e Esquenta Black
 
 Carlos conduziu com Mateus (22 min). PH trouxe a transcrição e o resumo em PDF. [Resumo registrado](reuniao-mensal/resumos/2026-10-13-resumo-reuniao.md).
 
 **O que a reunião trouxe:**
 - **Setembro foi o melhor mês da loja desde a inauguração**, com mais mensagens e melhor conversão pelo WhatsApp. Números não informados.
-- **Perfil unificado aprovado** (Araruama + Nova Iguaçu). Vira regra: estático unificado, vídeo por unidade, porque as áreas de entrega são diferentes ([PADROES §15](PADROES.md)).
+- **Identidade unificada aprovada** nos dois perfis (@venezaestofados_araruama e @venezaestofados). Vira regra: estático igual nos dois com a assinatura de cada unidade, vídeo por unidade, porque as áreas de entrega são diferentes ([PADROES §15](PADROES.md)).
 - **Preço segue no centro do feed:** o público vai direto ao Instagram ver preço. Autoridade é complemento.
 - **Conteúdo de fábrica nas duas unidades** é o ângulo prioritário — explica o preço. Vitor grava Nova Iguaçu a partir de roteiro; Roberto grava Araruama.
 - **Esquenta Black** escolhido pra fim de outubro, com identidade própria de campanha (exceção ao §5) e sem desconto inventado ([PADROES §16](PADROES.md)). Black Friday começa a ser desenvolvida agora.
 - **Gabriela** quase certa pra novembro, pra conteúdo de BF.
 
-**Docs atualizados:** [PAUTA](reuniao-mensal/PAUTA.md) recarregada (7 perguntas, com o WhatsApp do estático unificado e a capacidade de produção pra BF no topo) · [OPEN-QUESTIONS](OPEN-QUESTIONS.md) #17–30 + 4 itens fechados · [context.md](context.md) (unidades, pessoas, sazonalidade, fluxo de gravação) · [PADROES §5, §11, §15, §16](PADROES.md).
+**Docs atualizados:** [PAUTA](reuniao-mensal/PAUTA.md) recarregada (7 perguntas, com o WhatsApp de Nova Iguaçu e a capacidade de produção pra BF no topo) · [OPEN-QUESTIONS](OPEN-QUESTIONS.md) #17–30 + itens fechados · [context.md](context.md) (unidades, pessoas, sazonalidade, fluxo de gravação) · [PADROES §5, §11, §15, §16](PADROES.md).
 
-**Inconsistência aberta:** o BRIEFING (agosto) diz que Nova Iguaçu tem perfil próprio não gerido pela Lone; a reunião diz que o perfil já está unificado. Falta confirmar o @ ([OQ #24](OPEN-QUESTIONS.md)).
+**Correção de PH no mesmo dia:** a primeira versão registrou que os perfis tinham virado um só. Não viraram — são dois perfis ativos com a mesma identidade visual, e @venezaestofados é Nova Iguaçu. Resumo, PAUTA, OPEN-QUESTIONS (#23, #24), PADROES §11/§15, context e índice corrigidos.
 
 ---
 
