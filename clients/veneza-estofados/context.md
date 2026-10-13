@@ -1,6 +1,6 @@
 # Social Media Context — Veneza Estofados Araruama
 
-last_updated: 2026-08-11
+last_updated: 2026-10-13
 status: 🟢 Fase 0 destravada — os 4 bloqueantes originais (prazo, telefone, fabricação×revenda, garantia) foram resolvidos por PH em 2026-08-11. Só falta a ficha técnica/preço do mix ampliado (chegando aos poucos do cliente, [OPEN-QUESTIONS #5](OPEN-QUESTIONS.md)) — não trava produção. Direção de marca (posicionamento, pilares, sistema visual) já vem proposta e detalhada pela Lone.
 
 > Fonte de verdade pra todas as skills `*-sms` quando trabalhando com a Veneza. Substitui `.agents/social-media-context-sms.md` (ver [CLAUDE.md](../../CLAUDE.md)). Regras rígidas de paleta/tipografia/estrutura vivem em [PADROES.md](PADROES.md) — este arquivo é o contexto narrativo.
@@ -11,7 +11,9 @@ status: 🟢 Fase 0 destravada — os 4 bloqueantes originais (prazo, telefone, 
 
 - **Type:** Brand (cliente da Lone Mídia).
 - **Name:** Veneza Estofados — unidade Araruama.
-- **Handle:** Instagram **@venezaestofados_araruama** (canal único gerido pela Lone; não confundir com @lojavenezaestofados e @venezaestofados, perfis da rede não geridos por nós).
+- **Handle:** Instagram **@venezaestofados_araruama** — desde a reunião de 2026-10-13 o perfil é **unificado** e serve Araruama e Nova Iguaçu (Carlos: "a gente já fez as mudanças"; Mateus aprovou). ⚠️ Confirmar se o @ mudou e o que aconteceu com @lojavenezaestofados e @venezaestofados ([OPEN-QUESTIONS #24](OPEN-QUESTIONS.md)). O BRIEFING, que é registro de agosto, ainda diz que Nova Iguaçu tem perfil próprio — vale o que está aqui.
+- **Unidades (reunião 2026-10-13):** **Araruama** — loja + fábrica perto da loja, cobre Região dos Lagos e São Gonçalo · **Nova Iguaçu** — fábrica e loja lado a lado, cobre outras regiões do Rio e vende também por marketplace · **Unamar** — loja em fase final de obra, sem data. Catálogo e preço iguais nas unidades → estático unificado, vídeo por unidade ([PADROES §15](PADROES.md)).
+- **Pessoas:** **Mateus** — contato da Veneza nas reuniões · **Lucas e Rafael** — vendedores de Araruama (sem afinidade com câmera/stories) · **Vitor** — Nova Iguaçu, grava vídeo e stories a partir de roteiro · **Roberto** — grava a fábrica de Araruama (papel a confirmar, [OQ #29](OPEN-QUESTIONS.md)) · **Gabriela** — criadora de conteúdo com público grande em Araruama, contratação quase certa pra novembro (Black Friday); formato dela é o vídeo técnico de um produto só.
 - **Role:** fábrica + loja física de estofados — **produção própria** (razão social "A.F Aguiar Fabricação de Móveis"), não é revenda de catálogo. Foco declarado: sofás retráteis/reclináveis, poltronas, camas box e bases baú, cabeceiras, colchões.
 - **Local:** Rod. Amaral Peixoto, KM 90, nº 3 — Bananeiras, Araruama/RJ. Atende Região dos Lagos (raio de tráfego proposto: 35km — Araruama, São Pedro da Aldeia, Iguaba, Arraial, Cabo Frio, Saquarema).
 - **Site:** venezaestofados.com.br (WooCommerce, com ficha técnica/cor/parcelamento na página do produto).
@@ -21,9 +23,12 @@ status: 🟢 Fase 0 destravada — os 4 bloqueantes originais (prazo, telefone, 
 
 ## Target Audience
 
+> **Reunião de 2026-10-13:** o público usa o Instagram como tabela de preço — *"a pessoa nem entra no site, vai direto no Instagram para ver preço."* Preço e catálogo seguem no centro do feed; autoridade é complemento. E preço é o motivo da viagem: uma cliente que mora ao lado da futura loja de Unamar pegou ônibus por ~1h30 até Araruama pra comprar sofá. Objeção real que vem junto: "tá barato, deve ser ruim" — a fábrica é a resposta.
+
 - Morador da **Região dos Lagos**, 25–55 anos, decidindo compra de sofá/estofado de R$ 300 a R$ 2.600.
 - **Dois perfis dentro desse público:** quem pesquisa online mas quer sentar antes de fechar (ativo real da loja física); quem já se queimou comprando móvel pela internet (o Reclame Aqui do setor inteiro mostra que isso é comum) e busca segurança de poder voltar numa loja de verdade.
 - **Sensível a:** prova concreta (ficha técnica real, não adjetivo), poder testar o produto fisicamente, atendimento de gente da região — não de SAC. Reputação online pesa na decisão: quem vai gastar R$1.500+ pesquisa o nome da loja antes de comprar.
+- **Sazonalidade do nicho (cliente, 2026-10-13):** outubro, novembro e dezembro são os melhores meses, com pico em novembro e dezembro. Black Friday é a data forte ("a chave vira de forma surreal") — Esquenta Black no fim de outubro, BF em 27/11 ([PADROES §16](PADROES.md)).
 - **Sazonalidade real do público:** Araruama é cidade de veraneio — nov–fev tem gente mobiliando casa de temporada (produto que aguenta maresia/areia); mar–jun tem reforma antes da família chegar no fim de ano.
 
 ### Onde estão
@@ -62,6 +67,10 @@ Direto, palpável, número que o cliente reconhece. Todo post de produto mira ne
 1. **Fábrica** — produção própria, não revenda. Espuma D28, eucalipto reflorestado, molas bonnel, mecanismo retrátil sendo montado/testado. Argumento que a Unity usa e a Veneza tem de graça e não usa.
 2. **Loja física** — Amaral Peixoto KM 90. Sentar antes de comprar, ver cor real do veludo, falar com gente da região. O que nenhum concorrente só-Instagram replica.
 3. **Ficha aberta** — medida, espuma, estrutura, tecido, preço sempre visíveis. Já é o maior acerto do feed atual — falta virar regra pra todo post, não só pro post do Thaisa.
+
+**Formatos novos (PH, 2026-10-06):** **vitrine de produto sem preço** (modelo + medida + headline de valor + CTA de visita, alternando com a ficha + preço) e **institucional simplificado** (frase forte + fato concreto + foto real, numa arte só). Regras em [PADROES §13 e §14](PADROES.md), referências em [referencias/2026-10-06](referencias/2026-10-06-referencias-visuais-produto-e-institucional.md).
+
+**Mecânica fixa — Sábado de Feirão:** o Mega Feirão de Fábrica é **recorrente** (PH, 2026-09-03). Ocupa o slot de produto direto da semana e roda em três canais na mesma ordem toda semana (feed quinta/sexta, transmissão de WhatsApp na sexta, stories no sábado de manhã). Regras em [PADROES §12](PADROES.md).
 
 **Rotação operacional por semana** (3 posts/semana — 2 estáticos + 1 Reels, padrão Lone; confirmado por PH em 2026-08-11, substitui a cadência mais pesada do documento-fonte): 1 produto direto (vender, ficha+preço) · 1 prova (loja/fábrica/entrega/cliente — pilar **inexistente hoje**, 0 em 12 posts analisados) · 1 educativo (atrair quem pesquisa).
 
@@ -116,7 +125,9 @@ Direto, palpável, número que o cliente reconhece. Todo post de produto mira ne
 - **Plataforma:** Instagram (@venezaestofados_araruama), canal único hoje.
 - **Cadência confirmada por PH (2026-08-11):** 3 posts/semana — 2 estáticos + 1 Reels, padrão Lone. Substitui a proposta mais pesada do documento-fonte (stories diários + mín. 2 Reels/semana) — essa não vale.
 - **Formato:** perfil hoje é quase 100% estático/carrossel (1 único Reels em 12 posts, escuro/desfocado) — Reels é a prioridade de virada, é o único formato que hoje alcança quem não segue o perfil.
-- **Material:** cliente tem banco próprio de fotos/vídeos (fábrica + processo). A Lone não faz captação — usa o que o cliente fornece.
+- **Material:** cliente tem banco próprio de fotos/vídeos (fábrica + processo). **Fluxo de gravação (reunião 2026-10-13):** Nova Iguaçu → Lone manda roteiro pra Mateus, que repassa ao Vitor, e o material volta gravado · Araruama → Roberto grava na fábrica (agenda a checar). Crítica direta nos dois sentidos foi endossada por Mateus: se o material gravado não ficou bom, a Lone fala.
+- **Resultado (reunião 2026-10-13):** setembro foi o melhor mês da loja desde a inauguração; mais mensagens e melhor conversão pelo WhatsApp (antes só fechava na loja). Fechar pelo WhatsApp ainda é difícil. Números não informados.
+- **Stories:** seguem sem dono — os vendedores não têm afinidade; Mateus avalia treinamento básico.
 - **Métricas a reportar (do documento-fonte §11):** alcance de não-seguidores, conversas iniciadas no WhatsApp, cliques perfil→WhatsApp, avaliações no Google (nº e nota), custo por conversa (se houver tráfego pago), rotas traçadas até a loja no Google Meu Negócio.
 - **Janela de briefing mensal:** dias 22–25 do mês anterior (padrão Lone), a confirmar se aplica aqui.
 
@@ -138,3 +149,5 @@ Direto, palpável, número que o cliente reconhece. Todo post de produto mira ne
 - **2026-08-10** — v1.0 criado no onboarding, a partir do briefing estratégico completo que PH recebeu (documento pronto da Lone, com diagnóstico + plano de ação) e do questionário respondido pelo cliente no mesmo dia. Diferente de um onboarding do zero, aqui a análise e o posicionamento já vêm propostos e detalhados — o trabalho da Lone é registrar, cruzar com as respostas do cliente (que já resolveram a pendência de material e ampliaram o mix de produto) e destravar a Fase 0 antes de produzir.
 - **2026-08-11 (1)** — PH respondeu as pendências importantes/desejáveis: data de fundação (2011), cadência real (3 posts/semana — 2 estáticos + 1 Reels, corrigindo a proposta mais pesada do documento-fonte), acesso ao Google Meu Negócio, e anexou bio/destaques/prints (incluindo views reais dos Reels da própria conta).
 - **2026-08-11 (2)** — PH resolveu os 4 bloqueantes originais: prazo de entrega (7 dias, confirma sem auditar — "somos apenas prestadores de serviço"), telefone oficial ((22) 98811-4216), fabricação × revenda (só colchão é revenda) e garantia/troca/pagamento na entrega (virou regra permanente de nunca mencionar, não pendência). Também resolveu a #8 (prova social via avaliações do Google Maps, sem precisar de autorização nova pra depoimento filmado). **Fase 0 destravada** — só falta a #5 (ficha técnica/preço do mix ampliado), que chega aos poucos do cliente e não trava produção.
+- **2026-10-13** — reunião de alinhamento ([resumo](reuniao-mensal/resumos/2026-10-13-resumo-reuniao.md)): perfil unificado (estático unificado, vídeo por unidade), estrutura das unidades e pessoas, preço no centro do feed, sazonalidade out–dez, Esquenta Black + Black Friday, Gabriela quase certa pra novembro.
+- **2026-10-06** — PH trouxe três referências visuais/de copy e criou dois formatos: vitrine de produto sem preço e institucional simplificado ([PADROES §13-14](PADROES.md)).

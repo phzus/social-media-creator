@@ -46,7 +46,12 @@ Hoje a logo aparece em 1 de 12 posts. **Logo + @ + WhatsApp em todo post, mesmo 
 
 ## 5. Datas comemorativas — tema muda, sistema não
 
-Hoje datas comemorativas (Namorados, Dia das Mães) saem inteiras do sistema visual — sem verde, sem logo, sem a tipografia da marca, "poderiam ser de qualquer loja do país". **A partir de agora: o tema muda, a paleta e a tipografia da marca não.**
+Hoje datas comemorativas (Namorados, Dia das Mães) saem inteiras do sistema visual — sem verde, sem logo, sem a tipografia da marca, "poderiam ser de qualquer loja do país". **A partir de agora: o tema muda, a paleta e a tipografia da marca não.** Exceção: campanha comercial com começo e fim (Esquenta Black, Black Friday) tem identidade própria — ver §16.
+
+**Peça de data com tema infantil (Dia das Crianças, 12/10/2026):**
+- Sofá entra como **cenário da lembrança do leitor**, nunca como produto que aguenta criança. Não afirmar resistência, durabilidade nem segurança do sofá com criança, nem sugerir que criança pode pular ou brincar em cima dele.
+- Sem horário em feriado (a tabela Seg–sex/sáb não cobre) e sem telefone até PH decidir o telefone na arte ([OPEN-QUESTIONS #16](OPEN-QUESTIONS.md)).
+- Não reaproveitar "senta antes de decidir/levar" como giro: já foi o CTA de 28/09 e do feirão.
 
 ## 6. Selo de preço — um único formato
 
@@ -61,7 +66,7 @@ O triângulo/montanha verde do primeiro post do feed nunca mais reapareceu. Ou v
 **Citação literal do post que é o padrão a seguir (Sofá Thaisa):**
 > *"Sofá Thaisa 2,90m — assento de molas bonnel e pillow de 18cm em fibra siliconada. Estrutura em madeira de eucalipto, encosto com múltiplas posições. R$ 2.349,90."*
 
-Direto, palpável, número que o cliente reconhece. **Toda peça de produto mira nessa régua** — modelo, medida, ficha técnica real, preço. Nunca "seu novo sofá te espera" ou variação genérica equivalente.
+Direto, palpável, número que o cliente reconhece. **Toda peça de produto mira nessa régua** — modelo, medida, ficha técnica real, preço. **Exceção (PH, 2026-10-06):** a vitrine sem preço do [§13](#13-vitrine-de-produto-sem-preço--formato-novo-ph-2026-10-06) mantém modelo e medida, tira o preço e alterna com esta régua. Nunca "seu novo sofá te espera" ou variação genérica equivalente.
 
 **Slogan do cliente**, usar como ativo real quando fizer sentido: *"Conforto e qualidade direto da fábrica."*
 
@@ -87,7 +92,9 @@ Rotacionar entre: "Chama no WhatsApp (22) 98811-4216" · "Vem sentir na loja" ·
 
 | Fato | Valor confirmado | Fonte |
 |---|---|---|
-| Handle | @venezaestofados_araruama | Perfil |
+| Handle | @venezaestofados_araruama — perfil agora **unificado** (Araruama + Nova Iguaçu); confirmar se o @ mudou | Perfil · reunião 2026-10-13 ([OQ #24](OPEN-QUESTIONS.md)) |
+| Unidades | Araruama (loja + fábrica) · Nova Iguaçu (fábrica + loja, mesmo endereço) · Unamar (em obra, sem data) | Reunião 2026-10-13 |
+| Vendedores Araruama | Lucas e Rafael | Reunião 2026-10-13 |
 | Endereço | Rod. Amaral Peixoto, KM 90, nº 3 — Bananeiras, Araruama/RJ | Documento-fonte |
 | Horário | Seg-sex 8h-18h · sáb 8h-12h | Documento-fonte |
 | WhatsApp em uso nas artes | (22) 98811-4216 | Documento-fonte |
@@ -114,10 +121,118 @@ Rotacionar entre: "Chama no WhatsApp (22) 98811-4216" · "Vem sentir na loja" ·
 | Prova social | Usar avaliações reais do Google Maps | PH, 2026-08-11 |
 | Ficha técnica/preço — poltrona, cama box/base baú, cabeceira, colchão | **Ainda não enviado** — cliente vai mandando aos poucos | — ver [OPEN-QUESTIONS #5](OPEN-QUESTIONS.md) |
 
+## 12. Sábado de Feirão — mecânica recorrente
+
+**Confirmado por PH em 2026-09-03: o Mega Feirão de Fábrica é recorrente**, não evento avulso. Isso muda o tratamento: deixa de ser aviso pontual e vira agenda da marca.
+
+- **Ocupa o slot de produto direto** da rotação semanal (§9). Os outros dois posts da semana continuam prova e educativo — feirão em todos os slots devolve a conta ao feed de oferta genérica que o diagnóstico apontou.
+- **Arte reconhecível e igual toda semana.** Muda a foto e a headline; tarja, bloco de horário e assinatura ficam no lugar. Layout diferente a cada sábado não constrói hábito.
+- **Horário é 8h às 12h** — a loja fecha ao meio-dia, e é daí que sai a urgência da peça. Não inventar escassez de estoque.
+- **Sem preço e sem quantidade na arte** (decisão do cliente).
+- **CTA único: ir à loja.** Não WhatsApp.
+- ⚠️ **"Todo sábado" só pode ser afirmado depois que a frequência exata for confirmada.** Até lá, a copy usa "neste sábado". Se um sábado passar sem feirão depois de a marca prometer semanalidade, o público cobra.
+
+Peça de feed recorrente: [conteudo/posts/2026-09-sabado-de-feirao-feed.md](conteudo/posts/2026-09-sabado-de-feirao-feed.md) · peça de WhatsApp: [conteudo/posts/2026-08-26-mega-feirao-fabrica-lista-transmissao-whatsapp.md](conteudo/posts/2026-08-26-mega-feirao-fabrica-lista-transmissao-whatsapp.md).
+
+---
+
+## 13. Vitrine de produto sem preço — formato novo (PH, 2026-10-06)
+
+Referência: [Lojas Móbile](referencias/2026-10-06-referencias-visuais-produto-e-institucional.md#ref-3--lojas-móbile--não-pague-mais-caro--formato-vitrine-de-produto-sem-preço). Apresentação de produto com **nome + especificação, sem preço**, e headline/copy que dão valor.
+
+**Quando usar:** no slot de **produto direto**, **alternando** com o formato ficha + preço da régua do §8 — não substitui. A ficha com preço é o maior acerto do feed segundo o diagnóstico, então a vitrine entra quando o objetivo é desejo + visita à loja. Serve também pra produto do mix ampliado cujo preço ainda não chegou (poltrona, cama box/base baú, cabeceira, [OPEN-QUESTIONS #5](OPEN-QUESTIONS.md)): a vitrine destrava esses itens sem esperar a tabela.
+
+**Estrutura da arte (de cima pra baixo):**
+1. Logo + @venezaestofados_araruama no topo, centralizados.
+2. **Headline** em 2 linhas, sans bold condensada, caixa alta, peso máximo (§2).
+3. **Produto em PNG recortado com sombra**, grande, ocupando o centro (§3).
+4. **Linha do produto:** nome do modelo + medida, **sempre** (ex.: "Sofá Athenas 2,70m"). No máximo um item de ficha a mais, se confirmado (D28, eucalipto, retrátil).
+5. **CTA de visita** no rodapé, com a palavra de ação em negrito ("Venha **conferir de perto**", "Vem **sentir na loja**").
+6. Assinatura com WhatsApp no canto de sempre (§4).
+
+**Fundo:** verde escuro `#006B3F` ou creme, com **marca-d'água discreta** atrás do produto, nunca cor chapada pura. 🟡 Proposta pra PH: usar o triângulo/montanha verde do primeiro post como essa marca-d'água fixa, o que resolve o elemento órfão do §7.
+
+**Regras de copy:**
+- A headline pode ser de desejo, mas **a concretude vem da linha do produto**: modelo e medida sempre visíveis. Headline de desejo sem modelo e medida cai no vício do §8 ("seu novo sofá te espera").
+- 🚫 Sem preço, sem "a partir de", sem selo de preço, sem parcelamento.
+- 🚫 "Campeão de vendas" / "mais vendido" só no modelo que o cliente apontar como o mais vendido. Sem essa informação, o CTA fica só no "venha conferir de perto".
+- Variar a headline entre vitrines; a estrutura fica igual, a frase muda.
+
+**Exemplo (de PH):**
+> **Headline:** O conforto que você precisa com a elegância que você quer
+> **Produto:** Sofá Athenas 2,70m
+> **CTA:** Venha conferir de perto nosso campeão de vendas
+
+**Outras headlines no mesmo molde** (pra rodar sem repetir): "Conforto e qualidade direto da fábrica" (slogan do cliente, ativo real do §8) · "Senta antes de decidir: ele está na loja do KM 90".
+
+## 14. Institucional simplificado — formato novo (PH, 2026-10-06)
+
+Referências: [Espumática, fábrica e estrutura](referencias/2026-10-06-referencias-visuais-produto-e-institucional.md#ref-1--espumática--o-conforto-começa-na-fábrica-e-termina-na-sua-casa--institucional-simplificado). Institucional mais simples, numa arte só, com o mesmo impacto: **uma frase forte + um fato concreto + uma foto**.
+
+**Quando usar:** slot de **prova/institucional** (pilares Fábrica e Loja física). Quando a mensagem cabe numa frase, entra no lugar do carrossel longo.
+
+**Estrutura da arte:**
+1. **Foto real** de ambiente, da loja ou da fábrica, do banco do cliente (§3). 🚫 Nunca imagem de IA de pessoa ou sala, que é o ponto fraco das duas referências.
+2. **Painel ou caixa atrás do texto**: verde escuro translúcido (ref. 1) ou caixa de cor atrás de cada linha (ref. 2). Nunca por cima do sofá (§3).
+3. **Headline** em 2–3 linhas, caixa alta, com **uma** expressão destacada: pílula creme ou caixa no acento já em uso na conta (o verde-limão do feirão, §1 e §12). Uma expressão só.
+4. **Subtítulo** de 1–2 linhas com o **fato concreto** que sustenta a headline (KM 90, eucalipto, D28, fábrica e loja no mesmo endereço).
+5. **CTA em pílula** no rodapé, opcional, sempre concreto ("Vem sentir na loja", "Chama no WhatsApp"). 🚫 "Descubra por quê", "Compre com critério", "Saiba mais".
+6. Logo + @ + WhatsApp (§4).
+
+**Regras de copy:**
+- Uma ideia por arte. Frase da origem pro que a pessoa ganha.
+- 🚫 Não terminar em entrega ("…termina na sua casa", "chega até você"): puxa o assunto prazo, ponto fraco da reputação (§8).
+- 🚫 Não copiar frase das referências ("o conforto começa na fábrica", "conforto começa na estrutura" são da Espumática).
+- Serifada itálica fica fora (exclusiva de datas, §2).
+
+**Exemplos por pilar:**
+| Pilar | Headline (destaque em negrito) | Subtítulo |
+|---|---|---|
+| Fábrica | O sofá que você leva começa **aqui dentro** | Fábrica própria no KM 90 da Amaral Peixoto, em Araruama. |
+| Estrutura | O conforto do sofá se decide **por dentro** | Estrutura em eucalipto reflorestado e espuma D28 nos sofás da nossa fábrica. |
+| Loja física | Antes de levar, **senta nele aqui** | Fábrica e loja no mesmo endereço: Rod. Amaral Peixoto, KM 90, Bananeiras. |
+
+⚠️ O pilar Loja física já rodou em 28/09 ("mesmo endereço"), e o pilar Estrutura encosta em 18/09 ("o que a foto não mostra"). Conferir o grid antes de usar esses dois exemplos em sequência.
+
+---
+
+## 15. Duas unidades, um perfil — estático unificado, vídeo por unidade (reunião de 2026-10-13)
+
+O Instagram é **unificado** e serve Araruama e Nova Iguaçu. Mateus aprovou porque o catálogo e os valores são os mesmos nas duas.
+
+| | Araruama | Nova Iguaçu |
+|---|---|---|
+| O que é | Loja + fábrica perto da loja | Fábrica e loja lado a lado |
+| Cobre | Região dos Lagos e São Gonçalo (pedidos do marketing) | Outras regiões do Rio, mais marketplace |
+| Quem grava | Roberto (fábrica) | Vitor, a partir de roteiro (Lone → Mateus → Vitor) |
+
+- **Estático é unificado.** Nada de cidade, bairro ou área de entrega na arte de estático — ela vale pras duas unidades. Preço e ficha podem entrar, porque são os mesmos.
+- **Vídeo é por unidade.** Cada vídeo é gravado numa unidade e fala só daquela: endereço, área atendida, equipe. Araruama nunca fala de entrega no Rio, Nova Iguaçu nunca fala de Região dos Lagos.
+- 🚫 **Prazo de entrega só em vídeo de Araruama** (7 dias úteis, confirmado). Nova Iguaçu fica sem prazo até confirmar ([OPEN-QUESTIONS #25](OPEN-QUESTIONS.md)).
+- ⚠️ **Assinatura com WhatsApp no estático:** com um número só, o cliente do Rio cai no atendimento de Araruama. Até PH definir ([OPEN-QUESTIONS #23](OPEN-QUESTIONS.md)), o número da §11 continua, mas a dúvida está aberta.
+- **Preço continua no centro do feed.** O cliente avisou que o público vai direto ao Instagram pra ver preço e nem entra no site. Autoridade (fábrica, institucional, educativo) é complemento, não substitui a ficha + preço do §8.
+- **Vídeo de fábrica é a prioridade das duas unidades.** Explica o preço: o público desconfia de móvel barato, e ver a produção responde isso. Colchão nunca aparece em vídeo de fábrica (é revenda, §8).
+
+## 16. Esquenta Black e Black Friday — identidade de campanha (reunião de 2026-10-13)
+
+**Exceção ao §5.** Data comemorativa segue o sistema visual da marca; **campanha comercial com começo e fim ganha identidade própria.** Argumento acordado: com a identidade de sempre, o preço atrativo parece a tabela de sempre e não gera urgência.
+
+- **Mecânica:** produtos que **já têm preço muito competitivo** anunciados como itens do Esquenta Black. Não exige desconto novo. Mateus seleciona (sofás de entrada + base baú com colchão).
+- **Pode:** selo/tarja de campanha + preço vigente + "a partir de" na menor faixa.
+- 🚫 **Não pode sem dado do cliente:** "de R$ X por R$ Y", "% off", "menor preço do ano", "só hoje" ou contagem regressiva de estoque. Preço vigente não autoriza anunciar desconto.
+- 🚫 **Nenhuma peça de Esquenta ou Black Friday promete prazo ou velocidade de entrega.** Campanha de volume numa marca cuja maior queixa é atraso é exatamente onde esse risco aparece.
+- **A identidade de campanha tem data de fim.** Volta pra identidade padrão logo depois da Black Friday (27/11/2026). Se ficar no ar, vira o padrão e perde o efeito — e a conta já teve identidade dispersa no diagnóstico (§1).
+- **Logo e @ continuam** na peça de campanha (§4). A identidade muda cor de fundo, tarja e tipografia de destaque, não a assinatura.
+- Black Friday: a Lone começa a desenvolver em outubro. Se a Gabriela for contratada, ela produz o conteúdo de BF pra rodar no meio de novembro, no formato de vídeo de um produto só.
+
 ---
 
 ## Histórico
 
+- **2026-10-13** — reunião de alinhamento ([resumo](reuniao-mensal/resumos/2026-10-13-resumo-reuniao.md)). Criadas a §15 (perfil unificado: estático serve às duas unidades, vídeo é por unidade, preço segue no centro) e a §16 (Esquenta Black com identidade própria de campanha, exceção ao §5, sem desconto inventado e com data de fim).
+- **2026-10-07** — peça de Dia das Crianças (12/10). §5 ganha as regras de peça de data com tema infantil (sem claim de uso por criança, sem horário em feriado, sem "senta antes de levar" como giro).
 - **2026-08-10** — criado no onboarding, transcrevendo as regras do documento de diagnóstico/plano de ação que PH recebeu (Fase 1 do plano original) + a régua de copy identificada no diagnóstico de comunicação. Nenhuma regra aqui é proposta nova da Lone além da tradução operacional do documento-fonte pro formato de PADROES do projeto.
 - **2026-08-11 (1)** — corrigida a cadência de Reels (era "mín. 2/semana" no documento-fonte, PH confirmou o padrão Lone de 1 Reels/semana) e fechada a data de fundação (2011). Adicionado dado real de performance de Reels (gente em cena > still de produto).
+- **2026-09-03** — PH confirmou que o feirão é **recorrente**. Criada a §12 com a mecânica semanal e a peça de feed recorrente. Frequência exata (todo sábado ou com intervalo) segue a confirmar antes de a copy prometer semanalidade.
 - **2026-08-11 (2)** — os 4 bloqueantes de Fase 0 fechados por PH: prazo de entrega (7 dias, fato liberado mas sem vender velocidade), telefone oficial ((22) 98811-4216, definitivo), fabricação × revenda (só colchão é revenda) e garantia/troca/pagamento na entrega (virou regra permanente de nunca mencionar). Prova social liberada via avaliações do Google Maps.
+- **2026-10-06** — PH trouxe três referências (Lojas Móbile e duas da Espumática) e propôs dois formatos novos. Criadas a §13 (vitrine de produto sem preço, alternando com a ficha + preço do §8, e não substituindo) e a §14 (institucional simplificado: frase forte + fato concreto + foto real). Referências em [referencias/2026-10-06](referencias/2026-10-06-referencias-visuais-produto-e-institucional.md).
