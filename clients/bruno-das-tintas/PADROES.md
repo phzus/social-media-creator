@@ -4,6 +4,14 @@ Regras específicas deste cliente, herdadas do briefing estratégico de reset qu
 
 ---
 
+## 0. ⚠️ Isolamento das outras lojas de tinta da carteira (BLOQUEANTE)
+
+A Lone atende **duas lojas de tinta em Araruama** — **Bruno das Tintas** e **Araruama Tintas** — concorrentes diretas entre si ([[duas-lojas-tinta-mesma-cidade]]).
+
+**A regra:** nenhum ângulo, gancho, frase-conceito, template de arte, mecânica de promoção ou nome de campanha criado pra uma dessas contas pode ser reaproveitado, adaptado ou servir de inspiração pra outra. Cada conta tem voz, campanha e criativo próprios, mesmo quando o produto é literalmente o mesmo.
+
+**Como conferir, na prática (lição de 2026-09-22):** não basta perguntar "já existe peça do mesmo tema?". Um roteiro da Araruama Tintas passou nessa checagem e mesmo assim descreveu a cor mudando **"do dia pra noite"** — que é o ângulo inteiro de [uma peça da Bruno das Tintas de 31/08](../bruno-das-tintas/conteudo/posts/2026-08-31-a-mesma-cor-em-duas-luzes.md). **Isolamento se confere por ângulo e por frase-conceito**, não por tema nem por data.
+
 ## 1. Sistema visual — o que muda a partir de agora
 
 - **Uma logo só:** "BRUNO DAS TINTAS" com a assinatura "Qualidade e Preço Justo". A versão "BrunoTintas" (junto, sem "das") está aposentada.
@@ -61,6 +69,23 @@ Regras específicas deste cliente, herdadas do briefing estratégico de reset qu
 | **Qualyvinil Emborrachada 6 em 1** | 18L → **80 m²**, 3-4 demãos | 6 funções do fabricante: cobre fissuras, impermeabiliza, elimina infiltrações, combate fungos/mofo, **resiste à maresia**, alta refletância UV |
 | **Maza Superflex Parede** | 18kg → **até 175 m²/demão** | Veda fissuras até 0,3mm · **proteção contra maresia** · cores: Branco, Inox, Elefante, Gelo, Nanquim |
 
+## 9. ⛔ Condições comerciais — Semana do Cliente (14-19/09/2026) · **VENCIDA em 19/09/2026**
+
+> ⛔ **Esta condição não vale mais.** Fica como registro histórico e como molde de como escrever condição com data. Nenhuma peça nova usa esses percentuais. Enquanto o cliente não mandar condição nova, peça de venda desta conta sai **sem preço**.
+
+**Origem:** PH, em 2026-09-09. Registro literal em [referencias/2026-09-09-semana-do-cliente-14-a-19-09.md](referencias/2026-09-09-semana-do-cliente-14-a-19-09.md).
+
+| Forma de pagamento | Desconto | Condição |
+|---|---|---|
+| À vista | **15%** | — |
+| Crédito parcelado | **10%** | em até **6x sem juros** |
+
+**Vigência: 14/09 a 19/09/2026** — data tem que aparecer na peça (não é condição permanente). Ancorada no Dia do Cliente (15/09).
+
+- ✅ **"6x sem juros" está confirmado**, mas só **pra esta condição/período**. Não estende pro parcelamento geral em 12x, que continua sem confirmação de "sem juros" (tabela de fatos operacionais, §8).
+- ⚠️ **Não afirmar abrangência de produto ou de unidade** — não confirmado se vale pra toda a loja/mix ou se as duas unidades praticam igual. A peça comunica desconto + forma de pagamento + prazo, sem generalizar.
+- Regra de vigência data válida pra qualquer condição comercial futura: **sempre com data de início e fim na peça**, nunca "promoção" solta.
+
 ## 7. Claims proibidos até confirmação por escrito
 
 - ❌ **"Rende até 50% mais"** do Recubriplast — não consta na ficha técnica da Sinteplast. Só volta pra arte com confirmação por escrito do fabricante.
@@ -81,9 +106,16 @@ Regras específicas deste cliente, herdadas do briefing estratégico de reset qu
 | Tintometria | — | ⚠️ **Não confirmado** se a loja faz/quantas cores/cobra |
 | Horário | Seg-sex 7h30-18h · sáb 8h-14h | Fonte: diretório, **não confirmado com a loja** |
 | Site | brunotintas.com.br | Fora do ar |
+| Mix de acessórios (Iguaba) | rolos, pincéis, kits com bandeja, espátulas de aço, fita crepe, lixas, luvas e máscaras | 🟡 **Evidência fotográfica de 10/06** (Downloads do PH); **só Iguaba**, não confirmado por escrito nem pra Araruama — [OPEN-QUESTIONS #6](OPEN-QUESTIONS.md) |
 
 ---
 
 ## Histórico
 
+- **2026-10-07 (3)** — **§3, trocadilho de cor em data:** a versão **gráfica** do trocadilho (arco-íris, lápis de cor, paleta colorida "de festa" como visual de Dia das Crianças ou outra data) fica **proibida pelo mesmo motivo**. Peça de data desta conta parte de um fato de quem pinta (ex.: [régua de altura no batente, 12/10](conteudo/posts/2026-10-12-dia-das-criancas-a-regua-do-batente.md)), não de cor. Criança não aparece em quadro (sem autorização de imagem) e nenhum claim de segurança de tinta pra criança sem fonte. **Território de pintor fica reservado ao Dia do Pintor (15–17/10)**, conforme o calendário do briefing.
+- **2026-10-07 (2)** — **Formato:** PH pediu "carrossel no Bruno não" ao ver a peça de sexta 09/10, que foi refeita como estático único. **Escopo a confirmar** (só essa peça ou a conta toda?); até lá, **peça nova da conta sai em estático ou vídeo, não em carrossel**. O carrossel de 14/09 já publicado fica como está.
+- **2026-10-07** — §8 ganha o mix de acessórios de Iguaba (evidência fotográfica, só Iguaba). **Exceção ao rodapé único (§1):** peça cuja venda se apoia em fato de **uma unidade só** pode levar o rodapé só dessa unidade, desde que a exceção esteja registrada na peça (caso: peça de 09/10).
+- **2026-09-22** — criada a §0 (isolamento entre as três lojas de tinta da carteira). A regra já valia pela memória do projeto e pelo PADROES da Araruama Tintas, mas não estava escrita aqui.
+
+- **2026-09-09** — entra §9: condição comercial da Semana do Cliente (14-19/09), 15% à vista / 10% em até 6x sem juros no crédito. "6x sem juros" confirmado só pra esta condição — não muda o status do parcelamento geral em 12x (§8), que continua sem confirmação de "sem juros".
 - **2026-08-13** — criado no onboarding formal deste cliente no repositório, transcrevendo as regras do briefing estratégico de reset que PH recebeu (Lone Mídia, agosto/2026).

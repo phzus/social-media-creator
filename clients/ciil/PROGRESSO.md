@@ -4,6 +4,356 @@ Log datado do trabalho feito pra CIIL. Topo = mais recente. Entrada por bloco de
 
 ---
 
+## 2026-10-13 — Post de sexta 16/10: "Trocou o colchão, corrigiu a postura, e a dor nas costas continua te acordando de madrugada."
+
+Lote de sexta de toda a carteira. [Peça](conteudo/posts/2026-10-16-espondilite-dor-que-melhora-com-movimento.md): estático 4:5, venda, **fora da série** (sem selo, sem numeração). É o slot de conversão da semana da **Espondilite Anquilosante** (06 de 10 no calendário da temporada). Mecanismo: **objeção respondida**. A pessoa já se explicou a dor (colchão, postura, cadeira), e a peça responde com o sinal que não bate com isso: piora parada, alivia com movimento, acorda de madrugada. Fecha com reumatologia na CIIL avaliando mesmo sem diagnóstico, e o imunobiológico "quando indicado".
+
+**Por que agora:** a linha temática da semana pede que a sexta converta. Estático porque as duas sextas anteriores foram carrossel.
+
+**Descartado:** carrossel de "sinais da espondilite" (seria lista educativa e repetiria o 09/10) · ângulo de rigidez de manhã como gancho principal (perto demais da mão travada de AR, 07/09) · número de anos de atraso de diagnóstico (sem fonte nos docs).
+
+**Travas:** 🔴 retida até o OK do RT, com 9 itens no arquivo. É a **sétima peça clínica na fila**. Imunobiológico ficou condicionado ("quando é indicado"), porque na espondilite ele não é primeira linha. 🟡 A peça 06 de segunda (12/10) **não existe no repositório**. Esta foi escrita pra funcionar sozinha, mas se a 06 ainda for produzida, o gancho dela não pode repetir colchão, postura nem madrugada.
+
+---
+
+## 2026-10-07 — Dia das Crianças (segunda 12/10): "Criança que vai ao médico pergunta tudo"
+
+PH pediu artes de Dia das Crianças pra toda a carteira. [Peça](conteudo/posts/2026-10-12-dia-das-criancas-perguntas-do-tratamento.md) — estático 4:5, **fora da série** (sem selo, sem numeração). Mecanismo **(d) pergunta + giro**: a criança no médico pergunta tudo, o adulto vai ficando quieto; o giro cai na dor já documentada do público de tratamento (medo e dúvida sobre biológico) e fecha no CTA único validado em 14/09 ("a gente avalia e explica como funciona o tratamento por aqui").
+
+**Decisões:** (1) **não abre Pediatria nem vacina infantil** — Pediatria é especialidade atendida, mas o que a CIIL faz em criança segue em aberto (PAUTA #4), e a "vacinação todas as idades" vem do briefing da Cowork AI, nunca reconfirmado; criança entra só como comportamento, nunca como serviço nem imagem. (2) **Nenhuma doença nomeada,** então não toma o slot de **Espondilite Anquilosante (06 de 10)** da mesma segunda. (3) Sem via de aplicação, sem convênio, sem imunologista/alergista, sem "consultório" na copy.
+
+**Encaixe:** feed de manhã (esta) + peça 06 no horário habitual; se PH quiser um post só, a série fica com o feed e esta vai pros stories (versão 9:16 com sticker de pergunta). Peça não afirma nada clínico, então **não depende do RT** — e segura a segunda se o OK da 06 não sair (peças 01–06 seguem na fila). Prazo: brief ao designer hoje, envio ao cliente qui 08/10 até 15h (limite sex 09/10).
+
+**Checado:** CTA e termos contra [PADROES](PADROES.md); Pediatria contra [context.md](context.md); telefones só no rodapé fixo. **Não afirmado:** atendimento do WhatsApp no feriado (BRIEFING só diz seg–sex 08h–18h).
+
+---
+
+## 2026-10-05 — Pauta de PH: gatilhos da dermatite atópica (carrossel de sexta 09/10)
+
+PH sugeriu falar dos gatilhos da dermatite atópica e de como evitá-los. [Carrossel de 3 slides](conteudo/posts/2026-10-09-gatilhos-dermatite-atopica.md), no slot de **sexta 09/10**, que o mês ainda não tinha plano pra ele (outubro segue sem `estrategia/2026-10.md`).
+
+**Fora da série "Isso Tem Nome", de propósito:** a DA já teve o slot dela hoje (peça 05), e uma terceira peça da mesma doença com selo quebraria a numeração que a v2.0 construiu. Sem selo, sem "06 de 10".
+
+**"Como evitar" virou "o que dá pra ajustar".** Crise de doença crônica não se promete evitar. Quatro itens, todos de irritação da pele (banho quente, tecido que raspa, calor e suor, perfume), com verbo de redução. **Fora da peça:** alimento (dieta restritiva por conta própria é risco real), estresse e qualquer alérgeno, porque a CIIL não tem alergista e o tema desliza pra alergia a cada item. O slide 3 liga com o ângulo da conta: rotina em dia e a coceira volta, então vale a avaliação.
+
+🔴 **Retida até o OK do RT**, com 8 itens listados na peça. **É a sexta peça clínica na fila** (01 a 05 já esperam). Sugestão: levar as seis juntas ao RT.
+
+**Recomendação pro próximo ciclo:** o mesmo conteúdo em Reels com profissional de dermatologia falando, no formato do @imunovitta. Depende de ter quem grave.
+
+---
+
+## 2026-10-02 — Post de segunda 05/10: "Isso Tem Nome · 05 de 10 — Dermatite Atópica"
+
+Quinta peça da temporada, no slot que o [calendário da série](estrategia/linha-editorial-isso-tem-nome.md) já reservava pra Dermatite Atópica. [Peça](conteudo/posts/2026-10-05-isso-tem-nome-05-dermatite-atopica.md) — estático, formato de 5 blocos fixos, selo `05 de 10`. Metade da temporada.
+
+**Repescagem com eixo de sintoma trocado.** A peça de [13/07](conteudo/posts/2026-07-13-isso-tem-nome-dermatite-atopica.md) vivia da coceira que rouba o sono — ângulo duplamente queimado agora, porque já foi ao ar e porque o território de sono/cansaço acabou de ser usado na peça 04 (Lúpus, 28/09). Esta sai do **quando** (à noite) e entra no **onde**: a lesão volta sempre na mesma dobra, e quem convive reconhece o começo antes de dar pra ver. É um conhecimento que a pessoa tem do próprio corpo e nunca ouviu ninguém nomear. Nenhum dos quatro ganchos anteriores da temporada se repete (mão travada de manhã · conferir o ombro da roupa escura · pele melhora e articulação não · acordar cansado tendo dormido).
+
+**A armadilha específica desta doença, e como foi contornada.** Dermatite atópica é popularmente associada a alergia, e na vida real muita gente é acompanhada por alergista — justamente o profissional que a CIIL **não** tem ([PADROES](PADROES.md), correção do cliente em 21/08). A copy não usa "alergia", "alérgico" nem "atopia" em bloco nenhum, e não nomeia especialista — nem o dermatologista, que seria permitido. O caminho é a CIIL avaliar, liberado desde 14/09. A peça de julho carregava `#Alergologia` (removida depois) e citava "alergista-imunologista" nos itens de RT; esta nasce limpa disso. `#Imunologia` e `#PeleAtópica` também ficaram fora, pelo mesmo motivo.
+
+**Estrutura da legenda variada de propósito.** As legendas das peças 02 e 04 saíram com o mesmo encadeamento parágrafo a parágrafo. Repetir pela terceira vez seguida seria repetição de estrutura entre peças da mesma campanha — vício listado no [voice-quality-checklist](../../shared/voice-quality-checklist.md). O que precisa ficar idêntico pra série parecer série é o **esqueleto da arte** (selo, numeração, posição do gancho, posição do nome), não a prosa. Esta legenda desenvolve o "mapa do corpo" em vez de listar tentativas frustradas.
+
+**O corte "casos mais intensos" foi preservado.** Imunobiológico para DA não é primeira linha, e a ressalva já era item aberto do RT desde 13/07. Na arte o bloco 5 ficou em "tem tratamento, e ele é feito aqui na CIIL" — verdadeiro em qualquer cenário; a qualificação completa está na legenda. CTA único num caminho só (WhatsApp), sem número na copy da arte porque o rodapé fixo já carrega os das duas unidades.
+
+🔴 **Retida até o OK do RT**, com 6 itens listados no arquivo. **Já são cinco peças clínicas retidas (01 a 05)** sem fluxo de aprovação formalizado — o gargalo isolado da conta, sinalizado desde a [estratégia de setembro](estrategia/2026-09.md). Se o OK não sair, a temporada fura a cadência que ela nasceu pra corrigir.
+
+**Quatro pendências levantadas pro PH** (nenhuma trava a escrita, detalhe na peça):
+- 🟡 **Outubro não tem estratégia mensal fechada** — não existe `estrategia/2026-10.md` e a janela de briefing (22-25/09) passou. Esta peça não está solta (o calendário da temporada já fixava 05/10), mas as quartas e sextas do mês estão sem plano.
+- 🟡 **Pediatria é a frente que esta doença abriria.** DA é a mais ligada à infância entre as 10, Pediatria é uma das 3 especialidades atendidas, e público infantil nunca apareceu na conta. A peça ficou adulta de propósito, porque não está confirmado quais doenças a CIIL trata em criança.
+- 🟡 **Conferir o selo nas quatro artes publicadas** — metade da temporada é a hora de verificar se o designer aplicou numeração e selo de forma idêntica. A especificação existe desde julho, a execução nunca foi checada.
+- 🟡 **Vacinação segue fora do mix** desde setembro; outubro costuma ter multivacinação. Confirmar com o cliente antes de produzir, sem presumir campanha.
+
+**Outubro Rosa não é reaproveitado** — foi tratado na sexta 02/10, por outro ângulo e fora da série. Esta peça não toca a data.
+
+---
+
+## 2026-09-29 — Post de sexta 02/10: Outubro Rosa — "Quem passa o ano em consulta é quem mais deixa esse exame pra depois"
+
+PH pediu peça de Outubro Rosa. [Post](conteudo/posts/2026-10-02-outubro-rosa-quem-ja-se-cuida.md) — carrossel curto de 3 slides, **fora da série "Isso Tem Nome"** (sem selo, sem numeração; a série segue às segundas no calendário dela).
+
+**O recorte, e por que não é peça de laço rosa.** A CIIL não faz rastreamento de mama, então uma peça genérica de "faça seu autoexame" seria conteúdo que qualquer perfil de saúde do país publica — e que o público já viu vinte vezes antes do dia 2. O ângulo que só a CIIL tem é **o paciente dela**: quem trata doença crônica passa o ano em consulta, exame e aplicação, registra isso como "estou me cuidando", e é justamente quem empurra o rastreamento de rotina pra frente. A data entra como contexto; o assunto é a agenda de quem já convive com tratamento contínuo.
+
+**O que a peça não faz:** não descreve sintoma, não ensina autoexame, não cita estatística de mortalidade e não usa medo como gatilho ([context.md](context.md), *phrases to avoid*). Tema pesado tratado pela consequência prática.
+
+**Pendência nova gerada** (registrada em [OPEN-QUESTIONS](OPEN-QUESTIONS.md)): o context.md diz que a CIIL faz **ultrassonografia**, mas não diz de quê. **Se ela fizer ultrassom de mama, o slide 3 vira CTA de agendamento** e a peça deixa de ser relacionamento pra virar captação. Enquanto não souber, o fechamento fica na rota genérica, verdadeira em qualquer cenário.
+
+**Gate do RT:** lista de 3 itens anexada à peça, no mesmo formato das outras peças clínicas. Gate de escopo por doença não se aplica — nenhuma doença é nomeada.
+
+---
+
+## 2026-09-25 — Post de segunda 28/09: "Isso Tem Nome · 04 de 10 — Lúpus"
+
+Escrito seguindo o [calendário de setembro](estrategia/2026-09.md) (semana 5, tema Lúpus) e a [linha editorial v2.1](estrategia/linha-editorial-isso-tem-nome.md). [Peça](conteudo/posts/2026-09-28-isso-tem-nome-04-lupus.md).
+
+Quarta da série, peça nova (sem versão anterior na conta, diferente de Psoríase/Dermatite Atópica que são repescagens). Gancho no cansaço que não melhora com o sono, seguindo a direção já registrada na estratégia ("o cansaço que não passa com descanso") — variação em relação aos ganchos das 3 peças anteriores (mão travada de manhã, checar a roupa, contraste pele/articulação). Esqueleto fixo mantido (selo `04 de 10` + gancho + 3 sinais + nome + fechamento). Reumatologista nomeado (liberado, Lúpus é uma das doenças cobertas por Reumatologia). CTA único, sem separar quem tem diagnóstico de quem só reconheceu o sintoma. Sem imagem de rosto/pele afetada, sem "cura", sem autodiagnóstico, esperança antes da ressalva.
+
+🔴 **Retida até o OK do RT**, como toda peça clínica da série — mesmos 4 itens de sempre (sinais característicos, fraseado do mecanismo autoimune, verbo "controlar" nunca "curar", confirmação de nomenclatura).
+
+---
+
+## 2026-09-18 — Post de segunda 21/09: Isso Tem Nome #03 — Artrite Psoriásica
+
+Escrito antecipadamente no lote de segunda 21/09 que PH pediu pras contas com produção semanal (11 clientes + WT Shopping). [Peça](conteudo/posts/2026-09-21-isso-tem-nome-03-artrite-psoriasica.md).
+
+Terceira da série, encadeada de propósito com a peça 02 (Psoríase) pra a sequência ter progressão em vez de parecer lista solta. Esqueleto fixo mantido (selo + numeração + nome em destaque). 🔴 **Retida até o OK do RT**, como toda peça clínica.
+
+---
+
+## 2026-09-17 — Cliente confirma convênios + regra permanente "*Consulte condições" — libera o post de 18/09
+
+CIIL São Gonçalo respondeu direto no WhatsApp (repassado por PH): pode postar sobre convênios, mandou a arte interna com a lista atual (Health Med entra, não estava na lista antiga) e pediu duas coisas: incluir **OMINT Saúde** (logo já no site) e sempre levar **"*Consulte condições"** visível na arte — regra permanente, porque cobertura depende da rede do plano e nem todo convênio é aceito nas duas unidades.
+
+Isso resolve a pendência que travava o post de sexta desde 15/09 (lista de maio/2026, nunca reconfirmada, [OPEN-QUESTIONS #18](OPEN-QUESTIONS.md)). Atualizei: [PADROES.md](PADROES.md) (regra permanente + tabela de convênios confirmados), [BRIEFING.md](BRIEFING.md) (adendo, corpo original intacto), [conteudo/posts/2026-09-18-convenios-aceitos.md](conteudo/posts/2026-09-18-convenios-aceitos.md) (v2, lista nova + disclaimer), e sinalizei no post antigo de 14/08 que a lista dele está superada. Material bruto em [referencias/2026-09-17](referencias/2026-09-17-cliente-confirma-convenios-e-regra-consulte-condicoes.md).
+
+**Nova pendência aberta:** Care Plus e os reembolsos (Amil, SulAmérica, Porto Seguro) não apareceram na lista nova — não incluí nem excluí por conta própria, fica para confirmar com PH/cliente.
+
+---
+
+## 2026-09-15 — Post de sexta 18/09 escrito antecipado: "O seu plano cobre?" (reaproveita 14/08) — SEGUE BLOQUEADO
+
+PH pediu os posts de sexta 18/09 pra Atlas, Veterinária Regional, Veneza e CIIL de uma vez. [Peça escrita](conteudo/posts/2026-09-18-convenios-aceitos.md) reaproveita o carrossel de convênios de 14/08, já mapeado pra esta data no [calendário de setembro](estrategia/2026-09.md) ("O seu plano cobre? — convênios, no contexto de quem vai iniciar tratamento", fecha a Semana 3 de Psoríase). Legenda ganhou linha de abertura ancorada na série, lista e estrutura seguem iguais.
+
+🔴 **Não publicar ainda:** a lista de convênios é de maio/2026 (auditoria Cowork AI) e nunca foi reconfirmada — o próprio calendário de setembro marcou "confirmar antes de 18/09", prazo que é justamente esta data. Sem confirmação de PH com a cliente, a peça fica pronta mas travada.
+
+---
+
+## 2026-09-14 (2) — Correção de CTA na série "Isso Tem Nome": consulta na CIIL pode ser afirmada
+
+PH resolveu a pendência aberta desde 26/08: mesmo sem diagnóstico formado, a CIIL oferece consultas com profissionais capacitados pra avaliar, examinar e apresentar o diagnóstico. O CTA da série vinha separando os dois públicos — quem já tinha diagnóstico falava com a CIIL, quem só reconheceu o sintoma era mandado "procurar um especialista de fora". PH pediu ajuste: "se você já tem diagnóstico ou algum desses sintomas, fale com a nossa equipe" — CTA único, sem mandar ninguém pra fora.
+
+Corrigido nas duas peças escritas até agora: [01 — Artrite Reumatoide](conteudo/posts/2026-09-07-isso-tem-nome-01-artrite-reumatoide.md) e [02 — Psoríase](conteudo/posts/2026-09-14-isso-tem-nome-02-psoriase.md). Regra nova registrada em [PADROES.md](PADROES.md) e no checklist da [linha editorial](estrategia/linha-editorial-isso-tem-nome.md) — vale pras 8 peças restantes da temporada. [OPEN-QUESTIONS.md](OPEN-QUESTIONS.md) atualizado (era a pendência mais antiga da reunião de 26/08 ainda aberta).
+
+---
+
+## 2026-09-14 (1) — Post de segunda: série #02, Psoríase
+
+Post do dia, seguindo a [estratégia de setembro](estrategia/2026-09.md) (semana 3, tema Psoríase) e a grade oficial Lone (segunda = estratégico simples/educativo). Entregue: [conteudo/posts/2026-09-14-isso-tem-nome-02-psoriase.md](conteudo/posts/2026-09-14-isso-tem-nome-02-psoriase.md) — estático, formato de 5 blocos da [linha editorial v2.1](estrategia/linha-editorial-isso-tem-nome.md).
+
+**Repescagem, não republicação:** a peça de [03/07](conteudo/posts/2026-07-03-isso-tem-nome-psoriase.md) usava o formato antigo (Título/Desenvolvimento/Fechamento) e o gancho "pode não ser caspa" — reservado só pra abertura da série original. Esta usa o esqueleto fixo (selo `02 de 10` + gancho + sinais + nome + fechamento) e um gancho novo, de comportamento concreto: conferir o ombro da roupa escura procurando flocos — diferente da cena de manhã já usada na peça 01 (Artrite Reumatoide, 07/09) e sem repetir "pode não ser X".
+
+**Dermatologista nomeado** — liberado desde 26/08 pra Psoríase. Peça diz "procure um dermatologista", nunca afirma consulta na CIIL.
+
+**Compliance:** sem cura, sem autodiagnóstico, sem imagem de pele em crise, sem mencionar imunologista/alergista, sem especificar unidade no claim de tratamento, tom de esperança primeiro (regra de 24/08). Via de aplicação (subcutânea/infusional) não descrita, porque não está confirmada pra psoríase especificamente.
+
+🔴 **Segue precisando do OK final do RT** antes de publicar — mesma pendência de toda peça da série ([linha editorial, pendência #2](estrategia/linha-editorial-isso-tem-nome.md)); o fluxo do RT em si ainda não está formalizado (risco já sinalizado na estratégia de setembro).
+
+---
+
+## 2026-08-31 — Semana 1 reordenada + duas peças novas
+
+Três movimentos no mesmo dia, na ordem em que aconteceram: escrevi a série #01, escrevi a peça de sexta a pedido de PH, e no fim PH pediu pra trocar a ordem da semana — o que reposicionou as duas.
+
+**Primeiro, a série #01:** [Isso Tem Nome · 01 de 10 — Artrite Reumatoide](conteudo/posts/2026-09-07-isso-tem-nome-01-artrite-reumatoide.md), pra segunda 07/09. Com a reordenação, ela deixa de ser "a peça da semana seguinte" e passa a ser **a estreia imediata** da temporada, três dias depois da abertura.
+
+**É a v2 da peça de 06/07, que nunca foi publicada** — e não é republicação. Quatro coisas mudaram por regra nova: a numeração visível `01 de 10` (o sinal que faltava pro cliente perceber que existe série), o gancho (agora a cena da manhã, não a pergunta dos três médicos), o corte da palavra "infusão" (os imunobiológicos são subcutâneos **ou** infusionais) e a saída da hashtag de categoria (a série não se rotula).
+
+**O gate de escopo que travava a peça desde julho está encerrado** — a AR está entre as 10 doenças que a dona confirmou em 26/08. Sobrou o RT validando nomenclatura, com 4 itens listados no arquivo.
+
+**Semana 1 reordenada no fim do dia, a pedido de PH:** a segunda vira **post normal** e a **abertura da temporada passa pra sexta 04/09**.
+
+**Por que isso é melhor, e não só diferente:** na ordem anterior a abertura saía numa segunda e a primeira doença só estreava sete dias depois — sete dias entre "vai começar uma série" e a série começar, justamente numa conta em que o cliente reclamou de não perceber que existia série. Anunciando na sexta, a estreia numerada cai na **segunda seguinte (07/09)**, sem intervalo morto. A subheadline "toda segunda, uma delas aqui no perfil" fica até mais natural saindo numa sexta, porque anuncia o que começa na próxima.
+
+**O post normal de segunda:** [a caderneta de vacinação do adulto](conteudo/posts/2026-08-31-caderneta-de-vacinacao-do-adulto.md). Escolhido por dois motivos — carrega a perna de **vacina**, que desde julho só apareceu em peça de serviço/venda e nunca em educativa, e é o único assunto que **não rouba nada da abertura de sexta**. Regra dura da peça: nenhuma doença nomeada, nenhuma lista, sem o selo da série. Prévia estragaria a abertura.
+
+**Efeito em cadeia, resolvido no mesmo dia:** a peça de venda que eu tinha escrito pra 04/09 ("Se reconheceu na lista. E agora?") **depende da abertura já ter ido ao ar** — então ela seguiu a abertura e foi pra **11/09**, onde a sequência fica reconhecimento (04/09) → identificação (07/09) → ação (11/09). O carrossel de day clinic, que ia pra 11/09, volta pra fila evergreen: 18/09 já está com convênios e ele não estraga guardado.
+
+⚠️ **Uma consequência no mix a acompanhar:** com a abertura ocupando a sexta, setembro passa de 4 pra **3 peças de venda**. É pouco pro padrão da casa — o ajuste natural é a peça de 25/09 ou a de 30/09 puxarem função comercial. Anotado na estratégia pra decidir no fechamento da semana 3.
+
+**Peça de sexta escrita a pedido de PH:** ["Se reconheceu na lista. E agora?"](conteudo/posts/2026-09-11-como-comecar-o-tratamento-na-ciil.md) — carrossel de 3 slides com os três passos pra começar o tratamento.
+
+**O vão que ela fecha:** depois que a abertura faz a pessoa se reconhecer na lista e a primeira doença sai na segunda, existe um público novo em cima do perfil com uma pergunta prática que nenhuma peça da conta responde — "e agora, o que eu faço?".
+
+**Aplicação direta do escopo-vira-CTA:** a peça pede que a pessoa mande o diagnóstico e promete resposta honesta sobre se está no escopo — inclusive quando é não. ⚠️ Isso exige que quem responde o WhatsApp tenha a lista das 10 em mãos; a reunião de 26/08 registrou isso como resolvido, mas vale reconfirmar antes de publicar, porque o volume de mensagens deve subir com a série no ar.
+
+⚠️ **07/09 é feriado.** Recomendação registrada: publicar mesmo assim, cedo. A série anunciou "toda segunda" e furar a primeira segunda mata justamente o que a temporada veio corrigir.
+
+---
+
+## 2026-08-26 (5) — Peça de abertura da temporada "Isso Tem Nome"
+
+[conteudo/posts/2026-08-31-abertura-temporada-isso-tem-nome.md](conteudo/posts/2026-08-31-abertura-temporada-isso-tem-nome.md) — a peça que responde diretamente ao "não percebi que era uma série". Anuncia o conjunto, mostra as dez doenças de uma vez e afirma que todas têm tratamento na CIIL.
+
+**Estático, e a escolha tem motivo:** a peça inteira depende de a pessoa varrer os dez nomes procurando o dela. Num carrossel a lista cairia no slide 2, e metade do público nunca chegaria lá — o mecanismo da peça morreria na diagramação. Além disso a semana já tem carrossel na sexta, então o formato varia.
+
+**Headline recomendada:** *"Dez nomes. Um deles pode explicar o que você sente há anos."* Cria a tensão de reconhecimento e joga o olho na lista. Duas alternativas no arquivo, sendo a C (*"Passou anos ouvindo que era estresse?"*) a mais afiada e a mais próxima do que os próprios pacientes escreveram no Doctoralia — vale testar com o RT.
+
+**Quatro correções de grafia registradas no brief.** O material da dona veio com "Cronh", "Retoculite", "Lupus" e "Reumatóide". A arte não pode sair com nenhum desses — acentuação e grafia corretas são regra inegociável do projeto, e nome de doença errado numa peça de saúde é o tipo de erro que o cliente nunca esquece.
+
+**Ordem alfabética** na lista, de propósito: não sugere hierarquia nem dá a entender que a clínica prioriza alguma das dez.
+
+**Gates aplicados:** sem rótulo de categoria (permite a Asma entrar sem imprecisão) · sem "cura" · sem autodiagnóstico · sem nomear especialista (contorna gastro e pneumo não estarem na casa) · sem afirmar consulta · brief proíbe cena de consultório (erro de 21/08) e imagem de infusão como elemento único (regra do subcutâneo, 26/08).
+
+🔴 **Segue precisando do RT** — que aqui valida sobretudo a nomenclatura das dez, já que o fato clínico veio da própria dona. Ponto de atenção sinalizado pra ele: Asma é a única fora do território dermato/reumato.
+
+---
+
+## 2026-08-26 (4) — Estratégia de setembro fechada: linha temática semanal aplicada na CIIL
+
+[estrategia/2026-09.md](estrategia/2026-09.md) — **primeira estratégia mensal fechada da conta desde julho.** Agosto rodou os 30 dias sem plano, com peça ocupando slot estrutural sem estratégia por trás ([OQ #2](OPEN-QUESTIONS.md)); setembro encerra isso.
+
+**Como o "diversificar sem perder o foco" foi resolvido:** aplicando na CIIL o **teste de linha temática única por semana** que o chefe do PH pediu em 17/08 e que a conta nunca tinha rodado (primeiro ciclo foi na Atlas, 24-28/08). Cada semana fecha numa doença — segunda apresenta, quarta aprofunda em vídeo, sexta converte. **Tema fixo, função e formato variáveis.**
+
+Isso não é coincidência de agenda: três peças na mesma doença em cinco dias constroem repertório sobre ela, enquanto peça solta passa e some. É exatamente o mecanismo que faz o público reconhecer o próprio sintoma — o pedido literal do cliente na reunião de hoje.
+
+**Semanas:** 31/08-04/09 a série inteira (abertura + institucional + venda de day clinic) · 07-11/09 Artrite Reumatoide · 14-18/09 Psoríase · 21-25/09 Crohn · 28-30/09 Lúpus.
+
+**A semana 1 não custa quase nada:** dois dos três slots já têm material pronto (roteiro institucional de 12/08 e carrossel v2 de day clinic), e a abertura de temporada é a única peça do mês que não depende do RT nem de gravação.
+
+**Setembro Amarelo: recomendação de não fazer.** É a grande data do mês, mas prevenção ao suicídio exige profissional de saúde mental e a CIIL atende Dermatologia, Reumatologia e Pediatria. Fazer a peça obrigaria a falar fora do escopo ou a criar a mesma leitura errada que o cliente corrigiu em 21/08. Caminho seguro, se PH quiser marcar: Stories com o canal oficial (CVV 188), sem peça de feed.
+
+**Dois alertas que valem mais que o calendário:**
+
+🔴 **Cinco quartas de vídeo, nenhuma gravação agendada.** Dois roteiros estão prontos desde julho e agosto sem nunca terem ido pra produção. Plano B registrado: motion flyer, que ocupa o slot sem depender de agenda.
+
+🔴 **O fluxo do RT continua não existindo** — e agora é o gargalo isolado da conta. Com o escopo resolvido, 13 peças clínicas em setembro sem processo de aprovação definido travam o mês igual julho e agosto travaram.
+
+⚠️ **Vacinação some do mês inteiro** — consequência da diretriz de 11/08 levada ao limite pela linha temática. Sinalizado: a clínica ainda é Centro de Imunobiológicos **e Imunização**, e 30 dias sem falar com idosos e famílias é uma aposta. Sugestão de puxar multivacinação na virada pra outubro.
+
+---
+
+## 2026-08-26 (3) — PH define: depoimentos na sexta 28/08 e a série dispensa rótulo de categoria
+
+Duas decisões que fecham as pendências abertas hoje de manhã.
+
+**Depoimentos vão pra sexta 28/08.** Peça re-datada e renomeada ([2026-08-28-depoimentos-doctoralia.md](conteudo/posts/2026-08-28-depoimentos-doctoralia.md)) — sexta é o slot de venda e prova social rende mais ali do que no educativo. Isso libera a segunda 31/08 pra abertura da temporada da série, que é a peça que não depende do RT pra nada. O **carrossel v2 de day clinic**, que estava guardado pro slot de 28/08, volta pra fila marcado como evergreen sem data.
+
+⏱️ **Prazo sinalizado a PH:** pra sair em 28/08, o OK do RT sobre depoimento de paciente precisa sair até quinta 27/08 de manhã — o designer tem mínimo de 1 dia útil e o envio ao cliente é até 15h. O plano B (grade sem citação literal) corre exatamente no mesmo prazo; ele reduz risco de compliance, não compra tempo.
+
+**A série não usa guarda-chuva categórico.** PH resolveu o problema da Asma pelo caminho mais simples: *"a gente pode simplesmente só falar sobre o Isso Tem Nome, achei um nome bom."* Sem rótulo de categoria, a imprecisão desaparece — o selo mais o nome da doença bastam pra identificar a série, e cada peça fala da doença sem precisar classificá-la. Quando for necessário agrupar (peça de abertura, legenda que cita várias), a descrição é **operacional**: "as 10 doenças que têm tratamento na CIIL". Descreve o que a clínica faz, não classifica a doença.
+
+Boa solução também por um motivo lateral: um selo que não promete categoria envelhece melhor. Se a CIIL passar a tratar outra doença fora do escopo autoimune, a série absorve sem retrabalho de identidade.
+
+Regra em [PADROES](PADROES.md), pendência fechada em [OPEN-QUESTIONS](OPEN-QUESTIONS.md), [linha editorial](estrategia/linha-editorial-isso-tem-nome.md) em v2.1. As 4 peças-ponte de julho/agosto que usam "doença autoimune" como guarda-chuva já foram ao ar e ficam como estão.
+
+---
+
+## 2026-08-26 (2) — 🎉 Reunião destrava a conta: 10 doenças confirmadas, série reformulada
+
+A reunião aconteceu e resolveu **a pendência mais antiga da CIIL**. [Respostas registradas na íntegra](referencias/2026-08-26-reuniao-alinhamento-doencas-especialidades.md).
+
+**Cliente aprovou o trabalho** e pediu foco em doenças imunomediadas, com a série continuando — mas com uma crítica que vale mais que o elogio: **eles não perceberam que existia uma série.**
+
+**A dona entregou o escopo clínico completo:**
+- **10 doenças:** Psoríase · Artrite Psoriásica · Artrite Reumatoide · Crohn · **Retocolite Ulcerativa** · Dermatite Atópica · **Asma** · **Lúpus** · Hidradenite Supurativa · Espondilite Anquilosante. Três são novas na conta.
+- **Tratamento subcutâneo *ou* infusional** — toda a copy até hoje assumiu só infusão.
+- **Especialidades atendidas:** Dermatologia, Reumatologia, **Pediatria** (público infantil nunca apareceu em peça nenhuma).
+
+**O gate por doença acabou.** Aberto em 06/07, prioridade máxima desde 11/08, sobreviveu 7 semanas fazendo a série viver de peça-ponte genérica. Psoríase (03/07), Artrite Reumatoide (06/07) e o Reel de Crohn (08/07) estão destravados, pendentes só do RT. A pendência [#16](OPEN-QUESTIONS.md) (estoque de pontes zerado) deixou de existir: 10 doenças = 10 segundas.
+
+**Por que o cliente não viu série — e o que isso ensina.** Das peças publicadas desde julho, só três nomearam uma doença; o resto foi ponte genérica sobre autoimunidade, produzida justamente porque o gate travava as doenças. Sem doenças nomeadas em sequência não existe série, existe assunto recorrente. **O gate de compliance não atrasou a série — descaracterizou ela**, e isso não estava visível enquanto o problema era lido como "falta de estoque de peças".
+
+**[Linha editorial reescrita em v2.0](estrategia/linha-editorial-isso-tem-nome.md):** temporada de 10 semanas calendarizada (abertura 31/08, doenças de 07/09 a 09/11, ordem alternando área do corpo pra não parecer clínica só de pele), formato de 5 blocos com o sintoma **na língua do paciente** e não na do prontuário, e os mecanismos que fazem série parecer série — numeração `01 de 10` na arte, cadência sem buraco, esqueleto visual fixo, destaque no Instagram.
+
+**Três ressalvas levantadas, nenhuma bloqueia produção:**
+
+🔴 **Asma não é doença autoimune** — é inflamatória crônica das vias aéreas; Hidradenite é autoinflamatória. Chamar as 10 de "autoimunes" é imprecisão clínica num cliente com RT. Proposta: guarda-chuva vira **"doenças imunomediadas"**. Afeta as 4 peças-ponte já publicadas. Pergunta certa pro RT.
+
+🔴 **"Atender a especialidade" não é necessariamente consulta na clínica.** A frase da dona permite duas leituras, e afirmar consulta sem confirmar repetiria exatamente o erro corrigido pelo cliente em 21/08. Não afirmar até PH confirmar.
+
+🟡 **Gastro e pneumo/alergo ficaram de fora das 3 especialidades**, mas Crohn, Retocolite e Asma estão na lista de doenças. Regra provisória: não nomear especialista nessas três.
+
+**Propagado pra** [context.md](context.md), [PADROES.md](PADROES.md) (4 regras novas) e [OPEN-QUESTIONS.md](OPEN-QUESTIONS.md).
+
+**Os blocos 3 a 9 da pauta não foram respondidos** — RT, depoimentos, convênios, acessos, vídeo, briefing de setembro. Seguem abertos.
+
+---
+
+## 2026-08-26 — Pauta da reunião de alinhamento com o cliente
+
+PH marcou reunião com a CIIL pra hoje: checar satisfação com o conteúdo e aproveitar pra tirar dúvidas. Montei a pauta em [referencias/2026-08-26-pauta-reuniao-alinhamento.md](referencias/2026-08-26-pauta-reuniao-alinhamento.md) — todas as pendências abertas de [OPEN-QUESTIONS](OPEN-QUESTIONS.md) organizadas em 10 blocos, ordenadas por quanto cada resposta destrava de produção, com um bloco de 5 perguntas prioritárias caso a reunião seja curta.
+
+**A leitura do estado da conta que a pauta expõe:** o gargalo da CIIL não é produção, é fila de aprovação. Desde julho, peça pronta espera confirmação de escopo por doença (só a Dermatite Atópica foi liberada, em 13/07) ou OK do RT — que nunca virou processo, apesar de combinado desde o onboarding. Três blocos concentram quase todo o desbloqueio: lista fechada de doenças tratadas, quem avalia o paciente antes da infusão (aberta desde a correção de 21/08) e o fluxo do RT com nome, canal e prazo.
+
+**Oportunidade de calendário:** a reunião cai em 26/08, um dia depois da janela de briefing mensal (22-25). Dá pra fechar setembro na própria conversa em vez de repetir agosto, que rodou o mês inteiro sem estratégia fechada ([OQ #2](OPEN-QUESTIONS.md)).
+
+A peça de depoimentos de 31/08 já escrita entra na pauta com urgência própria — depende do RT liberar depoimento de paciente, e o plano B já está no arquivo da peça caso não libere.
+
+---
+
+## 2026-08-25 (2) — Pedido da dona: post de prova social com as avaliações do Doctoralia
+
+A dona da clínica sugeriu um post com comentários de pacientes, e PH coletou quatro avaliações do perfil da CIIL no Doctoralia. [Registradas na íntegra](referencias/2026-08-25-avaliacoes-doctoralia.md) e [peça escrita](conteudo/posts/2026-08-31-depoimentos-doctoralia.md) para segunda 31/08 — o slot de 28/08 já tem o carrossel v2 guardado.
+
+**O achado que virou headline:** nenhum dos quatro pacientes falou de aparelho, estrutura ou procedimento. Os quatro falaram da conversa — explicar com calma, revisar queixa por queixa, transmitir segurança, não deixar dúvida. A headline recomendada usa essa repetição como gancho ("Quatro comentários diferentes, e todos param no mesmo ponto"), o que faz o leitor ir conferir os quatro. Duas alternativas de headline foram para o documento, incluindo uma que usa a frase da paciente Márcia como manchete — a mais forte e também a mais arriscada no gate.
+
+A quarta avaliação ("não teria ficado batendo cabeça com outros profissionais") descreve a jornada real do paciente da CIIL e é o mesmo território do roteiro institucional de 12/08. Vale como argumento comercial, não só como elogio.
+
+**Decisão de escrita:** a peça **não cita o nome de nenhuma das quatro médicas avaliadas**, de propósito — assim ela não fica presa a aval individual nem a CRM. Se a clínica quiser dar o crédito, vira uma segunda versão.
+
+🔴 **Gate do RT é bloqueante e vem antes do designer.** Depoimento de paciente em publicidade médica tem regra própria, diferente da de um comércio comum. Se o RT reprovar o formato, o documento já traz o plano B: mesma headline e legenda, com a grade virando quatro frases sobre como é a consulta, sem citação literal.
+
+Outros cuidados registrados: nome de paciente abreviado, nada que sugira imunologista ou alergista, e **a quarta avaliação é de quatro estrelas — a arte exibe quatro**, sem arredondar.
+
+---
+
+## 2026-08-25 — Pedido de captação: banco de takes das duas unidades
+
+PH usou os vídeos já gravados da CIIL como referência-mãe do formato pra carteira inteira. [Pedido escrito](conteudo/roteiros/2026-08-25-pedido-captacao-banco-de-takes.md) na versão **sem apresentador**: mesmo visual (legenda em caixa, logo bug embaixo), montado em cima de bastidor — geladeira de imunobiológicos, bolsa de infusão gotejando, poltrona vazia com a luz da janela.
+
+Serve pra quarta não depender de agenda do enfermeiro e, principalmente, pra formar banco de B-roll pros próximos institucionais.
+
+Headline troca hook, benefício e CTA em relação aos três vídeos gravados, como PH pediu — sem "Você sabia que...", sem "mais conforto e menos burocracia", sem "a gente também leva a vacina". O fecho já embute a correção de 24/08: convida a **confirmar se o tratamento é feito lá**, em vez de sugerir que a CIIL trata tudo.
+
+Compliance: peça institucional de modalidade (fora do gate por doença), passa pelo RT, zero rosto de paciente, nenhum take que sugira imunologista ou alergista, e as duas unidades com o mesmo peso visual.
+
+---
+
+## 2026-08-24 (2) — 🔴 Duas correções de PH: escopo de doença vira CTA + tom de esperança
+
+PH corrigiu a peça de hoje em dois pontos, e os dois viraram regra permanente:
+
+**1. A CIIL não trata todas as doenças autoimunes.** A peça genérica não podia deixar no ar que qualquer diagnóstico é atendido. O fechamento passou a convidar a pessoa a **confirmar o próprio caso**: *"fale com a gente e conte qual é o seu diagnóstico — a gente te diz se é uma das que atendemos"*. O filtro de escopo deixou de ser risco escondido e virou o CTA, que é mais honesto e qualifica melhor o contato. Regra em [PADROES](PADROES.md).
+
+**2. Dar esperança, não banho de água fria.** A v1 abria em "não tem cura". PH: *"podemos dar esperança ao invés de um banho de água fria no usuário."* A honestidade clínica não mudou (segue sem prometer cura) — mudou a **ordem**: abre pelo que o controle devolve, e a cronicidade entra no meio, como contexto. Regra em [PADROES](PADROES.md), com extensão pro visual (vida seguindo, nunca pessoa cabisbaixa ou pele em crise).
+
+**Peça reescrita e renomeada:** [conteudo/posts/2026-08-24-doenca-autoimune-tem-tratamento.md](conteudo/posts/2026-08-24-doenca-autoimune-tem-tratamento.md) — título "conviver com uma doença autoimune não é a mesma coisa que ficar refém dela".
+
+⚠️ **Consequência operacional, sinalizada pra PH:** esse CTA joga demanda pro direct perguntando "vocês tratam a minha doença?". **Quem atende precisa ter a lista por doença na mão** — é a mesma confirmação do [OQ #5](OPEN-QUESTIONS.md), que agora tem urgência operacional, não só editorial. Aberta como [OQ #6b](OPEN-QUESTIONS.md).
+
+---
+
+## 2026-08-24 — Post educativo: a diferença entre cura e controle (doença autoimune)
+
+PH pediu foco em **doenças autoimunes** — mesma direção do cliente em 21/08 e da diretriz de 11/08. Entregue: [conteudo/posts/2026-08-24-controle-nao-e-cura-doenca-autoimune.md](conteudo/posts/2026-08-24-controle-nao-e-cura-doenca-autoimune.md).
+
+**Ângulo novo, e o estoque de pontes deixou de estar zerado:** as quatro pontes anteriores cobriram *o que é doença autoimune* (29/07), *o que é imunobiológico* (03/08), *o que fazer se suspeitar* (10/08) e *day clinic* (21/08, duas peças). Faltava a pergunta que vem logo depois do diagnóstico — **"então vou ficar assim pra sempre?"** —, ou seja, a diferença entre cura e controle. É o conceito que sustenta a série inteira e nunca teve peça própria. Isso alivia parcialmente a pendência [#16](OPEN-QUESTIONS.md) (estoque de peças-ponte), sem substituir a confirmação de escopo por doença, que segue sendo o desbloqueio real da série.
+
+**Gates respeitados:** fora do gate por doença (nenhuma doença nomeada, [OQ #5](OPEN-QUESTIONS.md)) · nenhuma sugestão de imunologista/alergista em copy, hashtag ou imagem — o brief visual proíbe explicitamente cena de consultório, que foi o que gerou a rejeição do cliente em 21/08 · "sob supervisão da equipe de saúde" mantido genérico porque [OQ #6](OPEN-QUESTIONS.md) (quem avalia/encaminha) continua aberta · desenvolvimento em frase corrida, alternando com os tópicos usados na peça anterior ([PADROES](PADROES.md)).
+
+🔴 **Segue precisando do RT** antes de publicar — a lista dos 4 pontos está no rodapé do arquivo, sendo o principal a afirmação central "não tem cura, tem controle".
+
+**Limpeza no mesmo dia:** apagados os posts de Julho Amarelo/Hepatite B (06/07), véspera do Dia Mundial das Hepatites (27/07) e Dia dos Pais (09/08) — datas comemorativas vencidas, sem valor de reuso. Todo o material educativo/evergreen foi mantido.
+
+---
+
+## 2026-08-21 — 🔴 Correção do cliente: CIIL não tem imunologista nem alergista. Peça de 21/08 reescrita
+
+O cliente devolveu feedback pela peça de 21/08 (via WhatsApp, repassado por PH): *"Essas imagens estão dando a entender que temos imunologista e alergista aqui na clínica, mas não temos"* e *"Algo voltando para 'doença autoimune' ficaria melhor"*. Material bruto preservado em [referencias/2026-08-21-feedback-cliente-nao-tem-imunologista-alergista.md](referencias/2026-08-21-feedback-cliente-nao-tem-imunologista-alergista.md).
+
+**O que isso derrubou:** o [context.md](context.md) registrava desde 22/06 que a CIIL oferece "consultas em imunologia e alergia/alergologia" — claim **errado**, herdado da destilação do briefing/auditoria da Cowork AI e nunca validado com o cliente nem com o RT. A peça inteira de 21/08 foi construída em cima dele. A [estratégia de julho](estrategia/2026-07.md) também trazia uma pauta afirmando que a CIIL "atende alergia/alergologia".
+
+**Corrigido:**
+- [context.md](context.md) — claim de consulta removido do Role, com aviso vermelho no lugar.
+- [PADROES.md](PADROES.md) — regra nova: nenhuma peça pode sugerir imunologista/alergista atendendo na clínica, nem em copy, nem em hashtag, nem em imagem (cena de consultório lê como "aqui tem consulta" — foi o que gerou a leitura errada).
+- Peça reescrita como v2 e renomeada: [conteudo/posts/2026-08-21-tratamento-doenca-autoimune-day-clinic.md](conteudo/posts/2026-08-21-tratamento-doenca-autoimune-day-clinic.md). Ângulo novo, seguindo a direção do próprio cliente: **tratamento de doença autoimune** via terapia imunobiológica em day clinic — modalidade, sem nomear doença específica, então segue **fora do gate por doença** ([OQ #5](OPEN-QUESTIONS.md)). Brief visual passou a proibir explicitamente cena de consultório e a pedir imagem de infusão/day clinic.
+
+🔴 **Pendência nova gerada:** se não há imunologista/alergista na casa, **quem avalia e encaminha o paciente antes da infusão?** A peça v2 não depende disso, mas qualquer peça futura que toque em avaliação/consulta precisa da resposta. Registrado em [OPEN-QUESTIONS #6](OPEN-QUESTIONS.md).
+
+**Estático de hoje (a pedido de PH, depois da correção):** PH pediu um estático pra fechar o slot de 21/08 — escolha certa pela janela (feedback chegou 13h31, envio ao cliente é preferencialmente até 15h, e arte única o designer vira mais rápido que carrossel). Escrito: [conteudo/posts/2026-08-21-tratar-sem-passar-o-dia-no-hospital.md](conteudo/posts/2026-08-21-tratar-sem-passar-o-dia-no-hospital.md) — estrutura Título/Desenvolvimento/Fechamento ([PADROES](PADROES.md)), ângulo de day clinic ("tratar não precisa tomar o dia inteiro"), gancho de quebra de expectativa pra não repetir a pergunta do carrossel v2 nem o imperativo da peça de 10/08. O **carrossel v2 segue válido e sem retrabalho** — fica disponível pro próximo slot de venda (sexta 28/08).
+
+⚠️ **Efeito colateral encontrado ao escrever o estático:** a peça de segunda ([conteudo/posts/2026-08-10-o-que-fazer-se-suspeitar-doenca-autoimune.md](conteudo/posts/2026-08-10-o-que-fazer-se-suspeitar-doenca-autoimune.md)) manda "buscar avaliação" e afirma que "na CIIL, essa avaliação acontece nas duas unidades" — mesma leitura que o cliente rejeitou hoje, mais o "nas duas unidades" que a regra de 11/08 já tinha banido. Marquei a peça com aviso no topo. **Ação pra PH:** checar se ela chegou a ir ao ar em 10/08 e se o cliente viu.
+
+---
+
+## 2026-08-18 — Sexta 21/08: peça de venda apelativa, consulta de imunologia e alergia (v1 — superada)
+
+PH pediu direto: "uma de venda, agora, apelativa e não educativa" pra sexta 21/08. Escolhi um ângulo ainda não usado nas 3 vendas anteriores da conta (domiciliar, corporativo, convênios): a **consulta de imunologia e alergia**, serviço já confirmado por PH em 22/06 mas nunca virou peça própria. Bate com a diretriz de 2026-08-11 (reduzir vacinação, priorizar tratamento) sem esbarrar no gate por doença, porque não nomeia nenhuma doença autoimune específica — só o serviço de consulta com resposta no mesmo dia, sem internação.
+
+**Peça:** carrossel curto (3 slides). ⚠️ **Superada em 21/08** — o ângulo de consulta estava errado (cliente não tem imunologista/alergista), peça reescrita e arquivo renomeado pra [conteudo/posts/2026-08-21-tratamento-doenca-autoimune-day-clinic.md](conteudo/posts/2026-08-21-tratamento-doenca-autoimune-day-clinic.md). Ver entrada de 2026-08-21 no topo.
+
+**Guardrail aplicado:** "apelativo" não virou promessa de cura/diagnóstico — mantive dentro do compliance de saúde (sem medo, sem superioridade, sem garantia de resultado). Segue precisando do OK do RT antes de publicar, como toda peça clínica. Estratégia de agosto continua sem existir ([OQ #2](OPEN-QUESTIONS.md)) — esta peça ocupa o slot estrutural de sexta, não decorre de estratégia fechada.
+
+---
+
 ## 2026-08-11 (2) — 4 pendências resolvidas: vacinação, unidade, decisor, briefing
 
 PH respondeu as 4 perguntas que eu tinha levantado pra continuar:
@@ -67,7 +417,7 @@ Entregue: [conteudo/posts/2026-08-07-vacinacao-corporativa.md](conteudo/posts/20
 
 ## 2026-08-04 — Homenagem de Dia dos Pais
 
-A Lone decidiu fazer uma homenagem de Dia dos Pais em vários clientes da carteira, todos publicando no dia exato, domingo 09/08/2026. Escrevi a peça pra CIIL: [conteudo/posts/2026-08-09-feliz-dia-dos-pais.md](conteudo/posts/2026-08-09-feliz-dia-dos-pais.md) — arte designed única, 100% emocional/institucional, sem preço, oferta ou CTA de venda.
+A Lone decidiu fazer uma homenagem de Dia dos Pais em vários clientes da carteira, todos publicando no dia exato, domingo 09/08/2026. Escrevi a peça pra CIIL: conteudo/posts/2026-08-09-feliz-dia-dos-pais.md (peça removida na limpeza de 2026-08-24) — arte designed única, 100% emocional/institucional, sem preço, oferta ou CTA de venda.
 
 **Ângulo escolhido:** o pai que cuida de todo mundo em casa e pergunta por último como ele mesmo está — hábito de cuidado genérico, sem citar doença, exame, vacina ou tratamento, então a peça fica fora do fluxo de validação clínica do RT. Selo reforça a tagline institucional já usada pela CIIL ("se sentir bem"), sem soar forçado.
 
@@ -111,11 +461,11 @@ PH pediu roteiro de vídeo pra hoje. Sex 31/07 era buffer livre no calendário d
 
 ## 2026-07-25 — Slot de segunda 27/07: véspera do Dia Mundial das Hepatites
 
-PH pediu posts pros três clientes (Complexo Vida, CIIL, Maicom) na mesma conversa. Aqui produzi o **próximo slot do calendário**: [conteudo/posts/2026-07-27-vespera-dia-mundial-hepatites.md](conteudo/posts/2026-07-27-vespera-dia-mundial-hepatites.md) — estático educativo que fecha o Julho Amarelo na véspera do **28/07**.
+PH pediu posts pros dois clientes (CIIL, Maicom) na mesma conversa. Aqui produzi o **próximo slot do calendário**: conteudo/posts/2026-07-27-vespera-dia-mundial-hepatites.md (peça removida na limpeza de 2026-08-24) — estático educativo que fecha o Julho Amarelo na véspera do **28/07**.
 
 **Ângulo novo (recorte ainda não usado no mês):** o **adulto** que acha que carteira de vacinação é assunto encerrado desde a escola. Gancho "Vacina não é só coisa de criança" — deliberadamente diferente do gancho da peça parkeada de 06/07 (que abre por "você lembra se tomou todas as doses?"). A efeméride entra no corpo, não no gancho.
 
-> 📌 **Decisão pra PH:** o [Julho Amarelo de 06/07](conteudo/posts/2026-07-06-julho-amarelo-hepatite-b.md) ficou parkeado e era candidato natural a esta data. **Escolher uma das duas** — publicar as duas seria repetir o tema em três semanas. A nova tem gancho mais forte e está ancorada na data; a parkeada já está pronta há mais tempo.
+> 📌 **Decisão pra PH:** o Julho Amarelo de 06/07 (peça removida na limpeza de 2026-08-24) ficou parkeado e era candidato natural a esta data. **Escolher uma das duas** — publicar as duas seria repetir o tema em três semanas. A nova tem gancho mais forte e está ancorada na data; a parkeada já está pronta há mais tempo.
 
 **Compliance:** sem gate de escopo por doença (fala de vacina, serviço-núcleo confirmado) · sem número epidemiológico · sem conduta individual (fala em "esquema completo", **sem citar número de doses ou intervalo**) · só vacina, sem teste/sorologia · promete só serviço documentado (vacina + domiciliar). Vai pro RT como toda peça clínica.
 
@@ -161,7 +511,7 @@ Entregue: [conteudo/posts/2026-07-16-vacina-domiciliar-cuidador-idoso.md](conteu
 
 `validador-copy` rodado: pegou o ponto certo — a variação só funcionava no slide 1, dali em diante a peça recaía na estrutura da de 10/07 (reabria a lista de públicos, cobertura e CTA quase idênticos). Reescrito mantendo o corte único no cuidador do início ao fim: cortei a enumeração de públicos, reduzi de 4 → 3 slides (alinha com a referência @imunovidavacinas do PADROES), reformulei frase de cobertura + CTA final, e diversifiquei as hashtags (mantendo só marca/localização em comum, esperado repetir).
 
-**Correção de PH (mesmo dia):** a copy usava "trânsito" (capa) e "achar vaga na rua" (legenda) como obstáculo — PH apontou que **Araruama não tem trânsito** (cidade pequena; a peça é idêntica pras 2 unidades, então precisa funcionar pra Araruama e São Gonçalo ao mesmo tempo). Troquei pelo obstáculo universal — o trabalho físico de tirar um idoso de casa (vestir, levar, esperar, voltar) — e registrei o vício em [PADROES.md](PADROES.md) pra não repetir em peças futuras. Mesmo princípio já visto no Complexo Vida: dor de copy só funciona se existir de verdade no lugar onde o cliente atende.
+**Correção de PH (mesmo dia):** a copy usava "trânsito" (capa) e "achar vaga na rua" (legenda) como obstáculo — PH apontou que **Araruama não tem trânsito** (cidade pequena; a peça é idêntica pras 2 unidades, então precisa funcionar pra Araruama e São Gonçalo ao mesmo tempo). Troquei pelo obstáculo universal — o trabalho físico de tirar um idoso de casa (vestir, levar, esperar, voltar) — e registrei o vício em [PADROES.md](PADROES.md) pra não repetir em peças futuras. Princípio: dor de copy só funciona se existir de verdade no lugar onde o cliente atende.
 
 **Correção de PH (2ª rodada, mesmo dia) — fato inventado:** ao reescrever a flexibilidade de horário, escrevi "de manhã, no fim da tarde ou no sábado" sem base nenhuma. PH perguntou de onde vinha isso — não vinha de lugar nenhum. Conferido [BRIEFING.md](BRIEFING.md): o único horário documentado é "Seg-Sex, 08h-18h", sem sábado. Removido "no sábado" dos dois lugares (slide 2 + legenda). **Ponto de atenção pra mim mesmo:** essa invenção passou pelo `validador-copy` sem ser pega — o agente valida tom/estrutura/compliance geral, mas não necessariamente cruza cada detalhe factual novo contra o BRIEFING. Checar fatos operacionais (horário, dias, cobertura) contra a fonte antes de escrever, não só depois.
 
@@ -193,7 +543,7 @@ Formato **carrossel curto (4 slides)** seguindo o padrão validado em [PADROES.m
 
 PH informou que o **RT ainda não confirmou** o escopo de infusão pra Artrite Reumatoide ("ainda não"). Sem esse OK, a peça de AR ([2026-07-06-isso-tem-nome-artrite-reumatoide.md](conteudo/posts/2026-07-06-isso-tem-nome-artrite-reumatoide.md)) **não pode publicar** — e o mesmo gate trava toda a série "Isso Tem Nome" (Psoríase, AR, Crohn, Dermatite), porque todas associam a marca a tratar uma doença autoimune específica.
 
-Pra não deixar o slot educativo de segunda vazio, produzi uma pauta **sem gate de escopo**: **Julho Amarelo / vacina Hep B** ([conteudo/posts/2026-07-06-julho-amarelo-hepatite-b.md](conteudo/posts/2026-07-06-julho-amarelo-hepatite-b.md)). Vantagens: fala de **vacina** (serviço-núcleo confirmado da CIIL, não depende de confirmar infusão), está ancorada na sazonalidade real (Julho Amarelo + 28/07) e já estava prevista no mês — tinha sido deslocada de 03/07 pela série. Ângulo só em vacina (sem teste/sorologia, alinhado ao que PH sinalizou em 22/06). Estático enxuto, mesmo esqueleto de arte da série, sem o selo "ISSO TEM NOME".
+Pra não deixar o slot educativo de segunda vazio, produzi uma pauta **sem gate de escopo**: **Julho Amarelo / vacina Hep B** (conteudo/posts/2026-07-06-julho-amarelo-hepatite-b.md (peça removida na limpeza de 2026-08-24)). Vantagens: fala de **vacina** (serviço-núcleo confirmado da CIIL, não depende de confirmar infusão), está ancorada na sazonalidade real (Julho Amarelo + 28/07) e já estava prevista no mês — tinha sido deslocada de 03/07 pela série. Ângulo só em vacina (sem teste/sorologia, alinhado ao que PH sinalizou em 22/06). Estático enxuto, mesmo esqueleto de arte da série, sem o selo "ISSO TEM NOME".
 
 **Copy reancorada (mesma conversa, decisão PH):** a 1ª versão prometia "a gente confere sua carteira e orienta o que falta" — serviço que **não está documentado** no briefing (a lista de serviços tem vacinação/imunobiológico/consultas/USG/PPD/administração de medicamentos, mas não conferência de carteira). PH pediu pra reancorar só no que é confirmado. Reescrevi apoiando o CTA em **vacina** (briefing §2: "Calendário Nacional completo" → Hep B incluída) + **atendimento domiciliar** (briefing §1, confirmado), com CTA de agendamento no WhatsApp. Fica publicável sem depender de novo OK operacional. **Ressalva registrada na peça:** a disponibilidade da Hep B vem da auditoria Cowork AI (🟡) — vale um OK de PH/cliente por ser peça pública.
 
@@ -217,7 +567,7 @@ PH revisou o PDF e trouxe 3 ajustes, todos aplicados nas 3 peças + no PDF + reg
 
 ## 2026-07-01 — PDF de apresentação da série "Isso Tem Nome" (3 posts)
 
-Gerado PDF com as 3 peças estáticas prontas do drip semanal (Psoríase 03/07, Artrite Reumatoide 06/07, Dermatite Atópica 13/07), a pedido de PH. Identidade visual própria da CIIL (azul institucional #1A7FBD/#0D5A8C + ciano #2EAEE8), logo Lone Mídia no cabeçalho — mesmo padrão de "plano de conteúdo" usado com outros clientes (Dumar, Complexo Vida).
+Gerado PDF com as 3 peças estáticas prontas do drip semanal (Psoríase 03/07, Artrite Reumatoide 06/07, Dermatite Atópica 13/07), a pedido de PH. Identidade visual própria da CIIL (azul institucional #1A7FBD/#0D5A8C + ciano #2EAEE8), logo Lone Mídia no cabeçalho — mesmo padrão de "plano de conteúdo" usado com outros clientes (Dumar).
 
 **Arquivos:** [apresentacoes/2026-07-01-serie-isso-tem-nome.html](apresentacoes/2026-07-01-serie-isso-tem-nome.html) (fonte, editável) + [apresentacoes/2026-07-01-serie-isso-tem-nome.pdf](apresentacoes/2026-07-01-serie-isso-tem-nome.pdf) (PDF exportado via Chrome headless — 6 páginas: capa, visão geral, 1 página por peça, fechamento com pendências).
 

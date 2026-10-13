@@ -1,6 +1,6 @@
 # Social Media Context — Maicom Minerais Unamar
 
-last_updated: 2026-07-23
+last_updated: 2026-09-01
 status: 🟡 Versão 1.1 — destilado do levantamento factual do perfil (14/07/2026) + respostas do cliente ao onboarding. Voz, público e pilares são **proposta da Lone** (cliente deu input mínimo) — **validar com PH/cliente** antes de fechar a 1ª estratégia mensal.
 
 > Fonte de verdade pra todas as skills `*-sms` quando trabalhando com a Maicom. Substitui `.agents/social-media-context-sms.md` (ver [CLAUDE.md](../../CLAUDE.md) sobre o redirecionamento).
@@ -124,7 +124,8 @@ Proposta da Lone (validar % na 1ª estratégia mensal). Segue o **mix obrigatór
 - **Frequência:** referência padrão Lone — **12 posts/mês, 3/semana (Seg/Qua/Sex), quarta = Reels**. **Plano contratado a confirmar com PH.** Obs.: Reels é o formato nativo do cliente (89% do que ele já posta) — a quarta cai como uma luva.
 - **Estrutura oficial Lone:** Seg = post estratégico simples (leve/educativo) · Qua = Reels · Sex = carrossel/venda. Aqui a sexta (venda) tende a puxar oferta de piso, e a quarta (Reels) o passeio pela loja/variedade.
 - **Banco de mídia:** cliente **não tem banco profissional próprio** — "usar o que vocês fizeram" (confirmar com PH o que isso cobre). Loja física tem os produtos → captação de foto/vídeo real de piso e ambiente é viável e recomendada. Pinterest de referência (piso/ambientes/showroom) antes do brief de design, por § do checklist visual.
-- **Campanhas de agosto/2026 (briefing de 2026-07-23):** (1) **"O resto é com a gente"** — a cada 4 m² de piso, argamassa e rejunte grátis, o mês inteiro, **sem nenhuma promoção de preço de piso no feed**; (2) **1 ano da loja em 23/08**, com **café da manhã na loja em 22/08**. Detalhe em [estrategia/2026-08.md](estrategia/2026-08.md).
+- **Condições de setembro/2026 (PH, 2026-09-01):** volta a **promoção de preço de piso** — **a partir de R$ 19,99/m²** (modelos variados), **R$ 27/m²** (70x70 e 72,5x72,5) e **R$ 39,99/m²** (88x88 polido), os dois últimos **no dinheiro ou Pix**. O preço-âncora da casa cai de R$ 22,99 pra R$ 19,99. O **brinde de agosto saiu de circulação** (encerrou 31/08, continuidade não confirmada). Regras de copy em [PADROES §2.1](PADROES.md); registro literal em [referencias/2026-09-01-condicoes-setembro.md](referencias/2026-09-01-condicoes-setembro.md).
+- **Campanhas de agosto/2026 (encerradas em 31/08 — briefing de 2026-07-23):** (1) **"O resto é com a gente"** — a cada 4 m² de piso, argamassa e rejunte grátis, o mês inteiro, **sem nenhuma promoção de preço de piso no feed**; (2) **1 ano da loja em 23/08**, com **café da manhã na loja em 22/08**. Detalhe em [estrategia/2026-08.md](estrategia/2026-08.md).
 - **Meta comercial (PH 2026-07-14):** faturamento atual ≈ **R$ 700 mil** → meta de **≥ R$ 1 milhão até dez/2026** (~+43%). Régua concreta da estratégia.
 - **Decisor / contato direto:** provavelmente Michael (administrador) — confirmar quem aprova estratégia e posts.
 - **Janela de briefing mensal:** dias 22–25 do mês anterior (padrão Lone).
@@ -143,5 +144,6 @@ Proposta da Lone (validar % na 1ª estratégia mensal). Segue o **mix obrigatór
 
 ## Histórico de revisões
 
+- **2026-09-01** — v1.2: entram as condições comerciais de setembro (três faixas de preço, âncora nova de R$ 19,99/m², brinde fora de circulação). Agosto marcado como encerrado.
 - **2026-07-23** — v1.1: entra a restrição ⛔ **porcelanato** (palavra e tema) e as duas campanhas de agosto. Pilares 2 e 3 reescritos pra falar de piso pelo uso, não por categoria técnica. Criado o [PADROES.md](PADROES.md).
 - **2026-07-14** — v1.0 criado no onboarding, a partir do levantamento factual do perfil + respostas do cliente. Voz, público e pilares são **proposta da Lone** (input do cliente foi mínimo: foco em pisos, meta de duplicar faturamento) — marcados como "a validar" com PH/cliente antes da 1ª estratégia mensal.

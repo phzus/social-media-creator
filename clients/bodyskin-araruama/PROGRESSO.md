@@ -4,6 +4,40 @@ Log datado do trabalho feito pra BodySkin. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-10-13 — Post de sexta 16/10: "Dez minutos apertando cravo no espelho do banheiro, e o nariz vermelho até o dia seguinte."
+
+Lote de sexta de toda a carteira. [Peça](conteudo/posts/2026-10-16-cravo-no-espelho-do-banheiro.md): estático 4:5 + animado de 5s, P5 Oferta, slot 8 do [calendário de outubro](estrategia/2026-10.md) (oferta de limpeza de pele da dezena 11-20). Mecanismo: **comparação**, o hábito de espremer cravo em casa × a extração feita pela profissional. A dor vem primeiro e a condição por último, contra o lead que chega comparando preço (reunião de 17/09).
+
+**Por que agora:** é a dezena de pele, e a sexta é o dia de venda.
+
+**Descartado:** a versão 50+/toxina (a RT não respondeu, gate aberto desde 26/07) · percentual (sem preço cheio) · abrir pelo preço · close de pele ou antes e depois.
+
+**Travas:** 🔴 a **condição de limpeza de pele de outubro não veio** no pacote do Outubro OFF. A peça tem placeholder (versão A) e uma versão B, que sobe sem a faixa da condição. 🔴 Preço e descrição do procedimento passam pela RT (PADROES §2). 🟡 Falta confirmar se a avaliação gratuita vale pra limpeza de pele e se a limpeza entra no Outubro OFF. Como o próximo dia de aprovação da Cintia é a própria sexta 16/10, o mais provável é subir a versão B. ⚠️ Envio fora da semana de antecedência: pelo cronograma, devia ter ido em 09/10.
+
+---
+
+## 2026-10-07 — Dia das Crianças (segunda 12/10): "Com criança em casa, feriado é tudo, menos dia OFF"
+
+PH pediu artes de Dia das Crianças pra toda a carteira. [Peça](conteudo/posts/2026-10-12-dia-das-criancas-feriado-nao-e-dia-off.md) — estático 4:5 100% tipográfico, fundo preto, **OFF** gigante em laranja (mesmo lettering da capa do Outubro OFF), versão animada de 5s. Mecanismo **(g) feriadão como contexto**: o fato (feriado de Dia das Crianças não é folga de quem tem criança em casa) vira pelo "OFF" da campanha da própria cliente.
+
+**Decisões:** (1) **criança só em texto, nunca em imagem nem objeto** — estética e clínica não têm criança na arte. (2) Sem preço, oferta, percentual, injetável, número de sessões, horário de funcionamento; "OFF" é trocadilho, não desconto. (3) Não parece data dupla (regra 5 do §8): sem "condição do dia". (4) CTA único = avaliação gratuita pelo link do perfil, em uma linha pequena (cortável se PH preferir peça pura de marca). Descartadas: nostalgia de verão (repetiria *Florescer* e o carrossel do verão em 7 dias) e "mãe também merece um tempo" (serve pra qualquer clínica).
+
+**Encaixe e prazo:** o slot de feed de 12/10 segue com o carrossel de limpeza de pele; esta peça vai pros **stories de manhã** (versão animada 9:16). Cintia aprova seg/sex e segunda é o feriado: **envio qui 08/10 até 15h, limite sex 09/10 de manhã**, avisando que é peça nova, fora da semana de antecedência.
+
+**Checado:** fora do gate da RT (nada clínico); paleta oficial estrita; endereço/telefone não entram. Nenhuma pendência nova.
+
+---
+
+## 2026-10-05 (2) — Colagem de primavera no formato "4 quadrantes": peça de hoje com tom poético
+
+PH trouxe uma referência de **formato** (colagem de quatro fotos sem rosto, título serifado + itálico + oval vazado no centro) e pediu uma peça de primavera, poética, sobre florescer e estar livre. [Referência salva](referencias/2026-10-05-ref-formato-quatro-quadrantes-liberdade.md).
+
+[**"Florescer é estar livre"**](conteudo/posts/2026-10-05-florescer-e-estar-livre.md): quatro momentos de primavera (feira, pedalar, praia, domingo) com o turquesa da paleta costurando as fotos. Sem preço, sem oferta, e a ponte com a venda é a frase da própria cliente na campanha do mês (*OFF nos pelos, ON na liberdade*) mais a avaliação gratuita no fecho.
+
+**Assumi que ela ocupa o slot de hoje**, e que a [peça da avaliação gratuita](conteudo/posts/2026-10-05-da-pra-saber-sem-fechar-pacote.md) escrita de manhã vai pra quarta ou stories. **PH confirma qual sobe.** A Cintia precisa ser avisada: é a terceira versão do slot de 05/10.
+
+---
+
 ## 2026-10-05 — O 10.10 foi cancelado: peça de segunda trocada antes de subir e oferta do mês herdando a sexta
 
 PH confirmou hoje: **a BodySkin não vai ter 10.10.** O que vale no sábado é a campanha **Outubro OFF** ([registro](referencias/2026-10-02-promocoes-outubro-off-cliente.md)), a mesma que está no ar desde o dia 2.
@@ -445,7 +479,7 @@ PH pediu roteiro de vídeo pra hoje. `conteudo/roteiros/` estava vazio — é o 
 
 **Sem preço, sem antes/depois, sem WhatsApp** (CTA aponta só pro link na bio, mesma regra do post de 27/07 — OQ #2 do WhatsApp segue sem resposta).
 
-**Ajuste de gancho (mesmo dia):** PH pediu texto mais genérico pra este cliente — trocado o gancho elaborado por um molde direto/hiperlocal: **"Você de [local] tá [dor]? Então você precisa conhecer a [empresa]"**, mesmo formato já validado no Complexo Vida. Preenchido com depilação a laser (carro-chefe, ainda não tocado em vídeo). Registrado como padrão liberado no [PADROES §5](PADROES.md) — vale pras próximas peças, não é vício a evitar aqui.
+**Ajuste de gancho (mesmo dia):** PH pediu texto mais genérico pra este cliente — trocado o gancho elaborado por um molde direto/hiperlocal: **"Você de [local] tá [dor]? Então você precisa conhecer a [empresa]"**. Preenchido com depilação a laser (carro-chefe, ainda não tocado em vídeo). Registrado como padrão liberado no [PADROES §5](PADROES.md) — vale pras próximas peças, não é vício a evitar aqui.
 
 **Ajuste de escopo (mesmo dia, 2ª rodada):** PH pediu pra ampliar de "só o processo de avaliação" pra **apresentação da clínica** — nomear os 4 lasers e citar harmonização facial + peeling de ATA como outras frentes, virando cartão de visita em vídeo. A avaliação gratuita deixou de ser o tema inteiro e virou o fecho/diferencial. Como a menção ao ATA pelo nome exige a mesma confirmação da RT que o post de 27/07 já sinalizava, deixei registrado no roteiro que, se a RT não liberar nem a menção, a fala corta essa linha e mantém só a harmonização.
 

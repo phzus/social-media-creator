@@ -71,3 +71,11 @@ CIIL é serviço de saúde. Conteúdo deve respeitar a **publicidade médica reg
 - Depoimento de paciente: tratar com cuidado — só com **autorização formal** e dentro do que a norma médica permite (evitar promessa implícita de resultado).
 - Vacinas: informação correta, sem desinformação; preços/campanhas conferidos.
 - Confirmar com PH/CIIL se há **responsável técnico (médico)** que valida claims clínicos antes de publicar.
+
+---
+
+## Adendos
+
+### 2026-09-17 — Lista de convênios do §2 substituída pela confirmação do cliente
+
+A lista de convênios em **§2** vem da auditoria Cowork AI (maio/2026) e nunca tinha sido reconfirmada com o cliente. Em 2026-09-17, a CIIL São Gonçalo confirmou diretamente uma lista atualizada (com Health Med e OMINT Saúde, que não estavam no §2 original) e estabeleceu regra permanente de sempre postar "*Consulte condições" em peça de convênio. Lista completa e vigente em [PADROES.md](PADROES.md); fonte em [referencias/2026-09-17-cliente-confirma-convenios-e-regra-consulte-condicoes.md](referencias/2026-09-17-cliente-confirma-convenios-e-regra-consulte-condicoes.md). O §2 original fica registrado como estava (não editar corpo), mas **não é mais a fonte a usar** pra peças novas.

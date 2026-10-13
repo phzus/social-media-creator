@@ -2,6 +2,31 @@
 
 Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes de fechar a 1ª estratégia mensal.
 
+## 🟢 2026-10-13 — Post de 16/10 (Anestesia, venda direta): não bloqueia
+
+[Peça](conteudo/posts/2026-10-16-anestesia-pergunta-quem-cuida.md).
+
+17. 🟢 **Como funciona a Anestesia na clínica?** Anestesista é da equipe fixa ou parceiro? Atende todo dia ou em agenda? Acompanha do pré-anestésico ao despertar? Hoje o único fato confirmado é o nome na lista das 13 especialidades; a peça só diz que a especialidade existe e que dá pra tirar dúvida antes. Com a resposta nas palavras do cliente, o slide 2 ganha uma linha concreta. Vale também confirmar que a equipe responde as 4 perguntas do slide 3 (avaliação antes, idade/peso no plano, quem fica com o pet, volta pra casa).
+
+---
+
+## 🟢 2026-10-07 — Post de 12/10 (Dia das Crianças, sacola de doces): não bloqueia
+
+[Peça](conteudo/posts/2026-10-12-dia-das-criancas-sacola-de-doces.md).
+
+16. 🟢 **A clínica atende ou tem plantão no feriado de 12/10?** A peça manda o tutor "procurar um veterinário na hora" se o pet comer chocolate, **sem nomear a clínica e sem afirmar horário**. Se PH confirmar atendimento ou plantão, entra uma linha final na legenda ("hoje a gente atende até X"). Sem a resposta, a peça sai como está.
+
+---
+
+## 🟡 2026-10-06 — Post de 09/10 (Outubro Rosa): o que falta
+
+[Peça](conteudo/posts/2026-10-09-outubro-rosa-passa-a-mao-na-barriga-dela.md).
+
+1. 🟡 **O cliente valida o gesto de palpação ("passa a mão na barriga dela") e a lista de sinais?** A clínica não tem responsável técnico identificado. Se vetar, a âncora vira "REPARA NA BARRIGA DELA".
+2. 🟡 **Pode usar fundo rosa claro e laço pequeno?** O [PADROES §4](PADROES.md) diz "não introduzir cor nova"; o template de Data permite fundo temático. PH decide; sem exceção, o fundo fica off-white e o rosa só no laço.
+
+---
+
 ## ✅ Resolvidas (PH, 2026-07-30)
 
 - ~~Estilo único de ilustração~~ → **Foto real de banco de imagem (stock), não ilustração vetorial.** PH aprovou um post real do perfil (odontologia, "8 em cada 10 pets") como base visual oficial. Template completo em [PADROES §2](PADROES.md) e [referência](referencias/2026-07-30-post-real-odontologia-aprovado-como-base.md).
@@ -32,6 +57,18 @@ Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes
 
 11. **A clínica tem exame de imagem cardíaco (ecocardiograma) no local, ou encaminha pra parceiro?** Surgiu ao escrever a 1ª peça de "Especialidade da Semana" ([conteudo/posts/2026-08-11-especialidade-cardiologia.md](conteudo/posts/2026-08-11-especialidade-cardiologia.md)) — o briefing original menciona ecocardiograma no gancho de Cardiologia, mas não confirma se é feito no local. Copy ficou genérica ("exame de imagem do coração quando o caso pede") até essa confirmação. Mesma pergunta vai se repetir nas próximas 12 especialidades — vale levantar de uma vez com o cliente quais exames/equipamentos cada especialidade realmente tem no local.
 
+## 🟡 Importante — nova (2026-09-11)
+
+12. **Cadência da venda direta por especialidade.** Cliente pediu posts de venda direta pra especialidade (ver [PROGRESSO 11/09](PROGRESSO.md)). Não ficou definido se isso substitui parte do carrossel educativo de terça, se soma como peça extra em outro dia, ou se roda só quando PH pedir. Primeira peça (Dermatologia) ocupou o slot de sexta por decisão pontual.
+
 ## 🟡 Importante — nova (2026-08-10)
 
 10. **Linha temática única por semana (diretriz do chefe do PH) a partir de 17/08.** PH confirmou que essa restrição não vale pra semana de 10-14/08 (mix normal), mas passa a valer da semana de 17/08 em diante. Falta decidir **qual categoria/pilar esse cliente vai seguir** naquela semana (Mito x Verdade? Especialidade? Alerta?) — o mix atual deste cliente já tem 5 pilares fixos por dia (Seg a Sex), então a diretriz pode exigir repensar a cadência inteira, não só trocar 1 post. Resolver antes de planejar a semana de 17/08.
+
+## 🔴 Bloqueantes de publicação — novas (2026-09-23)
+
+13. **Conflito de calendário na sexta 25/09.** A peça de raiva ([2026-09-25-raiva-alerta-morcego.md](conteudo/posts/2026-09-25-raiva-alerta-morcego.md)) e a de Odontologia venda direta ([2026-09-25](conteudo/posts/2026-09-25-especialidade-odontologia-venda-direta.md)) disputam o mesmo slot. Proposta da Lone: raiva publica no 25 (perecível — ponto itinerante de vacinação sai da Praça de São Vicente em 27/09 e o Dia Mundial de Combate à Raiva é 28/09) e Odontologia desloca pra 02/10. **PH decide.**
+
+14. **A clínica topa indicar a vacinação gratuita da Prefeitura?** A peça de raiva manda o tutor vacinar de graça no Parque de Exposições em vez de na clínica. É aposta de autoridade (informar o que é melhor pro pet mesmo sem faturar) mas mexe com receita de vacina — **o cliente precisa topar**. Variação sem o parágrafo da campanha já descrita na própria peça.
+
+15. 🟡 **Ponto itinerante da Praça de São Vicente (23-27/09)** — aparece na cobertura de imprensa, não conferi na agenda oficial da Prefeitura se funciona sexta/sábado. Ficou fora da legenda. Se PH confirmar por telefone, dá pra somar uma linha antes de publicar.

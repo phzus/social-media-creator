@@ -57,6 +57,14 @@ Split vermelho/verde + tipografia. Uma afirmação popular por vez, seguida do f
 
 Lista de ganchos das 13 especialidades e ordem sugerida em [referencias/2026-07-30-briefing-completo-recebido.md §9](referencias/2026-07-30-briefing-completo-recebido.md). Uma por semana, sempre às terças; ao completar o ciclo de 13, reinicia com ângulo novo (caso genérico, aprofundamento técnico ou sazonal).
 
+### ⚠️ Venda direta por especialidade (novo formato, feedback do cliente em 2026-09-11)
+O cliente pediu explicitamente posts de **venda direta** pra especialidade, não só carrossel educativo. Formato: template Educativo (grid fixo do §2-3), aplicado a copy de venda — mesma lógica do post geral "13 especialidades" ([21/08](conteudo/posts/2026-08-21-13-especialidades-sob-o-mesmo-teto.md)), mas focado numa especialidade só. Primeira aplicação: [Dermatologia, 11/09](conteudo/posts/2026-09-11-especialidade-dermatologia-venda-direta.md).
+
+- Kicker = sintoma/dor recorrente do tutor com aquela especialidade (não pergunta didática).
+- Palavra-âncora = frase de resolução direta ("TEM ESPECIALISTA PRA ISSO"), não conceito educativo.
+- CTA sempre WhatsApp direto (não varia como no §7 — peça de venda pede caminho único).
+- Convive com o carrossel educativo de terça — não substitui a cadência, soma um formato novo. **Não confirmado com PH se isso deve rodar toda sexta ou só quando ele pedir** — ver [OPEN-QUESTIONS](OPEN-QUESTIONS.md).
+
 ### Meme/identificação (Quarta)
 Split screen "eu vs. meu pet" com stock + frase. Formato mais viral do nicho — não precisa de pet do cliente.
 
@@ -89,10 +97,13 @@ Toda peça leva nome de lugar (Araruama, Região dos Lagos, "tutor da praia") em
 | Link | linktr.ee/vetregional | Briefing |
 | Especialidades (13) | Cardiologia, Hematologia, Nutrição & Endocrinologia, Oftalmologia, Ortopedia, Nefrologia, Dermatologia, Anestesista, Oncologia, Fisioterapia, Neurologia, Acupuntura, Odontologia | Highlight "Especialidades" do perfil |
 | CNPJ / nome do(a) veterinário(a) responsável / CRMV | **Não informado** | — |
+| Ultrassom | Feito no local (ecocardiograma especificamente ainda não confirmado — [OPEN-QUESTIONS #11](OPEN-QUESTIONS.md)) | PH, 2026-08-19 |
 
 ---
 
 ## Histórico
 
+- **2026-09-11** — Feedback do cliente: quer posts de venda direta pra especialidade, não só carrossel educativo. Adicionada seção nova em §5 ("Venda direta por especialidade"), aplicada pela primeira vez em [Dermatologia](conteudo/posts/2026-09-11-especialidade-dermatologia-venda-direta.md). Cadência exata (toda sexta ou sob demanda) ainda não confirmada com PH.
+- **2026-08-19** — Adicionado fato operacional em §9: ultrassom é feito no local (confirmado por PH ao escrever o [post de Dia do Ultrassonografista](conteudo/posts/2026-08-21-dia-do-ultrassonografista.md)). Ecocardiograma especificamente segue não confirmado ([OPEN-QUESTIONS #11](OPEN-QUESTIONS.md)).
 - **2026-07-30 (2)** — PH aprovou um post real do próprio perfil (odontologia, "8 em cada 10 pets") como **base visual oficial**. Ajustei §1 (a regra dura é só contra IA fotorrealista, foto real de banco de imagem é permitida e é o caminho escolhido) e adicionei §2 com o template validado. Resolve [OPEN-QUESTIONS #3](OPEN-QUESTIONS.md) (estilo visual): é foto real/stock, não ilustração vetorial.
 - **2026-07-30** — criado no onboarding, transcrevendo as regras rígidas do briefing completo que PH recebeu (elaborado pela própria Lone). Regra do fotorrealismo e dos 4 templates-mãe tratadas como inegociáveis; cadência/pilares seguem "a validar com o cliente" no context.md.

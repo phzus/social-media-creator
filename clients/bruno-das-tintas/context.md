@@ -108,7 +108,7 @@ Direto, concreto, sem "leia a legenda" — a arte tem que entregar o essencial s
 - **Plataforma:** Instagram (@brunotintas), canal único. Facebook existe mas atividade não confirmada.
 - **Formato:** 1080×1350 (4:5) padrão de feed. Peças de cor e antes/depois nascem também em 1000×1500 (2:3) pra virarem pin no Pinterest.
 - **Cadência proposta:** 4 posts/semana + stories diários + mínimo 2 Reels/semana — confirmar vs. plano contratado.
-- **Sazonalidade:** pré-temporada de verão (set-nov, reforma de casa de veraneio antes da alta temporada) · Dia do Cliente 15/09 · Dia do Pintor 18/10 (ativar 15-17/10) · Dia do Trabalhador da Construção Civil 26/10 · Black Friday 27/11.
+- **Sazonalidade:** pré-temporada de verão (set-nov, reforma de casa de veraneio antes da alta temporada) · **Semana do Cliente 14-19/09 — condição comercial confirmada, ver [PADROES §9](PADROES.md)** (ancora o Dia do Cliente, 15/09) · Dia do Pintor 18/10 (ativar 15-17/10) · Dia do Trabalhador da Construção Civil 26/10 · Black Friday 27/11.
 - **⚠️ Existe volume relevante de material já produzido pela Lone fora deste repositório** (pasta local do PH, abril–agosto/2026: saldões, promoções, carrosséis, reels das duas lojas). Não catalogado em `referencias/` ainda — ver [OPEN-QUESTIONS #12](OPEN-QUESTIONS.md).
 
 ---

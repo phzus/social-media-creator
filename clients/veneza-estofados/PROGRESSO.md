@@ -4,6 +4,19 @@ Log datado do trabalho feito pra Veneza Estofados. Topo = mais recente. Entrada 
 
 ---
 
+## 2026-10-13 — Post de sexta 16/10: "Fechado, ele ocupa 80 cm da sala. Aberto, dá 1,55 m pra esticar as pernas."
+
+[Peça](conteudo/posts/2026-10-16-sofa-master-fechado-aberto.md): estático 4:5, mecanismo **ficha + preço**, Sofá Master 1,50m a R$ 799,99 à vista ou 12x de R$ 76,00. É a mesma arte nos dois perfis, só com a assinatura de cada um (Araruama com (22) 98811-4216; Nova Iguaçu com [CONFIRMAR]).
+
+- **Por que agora:** na reunião de hoje ficou combinado que o preço segue no centro do feed, e as três últimas peças (05, 09 e 12/10) saíram sem preço.
+- **Ângulo:** o gancho sai da própria ficha. A profundidade fechado (80 cm) × aberto (155 cm) responde à sala pequena. Largura (31/08) e passagem na porta (21/09) já rodaram; profundidade nunca entrou. CTA novo: "fala que viu o Master".
+- **Fonte:** arte de preço e arte "Medidas aproximadas" do cliente em ~/Downloads (21/08). O preço tem ~8 semanas: **confirmar vigência**.
+- **Descartado:** Athenas e Opala (já rodaram no mesmo formato), Thaisa (preço de feed antigo e sem foto), Esquenta Black (produtos não escolhidos pelo cliente; o Master pode virar item do Esquenta trocando só a identidade).
+- **Travas:** sem cidade na arte · sem prazo, garantia, troca ou pagamento na entrega · sem D28/eucalipto (o Master não tem composição registrada) · sem PIX 5% (mistura condição do site com preço de arte) · sem número de Araruama na versão de Nova Iguaçu.
+- **Achados:** as artes de agosto trazem Nova Iguaçu como Rua Inês **233** e **21 96901-3856** (o OQ #26 tem 216). E Master (R$ 799,99) e Ipanema 1,50m (R$ 899,99) estão abaixo do "a partir de R$ 949,99" do PADROES §11, usado no carrossel de 02/10. Os dois foram para o [OPEN-QUESTIONS](OPEN-QUESTIONS.md) #31–34.
+
+---
+
 ## 2026-10-13 — Reunião de alinhamento: mês recorde, identidade unificada nos dois perfis e Esquenta Black
 
 Carlos conduziu com Mateus (22 min). PH trouxe a transcrição e o resumo em PDF. [Resumo registrado](reuniao-mensal/resumos/2026-10-13-resumo-reuniao.md).

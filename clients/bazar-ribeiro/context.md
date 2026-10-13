@@ -10,7 +10,13 @@
 
 ## Identidade
 
-**Bazar Ribeiro** — rede de material de construção e ferragens, litoral do Rio de Janeiro, **desde 1989**. Duas unidades com identidades regionais distintas: **Maricá** (matriz, 2.271 seguidores) e **Saquarema** (1.019 seguidores, feed menos ativo).
+**Bazar Ribeiro** — rede de material de construção e ferragens, litoral do Rio de Janeiro, **desde 1989**. Duas unidades com identidades regionais distintas: **Maricá** (matriz, ≈2.500 seguidores) e **Saquarema** (≈1.200-1.300 seguidores, feed menos ativo, perfil criado do zero).
+
+⚠️ **Números de 03/09/2026, citados de memória por Junior Ribeiro na reunião de alinhamento** ([referencias/2026-09-03](reuniao-mensal/resumos/2026-09-03-resumo-reuniao-lone-x-bazar.md)) — não é Insights consolidado (acesso ainda pendente, [OPEN-QUESTIONS #8](OPEN-QUESTIONS.md)). Maricá saiu de uma base de ≈800.
+
+**Quem decide do lado do cliente:** Junior Ribeiro — confirmado como aprovador na reunião de 03/09 ([OPEN-QUESTIONS #11](OPEN-QUESTIONS.md), resolvido).
+
+**Quem atende do lado da Lone:** além de PH, esta conta tem equipe própria — Carlos Augusto conduziu a reunião de 03/09; Roberto e Lucas também atuam na conta (ausentes por viagem). Decisões podem chegar por esse canal, não só direto de PH.
 
 **Diferenciais reais:** delivery próprio via WhatsApp, aceita Cartão Mumbuca (só em Maricá), catálogo grande com marcas reconhecidas (Tramontina, Lorenzetti, Fabrimar, Trapp, 3M, entre outras), ticket de item avulso (R$ 1,93) até equipamento (R$ 1.799,90).
 
@@ -49,7 +55,7 @@
 - Jargão técnico de ferragem sem tradução pro público leigo (terciário/primário não-profissional)
 - Promessa vaga tipo "qualidade garantida" sem produto/preço real por trás
 
-**CTA:** orçamento no WhatsApp, sempre com os dois números identificados por cidade — (21) 2637-2498 Maricá · (21) 3731-0812 Saquarema. Nunca publicar um número genérico sem dizer qual loja atende.
+**CTA:** orçamento no WhatsApp, sempre com os dois números identificados por cidade — (21) 2637-2498 Maricá · (22) 98831-6090 Saquarema. Nunca publicar um número genérico sem dizer qual loja atende.
 
 **Hashtag fixa (rodapé):** `#BazarRibeiro #Marica #Saquarema #TudoParaSuaConstrucao #ConstruindoJuntos` (+ hashtag de data quando houver campanha, ex. `#DiaDosPais2026`).
 
@@ -76,7 +82,9 @@ Maricá e Saquarema não podem ser tratadas como cópia uma da outra — Saquare
 
 ## Produção de vídeo
 
-⚠️ **A loja não é de gravar.** PH confirmou (2026-07-31) que o dono/equipe do Bazar Ribeiro não tem perfil de organizar captação de vídeo por conta própria (segurar celular, abordar cliente pra depoimento, etc.). Isso vale como restrição permanente de planejamento, não só pra campanha de agosto: **todo reel ou UGC que dependa de filmagem na loja precisa de alguém da Lone fisicamente presente pra captar** — não dá pra propor mecânica que pressuponha a loja autoproduzindo vídeo. Ver aplicação em [estrategia/2026-08.md §6](estrategia/2026-08.md) e [PADROES §7](PADROES.md).
+⚠️ **A loja não é de gravar** — pra depoimento, UGC roteirizado ou qualquer captação que exija conduzir uma cena. PH confirmou (2026-07-31) que o dono/equipe não tem perfil pra isso, e **todo reel/UGC roteirizado precisa de alguém da Lone fisicamente presente**. Ver aplicação em [estrategia/2026-08.md §6](estrategia/2026-08.md) e [PADROES §7](PADROES.md).
+
+**Refinamento (reunião 03/09, [referencias](reuniao-mensal/resumos/2026-09-03-resumo-reuniao-lone-x-bazar.md)):** isso não significa zero vídeo sem a Lone em campo. **Junior gravar takes de ambiente sem fala** (loja, prateleira, atendentes trabalhando) quando visita Maricá **é viável** e foi o caminho que ele mesmo propôs pra resolver a lacuna de vídeo naquela cidade — vira banco de imagem pra reel/criativo, sem depender de crew. A restrição segue valendo só pra cena conduzida/roteirizada.
 
 ## Pendências
 

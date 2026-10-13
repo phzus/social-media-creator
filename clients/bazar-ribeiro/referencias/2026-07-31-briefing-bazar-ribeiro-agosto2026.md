@@ -18,7 +18,7 @@
 | Unidade | Endereço | Telefone/WhatsApp |
 |---|---|---|
 | **Maricá** *(matriz)* | Rua Pereira Neves, 310 — Centro, Maricá/RJ (CEP 24900-660) | (21) 2637-2498 |
-| **Saquarema** | Rua Prof. Francisco Fonseca, 401 — Bacaxá, Saquarema/RJ | (21) 3731-0812 |
+| **Saquarema** | Rua Prof. Francisco Fonseca, 401 — Bacaxá, Saquarema/RJ | (22) 98831-6090 |
 
 **Slogan / posicionamento:** *"Tudo para sua construção"*
 **Categorias:** Elétrica · Hidráulica · Ferragens · Ferramentas · Jardim & Piscina · Tintas · Material de acabamento
@@ -178,7 +178,7 @@ Selecionados pela relação "cara de presente de pai" × preço acessível × di
 `#BazarRibeiro #Marica #Saquarema #DiaDosPais2026 #TudoParaSuaConstrucao #ConstruindoJuntos`
 
 **CTA padrão de todo post:**
-> *Faça seu orçamento no WhatsApp (21) 2637-2498 (Maricá) · (21) 3731-0812 (Saquarema)*
+> *Faça seu orçamento no WhatsApp (21) 2637-2498 (Maricá) · (22) 98831-6090 (Saquarema)*
 
 **Cores da campanha de agosto:**
 Manter o azul-royal + amarelo do padrão do feed, MAS adicionar um selo dourado "Dia dos Pais 2026" nas peças da campanha para diferenciar visualmente do oferta comum.

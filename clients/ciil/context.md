@@ -1,6 +1,6 @@
 # Social Media Context — CIIL
 
-last_updated: 2026-06-22
+last_updated: 2026-08-26
 status: 🟡 Versão 1.0 — destilado do briefing/auditoria da Cowork AI (Maio/2026), recebido por PH em 22/06/2026. Direção de marca herdada de terceiro; **validar com PH e com o cliente** antes de fechar a 1ª estratégia mensal Lone.
 
 > Fonte de verdade pra todas as skills `*-sms` quando trabalhando com a CIIL. Substitui `.agents/social-media-context-sms.md` (ver [CLAUDE.md](../../CLAUDE.md) sobre o redirecionamento).
@@ -12,7 +12,18 @@ status: 🟡 Versão 1.0 — destilado do briefing/auditoria da Cowork AI (Maio/
 - **Type:** Brand (cliente da Lone Mídia).
 - **Name:** CIIL — Centro de Imunobiológicos e Imunização Lagos.
 - **Handles:** Araruama → Instagram **@ciilagos** · Facebook /ciilagos. São Gonçalo → Instagram **@ciil.sg** · Facebook /ciil.sg. Linktree: linktr.ee/Ciilagos.
-- **Role:** Clínica de infusão (day clinic) especializada em **terapias imunobiológicas** pra doenças autoimunes + **vacinação** (todas as idades, corporativa, domiciliar) + exames (ultrassom, PPD) + **consultas em imunologia e alergia/alergologia** (oferece — confirmado PH 22/06) + **procedimentos cirúrgicos dermatológicos** (novo, ver abaixo).
+- **Role:** Clínica de infusão (day clinic) especializada em **terapias imunobiológicas** pra doenças autoimunes + **vacinação** (todas as idades, corporativa, domiciliar) + exames (ultrassom, PPD) + **procedimentos cirúrgicos dermatológicos** (ver abaixo).
+- 🔴 **CORREÇÃO 2026-08-21 (cliente, via PH): a CIIL NÃO tem imunologista nem alergista atendendo na clínica.** O claim de "consultas em imunologia e alergia/alergologia" que constava aqui como confirmado por PH em 22/06 estava **errado** — veio da destilação do briefing da Cowork AI (direção herdada de terceiro, nunca validada com o cliente). **Não usar em nenhuma peça.** Quando a pauta for imunologia/autoimunidade, falar de **doença autoimune e do tratamento feito na CIIL**, não de consulta com especialista. Material bruto: [referencias/2026-08-21-feedback-cliente-nao-tem-imunologista-alergista.md](referencias/2026-08-21-feedback-cliente-nao-tem-imunologista-alergista.md).
+- ✅ **ESCOPO CLÍNICO CONFIRMADO PELA DONA (2026-08-26, reunião)** — a pendência mais antiga da conta, aberta desde 06/07, está resolvida. Material bruto: [referencias/2026-08-26-reuniao-alinhamento-doencas-especialidades.md](referencias/2026-08-26-reuniao-alinhamento-doencas-especialidades.md).
+
+  **As 10 doenças que a CIIL trata:** Psoríase · Artrite Psoriásica · Artrite Reumatoide · Doença de Crohn · Retocolite Ulcerativa · Dermatite Atópica · Asma · Lúpus · Hidradenite Supurativa · Espondilite Anquilosante.
+
+  **Tratamento:** medicações imunobiológicas, **subcutâneas ou infusionais**. ⚠️ Toda a copy da conta até 26/08 assumiu só infusão (poltrona/day clinic) — está incompleto, existe também a via subcutânea, que é aplicação rápida e não sessão.
+
+  **Especialidades atendidas no momento:** **Dermatologia · Reumatologia · Pediatria.** A dona sinalizou que a lista deve crescer ("em breve iremos atender outras especialidades") — reconfirmar periodicamente. Nenhuma delas é imunologia ou alergia, que seguem fora (regra de 21/08 intacta). ⚠️ **Ainda não está confirmado se "atender a especialidade" significa consulta médica na clínica** — não afirmar consulta antes de confirmar com PH, ver [OPEN-QUESTIONS](OPEN-QUESTIONS.md).
+
+  ⚠️ **Nomenclatura:** **Asma não é doença autoimune** (é inflamatória crônica das vias aéreas) e Hidradenite é autoinflamatória. O guarda-chuva correto pras 10 é **"doenças imunomediadas"** / "doenças tratadas com imunobiológico" — não "autoimunes". Pendente de validação do RT.
+
 - **Novo (2026-07-24, WhatsApp do cliente repassado por PH, datado 15/06):** a CIIL oferece **excisão de lesões** (remoção de verrugas, cistos, sinais, tumores), **tratamento de câncer de pele** e **tratamento de hidradenite supurativa**. Não estava no BRIEFING original (Cowork AI). ✅ **Confirmado por PH (2026-07-24): é serviço das 2 unidades** (Araruama + São Gonçalo), não exclusivo de SG — mesmo tratamento das demais peças (conteúdo idêntico entre unidades). Fonte: [referencias/2026-07-24-procedimentos-novos-sao-goncalo.md](referencias/2026-07-24-procedimentos-novos-sao-goncalo.md).
 - **Industry/niche:** Saúde — imunologia, imunobiológicos e imunização.
 - **Positioning (proposto, a validar):** *A referência em saúde imunológica da região — autoridade científica com acolhimento humano. Cuida do corpo, da qualidade de vida e da tranquilidade do paciente e da família.*
@@ -26,7 +37,8 @@ status: 🟡 Versão 1.0 — destilado do briefing/auditoria da Cowork AI (Maio/
 A CIIL fala com **públicos distintos que dividem o mesmo tom** — muda o contexto, não a voz.
 
 ### Pacientes de terapia imunobiológica (crônicos)
-- Portadores de **doenças autoimunes**: Psoríase, Artrite Reumatoide, Crohn, Espondilite Anquilosante, Dermatite Atópica, Artrite Psoriática.
+- Portadores das **10 doenças imunomediadas tratadas na CIIL** (lista fechada, confirmada pela dona 2026-08-26): Psoríase, Artrite Psoriásica, Artrite Reumatoide, Doença de Crohn, Retocolite Ulcerativa, Dermatite Atópica, Asma, Lúpus, Hidradenite Supurativa, Espondilite Anquilosante.
+- 🆕 **Público infantil entra no escopo** — Pediatria é uma das 3 especialidades atendidas. Nunca apareceu em nenhuma peça até hoje; é frente de conteúdo inteira em aberto.
 - **Dores:** medo do tratamento, desinformação sobre biológicos, deslocamento/internação, insegurança sobre convênio.
 - **Desejos:** tratamento seguro e confortável, perto de casa, sem internar, com cobertura do plano.
 
@@ -156,3 +168,4 @@ Herdados da proposta Cowork AI (validar % com a Lone na 1ª estratégia mensal).
 ## Histórico de revisões
 
 - **2026-06-22** — v1.0 criado a partir do briefing/auditoria da Cowork AI (Maio/2026), repassado por PH. Direção de marca, pilares e tom são herdados de terceiro — marcados como "a validar" até confirmação de PH/cliente.
+- **2026-08-26** — Reunião de alinhamento: escopo clínico fechado (10 doenças + via subcutânea/infusional + 3 especialidades atendidas). Cliente aprovou o trabalho e pediu foco em doenças imunomediadas com a série mais explicitamente marcada, ângulo de identificação de sintomas.

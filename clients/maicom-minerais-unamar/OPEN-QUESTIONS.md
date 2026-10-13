@@ -2,6 +2,49 @@
 
 Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes de fechar a 1ª estratégia mensal.
 
+## 🔴 2026-10-13 — Vigência do R$ 19,99/m² em 16/10 (item C com data)
+
+A [sexta 16/10](conteudo/posts/2026-10-16-janeiro-descalco-piso-novo.md) usa **"piso a partir de R$ 19,99 o m², no dinheiro ou no Pix"**, que é da tabela de setembro. A tabela de outubro nunca chegou (item C, aberto desde 22/09). **Confirmar com PH até qui 15/10.** Sem confirmação, o selo de preço sai e vira "mais de 1.000 modelos de piso".
+
+## 🟡 Aberto em 2026-09-01 — o que ficou faltando nas condições de setembro (não trava produção)
+
+PH passou a tabela de preços de setembro em 01/09 ([referência](referencias/2026-09-01-condicoes-setembro.md)). Quatro pontos não vieram junto. **Nenhum trava peça** — cada um já tem regra de escrita que contorna:
+
+| # | Pendência | Regra de escrita enquanto não responde |
+|---|---|---|
+| 1 | **Unidade: m² ou caixa?** | Assumido **m²** — é o que a loja pratica e o que a Lone comunicou o mês inteiro em agosto (R$ 22,99/m²). Se for caixa, todas as peças de preço precisam de correção. |
+| 2 | **Condição de pagamento do R$ 19,99** — as outras duas faixas vieram com "no dinheiro ou Pix", essa não | Aplicar a **mesma condição** (dinheiro/Pix) — é o que a loja já pratica desde o onboarding. Confirmar antes de rodar tráfego pago em cima. |
+| 3 | **Vigência** — início e fim da tabela | Peça fala **"em setembro"**, sem data de encerramento. Nada de "só até dia X" sem confirmação. |
+| 4 | **O brinde de agosto continua?** (4 m² = argamassa AC-1 + rejunte) | **Não citar brinde em nenhuma peça de setembro.** A campanha encerrou 31/08 e ninguém confirmou continuidade — anunciar ou desmentir os dois erra. |
+
+⚠️ O item 2 é o de maior custo se estiver errado: preço sem condição explícita vira reclamação de balcão, e o histórico de atendimento da loja já é o gargalo conhecido.
+
+## ✅ Resolvida (PH, 2026-09-01) — briefing de setembro
+
+~~O mês abriu sem alavanca comercial definida (janela 22-25/08 passou sem briefing).~~ → **PH passou a tabela de preços em 01/09.** Setembro tem alavanca: preço. Registro abaixo, mantido como histórico da decisão.
+
+<details>
+<summary>Como estava em 31/08</summary>
+
+
+
+✅ **Decisão de PH, 31/08:** *"a gente pode colocar depois as promoções."* A pendência **não é bloqueante** — setembro começa rodando em conteúdo de valor e a oferta entra por cima quando o cliente passar. Mesmo princípio já registrado na casa: dado comercial é alçada do cliente e não trava entrega.
+
+**Contexto:** a janela padrão da Lone (dias 22-25) passou sem briefing, e a campanha do brinde (a cada 4 m² de piso, argamassa AC-1 + rejunte) encerrou em 31/08. Ou seja, o mês abre sem alavanca comercial — por escolha, não por descuido.
+
+As 5 perguntas do playbook, aplicadas à Maicom:
+1. Qual produto ele quer empurrar em setembro? (piso segue sendo o carro-chefe?)
+2. Tem promoção definida? A do brinde continua, muda de mecânica ou acaba?
+3. Alguma sazonalidade — pré-temporada de verão, reforma antes do fim do ano?
+4. Meta de vendas do mês (a régua anual é ≥ R$ 1 milhão até dez/2026)?
+5. Entra produto ou serviço novo?
+
+**Como fica na prática:** o feed roda em pilar educativo/variedade/posicionamento, como a [peça de 31/08](conteudo/posts/2026-08-31-mesmo-modelo-lote-diferente.md) — que é justamente o mix que agosto não teve, porque o mês inteiro girou em torno do brinde. Quando a promoção chegar, ela entra no slot de sexta (venda) sem retrabalho do que já estiver escrito.
+
+⚠️ **O que ainda vale perguntar quando houver conversa**, mesmo sem urgência: se o brinde continua, muda de mecânica ou acaba — porque isso muda o que a gente pode ou não afirmar em peça, não só o que a gente anuncia.
+
+</details>
+
 ## ✅ Resolvidas (PH, 2026-07-14)
 
 - ~~Endereço correto~~ → **Rod. Amaral Peixoto, KM 131 — Unamar, Cabo Frio/RJ, CEP 28929-332** (vale o de Unamar/KM131; ref.: antiga "Rei do 1 Real", perto do Cond. Terramar). Divergência Receita × Instagram encerrada.
@@ -24,6 +67,20 @@ Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes
 **B. Café da manhã de 22/08** (trava peças 7, 8, 9, 10): **horário de início/fim** (assumi 7h30), precisa confirmar presença, tem oferta especial no dia, cabe quanta gente.
 
 **E. Plano contratado × 15 peças.** Agosto propõe 12 do padrão + 3 do evento (22, 23 e a 5ª segunda, 31). Confirmar se cabe no pacote.
+
+---
+
+## 🟡 Novas (2026-09-22) — vídeos de humor
+
+**A. Qual é o @ do "Forte do Piso"?** PH citou como referência de tom pro vídeo escrachado. Ver o perfil calibra o nível da palhaçada antes de gravar o próximo — hoje o roteiro foi escrito pela descrição.
+
+**B. Quem da loja aparece nos vídeos de humor?** Vendedor, gerente ou o próprio Maicom. O formato depende inteiramente de alguém entregar a cena; sem isso, o roteiro não vira peça. — *trava a gravação de [2026-09-25](conteudo/roteiros/2026-09-25-eu-nao-aguento-mais.md), não a escrita.*
+
+**D.** ✅ *Resolvida pela v2 (22/09):* a piada do boleto **saiu** — na versão de PH o gerente entra só em voz ("tem cliente chegando"), o que elimina a leitura de loja endividada sem perder o fecho cômico. ~~A piada do "gerente cheio de boleto" passa bem pra marca?~~
+
+**E. O preço "a partir de R$ 19,99" também é só no dinheiro ou Pix?** A tabela de 01/09 grudou a condição no R$ 27 e no R$ 39,99 e deixou a faixa de entrada solta. A peça aplicou a condição aos três (lado seguro), mas é dado do cliente.
+
+**C. A tabela de preço de setembro vale em outubro?** As três faixas (19,99 · 27 · 39,99) são de 01/09. A janela de briefing mensal (22-25) está aberta agora — é a hora de pedir a de outubro, senão o mês abre sem alavanca como aconteceu em setembro.
 
 ---
 

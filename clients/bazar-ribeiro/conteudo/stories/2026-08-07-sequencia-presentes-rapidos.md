@@ -12,7 +12,7 @@
 
 **Formato:** 6 telas verticais (9:16), mesma identidade Bazar Ribeiro (azul-royal + raios amarelos, mascote, selo dourado de campanha) em versão simplificada — menos texto por tela que o post de feed, tipografia grande, 1 produto por tela.
 
-**Duas versões de arte (mesma sequência, WhatsApp diferente):** Maricá (21) 2637-2498 · Saquarema (21) 3731-0812.
+**Duas versões de arte (mesma sequência, WhatsApp diferente):** Maricá (21) 2637-2498 · Saquarema (22) 98831-6090.
 
 **Dependência de produção:** foto real de cada um dos 4 produtos.
 
@@ -72,7 +72,7 @@
 
 **Texto:** Presente de Dia dos Pais com preço especial até domingo, 09/08.
 
-**CTA:** Chama no zap · Maricá (21) 2637-2498 · Saquarema (21) 3731-0812
+**CTA:** Chama no zap · Maricá (21) 2637-2498 · Saquarema (22) 98831-6090
 
 ---
 

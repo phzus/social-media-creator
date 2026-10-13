@@ -4,6 +4,37 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-13 (2) — Post de sexta (16/10) para os 18 clientes ativos
+
+PH: *"Faz de sexta em tds os clientes."* Slot de sexta = venda/carrossel. **18 peças** em `clients/<slug>/conteudo/posts/2026-10-16-*.md`, produzidas em 7 grupos paralelos (concorrentes juntos). **Todas passaram por validador-copy independente** instruído a não confiar na Checagem, e nenhuma passou de primeira. PROGRESSO e OPEN-QUESTIONS de cada cliente atualizados.
+
+| Cliente | Formato | Mecanismo | Headline (resumo) | Trava pra subir |
+|---|---|---|---|---|
+| Araruama Tintas | carrossel 5 | ficha + preço | Em outubro, o susto fica por conta do Halloween. O preço da massa corrida é este | Wanderson confere nomes/embalagens/vigência |
+| Atlas | carrossel 6 | comparação / plano B "4 perguntas" | Avisar o sinistro leva uma ligação… | Gate do corretor até qua 14/10; senão sobe o plano B |
+| Bazar Ribeiro | estático | pergunta + giro | Quando foi que você trocou o regulador do gás? | Preço de 24/08 + "válido até" gravado no kit |
+| BodySkin | estático + animado | comparação | Dez minutos apertando cravo no espelho do banheiro | Condição de limpeza de pele + RT (versão B sobe sem preço) |
+| Bruno das Tintas | estático | objeção (Dia do Pintor 18/10) | Achou cara a tinta que o seu pintor pediu? | Sai sem preço; R$ 846 opcional se PH confirmar |
+| Casas Rio Bahia | carrossel 4 | cálculo | Terreno de 10 x 30… quantos rolos de arame? | Nada bloqueia (preço do encarte) |
+| Celmapel | carrossel 6 | calendário | Faltam 15 dias pro Halloween. Pra quem vende doce, faltam menos | Foto da loja até qua 12h |
+| CIIL | estático | objeção | Trocou o colchão, corrigiu a postura, e a dor nas costas continua | 🔴 RT |
+| Contele | estático | cálculo | 12 contas de luz por ano. Soma as suas… | — (Fio B a confirmar) |
+| Dijana | estático | comparação 500 L × 1000 L | Em dezembro a casa enche de gente e a caixa d'água pode secar | Preço de 24/08, validade, retirada |
+| Império | estático | ficha + preço | Você de Macaé tá com lona na janela… | Endereço (2 unidades nas artes!), vigência |
+| Lagos Padrão | estático (opcional) | pergunta + resposta | O munck aguenta a carga? Depende de onde ela vai descer | Cliente quer postar? |
+| Maicom | estático | cena | Em janeiro, sua casa vai ter gente descalça o dia todo | Tabela de outubro (fallback sem número pronto) |
+| Max | carrossel 4 | objeção | "Primeiro eu abro a empresa, depois procuro um contador." | OK técnico do escritório + canal do CTA |
+| MR MDF | carrossel 4 | objeção | A tomada do cliente não estava onde o projeto dizia | Preço de 18/08 + gate técnico |
+| Veneza | estático, 2 assinaturas | ficha + preço | Fechado, ele ocupa 80 cm da sala. Aberto, dá 1,55 m | Preço de 21/08 + WhatsApp de Nova Iguaçu |
+| Vet Regional | carrossel 4 | objeção | Você vem adiando a cirurgia dele por medo da anestesia? | — |
+| WT | estático | calendário | Daqui a 10 sextas é Natal. A piscina vai estar pronta pro primeiro mergulho? | Cliente topa palavra-chave PISCINA |
+
+**Conferência do lote lado a lado (orquestrador):** três peças abriam na mesma cena de "casa cheia de parente no fim de ano" (Dijana, WT, Maicom) e três usavam faixa de calendário (WT, Dijana, Celmapel). A WT perdeu a casa cheia (virou "primeiro mergulho") e a Dijana trocou a faixa por comparação 500 L × 1000 L. Fica registrado: "objeção respondida" saiu em 6 peças, mas com cenas e ramos sem sobreposição.
+
+**Achados laterais:** resumos de reunião reais em PDF no `~/Downloads` que nunca entraram no repo (Araruama Tintas 09/09 e 09/10; Dijana 02/09) — transcritos. Império tem **duas unidades** nas artes de agosto (context diz unidade única). Veneza tem preço de sofá abaixo do "a partir de R$ 949,99" já publicado em 02/10. Preço velho (ago/set) é a trava mais comum do lote.
+
+---
+
 ## 2026-10-13 — Veneza Estofados: resumo da reunião de alinhamento
 
 Reunião de 13/10 (Carlos × Mateus) registrada em [clients/veneza-estofados/reuniao-mensal/resumos/2026-10-13-resumo-reuniao.md](../clients/veneza-estofados/reuniao-mensal/resumos/2026-10-13-resumo-reuniao.md). Setembro foi o mês recorde da loja; identidade unificada nos dois perfis — @venezaestofados_araruama e @venezaestofados (Nova Iguaçu), estático igual nos dois, vídeo por unidade (corrigido por PH: os perfis não foram fundidos); Esquenta Black com identidade própria no fim de outubro e Black Friday em desenvolvimento; conteúdo de fábrica nas duas unidades. PAUTA recarregada, OPEN-QUESTIONS #17–30, context e PADROES §15–16 atualizados.

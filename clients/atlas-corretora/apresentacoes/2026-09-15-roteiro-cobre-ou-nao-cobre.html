@@ -1,0 +1,284 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Roteiro — Cobre ou Não Cobre · Atlas</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700;800&family=Source+Sans+3:wght@400;600;700&display=swap">
+<style>
+  :root {
+    --ink: #0d1626;
+    --ink-soft: #45516b;
+    --muted: #7b869c;
+    --blue: #1233f5;
+    --blue-deep: #0a1f9c;
+    --blue-wash: #e7ebff;
+    --line: #dfe4ee;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: #e9ecf5; }
+  body {
+    color: var(--ink);
+    font-family: "Source Sans 3", -apple-system, "Segoe UI", system-ui, sans-serif;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+  h1, h2, .pill, .stamp strong, .eyebrow, .field b, .meta b, .cena-n {
+    font-family: "Archivo", "Helvetica Neue", Arial, sans-serif;
+  }
+
+  @page { size: A4; margin: 0; }
+
+  .page {
+    position: relative;
+    width: 210mm;
+    min-height: 297mm;
+    margin: 0 auto;
+    background: #ffffff;
+    break-inside: avoid;
+    page-break-inside: avoid;
+    break-after: page;
+    page-break-after: always;
+    overflow: hidden;
+  }
+  .page:last-child { break-after: auto; page-break-after: auto; }
+
+  .top-bar { position: absolute; top: 0; left: 0; width: 100%; height: 12px; background: var(--blue); }
+
+  .inner { padding: 34mm 22mm 20mm; }
+
+  /* ---------- cover ---------- */
+  .logo { height: 34px; width: auto; display: block; }
+
+  .pill {
+    display: inline-block;
+    margin-top: 22px;
+    padding: 6px 14px;
+    background: var(--blue);
+    color: #fff;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    border-radius: 4px;
+  }
+
+  .cover h1 {
+    margin: 26px 0 0;
+    font-size: 46px;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    line-height: 1.08;
+    color: var(--ink);
+  }
+  .cover h1 .accent { display: block; color: var(--blue); }
+
+  .cover .lede {
+    max-width: 30rem;
+    margin: 18px 0 0;
+    font-size: 15px;
+    color: var(--ink-soft);
+  }
+
+  .rule { height: 3px; width: 120px; background: var(--blue); border-radius: 2px; margin: 34px 0 30px; }
+
+  .fields { display: flex; gap: 64px; }
+  .field b {
+    display: block;
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 700;
+    margin-bottom: 4px;
+  }
+  .field span { font-size: 14px; font-weight: 700; letter-spacing: 0.02em; }
+
+  /* ---------- content page ---------- */
+  .masthead-row {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+  .stamp { text-align: right; font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
+  .stamp strong { display: block; color: var(--ink); font-size: 12px; letter-spacing: 0.04em; }
+
+  .eyebrow {
+    display: inline-block;
+    margin-top: 30px;
+    font-size: 11px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--blue);
+    font-weight: 700;
+    background: var(--blue-wash);
+    padding: 5px 10px;
+    border-radius: 4px;
+  }
+
+  h2.title { margin: 16px 0 0; font-size: 28px; font-weight: 800; letter-spacing: -0.01em; color: var(--ink); }
+
+  .meta {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+    margin: 22px 0 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--line);
+  }
+  .meta b { display: block; font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); font-weight: 700; margin-bottom: 3px; }
+  .meta span { font-size: 14px; font-weight: 700; }
+
+  .cenas { margin-top: 8px; border-top: 1px solid var(--line); }
+  .cena {
+    display: grid;
+    grid-template-columns: 90px 1fr;
+    gap: 18px;
+    padding: 16px 0;
+    border-bottom: 1px solid var(--line);
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+  .cena-n { font-size: 11px; font-weight: 700; letter-spacing: 0.06em; color: var(--blue-deep); text-transform: uppercase; padding-top: 2px; }
+  .cena p { margin: 0; font-size: 13.5px; color: var(--ink); }
+  .fill { color: var(--blue-deep); font-weight: 700; }
+
+  .block { margin-top: 22px; }
+  .block b {
+    display: block;
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 700;
+    margin-bottom: 6px;
+  }
+  .block p { margin: 0; font-size: 13px; color: var(--ink-soft); }
+  .tags { font-size: 12.5px; color: var(--blue-deep); font-weight: 600; }
+
+  .compliance {
+    margin-top: 24px;
+    padding: 14px 16px;
+    background: var(--blue-wash);
+    border-left: 3px solid var(--blue);
+    border-radius: 4px;
+  }
+  .compliance b {
+    display: block;
+    font-size: 10px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--blue-deep);
+    font-weight: 700;
+    margin-bottom: 4px;
+  }
+  .compliance p { margin: 0; font-size: 12.5px; color: var(--ink-soft); }
+
+  .footer {
+    position: absolute;
+    bottom: 14mm;
+    left: 22mm;
+    right: 22mm;
+    display: flex;
+    justify-content: space-between;
+    font-size: 10.5px;
+    color: var(--muted);
+    padding-top: 12px;
+    border-top: 1px solid var(--line);
+  }
+  .footer strong { color: var(--ink); }
+</style>
+</head>
+<body>
+
+  <!-- PÁGINA 1 — CAPA -->
+  <section class="page cover">
+    <div class="top-bar"></div>
+    <div class="inner">
+      <img class="logo" src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia">
+      <span class="pill">Roteiro de vídeo</span>
+      <h1>Cobre ou Não Cobre<span class="accent">Atlas</span></h1>
+      <p class="lede">Roteiro para Reel orgânico — série "Cobre ou não cobre?", Seguro Auto.</p>
+      <div class="rule"></div>
+      <div class="fields">
+        <div class="field"><b>Cliente</b><span>ATLAS CORRETORA DE SEGUROS</span></div>
+        <div class="field"><b>Produção</b><span>LONE MÍDIA</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PÁGINA 2 — ROTEIRO -->
+  <section class="page">
+    <div class="top-bar"></div>
+    <div class="inner">
+      <div class="masthead-row">
+        <img class="logo" src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia">
+        <div class="stamp">
+          Cliente
+          <strong>Atlas</strong>
+          Reel · Orgânico
+        </div>
+      </div>
+
+      <span class="eyebrow">Cobre ou não cobre</span>
+      <h2 class="title">Seguro Auto: 4 situações rápidas</h2>
+
+      <div class="meta">
+        <div><b>Cenas</b><span>06</span></div>
+        <div><b>Duração</b><span>~45s</span></div>
+        <div><b>Formato</b><span>Reel · Orgânico</span></div>
+        <div><b>CTA</b><span>Salva o vídeo</span></div>
+      </div>
+
+      <div class="cenas">
+        <div class="cena">
+          <div class="cena-n">Cena 01</div>
+          <p>Vamos ver quatro situações que todo mundo pergunta se o seguro do carro cobre ou não.</p>
+        </div>
+        <div class="cena">
+          <div class="cena-n">Cena 02</div>
+          <p>Emprestou o carro pro seu amigo e ele bateu — <span class="fill">[cobre / não cobre]</span>. Na maioria das apólices, terceiro dirigindo com a sua autorização entra na cobertura, mas isso muda de contrato pra contrato.</p>
+        </div>
+        <div class="cena">
+          <div class="cena-n">Cena 03</div>
+          <p>Furou o sinal vermelho e bateu — <span class="fill">[cobre / não cobre]</span>. Multa de trânsito, sozinha, geralmente não tira o seu direito à cobertura — o que muda o jogo é combinar com outra coisa, como álcool.</p>
+        </div>
+        <div class="cena">
+          <div class="cena-n">Cena 04</div>
+          <p>Bateu depois de beber — <span class="fill">[cobre / não cobre]</span>. Isso costuma ser exclusão em praticamente toda apólice, porque é um risco que você assumiu sabendo.</p>
+        </div>
+        <div class="cena">
+          <div class="cena-n">Cena 05</div>
+          <p>Deixou o carro destravado e roubaram — <span class="fill">[cobre / não cobre]</span>. Esse aqui varia bastante e depende de como a seguradora avalia negligência — vale tirar essa dúvida antes, não depois.</p>
+        </div>
+        <div class="cena">
+          <div class="cena-n">Cena 06</div>
+          <p>Reparou que quase toda resposta tem um "depende"? É assim mesmo em seguro — e é pra isso que eu tô aqui: leio a sua apólice com você e digo exatamente o que ela cobre. Salva esse vídeo.</p>
+        </div>
+      </div>
+
+      <div class="block">
+        <b>Legenda</b>
+        <p>Furou o sinal, emprestou o carro, bateu depois de beber, deixou destravado e roubaram — quatro situações que aparecem toda semana na dúvida de quem tem seguro de carro. A resposta certa quase sempre tem um "depende da sua apólice" no meio, e é por isso que vale entender a sua antes do dia ruim, não durante ele. Salva esse vídeo pra lembrar na próxima vez que a dúvida aparecer, e manda no direct se quiser que a gente confira a sua apólice de verdade.</p>
+      </div>
+
+      <div class="block">
+        <b>Hashtags</b>
+        <p class="tags">#SeguroAuto #SeguroDeCarro #CobreOuNãoCobre #AtlasCorretora</p>
+      </div>
+
+      <div class="compliance">
+        <b>Cobertura sujeita a confirmação</b>
+        <p>Os vereditos [cobre / não cobre] de cada cena precisam ser validados pela corretora responsável antes da gravação — a cobertura real varia conforme a apólice e a seguradora contratada.</p>
+      </div>
+
+      <div class="footer">
+        <span><strong>LONE MÍDIA</strong> · Marketing &amp; Performance</span>
+        <span>ATLAS · COBRE OU NÃO COBRE</span>
+      </div>
+    </div>
+  </section>
+
+</body>
+</html>

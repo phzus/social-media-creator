@@ -54,7 +54,7 @@ Ao produzir as próximas entradas (Espondilite Anquilosante, Artrite Psoriática
 
 **Não usar trânsito, achar vaga, ou fricção de cidade grande como o obstáculo em peças de conveniência/deslocamento.** A CIIL atende **2 unidades com conteúdo idêntico** (Araruama + São Gonçalo) — Araruama é cidade pequena, **não tem trânsito**. Um gancho que descreve "perdida no trânsito" ou "achar vaga na rua" soa falso pra metade do público, mesmo funcionando pra São Gonçalo (Grande Rio, mais urbano).
 
-**Regra:** quando a peça precisar de um obstáculo logístico (ex.: vacinação domiciliar), usar algo universal — o esforço físico/logístico de tirar alguém de casa (vestir, levar, esperar, voltar), falta de tempo, dificuldade de locomoção do idoso — nunca fricção específica de trânsito urbano. Mesmo princípio já aplicado no Complexo Vida (não inventar dor de "academia grande e anônima" numa cidade onde isso não é real — ver `clients/complexo-vida/PADROES.md §3`): a dor da copy tem que existir de verdade no lugar onde o cliente atende.
+**Regra:** quando a peça precisar de um obstáculo logístico (ex.: vacinação domiciliar), usar algo universal — o esforço físico/logístico de tirar alguém de casa (vestir, levar, esperar, voltar), falta de tempo, dificuldade de locomoção do idoso — nunca fricção específica de trânsito urbano. Princípio: a dor da copy tem que existir de verdade no lugar onde o cliente atende.
 
 ---
 
@@ -66,6 +66,42 @@ Isso não é novo pro fechamento padrão da série (já era "menciona a CIIL e q
 
 ---
 
+## Regra nova — não sugerir que a CIIL tem imunologista/alergista atendendo (cliente, 2026-08-21)
+
+🔴 **A CIIL não tem imunologista nem alergista na clínica.** O cliente corrigiu a peça de 21/08 dizendo que as imagens davam a entender isso. Não existe "consulta de imunologia e alergia" na CIIL — o claim que estava no context.md desde 22/06 veio do briefing herdado da Cowork AI e nunca tinha sido validado.
+
+**Regra:** nenhuma peça pode sugerir consulta, avaliação ou atendimento com especialista em imunologia/alergia na clínica. Nem em copy, nem em imagem (médico de jaleco atendendo em consultório lê como "aqui tem consulta"). Quando a pauta for imunologia/autoimunidade, o ângulo é **a doença autoimune e o tratamento (infusão de imunobiológico) feito na CIIL** — direção dada pelo próprio cliente: *"algo voltando para 'doença autoimune' ficaria melhor"*.
+
+Vale também pra hashtag e pra menção solta: `#Alergologia`, "atendemos alergia", "consulta de imunologia" — todos fora.
+
+⚠️ Pendência gerada: se não há imunologista/alergista na casa, **quem avalia/encaminha antes da infusão?** Ver [OPEN-QUESTIONS](OPEN-QUESTIONS.md). Material bruto: [referencias/2026-08-21-feedback-cliente-nao-tem-imunologista-alergista.md](referencias/2026-08-21-feedback-cliente-nao-tem-imunologista-alergista.md).
+
+---
+
+## Regra nova — a CIIL não trata todas as doenças autoimunes: escopo vira CTA (PH, 2026-08-24)
+
+🔴 **A CIIL atende algumas doenças autoimunes, não todas.** Peça que fale de doença autoimune de forma genérica não pode deixar no ar que qualquer diagnóstico é atendido aqui.
+
+**A regra:** toda peça sobre doença autoimune sem doença nomeada fecha convidando a pessoa a **confirmar o próprio caso** — "fale com a gente e conte qual é o seu diagnóstico; a gente te diz se é uma das que atendemos". O filtro de escopo deixa de ser um risco escondido e vira o próprio CTA, que é mais honesto e qualifica melhor o contato.
+
+✅ **Atualização 2026-08-26 — a lista existe agora.** A dona fechou as 10 doenças (ver [context.md](context.md)). Isso muda a aplicação da regra, não a regra:
+
+- **A peça pode nomear a doença** sem gate nenhum, desde que seja uma das 10.
+- **Peça genérica pode listar** as doenças em vez de só convidar a confirmar — é mais concreto e faz o trabalho de identificação que o cliente pediu.
+- **O convite a confirmar continua válido** como fechamento, porque são 10 e não "todas" — quem tem um diagnóstico fora da lista precisa saber disso.
+- ✅ A consequência operacional está resolvida: quem atende o direct tem a lista.
+
+## Regra de tom — esperança primeiro, ressalva depois (PH, 2026-08-24)
+
+**Origem:** PH reprovou uma peça que abria em "doença autoimune não tem cura". *"Podemos dar esperança ao invés de um banho de água fria no usuário."*
+
+A honestidade clínica continua inegociável — nunca prometer cura, sempre "tratamento/controle" ([regra de vocabulário abaixo](#vocabulário-e-ângulo-herdado-do-contextmd-reforçado-aqui)). O que muda é a **ordem**: a peça abre pelo que é possível (controle, rotina de volta, crises espaçadas) e a ressalva de cronicidade aparece **no meio**, como contexto, nunca como primeira linha.
+
+- ❌ "Não tem cura. Tem controle."
+- ✅ "Conviver com uma doença autoimune não é a mesma coisa que ficar refém dela." (a cronicidade entra no parágrafo seguinte)
+
+Vale também pro visual: imagem de vida seguindo, nunca pessoa cabisbaixa, articulação inchada ou pele em crise. A série não vende medo nem pena.
+
 ## Vocabulário e ângulo (herdado do context.md, reforçado aqui)
 
 - Nunca "cura" — sempre "tratamento", "controla", "cuida". Doenças autoimunes da série são crônicas.
@@ -74,8 +110,112 @@ Isso não é novo pro fechamento padrão da série (já era "menciona a CIIL e q
 
 ---
 
+## Regra nova — a série precisa parecer série (cliente, 2026-08-26)
+
+🔴 **O próprio cliente não percebeu que "Isso Tem Nome" era uma série.** Rodou desde 03/07 e foi lida como posts avulsos sobre autoimunidade.
+
+**Diagnóstico:** das peças publicadas, só três nomearam uma doença (03/07, 06/07, 13/07) — o resto foram pontes genéricas, produzidas justamente porque o gate travava as doenças. Sem doenças nomeadas em sequência, não há série: há assunto recorrente.
+
+**O que muda em toda peça da série:**
+- **Numeração visível na arte** — "Isso tem nome · 04" ou "4 de 10". É o sinal mais barato de que existe um conjunto.
+- **Selo idêntico, sem variação** — mesma posição, mesma cor, mesmo tamanho. Conferir com o designer se está sendo aplicado de fato; a especificação existia, a execução nunca foi verificada.
+- **Dia fixo, anunciado na própria peça** — "toda segunda, uma doença".
+- **Estrutura interna reconhecível:** o sintoma sempre no mesmo lugar da peça, o nome da doença sempre no mesmo lugar. O gancho continua variando ([regra acima](#vício-a-banir--repetição-de-gancho-entre-peças-da-série)) — o que fica fixo é o esqueleto visual, não a redação.
+- **Sequência sem buraco.** Ponte genérica entre doenças dilui a leitura de série. Com as 10 liberadas, não há mais motivo pra ponte ocupar slot de série.
+
+## Regra nova — quando dá pra nomear o especialista (2026-08-26)
+
+A CIIL atende **Dermatologia, Reumatologia e Pediatria**. As 10 doenças tratadas não são todas cobertas por essas três.
+
+- ✅ **Pode nomear:** dermatologista (Psoríase, Dermatite Atópica, Hidradenite) · reumatologista (Artrite Reumatoide, Artrite Psoriásica, Espondilite, Lúpus).
+- ❌ **Não nomear:** gastroenterologista (Crohn, Retocolite) e pneumologista/alergista (Asma) — não constam entre as especialidades atendidas. Nessas, falar do tratamento sem nomear quem avalia, ou usar "o seu médico".
+- ❌ **Imunologista e alergista seguem proibidos** em qualquer peça ([regra de 21/08](#regra-nova--não-sugerir-que-a-ciil-tem-imunologistaalergista-atendendo-cliente-2026-08-21)).
+- ✅ **"Consulta na CIIL" pode ser afirmada — resolvido por PH (2026-09-14).** A CIIL oferece consultas com profissionais capacitados pra avaliar, examinar e apresentar o diagnóstico ao paciente, **mesmo sem diagnóstico formado ainda**. Resolve a pendência que estava aberta desde 26/08 ([OPEN-QUESTIONS](OPEN-QUESTIONS.md)).
+
+## Regra nova — CTA único, sem separar "quem já tem diagnóstico" de "quem só tem sintoma" (PH, 2026-09-14)
+
+**O erro que a série vinha cometendo:** o fechamento das peças mandava quem reconheceu o sintoma **procurar um especialista de fora** ("procure um dermatologista/reumatologista pra avaliar") e só convidava **a falar com a CIIL quem já tinha diagnóstico e indicação**. PH corrigiu: como a CIIL avalia, examina e apresenta o diagnóstico mesmo pra quem chega sem ele, mandar essa pessoa pra fora é perder o contato à toa.
+
+**A regra:** CTA passa a ser único, juntando os dois públicos — quem já tem diagnóstico **e** quem só reconheceu o sintoma falam com a CIIL.
+
+- ❌ "Se você se reconheceu, procure um [especialista] pra avaliar. E se você já tem o diagnóstico e a indicação, fala com a gente."
+- ✅ "Se você já tem o diagnóstico ou reconheceu algum desses sinais, fala com a nossa equipe — a gente avalia e explica como funciona o tratamento por aqui."
+
+Continua valendo: nunca autodiagnóstico ("isso pode ser [doença]", nunca "você tem [doença]") — o CTA convida a confirmar com a CIIL, não afirma que o leitor tem a doença. Aplica-se a toda a série "Isso Tem Nome" daqui pra frente; peças 01 (Artrite Reumatoide) e 02 (Psoríase) já corrigidas.
+
+## Regra nova — a série não se rotula por categoria (PH, 2026-08-26)
+
+**O problema:** a lista da dona inclui **Asma** (que não é autoimune — é inflamatória crônica das vias aéreas) e **Hidradenite Supurativa** (autoinflamatória). Chamar as 10 de "doenças autoimunes" seria imprecisão clínica num cliente com responsável técnico.
+
+**A decisão de PH:** não usar guarda-chuva categórico nenhum. **A série é "Isso Tem Nome"** — o selo já é a identidade, e cada peça fala da doença pelo nome. Sem categoria, não há o que corrigir.
+
+**Na prática:**
+- ✅ Selo `ISSO TEM NOME` + nome da doença. Nada além disso identifica a série.
+- ✅ Quando precisar agrupar (peça de abertura, legenda que cita várias), usar descrição **operacional**: "doenças que têm tratamento na CIIL", "as 10 doenças que a gente trata". Descreve o que a clínica faz, não classifica a doença.
+- ❌ Não escrever "nossa série sobre doenças autoimunes", nem chamar asma ou hidradenite de autoimune em peça nenhuma.
+- ⚠️ As 4 peças-ponte publicadas em julho/agosto (29/07, 03/08, 10/08, 24/08) usam "doença autoimune" como guarda-chuva. Já foram ao ar; ficam como estão. A regra vale daqui pra frente.
+
+## Regra nova — o tratamento não é só infusão (2026-08-26)
+
+A dona informou que os imunobiológicos são **subcutâneos ou infusionais**. Toda a copy da conta até 26/08 assumiu infusão (poltrona, day clinic, "sem internação", "no mesmo dia").
+
+**Regra:** não afirmar ou sugerir que todo tratamento é sessão de infusão. Quando a peça for sobre uma doença específica e a via não estiver confirmada, falar em "medicação imunobiológica" sem descrever a cena da aplicação. A via subcutânea é ângulo de conteúdo ainda não usado — aplicação rápida, sem sessão.
+
+---
+
+## Regra nova — convênios sempre com "*Consulte condições" (cliente, 2026-09-17)
+
+🔴 **Toda peça que mencione convênio/plano de saúde leva a ressalva "*Consulte condições"**, visível na arte (não só na legenda). Pedido explícito do cliente, motivo declarado por ele mesmo: cobertura depende da rede do plano, e **nem todos os convênios são aceitos nas duas unidades**. Isso vale em qualquer formato — post, Reels, Stories — sempre que convênio aparecer, mesmo de passagem.
+
+Além da chamada visual, a legenda reforça o convite a confirmar a condição pelo WhatsApp antes de agendar — mesmo espírito já usado no carrossel de 14/08 ("as condições variam por plano e por procedimento"), agora oficializado como regra permanente, não escolha de copy.
+
+**Fonte:** [referencias/2026-09-17-cliente-confirma-convenios-e-regra-consulte-condicoes.md](referencias/2026-09-17-cliente-confirma-convenios-e-regra-consulte-condicoes.md).
+
+## Fatos operacionais — convênios (fonte única, não completar de cabeça)
+
+| Convênio | Status | Fonte |
+|---|---|---|
+| Bradesco Saúde | ✅ Confirmado | Imagem interna do cliente, 2026-09-17 |
+| Saúde Caixa | ✅ Confirmado | Idem |
+| Cassi | ✅ Confirmado | Idem |
+| FioPrev | ✅ Confirmado | Idem |
+| Postal Saúde | ✅ Confirmado | Idem |
+| Mediservice | ✅ Confirmado | Idem |
+| Unimed | ✅ Confirmado | Idem |
+| Caberj | ✅ Confirmado | Idem |
+| Fapes | ✅ Confirmado | Idem |
+| Gama Saúde | ✅ Confirmado | Idem |
+| Saúde Assim | ✅ Confirmado | Idem |
+| Vale | ✅ Confirmado | Idem |
+| Health Med | ✅ Confirmado — **novo em relação à lista de maio/2026** | Idem |
+| OMINT Saúde | ✅ Confirmado — cliente pediu inclusão explícita (não estava na imagem interna); logo já está no site ciil.com.br | Cliente, 2026-09-17 |
+| Care Plus (Araruama) | ⚠️ **Não reconfirmado** — estava na lista antiga (maio/2026), não aparece na imagem nova, cliente não disse se saiu. Não incluir nem excluir sem perguntar. | — |
+| Amil / SulAmérica / Porto Seguro (reembolso) | ⚠️ **Não reconfirmado** — mesma situação do Care Plus. | — |
+
+**Esta tabela substitui a lista do [BRIEFING §2](BRIEFING.md)** (auditoria Cowork AI, maio/2026, nunca reconfirmada) como fonte de verdade pra qualquer peça nova sobre convênios.
+
+---
+
+## Regra nova — peça de data com tema infantil não abre Pediatria nem vacina infantil (2026-10-07)
+
+Dia das Crianças (12/10/2026) foi a primeira data a puxar criança pra dentro da conta. **A CIIL atende Pediatria, mas o que faz em criança não está confirmado** (quais das 10 doenças, se vacina infantil entra — [PAUTA #4](reuniao-mensal/PAUTA.md); a "vacinação todas as idades" vem do briefing da Cowork AI, nunca reconfirmado).
+
+- ✅ Criança entra como **comportamento que serve de espelho pro adulto** (a criança que pergunta tudo no médico), nunca como serviço, público atendido ou imagem.
+- ❌ Nenhuma frase diz ou sugere que a CIIL atende, trata ou vacina criança. Nada de `#Pediatria` / `#SaúdeInfantil`, nada de foto/ilustração de criança, kit de médico de brinquedo ou ursinho.
+- ❌ Peça de data não nomeia doença (não toma slot nem aciona o gate da série) e não descreve via de aplicação.
+- Peça de data **fora da série**: sem selo `ISSO TEM NOME`, sem numeração, fundo e esqueleto diferentes, pra não ser lida como peça 07.
+- Convênio não entra em peça de afeto; se o rodapé fixo trouxer a faixa de convênios, vai com `*Consulte condições`.
+
+Peça: [2026-10-12-dia-das-criancas-perguntas-do-tratamento.md](conteudo/posts/2026-10-12-dia-das-criancas-perguntas-do-tratamento.md).
+
+---
+
 ## Histórico de revisões
 
+- **2026-10-07** — Regra de peça de data com tema infantil (Dia das Crianças): criança só como espelho do adulto, nunca como serviço; não abre Pediatria nem vacina infantil sem confirmação.
+- **2026-09-17** — Cliente confirmou lista de convênios (substitui a de maio/2026, nunca reconfirmada) e estabeleceu regra permanente: toda peça de convênio leva "*Consulte condições" visível na arte. Resolve [OPEN-QUESTIONS #18](OPEN-QUESTIONS.md).
+- **2026-08-26** — Reunião com o cliente: escopo de 10 doenças fechado (gate por doença encerrado), 4 regras novas (série precisa parecer série · quando nomear especialista · série não se rotula por categoria · tratamento não é só infusão) e atualização da regra de escopo-vira-CTA.
+- **2026-08-21** — Registrada regra: não sugerir imunologista/alergista atendendo na CIIL (correção do próprio cliente sobre a peça de 21/08). Claim herdado do briefing Cowork AI estava errado.
 - **2026-08-11** — Registrada regra: claim de tratamento nunca especifica unidade (PH) — só o fato clínico + especialidade importam pro gate do RT.
 - **2026-07-16** — Registrado vício "dor de trânsito/estacionamento não é real em Araruama" (peça de vacina domiciliar/cuidador de idoso reescrita após correção de PH).
 - **2026-07-02** — v1.0 criado a partir do feedback de PH sobre a 1ª leva da série "Isso Tem Nome": liberou carrossel curto (2-3 slides, ref. @imunovidavacinas), simplificou a copy do estático (Título/Desenvolvimento/Fechamento) e cortou a repetição de gancho entre peças.

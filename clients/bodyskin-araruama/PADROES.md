@@ -76,7 +76,7 @@ O diagnóstico pede **um CTA por post, sempre o mesmo caminho: avaliação gratu
 - 🚫 Jargão técnico sem tradução (fototipo aparece **explicado**, não solto).
 - ✅ Hashtags locais (Araruama, Região dos Lagos) — o perfil vende pra quem chega de carro, não pro Brasil.
 
-**Molde de gancho genérico liberado (PH, 2026-07-31):** "Você de [Araruama/local] tá [dor/atividade do público]? Então você precisa conhecer a BodySkin." ou "Você tem [problema estético]? Sabia que tem tratamento..." — mesmo formato hiperlocal/direto já validado no Complexo Vida ("Se você é de São Vicente..."). PH pediu explicitamente **"textos mais genéricos"** pra este cliente — não é vício a evitar aqui, é escolha deliberada de tom pra vídeo/Reels. Usado pela 1ª vez em [conteudo/roteiros/2026-07-31-bastidor-avaliacao.md](conteudo/roteiros/2026-07-31-bastidor-avaliacao.md).
+**Molde de gancho genérico liberado (PH, 2026-07-31):** "Você de [Araruama/local] tá [dor/atividade do público]? Então você precisa conhecer a BodySkin." ou "Você tem [problema estético]? Sabia que tem tratamento..." — formato hiperlocal/direto. PH pediu explicitamente **"textos mais genéricos"** pra este cliente — não é vício a evitar aqui, é escolha deliberada de tom pra vídeo/Reels. Usado pela 1ª vez em [conteudo/roteiros/2026-07-31-bastidor-avaliacao.md](conteudo/roteiros/2026-07-31-bastidor-avaliacao.md).
 
 ---
 
@@ -243,14 +243,27 @@ Reunião completa em [reuniao-mensal/resumos/2026-09-17-resumo-reuniao-cintia-fe
 
 ---
 
+## 10. Peça de data com tema infantil — criança só em texto (2026-10-07)
+
+Primeira data a puxar criança pra conta (Dia das Crianças, 12/10/2026). **Estética e clínica não têm criança na arte:** nem foto, nem ilustração, nem objeto (chinelo, brinquedo). A criança entra só como **circunstância do dia da leitora**, em texto ("com criança em casa…"), e sem "pele de bebê" ou qualquer comparação estética com criança.
+
+- Peça de feriado/data **não imita data dupla:** sem "condição do dia", sem urgência, sem preço. A regra 5 do §8 vale também pra data que não é da cliente.
+- O "OFF" da campanha do mês pode servir de jogo de palavras em peça de data; nunca como percentual (§7).
+- Saudação vai pros stories quando o slot de feed do dia já tem peça educativa de salvamento; sobe no feed só de manhã e antes dela.
+
+Peça: [2026-10-12-dia-das-criancas-feriado-nao-e-dia-off.md](conteudo/posts/2026-10-12-dia-das-criancas-feriado-nao-e-dia-off.md).
+
+---
+
 ## Histórico
 
+- **2026-10-07 (v1.9)** — Regra do §10: peça de data com tema infantil (Dia das Crianças) leva criança só em texto, nunca em imagem ou objeto, e não imita data dupla.
 - **2026-10-05 (v1.8)** — PH confirmou que **não vai ter 10.10**. A regra 1 do §8 foi reprovada pela primeira vez e a data foi **cancelada**, não encenada. Nasceu a **regra 5 do §8**: condição do dia é input obrigatório até o dia 25 do mês anterior, peça de antecipação não promete condição que ainda não existe, data cancelada não ganha gancho substituto, e duas datas seguidas sem condição própria encerram o modelo. A peça de 05/10 foi reescrita antes de subir e o slot do sábado saiu do feed.
 - **2026-10-02 (v1.7)** — chegou o pacote de **outubro** ("Outubro OFF"): 3 artes, **um único preço** (áreas pequenas 10 sessões, R$ 89, contra R$ 199 em setembro). Tabela nova no §7 com cinco travas — sem preço cheio, logo sem percentual; "OFF" é trocadilho, não desconto; capa de harmonização travada pelo gate da RT; selos de benefício fora da copy. A condição do 10.10 continua sem vir — e hoje era o dia de mandar a peça do 10.10 pra aprovação.
 - **2026-09-17 (v1.6)** — Reunião com Cintia Ferraz trouxe regras novas de criativo (movimento, paleta oficial laranja/turquesa/branco/preto, desconto percentual), frente nova de público 50+ (travada pelo gate da RT), campanhas de indicação/gratuidade, calendário de promoções por dezenas e cronograma de aprovação. Registrada em §9. Conta sinalizada como em risco de cancelamento por ROI — contexto que muda a urgência, não as regras de compliance.
 - **2026-09-08 (v1.5)** — chegaram 4 artes prontas da cliente: 2 teasers do 9.9 (redundantes com o que já foi produzido) e **2 ofertas novas de manutenção, válidas só hoje** ("Pré 9.9"), uma pra ela e uma pra ele — a masculina resolve a pendência de "sumiu a oferta masculina" registrada em 04/09. Tabela nova no §7, com validade datada só pra 08/09 e alerta de possível sobreposição com a manutenção da Semana do Cliente (18/09).
 - **2026-09-04 (v1.4)** — chegou o pacote de **setembro** + a estratégia de **datas duplas** da cliente. A tabela de preço do §7 foi substituída (agosto → setembro) com três travas novas (só a oferta 1 comunica desconto · nada de "sem juros" em laser · sem validade, sem data de encerramento em peça). Criada a **§8 — datas duplas**, com as quatro regras que valem pro 9.9 e pras três datas seguintes.
-- **2026-07-31 (v1.3)** — PH pediu ganchos mais genéricos/diretos pra este cliente (molde "Você de [local] tá [dor]? Então você precisa conhecer a BodySkin" / "Você tem [problema]? Sabia que tem tratamento..."), mesmo formato já validado no Complexo Vida. Registrado em §5.
+- **2026-07-31 (v1.3)** — PH pediu ganchos mais genéricos/diretos pra este cliente (molde "Você de [local] tá [dor]? Então você precisa conhecer a BodySkin" / "Você tem [problema]? Sabia que tem tratamento..."). Registrado em §5.
 - **2026-07-26 (v1.2)** — respostas de PH: "sua melhor versão" **banida em definitivo** (§5); "sem prender o limite do cartão" **confirmado como verdade e liberado** pra copy de depilação (§7); e a regra do encarte ganhou nuance — **stories é o lugar dele**, feed aceita oferta com tema próprio, urgência tem válvula de escape (§7).
 - **2026-07-26 (v1.1)** — chegou o pacote de promoções de agosto. Criada a **regra 7** (como tratar o material da cliente + tabela oficial de preços do mês). Na regra 2, o preço de injetável subiu de 🟡 pra 🔴 (a cliente pede preço + brinde no ar) e entrou a linha das enzimas. Na regra 6, a escassez do ATA virou **prazo até 31/08**, não vaga.
 - **2026-07-26 (v1.0)** — criado no onboarding, a partir do diagnóstico repassado por PH. Regras 1, 3, 4, 5 e 6 vêm do diagnóstico; a **regra 2 (gate da RT)** é acréscimo da Lone — o material de entrada não tratava compliance de estética avançada.

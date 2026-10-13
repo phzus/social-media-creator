@@ -48,7 +48,7 @@ A Tramontina 500W com impacto dá conta de furar parede, madeira e metal, e aind
 
 Sem enrolação: é o presente que resolve de verdade, não o que espera uso.
 
-📱 Maricá: (21) 2637-2498 · Saquarema: (21) 3731-0812
+📱 Maricá: (21) 2637-2498 · Saquarema: (22) 98831-6090
 
 ---
 

@@ -16,7 +16,7 @@ Nem clássica, nem alternativa do template padrão — adaptação: **Gancho →
 
 ---
 
-## 1. Gancho (0-3s) — molde hiperlocal (mesmo formato já validado no Complexo Vida)
+## 1. Gancho (0-3s) — molde hiperlocal
 
 **Texto na tela:** "Você de Araruama tá cansada de fazer cera todo mês?"
 
@@ -92,7 +92,7 @@ O formato "sem locução identificada" é incomum pra Reels do playbook Lone (qu
 
 Desvio consciente do Gancho→Dor→Solução→Benefícios→CTA clássico: sem bloco de "dor", porque a peça não resolve objeção nenhuma — ela **apresenta o portfólio** (laser + harmonização + ATA) e fecha no diferencial de sempre (avaliação antes de indicar). Gancho (hiperlocal + marca) → Apresentação (4 lasers) → Outras frentes → Diferencial (avaliação) → CTA.
 
-**Gancho trocado por pedido de PH (mesmo dia):** de um gancho mais elaborado ("Isso aqui é a parte que a maioria das clínicas pula") pra molde genérico e direto — **"Você de [local] tá [dor/atividade do público]? Então você precisa conhecer a [empresa]"** — mesmo formato já validado no [Complexo Vida](../../complexo-vida/conteudo/roteiros/2026-07-14-oferta-experimental-reels.md) ("Se você é de São Vicente..."). Preenchido com depilação a laser (carro-chefe do cliente) como a dor/atividade.
+**Gancho trocado por pedido de PH (mesmo dia):** de um gancho mais elaborado ("Isso aqui é a parte que a maioria das clínicas pula") pra molde genérico e direto — **"Você de [local] tá [dor/atividade do público]? Então você precisa conhecer a [empresa]"**. Preenchido com depilação a laser (carro-chefe do cliente) como a dor/atividade.
 
 **Escopo ampliado por pedido de PH (mesmo dia, 2ª rodada):** de "só o processo de avaliação" pra **apresentação da clínica** — nomear os 4 lasers e citar harmonização/ATA como outras frentes, servindo de cartão de visita pra quem não conhece a marca. A avaliação gratuita deixou de ser o tema inteiro da peça e virou o fecho/diferencial, papel que já cumpre em quase toda peça do cliente ([PADROES §4](../PADROES.md)).
 

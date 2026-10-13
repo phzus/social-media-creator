@@ -5,22 +5,97 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🟡 Nova (2026-10-13) — o que o calendário 2025 do cliente abre
+
+PH trouxe o [calendário 2025 do cliente](referencias/2026-10-13-calendario-editorial-2025-do-cliente.md). É intenção, não plano vigente: nada de percentual, brinde ou sorteio de 2025 entra sem validação.
+
+1. 🔴 **Quando é o aniversário da Atlas?** O calendário põe em outubro, com sorteio de kit churrasco pra quem fechar no mês. Se for este mês, o trimestral não tem peça pra isso, e sorteio exige regulamento antes de anunciar.
+2. 🟡 **Que benefício concreto a Atlas topa oferecer em nov/dez?** Todo mês de 2025 tinha uma mecânica (desconto, brinde, voucher, cesta natalina). O trimestral só tem cotação. Candidatos: multirramos de novembro e cesta natalina de dezembro, com a condição de 2026.
+3. 🟡 **Dia do Servidor Público (28/10):** existe condição especial este ano? Sem condição, a data não entra.
+4. 🟢 **Halloween (sáb 31/10):** pode usar o conceito do próprio cliente, *"Não deixe a falta do seguro te assombrar"*, no carrossel de sex 30/10 ("5 situações em que o seguro auto não paga")? O tema não muda, só a moldura. Proposta da Lone, PH decide.
+5. 🟡 **Conta local ou nacional?** O calendário sugere conteúdo local (São Sebastião, Araruama/Rio); BRIEFING e context dizem 100% digital, Brasil inteiro, sem âncora regional. Qual vale?
+6. 🟡 **Ramos saúde, viagem e equipamentos portáteis/celular** aparecem como produto no calendário. Reforça a #12 (ramos fora da lista), mais abaixo: a Atlas vende hoje?
+7. 🟢 **Memes e frases:** o cliente previa uso recorrente. Topa humor no feed? Hoje a conta não tem nenhum.
+
+---
+
+## 🔴 Nova (2026-10-13) — carrossel de 16/10 (o que acontece depois do aviso de sinistro): gate do corretor até qua 14/10
+
+A [peça](conteudo/posts/2026-10-16-o-que-acontece-depois-que-voce-avisa-o-sinistro.md) tem versão completa (afirma o que a Atlas faz em cada etapa), fallback parcial e **plano B pronto** ("4 perguntas pra fazer ao seu corretor"), que não depende do gate.
+
+1. A Atlas **registra o aviso** na seguradora com os dados da apólice, ou o cliente liga direto na central?
+2. **Fora do horário** (noite, fim de semana, feriado), o cliente aciona a central direto? O Código Civil (art. 771) manda avisar o sinistro logo, então a peça não pode fazer o leitor esperar a Atlas.
+3. A Atlas **confere a documentação** antes do envio?
+4. **"Cobra a seguradora quando a análise fica parada"** é como o corretor descreve o que faz? "Às vezes com vistoria" está correto?
+5. Em resposta negativa ou parcial, a Atlas **lê a resposta e a apólice** com o cliente?
+6. O fluxo vale igual pros **quatro ramos** (auto, residencial, empresarial, planejamento familiar)?
+7. A Atlas topa assinar em público **"acompanha o aviso do sinistro até a resposta"**?
+8. Quem responde o direct, e em quanto tempo ([OQ #4](OPEN-QUESTIONS.md))? No plano B, quem responde precisa saber as quatro perguntas.
+9. ⚠️ A peça de feed do Dia do Corretor (12/10) nunca foi escrita, embora o PROGRESSO de 07/10 trate a convivência com ela. **PH:** foi publicada alguma coisa nesse dia?
+
+**Regra:** etapa não confirmada tira o slide. Sem resposta até qua 14/10, sobe o plano B.
+
+---
+
+## 🔴 Nova (2026-10-07) — carrossel de 09/10 (apartamento, casa ou casa de praia): validação do corretor até 08/10
+
+O [carrossel de 09/10](conteudo/posts/2026-10-09-apartamento-casa-ou-casa-de-praia.md) **não afirma cobertura**, mas descreve **o que abre a conversa de cotação** em cada imóvel, e isso é processo do corretor ([PADROES §2](PADROES.md)). O brief vai ao designer em **08/10** (1 dia útil de antecedência). Precisa de retorno antes:
+
+1. **Capa:** na cotação, a dúvida de fato muda entre apartamento, casa e casa de praia?
+2. **Apartamento:** "parte do prédio é do condomínio e parte é sua" está correto pro que a Atlas cota? O seguro do condomínio é item que a Atlas pergunta na cotação do apê? (Art. 1.346 do Código Civil torna o seguro da edificação contra incêndio obrigatório; o corretor confirma como isso entra.) **Perto da pendência de dano de água entre vizinhos (abaixo)**, então a resposta aqui e lá deve ser a mesma.
+3. **Casa:** muro, portão e casinha dos fundos entram como "casa" na conta ou variam por seguradora? Quintal é segurável? (Ficou fora da lista.)
+4. **Casa de praia:** tempo de imóvel fechado e aluguel por temporada entram na cotação? Têm condição própria?
+5. **As três listas de perguntas** (APÊ, CASA, PRAIA) que o fecho promete mandar no direct: o corretor ajusta o rascunho da peça pro roteiro de cotação dele.
+6. **Quem monitora os comentários** (o fecho é "comenta APÊ, CASA ou PRAIA") e em quanto tempo manda a lista no direct? Mesma dúvida do [OQ #4](OPEN-QUESTIONS.md).
+
+**Regra da peça:** item não confirmado **tira o apoio do slide** (versão fallback, cartaz de uma pergunta). Se não houver retorno até 08/10, sobe a versão fallback.
+
+---
+
+## 🔴 Nova (2026-09-29) — carrossel de coberturas empresariais
+
+**Validação item a item das seis coberturas** do [carrossel de 02/10](conteudo/posts/2026-10-02-o-que-um-seguro-empresarial-cobre.md). É a peça do trimestre que mais depende do gate técnico ([PADROES §2](PADROES.md)) — seis descrições são seis claims:
+
+1. Incêndio, raio e explosão formam a base padrão das apólices empresariais que a Atlas trabalha?
+2. Alagamento vem junto de vendaval/granizo ou é contratação separada nas seguradoras da carteira?
+3. A distinção entre furto qualificado (coberto) e furto simples (outra regra) está redigida corretamente?
+4. Danos elétricos têm limite próprio, menor que o total segurado?
+5. Responsabilidade civil costuma ser item adicional, e não padrão?
+6. Lucro cessante "costuma entrar à parte" — **mesma frase já pendente desde a peça de 28/09**, ainda sem validação.
+
+**Regra da peça:** item não confirmado **sai do carrossel**, não vira condicional mais fraca. Lista de seis vira lista de quatro sem prejuízo.
+
+⚠️ **Buraco de calendário:** o vídeo de quarta **30/09** ("A loja fechou 15 dias. O aluguel não fechou junto"), previsto no [trimestral §5](estrategia/2026-09-a-11-trimestral.md) e anunciado em público na peça de 28/09, ainda não foi escrito.
+
+---
+
+✅ **Linha temática única por semana (direção do chefe do PH) — resolvida pra Atlas em 2026-08-20.** Testado a partir de 24-28/08: semana inteira fecha em **Seguro de Vida**, produto fixo e função variável (posicionamento/prova → educativo/emocional → venda) pra não violar o mix obrigatório da Lone. Detalhe em [estratégia §2, Aposta 4](estrategia/2026-08.md#2-as-três-apostas) e [docs/OPEN-QUESTIONS.md](../../docs/OPEN-QUESTIONS.md) (segue aberta pra outros clientes da carteira).
+
 ## 🔴 Bloqueantes
 
 **1. Quem é o corretor — nome, registro e como ele aparece.**
 Ele é o rosto da conta e a autoridade técnica de tudo que for ao ar. Precisamos do nome que entra na tela dos Reels, se o registro SUSEP deve aparecer nas peças, e se há alguma regra de identificação que ele já segue.
 *Trava:* a identidade dos Reels e o gate técnico do §2 dos PADROES.
 
+> 🟡 **Atualização (reunião Lone×Atlas, 2026-09-08):** candidata surgiu — **Mayara**, consultora recém-chegada à Atlas, descrita como tendo boa desenvoltura em câmera e experiência na área. Laís (Atlas) vai alinhar com ela a disponibilidade pra gravar e ser rosto dos vídeos, e retorna à Lone. **Ainda não confirmado** — não tratar a Mayara como rosto definitivo até essa resposta chegar. Detalhe em [reuniao-mensal/resumos/2026-09-08-resumo-reuniao-lone-atlas.md](reuniao-mensal/resumos/2026-09-08-resumo-reuniao-lone-atlas.md).
+
 **2. Quem grava, quando e com que equipamento.**
 A estratégia inteira depende do corretor na frente da câmera. Sete Reels em agosto significam pelo menos **duas sessões de gravação em lote**. Sem data marcada, o mês não sai.
+
+> 🔓 **Alívio parcial (PH, 2026-08-24): motion flyer liberado.** Arte animada sem rosto e sem locução obrigatória é **vídeo que não depende de gravação** — ocupa o slot de quarta e alimenta a métrica de alcance enquanto a agenda do corretor não fecha. Primeira peça: [conteudo/roteiros/2026-08-26-motion-flyer-quem-esta-na-sua-apolice.md](conteudo/roteiros/2026-08-26-motion-flyer-quem-esta-na-sua-apolice.md). Isso **não resolve** esta pendência: o corretor na câmera continua sendo o ativo de autoridade da conta, e P3 (prova/conexão) e a apresentação dele não têm substituto em motion. Mas o calendário deixa de ficar refém dela. Ver [PADROES §4](PADROES.md).
 *Trava:* 7 das 12 peças de agosto.
 *Nota (2026-08-10):* impacto imediato é a peça 5 (Reel "Franquia"), mapeada pra quarta 12/08. Sem gravação marcada até terça 11/08, essa data cai pro estático de reserva — ver esboço em [PROGRESSO.md](PROGRESSO.md).
+*Nota (2026-09-08):* o roteiro de "conserto e manutenção de carros elétricos" (ideia da Mayara, já enviado pela Lone) segue sem gravar — motivo do atraso não esclarecido. Laís vai cobrar e destravar. Mesma reunião trouxe proposta paralela de **Stories com caixinha de perguntas** (cliente grava, manda dúvidas relevantes pra Lone, as melhores viram post de feed) — não depende do corretor/Mayara e pode rodar em paralelo enquanto o gargalo de gravação formal não destrava. Ver [reuniao-mensal/resumos/2026-09-08-resumo-reuniao-lone-atlas.md](reuniao-mensal/resumos/2026-09-08-resumo-reuniao-lone-atlas.md).
 
 **3. Plano contratado — quantos posts por mês.**
 O calendário de agosto assume o **padrão Lone: 12 posts, Seg/Qua/Sex**. O PDF propunha 6 publicações em 2 semanas, que é a mesma cadência lida em outro recorte. Confirmar o que foi vendido.
 
 **4. Canal de atendimento no CTA.**
 O PDF alterna "chama no direct" e "link na bio". Existe WhatsApp comercial? O link do Linktree leva pra onde e quem responde? Numa conta de 172 seguidores, cada conversa perdida pesa muito.
+
+**5b. Os 4 vereditos do roteiro "Cobre ou não cobre? Seguro Auto".**
+Cliente pediu vídeo nesse formato ([roteiro](conteudo/roteiros/2026-09-15-cobre-ou-nao-cobre-seguro-auto.md), referência em [referencias/2026-09-15](referencias/2026-09-15-referencia-formato-cobre-nao-cobre.md)). As 4 situações (emprestou o carro, furou o sinal, bateu bêbado, deixou destravado) têm sugestão de resposta de mercado geral, **nenhuma confirmada pela corretora** — mesmo gate do item 1, aplicado linha a linha. Sem isso, o roteiro não grava.
+*Trava:* a peça inteira — é o formato que mais assume risco de afirmação de cobertura da conta.
 
 **5. Público-alvo real.**
 O material de entrada **não define avatar**. Os três núcleos do [context.md](context.md) — dono de carro, dono de pequeno negócio, quem pensa em vida — são inferência a partir do mix de produtos. Qual deles o corretor quer priorizar? Onde está a margem dele?
@@ -29,6 +104,11 @@ O material de entrada **não define avatar**. Os três núcleos do [context.md](
 ---
 
 ## 🟡 Importantes
+
+**Dano de água entre vizinhos no residencial — como as apólices da carteira tratam isso? (aberta em 2026-10-02)**
+A semana de Residencial (05-09/10) toca três vezes no mesmo risco: vazamento vindo do apartamento de cima (05/10), divisão entre inquilino e proprietário (07/10) e cotação por tipo de imóvel (09/10). O [post de 05/10](conteudo/posts/2026-10-05-vazamento-do-apartamento-de-cima.md) foi escrito **sem nenhuma afirmação de cobertura** — a camada de apólice saiu da peça e virou pergunta, porque nada no [BRIEFING](BRIEFING.md) ou nas referências diz como as seguradoras que a Atlas trabalha tratam dano de água originado em unidade de terceiro ou em coluna do prédio.
+*Não trava:* a peça de 05/10, que funciona sem a resposta. *Destrava:* um fechamento mais forte nela (pergunta vira resposta) e as peças de 07/10 e 09/10, que pedem mais detalhe de produto.
+
 
 **6. Acesso ao Instagram Insights.**
 Alcance, retenção de Reels, salvamentos e demografia não são públicos. Com 172 seguidores, o dado público é fraco demais pra provar qualquer coisa — e o objetivo do mês é justamente provar o pivô com número.
@@ -45,9 +125,22 @@ Existe cliente atendido disposto a dar depoimento? Existe sinistro resolvido que
 **10. Seguradoras parceiras.**
 Quais são, e pode citá-las nas peças? Nome de seguradora em post tem regra de uso de marca, e "parceria" comunicada errado vira problema com a companhia.
 
-**15. Rede referenciada / oficina de concessionária (BYD e outras marcas).**
-A dona da Atlas sugeriu vídeo mostrando o benefício de levar o carro na concessionária da marca, com destaque pra BYD/elétricos ([referência](referencias/2026-07-29-feedback-video-oficinas-byd.md)). Falta saber: isso vale pra toda apólice vendida pela Atlas ou só por seguradora/plano específico? Quais marcas exatamente têm essa rede? Dá pra gravar dentro de uma oficina/concessionária real?
-*Trava:* vira afirmação de cobertura (PADROES §2) — não roteiriza sem o corretor confirmar.
+**15. ✅ Resolvida em 2026-08-20 — Rede referenciada / oficina BYD.**
+PH confirmou: pode citar "BYD" nominalmente (a Atlas é parceira), dá pra gravar na oficina da BYD, e o escopo exato por apólice/seguradora não precisa ser resolvido pra roteirizar — fica coberto pela assinatura padrão "condições variam por apólice" ([PADROES §2](PADROES.md)). Respostas completas em [referencias/2026-07-29-feedback-video-oficinas-byd.md](referencias/2026-07-29-feedback-video-oficinas-byd.md). Roteiro escrito: [conteudo/roteiros/2026-08-20-byd-oficina-parceira.md](conteudo/roteiros/2026-08-20-byd-oficina-parceira.md). **Ainda falta:** validação técnica do corretor (gate de sempre) + combinar data/acesso de gravação com a concessionária BYD — logística extra que os outros Reels não têm. Outras marcas além de BYD seguem sem confirmação. **Slot:** confirmado por PH como pauta de setembro (não entra em agosto) — data exata a definir no calendário do mês.
+
+
+**16. 🟡 Parcialmente resolvida (reunião Lone×Atlas, 2026-09-08) — Pauta de 20/11 (Consciência Negra).** Feriado nacional caindo numa sexta, dentro do mês empresarial. **Formato decidido:** por ser tema sensível, a peça é só **homenagem, estática, sem venda nem oferta** — nada de posicionamento comercial nesse dia. **Ainda falta:** o conteúdo específico da homenagem (A CONFIRMAR). Detalhe em [reuniao-mensal/resumos/2026-09-08-resumo-reuniao-lone-atlas.md](reuniao-mensal/resumos/2026-09-08-resumo-reuniao-lone-atlas.md).
+
+**17. Datas comemorativas — até onde ir.** O trimestral já usa as datas que conversam com seguro (trânsito, Dia do Corretor, Black Friday, feriados de estrada). Falta saber se o cliente espera também as datas de mera saudação (Dia das Crianças, Natal, Ano Novo) — que a Lone normalmente evita quando não têm gancho de produto.
+> 🟡 **Atualização (2026-10-07):** PH pediu o Dia das Crianças mesmo assim, como já tinha feito no 07/09 — [peça feita](conteudo/posts/2026-10-12-dia-das-criancas-mesma-brincadeira-nomes-diferentes.md), vai pros stories pra não disputar o feed com o Dia do Corretor. A pergunta de fundo segue aberta (o **cliente** espera saudação de data?), e agora com dois precedentes de PH (07/09 e 12/10). Natal e Ano Novo entram no mesmo critério quando chegarem: saudação sem CTA de conversão, sem produto, criança nunca como alavanca de proteção.
+
+⚠️ **Setembro Amarelo:** decidido pela Lone que fica **fora** do trimestre — a única ponte com o produto é falar do evento, que a [PADROES §8](PADROES.md) proíbe. Se o cliente pedir a data, a saída é apoio institucional puro (CVV), sem produto na peça. Vale avisar antes que ele peça.
+
+**18. "Destaque do mês" — mecanismo novo (reunião Lone×Atlas, 2026-09-08).** O cliente decidiu indicar um tema principal de seguro por mês (setembro, outubro e seguintes), estruturado com a Mayara — na prática, o cliente assumindo a pergunta obrigatória #1 do briefing mensal da Lone (produto a vender mais). Falta a primeira resposta concreta: qual é o destaque de setembro? Sinalizar isso no próximo contato com a Laís/Mayara. Ver [reuniao-mensal/resumos/2026-09-08-resumo-reuniao-lone-atlas.md](reuniao-mensal/resumos/2026-09-08-resumo-reuniao-lone-atlas.md).
+
+**19. Cadência de reuniões confirmada, mecanismo de lembrete a fechar.** Reunião mensal rápida com Carlos (Lone) + reunião mais aprofundada com Roberto (Atlas) quando necessário, aviso prévio. Falta só o formato do lembrete (WhatsApp? e-mail?) — item interno da Lone, não bloqueia produção.
+
+**20. Número "1.400–1.500 abordagens/mês dos consultores"** — dado grande citado pela cliente na reunião de 08/09. Pode virar prova/autoridade em peça institucional (P4) se o cliente autorizar citar publicamente — confirmar antes de usar em copy.
 
 ---
 
@@ -58,5 +151,6 @@ A dona da Atlas sugeriu vídeo mostrando o benefício de levar o carro na conces
 **12. Ramos fora da lista.** O PDF cita "entre outros". Saúde, viagem, garantia estendida, seguro de equipamento? Cada ramo novo abre banco de tema.
 
 **13. Sazonalidade.** Existe época de renovação concentrada, campanha de seguradora ou período de maior procura? Isso ancora o calendário dos próximos meses.
+*Nota (2026-08-27):* o [trimestral](estrategia/2026-09-a-11-trimestral.md) ancorou set–nov no calendário público (trânsito, Dia do Corretor, Black Friday). A sazonalidade **do negócio dele** continua sem resposta — e é ela que diria se novembro deveria ser o mês empresarial ou se isso vale o ano inteiro.
 
 **14. Frequência de stories.** O default do playbook é sem stories, mas a caixinha de dúvidas é a fonte de pauta mais barata pra este cliente. Vale combinar uma rotina semanal.

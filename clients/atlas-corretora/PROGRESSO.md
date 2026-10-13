@@ -4,6 +4,465 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ---
 
+## 2026-10-13 (2) — Calendário editorial 2025 do cliente recebido
+
+PH: *"É de 2025 mas dá pra ter uma noção do que ela quer."* Salvo em [calendário 2025 do cliente](referencias/2026-10-13-calendario-editorial-2025-do-cliente.md), com leitura da Lone.
+
+**Bate com o trimestral:** sinistro passo a passo (a campanha de julho/2025 do cliente é o mesmo assunto do carrossel de 16/10 e do vídeo de 28/10), papel do corretor, rodízio de ramos, empresarial em novembro.
+
+**O que falta no trimestral e o cliente quer:** campanha com benefício concreto todo mês · aniversário da Atlas em outubro (sorteio de kit churrasco) · Dia do Servidor Público (28/10) · Halloween com o conceito dele ("Não deixe a falta do seguro te assombrar"), que encaixa na sexta 30/10 sem trocar tema · cesta natalina em dezembro · memes e frases · ramos saúde, viagem e portáteis.
+
+**Contradição:** o calendário sugere conteúdo local (Araruama/Rio); o briefing diz Brasil inteiro sem âncora regional.
+
+Nada do trimestral foi alterado: as mudanças dependem de resposta (7 itens no [OPEN-QUESTIONS](OPEN-QUESTIONS.md), 2 na [PAUTA](reuniao-mensal/PAUTA.md)).
+
+---
+
+## 2026-10-13 — Post de sexta 16/10: "Avisar o sinistro leva uma ligação. Até a seguradora responder, tem um caminho inteiro que você não vê. É nele que a gente trabalha."
+
+[Carrossel de 6 slides](conteudo/posts/2026-10-16-o-que-acontece-depois-que-voce-avisa-o-sinistro.md), tema e formato do [trimestral §6](estrategia/2026-09-a-11-trimestral.md) (semana "A casa — o corretor"). Mecanismo: comparação entre o que o cliente vê (uma ligação) e as quatro etapas do outro lado (aviso, documentos, análise, resposta), com uma linha do tempo que atravessa os slides, pra não repetir o card das sextas de 02/10 e 09/10. CTA: "Chama no direct e cota com quem acompanha o aviso do sinistro até a resposta." A validação de copy foi aplicada: o fecho "os seguros se parecem" saiu (contradizia a venda por comparação) e as promessas absolutas de serviço viraram formulação de esforço. **Plano B pronto na peça:** "4 perguntas pra fazer ao seu corretor antes de contratar", que não depende do gate e é o mais provável de subir.
+
+**Descartado:** passo a passo da primeira hora (é o vídeo de 28/10) e qualquer prazo de seguradora (número sem o corretor).
+🔴 **Trava:** o corretor precisa confirmar o que a Atlas faz em cada etapa até qua 14/10 (9 itens no [OPEN-QUESTIONS](OPEN-QUESTIONS.md), entre eles o fluxo fora do horário, por causa do art. 771 do Código Civil). Etapa sem confirmação tira o slide; sem resposta, sobe o plano B. ⚠️ A peça de feed do Dia do Corretor (12/10), citada no PROGRESSO de 07/10, **não existe no repositório**, e o Reel de 14/10 segue travado. Por isso esta peça foi escrita pra se sustentar sozinha.
+
+---
+
+## 2026-10-07 (2) — Dia das Crianças (segunda 12/10): "Pipa, papagaio, pandorga, raia" (saudação, vai pros stories)
+
+PH pediu artes de Dia das Crianças pra toda a carteira — data de mera saudação ([OQ #17](OPEN-QUESTIONS.md)), pedida mesmo assim como no 07/09. [Peça](conteudo/posts/2026-10-12-dia-das-criancas-mesma-brincadeira-nomes-diferentes.md) — cartaz tipográfico azul-marinho + branco. Mecanismo **(c) memória do adulto, versão nacional:** o mesmo brinquedo com vários nomes pelo país, que só uma conta que atende o Brasil inteiro pode dizer. CTA: comentar / responder o sticker (sem conversão).
+
+**Decisões:** (1) **Descartei "o primeiro sinistro da sua vida foi uma bola na janela do vizinho"** — a melhor memória pra corretora, mas seria o quarto episódio em três semanas de "prejuízo a terceiro" (21/09, RC de 02/10, 05/10). (2) Nenhum nome do brinquedo atribuído a estado. (3) Criança não é alavanca de proteção ([PADROES §8](PADROES.md)); sem produto; sem cobertura; sem número; sem validação do corretor (não há conteúdo técnico).
+
+**Como convive com o Dia do Corretor (12/10):** **feed de manhã = Dia do Corretor** (a data da casa, peça da semana "A casa — o corretor"); **esta peça = stories de manhã, 9:16 com sticker de pergunta.** Se PH quiser as duas no feed: Dia do Corretor 8h30, esta ao meio-dia, e a do Dia do Corretor **não pede comentário** (09/10 já pede). Inverte o 07/09 porque lá a outra peça era de produto; aqui são duas peças de data, e a da profissão manda.
+
+**Prazo:** brief ao designer hoje/08/10, envio ao cliente qui 08/10 até 15h (limite sex 09/10). **Não afirmado:** atendimento em feriado.
+
+---
+
+## 2026-10-07 — Post de sexta 09/10: "Apartamento, casa ou casa de praia?" (carrossel, fecha a semana de Residencial)
+
+Escrito a pedido de PH, que notou que a sexta 09/10 estava sem peça. [Peça](conteudo/posts/2026-10-09-apartamento-casa-ou-casa-de-praia.md) — carrossel de 5 slides, venda, tema do [trimestral §6](estrategia/2026-09-a-11-trimestral.md) ("cotação por tipo de imóvel").
+
+**Eixo trocado em relação à sexta de 11/09:** lá eram os fatores que pesam no preço; aqui é **a dúvida que abre a cotação em cada imóvel** (apê: o que é do prédio e o que é seu · casa: onde ela termina · casa de praia: quanto tempo fica vazia). Não afirma cobertura, na linha da peça de 05/10.
+
+**Validação de copy (subagent): aprovado com ajustes, mas não sobe antes do corretor.** Três bloqueantes aplicados: a capa afirmava como regra de cotação o que era só dúvida do leitor (reescrita) · o selo de gate "resolvido" contradizia as pendências (virou **"pendente"**, com **versão fallback** que sobe sem o apoio dos slides se o corretor não responder até 08/10) · o fecho prometia "as perguntas da cotação" que não existiam (**rascunho das três listas** escrito na peça pro corretor ajustar). Quatro mudanças a mais: "quintal" e "fica de fora" saíram, cada slide ganhou um verbo diferente, o molde de fecho de 02/10 saiu, e o **CTA virou "comenta APÊ, CASA ou PRAIA"** porque seriam cinco sextas seguidas fechando em direct (com 172 seguidores, comentário compra o alcance que falta).
+
+**Trava e prazo:** o corretor precisa validar 5 itens ([OPEN-QUESTIONS](OPEN-QUESTIONS.md)); o brief vai ao designer em **08/10**. ⚠️ **O vídeo de quarta 07/10** (inquilino × proprietário) **também não tem roteiro** no repositório, como o de 30/09.
+
+---
+
+## 2026-10-02 — Post de segunda 05/10: "Quem mora embaixo descobre o vazamento primeiro e resolve por último"
+
+Abre a **semana de Residencial** do [trimestral §6](estrategia/2026-09-a-11-trimestral.md) (05-09/10), serviço novo na vez do rodízio depois da semana empresarial ([PADROES §10](PADROES.md)). [Peça escrita](conteudo/posts/2026-10-05-vazamento-do-apartamento-de-cima.md): estático, cartaz tipográfico — quarta (07/10) carrega o vídeo da semana.
+
+**O giro que evitou o terceiro episódio do mesmo mecanismo:** o tema mapeado ("vazamento do vizinho, quem paga?") caía exatamente em cima de 21/09 (*"Bateu em outro carro. E o prejuízo do outro?"*, Auto) e do slide de responsabilidade civil do carrossel de 02/10 — três peças em quinze dias sobre "o prejuízo que você causa a um terceiro". Inverti a direção do prejuízo: aqui o leitor é quem **recebe** o dano e não controla a causa, e o inimigo da peça passa a ser **o tempo** (a água para em dois dias, a discussão sobre o cano não). Headline também mudou de forma — uma frase longa única, porque as duas segundas anteriores usaram o mesmo molde de duas sentenças curtas.
+
+✅ **Gate técnico resolvido por subtração, não por condicional** ([PADROES §2](PADROES.md)): a peça **não afirma, não nega e não insinua** cobertura de dano de água vindo de terceiro. Nada no [BRIEFING](BRIEFING.md) ou nas referências confirma como as seguradoras da carteira tratam esse risco, então a camada de cobertura **saiu da peça** em vez de virar condicional fraca. O que ficou é a pergunta a levar ao corretor ("o que a minha apólice faz quando o estrago vem de fora?"). Ficaram fora de propósito: responsabilidade civil, divisão condômino × condomínio, menção a lei de condomínio e a laudo/perícia. Se o corretor confirmar como o risco costuma ser tratado, o fechamento do card troca a pergunta pela resposta e a peça fica mais forte.
+
+**CTA "salva esse post"** — rodízio: 21/09 salva, 25/09 direct, 28/09 comenta, 02/10 direct; salvamento não aparecia desde 21/09. Zero número na peça, nome do corretor não usado ([OQ #1](OPEN-QUESTIONS.md) segue aberta).
+
+⚠️ **Parei de anunciar as peças da semana na legenda, de propósito.** 21/09 e 28/09 fecharam prometendo o que vinha na quarta e na sexta — e a promessa de 28/09 não foi cumprida (o vídeo de 30/09 nunca foi escrito). Enquanto o slot de quarta depender de gravação sem agenda ([OQ #2](OPEN-QUESTIONS.md)), prometer data em legenda é criar dívida pública. Bônus: cortou o terceiro bloco de fechamento idêntico seguido.
+
+🔴 **Buraco de 30/09 conferido no repositório e confirmado:** não existe arquivo do vídeo ("A loja fechou 15 dias. O aluguel não fechou junto"). `conteudo/roteiros/` para em 2026-09-15 e as únicas menções à peça são as que registram a falta. Fora do escopo desta entrega — **decisão do PH:** peça de reposição ou slot encerrado.
+
+---
+
+## 2026-09-29 — Post de sexta 02/10: "O que cabe dentro de um seguro empresarial (e o que só entra se você pedir)" (carrossel)
+
+[Peça](conteudo/posts/2026-10-02-o-que-um-seguro-empresarial-cobre.md) do lote de outubro. Fecha a semana de Empresarial do [trimestral §5](estrategia/2026-09-a-11-trimestral.md), a que atravessa a virada do mês.
+
+**Não era uma escolha, era uma promessa a cumprir:** a peça de [28/09](conteudo/posts/2026-09-28-o-seguro-que-quase-ninguem-sabe-que-existe.md) anunciou em público que "sexta lista o que um seguro empresarial cobre, item por item".
+
+**O giro que evita o carrossel de catálogo:** listar cobertura é o conteúdo mais genérico que uma corretora publica. Aqui a lista é dividida em **duas colunas de leitura** — o que costuma vir na apólice (incêndio/raio/explosão, vendaval/granizo/alagamento, roubo e furto qualificado, danos elétricos) e o que só entra se for pedido pelo nome (responsabilidade civil, lucro cessante). Isso continua o argumento da semana e transforma a lista numa ferramenta de conferência da apólice do leitor.
+
+🔴 **Esta é a peça do trimestre que mais depende do gate técnico** ([PADROES §2](PADROES.md)): seis coberturas descritas são seis claims. A peça leva anexada uma lista numerada pro corretor validar **item por item**, com a instrução de que item não confirmado **sai do carrossel** em vez de virar condicional fraca — lista de seis vira lista de quatro sem prejuízo.
+
+⚠️ **Buraco de calendário registrado:** o vídeo de quarta **30/09** ("A loja fechou 15 dias. O aluguel não fechou junto"), previsto no trimestral e anunciado em público na peça de 28/09, **ainda não foi escrito**.
+
+---
+
+## 2026-09-25 — Post de segunda 28/09: "Sua loja pode estar totalmente segurada. E ainda assim fechar as portas."
+
+Tema puxado do [trimestral §5](estrategia/2026-09-a-11-trimestral.md): abre a semana de **Empresarial/lucro cessante** (28/09-02/10, semana que atravessa a virada do mês por regra do [PADROES §10](PADROES.md)). [Peça escrita](conteudo/posts/2026-09-28-o-seguro-que-quase-ninguem-sabe-que-existe.md): cartaz tipográfico, mesmo molde das segundas anteriores. Estático — quarta (30/09) carrega o vídeo da semana.
+
+**Por que não repete a semana passada:** 21/09 abriu em Auto (danos a terceiros). Esta é a primeira vez que lucro cessante vira post de feed (só existia em roteiro de vídeo até aqui) — zero sobreposição de ramo.
+
+**CTA "comenta LOJA"**, reabrindo o rodízio: 14/09 foi comentar, 18/09 direct, 21/09 salva — comentário não repete desde 14/09.
+
+**Gate técnico cumprido com ressalva marcada:** usei a redação pré-aprovada do [PADROES §2](PADROES.md) pra lucro cessante ("cobre o que você deixa de faturar, dentro do que a apólice prevê"). Mas incluí uma frase nova — "na maioria dos planos empresariais ela não vem junto por padrão; entra como item à parte" — que é inferência minha de mercado, **não confirmada pela Atlas**. Sinalizei no arquivo que o corretor precisa validar essa frase especificamente antes de publicar (ou ela enfraquece pra "costuma entrar como item à parte, dependendo da seguradora"). Zero número/percentual na peça.
+
+**Pendências que seguem em aberto:**
+- [OQ #3](OPEN-QUESTIONS.md) — plano contratado (12 ou 13 posts/mês). O trimestral marca esta peça como *flexível*: é a que cai se o plano for 12. Confirmar com PH antes de fechar o mês.
+- [OQ #1](OPEN-QUESTIONS.md)/[#2](OPEN-QUESTIONS.md) — nome do corretor e agenda de gravação seguem sem resposta (não travam esta peça, que é estática).
+- Claim novo sobre venda de lucro cessante à parte (acima) — validar com o corretor antes de publicar.
+
+---
+
+## 2026-09-21 — Post de segunda: "Bateu em outro carro. E o prejuízo do outro?" (abre a semana de Auto)
+
+Tema já mapeado no [trimestral §5](estrategia/2026-09-a-11-trimestral.md) — danos a terceiros, semana ancorada na Semana Nacional do Trânsito (18-25/09). [Peça](conteudo/posts/2026-09-21-bateu-em-outro-carro-e-o-prejuizo-do-outro.md): cartaz tipográfico, mesmo molde das segundas anteriores. "Responsabilidade civil" aparece uma vez, traduzida na mesma frase; cobertura afirmada só com condicional ("na maioria das apólices", "só precisa estar na sua"), zero número. CTA "salva esse post" (14/09 foi comentar, 18/09 direct). **Corretor confere antes de publicar** — cita função de produto.
+
+## 2026-09-17 (6) — Roteiro "Cobre ou não cobre": 7 situações da referência real + fecho de venda
+
+PH mandou a transcrição do vídeo de referência (@alexsandra_corretora) que embasou o roteiro original de 15/09 — 7 perguntas e respostas, bem mais específicas que as 4 situações que eu tinha inventado na v1 (esquecer o carro fora da garagem, pneu careca, sinal vermelho, CNH suspensa, árvore caindo em cima do carro, colisão entre parentes de primeiro grau, alagamento parado × atravessando). Reescrevi [conteudo/roteiros/2026-09-15-cobre-ou-nao-cobre-seguro-auto.md](conteudo/roteiros/2026-09-15-cobre-ou-nao-cobre-seguro-auto.md) (v2) com as 7 situações, cada uma com a condicional que o gate técnico exige — a referência fala em tom afirmativo direto porque já é perfil estabelecido, a Atlas ainda não tem esse selo, então mantive "tende a"/"costuma ser" mesmo com o rótulo binário na tela.
+
+**Fecho também mudou por pedido do PH:** de "salva esse vídeo" (utilidade) pra "fala com a gente" com CTA de link na bio (venda). Sinalizei que "link na bio" é CTA novo pra essa conta — nunca usado antes na Atlas (padrão sempre foi direct/WhatsApp) — vale confirmar com PH se o link já tem destino certo antes de publicar.
+
+---
+
+## 2026-09-17 (5) — PDF do cliente ajustado: tira "texto na tela", explica o porquê do respiro/repetição
+
+PH pediu dois ajustes no PDF de entrega: (1) tirar as menções de "texto na tela" (Take 3B e 4) — isso é decisão de edição da Lone, não algo que o cliente precisa saber; (2) explicar o porquê de repetir cada take 3-4 vezes (pra gente escolher a melhor versão na montagem) e segurar 1-2s de silêncio antes/depois (é o tempo que a edição usa pra cortar certinho) — antes só mandava fazer, sem dizer pra quê. Reescrevi a intro de "Como funciona a gravação" no [HTML](apresentacoes/2026-09-17-roteiro-byd-oficina-parceira.html) com essas duas explicações e removi os badges de texto na tela; PDF regerado.
+
+**Padrão a manter:** doc de entrega ao cliente explica o "pra quê" de qualquer instrução técnica que peça esforço extra dela (repetir, segurar silêncio) — sem isso vira ordem sem contexto. Já as decisões que são só da Lone (onde entra texto na tela, corte, ritmo) ficam fora do documento do cliente, só no roteiro interno.
+
+---
+
+## 2026-09-17 (4) — Regra nova de conta: nenhum take pode ser "parado" sem ação
+
+PH corrigiu um ponto que vale pra toda a carteira de Reels da Atlas, não só pra este roteiro: "parado" descreve a câmera (sem tremer), nunca a pessoa — todo plano de fala precisa ter algum tipo de gancho/ação acontecendo (ela fechando o notebook, mexendo em algo, apoiando a mão no carro), senão quem grava fica sem saber o que fazer com as mãos. Registrei como regra permanente em [PADROES §11](PADROES.md) e apliquei sugestão de ação em cada take de câmera do roteiro do BYD — take 1 (fecha tampa do carregador/apoia no capô), 2a (segura prancheta/tablet), 2c (fecha a prancheta/notebook), 3b (apoia a mão no carro/aponta pro logo BYD), 4 (gesto de mão aberta, já sugerido antes, agora explicitamente é o "gancho" do take). Take 2b já tinha o andar como gancho; 3a fica de fora por ser só áudio, sem o rosto dela em cena.
+
+Atualizei o [roteiro interno](conteudo/roteiros/2026-08-20-byd-oficina-parceira.md) (v5) e o [PDF de entrega ao cliente](apresentacoes/2026-09-17-roteiro-byd-oficina-parceira.html) com as mesmas sugestões, PDF regerado.
+
+---
+
+## 2026-09-17 (3) — Roteiro do BYD convertido pro formato de entrega ao cliente (HTML/PDF)
+
+PH pediu a versão "pra mandar pro cliente" — sem as notas de decisão interna da Lone (gate técnico, PADROES, OPEN-QUESTIONS, histórico de revisões), só o conteúdo prático que a Atlas precisa pra gravar. Criei [apresentacoes/2026-09-17-roteiro-byd-oficina-parceira.html](apresentacoes/2026-09-17-roteiro-byd-oficina-parceira.html) + PDF gerado via Chrome headless, mesma identidade visual usada no roteiro "Cobre ou não cobre".
+
+Diferente daquele caso: aqui a instrução de "como gravar" por take **ficou no documento do cliente**, porque quem grava é a própria Atlas (sem equipe de produção junto) — não é nota de bastidor da Lone, é instrução operacional que ela precisa pra executar sozinha. O que saiu foi só a camada de raciocínio interno (por que o gate técnico existe, referências a PADROES/OPEN-QUESTIONS, versionamento). O roteiro de trabalho completo continua em [conteudo/roteiros/2026-08-20-byd-oficina-parceira.md](conteudo/roteiros/2026-08-20-byd-oficina-parceira.md) (v4).
+
+---
+
+## 2026-09-17 (2) — Roteiro do BYD: blocos 2 e 3 divididos em takes menores + conceito de "take áudio"
+
+PH achou as falas dos blocos 2 e 3 grandes demais pra gravar de um fôlego só e marcou no próprio arquivo onde queria cortar em takes separados. Reescrevi as instruções de gravação: bloco 2 virou 3 takes curtos (2a/2b/2c, com 2b sugerido andando pra variar o visual), bloco 3 virou 2 takes — 3a é **só áudio** (ela grava a voz lendo o texto, sem se preocupar com quadro; na edição entra coberto por B-roll de conserto de carro ou do estoque/estrutura da oficina) e 3b volta a ser gravado normal, olhando pra câmera.
+
+**Ponto de atenção que sinalizei pro PH, não resolvi sozinho:** na edição dele, a frase condicional do gate técnico ("dependendo da seguradora e das coberturas contratadas") saiu da fala do bloco 3 — ficou só na legenda agora. Registrei como pendência aberta na seção "Gate técnico" do roteiro ([PADROES §2](PADROES.md)) até PH confirmar com o corretor se isso é suficiente ou se a condicional precisa voltar pra fala. v4 no histórico do arquivo.
+
+---
+
+## 2026-09-17 — Roteiro do BYD: copy trocada pela versão final do institucional (PDF entregável)
+
+PH mandou o PDF "Roteiro - Lone Mídia x Atlas" (Roteiro 01, formato vídeo institucional, 10 cenas) e pediu pra atualizar a fala do [conteudo/roteiros/2026-08-20-byd-oficina-parceira.md](conteudo/roteiros/2026-08-20-byd-oficina-parceira.md) com essa copy nova — mantendo intacta a estrutura de 4 blocos e as instruções de "como gravar" por take (v2, escritas em 16/09).
+
+Mapeei as 10 cenas do PDF nos 4 blocos existentes: gancho = cena 01, contexto/dor = cenas 02-04, benefício = cenas 05-08, CTA = cenas 09-10. Duas mudanças de fundo além da troca de texto: o CTA passou de "chama no direct" pra "fale com a Atlas" (é o que o PDF define), e a frase de segurança do gate técnico ([PADROES §2](PADROES.md)) deixou de ser uma assinatura fixa no fim do bloco 3 pra virar a abertura condicional da própria copy ("dependendo da seguradora e das coberturas contratadas..."). Legenda reescrita a partir do texto novo. v3 no histórico de revisões do arquivo.
+
+**Houve um mal-entendido no meio da conversa:** PH avisou que a copy "mudou muita coisa" e eu tinha comparado contra o PDF (que já era a versão nova) em vez de contra o roteiro salvo no projeto — só bateu quando PH apontou o arquivo exato. Vale de lição: quando PH diz que uma copy "mudou", checar primeiro o que está salvo no repositório, não assumir que a referência é o próprio material que ele acabou de colar.
+
+---
+
+## 2026-09-16 — Roteiro do BYD (carro elétrico) reescrito com instrução de take por bloco
+
+PH pediu pra reverter o roteiro do carro elétrico (parado sem gravar há semanas, [OQ #2](OPEN-QUESTIONS.md)) pra voltar a trazer direção de **como gravar** cada take — não de edição, já que quem grava é a própria consultora sozinha e manda material bruto pra Lone montar. Isso é diferente do resto da carteira, onde a equipe da Lone filma e decide o take na hora.
+
+Analisei os dois Reels já publicados da conta que o PH tem salvos na máquina (estacionamento/showroom e escritório) pra extrair o padrão visual real: plano médio parado com celular firme olhando pra lente, blocos em pé viram tomada única de frase inteira com 1-2s de respiro antes/depois (espaço pra edição cortar e encaixar texto), blocos andando acompanham o passo, e a conta já usa B-roll de ambiente/objeto (mãos, estrutura do local) pra variar o corte sem depender só do rosto.
+
+Reescrevi [conteudo/roteiros/2026-08-20-byd-oficina-parceira.md](conteudo/roteiros/2026-08-20-byd-oficina-parceira.md) (v2) com um bloco "Como gravar este take" por seção — enquadramento, quantas repetições, quando gravar B-roll separado, e destaque pra gravar isolada a frase de segurança do gate técnico ("condições variam por apólice..."). Fala e estrutura (Gancho→Dor→Benefício→CTA) não mudaram. Registrei o padrão como regra permanente da conta em [PADROES §11](PADROES.md) — vale pra todo roteiro futuro da Atlas, não só este.
+
+---
+
+## 2026-09-15 (3) — Post de sexta 18/09 escrito antecipado: "Já tem pelo trabalho?"
+
+PH pediu os posts de sexta 18/09 pra Atlas, Veterinária Regional, Veneza e CIIL de uma vez. [Carrossel escrito](conteudo/posts/2026-09-18-ja-tem-pelo-trabalho.md) — fecha a semana de Planejamento familiar do [trimestral](estrategia/2026-09-a-11-trimestral.md), tema já mapeado ("seguro do emprego × seguro seu"). Ângulo: plano de vida em grupo da empresa acompanha o vínculo empregatício, não a pessoa — objeção "já tenho pelo trabalho" desmontada sem virar mentira, só prazo de validade que ninguém avisa. Segue §8 (renda, não evento) e §9 (planejamento familiar + ponte pra seguro de vida). CTA "chama no direct", fecha a semana em conversão. Sem agenda de corretor confirmada, então carrossel, não Reel — mesmo critério das peças anteriores.
+
+---
+
+## 2026-09-15 (2) — Roteiro "Cobre ou não cobre" convertido pro formato de entrega padrão (HTML/PDF)
+
+PH pediu que o roteiro saísse "só como o nosso roteiro base que a gente manda pros clientes" — mandou de referência o PDF do roteiro Dijana (Mês do Cliente/Air Fryer) como modelo de formatação. Recriei a mesma estrutura (capa + página de cenas, identidade Lone Mídia) em [apresentacoes/2026-09-15-roteiro-cobre-ou-nao-cobre.html](apresentacoes/2026-09-15-roteiro-cobre-ou-nao-cobre.html) + PDF gerado via Chrome headless (regra já registrada — nunca Cmd+P na página do artifact).
+
+**Diferença do .md interno de ontem:** este é o documento "limpo" pro cliente — só timeline (6 cenas), legenda e hashtags, sem as notas de compliance/estratégia internas. Os 4 vereditos [cobre/não cobre] entram como placeholder em colchetes (mesmo padrão do roteiro Dijana, que usa `[data inicial]`, `[número]` etc.) em vez de afirmação fechada — e ganharam um bloco de destaque ("Cobertura sujeita a confirmação") fazendo o papel do "RODAPÉ OBRIGATÓRIO" do modelo de referência, adaptado pro gate técnico desta conta ([PADROES §2](PADROES.md)) em vez do texto de regulamento de sorteio que a Dijana usa.
+
+O roteiro de trabalho interno (com toda a análise, tabela de sugestão de veredito e notas de gravação) continua em [conteudo/roteiros/2026-09-15-cobre-ou-nao-cobre-seguro-auto.md](conteudo/roteiros/2026-09-15-cobre-ou-nao-cobre-seguro-auto.md) — este HTML/PDF é a versão de entrega, derivada dele.
+
+---
+
+## 2026-09-15 — Roteiro novo a pedido do cliente: "Cobre ou não cobre? Seguro Auto" (vídeo)
+
+PH repassou que o cliente quer um vídeo no formato "pode não pode / cobre e não cobre", com referência já baixada (Reel de @alexsandra_corretora). Formato descrito em [referencias/2026-09-15](referencias/2026-09-15-referencia-formato-cobre-nao-cobre.md): rótulo binário COBRE (verde)/NÃO COBRE (vermelho) por situação, corretora falando direto pra câmera, lista rápida.
+
+[Roteiro escrito](conteudo/roteiros/2026-09-15-cobre-ou-nao-cobre-seguro-auto.md) — 4 situações de Seguro Auto (emprestou o carro, furou o sinal, bateu bêbado, deixou destravado), cada uma com sugestão de veredito de mercado geral **pendente de confirmação da corretora** ([OPEN-QUESTIONS #5b](OPEN-QUESTIONS.md)) — é o formato que mais assume risco de afirmação de cobertura de toda a conta, então o gate técnico ([PADROES §2](PADROES.md)) entra reforçado: rótulo visual pode ser binário, mas a fala de cada situação sempre carrega a condicional ("na maioria das apólices", "depende da sua").
+
+Primeira vez que o pilar P2 (mitos/cobre×não cobre, ~20% do mix) vira vídeo nesta conta — até aqui só rodava estático/carrossel. Encaixe natural é a semana de Auto do trimestral (21-25/09, que já ancora a Semana Nacional do Trânsito) — fica como opção pro slot de quarta (23/09), inclusive como substituto do Reel da BYD se ele não fechar a tempo. Decisão de PH. Segue bloqueado pelos mesmos gargalos de sempre: rosto/nome da corretora ([OQ #1](OPEN-QUESTIONS.md)) e data de gravação ([OQ #2](OPEN-QUESTIONS.md)).
+
+---
+
+## 2026-09-14 — Peça de segunda: abre a semana de Planejamento familiar
+
+Post de hoje escrito: [conteudo/posts/2026-09-14-quanto-tempo-a-casa-se-sustenta-sem-a-renda.md](conteudo/posts/2026-09-14-quanto-tempo-a-casa-se-sustenta-sem-a-renda.md). Estático, P3 (posicionamento), CTA "comenta CONTA".
+
+**Segui o tema já mapeado no [trimestral §5](estrategia/2026-09-a-11-trimestral.md)** pra 14/09: "Quanto tempo a sua casa se sustenta sem a sua renda?" — a semana de 14-18/09 fecha em Planejamento familiar (segunda apresenta, quarta explica com gate reforçado, sexta vende), rodízio do [PADROES §10](PADROES.md).
+
+**Estático, não vídeo.** Segunda-feira é slot leve/educativo do playbook da Lone e não exige vídeo — o Reel da semana fica pra quarta (16/09). Também não havia agenda de gravação confirmada pra hoje, mesmo bloqueio de sempre ([OQ #1](OPEN-QUESTIONS.md)/[#2](OPEN-QUESTIONS.md)), mas isso não travou esta peça porque ela nunca dependeu de gravação.
+
+**Tom ([PADROES §8](PADROES.md)) respeitado sem esforço:** a peça fala de renda e de quem depende dela ("quem hoje vive, mesmo que em parte, da renda que você traz"), nunca do evento — zero menção a morte/morrer, nem negada.
+
+**Gate técnico ([PADROES §2](PADROES.md)):** a única afirmação sobre o produto usa "ajuda a cobrir" com ressalva explícita de que tempo e condição dependem da apólice. Nenhum valor, prazo ou percentual citado. Ainda assim, sinalizado pro corretor bater o olho antes de publicar.
+
+**CTA saiu do rodízio de direct das últimas peças** (07/09, 11/09) — troquei pra "comenta CONTA", que não entrava há um tempo, seguindo o rodízio do [PADROES §5](PADROES.md).
+
+**Nome do corretor:** não usado, sem necessidade de placeholder — peça não é autoapresentação. [OQ #1](OPEN-QUESTIONS.md) segue sem resposta.
+
+---
+
+## 2026-09-08 (2) — Reunião mensal Lone×Atlas: feedback, Stories, e destravas puxadas
+
+Reunião de acompanhamento (Carlos, pela Lone · Laís, pela Atlas). Resumo completo em [reuniao-mensal/resumos/2026-09-08-resumo-reuniao-lone-atlas.md](reuniao-mensal/resumos/2026-09-08-resumo-reuniao-lone-atlas.md).
+
+**O que mudou de fato:**
+- Cliente aprovou explicitamente a estética atual (formal/corporativa/limpa) e o tom do perfil.
+- Confirmado fluxo de **Stories com caixinha de perguntas** → dúvidas relevantes viram post de feed (não depende de gravação formal, roda em paralelo ao gargalo do corretor).
+- Surgiu candidata a rosto dos vídeos: **Mayara**, consultora nova — ainda não confirmada, [OQ #1](OPEN-QUESTIONS.md) atualizada.
+- **Consciência Negra (20/11)** ganhou formato definido: homenagem estática, sem venda — falta só o conteúdo específico ([OQ #16](OPEN-QUESTIONS.md)).
+- Cliente vai passar a indicar um **"destaque do mês"** (tema principal de seguro), estruturado com a Mayara — resolve operacionalmente a pergunta obrigatória #1 do briefing mensal da Lone daqui pra frente ([OQ #18](OPEN-QUESTIONS.md)).
+- Cadência de reuniões fechada: mensal rápida com Carlos, mais aprofundada com Roberto quando precisar.
+
+**O que ficou pendente:** disponibilidade da Mayara, motivo do atraso na gravação do roteiro de carros elétricos, conteúdo da homenagem de 20/11, e o primeiro "destaque do mês" (setembro).
+
+---
+
+## 2026-09-08 — Peça de sexta 11/09 escrita (fecha a semana de Residencial)
+
+PH pediu os posts do dia 11 pra carteira toda. [Carrossel "o que faz o preço do seguro residencial" escrito](conteudo/posts/2026-09-11-o-que-faz-o-preco-do-seguro-residencial.md) — fecha a semana que abriu com a casa vazia no feriado (07/09) e o roubo (09/09).
+
+**Formato escolhido:** carrossel, não Reel. Sem agenda do corretor confirmada pra essa data ([OPEN-QUESTIONS #1](OPEN-QUESTIONS.md)), e o tema — fatores que mexem no preço — é exatamente o uso que o PADROES §4 recomenda pro carrossel (conteúdo de checklist/salvamento).
+
+**Zero número na peça inteira.** Nem preço, nem franquia, nem percentual — só os quatro fatores (localização, custo de reconstrução, segurança já instalada, histórico de sinistro), sem cravar valor nenhum. Gate técnico do corretor ([PADROES §2](PADROES.md)) cumprido por desenho, não por revisão depois.
+
+**CTA voltou pro direct** — rodízio: a peça de segunda (07/09) puxou "salva esse post" (alcance), sexta fecha a semana em conversão.
+
+---
+
+## 2026-09-07 (2) — Peça de feriado, a pedido de PH
+
+Eu tinha argumentado, na peça de residencial do mesmo dia, que data cívica não merece slot de feed numa conta de 172 seguidores. **PH pediu a saudação mesmo assim — decisão dele.** [Peça escrita](conteudo/posts/2026-09-07-feriado-independencia.md).
+
+**Feita pra não ser cartão genérico.** Duas escolhas carregam isso: **não pintei a peça de verde-e-amarelo** (o PADROES §7 proíbe paleta nova, e card cívico com cara de bandeira é o que faz toda marca ficar idêntica no dia 7 — o verde entra como filete, não como fundo); e **cortei o trocadilho de "independência financeira"**, que é o gancho que toda corretora e todo banco usam, e que chega no feed do leitor pela quinta vez até o almoço.
+
+O que sobrou de específico é a linha de apoio: *"bom feriado pra quem vai descansar hoje — e pra quem vai trabalhar."* É verdadeira, boa parte do país trabalha, e ninguém escreve isso.
+
+**Sem CTA.** Peça de data que pede direct vira anúncio disfarçado. O CTA único da conta fica com a peça de residencial.
+
+**As duas peças do dia não concorrem:** saudação de manhã (presença), residencial no fim da tarde (pega quem volta de viagem). Se PH quiser só uma no feed, a recomendação registrada é a saudação ir pros **stories** — ela funciona igual lá e não gasta slot de alcance.
+
+---
+
+## 2026-09-07 — Semana de residencial abre virando o ângulo do trimestral
+
+Peça de segunda escrita: [antes de desfazer a mala, dá uma volta pela casa](conteudo/posts/2026-09-07-antes-de-desfazer-a-mala.md). Estático, P2, CTA de salvamento.
+
+**O trimestral previa "o que checar antes de viajar" — e isso chegaria três dias atrasado.** 07/09 é o **último dia** do feriadão (sáb 05, dom 06, seg 07). Quem ia viajar já viajou na sexta. Mantive tema, produto e função na semana, e virei o momento: a peça fala com quem **está voltando hoje**, com uma lista de inspeção de chegada — quadro de energia, hidrômetro com tudo fechado, teto e canto de parede, portas e janelas dos fundos.
+
+**A regra que sai daqui, e vale pro trimestre inteiro:** conteúdo de "antes de viajar" sai na **véspera** do feriado, não no feriado. Quando a véspera já está ocupada (04/09 era a peça de venda de auto), a saída é virar o momento, não o tema — assim a semana temática não se desfaz.
+
+**Não repete a residencial de agosto.** [10/08](conteudo/posts/2026-08-10-seguro-residencial-alem-do-incendio.md) foi lista de **coberturas**; esta é lista de **inspeção** — o leitor faz alguma coisa com ela hoje, dentro de casa. Mesmo produto, mecanismo diferente.
+
+**Passa limpo no gate técnico sem precisar do corretor:** a peça **não afirma nenhuma cobertura**. Vira a pergunta pro leitor ("a *minha* apólice cobre isso?") e diz que muda por plano e seguradora. Deixei três perguntas listadas pro corretor — dano elétrico por queda de energia, a distinção entre dano do vazamento e conserto do cano, e tentativa de arrombamento sem furto consumado. Nenhuma trava a publicação; as três renderiam peça própria de P2.
+
+**Decisão de CTA que contraria o hábito da conta, de propósito:** cortei o fecho padrão "chama que eu confiro a sua". Ele é assinatura verbal ([PADROES §2](PADROES.md)), mas com o CTA de salvamento viraria **dois caminhos concorrendo**, que a §5 proíbe. A ressalva de apólice ficou como informação, não como chamada. A peça de 10/08 tinha os dois — fica registrado que aquilo era o vício, não o padrão.
+
+📌 **Nada de 7 de setembro cívico.** O feriado é o contexto (casa vazia por três dias), nunca o tema — sem bandeira, sem verde-e-amarelo, sem "Feliz Independência". Conta de 172 seguidores não ganha nada com peça de data vazia.
+
+📌 **Publicar no fim da tarde**, quando quem viajou está chegando. De manhã pega o leitor na estrada.
+
+---
+
+## 2026-08-31 — Semana de auto abre com franquia
+
+Peça de segunda escrita: [franquia, o número que ninguém olha](conteudo/posts/2026-08-31-franquia-o-numero-que-ninguem-olha.md). Estático, P2 (cobre × não cobre), CTA no direct.
+
+**Abre a semana de auto** que o [trimestral](estrategia/2026-09-a-11-trimestral.md) fecha em 02 e 04/09 — a semana começa hoje mesmo o documento começando em setembro, aplicando a [PADROES §10](PADROES.md) (a semana atravessa o mês).
+
+**O ângulo evita colisão dentro da própria semana:** quarta e sexta falam do preço da apólice (o que faz custar mais ou menos); a segunda fala do número que aparece do outro lado, na hora de usar. Franquia nunca tinha sido tema central da conta — só aparecia de passagem em residencial (10/08) e no motion flyer de 26/08.
+
+⚠️ Três pontos pro gate do corretor listados no arquivo, sobretudo a relação franquia baixa/apólice cara e se o efeito no bônus de renovação deve entrar.
+
+---
+
+## 2026-08-27 (4) — O PDF do trimestral passa a sair pronto
+
+PH imprimiu o calendário pelo Cmd+P na página do artifact e o PDF saiu com card partido no meio da página, a última peça cortada e a URL do navegador carimbada em todo rodapé.
+
+**A causa:** a página do artifact roda dentro de um iframe, então o print sai do documento hospedeiro e as regras de paginação do CSS não valem — e cabeçalho/rodapé de navegador nenhum CSS remove.
+
+**O que fiz:** reforcei o CSS de impressão (as duas grafias de `break-inside`, `@page` A4, rótulo de semana que não fica órfão no pé da página, etiqueta de formato legível mesmo sem fundo impresso) e passei a **gerar o PDF direto do arquivo**, pelo Chrome headless. O [PDF](apresentacoes/2026-08-27-calendario-editorial-trimestral.pdf) agora fica versionado ao lado do HTML.
+
+Vale pra qualquer entregável da carteira, não só este.
+
+---
+
+## 2026-08-27 (3) — Correção: a linha temática é semanal, não mensal
+
+PH reprovou a estrutura do trimestral v1: *"o tema dos serviços muda a cada semana, não mês. Uma semana inteira nós falamos de seguro de vida, na outra a gente fala de seguro auto."*
+
+**Onde eu errei:** peguei o teste de linha temática única — que nasceu **semanal** na semana de 24-28/08 — e generalizei pra cima, achando que trimestre pedia uma unidade maior. Escala de documento não muda a unidade da regra. Um trimestre é treze semanas, não três meses.
+
+**O que mudou na prática:** as mesmas 39 datas, redistribuídas em rodízio de quatro serviços — auto · residencial · planejamento familiar · empresarial — sem repetir serviço em semanas seguidas. Dentro da semana, o serviço é fixo e a função varia (seg apresenta · qua explica · sex vende), que é o que faz a linha única conviver com o mix da casa.
+
+**Duas coisas que só apareceram com a rotação semanal:**
+
+- **A semana atravessa o mês.** 28/09 a 02/10 é empresarial dos dois lados da virada. Isso é a prova visível da regra no documento — quem lê entende sozinho que a unidade é a semana.
+- **Datas empurrando pro mesmo serviço.** O feriado de 07/09 (estrada) e o Reel da concessionária caíam os dois em auto, em semanas coladas. Resolvido trocando o ângulo do feriado pra **casa vazia** — residencial. A data continua sendo usada, só que pelo outro produto.
+
+**Uma semana fora do rodízio:** 12-16/10, do Dia do Corretor de Seguros. Data da profissão, não de produto.
+
+Regra registrada em [PADROES §10](PADROES.md), trimestral reescrito em [v2.0](estrategia/2026-09-a-11-trimestral.md).
+
+---
+
+## 2026-08-27 (2) — Planejamento trimestral: set → nov/2026
+
+O cliente pediu visão de trimestre. Feitos dois arquivos: a [estratégia trimestral](estrategia/2026-09-a-11-trimestral.md) (interna, com a lógica e as travas) e o [calendário editorial em HTML](apresentacoes/2026-08-27-calendario-editorial-trimestral.html) (o que vai pro cliente — tema, objetivo e formato por peça, sem copy, tema claro, identidade da Lone).
+
+**39 datas: 36 peças + 3 slots livres**, um por mês, reservados pra dúvida da caixinha. Cadência intacta: seg estático · qua vídeo · sex carrossel/venda, com a correção de 31/07 ("atlas não é dia de reels") valendo o trimestre inteiro.
+
+**A linha de cada mês vem de uma data real** *(⚠️ superado em 2026-08-27 (3) — a linha é semanal; as datas abaixo seguem valendo como âncora)*:
+
+- **Setembro · auto** — Semana Nacional do Trânsito (18-25/09) e Dia Nacional do Trânsito (25/09). É a única janela do ano em que o assunto circula sozinho.
+- **Outubro · casa + o corretor** — 12/10 é o Dia do Corretor de Seguros, e é a data que justifica colocar o rosto na câmera sem soar autopromocional. A apresentação parqueada desde julho ganha slot ali.
+- **Novembro · empresarial** — Black Friday (27/11) e o Natal atrás. Estoque cheio e movimento alto é o único momento em que lucro cessante vira conta na ponta do lápis, e não conceito.
+
+**Duas peças do trimestre já estão escritas** e caíram em data: o motion flyer de vendidos × roubados em 02/09 e o Reel da concessionária parceira em 09/09.
+
+⚠️ **Setembro Amarelo fica fora.** A única ponte com o produto é a que a [§8](PADROES.md) proíbe. Se o cliente pedir, a saída é apoio institucional puro, sem produto na peça. Mesmo raciocínio no 02/11 (Finados), que recebe peça neutra.
+
+🔴 **O trimestre não muda o gargalo.** Nove dos doze vídeos rodam em motion flyer; três dependem do corretor na câmera — 09/09, 12/10 e 14/10. Se não destravar até o fim de setembro, outubro perde a semana desenhada pra instalar o rosto.
+
+---
+
+## 2026-08-27 — Peça de sexta vira estático
+
+PH pediu a peça de 28/08 em **estático**, não carrossel. Convertida na [própria peça](conteudo/posts/2026-08-28-quando-vale-a-pena-planejamento-familiar.md) (v4) — premissa e ângulo intactos, já que o ajuste de tom foi fechado em 24/08.
+
+**O que a conversão exigiu:** o carrossel dava um slide por momento, com respiro; numa arte só, os quatro momentos precisam caber juntos sem virar bullet de anúncio. As linhas de apoio saíram da arte e foram pra legenda, e a hierarquia foi **invertida** — os momentos dominam, a headline virou kicker. Isso não é preciosismo: a peça de segunda (24/08) já foi card tipográfico com headline em duas linhas + quatro itens em corpo menor, e repetir a diagramação faria as duas peças da semana lerem como a mesma no grid.
+
+Com ela, a **semana Vida fecha completa** — primeiro ciclo executado do teste de linha temática única por semana.
+
+---
+
+## 2026-08-26 — Referência da Loovi vira peça de rankings — com o dado corrigido
+
+PH trouxe um carrossel da **Loovi** (top vendidos × top roubados) como referência de formato. Peça escrita: [conteudo/roteiros/2026-09-02-motion-flyer-vendidos-x-roubados.md](conteudo/roteiros/2026-09-02-motion-flyer-vendidos-x-roubados.md).
+
+🔴 **O achado que mudou a peça: os dados da referência não batem.** A Loovi publica como "top carros mais vendidos do Brasil" um ranking liderado por BYD Dolphin, Geely EX2 e BYD Dolphin Mini, com a Strada em 10º. O ranking real da **Fenabrave (jan–jul/2026)** é Fiat Strada em 1º com 97.941 emplacamentos, VW Polo em 2º, T-Cross em 3º. O número deles parece vir de um recorte não declarado (elétricos, ou varejo de um mês). Copiar aquela lista colocaria a Atlas afirmando publicamente um ranking errado — inaceitável numa conta que vende confiança em ramo regulado.
+
+**E o dado real deu uma peça melhor que a da referência.** Cruzando os dois rankings verdadeiros aparece o que a Loovi não mostra: **os carros mais roubados não são os que mais vendem hoje, são os que mais venderam há dez anos.** Gol e Uno lideram roubo e nem estão no top 10 de vendas. A faixa de ano fecha o raciocínio — HB20 2012-2019, Gol 2010-2017, Uno 2011-2015 — geração anterior à obrigatoriedade de rastreador de fábrica.
+
+Isso é território exato da Atlas: explica por que duas pessoas com o mesmo modelo pagam preços diferentes de seguro, porque a seguradora pesa modelo **e ano**. Quase ninguém no Instagram brasileiro explica isso.
+
+**Motion flyer, não carrossel.** A referência é estática porque a Loovi tem alcance; a Atlas tem 172 seguidores e precisa de vídeo (3.876 views por Reel contra mediana de 2 curtidas no estático). Motion flyer conta como vídeo, ocupa o slot de quarta, não depende de gravação — e ranking animado prende mais que lista parada. O arquivo traz a conversão pra carrossel se PH preferir.
+
+**Gancho próprio, de propósito:** a frase da Loovi ("todo mundo torce pro carro aparecer só na primeira lista") ficou de fora. Num nicho pequeno onde as contas se acompanham, repetir a sacada vira cópia identificável.
+
+🔴 **Trava antes de produzir:** o ranking de **roubo** ainda não tem fonte primária — só blogs de corretora, que divergem entre si na ordem. Precisa vir da Susep ou de relatório de seguradora parceira, com **fonte declarada no rodapé da arte**. Plano B registrado: rodar só com o bloco de vendas e o raciocínio da faixa de ano. O corretor também precisa validar a explicação de precificação ([PADROES §2](PADROES.md)).
+
+
+## 2026-08-24 (4) — 🏷️ Nomenclatura da casa: a Atlas chama seguro de vida de "planejamento familiar"
+
+PH informou o termo que o cliente usa. Aplicado nas **três peças da semana temática**, duas delas renomeadas:
+
+- [24/08 — "Planejamento familiar é menos sobre você do que parece"](conteudo/posts/2026-08-24-conversa-sobre-planejamento-familiar.md) (v3)
+- [26/08 — motion flyer](conteudo/roteiros/2026-08-26-motion-flyer-quem-esta-na-sua-apolice.md) (v2) — a cena 01 perdeu o "de vida" e ficou só *"tem um nome escrito na sua apólice"*, que ficou mais forte na tela
+- [28/08 — "Quando vale a pena começar um planejamento familiar"](conteudo/posts/2026-08-28-quando-vale-a-pena-planejamento-familiar.md) (v3)
+
+**Como apliquei:** o termo da casa é o dominante (arte, gancho, headline), e "seguro de vida" aparece **uma vez por peça, como ponte na legenda** — porque quem procura esse produto ainda procura por esse nome. Regra em [PADROES §9](PADROES.md).
+
+**Encaixe feliz com a [§8](PADROES.md):** "seguro de vida" nomeia o produto pelo **evento**; "planejamento familiar" nomeia pela **função**. É exatamente a direção que PH já tinha dado horas antes (falar de renda e de quem depende dela, não do evento) — as duas regras se reforçam.
+
+⚠️ **Um alerta pra você conferir:** `#PlanejamentoFamiliar` tem outro significado consolidado em português — **saúde reprodutiva e contracepção**, que é o nome da política pública. Uma peça de seguro pode cair num feed de assunto totalmente diferente. Mantive `#SeguroDeVida` nas três peças (é por esse nome que a busca acontece) e coloquei `#PlanejamentoFamiliar` na frente, mas **vale dar uma olhada no que aparece nessa busca** antes de fixá-la. Se for ruído, ela sai e o termo fica só na copy — que é onde ele importa de verdade.
+
+---
+
+## 2026-08-24 (3) — 🔓 Motion flyer liberado: a semana de Vida fica completa e o gargalo de gravação afrouxa
+
+PH liberou **motion flyer** pra Atlas. Escrito: [conteudo/roteiros/2026-08-26-motion-flyer-quem-esta-na-sua-apolice.md](conteudo/roteiros/2026-08-26-motion-flyer-quem-esta-na-sua-apolice.md) — 18-20s, texto animado, sem rosto e sem locução obrigatória.
+
+**Por que isso é maior que uma peça:** os 4 Reels de agosto não foram gravados até hoje, e a estratégia inteira do mês depende de vídeo ([OQ #1](OPEN-QUESTIONS.md) nome + [OQ #2](OPEN-QUESTIONS.md) data de gravação). Motion flyer é **vídeo que não depende de ninguém aparecer** — entra no slot de quarta, alimenta a métrica que a conta precisa (3.876 views médios em Reel × mediana de 2 curtidas no estático) e não espera agenda. Registrado em [PADROES §4](PADROES.md) e sinalizado como alívio parcial em [OQ #2](OPEN-QUESTIONS.md).
+⚠️ **Não substitui o corretor:** P3 (prova/conexão) e a apresentação dele continuam sem alternativa em motion. O que muda é o calendário deixar de ficar refém.
+
+**A peça:** ocupa a **peça 11** da semana temática de Vida (26/08), que estava mapeada como Reel gravado e por isso nunca tinha sido escrita — agora a semana fecha completa (24 posicionamento · 26 educativo · 28 venda). Ângulo: *"tem um nome escrito na sua apólice de vida — você lembra qual?"*, sobre beneficiário desatualizado. A cena central acumula na tela os marcos que mudaram desde a contratação (casou, teve filho, separou, trocou de emprego, financiou a casa) contra o nome que continua o mesmo. CTA "comenta", como o calendário previa.
+
+**Tom:** respeita a [§8](PADROES.md) sem esforço — o assunto é um documento desatualizado, não o evento. Nenhuma menção a morte, nem negada.
+
+💡 **Desdobramento proposto:** se o formato performar, ele destrava os outros Reels parados — lucros cessantes, franquia e "emprestei o carro" são todos temas de lista/situação, que é o que motion flyer faz bem. Vale medir esta peça antes de converter as outras.
+
+---
+
+## 2026-08-24 (2) — 🔴 Regra nova de tom: seguro de vida fala de renda, não do evento
+
+PH corrigiu as peças da semana de Vida no mesmo dia: *"ao invés de falar sobre morte ou algo do tipo temos que ter cuidado com esse tipo de premissa, é importante falar sobre o pior mas nenhum usuário está com vontade de pensar em morrer."*
+
+**O que estava errado:** a peça de 24/08 abria em "a primeira pergunta não é sobre morrer". Mesmo **negando** a premissa, ela instalava — o leitor processa a palavra antes da negação.
+
+**Corrigido:**
+- [PADROES §8](PADROES.md) — regra nova, com tabela de substituição (evento → consequência prática) e extensão pro visual (sem símbolo fúnebre).
+- [Peça de 24/08](conteudo/posts/2026-08-24-conversa-sobre-seguro-de-vida.md) reescrita (v2): headline agora é "seguro de vida é menos sobre você do que parece — é sobre quem conta com a sua renda todo mês". O pior cenário entra pela porta da conta doméstica ("aluguel, escola, financiamento e mercado seguem chegando no mesmo dia do mês").
+- [Peça de 28/08](conteudo/posts/2026-08-28-quando-vale-a-pena-seguro-de-vida.md) ajustada (v2): três linhas reescritas — capa, slide 2 e o parágrafo do sócio. Estrutura e ângulo mantidos.
+
+Nenhuma ocorrência de morte/morrer/falecimento/"estar aqui" sobrou nas duas peças, nem negada.
+
+---
+
+## 2026-08-24 — Semana temática de Vida escrita inteira (peças 10 e 12)
+
+PH pediu posts "focando na nossa nova linha editorial" — a linha temática única por semana, formalizada em 20/08. Escrevi as **duas peças de post** da semana 24-28/08, que fecha em **Seguro de Vida**:
+
+- **Segunda 24/08 (peça 10, P3 Prova, estático):** [conteudo/posts/2026-08-24-conversa-sobre-seguro-de-vida.md](conteudo/posts/2026-08-24-conversa-sobre-seguro-de-vida.md) — "a primeira pergunta não é sobre morrer, é sobre quem depende de você hoje". Bastidor do **método** de atendimento, não de um caso real, então não depende de autorização de cliente ([PADROES §3](PADROES.md)) nem do nome do corretor ([OQ #1](OPEN-QUESTIONS.md)). CTA: chama no direct.
+- **Sexta 28/08 (peça 12, venda, carrossel de 6 slides):** [conteudo/posts/2026-08-28-quando-vale-a-pena-seguro-de-vida.md](conteudo/posts/2026-08-28-quando-vale-a-pena-seguro-de-vida.md) — quatro momentos-gatilho (virou a renda principal, nasceu filho, financiou imóvel, abriu negócio com sócio). Escrita junto pra a semana sair fechada de uma vez.
+
+**Quarta 26/08 (peça 11, Reel "quem recebe?") não foi escrita** — é roteiro de vídeo e segue presa ao mesmo gargalo de sempre: sem confirmação de quem grava e quando ([OQ #2](OPEN-QUESTIONS.md)). Se PH confirmar gravação, escrevo o roteiro; se a quarta precisar sair sem gravação, o tema vira estático de reserva sem quebrar a linha da semana.
+
+**Gate técnico ([PADROES §2](PADROES.md)):** nenhuma das duas cita valor, percentual ou seguradora. Os dois pontos que precisam do corretor antes de publicar estão listados dentro de cada arquivo — o principal é o claim de que financiamento imobiliário costuma vir com cobertura embutida (peça de sexta).
+
+**Primeiro ciclo completo do teste de linha temática** ([docs/OPEN-QUESTIONS.md](../../docs/OPEN-QUESTIONS.md)): produto fixo, função variável (posicionamento → educativo → venda). Vale comparar alcance/salvamento das três peças com a semana de 17-21/08, que foi temática por coincidência.
+
+---
+
+## 2026-08-20 (3) — Pauta BYD/oficina parceira destravada e roteirizada
+
+PH resolveu os 3 pontos que travavam a pauta trazida pela dona da Atlas desde 29/07 ([referencias/2026-07-29-feedback-video-oficinas-byd.md](referencias/2026-07-29-feedback-video-oficinas-byd.md), [OQ #15](OPEN-QUESTIONS.md)): pode citar "BYD" nominalmente (parceria confirmada), dá pra gravar dentro da oficina da marca, e o escopo exato do benefício por apólice não precisa travar o roteiro — fica coberto pela assinatura padrão "condições variam por apólice" (decisão explícita de PH: "não é da nossa conta").
+
+**Roteiro escrito:** [conteudo/roteiros/2026-08-20-byd-oficina-parceira.md](conteudo/roteiros/2026-08-20-byd-oficina-parceira.md) — Reel institucional/oferta, gravado na oficina BYD, benefício de acesso à oficina parceira ao fechar seguro com a Atlas.
+
+**Slot confirmado por PH: pauta de setembro** — não entra no buffer de 31/08 (mantém o plano original, pergunta da caixinha de dúvidas). Entra ao lado de lucros cessantes como segunda aposta forte do próximo mês. Logística extra sinalizada: precisa combinar data/acesso com a concessionária BYD, separado do lote de gravação padrão dos outros Reels.
+
+---
+
+## 2026-08-20 (2) — "Linha temática única por semana" formalizada: semana de 24-28/08 = Vida
+
+PH perguntou se eu tava aplicando de propósito a direção do chefe dele (linha temática única por semana, registrada em [docs/OPEN-QUESTIONS.md](../../docs/OPEN-QUESTIONS.md) desde 10/08). Resposta: não — a semana de 17-21/08 saiu inteira em auto (peças 7, 8, 9) por coincidência da rotação de pilares do calendário original de 27/07, escrito antes dessa direção existir. PH pediu pra formalizar daqui pra frente.
+
+**Redesenho aplicado:** semana de **24-28/08 fecha em Seguro de Vida** — aproveitando que a peça 11 (26/08) já estava mapeada nesse produto. Peça 10 (24/08) recortada de "bastidor institucional genérico" pra "bastidor de uma conversa sobre seguro de vida". Peça 12 (28/08) trocada de "vale a pena acionar por dano pequeno" (auto, quebrava a linha) pra "quando vale a pena fazer um seguro de vida" (momentos-gatilho: casamento, filho, financiamento).
+
+**Como resolvi a tensão com o mix obrigatório da Lone:** produto fixo (vida), função variável — 24/08 é posicionamento/prova, 26/08 é educativo/emocional, 28/08 é venda direta. Detalhe completo em [estratégia §2, Aposta 4](estrategia/2026-08.md#2-as-três-apostas). Espelhado em [docs/OPEN-QUESTIONS.md](../../docs/OPEN-QUESTIONS.md) como primeiro caso executado do teste do chefe do PH — os outros clientes seguem pendentes.
+
+**Não mexido:** semana de 17-21/08 (já publicada/travada) e o buffer de 31/08 (reativo, depende da caixinha de dúvidas — não é preplanejável por produto).
+
+---
+
+## 2026-08-21 (esboço, escrito em 2026-08-20) — Peça de venda apelativa pra sexta 21/08: motorista de app
+
+PH pediu que Atlas entrasse na rodada de "peças de venda apelativa pra sexta 21/08" que já tinha saído pros outros clientes da carteira (BodySkin, Veterinária Regional, CIIL, Maicom, Contele — [docs/PROGRESSO.md 2026-08-18](../../docs/PROGRESSO.md)). Aqui a peça já existia mapeada — é a **peça 9** da [estratégia de agosto](estrategia/2026-08.md), "Motorista de app", carrossel que nunca tinha sido escrita.
+
+**Peça:** [conteudo/posts/2026-08-21-motorista-de-app-seguro-pode-nao-valer.md](conteudo/posts/2026-08-21-motorista-de-app-seguro-pode-nao-valer.md) — carrossel de 4 slides (Gancho→Situação→Solução→CTA), fonte do roteiro do PDF (Dia 10) com o ajuste de comparação de preço do [PADROES §2](PADROES.md) aplicado. CTA "chama no direct" — não depende de gravação (100% tipográfico), então não esbarra nos bloqueios de nome do corretor/data de gravação que travam os Reels.
+
+---
+
+## 2026-08-20 — Primeira peça de venda para Meta Ads (anúncio pago)
+
+PH pediu a primeira peça pensada desde o início como **anúncio pago**, não post orgânico impulsionado depois — foco na dor do lead, tom bem apelativo. Entregue: [conteudo/roteiros/2026-08-20-o-que-seu-seguro-nao-cobre-anuncio-meta-ads.md](conteudo/roteiros/2026-08-20-o-que-seu-seguro-nao-cobre-anuncio-meta-ads.md).
+
+**Ângulo escolhido:** dor comum aos três núcleos de público ([OQ #5](OPEN-QUESTIONS.md) segue sem resposta) — "você só descobre o que a apólice não cobre no pior momento", com um exemplo rápido por núcleo (carro emprestado que bateu, negócio parado, família sem reserva). Funciona como triagem de topo: alcança os três públicos, qualifica no direct. Se PH quiser testar por produto, o bloco de dor é modular.
+
+**Formato:** roteiro de vídeo (Reels/Stories ad), estrutura clássica Gancho→Dor→Solução→Benefícios→CTA — primeira peça da conta que é venda desde a concepção. Inclui também copy pronta pro Gerenciador de Anúncios (título, texto principal, descrição) e nota de objetivo de campanha sugerido (Mensagens/Direct).
+
+**Gate técnico mantido:** anúncio não abre exceção ao [PADROES §2](PADROES.md) — sem afirmação de cobertura específica, sem número, com a assinatura "condições variam por apólice". Passa pelo corretor antes de gravar, mesmo bloqueio de sempre ([OQ #1](OPEN-QUESTIONS.md) nome + [OQ #2](OPEN-QUESTIONS.md) data de gravação).
+
+**Novo tipo de deliverable:** primeiro cliente da carteira com peça desenhada nativamente pra tráfego pago. Guardado em `conteudo/roteiros/` (não existe pasta própria de anúncios ainda) — revisar se compensa criar `conteudo/anuncios/` caso vire rotina.
+
+---
+
 ## 2026-08-10 — Semana 10-14/08: post de segunda pronto + esboços de quarta e sexta
 
 PH pediu o calendário da semana com prioridade no post estático de hoje (segunda), pronto pra mandar pro designer. **Aviso registrado, não aplicado:** existe direção nova (do chefe do PH) de linha temática única por semana por cliente — só entra em vigor a partir de 17/08. Esta semana segue o mix normal (venda + posicionamento + emocional + educativo + prova social + remarketing).
@@ -58,13 +517,13 @@ PH pediu o post de sexta-feira (07/08). Sexta é o slot padrão de carrossel/ven
 
 ## 2026-08-04 — Homenagem de Dia dos Pais
 
-Ação da Lone em vários clientes da carteira, todos publicando no dia exato do Dia dos Pais (09/08/2026, domingo). Peça 100% emocional/institucional — sem preço, oferta, cobertura ou CTA de venda. Ângulo escolhido: o instinto de proteção como traço paterno ("pensar no que pode dar errado antes de qualquer um perceber o risco"), ecoando o posicionamento da Atlas ("explica antes de você precisar") sem citar seguro específico — passa limpo pelo gate técnico do corretor por não afirmar nada sobre cobertura. Entregue: [conteudo/posts/2026-08-09-feliz-dia-dos-pais.md](conteudo/posts/2026-08-09-feliz-dia-dos-pais.md).
+Ação da Lone em vários clientes da carteira, todos publicando no dia exato do Dia dos Pais (09/08/2026, domingo). Peça 100% emocional/institucional — sem preço, oferta, cobertura ou CTA de venda. Ângulo escolhido: o instinto de proteção como traço paterno ("pensar no que pode dar errado antes de qualquer um perceber o risco"), ecoando o posicionamento da Atlas ("explica antes de você precisar") sem citar seguro específico — passa limpo pelo gate técnico do corretor por não afirmar nada sobre cobertura. Entregue: conteudo/posts/2026-08-09-feliz-dia-dos-pais.md (peça removida na limpeza de 2026-08-24).
 
 ---
 
 ## 2026-08-04 — Peça extra: "Do que você mais tem medo?" (adaptação de referência de Pinterest)
 
-PH trouxe uma referência de post do Pinterest (@yampaoficial, "Finanças para empresas") — formato de comparação em 2 painéis, "medo bobo vs. medo real do nicho", com humor e humanização — pedindo pra adaptar tanto pra Atlas quanto pra Quero Tintas (cliente novo, onboarding registrado antes deste bloco).
+PH trouxe uma referência de post do Pinterest (@yampaoficial, "Finanças para empresas") — formato de comparação em 2 painéis, "medo bobo vs. medo real do nicho", com humor e humanização — pedindo pra adaptar pra Atlas.
 
 Pra Atlas, adaptei pro medo de "bater o carro numa estrada vazia sem seguro" contra um medo bobo genérico (bungee jump) — peça passa limpa pelo gate técnico do corretor porque não afirma cobertura, só nomeia o medo de estar desprotegido. Entregue: [conteudo/posts/2026-08-04-do-que-voce-mais-tem-medo.md](conteudo/posts/2026-08-04-do-que-voce-mais-tem-medo.md).
 

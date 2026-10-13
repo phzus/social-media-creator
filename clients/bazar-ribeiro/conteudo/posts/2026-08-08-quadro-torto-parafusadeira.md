@@ -22,7 +22,7 @@
 - **Selo:** "Presente de Dia dos Pais — 09/08"
 - **Rodapé:** WhatsApp de cada cidade + hashtag fixa.
 
-**Duas versões de arte (mesma peça, WhatsApp diferente):** Maricá (21) 2637-2498 · Saquarema (21) 3731-0812.
+**Duas versões de arte (mesma peça, WhatsApp diferente):** Maricá (21) 2637-2498 · Saquarema (22) 98831-6090.
 
 **Dependência de produção:** foto real do produto.
 
@@ -50,7 +50,7 @@ Essa parafusadeira já vem com nível de bolha embutido — não erra a linha, n
 
 Parafusadeira Lotus 12V, de R$ 124,90 por R$ 99,90 até domingo, 09/08.
 
-📱 Maricá: (21) 2637-2498 · Saquarema: (21) 3731-0812
+📱 Maricá: (21) 2637-2498 · Saquarema: (22) 98831-6090
 
 ---
 

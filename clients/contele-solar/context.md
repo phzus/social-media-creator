@@ -7,13 +7,15 @@ status: 🟢 Direção de marca **aprovada** pelo cliente/PH (documento de hando
 
 ---
 
+> ✅ **Contato confirmado (PH, 2026-09-01):** WhatsApp **(22) 98806-0342** · R. Oscár Clark, 1320 — Parque Mataruna, Araruama/RJ. PH liberou **"chamar no WhatsApp"** como CTA. ⚠️ A mecânica de palavra-chave no direct ("manda SOL/ECOFLOW") continua valendo até PH decidir se o WhatsApp substitui ou convive — ver [OPEN-QUESTIONS](OPEN-QUESTIONS.md).
+
 ## Identity
 
 - **Type:** Brand (cliente da Lone Mídia).
 - **Name:** Contele — Energia Solar.
 - **Handle:** Instagram **@contelesolarenergy** (canal único hoje).
-- **Role:** empresa de **energia solar fotovoltaica residencial**, com equipe própria (visita técnica, projeto, homologação junto à Enel, instalação). Não é revenda de kit.
-- **Industry/niche:** energia solar / sustentabilidade / economia doméstica.
+- **Role:** empresa de **energia solar fotovoltaica residencial**. ⚠️ **Correção de PH em 2026-08-20, confirmada no mesmo dia:** o **kit** (painel/inversor) hoje vem de **fornecedor parceiro** — a Contele não tem kit/marca própria. **Visita técnica, projeto, homologação junto à Enel e instalação continuam sendo feitos pela equipe da própria Contele.** O claim antigo "não é revenda de kit" (dando a entender que nada vem de fora) está retirado; o claim que continua valendo é "quem projeta e instala é a Contele, mesmo o kit vindo de parceiro".
+- **Industry/niche:** energia solar / sustentabilidade / economia doméstica. **Novo em 2026-08-28:** parceria fechada com a **EcoFlow** (estações de energia portáteis e backup residencial, distribuídas no Brasil pela Powersafe) — amplia a oferta pra além do sistema fotovoltaico. A Contele **revende o catálogo EcoFlow inteiro** (confirmado por PH em 2026-08-28); material recebido em [referencias/2026-08-28-parceria-ecoflow-powersafe.md](referencias/2026-08-28-parceria-ecoflow-powersafe.md).
 - **Local:** **Região dos Lagos/RJ** — sede em **Araruama**, atende Cabo Frio, Búzios, São Pedro da Aldeia, Iguaba e Arraial.
 - **Ticket médio:** R$ 25–40 mil (projeto residencial).
 - **Prova/números:** +700 sistemas instalados.
@@ -26,7 +28,7 @@ status: 🟢 Direção de marca **aprovada** pelo cliente/PH (documento de hando
 **Quem contrata (do próprio briefing aprovado):**
 
 - Morador da **Região dos Lagos** (Araruama e entorno) com conta de luz alta, dono de casa própria, capacidade de investir R$ 25–40 mil num projeto que se paga ao longo dos anos.
-- **Motivador de compra:** economia mensal concreta + confiança de contratar gente da região (não uma revenda de kit de fora).
+- **Motivador de compra:** economia mensal concreta + confiança de contratar gente da região que cuida do projeto, da homologação e da instalação (mesmo o kit vindo de fornecedor parceiro — ver correção acima em Identity).
 - **Sensível a:** prova real de resultado (conta antes/depois de vizinho/conhecido), clareza de que a empresa resolve toda a burocracia (homologação Enel), ausência de pegadinha/"grito de vendedor".
 
 ### Onde estão
@@ -83,6 +85,9 @@ Estrutura fixa e **obrigatória de alternar** (ver estruturas completas em [PADR
 - Testemunho/dado de cliente sem confirmação real (ver §6 do [BRIEFING.md](BRIEFING.md)).
 - Peça sem nome de bairro/cidade em algum canto — "se não tem, o post não sai" (regra do próprio cliente).
 - "Queima combustível"/"sem fumaça" pra descrever o painel solar — implica contraste com a rede elétrica, e a matriz brasileira é majoritariamente hidrelétrica (rio, não combustão), então a comparação é imprecisa. Falar só que é fonte sustentável (regra de PH, 2026-08-13, [PADROES §5](PADROES.md)).
+- 🔴 **"Não é revenda de kit" / "sem intermediário de kit de fora"** (dando a entender que o kit também é da Contele) — **claim retirado em 2026-08-20**, o kit vem de fornecedor parceiro. ✅ **Continua valendo:** "quem cuida do projeto, da homologação Enel e da instalação é a equipe própria da Contele" — isso não mudou. Já saiu em 5 peças (03/08, 07/08, 12/08, 14/08 publicadas + 21/08) com a versão antiga; revisar pra versão corrigida ([PADROES §5](PADROES.md)).
+- 🔴 **EcoFlow prometido como backup da casa inteira** — regra nova (reunião 2026-09-08): o backup **não** cobre chuveiro elétrico nem ar-condicionado. Argumento sempre é continuidade do essencial (luz, roteador, notebook, geladeira), nunca "sua casa nunca mais fica sem energia" sem essa ressalva ([PADROES §8](PADROES.md)).
+- 🔴 **Imagem de painel/placa genérica sem checar se bate com o modelo real da Contele** — o cliente já apontou isso uma vez (reunião 2026-09-08); causa raiz é falta de material próprio. Pedir foto real quando em dúvida, nunca assumir que qualquer stock de "painel solar" serve.
 
 ### Visual
 - Misturar cor fora dos 6 tokens da paleta (ver PADROES §1) — Coral é exclusivo do "antes" em prova social, nunca decorativo.
@@ -108,6 +113,14 @@ Estrutura fixa e **obrigatória de alternar** (ver estruturas completas em [PADR
 
 ---
 
+## Contatos (reunião Lone×Contele, 08/09/2026)
+
+- **Natal de Jesus Peixoto Tuão** — sócio da Contele.
+- **Vinicius Melo** — comercial da Contele; virou revendedor EcoFlow, é quem vai passar preços de combo por escrito.
+- **Mateus** — comercial, a confirmar se o EcoFlow entra na esteira de produtos dele.
+- **Cris** — vai regravar o conteúdo das placas de estoque; papel exato na operação a confirmar.
+- Nenhum desses nomes está automaticamente autorizado a ser citado em peça (Pilar 3) — precisa autorização explícita separada. Ver [OQ #1b](OPEN-QUESTIONS.md).
+
 ## Operational Notes
 
 - **Plataforma:** Instagram (@contelesolarenergy), canal único hoje.
@@ -129,4 +142,7 @@ Estrutura fixa e **obrigatória de alternar** (ver estruturas completas em [PADR
 
 ## Histórico de revisões
 
+- **2026-09-08** — Reunião mensal Lone×Contele (Natal Tuão, sócio · Vinicius Melo, comercial). Cliente apontou falta de autenticidade (material de banco de imagens, placa que não batia com a real) e vai passar a mandar fotos/vídeos reais de instalações variadas. Faixa de preço EcoFlow corrigida (R$2.800–54.000, A CONFIRMAR) e nova regra dura: backup EcoFlow não cobre chuveiro elétrico nem ar-condicionado. Surgiram dois nomes reais na operação (Natal, Vinicius) — não são citação automática, precisam autorização. Detalhe em [reuniao-mensal/resumos/2026-09-08-resumo-reuniao-lone-contele.md](reuniao-mensal/resumos/2026-09-08-resumo-reuniao-lone-contele.md) e [PADROES §8](PADROES.md).
+- **2026-08-28** — PH informou a **parceria com a EcoFlow**. Abre um território de conteúdo que a conta não tinha: **energia de reserva**. O argumento que sustenta ele é técnico e verdadeiro — sistema on-grid desliga na queda de energia por exigência de segurança —, e é o que dá motivo pra parceria existir aos olhos de quem já é cliente. Arranjo confirmado no mesmo dia: **revenda, todos os modelos**, faixa de ~R$ 3 mil a ~R$ 50 mil conforme a necessidade. Disponibilidade e prazo **ninguém sabe, nem o dono** — virou regra dura de nunca citar isso em peça. Registrado também que a Contele tem **solução híbrida** no portfólio, que fica em espera como pauta e exige a regra de coerência de [PADROES §5.1](PADROES.md).
+- **2026-08-20** — PH corrigiu fato central: o **kit vem de fornecedor parceiro** agora (Contele não tem kit próprio), mas **projeto, homologação Enel e instalação continuam com a equipe própria da Contele** — confirmado no mesmo dia. O claim "não é revenda de kit" (pleno) está retirado; "quem projeta e instala é a Contele" segue válido. Afeta 5 peças (4 já publicadas) — PH optou por não agir sobre as antigas por ora, só travar daqui pra frente.
 - **2026-07-30** — v1.0 criado no onboarding, a partir do documento de handoff aprovado que PH recebeu. Diferente dos demais onboardings da Lone, aqui a direção de marca já vem fechada — pendências são operacionais (CTA, casos reais de prova social, plano contratado), não de voz/pilares/paleta.

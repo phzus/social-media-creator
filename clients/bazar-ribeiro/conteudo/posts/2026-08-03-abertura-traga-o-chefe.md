@@ -23,7 +23,7 @@
 
 **Duas versões de arte (mesma peça, WhatsApp diferente):**
 - Maricá: (21) 2637-2498
-- Saquarema: (21) 3731-0812
+- Saquarema: (22) 98831-6090
 
 **Referência Pinterest (PH curar 2–3):** manter a mesma linha visual do feed atual (o cliente já tem identidade forte de "cartaz de oferta" — não recriar do zero).
 
@@ -49,7 +49,7 @@ De 04 a 09/08, traz ele aqui no Bazar Ribeiro e todo mundo sai com 10% de descon
 
 Itens de maior valor podem ter condição especial — chama no zap que a gente te fala certinho antes de fechar.
 
-📱 Maricá: (21) 2637-2498 · Saquarema: (21) 3731-0812
+📱 Maricá: (21) 2637-2498 · Saquarema: (22) 98831-6090
 
 ---
 

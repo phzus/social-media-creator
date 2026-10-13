@@ -3,6 +3,15 @@
 Legenda: 🔴 bloqueante · 🟡 importante (não trava tudo) · 🟢 calibração.
 Atualizar assim que PH ou a cliente responderem. Resposta vira registro em [context.md](context.md), [BRIEFING.md](BRIEFING.md) ou [PADROES.md](PADROES.md).
 
+## 🔴 2026-10-13 — Post de sexta 16/10 (limpeza de pele): a condição da dezena não veio
+
+[Peça](conteudo/posts/2026-10-16-cravo-no-espelho-do-banheiro.md) pronta em duas versões. Pra versão A subir:
+
+1. 🔴 **Condição de limpeza de pele de outubro:** preço final e até quando vale. Sem preço cheio, a peça mostra só o preço final, sem "de/por" e sem percentual. Sem condição nenhuma, sobe a versão B (sem faixa de oferta).
+2. 🟡 **A limpeza de pele entra no "Outubro OFF"?** Define se selo e hashtag da campanha aparecem.
+3. 🟡 **A avaliação gratuita vale pra limpeza de pele**, ou só pra laser? Se não valer, o CTA vira "agenda a sua limpeza pelo link do perfil".
+4. 🟡 **Como é a limpeza de pele da BodySkin, etapa por etapa?** A peça diz só "com a pele preparada pra isso" antes da extração. O carrossel de passo a passo de 12/10 também depende dessa resposta.
+
 ## ✅ 2026-10-05 — Respondido: não vai ter 10.10
 
 **PH, 05/10:** *"bodyskin não vai ter o 10.10, vai ser aquelas promoções que eu te mandei na imagem"* — ou seja, a campanha **Outubro OFF** ([registro](referencias/2026-10-02-promocoes-outubro-off-cliente.md)), que já está no ar desde o dia 2.

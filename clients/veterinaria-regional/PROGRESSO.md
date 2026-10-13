@@ -4,6 +4,221 @@ Log datado do trabalho feito pra Veterinária Regional. Topo = mais recente. Ent
 
 ---
 
+## 2026-10-13 — Post de sexta 16/10: "Você vem adiando a cirurgia dele por medo da anestesia? / PERGUNTA QUEM CUIDA DA ANESTESIA"
+
+Lote de sexta da carteira. [Peça](conteudo/posts/2026-10-16-anestesia-pergunta-quem-cuida.md), carrossel de 4 slides no grid do template Educativo, quinta venda direta de especialidade. **Anestesia** estreia na conta (uma das 13, [PADROES §9](PADROES.md)).
+
+**Ângulo:** objeção respondida. O tutor que adia cirurgia ou procedimento no dente costuma travar na anestesia; a especialidade responde a objeção que trava as outras. Slide 3 é uma lista de 4 perguntas pro tutor levar na consulta (salvável), e o CTA é WhatsApp direto pra marcar avaliação.
+
+**Descartado:** o molde das quatro vendas diretas anteriores (kicker de sintoma → "TEM ESPECIALISTA PRA ISSO" → lista de sinais, estático), pra a sexta não virar template · Outubro Rosa (já em 09/10) · Dia Mundial da Alimentação (sem conexão real com a especialidade).
+
+**Travas / validação:** validador-copy reprovou a v1 com 2 bloqueantes, aplicados: o slide 2 afirmava protocolo da casa ("gente na equipe que acompanha do antes de dormir até acordar"), sem fonte além do nome da especialidade, e o CTA prometia explicar o plano anestésico por WhatsApp. Também saíram "quase nunca é X, é Y", "medo pesa mais com pet idoso" e #PetIdoso. Nenhuma segurança, protocolo, exame ou equipamento é afirmado. Isolamento com a WT: lá sai piscina. Pendência nova: [OPEN-QUESTIONS #17](OPEN-QUESTIONS.md). Envio ao cliente qui 15/10 até 15h.
+
+---
+
+## 2026-10-07 — Post de segunda 12/10: Dia das Crianças, "O cachorro já sabe" (sacola de doces)
+
+PH pediu artes de Dia das Crianças pra carteira toda. [Peça](conteudo/posts/2026-10-12-dia-das-criancas-sacola-de-doces.md), template Data comemorativa, foto real de banco de cachorro, sem criança no quadro.
+
+**Mecanismo (f) cuidado**, com headline em pergunta + giro: "Onde a criança deixou a sacola de doces? / O CACHORRO JÁ SABE." Data é contexto; o assunto é o que a data coloca dentro de casa (chocolate, brigadeiro, bala e chiclete sem açúcar com xilitol). Retoma o tema de 30/07 com recorte de cena, sem repetir a lista.
+
+**Decisões:**
+- **Evitado o "pet + criança" óbvio** (pet como filho, criança e cachorro amigos). A WT Shopping, mesma cidade e mesmo dia, ficou em jardinagem e sem pet; ângulo, frase-conceito, mecanismo e CTA diferentes.
+- **CTA "marca aqui"**, no rodízio ([PADROES §7](PADROES.md)): 05/10 salva · 09/10 WhatsApp condicional · 12/10 marca.
+- **Fundo off-white**, sem cor nova: o rosa de 09/10 não se repete três dias depois.
+
+**Checado:** conduta "procurar um veterinário na hora" sem nomear a clínica (horário de feriado não confirmado) · xilitol só pra cachorro · sem dose, estatística nem lista de sintomas · sem nome de veterinário/CRMV · nada religioso (12/10 também é Nossa Senhora Aparecida).
+
+Pendência 🟢 nova: [OPEN-QUESTIONS #16](OPEN-QUESTIONS.md) (a clínica atende no feriado?), não bloqueia. Envio ao cliente até qui 08/10, limite sex 09/10.
+
+---
+
+## 2026-10-06 — Post de sexta 09/10: Outubro Rosa, "Passa a mão na barriga dela"
+
+PH pediu Outubro Rosa. [Peça](conteudo/posts/2026-10-09-outubro-rosa-passa-a-mao-na-barriga-dela.md), template Data comemorativa, foto real de banco de cadela ou gata. Data como contexto; o assunto é o gesto do tutor em casa e a avaliação, com **Oncologia** como especialidade na linha acima do rodapé.
+
+**Divisão com a WT Shopping:** as duas clínicas da cidade têm Outubro Rosa no mesmo dia por pedido de PH. A Veterinária Regional carrega o eixo clínico (mamas, sinais, avaliação); a WT não toca em mama nem sinal.
+
+**Validação de copy (subagent) aplicada, por subtração:** cortados castração ("prevenção e a idade certa" implicava proteção e culpa), "um dos problemas que mais aparecem em fêmeas" e "costuma começar pequeno" (claims sem fonte, contradiziam a própria seção de compliance) · palpação calibrada ("se ela deixar", "não sentir nada em casa não substitui a consulta") · CTA virou condicional ("se achar qualquer coisa diferente").
+
+Pendências: validação do cliente pro gesto de palpação e decisão de PH sobre o fundo rosa ([OPEN-QUESTIONS](OPEN-QUESTIONS.md)).
+
+---
+
+## 2026-10-02 — Post de segunda 05/10: Oftalmologia, o colírio da gaveta
+
+[Peça escrita](conteudo/posts/2026-10-05-oftalmologia-antes-do-colirio.md) pro slot de segunda (leve/educativo). **Especialidade nova na conta:** Oftalmologia, das 13 confirmadas no [PADROES §9](PADROES.md), nunca produzida — estava esboçada pra 14/08 e foi substituída na época pelo Dia do Cardiologista.
+
+**Duas trocas deliberadas** em relação às peças imediatamente anteriores, as duas de Ortopedia ([mito 28/09](conteudo/posts/2026-09-28-mito-manqueira-passa-sozinha.md) e [venda direta 02/10](conteudo/posts/2026-10-02-especialidade-ortopedia-venda-direta.md)):
+- **Tema:** Ortopedia → Oftalmologia.
+- **Mecanismo:** saiu o Mito x Verdade (rodou em 31/08, 14/09, 21/09 e 28/09 — quatro vezes em cinco semanas) e entrou o **reflexo doméstico interrompido**. A peça não derruba uma frase popular: ela chega no momento em que o tutor vê o olho vermelho e abre a gaveta do banheiro, e diz o que não pingar. Template segue o Educativo do grid validado, então o feed não muda de cara.
+
+**Estrutura também diferente pra não chapar o grid:** bloco de apoio com **duas linhas**, não lista de sinais — 25/09 usou três itens e 02/10 usou quatro. CTA "salva esse post", caminho único (28/09 fechou em marcar amigo, 02/10 em WhatsApp).
+
+**Compliance, por subtração:** o briefing original sugeria citar catarata, úlcera de córnea e glaucoma no miolo de Oftalmologia, e CTA de "consulta oftalmológica com equipamento específico" ([referência §4](referencias/2026-07-30-briefing-completo-recebido.md)). **As duas coisas ficaram fora** — nomear doença sobre sinal visível é diagnóstico pela internet, e equipamento oftalmológico no local não está confirmado ([OPEN-QUESTIONS #11](OPEN-QUESTIONS.md), mesma pendência do ecocardiograma). A peça fala só em "examinar". A orientação de não medicar vem com ressalva de colírio receitado pro próprio pet, pra não contradizer tutor em tratamento prescrito.
+
+**Sazonalidade local:** outubro é rampa pra temporada — areia, vento e água salgada entram como motivo de coceira no rosto, mesma janela de praia já mapeada pra otite de pet no mar ([PADROES §8](PADROES.md)).
+
+Nenhuma pendência nova. Seguem abertas a validação do briefing, a cadência da venda direta ([OPEN-QUESTIONS #1-2, #12](OPEN-QUESTIONS.md)) e as decisões de PH sobre a peça de raiva de 25/09 ([#13-15](OPEN-QUESTIONS.md)).
+
+---
+
+## 2026-09-29 — Post de sexta 02/10: Venda direta de especialidade — Ortopedia
+
+[Peça](conteudo/posts/2026-10-02-especialidade-ortopedia-venda-direta.md), quarta aplicação do formato de venda direta que o cliente pediu em 11/09.
+
+**Fecha o arco aberto na segunda:** o [Mito x Verdade de 28/09](conteudo/posts/2026-09-28-mito-manqueira-passa-sozinha.md) derrubou o "manqueira passa sozinha" e puxou Ortopedia como especialidade-âncora sem fechar em venda. É o mesmo arco já rodado três vezes (mito 31/08 → venda 11/09 · mito 14/09 → venda 18/09 · mito 21/09 → venda 25/09).
+
+**O que muda em relação à peça de segunda, pra não ser a leitura do mesmo texto:** lá os sinais eram de **movimento no momento** (apoiar menos a pata, mudar o ritmo do passo). Aqui são de **rotina que encolheu** — demora pra levantar, evita escada e sofá, lambe sempre a mesma articulação, cansa antes no mesmo passeio. Mesmo assunto, evidência diferente. São **quatro** sinais, não três como na peça de 25/09: repetir a contagem é o tipo de simetria que faz duas peças parecerem a mesma.
+
+**Compliance:** nenhuma doença nomeada (sem displasia, artrose ou hérnia de disco) · nenhuma estatística por raça ou idade · nenhum exame de imagem citado — radiografia **não** está confirmada no local ([OPEN-QUESTIONS #11](OPEN-QUESTIONS.md)), então a peça fala em "examinar", sem nomear equipamento · sem nome de veterinário/CRMV.
+
+---
+
+## 2026-09-25 — Post de segunda 28/09: "Manqueira passa sozinha, é só descanso"
+
+Slot fixo de segunda ([PADROES §5](PADROES.md)), Mito x Verdade. [Peça escrita](conteudo/posts/2026-09-28-mito-manqueira-passa-sozinha.md) — puxa pela primeira vez **Ortopedia** como especialidade-âncora, tema ainda não tocado em nenhum formato da conta.
+
+**Sobre o gancho de "Dia de Combate à Raiva" (28/09):** o post de raiva de 25/09 tinha deixado registrado que 28/09 caía nesse slot e sugeriu emendar com o mesmo tema. Não segui — o pedido desta rodada foi explícito em não repetir especialidade/tema das duas peças de 25/09 (Odontologia venda direta e Raiva/morcego). Fica mapeado no arquivo caso PH queira aproveitar a data depois.
+
+Sinal escolhido (manqueira que some da lembrança do tutor) segue a lógica de "sinal de alerta concreto" que move esse público ([context.md](context.md)) e evita causa específica ("entorse leve, desgaste articular ou outra causa" — sem cravar diagnóstico), conforme [PADROES §6](PADROES.md). CTA "marca quem precisa ver isso", seguindo a recomendação de rotação deixada no post de 23/09 (rodízio [PADROES §7](PADROES.md)).
+
+Nenhuma pendência nova. Seguem abertas a validação do briefing, a cadência da venda direta ([OPEN-QUESTIONS #1-2, #12](OPEN-QUESTIONS.md)) e as decisões de PH sobre a peça de raiva de 25/09 ([OPEN-QUESTIONS #13-15](OPEN-QUESTIONS.md)).
+
+---
+
+## 2026-09-23 — Peça de raiva pra sexta 25/09 + correção da premissa ("surto" não confere)
+
+PH pediu uma peça sobre raiva pro dia 25, dizendo que está tendo **surto no estado do Rio**. Conferi na fonte antes de escrever: **não é surto**. É **um caso confirmado** de raiva em cão em Santa Cruz (Zona Oeste da capital), diagnosticado em agosto, com alerta da SES-RJ divulgado em **18/09**. O cão teve contato com morcego, as pessoas expostas receberam profilaxia e **nenhum caso humano** foi registrado.
+
+Isso muda a peça inteira: escrever "surto" seria inventar incidência sem fonte, proibido por [PADROES §6](PADROES.md), e é erro caro pra quem vende credibilidade médica.
+
+**O ângulo que sobrou é mais forte que o original:** a via de contágio. Raiva urbana hoje vem de **morcego**, não do cachorro de rua do imaginário antigo — e isso alcança inclusive o tutor de gato que nunca sai de casa. Somado a isso, a campanha de vacinação **gratuita** da Prefeitura de Araruama está rodando agora (Parque de Exposições/Fazendinha, seg-sex 9h-16h, até 19/12), o que dá utilidade local e datada à peça.
+
+[Peça escrita](conteudo/posts/2026-09-25-raiva-alerta-morcego.md) — template **Alerta**, com instrução explícita de tom de orientação e não de pânico.
+
+**Duas decisões pendentes de PH, registradas em [OPEN-QUESTIONS #13 e #14](OPEN-QUESTIONS.md):**
+- **Conflito de calendário:** 25/09 já tinha a [Odontologia venda direta](conteudo/posts/2026-09-25-especialidade-odontologia-venda-direta.md). Proposta: raiva fica no 25 (é perecível) e Odontologia desloca pra 02/10 (é evergreen).
+- **Decisão comercial:** a peça manda o tutor vacinar de graça na Prefeitura. É jogada de autoridade, mas o cliente precisa topar. Variação sem o parágrafo da campanha já está descrita na própria peça.
+
+**Não conferido:** o ponto itinerante da Praça de São Vicente (23-27/09) aparece na imprensa mas não na agenda oficial que consultei — ficou **fora** da legenda de propósito, só o ponto fixo entrou.
+
+---
+
+## 2026-09-21 — Post de segunda: Mito x Verdade "Bafo forte é normal em cachorro" (Odontologia)
+
+Slot fixo de segunda ([PADROES §5](PADROES.md)). [Peça](conteudo/posts/2026-09-21-mito-bafo-forte-e-normal-em-cachorro.md) — split mito/verdade, foto real de banco, primeira vez que **Odontologia** é âncora de um Mito x Verdade (os anteriores ficaram em pelo, vacina de gato, pulga e castração). Não repete o post-base de odontologia aprovado em 30/07: aquele era dado + data, este é mito sem estatística. CTA "comenta aqui embaixo" (rodízio: 14/09 foi salvar, 18/09 WhatsApp). Sem pendência nova.
+
+## 2026-09-15 (2) — Primeiro anúncio pago da conta: Meta Ads, dor do lead na headline
+
+PH pediu venda mais direta pra Veterinária Regional, pensada como anúncio de Meta Ads, com a dor do lead na própria headline. [Peça escrita](conteudo/posts/2026-09-15-nao-emagrece-nem-trocando-de-racao-anuncio-meta-ads.md) — estático (esta conta não depende do cliente aparecer, então nada de vídeo), tema Nutrição & Endocrinologia (mesma especialidade da venda direta orgânica de 18/09, mantendo continuidade editorial).
+
+**Mudança de estrutura em relação ao orgânico:** no formato de venda direta usado até aqui, o kicker descreve o sintoma e a palavra-âncora fecha em "tem especialista pra isso". Aqui inverti — **a dor vira a headline dominante** ("Seu pet não emagrece nem trocando de ração?"), e a resolução vem depois, mais curta. Inclui copy pronta pro Gerenciador de Anúncios (objetivo, botão, título, texto principal, descrição).
+
+Escolhi a especialidade por continuidade, mas registrei no roteiro que a estrutura vale pra qualquer uma das 13 — só troca o gancho de dor. Compliance de sempre mantido: sem promessa de emagrecimento, sem diagnóstico, foto real de banco.
+
+---
+
+## 2026-09-15 — Post de sexta 18/09 escrito antecipado: venda direta de Nutrição & Endocrinologia
+
+PH pediu os posts de sexta 18/09 pra Atlas, Veterinária Regional, Veneza e CIIL de uma vez. [Peça escrita](conteudo/posts/2026-09-18-especialidade-nutricao-endocrinologia-venda-direta.md) segue o formato de venda direta por especialidade que o cliente pediu em 11/09 ([PADROES §5](PADROES.md)) — segunda aplicação depois de Dermatologia (11/09). Escolhi Nutrição & Endocrinologia por continuidade editorial: o [Mito x Verdade de 14/09](conteudo/posts/2026-09-14-mito-castracao-engorda-o-pet.md) puxou essa especialidade pela primeira vez (castração e peso), sem fechar em venda — esta peça puxa o fio, mesma lógica já usada com Dermatologia (mito 31/08 → venda 11/09).
+
+⚠️ **Decisão que ainda não tem confirmação formal de PH:** usar venda direta no slot de sexta ("Data ou curiosidade" no mix original) em vez de buscar outra data/curiosidade pet — segui o mesmo critério já aplicado em 11/09, mas a cadência exata (toda sexta ou só quando pedido) segue em aberto ([OPEN-QUESTIONS](OPEN-QUESTIONS.md)). Busquei data comemorativa pet real pra 18/09 antes de decidir — não existe nenhuma relevante.
+
+---
+
+## 2026-09-14 — Post de segunda: Mito x Verdade sobre castração e peso
+
+Post do slot fixo de segunda ([PADROES §5](PADROES.md)), que também é a regra de playbook da Lone pra esse dia (leve/educativo, nunca venda pesada). [Castração deixa o pet gordo e preguiçoso?](conteudo/posts/2026-09-14-mito-castracao-engorda-o-pet.md) — estático, template Mito x Verdade (split), foto real de pet ativo (nunca IA fotorrealista, [PADROES §1](PADROES.md)).
+
+**Ângulo:** mito clássico de castração, ainda não tocado no feed (as últimas peças ficaram em pele/parasita — carrapato 28/08, coceira 31/08 — e em data comemorativa/venda de dermatologia — 09/09 e 11/09). Puxa pela primeira vez **Nutrição & Endocrinologia** como especialidade-âncora, que segue sem nenhuma peça própria no calendário.
+
+Compliance apertado: sem promessa de emagrecimento, sem dose/marca de ração, sem plano nutricional individual à distância — só orientação geral que fecha em avaliação. CTA "salva esse post" (rodízio do [PADROES §7](PADROES.md), diferente da peça anterior de Mito x Verdade e da venda direta de 11/09).
+
+Nenhuma pendência nova. Segue aberta a validação do briefing e a cadência da venda direta por especialidade ([OPEN-QUESTIONS #1-2, #12](OPEN-QUESTIONS.md)) — não bloqueiam peça educativa de rotina.
+
+---
+
+## 2026-09-11 — Feedback do cliente: venda direta por especialidade (novo formato)
+
+**Feedback direto do cliente** (via PH): quer posts de venda direta pras especialidades, não só carrossel educativo. Muda o pilar central da conta — até aqui, "Especialidade da Semana" (terça) era 100% educativo ([Cardiologia, 11/08](conteudo/posts/2026-08-11-especialidade-cardiologia.md) é o único exemplo produzido no formato original).
+
+Registrado em [context.md](context.md) e [PADROES §5](PADROES.md). Primeira peça no formato novo: [post de venda direta — Dermatologia](conteudo/posts/2026-09-11-especialidade-dermatologia-venda-direta.md), ocupando o slot de sexta 11/09 (que seria "Data ou curiosidade" — não havia data comemorativa relevante nesse dia).
+
+**Ângulo escolhido:** Dermatologia, puxando o fio do [Mito x Verdade sobre coceira](conteudo/posts/2026-08-31-mito-coceira-e-sempre-pulga.md) de 31/08 — quem ficou com a dúvida do mito agora vê a especialidade como solução concreta.
+
+**Pendência:** não ficou definido se venda direta substitui parte do carrossel educativo de terça, se soma como peça extra, ou se roda quando PH pedir — deixado como pergunta aberta até PH confirmar a cadência.
+
+---
+
+## 2026-09-08 — Dia do Médico Veterinário (09/09)
+
+PH pediu peça pro Dia do Veterinário. [Post escrito](conteudo/posts/2026-09-09-dia-do-medico-veterinario.md) pra 09/09 (quarta), substituindo o slot de meme da semana.
+
+**Diferença em relação às peças anteriores de "dia de profissional"** ([Cardiologista](conteudo/posts/2026-08-14-dia-do-cardiologista.md), [Ultrassonografista](conteudo/posts/2026-08-21-dia-do-ultrassonografista.md)): aquelas eram datas de medicina humana emprestadas por analogia. Esta é a data da própria profissão que sustenta a clínica — celebra a equipe direto, sem precisar de ponte, e ainda amarra no diferencial das 13 especialidades ("13 especialidades, uma profissão só").
+
+**Primeira peça desta conta com pessoa na foto** (veterinário examinando pet), não só o pet sozinho — vale conferir se o banco de stock que PH escolher tem esse tipo de imagem. Nenhum CRMV/nome de veterinário citado, como manda o PADROES §9 (dado não informado).
+
+---
+
+## 2026-08-31 — Mito x Verdade abre o ciclo de alergias de pele
+
+[Coceira é sempre pulga?](conteudo/posts/2026-08-31-mito-coceira-e-sempre-pulga.md) — estático no template Mito x Verdade, slot fixo de segunda.
+
+**Encaixe sazonal:** setembro entra na primavera, que é a janela de alergias de pele listada no [PADROES §8](PADROES.md).
+
+**Complementa a peça de 28/08 sem repetir:** aquela é sobre parasita voltando com o calor; esta é sobre a coceira que **não** é parasita — e que por isso não some com antipulgas, que é onde o tutor gasta meses antes de procurar a clínica. A troca de template (Alerta → Mito x Verdade) também evita duas peças com a mesma cara no grid.
+
+Compliance: sinais genéricos, sem estatística, sem diagnóstico à distância, com a ressalva explícita de que foto não fecha diagnóstico. Dermatologia citada como especialidade da casa, sem nomear profissional.
+
+---
+
+## 2026-08-27 — Post de sexta: alerta sazonal de carrapato
+
+[Peça escrita](conteudo/posts/2026-08-28-carrapato-volta-com-o-calor.md) pra 28/08 — primeira peça sazonal da conta e primeiro uso do **template Alerta** (as anteriores rodaram todas no Educativo, e duas seguidas no mesmo template deixam o grid chapado).
+
+**Por que carrapato agora:** setembro chega na semana seguinte e o calor da Região dos Lagos vira junto. Carrapato some da vista no frio e reaparece com o calor — a peça chega antes do problema. A sazonalidade de primavera estava mapeada em [PADROES §8](PADROES.md) desde o onboarding e nunca tinha sido usada.
+
+**Compliance apertado de propósito:** zero estatística de incidência, **nenhuma doença nomeada** (fala em "doença transmitida por carrapato", sem erliquiose/babesiose), nenhum produto ou princípio ativo de prevenção citado, sinais só os genéricos e amplamente aceitos. Tudo fecha em avaliação, como o §6 exige.
+
+📅 **Registrado no arquivo como alternativa:** 28/08 é o **Dia Nacional do Voluntariado**, data de peso real no nicho por causa de protetores e abrigos. Não escrevi por aí porque a peça dependeria de a clínica ter relação declarada com protetores locais, e isso não consta em lugar nenhum. Se existir (desconto pra protetor, parceria com abrigo), a peça de homenagem é mais forte que a de carrapato.
+
+⚠️ Segue pendente desde 13/08: reler as 6 peças do lote de 30/07–14/08 com o filtro de coerência.
+
+---
+
+## 2026-08-25 — Pedido de captação "Treze portas, um endereço"
+
+[Pedido escrito](conteudo/roteiros/2026-08-25-pedido-captacao-treze-portas.md), desenhado pra ser o menor pedido possível: tudo se grava num dia, dentro da clínica, em uns 15 minutos, **sem depender de tutor nem de animal de cliente** — que é exatamente onde esse cliente costuma travar.
+
+O ângulo é o maior ativo comercial da clínica, hoje escondido num destaque: as 13 especialidades. O take que carrega é o corredor com as portas dos consultórios, e o fecho ataca a dor de rodar a região atrás de exame.
+
+É a **primeira peça da conta com material real**, e uma exceção deliberada à regra de rodar sem depender do cliente — a regra continua valendo pro resto do calendário. Se a captação não voltar em uma semana, a quarta segue com o formato ilustrado de sempre; o calendário não espera.
+
+---
+
+## 2026-08-19 — Peça extra de data comemorativa pra 21/08: Dia do Ultrassonografista
+
+PH pediu post pro "Dia do Ultrassonografista" (21/08) sem nomear cliente. Cliente não era óbvio — nenhum dos ativos atuais é clínica de imagem, e ultrassonografia não está entre as 13 especialidades oficiais da Vet Regional — então perguntei antes de escrever. PH confirmou Veterinária Regional e confirmou que a clínica **faz exame de ultrassom no local** (registrado em [PADROES §9](PADROES.md)).
+
+21/08 já tinha a peça de venda "13 especialidades" agendada pro slot de sexta ([PROGRESSO 18/08](#2026-08-18--peça-de-venda-apelativa-pra-sexta-2108-produzida-com-aval-explícito-apesar-da-pausa) abaixo). Perguntei como encaixar — PH decidiu publicar as duas no mesmo dia: a de venda segue como está, esta é peça extra do pilar Data comemorativa.
+
+**Data verificada por busca antes de escrever:** 21/08 é o Dia Nacional do Médico Ultrassonografista, Lei 14.964/24 (sancionada 05/09/2024), data escolhida por coincidir com a fundação da Sociedade Brasileira de Ultrassonografia em 1993 — é data de medicina humana, não comemoração pet oficial (mesmo tratamento de honestidade do [post de Dia do Cardiologista](conteudo/posts/2026-08-14-dia-do-cardiologista.md)).
+
+**Peça:** [conteudo/posts/2026-08-21-dia-do-ultrassonografista.md](conteudo/posts/2026-08-21-dia-do-ultrassonografista.md) — template Data comemorativa, foto real de banco (cena de exame de ultrassom, não sintoma), CTA de marcar alguém (distinto do WhatsApp direto da peça de venda do mesmo dia). Copy fica em "ultrassom" genérico, sem citar ecocardiograma — isso segue pendente ([OPEN-QUESTIONS #11](OPEN-QUESTIONS.md)).
+
+---
+
+## 2026-08-18 — Peça de venda apelativa pra sexta 21/08, produzida com aval explícito apesar da pausa
+
+PH pediu peça de venda ("apelativa, não educativa") pra sexta 21/08 em vários clientes da carteira. Sinalizei antes de escrever: a produção deste cliente está pausada desde 13/08 (PH avaliou os 7 posts anteriores como "muito ruim", pediu revisão com o filtro de coerência diagnosticado — frases sem lógica real entre si — antes de destravar peça nova, e essa releitura das outras 6 peças nunca foi concluída). **PH confirmou seguir mesmo assim.**
+
+**Peça:** [conteudo/posts/2026-08-21-13-especialidades-sob-o-mesmo-teto.md](conteudo/posts/2026-08-21-13-especialidades-sob-o-mesmo-teto.md) — usa o template Educativo (grid fixo do [PADROES §2-3](PADROES.md)) com copy de venda. Ângulo: as 13 especialidades sob o mesmo teto, maior ativo comercial do cliente, hoje escondido só num destaque do perfil. Escrita como uma linha de raciocínio só, aplicando o diagnóstico de 13/08 (sem "e é por isso que" forçado, sem fórmula binária solta, sem fechamento dividido pra dois públicos).
+
+**O que continua pendente, não resolvido por esta peça:** reler as outras 6 peças do lote (30/07–14/08) com o mesmo filtro de coerência antes de tratar a pausa como encerrada — registrado na checagem do arquivo pra não sumir do radar.
+
+---
+
 ## 2026-08-13 — PH avalia conteúdo como "muito ruim": estratégia/ângulos e copy, produção pausada pra revisão
 
 PH deu feedback direto sobre os 7 posts produzidos até aqui (30/07-14/08): "muito ruim". Perguntei o que especificamente — resposta: **estratégia/ângulos** e **copy/texto** (visual/design *não* foi apontado como problema, o template validado segue de pé). PH pediu pra buscar benchmark novo de concorrentes/referências antes de continuar produzindo. Levantamento em andamento — ver [referencias/2026-08-13-benchmark-angulos-copy.md](referencias/2026-08-13-benchmark-angulos-copy.md).
@@ -88,7 +303,7 @@ PH pediu o post de sexta 07/08 pra este cliente. Encaixei no slot fixo de "Data 
 
 ## 2026-08-04 — Homenagem de Dia dos Pais
 
-Peça de homenagem que a agência decidiu publicar em vários clientes da carteira, todos no domingo 09/08/2026 (dia exato do Dia dos Pais) — 100% emocional/institucional, sem preço, oferta ou menção a especialidade específica. Ângulo escolhido: Dia dos Pais também é dia de quem é pai de pet, com gestos concretos (carregar ração, decorar data de vacina, se preocupar quando o animal come menos) no lugar de adjetivo genérico. Escrito: [conteudo/posts/2026-08-09-feliz-dia-dos-pais.md](conteudo/posts/2026-08-09-feliz-dia-dos-pais.md) — template Data comemorativa, foto real de banco de imagem (nunca IA fotorrealista), rodapé de identidade padrão sem CTA de venda.
+Peça de homenagem que a agência decidiu publicar em vários clientes da carteira, todos no domingo 09/08/2026 (dia exato do Dia dos Pais) — 100% emocional/institucional, sem preço, oferta ou menção a especialidade específica. Ângulo escolhido: Dia dos Pais também é dia de quem é pai de pet, com gestos concretos (carregar ração, decorar data de vacina, se preocupar quando o animal come menos) no lugar de adjetivo genérico. Escrito: conteudo/posts/2026-08-09-feliz-dia-dos-pais.md (peça removida na limpeza de 2026-08-24) — template Data comemorativa, foto real de banco de imagem (nunca IA fotorrealista), rodapé de identidade padrão sem CTA de venda.
 
 ---
 

@@ -22,7 +22,7 @@
 - **Selo:** "Presente de Dia dos Pais — 09/08"
 - **Rodapé:** WhatsApp de cada cidade + hashtag fixa.
 
-**Duas versões de arte (mesma peça, WhatsApp diferente):** Maricá (21) 2637-2498 · Saquarema (21) 3731-0812.
+**Duas versões de arte (mesma peça, WhatsApp diferente):** Maricá (21) 2637-2498 · Saquarema (22) 98831-6090.
 
 **Dependência de produção:** foto real do produto.
 
@@ -50,7 +50,7 @@ Lava jato tira em minutos o que o balde não tira em uma hora: sujeira encrostad
 
 Lava Jato Guepar 1200W, de R$ 309,90 por R$ 279,90 até domingo, 09/08.
 
-📱 Maricá: (21) 2637-2498 · Saquarema: (21) 3731-0812
+📱 Maricá: (21) 2637-2498 · Saquarema: (22) 98831-6090
 
 ---
 

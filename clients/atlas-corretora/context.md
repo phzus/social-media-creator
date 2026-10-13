@@ -52,6 +52,8 @@ A marca já existe e é boa: **azul-marinho + branco, serifada, monograma "A" e 
 - Promessa de que "o seguro paga", em qualquer situação, sem a ressalva de que depende da apólice
 - Superlativo de comparação ("as melhores seguradoras", "o melhor preço") — ver [PADROES §2](PADROES.md)
 
+**Nomenclatura da casa:** a Atlas chama **seguro de vida** de **planejamento familiar** (PH, 2026-08-24). O termo da casa manda na copy; "seguro de vida" entra uma vez por peça, como ponte pra quem procura pelo nome do produto. Detalhe e o alerta de hashtag em [PADROES §9](PADROES.md).
+
 **CTA:** um por peça, alternando entre **chama no direct**, **comenta [PALAVRA]** e **salva esse vídeo**. Numa conta de 172 seguidores, salvamento e comentário valem mais que clique — eles alimentam o alcance que a conta ainda não tem.
 
 ---
@@ -79,7 +81,7 @@ A marca já existe e é boa: **azul-marinho + branco, serifada, monograma "A" e 
 
 **Exceção declarada ao playbook da Lone:** a estrutura padrão da casa prevê vídeo só na quarta. Aqui o vídeo ocupa quarta **e** outros dias, porque o pivô pedido pelo cliente e o dado da conta apontam pro mesmo lado. Justificativa registrada na [estratégia §2](estrategia/2026-08.md).
 
-**Stories:** default off do playbook vale, com uma exceção útil — **caixinha de dúvidas sobre seguro** é a fonte de pauta mais barata que existe pra este cliente, e cada dúvida real vira um Reel escrito com a palavra que a pessoa usou.
+**Stories:** default off do playbook vale, com uma exceção útil — **caixinha de dúvidas sobre seguro** é a fonte de pauta mais barata que existe pra este cliente, e cada dúvida real vira um Reel escrito com a palavra que a pessoa usou. **Confirmado em reunião (08/09/2026):** fluxo combinado — cliente grava Stories com a caixinha, manda as dúvidas mais relevantes pra Lone, que decide o que vira post de feed. Não depende do corretor/Mayara, roda em paralelo ao gargalo de gravação de Reels.
 
 ---
 
@@ -102,7 +104,17 @@ A marca já existe e é boa: **azul-marinho + branco, serifada, monograma "A" e 
 
 ---
 
+## Contatos e rotina (Atlas)
+
+- **Laís** — Administrativo, contato direto de rotina com a Lone (recebe pedidos, alinha gravação).
+- **Roberto** — participa das reuniões mais aprofundadas/construtivas (aviso prévio), pra além do alinhamento mensal rápido.
+- **Mayara** — consultora recém-chegada, candidata a ser o rosto dos vídeos/Reels (boa desenvoltura em câmera). **Ainda não confirmada** ([OQ #1](OPEN-QUESTIONS.md)).
+- **Cadência de reuniões (confirmado 08/09/2026):** mensal, rápida, conduzida por Carlos (Lone). Reunião mais completa entra com Roberto quando necessário. Lone manda aviso prévio + lembrete.
+- **Mecanismo do "destaque do mês":** a partir de setembro/2026, o cliente indica o tema principal de seguro do mês, estruturado com a Mayara — substitui/formaliza a pergunta obrigatória #1 do briefing mensal da Lone.
+
 ## References
+
+- **Calendário editorial 2025 do cliente (recebido 2026-10-13):** [calendário 2025 do cliente](referencias/2026-10-13-calendario-editorial-2025-do-cliente.md). Intenção do cliente em três eixos: educar pra vender, motivo comercial pra agir agora (benefício/brinde/data), amplitude de portfólio. Mecânicas e percentuais de 2025 não valem sem validação.
 
 - **@danibarbizan** — referência de vídeo dada pelo cliente. Corretor, 68,8 mil seguidores.
 - **@chammah.seguralta** — referência de copy dada pelo cliente. Franquia Seguralta.

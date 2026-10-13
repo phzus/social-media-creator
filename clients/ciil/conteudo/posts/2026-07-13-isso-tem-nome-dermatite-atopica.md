@@ -57,7 +57,9 @@ Agende uma avaliação. Chame a gente no WhatsApp.
 
 ## Hashtags
 
-#DermatiteAtópica #DoençasAutoimunes #Imunobiológicos #SaúdeDaPele #Imunologia #Alergologia #PeleAtópica #CIIL #CIILagos #Araruama #RegiãoDosLagos #SãoGonçalo #CuidadoCiênciaEConfiança
+#DermatiteAtópica #DoençasAutoimunes #Imunobiológicos #SaúdeDaPele #Imunologia #PeleAtópica #CIIL #CIILagos #Araruama #RegiãoDosLagos #SãoGonçalo #CuidadoCiênciaEConfiança
+
+> 🔴 **Correção 2026-08-21:** `#Alergologia` removida — a CIIL não tem alergista/imunologista atendendo e a hashtag sugere serviço inexistente (correção do cliente, ver [PADROES](../../PADROES.md)).
 
 ---
 
@@ -70,7 +72,7 @@ Agende uma avaliação. Chame a gente no WhatsApp.
 - Locais das lesões por faixa etária (adulto x bebê).
 - Caráter de fases que vão e voltam (surtos/crises) — confirmar o termo.
 - Imunobiológico **"nos casos mais intensos"** — confirmar o corte (moderado a grave, sob indicação médica).
-- **Dermatologista / alergista-imunologista** como especialidade — confirmar que a CIIL oferece/encaminha (gate de escopo).
+- **Dermatologista / alergista-imunologista** como especialidade — confirmar que a CIIL oferece/encaminha (gate de escopo). ⚠️ **2026-08-21:** cliente confirmou que **não há alergista/imunologista na clínica** — se a peça nomear especialidade, não pode ser essa. Ver [OPEN-QUESTIONS #6](../../OPEN-QUESTIONS.md).
 - Day clinic / mesmo dia / sem internação — confirmar protocolo real.
 
 **Compliance atendido:** sem "cura" (só "tratamento"; crônica) · sem "antes e depois" · sem carga estética-social/vergonha · sem autodiagnóstico ("isso pode ser", nunca "você tem") · imunobiológico só "nos casos mais intensos" · sem número inventado · sem superioridade · sem conduta individual · sem depoimento/imagem de paciente.

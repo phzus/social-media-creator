@@ -59,7 +59,7 @@ Semi-formal — informação médica em linguagem simples, sem jargão vazio, ma
 
 Proposta herdada do briefing da Lone (⚠️ ainda a validar com o cliente, ver [BRIEFING §5](BRIEFING.md)):
 
-1. **Educativo por especialidade (~35%)** — uma das 13 especialidades por vez, carrossel didático. É o ativo comercial central, hoje escondido só no destaque.
+1. **Educativo por especialidade (~35%)** — uma das 13 especialidades por vez, carrossel didático. É o ativo comercial central, hoje escondido só no destaque. ⚠️ **Feedback do cliente (2026-09-11): quer posts de venda direta pra especialidade, não só carrossel educativo.** A partir de agora, peças de especialidade alternam entre o carrossel educativo (formato original) e post de venda direta, no molde de [conteudo/posts/2026-09-11-especialidade-dermatologia-venda-direta.md](conteudo/posts/2026-09-11-especialidade-dermatologia-venda-direta.md) — ver [PADROES §5](PADROES.md).
 2. **Humor/identificação (~20%)** — formato "eu vs. meu pet", meme, sem depender de material do cliente.
 3. **Mito x Verdade (~15%)** — post estático dividido; formato-âncora sugerido pro mesmo dia toda semana.
 4. **Alerta/checklist/dica (~15%)** — infográfico visual (ex.: "alimentos proibidos"), o tipo de post mais salvo do nicho.

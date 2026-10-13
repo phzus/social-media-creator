@@ -30,7 +30,8 @@
 
 ## ✅ Confirmado com PH (22/06)
 
-1. **Dia Mundial da Alergia (08/07):** ✅ **o CIIL oferece consulta de alergia/alergologia.** → vira peça de **serviço/autoridade** (posiciona imunologia ampla), pode dirigir a agendamento de consulta. **Vai pro calendário (slot Qua 08/07, Reel).**
+1. **Dia Mundial da Alergia (08/07):** ~~✅ **o CIIL oferece consulta de alergia/alergologia.** → vira peça de **serviço/autoridade** (posiciona imunologia ampla), pode dirigir a agendamento de consulta. **Vai pro calendário (slot Qua 08/07, Reel).**~~
+   - 🔴 **INVÁLIDO (corrigido 2026-08-21 pelo próprio cliente):** a CIIL **não tem imunologista nem alergista** e não oferece consulta de alergia/alergologia. O "confirmado com PH" de 22/06 vinha do claim errado herdado da auditoria Cowork AI. Não reaproveitar esta data como ângulo de consulta em nenhuma edição futura. Ver [PADROES](../PADROES.md) e [referencias/2026-08-21-feedback-cliente-nao-tem-imunologista-alergista.md](2026-08-21-feedback-cliente-nao-tem-imunologista-alergista.md).
 2. **Julho Amarelo:** PH **acha que o CIIL não faz teste/sorologia de hepatite.** → ângulo fica em **vacina Hep B** (educativo + venda da vacina), sem prometer testagem. (Confirmar em definitivo antes de publicar.)
 3. **BCG (01/07):** PH **acha que não aplica BCG.** → **não ancorar venda em BCG.** O dia 01/07 (Qua) será usado pra outro tema (Reel inaugural de humanização). BCG sai do calendário.
 

@@ -2,9 +2,66 @@
 
 Pendências a resolver com PH / com o dono do Bazar Ribeiro. Resolver as **bloqueantes** antes de produzir qualquer peça da campanha de agosto.
 
+## 📅 2026-10-13 — Post de sexta 16/10 (regulador de gás)
+
+17. 🔴 **Kit regulador de gás Vinigas "a partir de R$ 29,90" ainda vale?** Preço tirado da arte de Saquarema de 24/08. Confirmar até qui 15/10, antes de mandar ao Junior. Peça: [2026-10-16](conteudo/posts/2026-10-16-regulador-de-gas-data-gravada.md).
+18. 🟡 **O mesmo kit e o mesmo preço valem em Maricá?** Sem resposta, a peça roda só em Saquarema.
+19. 🟡 **O kit em estoque hoje vem com o "válido até" gravado no regulador?** É o que sustenta a peça (a foto da arte de 24/08 mostra a gravação).
+
+## 📅 2026-09-08 — Reunião Lone × Bazar Ribeiro (03/09): resultado
+
+Resumo completo em [reuniao-mensal/resumos/2026-09-03-resumo-reuniao-lone-x-bazar.md](reuniao-mensal/resumos/2026-09-03-resumo-reuniao-lone-x-bazar.md). Atualiza várias pendências desta lista:
+
+- ✅ **Item 11 (quem aprova) — RESOLVIDO.** O decisor do lado do cliente é **Junior Ribeiro**, confirmado como participante e aprovador na reunião de 03/09.
+- ✅ **"Linha temática por categoria única" — esclarecido.** A ideia partiu do **Roberto** (Lone Mídia), não é resposta a um problema, e **não é decisão fechada do cliente** — Junior só disse que achou que podia funcionar bem.
+- 🔴 **Nova pendência — mecânica do Dia do Cliente (15/09).** Nada foi decidido na reunião. Junior vai analisar produtos e retornar. **As "seis mecânicas" e a peça de [14/09](conteudo/posts/2026-09-14-fregues-desde-quando.md) em [estrategia/2026-09-ideias-dia-do-cliente.md](estrategia/2026-09-ideias-dia-do-cliente.md) são proposta da Lone, ainda não aprovada pelo cliente** — não publicar nada dessa linha até Junior confirmar a mecânica. ⚠️ **2026-09-14:** ainda sem retorno de Junior, um dia antes da data. Slot de segunda 14/09 foi preenchido com peça educativa independente ([2026-09-14-ferramenta-forcando-nao-e-ferramenta-ruim.md](conteudo/posts/2026-09-14-ferramenta-forcando-nao-e-ferramenta-ruim.md)) pra não estourar o prazo esperando aprovação. Se a mecânica for confirmada ainda hoje/amanhã, "freguês desde quando" pode publicar em cima da hora — só falta o sinal verde do Junior.
+- 🔴 **Nova pendência — horário exato do feriado de 7 e 8/09.** Falta confirmação antes de publicar o aviso de horário reduzido. **08/09 é Dia da Padroeira de Saquarema** (feriado municipal específico dessa cidade, além do feriado nacional de 07/09) — post de homenagem foi pedido pelo próprio Junior e não depende dessa confirmação.
+- 🟡 **Nova pendência — agenda da visita de gravação em Maricá.** Sem data definida ainda.
+- 🟡 **Nova pendência — captação recorrente em Maricá.** Gargalo estrutural: ninguém na equipe local tem perfil pra conteúdo/vídeo. Via alternativa validada: Junior grava takes de ambiente (sem fala) quando visita a loja.
+- 🟡 **Base de faturamento das lojas** citada de memória por Junior, sem consolidação — os números absolutos (ver referência) precisam de confirmação; só o "produto nº 1 ≈ 3% do faturamento" é ponto firme.
+- 📌 **Lista ABC vem a caminho** — Junior vai atualizar com os últimos 2 meses e enviar pelo grupo do WhatsApp. Isso destrava o item 4b abaixo (kits) e o planejamento de produto no feed.
+- ⚠️ **Correção:** motion flyer **já foi usado** nesta conta antes, e Junior avaliou bem — a leitura anterior ("nunca foi usado") estava errada. Corrigido em [PADROES §8](PADROES.md).
+- **Novo formato semanal validado:** 1 peça/semana em layout diversificado (modelo WD-40 — texto ao lado, imagem realista, apelo pela dor do cliente) + 2 peças de encarte tradicional. Ver [PADROES §8](PADROES.md).
+- **Descoberta de equipe:** esta conta tem outros membros da Lone Mídia envolvidos (Carlos Augusto, Roberto, Lucas), além de PH — decisões podem chegar por esse canal.
+
+## ✅ 2026-09-01 (2) — RESOLVIDO: o DDD identifica a loja
+
+PH: *"Bazar com o ddd 21 é de Maricá e ddd 22 Saquarema."*
+
+- **Maricá — (21) 2637-2498** · Rua Pereira Neves, Maricá/RJ, CEP 24900-660
+- **Saquarema — (22) 98831-6090** · Rua Professor Francisco Fonseca, 401, Bacaxá, Saquarema/RJ
+
+⚠️ **O (22) 98831-6090 que estava registrado como Saquarema estava errado** — DDD 21 é Maricá. Corrigido. Como a regra do cliente é publicar **os dois números identificados por cidade**, esse erro colocaria o cliente de Saquarema ligando pra loja errada.
+
+**Regra prática que sai daqui:** neste cliente o DDD é a checagem. 21 = Maricá, 22 = Saquarema. Número de DDD 21 rotulado como Saquarema (ou vice-versa) está errado, sempre.
+
+## ⚠️ 2026-09-01 — Saquarema com número diferente do registrado
+
+PH enviou os contatos da carteira. **Maricá bate** com o que estava aqui: **(21) 2637-2498 · Rua Pereira Neves, Maricá/RJ, CEP 24900-660** (⚠️ falta o número do imóvel).
+
+**Saquarema diverge:** o repo trazia **(22) 98831-6090**; a lista de PH traz **(22) 98831-6090 · Rua Professor Francisco Fonseca, 401 — Bacaxá, Saquarema/RJ.**
+
+**Provável explicação:** o fixo foi trocado por um celular com WhatsApp. Isso faria sentido com a regra do cliente — toda peça publica **os dois números identificados por cidade**, e um fixo não recebe WhatsApp, então o de Maricá também merece conferência.
+
+🔴 **Confirmar com PH qual número de Saquarema entra em arte** antes da próxima peça que leve rodapé de contato.
+
+Fonte única de contatos: [shared/contatos-clientes.md](../../shared/contatos-clientes.md).
+
+
 ## 📌 Mudança futura confirmada (não aplicar ainda)
 
 **Linha temática por categoria única, semanal — a partir de 17/08/2026.** Direção nova do chefe do PH: cada cliente passa a postar só uma linha temática de categoria por semana (ex. só hidráulica numa semana). Bazar Ribeiro foi o **exemplo dado** pelo chefe pra ilustrar a ideia. PH confirmou (2026-08-10) que **isso só entra em prática a partir de 17/08** — a semana de 10-14/08 segue o mix normal (venda + posicionamento + emocional + educativo + prova social + remarketing), sem restrição de categoria. Lembrar: o catálogo do Bazar Ribeiro é mais amplo que hidráulica/ferragem (inclui eletroportáteis, [context.md](context.md)) — quando essa linha entrar em vigor, definir com PH/chefe qual categoria abre a rotação e como tratar o restante do catálogo nas semanas seguintes. **Ação:** revisitar esta pendência antes de montar o calendário da semana de 17-21/08.
+
+⚠️ **Esclarecido na reunião de 03/09** ([referencias](reuniao-mensal/resumos/2026-09-03-resumo-reuniao-lone-x-bazar.md)): a ideia partiu do Roberto (Lone Mídia) como sugestão de formato, não como resposta a um problema identificado. Junior (cliente) achou que "poderia funcionar bem", mas **isso não é aprovação fechada** — segue como proposta em aberto, não como regra decidida pelo cliente.
+
+## 📅 2026-09-03 — Reunião de alinhamento de setembro (hoje)
+
+Pauta montada em [estrategia/2026-09-pauta-reuniao.md](estrategia/2026-09-pauta-reuniao.md). As pendências 1, 4, 8 e 11 desta lista entram como pergunta direta ao cliente, junto com duas novas:
+
+- 🔴 **O fixo (21) 2637-2498 de Maricá recebe WhatsApp?** Nosso CTA padrão manda o cliente pro WhatsApp, e fixo não recebe. Se não receber, falta o celular de Maricá antes da próxima arte com rodapé de contato.
+- 🟡 **Tabela de preços de setembro.** A vigente é de 31/07 e já mudou pelo menos uma vez no mês.
+
+Também vai à mesa: data de captação de vídeo pela Lone (um dia só, banco pro mês inteiro), ação de Dia do Cliente (15/09) e se o sorteio da furadeira Lotus 18V volta em outubro com regulamento.
 
 ## 🔴 Bloqueantes (antes de produzir)
 
@@ -24,10 +81,11 @@ Pendências a resolver com PH / com o dono do Bazar Ribeiro. Resolver as **bloqu
 8. **Acesso ao Instagram Insights das duas contas.** Pra validar hipótese de público (§3 do context.md, hoje é suposição pelo mix de produtos) e medir os KPIs propostos.
 9. **Contrapartida pra Saquarema.** Cartão Mumbuca é exclusivo de Maricá — existe algum diferencial equivalente pra Saquarema, ou a loja de lá fica sem peça própria no mês?
 10. **Quem grava o desafio dos 3 pregos nos sábados (02/08, 09/08).** Equipe da loja ou alguém da Lone precisa estar no local pros dois sábados.
-11. **Quem aprova.** Decisor direto do Bazar Ribeiro que aprova estratégia e vê as peças antes de publicar — dono, gerente de qual unidade?
+11. ✅ **Quem aprova — RESOLVIDO (reunião 03/09).** Junior Ribeiro é o decisor do lado do cliente.
 
 14. **Crew da Lone pra quarta 12/08.** Slot oficial de Reels da semana 10-14/08 ([estrategia/2026-08.md §7](estrategia/2026-08.md)) segue sem crew confirmada — enquanto não confirmar, o slot vira estático de posicionamento (esboço já registrado). Se fechar até 11/08, pode virar reel de verdade.
 15. **Preços atualizados dos 3 itens do carrossel de sexta 14/08** (Fita 3M Isolante R$ 34,90, Óleo Lubrificante White Lub R$ 16,90, Alicate Tramontina R$ 49,90) — tabela é de 31/07 e já houve pelo menos uma mudança de preço no mês (lava jato Guepar). Confirmar antes de fechar a copy final do carrossel.
+16. **Dia das Crianças / feriado de 12/10 (segunda) — horário das lojas e mecânica (2026-10-07).** A [saudação de 12/10](conteudo/posts/2026-10-12-dia-das-criancas-lista-pode-esperar.md) sai **sem mecânica, sem oferta e sem horário**: Junior confirmou a data em 03/09 mas não definiu nenhuma mecânica, e o horário do feriado segue sem confirmação (mesmo bloqueio do aviso de horário de 08/09 e do feriadão de 05/10). Dois caminhos, ambos opcionais e até **quinta 08/10**: (a) se vier o horário de 12/10, entra como uma linha no rodapé da arte; (b) se Junior quiser mecânica/oferta de Dia das Crianças, é **peça à parte** (preço + condição + validade), não entra na saudação. Sem resposta, a saudação publica como está. Aprovação via Carlos Augusto/Junior.
 
 ## 🟢 Desejáveis
 

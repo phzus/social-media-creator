@@ -13,7 +13,7 @@
 | Unidade | Endereço | WhatsApp |
 |---|---|---|
 | Maricá *(matriz)* | Rua Pereira Neves, 310 — Centro, Maricá/RJ (CEP 24900-660) | (21) 2637-2498 |
-| Saquarema | Rua Prof. Francisco Fonseca, 401 — Bacaxá, Saquarema/RJ | (21) 3731-0812 |
+| Saquarema | Rua Prof. Francisco Fonseca, 401 — Bacaxá, Saquarema/RJ | (22) 98831-6090 |
 
 **Slogan:** "Tudo para sua construção"
 **Categorias:** elétrica, hidráulica, ferragens, ferramentas, jardim & piscina, tintas, acabamento.

@@ -2,6 +2,51 @@
 
 Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes de fechar a 1ª estratégia mensal.
 
+## 🔴 Nova (2026-10-13) — post de sexta 16/10 (Espondilite Anquilosante)
+
+[Peça](conteudo/posts/2026-10-16-espondilite-dor-que-melhora-com-movimento.md) escrita e retida. **Sétima peça clínica na fila do RT.** Itens específicos: o fraseado da dor inflamatória ("piora parada, alivia quando se mexe", acordar de madrugada) · "costuma começar em adulto jovem" · atraso de diagnóstico sem número · **a CIIL faz o imunobiológico pra espondilite, e o RT aceita "quando é indicado"?** · reumatologia avaliando quem chega sem diagnóstico.
+🟡 **A peça 06 de 10 (Espondilite, segunda 12/10) não está no repositório.** Foi escrita e só não foi salva, ou não foi produzida? Se ainda for produzida, não pode usar colchão, postura nem madrugada como gancho.
+
+## 🟡 Nova (2026-10-07) — peça de Dia das Crianças (12/10): atendimento no feriado
+
+A [peça de 12/10](conteudo/posts/2026-10-12-dia-das-criancas-perguntas-do-tratamento.md) convida a falar com a equipe no WhatsApp. O [BRIEFING](BRIEFING.md) só registra seg–sex, 08h–18h, e nada diz se a CIIL atende em feriado. **A equipe responde no WhatsApp em 12/10?** Se não, a legenda ganha uma linha ("a equipe responde a partir de terça, 13/10"). *Não trava a peça.* A peça não abre Pediatria de propósito; se PH quiser usar a data pra isso, depende da pergunta 4 da [PAUTA](reuniao-mensal/PAUTA.md) (quais doenças a CIIL trata em criança).
+
+## 🔴 Nova (2026-10-05) — carrossel de gatilhos da dermatite atópica (09/10)
+
+[Peça](conteudo/posts/2026-10-09-gatilhos-dermatite-atopica.md) escrita e retida. **Sexta peça clínica na fila do RT** (01 a 05 já esperam). Itens específicos desta: banho morno e curto, hidratar após secar, algodão, troca de roupa após suor, produto sem perfume, corte "casos mais intensos". Opcionais: estresse/sono e dieta. 🟡 **Tem dermatologista na casa que topa gravar um Reels sobre isso?** Decide se o conteúdo vira vídeo no ciclo seguinte.
+
+## 🟡 Nova (2026-09-29) — peça de Outubro Rosa
+
+**A CIIL faz ultrassonografia de mama?** O [context.md](context.md) registra "exames (ultrassom, PPD)" e o [BRIEFING §4](BRIEFING.md) lista "Ultrassonografia", mas nenhum dos dois diz **de quê**. A diferença muda a peça de [02/10](conteudo/posts/2026-10-02-outubro-rosa-quem-ja-se-cuida.md): se a clínica fizer, o fechamento vira CTA de agendamento e a peça passa de relacionamento pra captação; se não fizer, fica na rota genérica ("marque onde seu médico indicar"), que é verdadeira nos dois cenários. — *não trava a peça, mas é a diferença entre lembrete e venda.*
+
+Vale a pergunta mais ampla junto: **quais modalidades de ultrassom a CIIL realiza?** É informação que serve pra várias pautas e nunca foi levantada.
+
+---
+
+> ✅ **Reunião de alinhamento realizada em 2026-08-26.** [Pauta](referencias/2026-08-26-pauta-reuniao-alinhamento.md) · [respostas](referencias/2026-08-26-reuniao-alinhamento-doencas-especialidades.md). Resolveu a pendência mais antiga da conta (escopo por doença). Os blocos 3 a 9 da pauta **não foram respondidos** e seguem abertos abaixo — vale uma segunda rodada por WhatsApp.
+
+## ✅ Resolvidas na reunião com o cliente (2026-08-26)
+
+- ~~**#5 Gate de escopo por doença**~~ → 🎉 **ENCERRADO.** A dona entregou a lista fechada: **Psoríase · Artrite Psoriásica · Artrite Reumatoide · Doença de Crohn · Retocolite Ulcerativa · Dermatite Atópica · Asma · Lúpus · Hidradenite Supurativa · Espondilite Anquilosante.** Pendência aberta desde 06/07, prioridade máxima desde 11/08. **As peças de Psoríase (03/07), Artrite Reumatoide (06/07) e o Reel de Crohn (08/07) estão destravadas** — só falta o OK do RT, como toda peça clínica.
+- ~~**#6b Lista fechada pra quem atende o direct**~~ → ✅ resolvida pela mesma resposta.
+- ~~**#16 Estoque de peças-ponte zerado**~~ → ✅ **deixou de existir como problema.** Com 10 doenças liberadas, são 10 segundas de série sem depender de ponte.
+- **#6 Quem avalia antes da infusão** → 🟡 **parcialmente resolvida.** A CIIL atende **Dermatologia, Reumatologia e Pediatria** (nenhuma é imuno/alergia — a regra de 21/08 segue intacta). O que falta virou a pendência nova abaixo.
+
+## 🔴 Novas (2026-08-26) — geradas pela própria reunião
+
+- ~~🔴 **"Atender a especialidade" significa consulta médica na clínica?**~~ → ✅ **RESOLVIDA POR PH (2026-09-14).** Confirmado: mesmo sem diagnóstico formado, a CIIL oferece consultas com profissionais capacitados pra avaliar, examinar e apresentar o diagnóstico ao paciente. **Pode afirmar consulta/avaliação na clínica** — regra atualizada em [PADROES.md](PADROES.md). CTA da série deixa de separar "quem já tem diagnóstico" (fala com a gente) de "quem não tem" (procure um especialista de fora) — os dois públicos falam com a CIIL agora. Peças 01 (Artrite Reumatoide, 07/09) e 02 (Psoríase, 14/09) corrigidas.
+- ~~🔴 **Asma e Hidradenite sob o rótulo "doença autoimune"**~~ → ✅ **RESOLVIDA POR PH (2026-08-26): a série não usa guarda-chuva categórico.** O selo "Isso Tem Nome" é a identidade, e cada peça fala da doença pelo nome — sem categoria, não há imprecisão a corrigir. Pra agrupar, usar descrição operacional ("as doenças que têm tratamento na CIIL"). Regra em [PADROES](PADROES.md). As 4 peças-ponte já publicadas ficam como estão.
+- 🟡 **Crohn, Retocolite e Asma não têm a especialidade correspondente na casa** (gastro e pneumo/alergo estão fora das 3 atendidas). O paciente chega encaminhado de fora? Regra provisória em [PADROES](PADROES.md): não nomear especialista nessas três doenças.
+- 🟡 **Pediatria abre público infantil**, que nunca apareceu em nenhuma peça da conta. Quais doenças da lista a CIIL trata em criança? Vale uma frente de conteúdo própria.
+- 🟡 **Via subcutânea nunca foi contemplada na copy** — toda a produção até 26/08 assumiu infusão/day clinic. Quais das 10 são subcutâneas e quais são infusionais? Não bloqueia (dá pra falar "medicação imunobiológica"), mas destrava um ângulo novo.
+- 🟡 **A lista de especialidades vai crescer** ("em breve iremos atender outras especialidades, aí vamos informando vocês") — combinar com PH uma reconfirmação periódica em vez de esperar o aviso.
+
+## 🔴 Novas (2026-08-25) — peça de depoimentos do Doctoralia
+
+- 🔴 **O RT libera depoimento de paciente em peça?** Publicidade médica tem regra própria sobre isso. — *bloqueia a [peça de 28/08](conteudo/posts/2026-08-28-depoimentos-doctoralia.md) antes mesmo do designer.* ⏱️ **Data definida por PH em 26/08: sexta 28/08.** Precisa do OK do RT **até quinta 27/08 de manhã** pra caber no dia útil do designer.
+- 🔴 **Especialidade e vínculo das quatro médicas avaliadas** (Gabriela Higino de Souza · Clarice Almeida Moreira · Gabriela Gomes Corrêa Masullo · Priscilla Mello Abelha) e **em qual unidade cada uma atende.** — *não trava a peça atual, que não cita nomes, mas trava qualquer versão com crédito e evita repetir o erro de escopo de 21/08.*
+- 🟡 **CRM de cada profissional** — necessário só se os nomes entrarem na arte.
+
 ## ✅ Resolvidas (PH, 2026-06-22)
 
 - ~~Plano contratado~~ → **padrão Lone: 12 posts/mês, 3/semana (Seg/Qua/Sex).**
@@ -19,12 +64,16 @@ Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes
 ## 🔴 Bloqueantes (antes da 1ª estratégia)
 
 1. **Fluxo de validação clínica** — quem é o responsável técnico médico e como/quando ele revisa as peças com afirmação clínica? (definir o passo no fluxo)
-2. **Estratégia de agosto não existe ainda.** O calendário de julho terminou (14 slots fechados + buffers já usados em 29 e 31/07) e não há [estrategia/2026-08.md](estrategia/) — janela de briefing mensal (22-25/07, [playbook §3](../../shared/playbook-lone-midia.md)) passou sem uma nova estratégia fechada. Sinalizado em 2026-07-31 ao PH pedir posts de segunda 03/08: **não produzi peça pra essa data** pra não cair em "postar sem estratégia" (erro listado no playbook). Fechar a estratégia de agosto antes do próximo slot.
+2. ✅ **SETEMBRO FECHADO EM 2026-08-26** ([estrategia/2026-09.md](estrategia/2026-09.md)) — primeira estratégia mensal da conta desde julho. ~~**Estratégia de agosto não existe ainda.**~~ O calendário de julho terminou (14 slots fechados + buffers já usados em 29 e 31/07) e não há [estrategia/2026-08.md](estrategia/) — janela de briefing mensal (22-25/07, [playbook §3](../../shared/playbook-lone-midia.md)) passou sem uma nova estratégia fechada. Sinalizado em 2026-07-31 ao PH pedir posts de segunda 03/08: **não produzi peça pra essa data** pra não cair em "postar sem estratégia" (erro listado no playbook). Fechar a estratégia de agosto antes do próximo slot.
 3. **Compliance** — confirmar regras pra depoimentos de paciente e uso de imagem de equipe/paciente (autorização/release).
 4. **Acessos das contas** — handoff da @vivamidia: login dos 2 IG + 2 Facebook + Docplanner/site.
-5. **Escopo de tratamento por doença (gate da série "Isso Tem Nome")** — pra cada doença autoimune que a CIIL diz tratar (Psoríase, Artrite Reumatoide, Crohn, Espondilite Anquilosante, Dermatite Atópica, Artrite Psoriática): (a) a CIIL **faz a infusão do imunobiológico** pra ela? (b) qual **especialidade** avalia/encaminha (dermato, reumato, gastro-DII, alergista-imuno)? **Não precisa confirmar por unidade** (PH, 2026-08-11) — o conteúdo fica genérico ("a CIIL realiza"), sem citar Araruama/São Gonçalo. A peça de AR nomeia reumatologista; a de Crohn ficou sem nomear porque falta confirmar **gastro-DII**. Bloqueia a publicação das 4 peças da série (cada arquivo abre com o aviso de gate de escopo).
+5. ✅ **ENCERRADO EM 2026-08-26** (ver topo do arquivo). ~~**Escopo de tratamento por doença (gate da série "Isso Tem Nome")**~~ — pra cada doença autoimune que a CIIL diz tratar (Psoríase, Artrite Reumatoide, Crohn, Espondilite Anquilosante, Dermatite Atópica, Artrite Psoriática): (a) a CIIL **faz a infusão do imunobiológico** pra ela? (b) qual **especialidade** avalia/encaminha (dermato, reumato, gastro-DII — ⚠️ **não pode ser alergista-imunologista: a CIIL não tem esse profissional**, correção do cliente 2026-08-21, ver #6 abaixo)? **Não precisa confirmar por unidade** (PH, 2026-08-11) — o conteúdo fica genérico ("a CIIL realiza"), sem citar Araruama/São Gonçalo. A peça de AR nomeia reumatologista; a de Crohn ficou sem nomear porque falta confirmar **gastro-DII**. Bloqueia a publicação das 4 peças da série (cada arquivo abre com o aviso de gate de escopo).
    - **Status 2026-07-06:** PH informou que o **RT ainda não confirmou** o escopo (nem pra AR). Efeito prático: a série seguiu travada — a AR de 06/07 foi retida e o slot de segunda recebeu o post de Julho Amarelo/Hep B (sem gate). **Encaminhamento sugerido a PH:** rodar a confirmação **por doença** de uma vez com o RT (faz infusão? qual especialidade?) pra destravar a série inteira, em vez de peça a peça.
    - **Status 2026-07-13:** ✅ **RT liberou a Dermatite Atópica** — confirmou que a CIIL **conduz a infusão pra dermatite atópica nas 2 unidades** (PH). A peça de Dermatite ([../conteudo/posts/2026-07-13-isso-tem-nome-dermatite-atopica.md](conteudo/posts/2026-07-13-isso-tem-nome-dermatite-atopica.md)) está **destravada e vai pro ar no slot de 13/07**, pendente só do **OK final de claims do RT** (nomenclatura, corte "casos mais intensos", etc. — lista no próprio arquivo). **As demais peças (Psoríase, Artrite Reumatoide, Crohn) seguem gated** até confirmação individual — o gate é **por doença**. Continua valendo rodar a confirmação das restantes de uma vez com o RT pra destravar a série inteira.
+
+6b. ✅ **RESOLVIDA EM 2026-08-26** (ver topo). ~~**Lista fechada de quais doenças autoimunes a CIIL trata**~~ (aberta em 2026-08-24) — PH confirmou que a CIIL **não trata todas**. Isso virou regra de copy ([PADROES](PADROES.md)): peça genérica sobre doença autoimune fecha convidando a pessoa a confirmar o próprio diagnóstico. Só que **quem atende o direct precisa ter essa lista na mão** — é a mesma confirmação por doença já pedida no item #5, agora com urgência operacional, não só editorial.
+
+6. 🔴 **Quem avalia/encaminha o paciente antes da infusão?** (aberta em 2026-08-21) — o cliente confirmou que a **CIIL não tem imunologista nem alergista atendendo na clínica** ([referencias/2026-08-21-feedback-cliente-nao-tem-imunologista-alergista.md](referencias/2026-08-21-feedback-cliente-nao-tem-imunologista-alergista.md)). Isso derrubou o claim de "consultas em imunologia e alergia" que constava no context.md desde 22/06 (herdado do briefing Cowork AI, nunca validado). Fica em aberto: o paciente chega já com indicação de outro médico? Há algum profissional que avalia na casa? A resposta é necessária pra qualquer peça futura que mencione consulta, avaliação ou encaminhamento — e também informa o item #5 acima (a coluna "qual especialidade avalia/encaminha" do gate por doença).
 
 ## 🛠️ Correções urgentes nos perfis (achados da análise 22/06 — antes de publicar)
 
@@ -43,10 +92,10 @@ Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes
 
 ## 🔴 Novo (2026-08-10) — Série "Isso Tem Nome" sem material de reserva pra segunda 17/08
 
-16. **Estoque de peças-ponte zerado.** As 3 pontes que sustentavam o slot de segunda sem depender do gate por doença (doença autoimune 29/07, imunobiológico 03/08, "o que fazer se suspeitar" 10/08) já foram todas usadas. A partir da segunda 17/08, o slot educativo de segunda só tem peça de série disponível se: (a) o RT liberar Espondilite Anquilosante ou Artrite Psoriática (gated desde 13/07, sem confirmação nova — ver pendência #5 acima), ou (b) surgir uma ideia de ponte genuinamente nova. **Ação sugerida:** rodar com PH/RT a confirmação de escopo das 2 doenças pendentes antes de 17/08 pra não repetir o padrão de "resgatar asset parkeado" toda semana.
+16. ✅ **DEIXOU DE SER PROBLEMA EM 2026-08-26** — 10 doenças liberadas = 10 segundas de série. ~~**Estoque de peças-ponte zerado.**~~ As 3 pontes que sustentavam o slot de segunda sem depender do gate por doença (doença autoimune 29/07, imunobiológico 03/08, "o que fazer se suspeitar" 10/08) já foram todas usadas. A partir da segunda 17/08, o slot educativo de segunda só tem peça de série disponível se: (a) o RT liberar Espondilite Anquilosante ou Artrite Psoriática (gated desde 13/07, sem confirmação nova — ver pendência #5 acima), ou (b) surgir uma ideia de ponte genuinamente nova. **Ação sugerida:** rodar com PH/RT a confirmação de escopo das 2 doenças pendentes antes de 17/08 pra não repetir o padrão de "resgatar asset parkeado" toda semana.
    - **Atualização 2026-08-11:** cliente confirmou que o foco do negócio é justamente tratamento de doenças ([referência](referencias/2026-08-11-foco-tratamento-doencas.md)) — essa é agora a pendência mais urgente da conta. PH também simplificou o gate: não precisa mais confirmar por unidade, só o fato clínico (a CIIL faz o tratamento? qual especialidade?) — ver acima em "Resolvidas". Vale cobrar o RT essa semana, antes de 17/08.
 17. **Agenda de gravação do roteiro institucional de 12/08** — [conteudo/roteiros/2026-08-12-institucional-anos-sem-resposta.md](conteudo/roteiros/2026-08-12-institucional-anos-sem-resposta.md) está pronto pra fila de produção, mas não há confirmação de quando a filmagem acontece. Confirmar com PH/produção antes de quarta 12/08.
-18. **Lista de convênios pode estar desatualizada** — a peça de sexta 14/08 ([conteudo/posts/2026-08-14-convenios-aceitos.md](conteudo/posts/2026-08-14-convenios-aceitos.md)) usa a lista do briefing original (Cowork AI, maio/2026). Convênio médico muda com frequência; nunca foi reconfirmada com o cliente. Confirmar antes de publicar.
+18. ~~Lista de convênios pode estar desatualizada~~ → ✅ **Resolvido 2026-09-17.** Cliente (CIIL São Gonçalo) confirmou lista atualizada (entram Health Med e OMINT Saúde) e estabeleceu regra permanente de sempre postar "*Consulte condições" — ver [PADROES.md](PADROES.md) e [referencias/2026-09-17](referencias/2026-09-17-cliente-confirma-convenios-e-regra-consulte-condicoes.md). **Nova pendência aberta a partir disso:** Care Plus e os reembolsos (Amil, SulAmérica, Porto Seguro) da lista antiga não apareceram na confirmação nova — perguntar a PH/cliente se ainda valem antes da próxima peça de convênios.
 
 ## 🟡 Importantes (pra qualidade da estratégia)
 

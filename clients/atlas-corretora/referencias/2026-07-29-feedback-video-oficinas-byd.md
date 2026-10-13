@@ -28,3 +28,14 @@ Isso é **afirmação de cobertura** — precisa passar pelo corretor antes de v
 ## Próximo passo
 
 Registrado como pauta em aberto — ainda sem slot no calendário de agosto (fechado com 12 peças + buffer). Candidato natural pro buffer de 31/08 ou pauta de setembro, depois que o corretor confirmar os pontos acima.
+
+---
+
+## Respostas de PH (2026-08-20)
+
+- **Uso do nome "BYD":** liberado — a Atlas é (nas palavras de PH) "meio que parceira" da BYD. Não é uma confirmação formal por escrito, mas dá pra citar o nome na peça.
+- **Escopo por apólice/seguradora (é benefício de toda apólice ou só de algumas?):** PH decidiu que **isso não precisa ser resolvido pra Lone escrever a peça** — "não é da nossa conta". Na prática, isso é exatamente o papel da assinatura verbal padrão da conta, **"condições variam por apólice — chama que eu confiro a sua"** ([PADROES §2](../PADROES.md)): a peça não afirma escopo nenhum, só convida pra conversa, e o corretor especifica caso a caso no direct. Não é uma exceção ao gate técnico — é o gate técnico funcionando como desenhado.
+- **Filmagem no local:** confirmada — "da pra gravar na oficina da BYD".
+- **Outras marcas além de BYD:** não confirmado nesta resposta — peça fica restrita a BYD até surgir confirmação de outra marca.
+
+**Segue precisando (antes de gravar, não antes de roteirizar):** validação técnica do corretor no roteiro (mesmo gate de sempre, [PADROES §2](../PADROES.md)) e combinar acesso/data com a concessionária BYD — isso é logística extra que os outros Reels (gravados em "ambiente neutro") não têm.

@@ -4,6 +4,213 @@ Log datado do trabalho feito pro Bazar Ribeiro. Topo = mais recente. Entrada por
 
 ---
 
+## 2026-10-13 — Post de sexta 16/10: "Quando foi que você trocou o regulador do gás? / Se não lembra, o prazo de validade está gravado nele."
+
+[Peça](conteudo/posts/2026-10-16-regulador-de-gas-data-gravada.md): estático no **layout diversificado (modelo WD-40)**, slot diversificado da semana ([PADROES §8](PADROES.md)). Perfil **Saquarema**; Maricá só se Junior confirmar preço e estoque lá.
+
+**Ângulo:** mecanismo **pergunta + giro**. Ninguém sabe a idade do regulador de casa; a peça responde que, mesmo sem lembrar, dá pra conferir: o "válido até" vem gravado no corpo da peça. Validador-copy rodado: headline linha 2 corrigida, "a gente separa" e "quase todo mundo" cortados. Dor → tempo → preço: kit regulador de gás Vinigas **a partir de R$ 29,90**. CTA: olhar a data e, se venceu, chamar no WhatsApp de Saquarema.
+
+**Por que agora:** sexta é venda e é o único produto com preço em arte recente da loja (arte de Saquarema de 24/08 em ~/Downloads). Categoria nova na conta e sem colisão na carteira (nenhuma peça de gás em outro cliente).
+
+**Descartado:** caixa d'água Fortlev 1000L (R$ 449,90, arte de Maricá de 24/08): ticket alto e argumento de verão/falta d'água que exigiria afirmar fato que não temos. Dia Mundial da Alimentação (16/10): não usado, ficaria forçado.
+
+**Travas:** preço de 24/08 a reconfirmar; versão de Maricá depende de Junior; nada de prazo em anos, instalação, entrega ou tom de perigo. O processo "três produtos com preço toda segunda" segue sem rodar.
+
+---
+
+## 2026-10-07 — Saudação de Dia das Crianças (segunda 12/10)
+
+PH pediu as artes comemorativas de 12/10 para toda a carteira. [Peça do Bazar](conteudo/posts/2026-10-12-dia-das-criancas-lista-pode-esperar.md): estático, **os dois perfis**, mesma arte.
+
+**Mecanismo (g) feriadão como contexto.** Headline: *"Último dia de feriadão e a lista de consertos da casa segue do mesmo tamanho. / Hoje ela pode esperar. Quem chamou pra brincar, não. (v2 pós-validação)"* Saudação: *"Feliz Dia das Crianças, Maricá e Saquarema."* Fala do "faço eu mesmo" no último dia de um fim de semana de três dias e dá uma licença, na voz de dono de bairro que não empurra venda.
+
+**É saudação, sem mecânica e sem oferta**: Junior confirmou Dia das Crianças + Halloween em 03/09, mas não definiu nenhuma mecânica. Rodapé com os dois números por cidade ([PADROES §1](PADROES.md)); sem Cartão Mumbuca; sem preço, produto nem brinde.
+
+**Decisões e checagens:**
+- Não afirmei nem insinuei funcionamento no feriado (horário segue pendente): escrevi "pode esperar" em vez de "fica pra terça", que diria por tabela que a loja está fechada. Regra registrada no [PADROES §9](PADROES.md).
+- Não repete ângulo da peça de 05/10 (regra por frequência) nem a forma "não é X, é Y" (31/08, 14/09); a lista de serviço aparece **sem nomear item** porque chuveiro, torneira e prateleira já foram protagonistas.
+- Teste do nome da loja passa só em parte (a cena é do "faço eu mesmo" local, mas outro varejo de ferragens poderia dizê-la); registrado na própria peça.
+- Encaixe: ocupa o feed de segunda 12/10; não gasta o slot diversificado da semana. Enviar ao cliente (Junior, via Carlos Augusto) até quinta 08/10 às 15h.
+- A nota de "divergência aberta do número de Saquarema" das peças de 21/09–05/10 está defasada frente ao OPEN-QUESTIONS de 01/09 (2); usei (22) 98831-6090.
+
+Nova pendência: [OQ #16](OPEN-QUESTIONS.md) (horário do feriado de 12/10 e mecânica de Dia das Crianças).
+
+---
+
+## 2026-10-02 — Post de segunda 05/10: "Faz três fins de semana que você espera a furadeira do seu cunhado"
+
+Peça de abertura de outubro escrita no lote de segunda 05/10. [Post](conteudo/posts/2026-10-05-ferramenta-que-voce-pede-emprestada.md).
+
+**Categoria: ferramentas e ferragens** — a linha que é da casa desde 1989 e que, na carteira, não divide território com nenhum dos outros clientes de material de construção.
+
+**Mecanismo novo pra conta: regra de decisão por frequência.** Em vez de diagnosticar falha ou montar kit por tarefa, a peça entrega um critério que a pessoa aplica sozinha — o que entra em serviço de casa todo mês devia ser dela; o que só aparece em obra grande pode continuar vindo emprestado. O gancho é a cena da ferramenta do cunhado que nunca chega. A loja dizendo o que **não** vale comprar é o que sustenta a credibilidade do resto, e casa com a voz registrada no [context.md](context.md) ("resolve o problema sem forçar venda").
+
+**Descartado por repetição — checagem feita antes de escrever:**
+- 🏊 **Piscina** era a primeira escolha (território do cliente, janela pré-verão, feriadão de 12/10 como prazo real). **Cortada:** WT Shopping publicou piscina em **02/10**, com mecanismo quase idêntico ao que eu tinha montado (água parada não fica pronta no mesmo dia, tempo de maturação). Três dias de diferença, mesma agência.
+- 🔩 **Ferragem + maresia / escolha de material** era a segunda. **Cortada:** colide com Lagos Padrão (01/09, "o mar come o padrão de entrada", vende por material) e Bruno das Tintas (13/08, "aqui a maresia come a tinta"). Seria o terceiro uso do mesmo gatilho regional em dois meses.
+- 💧 **Hidráulica / sinais de vazamento:** Império tem peça de vazamento escondido no **mesmo dia 05/10** — e o mecanismo "sinais de que vai falhar" já saiu nesta conta em 10/08 (chuveiro).
+- 🎨 **Tinta e acabamento:** fora por isolamento (3 lojas de tinta concorrentes na carteira) e porque foi a própria linha de 28/09.
+- 🚪 **Dobradiça como protagonista:** MR Distribuidora usou em 21/09.
+- 🧱 **"Lista de compras antes da obra":** já usado em outra conta — a peça fica no critério de frequência, não em lista de itens.
+- Estrutura **"não é X, é Y"** descartada também: a conta já usou essa forma duas vezes (31/08 torneira, 14/09 ferramenta forçando). E o CTA saiu de "passa na loja e monta o kit de..." (21/09 e 28/09) pra "começa pela que você mais pede emprestada".
+
+**Sem preço, sem marca, sem estoque.** O processo combinado em 03/09 (dono manda três produtos com preço toda segunda) **segue sem rodar nenhuma vez** — quinta peça consecutiva desta conta travada nisso. Brief carrega a checagem obrigatória de DDD (21 = Maricá · 22 = Saquarema) e a ordem de não imprimir telefone antes de PH confirmar o número de Saquarema.
+
+**Roda nos dois perfis sem adaptação** — não depende de diferencial de cidade, não usa Cartão Mumbuca.
+
+🔴 **Travas de outubro levantadas na peça:** não existe `estrategia/2026-10.md`; Dia das Crianças e Halloween foram confirmados como as datas do mês na reunião de 03/09, mas **nenhuma mecânica foi definida por Junior** (mesmo padrão que travou o Dia do Cliente em setembro); e **12/10 cai numa segunda e é feriado nacional** (Nossa Senhora Aparecida) — fim de semana de três dias que precisa de mecânica e do horário das lojas, o mesmo horário que bloqueou o post do feriado de 08/09. Esta peça foi escrita de propósito **sem tocar em Dia das Crianças**, pra deixar o slot de 12/10 livre.
+
+---
+
+## 2026-09-25 — Post de segunda 28/09: "Você trocou o sofá, a TV, até o carro. A parede não."
+
+Escrito antecipadamente no lote de segunda 28/09. [Peça](conteudo/posts/2026-09-28-parede-que-ninguem-troca.md).
+
+**Mecanismo:** contraste (casa que renova móvel/eletrônico/carro, mas nunca a parede) em vez de gancho de data — não há data comemorativa de tinta pra ancorar a semana, diferente de 21/09 (início da primavera).
+
+**Categoria escolhida: tintas e acabamento.** Segue o esqueleto de setembro montado em 03/09 ([estrategia/2026-09-pauta-reuniao.md](estrategia/2026-09-pauta-reuniao.md)): elétrica (07-11) → ferramentas e eletroportáteis (14-18) → jardim (21-25) → tintas e acabamento (28-30). É categoria nova, ainda sem semana própria até aqui — não repete hidráulica, ferramenta nem jardim.
+
+**Sem preço.** O processo "três produtos com preço toda segunda" que o dono se comprometeu a mandar em 03/09 ainda não rodou — mesma limitação já registrada nos posts anteriores de venda/educativo. Peça segue educativa, sem produto/marca/preço nomeado, com checagem de DDD (21 = Maricá, 22 = Saquarema) nas observações pro designer.
+
+---
+
+## 2026-09-18 — Post de segunda 21/09: "A primavera começa hoje. Seu quintal ainda não ficou sabendo."
+
+Escrito antecipadamente no lote de segunda 21/09 que PH pediu pras contas com produção semanal (11 clientes + WT Shopping). [Peça](conteudo/posts/2026-09-21-primavera-jardim.md).
+
+Abre **jardim** como linha temática da semana — primeira vez que a categoria tem semana própria (as últimas foram hidráulica e ferramenta). Brief carrega a checagem obrigatória de DDD (21 = Maricá, 22 = Saquarema) e a pendência de qual número de Saquarema entra em arte.
+
+---
+
+## 2026-09-14 — Post de segunda escrito, sem depender do Dia do Cliente
+
+Post do dia escrito: [2026-09-14-ferramenta-forcando-nao-e-ferramenta-ruim.md](conteudo/posts/2026-09-14-ferramenta-forcando-nao-e-ferramenta-ruim.md) — educativo, abre a semana de Ferramentas e eletroportáteis (14-18/09), sem preço, roda nos dois perfis.
+
+**Por que não usei a peça já escrita pra 14/09.** [2026-09-14-fregues-desde-quando.md](conteudo/posts/2026-09-14-fregues-desde-quando.md) segue com a marcação "NÃO PUBLICAR ainda" desde 08/09 — a mecânica do Dia do Cliente (15/09) não foi confirmada por Junior Ribeiro e a OPEN-QUESTIONS não registra retorno dele até hoje. Em vez de publicar a peça de abertura de uma campanha sem aval, ou inventar mecânica pra preencher o slot, escrevi um tema educativo independente (cuidado com ferramenta elétrica — motor esquentando, broca/bit gasto, bateria no fim de vida), que não menciona Dia do Cliente e não compete com "freguês desde quando" quando ela for liberada.
+
+**Segue bloqueado:** a mecânica do Dia do Cliente continua sem confirmação. Se Junior aprovar ainda hoje ou amanhã cedo, "freguês desde quando" pode ser recuperada pra publicação em cima da hora — ela já está escrita e só precisa do sinal verde.
+
+---
+
+## 2026-09-08 (3) — Primeira peça no layout diversificado (modelo WD-40)
+
+PH pediu uma arte de venda com layout/estrutura diferente, "como no que tivemos na reunião" — o pedido central de Junior Ribeiro em 03/09 ([PADROES §8](PADROES.md)): imagem realista + texto ao lado, apelo pela dor antes do produto, menos cara de encarte.
+
+**Peça escrita:** [2026-09-16-prateleira-parada-furadeira.md](conteudo/posts/2026-09-16-prateleira-parada-furadeira.md) — dor: prateleira comprada e nunca instalada. Produto: Furadeira Tramontina 500W Impacto, "garanta por apenas R$ 199,90". CTA de balcão (foto da parede no WhatsApp) segue só pro complemento (broca/bucha). Roda nos dois perfis, data sugerida pra semana de Ferramentas (14-18/09), ajustável por PH.
+
+**Serve de referência** pras próximas peças desse formato — é a primeira aplicação real da regra "1 diversificado + 2 encarte" por semana.
+
+⚠️ **Atualização mesma tarde:** PH pediu pra incluir preço ("por apenas tal" / "garanta por apenas tal") — as duas peças anteriores sem número (31/08, 11/09) ficaram só no problema porque a tabela de preço não tinha item confirmado pra setembro. Pra esta, usei o único preço 100% confirmado que existe pra furadeira nesta conta — R$ 199,90, validado por PH em 03/08 pra Dia dos Pais — mas é da tabela de 31/07 e **precisa reconfirmação antes de publicar**, já que ao menos um item dessa mesma tabela mudou de preço no meio do caminho (lava jato Guepar). Reforça a urgência do processo "três produtos com preço toda segunda" combinado em 03/09 e que ainda não rodou — sem ele, toda peça de venda com número vai depender de preço requentado.
+
+---
+
+## 2026-09-08 (2) — Resultado da reunião de 03/09 + peça de homenagem à Padroeira de Saquarema
+
+PH mandou o PDF com o resumo da reunião de alinhamento que **Carlos Augusto (Lone Mídia) conduziu com Junior Ribeiro** em 03/09 — descoberta importante: esta conta tem equipe própria da Lone (Carlos, Roberto, Lucas) além de PH. Registro completo em [reuniao-mensal/resumos/2026-09-03-resumo-reuniao-lone-x-bazar.md](reuniao-mensal/resumos/2026-09-03-resumo-reuniao-lone-x-bazar.md).
+
+**O que mudou de verdade:**
+- **Novo formato semanal validado:** 1 peça de layout diversificado (referência WD-40 — texto ao lado, imagem realista, apelo pela dor do cliente) + 2 encartes tradicionais. Registrado no [PADROES §8](PADROES.md).
+- **Correção de histórico:** motion flyer **já foi usado** nesta conta e Junior avaliou bem — a leitura anterior ("nunca foi usado", da análise de conteúdo de venda de 03/09) estava errada. Corrigida em três lugares ([PADROES](PADROES.md), [estrategia/2026-09-conteudo-de-venda.md](estrategia/2026-09-conteudo-de-venda.md), [conteudo/posts/2026-09-11](conteudo/posts/2026-09-11-tudo-pra-trocar-o-chuveiro.md)).
+- **Refinamento em vídeo:** Junior gravar takes de ambiente sem fala em Maricá é viável — não é mais "loja não grava" categórico, só cena roteirizada segue exigindo a Lone em campo. [context.md](context.md) e [PADROES §7](PADROES.md) atualizados.
+- **Quem aprova, resolvido:** Junior Ribeiro. Fecha [OPEN-QUESTIONS #11](OPEN-QUESTIONS.md).
+- 🔴 **Dia do Cliente segue sem mecânica definida.** As "seis mecânicas" e a [peça de 14/09](conteudo/posts/2026-09-14-fregues-desde-quando.md) que a Lone escreveu em 03/09 eram proposta pra apresentar na reunião — a reunião mostra que **nada foi aprovado**. Marquei "não publicar" nos dois documentos até Junior confirmar.
+- Seguidores atualizados (números de memória do Junior, não Insights): Maricá ≈2.500, Saquarema ≈1.200-1.300.
+
+**Peça produzida agora:** [homenagem ao Dia da Padroeira de Saquarema](conteudo/posts/2026-09-08-dia-da-padroeira-saquarema.md), aprovada na própria reunião como item de ação da Lone. Roda só no perfil de Saquarema (feriado municipal, não nacional). **O post de aviso de horário reduzido segue bloqueado** — falta o horário exato de fechamento, que Junior ainda não confirmou.
+
+---
+
+## 2026-09-08 — Peça de sexta 11/09 escrita (primeiro kit por tarefa da conta)
+
+PH pediu os posts do dia 11 pra carteira toda. [Post escrito](conteudo/posts/2026-09-11-tudo-pra-trocar-o-chuveiro.md) — "tudo pra trocar o chuveiro", fecha a semana de Elétrica (07-11/09) da [pauta de setembro](estrategia/2026-09-pauta-reuniao.md).
+
+**Primeira aplicação real do kit por tarefa** que a [análise de conteúdo de venda](estrategia/2026-09-conteudo-de-venda.md) recomendou: chuveiro + disjuntor na amperagem certa + fio/fita, headline no problema (chuveiro queimou com o frio) em vez do produto, CTA de foto no WhatsApp em vez de "chama que a gente vende".
+
+**Sem preço.** O processo pedido em 03/09 — dono manda três produtos com preço toda segunda — ainda não rodou nenhuma vez. Sem isso, a peça de venda de 18/09 (semana de ferramentas/Dia do Cliente) trava do mesmo jeito. Vale PH cobrar antes da próxima segunda.
+
+---
+
+## 2026-09-03 (3) — Como o conteúdo de venda pode render mais
+
+PH perguntou como o Bazar pode vender mais pelo Instagram, em conteúdo de venda. [Plano escrito](estrategia/2026-09-conteudo-de-venda.md).
+
+**O paradoxo que abre a análise:** o feed já é 100% conteúdo de venda e vende menos do que deveria. O problema nunca foi falta de post de oferta — é que o cartaz de oferta só funciona com quem já decidiu comprar aquele item naquela semana, e isso é uma fatia mínima de 2.271 seguidores.
+
+**A chave do nicho:** demanda de material de construção é latente e disparada por evento. Ninguém acorda querendo comprar reparo de torneira; compra porque quebrou, vazou, queimou ou vai receber visita. Oferta pura não ativa demanda latente — headline que nomeia o evento ativa. Mesmo produto, mesmo preço, mesma arte, alcance completamente diferente.
+
+**Maior ganho de ticket disponível — kit por tarefa.** Ticket começa em R$ 1,93 e vender item avulso pelo feed não paga nem o deslocamento até a loja. Quem vai trocar um chuveiro não sabe que precisa de disjuntor e fita junto. A loja que entrega a lista ganha a compra inteira, e o post vira útil em vez de cartaz — salva e compartilha, que é o que o algoritmo distribui.
+
+**CTA de barreira baixa:** "chama no WhatsApp" exige decisão pronta. "Tira foto da peça e manda que a gente diz qual serve" usa o conhecimento do balcão, que é o ativo real da loja, e transforma dúvida em conversa.
+
+**Alcance sem gravar:** motion flyer é o formato óbvio pra essa conta e nunca foi usado — ocupa o slot de Reels, alcança fora da base e não depende da loja gravar ([PADROES §7](PADROES.md)).
+
+**Dois buracos que ninguém usa:** o delivery próprio nunca aparece como argumento de venda, e o profissional (25% do público, compra em volume e toda semana) não recebe um único conteúdo. Este segundo depende de o dono dizer se existe condição pra profissional.
+
+**Processo único que a conta precisa:** toda segunda o dono manda três produtos com preço. A tabela vigente é de 31/07 e o conteúdo de venda inteiro depende dela.
+
+---
+
+## 2026-09-03 (2) — Ideias de marketing pro Dia do Cliente (15/09)
+
+PH lembrou que o cliente pediu **ideias de marketing**, não só calendário de post. Montei [seis mecânicas pro Dia do Cliente](estrategia/2026-09-ideias-dia-do-cliente.md) mais a peça de abertura da semana.
+
+**O argumento que sustenta tudo:** o próprio briefing de julho aponta como problema número um o feed ser oferta unilateral. Dia do Cliente é a única data do ano em que falar do freguês soa natural — se virar cartaz de "MEGA OFERTAS", desperdiça a data. Numa rede de 1989, a data é sobre reconhecimento, não desconto.
+
+**As mecânicas foram desenhadas dentro das restrições reais da conta,** não em cima de um mundo ideal: a loja não grava ([PADROES §7](PADROES.md)), sorteio exige regulamento (foi o que matou a ação de agosto) e tudo precisa rodar igual nas duas cidades. Por isso o sorteio ficou explicitamente de fora com justificativa, e a prova social vem por comentário escrito em vez de depoimento filmado.
+
+**Destaque — o vale do freguês:** quem comprar na semana leva vale pra próxima compra, válido até 30/09. Material de construção é compra fracionada, sempre falta um item, e o vale converte esse esquecimento em segunda visita. Zero burocracia jurídica e mede sozinho (conta os vales que voltam) — o primeiro número honesto que essa conta vai ter enquanto não sai o acesso ao Insights.
+
+**A enquete de sexta 11/09** ("o freguês escolhe a promoção") resolve dois problemas de uma vez: dá interação ao feed e produz o primeiro dado real de preferência do público. Se Maricá e Saquarema votarem diferente, cada loja anuncia a sua vencedora — e Saquarema deixa de ser cópia de Maricá.
+
+**Peça escrita:** [2026-09-14-fregues-desde-quando.md](conteudo/posts/2026-09-14-fregues-desde-quando.md) — abre a semana, CTA é comentário e não venda, e os blocos que dependem de aval do dono (café e valor do vale) ficaram marcados como opcionais em vez de eu inventar número.
+
+⚠️ **Correção de contato aplicada.** A peça de [31/08](conteudo/posts/2026-08-31-torneira-pingando-nao-e-a-torneira.md) estava com Saquarema como (21) 3731-0812 — errado pela regra do DDD (21 = Maricá, 22 = Saquarema, [OPEN-QUESTIONS 01/09](OPEN-QUESTIONS.md)). Arquivo corrigido. **Se a arte foi ao ar com o número antigo, precisa reeditar** — cliente de Saquarema ligando pra loja errada.
+
+---
+
+## 2026-09-03 — Pauta da reunião de alinhamento de setembro
+
+PH avisou que hoje tem reunião com o Bazar Ribeiro pra alinhar social media, campanhas e conteúdo de setembro. Montei a [pauta](estrategia/2026-09-pauta-reuniao.md) pra ele conduzir.
+
+**O que a pauta prioriza:** as quatro pendências que estão paradas desde o onboarding de 31/07 (horário de funcionamento, aprovador, volume contratado, e agora se o fixo de Maricá recebe WhatsApp) mais o pedido de acesso ao Insights e de tabela de preços atualizada — a que temos é de 31/07 e já mudou uma vez.
+
+**A pergunta grande da reunião é vídeo.** Em vez de insistir que a loja grave (o que já foi confirmado que não acontece), a proposta é a Lone ir um dia só e captar banco de imagem pro mês inteiro. Isso destrava emocional, prova social e posicionamento de uma vez. Se o dono disser não, setembro fecha 100% estático — está escrito assim na pauta, sem maquiar.
+
+**Esqueleto proposto pra setembro:** 12 slots (bate com a referência padrão da Lone, não com as 28 peças do desenho de agosto), na estrutura segunda/quarta/sexta, com uma categoria por semana — elétrica (07-11), ferramentas e eletroportáteis com Dia do Cliente (14-18), jardim e piscina na entrada da primavera (21-25), tintas e acabamento (28-30). Hidráulica ficou fora de propósito: saiu duas vezes em agosto e abre outubro.
+
+⚠️ **Sexta 04/09 é amanhã e não tem peça** — o prazo de um dia útil com o designer já estourou. Registrado na pauta como decisão de PH: pular o slot ou receber produto e preço ainda hoje.
+
+---
+
+## 2026-09-07 — Peça de feriado da Independência (dois perfis)
+
+[Peça escrita](conteudo/posts/2026-09-07-feriado-independencia.md) a pedido de PH. Estático, mesma arte e mesma legenda nos dois perfis.
+
+**Por que a mesma arte serve nas duas cidades:** é saudação, não oferta — não tem preço, estoque nem mecânica que mude por loja. O que muda é o **contato**, e ele entra no rodapé com os dois números identificados, como manda a [§1](PADROES.md). Já com o de Saquarema corrigido — **(22) 98831-6090**, depois do erro achado em 01/09.
+
+**A decisão que dá alma à peça:** a linha de apoio fala do **cliente**, não da loja. *"Quem constrói o próprio canto sabe bem o que essa palavra significa."* Independência aterrissa em coisa concreta — o cômodo levantado, o telhado que parou de pingar, a casa que é sua. A marca entra só na assinatura ("desde 1989"). Peça de data que fala da empresa vira autoelogio.
+
+**Base visual da casa, sem virar oferta.** Azul-royal, raios amarelos e o mascote continuam ([§3](PADROES.md)) — mas **sem título de "mega OFERTAS", sem selo de tempo limitado, sem preço e sem produto**. Peça de data com cara de promoção soa falsa.
+
+⚠️ **Não afirmei se a loja abre no feriado** — horário de funcionamento segue pendente. A peça não diz que abre nem que fecha. Se PH confirmar, é uma linha no rodapé, e é a informação mais útil que uma loja pode dar num feriado.
+
+---
+
+
+## 2026-08-31 — Primeira peça do pilar educativo
+
+[Torneira que pinga](conteudo/posts/2026-08-31-torneira-pingando-nao-e-a-torneira.md) — estático, roda idêntico nos dois perfis.
+
+**Fecha um buraco antigo:** educativo é o pilar que o briefing herdado não tinha e que estava registrado em OPEN-QUESTIONS desde o onboarding. Depois do Dia dos Pais (encerrado em 09/08), o feed voltou pro modo oferta e o mix ficou torto.
+
+**Escolha deliberada de não usar a moldura de oferta** — sem "MEGA OFERTAS", sem "POR TEMPO LIMITADO". A peça de utilidade dentro do template de promoção vira promoção aos olhos de quem passa.
+
+**Roda nos dois perfis sem adaptação** porque não depende de diferencial de cidade (nada de Cartão Mumbuca), então Saquarema não fica órfã. Sem vídeo, por [PADROES §7](PADROES.md) — não há crew da Lone agendada e a loja não capta sozinha.
+
+⚠️ Setembro ainda sem estratégia fechada.
+
+---
+
 ## 2026-08-10 — Semana pós-campanha (10-14/08): post de segunda pronto, esboços de quarta e sexta
 
 Campanha de Dia dos Pais encerrou em 09/08 ("Obrigado, pai") e não havia nada planejado pra 10-14/08. Montei a semana leve do zero, dentro da estrutura oficial da Lone (segunda leve, quarta vídeo, sexta carrossel/venda), priorizando fechar os dois pilares que o mês inteiro deixou fracos: **educativo** (ausente até aqui) e **posicionamento** ("desde 1989" fora do gancho de Dia dos Pais). Plano completo registrado em [estrategia/2026-08.md §7](estrategia/2026-08.md).

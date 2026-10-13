@@ -1,0 +1,83 @@
+# Pendências — Celmapel Festas
+
+Legenda: 🔴 bloqueante · 🟡 importante (não trava tudo) · 🟢 calibração.
+Log completo. O que vale ocupar a reunião está curado em [reuniao-mensal/PAUTA.md](reuniao-mensal/PAUTA.md). Resposta vira registro em [context.md](context.md), [BRIEFING.md](BRIEFING.md) ou [PADROES.md](PADROES.md).
+
+---
+
+## 🔴 Dados básicos (travam bio, destaques e qualquer CTA)
+
+> **Atualizado em 07/10:** a maior parte foi **achada em fonte pública** (Google Maps, cadastro da loja virtual, Receita) — ver [análise de presença pública](referencias/2026-10-07-analise-perfil-instagram-e-presenca-publica.md). **Achado não é confirmado:** nada vai pro ar sem o OK do Max. Guia de empresa (Apontador, GuiaFácil, Solutudo) **não é fonte** (misturam três "Celmapel").
+
+1. ~~**@ do Instagram.**~~ ✅ **@celmapelfestas** (07/10).
+2. **Endereço e horário** — 🟡 *achados, confirmar:* Rua Iza Domingues Eurico, 162, Centro, Araruama (CEP 28979-162) · seg–sex 9h–18h30, sáb 9h–17h, dom fechado. **Ainda falta:** entrega (#33), ponto de referência e estacionamento (#34) e **horário de feriado** (#35).
+3. **WhatsApp de vendas** — 🟡 *achado, confirmar:* (22) 2665-3444 (Google, site, Receita e Linktree batem) e +55 22 99776-8832 (só "Personalização"). Outros dois celulares circulam e parecem velhos. **Falta:** existe número ou atendente separado pra atacado/revenda? (#29)
+4. **Catálogo e Maps** — 🟡 *achados:* a loja virtual **celmapelfestas.com.br** (cadastro de 26/05/2026, pedido fecha por WhatsApp) e o Google Maps da loja. Confirmar se o site é o catálogo que o Max falou na reunião.
+5. **Identidade visual:** logo em arquivo, cores e fonte. Trava as capas dos destaques e as três artes dos fixados.
+6. **Perfil atual** — 🟡 *lido por robô em 07/10* (nome, bio, 10 destaques, mix dos 12 últimos posts). **Falta o print de PH:** fixados reais e o conteúdo dos destaques.
+
+## 🔴 Perfil — decisões do Max
+
+7. **OK na bio.** A [v3](conteudo/posts/2026-10-07-perfil-bio-destaques-fixados-v3.md) recomenda a bio **sem** o slogan estendido (variante B tem). Max prefere manter "Aqui sua festa acontece. E o seu negócio também."?
+8. **Troca dos fixados atuais por três carrosséis.** Um dos atuais é com o filho do Max (citado na reunião). **Desafixar não apaga o vídeo.**
+8a. ~~**Pode usar a palavra "atacarejo"?**~~ O **Max usa a palavra** na reunião ("uma loja de varejo e atacado também", "pegada de Atacarejo"). **O que segue em aberto não é a palavra: é a promessa de preço menor pra quem compra mais (#15) e a Celmapel Atacarejo (#29).** A v3 usa "Atacado" + a regra confirmada, não "atacarejo".
+8b. **"A gente monta" vale só pra cesta, ou também pra mesa e lembrancinha?** A v3 fala só de cesta, o único exemplo que o Max deu.
+8c. **Formas de pagamento da loja em geral:** o site mostra **Pix, débito, crédito e dinheiro**. ⚠️ Na reunião o Max falou *"cartão de débito, cartão de crédito, no Pix se for uma condição bacana"*: **o Pix tem condição?** (A bio da v3 diz "Pix/cartão".) Confirmar.
+8d. **Fluxo de WhatsApp pra comércio:** quem atende, e se dá pra mandar lista e receber cotação. Até confirmar, a peça só diz "chama no WhatsApp e fala que é pro seu comércio".
+
+## 🔴 Descobertas de 07/10 (pesquisa de presença pública e benchmark)
+
+29. **Existe a "Celmapel Atacarejo"** (Rua Pedro Luiz Souza, 140, Centro; Instagram, Facebook e Linktree próprios; Google 4,7★). **Qual a relação com a Celmapel Festas** (mesmo dono? outra empresa?), **onde o comprador PJ compra** e se o perfil da Festas pode usar "Atacado" no nome e na bio? **Trava** o rótulo "Atacado", o destaque ATACADO, o destino do link "Compro pro meu comércio" e o endereço do fixado 3. A relação é **inferência** (mesmo nome, rua vizinha, avaliação que diz que a equipe de lá indica "a loja de festa").
+30. **Personalização:** o link da bio tem botão "Personalização" (WhatsApp +55 22 99776-8832) e o perfil tem destaque "TEMAS" (foto antiga fala em "mais de 130 temas"). **Ainda vale?** Balão personalizado entra na copy?
+31. **Festival de Fatias** (sábados 12, 19 e 26/09, em frente à loja, com confeiteiras locais) e aula com chef (01/10): **continua?** Vira destaque, série ou lista de transmissão de confeiteiras?
+32. **WhatsApp: quem atende e em que horário?** O Google mostra "atendimento on-line" 10h–16h30 (a loja abre 9h–18h30) e a avaliação mais recente lida (1★, jan/2026) reclama de resposta lenta. **Saudação e ausência** com horário real.
+33. **Entrega e retirada:** o site diz que ambas estão ativas, e o Google mostra entrega só seg–sex 9h–17h. **Área, prazo e valor?** "Retirada em até 3h" (site) vale como promessa pública?
+34. **Ponto de referência e estacionamento.** O Google marca estacionamento acessível; ninguém falou de ponto de referência.
+35. **Horário de feriado.** O Google avisa que o feriado de 12/10 "pode afetar o horário" mas mostra o horário normal; nenhuma fonte traz regra de feriado. Qual a regra da loja (12/10, Finados, Natal, Ano Novo)? Avisar por story, nunca no fixado. **Nota de 07/10:** a [peça de Dia das Crianças](conteudo/posts/2026-10-12-dia-das-criancas-bolo-no-guardanapo.md) não afirma horário; vão perguntar "abre hoje?" nos comentários, então a resposta pronta (e o story de aviso, se a loja abrir) precisa da regra do Max **até sex 09/10**.
+36. **O Max sabe** da **Vivian em São Pedro da Aldeia** (Loja VIII, vizinha de Araruama) e do **Armazém das Festas Araruama** (69,9 mil seguidores, "a maior loja de festas da Região dos Lagos")? Na reunião ele chamou a Vivian de "uma das pioneiras no Rio".
+37. **"Novidade toda semana" vale pra loja toda?** O Max disse que "todo dia tem um novo lançamento" **no setor de confeitaria** e que traz novidade de fora. A bio da v3 e o destaque NOVIDADES assumem uma cadência semanal: é compromisso que ele precisa sustentar. Se não, a frase fica restrita à confeitaria.
+
+
+## 🟡 2026-10-13 — Post de sexta 16/10 (Halloween, calendário de quem vende doce)
+
+[Peça](conteudo/posts/2026-10-16-halloween-calendario-de-quem-vende-doce.md).
+
+39. 🟡 **Foto da loja pro carrossel de 16/10:** corredor ou prateleira de confeitaria e embalagem (caixinha de doce, forminha, chocolate), celular na vertical, sem rosto e sem rótulo de marca em destaque. Resposta até **qua 14/10, 12h**. Sem ela, vai foto de banco real (nunca IA). Se o Max mandar junto produto + preço + validade de algum insumo de Halloween (#10), o slide 4 ganha uma linha de preço.
+
+---
+
+## 🔴 Outubro (campanha do Mês do Aniversário)
+
+9. **Mecânicas fechadas:** qual entra (desconto direto, acima de X ganhe Y, amigos da boa ação, aniversariante do mês, estourou o balão, gamificação), com valor mínimo, validade e regras.
+10. **Produtos, preços e validade** de cada campanha (Dia das Crianças, Professor, Outubro Rosa, Halloween, queima de estoque).
+11. **5–6 produtos do vídeo "Fecha Mês"** com preço.
+12. **Nome da campanha-mãe** ("Mês do aniversário Celmapel", "O aniversário continua" ou outro).
+13. ⚠️ **"Estourou o balão" e gamificação atrelada a compra** podem exigir autorização federal (Lei 5.768/71) — confirmar com o contador antes de divulgar ([PADROES §8](PADROES.md)).
+14. **Amigos da boa ação:** qual instituição, ela aceita ser citada, qual o percentual e como o cliente comprova. ⚠️ O Max disse em 02/10 que **não faz publicidade das ações sociais dele** ([PADROES §12](PADROES.md)): confirmar com ele se quer mesmo divulgar a mecânica antes de escrever qualquer peça.
+
+## 🟡 Dia das Crianças (peça de 12/10)
+
+38. **Foto da mesa pra arte de 12/10.** Taísa ou a equipe monta uma fatia de bolo + guardanapo liso + 2–3 itens da loja (forminha, vela, caixinha de doce) e fotografa na vertical, perto da janela, em 10 minutos (a mão pode ser a da Taísa, sem rosto). **Resposta até qui 08/10, 12h**; sem ela a arte sai com foto de banco real (nunca IA). PH decide se pede ao Max/Taísa ou vai direto de banco. Muda a fonte da imagem, não a copy. [Peça](conteudo/posts/2026-10-12-dia-das-criancas-bolo-no-guardanapo.md).
+
+## 🟡 Atacarejo / PJ
+
+15. **Existe desconto por volume ou tabela de atacado?** Hoje só dá pra afirmar cartão/Pix, sem cadastro, sem boleto e nota fiscal ([PADROES §4](PADROES.md)).
+16. **Entrega pra outras cidades?** Pedido mínimo?
+17. **Como o vendedor identifica um cliente PJ** e como saberemos se um lead virou venda (CRM, planilha, pergunta no caixa)?
+
+## 🟡 Conteúdo e operação
+
+18. **Marca da edição de Halloween** (Pesadelo, Terror, Sombrio): Itamaraty, "Look" ou outra? Transcrição não é fonte ([PADROES §6](PADROES.md)).
+19. **Plano contratado:** quantos posts/mês, stories inclusos? O Briefing Estratégico propõe 6 posts/semana + stories diários, acima do padrão Lone.
+20. **Quem aprova e em quanto tempo.** Quem envia os preços.
+21. **Taísa e Max: quantos vídeos por semana conseguem gravar?** Quem edita hoje?
+22. **Parceiro de locução/edição** pro "Fecha Mês" (Carlos verifica com o Roberto).
+23. **Vídeos da conta** pro Roberto analisar (pendência do cliente).
+24. **Rebranding × só comunicação** — decisão em aberto; recomendação da Lone é testar comunicação por 60–90 dias.
+25. **Cadência de reunião de alinhamento:** mensal ou quinzenal.
+
+## 🟢 Tráfego e medição (lista completa no [Briefing §39](referencias/2026-10-02-briefing-estrategico-recebido.md))
+
+26. Verba mensal, histórico de Meta Ads, Pixel/CAPI, domínio verificado, catálogo integrado, base de clientes.
+27. Faturamento, ticket médio, margem por categoria, categorias com excesso de estoque.
+28. Idade predominante, cidades de origem, % PJ × consumidor final.

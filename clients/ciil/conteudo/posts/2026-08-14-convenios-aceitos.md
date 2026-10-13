@@ -1,5 +1,7 @@
 # Carrossel — Convênios aceitos (a dúvida sobre cobertura não devia travar o agendamento)
 
+> ⚠️ **Registro histórico — lista de convênios superada em 2026-09-17.** A lista abaixo (maio/2026, Cowork AI) foi substituída pela confirmação direta do cliente — ver [PADROES.md](../PADROES.md) e [referencias/2026-09-17](../referencias/2026-09-17-cliente-confirma-convenios-e-regra-consulte-condicoes.md). Não usar este arquivo como referência pra peça nova de convênio; usar [2026-09-18-convenios-aceitos.md](2026-09-18-convenios-aceitos.md) (v2) ou a tabela do PADROES.
+
 **Cliente:** ciil · **Data:** 2026-08-14 (Sexta) · **Plataforma:** Instagram + Facebook (idêntico nas 2 unidades) · **Pilar:** Venda/Remarketing · **Formato:** Carrossel curto (3 slides)
 
 > **Contexto:** sexta é o slot estrutural carrossel/venda da grade Lone. CIIL segue sem estratégia de agosto fechada ([OQ #2](../OPEN-QUESTIONS.md)). Os dois carrosséis de venda já publicados em agosto/julho falaram de vacinação domiciliar (10/07, 16/07) e vacinação corporativa (07/08) — nenhum abordou **convênios**, apesar de ser um dado-núcleo documentado (BRIEFING §2) que resolve uma objeção real e recorrente (medo de pagar particular). Ângulo novo pro pilar Venda desta semana.

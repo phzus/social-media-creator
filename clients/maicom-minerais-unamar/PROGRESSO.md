@@ -4,6 +4,189 @@ Log datado do trabalho feito pra Maicom. Topo = mais recente. Entrada por bloco 
 
 ---
 
+## 2026-10-13 — Post de sexta 16/10: "Em janeiro, sua casa vai ter gente descalça o dia todo."
+
+[Peça](conteudo/posts/2026-10-16-janeiro-descalco-piso-novo.md): estático 4:5, mecanismo **cena/desejo**. É a sexta que converte a linha da temporada aberta na segunda 05/10: casa cheia no verão, todo mundo descalço em cima do piso. Linha 2: "O piso que já te incomoda vai estar debaixo do pé de todo mundo." Selo: **piso a partir de R$ 19,99 o m², no dinheiro ou no Pix**.
+
+**CTA vai pra loja ("Vem escolher o seu na loja, antes de janeiro.")**, não pro WhatsApp: peça de venda gera volume e o WhatsApp é o gargalo da conta. Um preço só (as três faixas já saíram em 11/09); 10x fora (mínimo não confirmado).
+
+**Descartado:** repetir o argumento de calendário de 05/10; rejunte/mancha como dor (usado em 12/10). Validador-copy cortou "outubro ainda dá pra trocar" (soava como prazo de obra) e "vem pisar nos modelos" (não sabemos se o mostruário permite).
+
+**Trava:** 🔴 o R$ 19,99 é da tabela de **setembro**; a de outubro nunca chegou (OQ item C). Se PH não confirmar vigência até qui 15/10, o selo vira "mais de 1.000 modelos de piso" sem número.
+
+---
+
+## 2026-10-07 — Peça de Dia das Crianças (segunda 12/10): "Já viu a sua sala da altura de uma criança?"
+
+PH pediu arte comemorativa pra todos os clientes (12/10 é segunda, feriado, e Dia das Crianças). [Peça](conteudo/posts/2026-10-12-dia-das-criancas-sala-da-altura-de-uma-crianca.md): estático 4:5, mecanismo **(d) pergunta + giro** pelo ponto de vista da criança: "De lá, o que mais se vê é o piso."
+
+**A ideia:** a criança vive na altura do chão, e quem vende chão é a Maicom. A peça devolve a pergunta pro adulto, que olha o próprio piso de baixo (rejunte que escureceu, mancha que o pano não tira mais). Foto real do piso do showroom com a câmera rente ao chão e brinquedos de montar genéricos em vermelho e amarelo; sem criança na imagem.
+
+**Sem oferta:** o cliente não passou mecânica nem condição pra esta data, então não há preço, brinde nem "a partir de". Tabela de outubro segue pendente ([OQ item C](OPEN-QUESTIONS.md)).
+
+**CTA:** foto do cômodo tirada na altura do chão, levada à loja. Não puxa WhatsApp e nada depende de resposta rápida (gargalo de atendimento).
+
+**Decisão de padrão:** bloco fixo de contato **sem a linha de horário** nesta peça, porque "Seg a Sex 8h–18h" incluiria o feriado e não há confirmação de funcionamento (registrado no [PADROES §3](PADROES.md)).
+
+**Encaixe:** ocupa o slot de segunda (não havia estratégia de outubro nem peça marcada pra 12/10). Quarta 14/10 segue Reels e sexta 16/10 venda. Brief pro designer hoje, cliente na qui 08/10 até 15h.
+
+---
+
+## 2026-10-02 — Post de segunda 05/10: "A casa que vai receber gente em janeiro se resolve em outubro"
+
+Carrossel de 4 slides de segunda (leve/educativo, sem venda), escrito antecipadamente. [Peça](conteudo/posts/2026-10-05-conta-de-calendario-antes-da-temporada.md).
+
+**Primeira peça da conta na chave da temporada.** O insight está parado na [PAUTA](reuniao-mensal/PAUTA.md) desde 18/09: Unamar e Tamoios têm muita casa de veraneio, e quem vai usar a casa no verão reforma em **outubro e novembro** — não em dezembro, quando já quer estar lá. É a sazonalidade mais óbvia da região e o perfil nunca comunicou nada nessa linha. 05/10 é a primeira segunda cheia do mês: ou sai agora, ou o argumento perde o sentido sozinho.
+
+**Troca deliberada de mecanismo.** As quatro educativas anteriores — [argamassa (28/09)](conteudo/posts/2026-09-28-argamassa-fora-do-orcamento.md), [rejunte (21/09)](conteudo/posts/2026-09-21-rejunte-errado-estraga-piso-certo.md), [área molhada (14/09)](conteudo/posts/2026-09-14-piso-para-area-externa-e-molhada.md) e [lote/tonalidade (31/08)](conteudo/posts/2026-08-31-mesmo-modelo-lote-diferente.md) — rodam todas o mesmo molde: **o item que você esqueceu, o erro que você descobre tarde demais**. Quatro seguidas é padrão virando vício do feed. Esta não acusa esquecimento nenhum: entrega um **método de contagem** — marca o fim de semana em que você quer a casa pronta e volta de lá pra cá. Conta de calendário, não de dinheiro.
+
+**O que a peça não afirma, e por quê.** Uma peça de "corre que o verão vem" puxa naturalmente pra prazo de assentamento, prazo de entrega e disponibilidade de estoque — nada disso está confirmado e nada disso é da nossa alçada ([PADROES §4](PADROES.md)). Então a conta de tempo é feita **pelo leitor**: a peça lista as etapas e manda descontar, sem carimbar um número que a loja não passou. Também fica fora qualquer indicação de pedreiro.
+
+**CTA com forma nova:** "escolhe um sábado de outubro e vem ver os modelos de perto — a gente abre 7h30". As três segundas anteriores fecharam todas em "traz a metragem / traz a foto", mesmo verbo e mesmo gesto; aqui o CTA é sobre **quando vir**, que é o próprio assunto da peça. Continua indo pra loja física em vez do WhatsApp, mantendo a linha de 14/09 de não despejar tráfego no canal com gargalo de atendimento. Usa só o horário de sábado já confirmado na tabela de fonte única.
+
+Zero preço (a tabela de outubro segue pendente — [OQ item C](OPEN-QUESTIONS.md), e peça de segunda não depende dela), zero "porcelanato", zero jargão de obra. Formato alterna: 11/09 carrossel · 14/09 estático · 21/09 carrossel · 28/09 estático → carrossel aqui, com esqueleto de 4 slides diferente do de 3 usado em 21/09.
+
+**Fica recomendado a PH:** a temporada rende mais como **linha de outubro** do que como peça solta — segunda planeja (esta), quarta mostra variedade em Reels de passeio pela loja, sexta converte quando a tabela chegar. A captação na loja (PAUTA, pergunta 9) é o que falta pro designer não repetir o mesmo still nos quatro slides.
+
+---
+
+## 2026-09-25 — Post de segunda 28/09: "A linha do orçamento que some antes da obra começar"
+
+Post estático de segunda (leve/educativo, sem venda), escrito antecipadamente. [Peça](conteudo/posts/2026-09-28-argamassa-fora-do-orcamento.md).
+
+**Fecha o par "custo escondido da obra" do pilar educativo** ([context.md](context.md)/[PADROES](PADROES.md)): rejunte já virou peça em [21/09](conteudo/posts/2026-09-21-rejunte-errado-estraga-piso-certo.md) pelo lado estético/durabilidade; esta trata **argamassa como item de orçamento**, não de estética — deliberadamente um ângulo diferente pra não repetir o mecanismo da peça anterior.
+
+**Gancho:** "Todo orçamento de obra tem uma linha pro piso. Poucos têm uma linha pra argamassa." Conecta direto com a dor central do público (medo de estourar o orçamento, já mapeada no context.md) sem vender nada — a peça só nomeia o ponto cego.
+
+Zero preço (nem de piso, nem o "a partir de R$ 8,99" de argamassa do BRIEFING, que nunca foi confirmado como vigente), zero "porcelanato", zero jargão técnico (nada de "traço"/AC-1-2-3). CTA direciona pra loja física com a metragem, mantendo a linha de reduzir dependência do WhatsApp (gargalo de atendimento conhecido) adotada desde [14/09](conteudo/posts/2026-09-14-piso-para-area-externa-e-molhada.md).
+
+---
+
+## 2026-09-22 (2) — PH reescreveu o roteiro com outra IA, e a versão dele é melhor
+
+PH voltou com o "EU NÃO AGUENTO MAIS" reescrito por ele em outra ferramenta. [Versão dele registrada na íntegra](referencias/2026-09-22-roteiro-ph-eu-nao-aguento-mais.md), com o comparativo peça a peça; o [roteiro virou v2](conteudo/roteiros/2026-09-25-eu-nao-aguento-mais.md) com a fala dele inteira.
+
+**O defeito da v1 da Lone, nomeado:** a piada parava aos 8 segundos pra ler três faixas de preço. O humor virava embrulho de um anúncio, e o anúncio cortava o humor. Na versão de PH o preço **é a queixa** — "como é que o patrão me bota piso a partir de dezenove e noventa e nove o metro?" vende e reclama na mesma frase, sem sair do personagem.
+
+**O resto do que ele resolveu melhor:** a revolta escala até o fim (preço → movimento de cliente → parcelamento → estoque acabando) em vez de dar o pico no primeiro segundo; o gancho volta como refrão no fecho; um preço só carrega o vídeo; o movimento da loja vira prova social sem depoimento nem número inventado; e o CTA sai pela boca do personagem. De quebra, o gerente entra só em voz — o que **resolve sozinho** a pendência que a validação tinha levantado sobre a piada do boleto fazer a loja parecer endividada.
+
+**A Lone acrescentou três coisas, nenhuma na fala:** "no dinheiro ou no Pix" grudado no R$ 19,99, o bloco fixo de contato na tela final e o tratamento de selo/lettering da marca nos textos de tela.
+
+As seis lições viraram parte da [§6 do PADROES](PADROES.md) — é assim que se escreve o próximo vídeo de humor desta conta.
+
+---
+
+## 2026-09-22 — Post de sexta: "EU NÃO AGUENTO MAIS" — primeiro vídeo de humor escrachado
+
+PH pediu peças no estilo "Forte do Piso", de palhaçada, com gancho que prende no primeiro segundo — o exemplo dele: o cara grita "EU NÃO AGUENTO MAIS" e a revolta acaba sendo com o próprio preço baixo, enquanto o gerente está cheio de boleto. [Roteiro escrito](conteudo/roteiros/2026-09-25-eu-nao-aguento-mais.md) pra sexta 25/09, que é dia de venda no padrão Lone.
+
+**O mecanismo:** o primeiro segundo entrega emoção que não combina com anúncio, e a frase seguinte revela que a reclamação é a oferta. Quem parou pra ver a briga fica pro preço. O grito entra seco, sem trilha e sem texto na tela — texto ali rouba a surpresa.
+
+**Oferta:** as três faixas de setembro (a partir de R$ 19,99 · 70x70 e 72,5x72,5 a R$ 27 · 88x88 polido a R$ 39,99), sempre com "no dinheiro ou no Pix" grudado no preço, mais 10x sem juros. Sem "de X por Y", sem "% off", sem o brinde de agosto.
+
+**Decisão nova de padrão:** humor escrachado virou regra em [PADROES §6](PADROES.md), **limitado a vídeo** — peça estática segue no tom atual, porque piada em arte parada não tem timing. A graça é sempre interna (a loja, o preço, o boleto), nunca o cliente nem concorrente nomeado.
+
+**Validação de copy (subagent) achou um escorregão na legenda:** dentro do vídeo, "mais barato que todo mundo da região" é bravata de personagem; na legenda, sem o colchete cômico, virava afirmação da marca sem base. Reescrito. Também: "no dinheiro ou no Pix" passou a valer também para a faixa de R$ 19,99 (lado seguro — a tabela de 01/09 deixou essa faixa solta), e os preços ganharam instrução de selo/lettering da marca, pra o vídeo não virar o "vídeo cru" que é o vício nº 1 do perfil.
+
+**Três pendências novas** ([OPEN-QUESTIONS](OPEN-QUESTIONS.md)): o @ do perfil de referência que PH citou, quem da loja topa aparecer gritando (sem isso o roteiro não vira peça), e a tabela de preço de outubro — a janela de briefing mensal está aberta agora, e foi ela que passou em branco em agosto.
+
+---
+
+## 2026-09-18 (2) — Pauta preparada pra reunião de alinhamento
+
+PH entra em reunião com a Maicom. [Pauta](reuniao-mensal/PAUTA.md) reescrita com o que está aberto hoje — 9 perguntas curadas, quatro insights e os riscos da conta.
+
+**O ponto central da pauta é o timing:** a janela de briefing mensal (dias 22-25) abre em 4 dias, pro ciclo de outubro. Em agosto a janela passou em branco e setembro abriu sem alavanca — a tabela de preços só chegou em 01/09, com o mês já rodando. Sair desta reunião com o briefing de outubro fechado é a coisa mais valiosa que ela pode produzir.
+
+**Insight novo registrado (não estava em lugar nenhum):** Unamar e Tamoios têm muita **casa de veraneio**, e quem vai usar a casa no verão reforma em outubro/novembro — não em dezembro. É a sazonalidade local mais óbvia da região e a conta nunca comunicou nada nessa chave. Sugerido como linha pro briefing de outubro.
+
+**Duas falhas nossas assumidas na pauta:** setembro rodou **sem estratégia mensal documentada** (só agosto tem arquivo em `estrategia/`), e o mês fechou com **3 peças** contra a referência de 12 — o que reforça a pergunta sobre o plano contratado real.
+
+---
+
+## 2026-09-18 — Post de segunda 21/09: "Piso certo, rejunte errado" (carrossel)
+
+Escrito antecipadamente no lote de segunda 21/09 que PH pediu pras contas com produção semanal (11 clientes + WT Shopping). [Peça](conteudo/posts/2026-09-21-rejunte-errado-estraga-piso-certo.md).
+
+**Primeira peça de rejunte** — item complementar e de recompra, sem peça própria até aqui. Setembro segue sem alavanca de oferta (campanha do brinde encerrou em 31/08 e o briefing do mês não veio), então o feed roda em educativo.
+
+---
+
+## 2026-09-14 — Post de segunda: piso pra área externa/molhada
+
+Post de hoje (segunda, estrutura oficial = leve/educativo, sem venda). Peça: [conteudo/posts/2026-09-14-piso-para-area-externa-e-molhada.md](conteudo/posts/2026-09-14-piso-para-area-externa-e-molhada.md) — estático, pilar Educativo. Tema: diferença entre piso pra área interna (seca) e área externa/molhada (varanda, área de serviço, entrada), explicada pelo uso, não por categoria técnica.
+
+**Fecha o quarteto de dicas de compra** que o [context.md](context.md) listava desde o onboarding no pilar 3: medir o cômodo (10/08), quantas caixas/regra dos 10% (27/07), variação de tonalidade entre lotes (31/08) e agora onde usar cada piso (hoje) — era o único item da lista que ainda não tinha virado peça.
+
+Zero preço, zero "porcelanato", zero jargão técnico ("antiderrapante"/"PEI" ficaram de fora — a diferença é só pelo uso do ambiente). CTA muda de padrão: em vez de mandar pro WhatsApp, convida a ir com foto do ambiente até a loja — reduz um pouco a dependência do canal com histórico de não-resposta, sem prometer nada sobre velocidade de atendimento.
+
+---
+
+## 2026-09-09 — Post de sexta 11/09: primeira peça de preço de setembro
+
+PH pediu o post de sexta. [Carrossel de 5 slides](conteudo/posts/2026-09-11-piso-com-preco-na-regua.md) com as três faixas de preço passadas em 01/09 (a partir de R$ 19,99 · R$ 27 · R$ 39,99, por m²) — primeira vez que setembro usa preço no feed (agosto tinha rodado só em educativo/variedade/posicionamento, por decisão de PH). Carrossel em vez de estático porque são três faixas — cabe a pessoa se achar numa delas.
+
+Zero brinde, zero "de X por Y", zero "porcelanato" — todas as restrições vigentes de [PADROES §1 e §2.1](PADROES.md) conferidas. CTA único pro WhatsApp com a metragem, bloco fixo de contato, hashtags locais.
+
+---
+
+## 2026-09-01 — Condições comerciais de setembro registradas: o preço volta ao feed
+
+PH passou a tabela de setembro. Três faixas: **a partir de R$ 19,99/m²** (modelos variados), **R$ 27/m²** (70x70 e 72,5x72,5) e **R$ 39,99/m²** (88x88 polido), as duas últimas no dinheiro ou Pix. Registro literal em [referencias/2026-09-01-condicoes-setembro.md](referencias/2026-09-01-condicoes-setembro.md).
+
+**Isso reverte a regra que valeu agosto inteiro.** Agosto rodou com preço de piso proibido no feed — a alavanca era o brinde. Setembro devolve o preço à mesa. Por isso a §2 do [PADROES](PADROES.md) foi reescrita: deixou de ser "a regra de agosto" e virou **a regra de preço vigente**, com agosto rebaixado a histórico. Regra que muda de mês em mês precisa estar datada no lugar onde ela é consultada, senão a peça de setembro nasce obedecendo uma restrição que já caiu.
+
+**O "a partir de R$ 19,99" está liberado** — PH perguntou e a resposta é sim: 19,99 é a menor das três faixas, então "a partir de" é literalmente verdade. Não é aproximação nem licença de copy. A ressalva é de uso, não de veracidade: o "a partir de" serve pra peça de faixa e variedade, **não pra puxar o olho numa arte que mostra o 88x88** — quando a arte destaca um formato com preço próprio, o preço da arte é o daquele formato.
+
+**Duas restrições novas que não existiam em agosto:**
+
+1. **Nada de "de R$ X por R$ Y" nem "% off".** O cliente passou o **preço final**, não o preço cheio. Sem preço de origem confirmado não existe desconto pra anunciar — a peça anuncia preço, não abatimento. Inventar o "de" seria fabricar dado do cliente.
+2. **O brinde sai de circulação.** A campanha de agosto encerrou em 31/08 e ninguém confirmou se continua. Peça de setembro não cita brinde — nem pra anunciar, nem pra desmentir.
+
+**A pendência que mais custa se estiver errada:** as faixas de R$ 27 e R$ 39,99 vieram com "no dinheiro ou Pix"; a de R$ 19,99 **não**. Assumi a mesma condição (é o que a loja pratica desde o onboarding), mas está registrado como pendência — preço sem condição explícita vira discussão de balcão, e o atendimento já é o gargalo conhecido do cliente. Junto com essa foram registradas mais três: unidade (m² ou caixa — assumido m², coerente com o R$ 22,99/m² de agosto), vigência e continuidade do brinde. Todas com **regra de escrita que contorna**, nenhuma travando produção. Ver [OPEN-QUESTIONS](OPEN-QUESTIONS.md).
+
+**O briefing de setembro sai da lista de pendências.** Em 31/08 o mês tinha aberto sem alavanca comercial, por decisão de PH ("a gente pode colocar depois as promoções"). Chegou em 01/09 — dentro do combinado, sem retrabalho: nada do que foi escrito até aqui dependia da oferta.
+
+## 2026-08-31 — Educativo de lote e tonalidade
+
+[Mesmo modelo, lote diferente](conteudo/posts/2026-08-31-mesmo-modelo-lote-diferente.md) — estático, pilar educativo.
+
+**Assunto novo dentro do pilar.** As duas peças educativas de agosto trataram de quantidade (medir o cômodo, quantas caixas); esta trata de qualidade da compra — a variação de tom entre fornadas, que é a única coisa da obra que a pessoa só descobre com o piso assentado.
+
+**Puxa venda sem ser peça de venda:** a conclusão prática é "fecha o cômodo inteiro e compra de uma vez", que é exatamente o comportamento que a loja quer.
+
+Palavra banida conferida: zero ocorrência de "porcelanato" na arte, legenda e hashtags.
+
+📌 **Último dia da campanha do brinde foi pros stories**, não pro feed — virar peça de feed exigiria conceito próprio, e nada pode afirmar nem negar acúmulo.
+
+**Briefing de setembro — resolvido como prioridade, não como bloqueio.** Levantei que a janela padrão (22-25/08) passou sem campanha definida e PH decidiu no mesmo dia: *"a gente pode colocar depois as promoções."* Então setembro abre em conteúdo de valor e a oferta entra por cima quando o cliente passar. Vantagem colateral: agosto girou o mês inteiro em torno do brinde, e essas semanas sem campanha são a chance de rodar o mix que faltou (educativo, variedade, posicionamento).
+
+---
+
+## 2026-08-18 (2) — Peça 9 (21/08) corrigida: é peça de tráfego pago, entra o brinde, sai o tom educativo
+
+PH corrigiu a direção da peça 9 na sequência do primeiro pedido: a arte vai rodar como **tráfego pago** (impulsionamento/ad), não só orgânico. Duas mudanças diretas: (1) **o brinde da argamassa/rejunte entra explícito** na peça — a 1ª versão tinha sido escrita sem mencionar promoção; (2) o tom vira **apelativo/vendedor**, não educativo, porque o objetivo declarado é gerar vontade de visitar a loja e converter em venda.
+
+**Ângulo novo:** dia 22 vendido como **"o dia mais especial do mês"** — empilha os dois motivos de ir (café de aniversário + brinde valendo na compra do piso) em vez de tratar evento e oferta separado. Brief de designer reescrito pra hierarquia de anúncio (dia/evento/oferta/ação legível em 1s de scroll).
+
+**Peça reescrita (v2):** conteudo/posts/2026-08-21-amanha-tem-cafe-vespera-aniversario.md (peça removida na limpeza de 2026-08-24). Mantém as regras fixas do brinde (4 m² = AC-1 + rejunte, sem afirmar acúmulo — [PADROES §2](PADROES.md)) e a ausência de "porcelanato"/desconto. Histórico de revisões no arquivo documenta as duas versões do mesmo dia.
+
+**Risco que fica mais caro por ser tráfego pago:** o CTA manda pro WhatsApp com investimento em cima, e o histórico de não-resposta (34+ semanas, 5 relatos) continua sem solução confirmada — registrado na checagem da peça como recomendação reforçada (não bloqueia).
+
+---
+
+## 2026-08-18 — Peça 9 (21/08): arte de véspera do café, formato trocado de Reels pra arte (v1, revisada na entrada seguinte)
+
+PH pediu direto: no dia 21, uma **arte** (não vídeo) sobre o dia de festa do 22, "preparando e gerando urgência" — com a ressalva de **não focar na promoção do brinde**, porque "eles já sabem das promoções". Isso muda o slot 9 do calendário, que estava mapeado como Reels (roteiro V3, "sábado cê tem compromisso marcado", com reforço da oferta no miolo).
+
+**Peça escrita (v1, substituída):** arte de contagem regressiva pura ("Falta 1 dia" → "Amanhã tem café na Maicom" → data/hora → "chega cedo, a gente abre 7h30"). Zero menção ao brinde de 4 m² ou ao preço-âncora — só evento. Mesma lógica do esquenta A4 (31/07): antecipação sem venda. **PH corrigiu essa direção na sequência — ver entrada acima.**
+
+**Decisão de escopo (segue valendo):** não descartei o roteiro V3, só deixou de ser a entrega obrigatória do dia — se PH quiser gravar o Reels também (véspera ou no próprio 21/08), o roteiro continua pronto e mapeado. [Estratégia §4](estrategia/2026-08.md) atualizada pra registrar o formato novo do slot 9.
+
+**Pendência que ficou explícita na checagem:** só temos o horário de **abertura** do café (7h30, padrão de sábado da loja) — não o de encerramento nem se tem alguma ação especial dentro do evento. Arte não inventa programação além do horário confirmado ([OPEN-QUESTIONS item B](OPEN-QUESTIONS.md), segue aberto).
+
+---
+
 ## 2026-08-10 — Calendário da semana (10 a 14/08): peça de segunda pronta + esboços de quarta e sexta
 
 PH pediu o calendário da semana com prioridade no post estático de hoje (segunda 10/08) pronto pra designer. Confirmado antes de produzir: a diretriz nova de **1 categoria temática por semana** (do chefe do PH) só entra em vigor **17/08** — esta semana segue o **mix normal** do playbook (nada de restringir a categoria única ainda).
@@ -50,7 +233,7 @@ Peça em [conteudo/posts/2026-08-07-a-conta-que-ninguem-faz.md](conteudo/posts/2
 
 ## 2026-08-04 — Homenagem de Dia dos Pais
 
-A Lone decidiu publicar uma homenagem de Dia dos Pais em vários clientes da carteira no domingo 09/08, dia do evento — peça isolada, fora da numeração da campanha de agosto, 100% emocional/institucional (sem preço, sem brinde, sem CTA de oferta). Ângulo escolhido: a paciência de fazer uma obra direito (medir duas vezes, usar trena e nível com cuidado) como algo que se aprende com o pai — conecta o público de Unamar/Tamoios que reforma a própria casa ou aprendeu o ofício vendo o pai trabalhar, sem citar "porcelanato" e sem inventar tempo de mercado da loja. Peça em [conteudo/posts/2026-08-09-feliz-dia-dos-pais.md](conteudo/posts/2026-08-09-feliz-dia-dos-pais.md).
+A Lone decidiu publicar uma homenagem de Dia dos Pais em vários clientes da carteira no domingo 09/08, dia do evento — peça isolada, fora da numeração da campanha de agosto, 100% emocional/institucional (sem preço, sem brinde, sem CTA de oferta). Ângulo escolhido: a paciência de fazer uma obra direito (medir duas vezes, usar trena e nível com cuidado) como algo que se aprende com o pai — conecta o público de Unamar/Tamoios que reforma a própria casa ou aprendeu o ofício vendo o pai trabalhar, sem citar "porcelanato" e sem inventar tempo de mercado da loja. Peça em conteudo/posts/2026-08-09-feliz-dia-dos-pais.md (peça removida na limpeza de 2026-08-24).
 
 ---
 
@@ -92,7 +275,7 @@ Calendário atualizado em [estratégia §4](estrategia/2026-08.md).
 
 ## 2026-07-25 — Peça 1 de agosto: lançamento da campanha do brinde (03/08)
 
-PH pediu posts pros três clientes (Complexo Vida, CIIL, Maicom) na mesma conversa. Como as 4 peças de aquecimento de julho já estavam fechadas, produzi a **próxima da fila**: [conteudo/posts/2026-08-03-lancamento-brinde-4m2.md](conteudo/posts/2026-08-03-lancamento-brinde-4m2.md) — peça 1 de 15 e abertura da Campanha A.
+PH pediu posts pros dois clientes (CIIL, Maicom) na mesma conversa. Como as 4 peças de aquecimento de julho já estavam fechadas, produzi a **próxima da fila**: [conteudo/posts/2026-08-03-lancamento-brinde-4m2.md](conteudo/posts/2026-08-03-lancamento-brinde-4m2.md) — peça 1 de 15 e abertura da Campanha A.
 
 **Função da peça:** entregar a regra com clareza absoluta e virar conta na cabeça de quem lê. Quem compra piso já mediu o cômodo — se a régua é 4 m² e acumula, a pessoa faz a multiplicação sozinha e chega no zap com o número na mão. Por isso a arte **anuncia** em vez de argumentar; o argumento ("quanto maior o ambiente, mais material grátis") vive na legenda.
 

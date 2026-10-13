@@ -1,0 +1,324 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Roteiro — Carro Elétrico BYD · Atlas</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700;800&family=Source+Sans+3:wght@400;600;700&display=swap">
+<style>
+  :root {
+    --ink: #0d1626;
+    --ink-soft: #45516b;
+    --muted: #7b869c;
+    --blue: #1233f5;
+    --blue-deep: #0a1f9c;
+    --blue-wash: #e7ebff;
+    --line: #dfe4ee;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: #e9ecf5; }
+  body {
+    color: var(--ink);
+    font-family: "Source Sans 3", -apple-system, "Segoe UI", system-ui, sans-serif;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+  h1, h2, .pill, .stamp strong, .eyebrow, .field b, .meta b, .cena-n {
+    font-family: "Archivo", "Helvetica Neue", Arial, sans-serif;
+  }
+
+  @page { size: A4; margin: 0; }
+
+  .page {
+    position: relative;
+    width: 210mm;
+    min-height: 297mm;
+    margin: 0 auto;
+    background: #ffffff;
+    break-inside: avoid;
+    page-break-inside: avoid;
+    break-after: page;
+    page-break-after: always;
+    overflow: hidden;
+  }
+  .page:last-child { break-after: auto; page-break-after: auto; }
+
+  .top-bar { position: absolute; top: 0; left: 0; width: 100%; height: 12px; background: var(--blue); }
+
+  .inner { padding: 34mm 22mm 20mm; }
+
+  /* ---------- cover ---------- */
+  .logo { height: 34px; width: auto; display: block; }
+
+  .pill {
+    display: inline-block;
+    margin-top: 22px;
+    padding: 6px 14px;
+    background: var(--blue);
+    color: #fff;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    border-radius: 4px;
+  }
+
+  .cover h1 {
+    margin: 26px 0 0;
+    font-size: 42px;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    line-height: 1.12;
+    color: var(--ink);
+  }
+  .cover h1 .accent { display: block; color: var(--blue); }
+
+  .cover .lede {
+    max-width: 32rem;
+    margin: 18px 0 0;
+    font-size: 15px;
+    color: var(--ink-soft);
+  }
+
+  .rule { height: 3px; width: 120px; background: var(--blue); border-radius: 2px; margin: 34px 0 30px; }
+
+  .fields { display: flex; gap: 64px; }
+  .field b {
+    display: block;
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 700;
+    margin-bottom: 4px;
+  }
+  .field span { font-size: 14px; font-weight: 700; letter-spacing: 0.02em; }
+
+  /* ---------- content page ---------- */
+  .masthead-row {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+  .stamp { text-align: right; font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
+  .stamp strong { display: block; color: var(--ink); font-size: 12px; letter-spacing: 0.04em; }
+
+  .eyebrow {
+    display: inline-block;
+    margin-top: 30px;
+    font-size: 11px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--blue);
+    font-weight: 700;
+    background: var(--blue-wash);
+    padding: 5px 10px;
+    border-radius: 4px;
+  }
+
+  h2.title { margin: 16px 0 0; font-size: 26px; font-weight: 800; letter-spacing: -0.01em; color: var(--ink); }
+
+  .meta {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+    margin: 22px 0 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--line);
+  }
+  .meta b { display: block; font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); font-weight: 700; margin-bottom: 3px; }
+  .meta span { font-size: 13px; font-weight: 700; }
+
+  .section-label {
+    margin: 30px 0 0;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--blue-deep);
+    padding-top: 14px;
+    border-top: 1px solid var(--line);
+  }
+
+  .cenas { margin-top: 8px; }
+  .cena {
+    display: grid;
+    grid-template-columns: 78px 1fr;
+    gap: 18px;
+    padding: 14px 0;
+    border-bottom: 1px solid var(--line);
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+  .cena-n { font-size: 11px; font-weight: 700; letter-spacing: 0.04em; color: var(--blue-deep); text-transform: uppercase; padding-top: 2px; }
+  .cena-n small { display: block; font-size: 9.5px; font-weight: 600; color: var(--muted); text-transform: none; letter-spacing: 0; margin-top: 2px; }
+  .cena p { margin: 0; font-size: 13.5px; color: var(--ink); }
+  .cena .howto { margin-top: 8px; font-size: 12px; color: var(--ink-soft); }
+  .cena .howto b { color: var(--blue-deep); font-weight: 700; }
+
+  .block { margin-top: 22px; }
+  .block b {
+    display: block;
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 700;
+    margin-bottom: 6px;
+  }
+  .block p { margin: 0; font-size: 13px; color: var(--ink-soft); }
+  .block ul { margin: 4px 0 0; padding-left: 18px; }
+  .block li { font-size: 13px; color: var(--ink-soft); margin-bottom: 4px; }
+  .tags { font-size: 12.5px; color: var(--blue-deep); font-weight: 600; }
+
+  .footer {
+    position: absolute;
+    bottom: 14mm;
+    left: 22mm;
+    right: 22mm;
+    display: flex;
+    justify-content: space-between;
+    font-size: 10.5px;
+    color: var(--muted);
+    padding-top: 12px;
+    border-top: 1px solid var(--line);
+  }
+  .footer strong { color: var(--ink); }
+</style>
+</head>
+<body>
+
+  <!-- PÁGINA 1 — CAPA -->
+  <section class="page cover">
+    <div class="top-bar"></div>
+    <div class="inner">
+      <img class="logo" src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia">
+      <span class="pill">Roteiro de vídeo</span>
+      <h1>Carro elétrico<span class="accent">Oficina parceira BYD</span></h1>
+      <p class="lede">Roteiro para gravação — Reels institucional sobre seguro de carro elétrico e rede referenciada.</p>
+      <div class="rule"></div>
+      <div class="fields">
+        <div class="field"><b>Cliente</b><span>ATLAS CORRETORA DE SEGUROS</span></div>
+        <div class="field"><b>Produção</b><span>LONE MÍDIA</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PÁGINA 2 — ROTEIRO -->
+  <section class="page">
+    <div class="top-bar"></div>
+    <div class="inner">
+      <div class="masthead-row">
+        <img class="logo" src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia">
+        <div class="stamp">
+          Cliente
+          <strong>Atlas</strong>
+          Reels · Institucional
+        </div>
+      </div>
+
+      <span class="eyebrow">Carro elétrico · BYD</span>
+      <h2 class="title">Seu carro elétrico precisou de reparo. Você sabe para onde levar?</h2>
+
+      <div class="meta">
+        <div><b>Takes</b><span>7</span></div>
+        <div><b>Duração</b><span>~30-45s</span></div>
+        <div><b>Local</b><span>Oficina/concessionária BYD</span></div>
+        <div><b>CTA</b><span>Fale com a Atlas</span></div>
+      </div>
+
+      <p class="section-label">Como funciona a gravação</p>
+      <p style="font-size: 13px; color: var(--ink-soft); margin: 8px 0 0;">Cada trecho abaixo é um take separado. O celular fica sempre na vertical, e mesmo quando a câmera fica parada, você não fica parada: sempre tem uma pequena ação acontecendo enquanto fala (fechar o notebook, mexer em algo, apoiar a mão no carro).</p>
+      <p style="font-size: 13px; color: var(--ink-soft); margin: 8px 0 0;"><b>Repita cada take 3-4 vezes seguidas</b> — assim a gente escolhe a melhor versão na hora de montar o vídeo. E <b>segure 1-2 segundos de silêncio antes e depois de cada fala</b>, ainda na ação — é o tempo que a edição usa pra cortar certinho.</p>
+
+      <div class="cenas">
+        <div class="cena">
+          <div class="cena-n">Take 1<small>Abertura</small></div>
+          <div>
+            <p>"Seu carro elétrico precisou de reparo. Você sabe para onde levar?"</p>
+            <p class="howto"><b>Como gravar:</b> celular parado, plano da cintura pra cima, olhando direto pra câmera. Enquanto fala, feche a tampa do carregador ou apoie a mão no capô/porta do carro — não fica parada sem fazer nada. Fale a frase inteira de um fôlego.</p>
+          </div>
+        </div>
+
+        <div class="cena">
+          <div class="cena-n">Take 2A<small>Contexto</small></div>
+          <div>
+            <p>"Na hora da contratação do seguro, quase ninguém faz essa pergunta. Mas ela faz toda a diferença quando acontece um imprevisto."</p>
+            <p class="howto"><b>Como gravar:</b> mesmo enquadramento do Take 1. Segure uma prancheta, tablet ou celular, como quem está consultando algo enquanto fala.</p>
+          </div>
+        </div>
+
+        <div class="cena">
+          <div class="cena-n">Take 2B<small>Contexto</small></div>
+          <div>
+            <p>"Os carros elétricos utilizam tecnologias diferentes dos veículos convencionais. Por isso, nem toda oficina está preparada para realizar esse tipo de reparo."</p>
+            <p class="howto"><b>Como gravar:</b> pode ser andando dessa vez, pra variar — alguém filma andando de costas na sua frente, celular sempre na altura do rosto. Sem ninguém pra filmar andando, grave parada como as outras.</p>
+          </div>
+        </div>
+
+        <div class="cena">
+          <div class="cena-n">Take 2C<small>Contexto</small></div>
+          <div>
+            <p>"E quando isso não é considerado na hora de escolher o seguro, o transtorno pode ser muito maior."</p>
+            <p class="howto"><b>Como gravar:</b> volta pro enquadramento do Take 1. Feche a prancheta ou o notebook enquanto fala — combina com a ideia de "fechar" o raciocínio dessa fala.</p>
+          </div>
+        </div>
+
+        <div class="cena">
+          <div class="cena-n">Take 3A<small>Só áudio</small></div>
+          <div>
+            <p>"Aqui você pode contar com uma rede referenciada, incluindo concessionárias autorizadas da marca do seu veículo. No caso de modelos como a BYD, isso significa que o carro pode ser atendido por profissionais preparados para trabalhar com essa tecnologia."</p>
+            <p class="howto"><b>Como gravar:</b> grave só a voz, sem se preocupar em aparecer — pode ser sentada, num lugar mais silencioso. Esse trecho vai ficar coberto por imagens de apoio na edição (ver lista abaixo), não pelo seu rosto.</p>
+          </div>
+        </div>
+
+        <div class="cena">
+          <div class="cena-n">Take 3B<small>Benefício</small></div>
+          <div>
+            <p>"Mais do que reparar um veículo, o importante é saber que ele será atendido no lugar certo, por quem conhece cada detalhe dele."</p>
+            <p class="howto"><b>Como gravar:</b> volta pro enquadramento do Take 1, olhando pra câmera. Apoie a mão no carro ou aponte levemente pro logo/letreiro BYD ao fundo enquanto fala.</p>
+          </div>
+        </div>
+
+        <div class="cena">
+          <div class="cena-n">Take 4<small>Fechamento</small></div>
+          <div>
+            <p>"Se você já tem um carro elétrico, ou está pensando em comprar um, fale com a Atlas antes de contratar o seguro."</p>
+            <p class="howto"><b>Como gravar:</b> mesmo enquadramento dos takes anteriores. Feche com um gesto de mão aberta ou convite (abrir os braços levemente) — é essa ação que fecha o vídeo. Segure 2-3 segundos no final, ainda no gesto, olhando pra câmera.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="block">
+        <b>Imagens de apoio pra gravar também</b>
+        <p>Além dos takes com você falando, grave alguns planos parados de 5-8 segundos, sem precisar de ninguém neles — servem pra cobrir os cortes entre os takes:</p>
+        <ul>
+          <li>Elevador subindo ou carro sendo mexido</li>
+          <li>Ferramenta específica em uso</li>
+          <li>Estoque e estrutura da oficina (vitrine de peças, ambiente geral)</li>
+        </ul>
+      </div>
+
+      <div class="block">
+        <b>Legenda</b>
+        <p>Seu carro elétrico precisou de reparo. Você sabe para onde levar?</p>
+        <p style="margin-top: 8px;">Os carros elétricos usam tecnologias diferentes dos veículos convencionais, e nem toda oficina está preparada pra esse tipo de reparo. Quando isso não entra na conta na hora de escolher o seguro, o transtorno pode ser bem maior.</p>
+        <p style="margin-top: 8px;">Dependendo da seguradora e das coberturas contratadas, dá pra contar com rede referenciada — incluindo concessionárias autorizadas da marca do seu veículo. No caso da BYD, isso significa profissionais preparados pra tecnologia do carro.</p>
+        <p style="margin-top: 8px;">Tem um elétrico ou está pensando em ter um? Fale com a Atlas antes de contratar o seguro.</p>
+      </div>
+
+      <div class="block">
+        <b>Hashtags</b>
+        <p class="tags">#SeguroAuto #BYD #CarroElétrico #CorretorDeSeguros #SegurosExplicados #Multiseguradora</p>
+      </div>
+
+      <div class="footer">
+        <span><strong>LONE MÍDIA</strong> · Marketing &amp; Performance</span>
+        <span>ATLAS · CARRO ELÉTRICO BYD</span>
+      </div>
+    </div>
+  </section>
+
+</body>
+</html>

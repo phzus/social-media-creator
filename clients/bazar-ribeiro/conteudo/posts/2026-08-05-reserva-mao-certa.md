@@ -40,7 +40,7 @@ Quem cresceu vendo o pai resolver as coisas de casa carrega essas frases até ho
 
 Esse mês é sobre isso. Sobre o pai que ensinou, e sobre a loja que ajuda a continuar fazendo do jeito certo. Fica ligado que a campanha de Dia dos Pais segue rolando até domingo, 09/08.
 
-📱 Maricá: (21) 2637-2498 · Saquarema: (21) 3731-0812
+📱 Maricá: (21) 2637-2498 · Saquarema: (22) 98831-6090
 
 ---
 

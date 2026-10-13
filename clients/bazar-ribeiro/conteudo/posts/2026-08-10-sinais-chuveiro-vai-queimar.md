@@ -53,7 +53,7 @@ Se o seu fez um estalo estranho, soltou cheiro de queimado ou tá derrubando o d
 
 Aqui no Bazar Ribeiro tem chuveiro Lorenzetti pra repor na hora, sem precisar rodar a cidade atrás.
 
-📱 Maricá: (21) 2637-2498 · Saquarema: (21) 3731-0812
+📱 Maricá: (21) 2637-2498 · Saquarema: (22) 98831-6090
 
 ---
 

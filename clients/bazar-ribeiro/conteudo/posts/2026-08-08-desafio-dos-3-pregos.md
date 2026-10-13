@@ -46,7 +46,7 @@ Sábado, 08/08, a gente vai testar quem tem a mão mais certeira do bairro.
 
 Passa aqui na loja, traz o chefe da obra ou o candidato a chefe. A gente separa o material, você separa a coragem.
 
-📱 Maricá: (21) 2637-2498 · Saquarema: (21) 3731-0812
+📱 Maricá: (21) 2637-2498 · Saquarema: (22) 98831-6090
 
 ---
 

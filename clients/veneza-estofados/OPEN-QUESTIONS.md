@@ -7,6 +7,17 @@ Pendências herdadas da "Fase 0 — Destravar" e do §12 do [documento-fonte](re
 
 ---
 
+## 🟡 2026-10-13 — Post de sexta 16/10 (Sofá Master 1,50m)
+
+[Peça](conteudo/posts/2026-10-16-sofa-master-fechado-aberto.md). Itens 31 e 32 travam a subida; 33 e 34 são achados que valem pra conta toda.
+
+31. 🟡 **Preço do Sofá Master 1,50m ainda vale?** R$ 799,99 à vista ou 12x de R$ 76,00, tirado da arte do cliente de 21/08 (~/Downloads). ~8 semanas de idade.
+32. 🟡 **A arte "Medidas aproximadas" (21/08) é do Master?** Ela não traz o nome do modelo. É o mesmo sofá, mesma sala e mesma data da arte do Master. A peça usa 80/155 cm de profundidade, 60 cm de assento, 15 cm de braço e 100 cm de altura.
+33. 🔴 **Achado pro #23 e #26:** as artes de preço de agosto (Master e Ipanema) trazem na assinatura "Nova Iguaçu: Rua Inês 233 · **21 96901-3856**". O #26 tem R. Inês, **216**, e o PADROES §11 diz que os números com DDD 21 do site estão errados. Pode ser o WhatsApp de Nova Iguaçu que falta, ou um número velho. Não usado até PH confirmar.
+34. 🟡 **A faixa "a partir de R$ 949,99" (PADROES §11) está desatualizada?** As artes de agosto têm Master 1,50m a R$ 799,99 e Ipanema 1,50m a R$ 899,99 à vista. Se esses preços valem, o "a partir de" do [carrossel de 02/10](conteudo/posts/2026-10-02-o-caminho-que-o-sofa-faz.md) está errado e a faixa do §11 muda.
+
+---
+
 ## 🔴 2026-10-13 — Saídas da reunião de alinhamento
 
 [Resumo da reunião](reuniao-mensal/resumos/2026-10-13-resumo-reuniao.md). O que está aqui é o log; o que vai pra próxima reunião está curado na [PAUTA](reuniao-mensal/PAUTA.md).

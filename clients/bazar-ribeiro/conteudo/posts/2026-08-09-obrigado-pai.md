@@ -44,7 +44,7 @@ Pra muita gente aqui de Maricá e Saquarema, esse alguém foi o pai. O que ensin
 
 Hoje é o dia de agradecer isso. Feliz Dia dos Pais, de uma loja que também é de bairro, também é de família, e também tá aqui desde antes de muita gente que passa na porta ter nascido.
 
-📱 Maricá: (21) 2637-2498 · Saquarema: (21) 3731-0812
+📱 Maricá: (21) 2637-2498 · Saquarema: (22) 98831-6090
 
 ---
 
