@@ -73,7 +73,7 @@ Seguro se vende por confiança, então P3 é o pilar que mais converte. Também 
 - ✅ **Reel é o default**, não a exceção. Vertical, corretor falando, **legenda embutida** (a maioria assiste no mudo).
 - ✅ **Gancho em texto grande na tela nos 3 primeiros segundos** — sempre na mesma fonte e na mesma posição, em todos os Reels. Repetição aqui é assinatura, não vício.
 - ✅ **30 a 60 segundos.** Uma dúvida, resposta direta, exemplo concreto, CTA leve.
-- ✅ **Carrossel** pra conteúdo de salvamento (o que cobre × o que não cobre, checklist de apólice).
+- ⚠️ **Carrossel é exceção, não slot fixo (PH, 2026-10-13):** *"Atlas tá muito carrossel, meu designer não vai aguentar."* A conta teve carrossel em toda sexta de 11/09 a 16/10. Sexta de venda sai em **estático**: a pergunta ou o fato vai pra arte e a lista vai pra legenda. Carrossel só quando o slide a slide for indispensável e PH aprovar.
 - ✅ **Motion flyer** (arte animada, sem rosto e sem locução obrigatória) — **liberado por PH em 2026-08-24** e o formato mais importante da conta depois do Reel do corretor. É vídeo, entra no slot de quarta e alimenta a métrica de alcance, **sem depender de gravação** — que é o gargalo que segurou os 4 Reels de agosto ([OQ #2](OPEN-QUESTIONS.md)). Serve bem pra tema de **lista ou situação** (o que muda, o que cobre × não cobre, marcos de vida); serve mal pra tema que pede autoridade de pessoa (apresentação do corretor, caso de sinistro).
   - Regras: precisa funcionar **sem som** · gancho de tela na mesma fonte e posição dos outros vídeos ([§7](#7-identidade--preservar-não-reinventar)) · locução é opcional, e a peça não pode depender dela.
 - ✅ Estático continua existindo, sem ser o default.

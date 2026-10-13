@@ -19,7 +19,11 @@ PH trouxe o [calendário 2025 do cliente](referencias/2026-10-13-calendario-edit
 
 ---
 
-## 🔴 Nova (2026-10-13) — carrossel de 16/10 (o que acontece depois do aviso de sinistro): gate do corretor até qua 14/10
+## 🟢 (2026-10-13) — fluxo de sinistro da Atlas: não trava mais a peça de 16/10
+
+> **Atualização 13/10:** a peça de 16/10 virou estático (PH: carrossel demais) e não afirma mais o processo da Atlas, então este gate **não trava nada**. Fica como pergunta pro corretor, útil se esse assunto virar vídeo com ele. Só falta mandar ao corretor as 4 perguntas da legenda, pra quem responder o direct.
+
+### Gate original (histórico)
 
 A [peça](conteudo/posts/2026-10-16-o-que-acontece-depois-que-voce-avisa-o-sinistro.md) tem versão completa (afirma o que a Atlas faz em cada etapa), fallback parcial e **plano B pronto** ("4 perguntas pra fazer ao seu corretor"), que não depende do gate.
 

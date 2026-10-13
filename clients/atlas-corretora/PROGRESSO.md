@@ -4,6 +4,16 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ---
 
+## 2026-10-13 (3) — Sexta 16/10 vira estático; carrossel vira exceção na Atlas
+
+PH: *"Atlas tá muito carrossel, meu designer não vai aguentar."* Carrossel em toda sexta desde 11/09 (11/09, 18/09, 25/09, 02/10, 09/10) e mais três no plano (16/10, 30/10, 13/11).
+
+- **16/10** reescrita como [estático 4:5](conteudo/posts/2026-10-16-o-que-acontece-depois-que-voce-avisa-o-sinistro.md): *"Avisar o sinistro leva uma ligação. / O resto depende de quem está do seu lado."* Apoio: pergunte ao corretor quem acompanha o sinistro depois do aviso. As 4 perguntas foram pra legenda. **Não depende mais do gate do corretor.**
+- **Trimestral:** 30/10 e 13/11 passam a estático; sexta é estático por padrão.
+- **PADROES §4:** carrossel virou exceção, com aval do PH.
+
+---
+
 ## 2026-10-13 (2) — Calendário editorial 2025 do cliente recebido
 
 PH: *"É de 2025 mas dá pra ter uma noção do que ela quer."* Salvo em [calendário 2025 do cliente](referencias/2026-10-13-calendario-editorial-2025-do-cliente.md), com leitura da Lone.

@@ -11,7 +11,7 @@ PH: *"Faz de sexta em tds os clientes."* Slot de sexta = venda/carrossel. **18 p
 | Cliente | Formato | Mecanismo | Headline (resumo) | Trava pra subir |
 |---|---|---|---|---|
 | Araruama Tintas | carrossel 5 | ficha + preço | Em outubro, o susto fica por conta do Halloween. O preço da massa corrida é este | Wanderson confere nomes/embalagens/vigência |
-| Atlas | carrossel 6 | comparação / plano B "4 perguntas" | Avisar o sinistro leva uma ligação… | Gate do corretor até qua 14/10; senão sobe o plano B |
+| Atlas | estático (era carrossel; PH: designer sobrecarregado) | pergunta pro corretor | Avisar o sinistro leva uma ligação. O resto depende de quem está do seu lado | — (sem gate) |
 | Bazar Ribeiro | estático | pergunta + giro | Quando foi que você trocou o regulador do gás? | Preço de 24/08 + "válido até" gravado no kit |
 | BodySkin | estático + animado | comparação | Dez minutos apertando cravo no espelho do banheiro | Condição de limpeza de pele + RT (versão B sobe sem preço) |
 | Bruno das Tintas | estático | objeção (Dia do Pintor 18/10) | Achou cara a tinta que o seu pintor pediu? | Sai sem preço; R$ 846 opcional se PH confirmar |

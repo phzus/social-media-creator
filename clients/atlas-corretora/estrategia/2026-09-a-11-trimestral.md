@@ -32,7 +32,7 @@ O que o trimestre **não** substitui é o briefing mensal dos dias 22-25 ([playb
 | **Residencial** | 3 (uma parcial) | 7 | O ramo de ticket médio que a conta quase não trabalhou |
 | **A casa — o corretor** | 1 | 3 | A semana de 12/10, Dia do Corretor de Seguros. A única que não é de produto |
 
-**Cadência:** padrão da casa, com a correção de 2026-07-31 (*"atlas não é dia de reels"*) — **seg estático · qua vídeo · sex carrossel/venda**. Vídeo é Reel gravado quando houver agenda do corretor e **motion flyer** quando não houver ([PADROES §4](../PADROES.md)).
+**Cadência:** padrão da casa, com a correção de 2026-07-31 (*"atlas não é dia de reels"*) — **seg estático · qua vídeo · sex venda em estático**. ⚠️ **Carrossel virou exceção (PH, 2026-10-13: *"Atlas tá muito carrossel, meu designer não vai aguentar"*)** — a conta tinha carrossel em toda sexta desde 11/09. Sexta é estático por padrão; carrossel só com aval do PH. Vídeo é Reel gravado quando houver agenda do corretor e **motion flyer** quando não houver ([PADROES §4](../PADROES.md)).
 
 **A semana manda no mês.** A semana de 28/09 a 02/10 é empresarial dos dois lados da virada — o tema não se corta porque o calendário virou a página. Cada mês fica com 13 datas; se o plano contratado for de 12 ([OQ #3](../OPEN-QUESTIONS.md)), a peça marcada como *flexível* em cada mês é a que cai.
 
@@ -94,13 +94,13 @@ O que o trimestre **não** substitui é o briefing mensal dos dias 22-25 ([playb
 | | | 09/10 | sex | venda | Casa, apartamento e casa de praia: o que muda | Cotação por tipo de imóvel |
 | **12 → 16** ⭐ | A casa — o corretor | 12/10 | seg | estático | Dia do Corretor de Seguros | Ele não aparece na venda, aparece no sinistro |
 | | | 14/10 | qua | Reel | Quem responde aqui | Apresentação. ✅ [roteiro parqueado](../conteudo/roteiros/2026-07-27-quem-responde-aqui.md) · 🔴 [OQ #1](../OPEN-QUESTIONS.md) e [#2](../OPEN-QUESTIONS.md) |
-| | | 16/10 | sex | carrossel | O que acontece depois que você avisa o sinistro | O trabalho que o cliente não vê |
+| | | 16/10 | sex | estático | O que acontece depois que você avisa o sinistro | O trabalho que o cliente não vê |
 | **19 → 23** | Planejamento familiar | 19/10 | seg | estático | As contas da casa não pausam junto com você | Afastamento por saúde (Outubro Rosa, pela renda) |
 | | | 21/10 | qua | vídeo | Planejamento familiar serve só pro pior cenário? | Invalidez e doenças graves. ⚠️ gate reforçado |
 | | | 23/10 | sex | venda | Quem conta com a sua renda todo mês? | Simulação no direct |
 | **26 → 30** | Auto | 26/10 | seg | estático | A apólice é anual. E a sua vida, mudou? | O que precisa ser avisado antes da renovação |
 | | | 28/10 | qua | vídeo | Bati o carro. O que eu faço na primeira hora? | Passo a passo do sinistro · *flexível* |
-| | | 30/10 | sex | carrossel | 5 situações em que o seguro auto não paga | Lista de mito |
+| | | 30/10 | sex | estático | 5 situações em que o seguro auto não paga | Lista de mito: a pergunta-gancho na arte, as situações na legenda (era carrossel; trocado em 13/10) |
 
 ## 7. Novembro
 
@@ -111,7 +111,7 @@ O que o trimestre **não** substitui é o briefing mensal dos dias 22-25 ([playb
 | | | 06/11 | sex | venda | Faltam três semanas pra Black Friday: 4 checagens | Venda com prazo natural e tempo de agir |
 | **09 → 13** | Auto | 09/11 | seg | estático | O outro carro não tinha seguro. E agora? | Quem foi atingido por quem não tem apólice |
 | | | 11/11 | qua | vídeo | Seu filho tirou a habilitação | Condutor novo em casa, antes das férias |
-| | | 13/11 | sex | carrossel | Guincho, carro reserva e vidro: o que vem junto | Cobertura × adicional contratado |
+| | | 13/11 | sex | estático | Guincho, carro reserva e vidro: o que vem junto | Cobertura × adicional contratado |
 | **16 → 20** | Planejamento familiar | 16/11 | seg | estático | Não é só pra quem tem filho | Quem sustenta mãe, irmão ou sócio |
 | | | 18/11 | qua | vídeo | Quanto tempo leva pra sair o pagamento? | O processo por dentro. ⚠️ gate reforçado |
 | | | 20/11 | sex | a definir | Consciência Negra — pauta a definir | ⚠️ decisão do cliente ([OQ #16](../OPEN-QUESTIONS.md)) |
