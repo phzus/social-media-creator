@@ -4,6 +4,16 @@ Log datado do trabalho feito pra Celmapel. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-10-14 — Roteiro de anúncio (Meta Ads): comércio compra sem cadastro de distribuidora e sem boleto
+
+[Roteiro](conteudo/roteiros/2026-10-14-anuncio-comercio-sem-cadastro.md): vídeo 9:16 de ~28s com o Max, dois ganchos pra A/B, texto principal, título, botão e mensagem pronta de WhatsApp. Público: dono de açaiteria, sorveteria, lanchonete e restaurante da região.
+
+- **Por que esse ângulo:** é o único anúncio de venda que roda sem preço (produto + preço + validade de outubro seguem pendentes, #10). Vende facilidade de compra, com os fatos ditos pelo Max em 02/10; puxa a frente que não é festa.
+- **Validação (validador-copy):** 3 bloqueantes corrigidos (fala estourava 30s; "sem cadastro" sem o "de distribuidora" da fonte; "compra do mesmo jeito que todo mundo" sem fonte). Pix saiu até #8c; linha do lojista de festa de outra cidade cortada (vira anúncio de revenda separado, depois do desconto por volume).
+- **Travas antes de subir verba:** #29 (Festas × Atacarejo), #8c (Pix), #32 (quem responde o WhatsApp).
+
+---
+
 ## 2026-10-13 — Post de sexta 16/10: "Faltam 15 dias pro Halloween. Pra quem vende doce, faltam menos."
 
 [Peça](conteudo/posts/2026-10-16-halloween-calendario-de-quem-vende-doce.md): carrossel de 6 slides (3:4), mecanismo **calendário / janela de tempo**. Os slides 2 a 5 contam de trás pra frente a encomenda de sábado 31/10: divulga até qui 22, fecha sáb 24, compra seg 26 a qua 28, entrega qui 29 e sex 30. O fecho é "manda a lista da sua encomenda no WhatsApp do link da bio".

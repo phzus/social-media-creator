@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-14 — Celmapel: roteiro de anúncio pra comércio (Meta Ads)
+
+Vídeo de ~28s com o Max pra dono de comércio de alimentação: "sem cadastro de distribuidora e sem boleto". Roda sem preço. Passou por validador-copy (3 bloqueantes corrigidos). Trava pra subir verba: #29, #8c, #32. Detalhes em [clients/celmapel-festas/PROGRESSO.md](../clients/celmapel-festas/PROGRESSO.md).
+
+---
+
 ## 2026-10-13 (2) — Post de sexta (16/10) para os 18 clientes ativos
 
 PH: *"Faz de sexta em tds os clientes."* Slot de sexta = venda/carrossel. **18 peças** em `clients/<slug>/conteudo/posts/2026-10-16-*.md`, produzidas em 7 grupos paralelos (concorrentes juntos). **Todas passaram por validador-copy independente** instruído a não confiar na Checagem, e nenhuma passou de primeira. PROGRESSO e OPEN-QUESTIONS de cada cliente atualizados.
