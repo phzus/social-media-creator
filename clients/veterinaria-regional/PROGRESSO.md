@@ -4,6 +4,15 @@ Log datado do trabalho feito pra Veterinária Regional. Topo = mais recente. Ent
 
 ---
 
+## 2026-10-14 — Post de sexta 16/10 vira arte única (Anestesia)
+
+PH: *"no post do dia 16/10 da VR faz ele slide único, podendo até mudar o tema"*. [Peça](conteudo/posts/2026-10-16-anestesia-pergunta-quem-cuida.md) v3.1: o carrossel de 4 slides virou estático no template Educativo. **Tema mantido**, porque a pergunta + giro ("PERGUNTA QUEM CUIDA DA ANESTESIA") fecha a ideia sozinha. As perguntas pro tutor levar à consulta foram pra legenda, agora 5, com "quem vai cuidar da anestesia dele?" no topo.
+
+- **Validação (validador-copy):** a legenda voltava a prometer tirar dúvida de anestesia antes de marcar (bloqueante já pego em 13/10), cortada; "dele" sem antecedente virou "do seu pet"; a linha de apoio diz quando fazer a pergunta.
+- **Prazo:** cliente qui 15/10 até 15h. OQ #17 atualizado.
+
+---
+
 ## 2026-10-13 — Post de sexta 16/10: "Você vem adiando a cirurgia dele por medo da anestesia? / PERGUNTA QUEM CUIDA DA ANESTESIA"
 
 Lote de sexta da carteira. [Peça](conteudo/posts/2026-10-16-anestesia-pergunta-quem-cuida.md), carrossel de 4 slides no grid do template Educativo, quinta venda direta de especialidade. **Anestesia** estreia na conta (uma das 13, [PADROES §9](PADROES.md)).

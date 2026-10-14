@@ -4,6 +4,13 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-14 (3) — Vet Regional 16/10 em arte única + Império: localização da unidade Linha Azul
+
+- **Vet Regional:** o carrossel de Anestesia de 16/10 virou estático (pedido do PH), tema mantido. O validador pegou o bloqueante de 13/10 (tirar dúvida de anestesia antes de marcar) de volta na legenda; corrigido.
+- **Império:** arte nova de localização da unidade Linha Azul. Pendências: foto da fachada e número do endereço. O OQ #15 (Piracema ativa?) segue aberto.
+
+---
+
 ## 2026-10-14 (2) — MR Distribuidora: série #04 (segunda 19/10)
 
 Estático educativo: "O cliente aprovou a cor na amostra. No móvel pronto, jura que pediu outra." Primeira peça da série sobre escolha de material. Passou por validador-copy (1 bloqueante corrigido: afirmação de comportamento de cor sem validação). Detalhes em [clients/mr-distribuidora-mdf/PROGRESSO.md](../clients/mr-distribuidora-mdf/PROGRESSO.md).

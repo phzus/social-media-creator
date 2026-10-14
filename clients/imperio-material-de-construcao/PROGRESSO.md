@@ -4,6 +4,16 @@ Log datado do trabalho feito pro Império. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-10-14 — Arte de localização da unidade Linha Azul: "Tá com obra na Linha Azul? Então conhece a unidade da Império."
+
+PH pediu "arte sobre a unidade de Linha Azul, localização com nova arte". [Peça](conteudo/posts/2026-10-14-unidade-linha-azul-localizacao.md): estático institucional, composição diferente da arte "Onde estamos?" de 31/07 (fachada em tela cheia + cartão de endereço único), sem horário, sem WhatsApp, sem mascote. CTA: salvar o endereço.
+
+- **"Unidade de Linha Azul"** (PH) bate com a arte de 31/07 (duas unidades), mas não confirma que a Piracema segue ativa: OQ #15 continua aberto e o context.md não mudou.
+- **Validação (validador-copy):** saíram o mix de produtos (sem fonte pra Linha Azul), "outro lado de Macaé", o parágrafo da Piracema e os placeholders de WhatsApp/ponto de referência na arte. Headline no molde hiperlocal do PH.
+- **Pendências:** foto da fachada da Linha Azul (sem ela, a arte sai tipográfica) e número do endereço (fallback: rua e bairro). Não achado em fonte pública (busca de 14/10).
+
+---
+
 ## 2026-10-13 — Post de sexta 16/10: "Você de Macaé tá com lona na janela e cortina no lugar da porta do banheiro?"
 
 Lote de sexta da carteira; **primeira peça de oferta da Lone na conta**. [Peça](conteudo/posts/2026-10-16-lona-na-janela-cortina-na-porta.md): estático 4:5, mecanismo **ficha + preço (vitrine)** aberto por pergunta hiperlocal (molde que o PH prefere). Dois cards: **Janela 1x1 R$ 300,00** e **Porta lisa R$ 140,00**, ambos "retirando em loja" (artes de 05/08 em `~/Downloads`, preço a confirmar). Apoio: "Mede o vão antes de vir: a janela é 1x1." CTA: WhatsApp (22) 99743-3328.

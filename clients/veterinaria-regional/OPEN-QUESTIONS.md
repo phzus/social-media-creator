@@ -6,7 +6,7 @@ Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes
 
 [Peça](conteudo/posts/2026-10-16-anestesia-pergunta-quem-cuida.md).
 
-17. 🟢 **Como funciona a Anestesia na clínica?** Anestesista é da equipe fixa ou parceiro? Atende todo dia ou em agenda? Acompanha do pré-anestésico ao despertar? Hoje o único fato confirmado é o nome na lista das 13 especialidades; a peça só diz que a especialidade existe e que dá pra tirar dúvida antes. Com a resposta nas palavras do cliente, o slide 2 ganha uma linha concreta. Vale também confirmar que a equipe responde as 4 perguntas do slide 3 (avaliação antes, idade/peso no plano, quem fica com o pet, volta pra casa).
+17. 🟢 **Como funciona a Anestesia na clínica?** Anestesista é da equipe fixa ou parceiro? Atende todo dia ou em agenda? Acompanha do pré-anestésico ao despertar? Hoje o único fato confirmado é o nome na lista das 13 especialidades; a peça (arte única desde 14/10) só diz que a especialidade existe. Com a resposta nas palavras do cliente, a linha de apoio ganha uma informação concreta. Vale também confirmar que a equipe responde as 5 perguntas da legenda (quem cuida da anestesia, avaliação antes, idade/peso no plano, quem fica com o pet, volta pra casa).
 
 ---
 
