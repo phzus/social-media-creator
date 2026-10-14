@@ -224,6 +224,8 @@ São **dois perfis ativos** — **@venezaestofados_araruama** (Araruama) e **@ve
 - 🚫 **Não pode sem dado do cliente:** "de R$ X por R$ Y", "% off", "menor preço do ano", "só hoje" ou contagem regressiva de estoque. Preço vigente não autoriza anunciar desconto.
 - 🚫 **Nenhuma peça de Esquenta ou Black Friday promete prazo ou velocidade de entrega.** Campanha de volume numa marca cuja maior queixa é atraso é exatamente onde esse risco aparece.
 - **A identidade de campanha tem data de fim.** Volta pra identidade padrão logo depois da Black Friday (27/11/2026). Se ficar no ar, vira o padrão e perde o efeito — e a conta já teve identidade dispersa no diagnóstico (§1).
+- **(14/10) Combo do Esquenta: Base Baú + Colchão com 5% de desconto**, informado pelo cliente — o "5%" pode ir na peça. Nome proposto: **Combo Cama Nova** ([plano](estrategia/2026-10-esquenta-black-combo-cama-nova.md)). "Fabricamos" só pra base baú; colchão é revenda (§8). Antes de anunciar: confirmar que o 5% não é o mesmo 5% do PIX do site (§9), a validade e se vale nas duas unidades.
+- **Dosagem:** a campanha fica com no máximo 2 de cada 5 posts de feed; produto fora da campanha, prova e institucional seguem saindo (PH, 14/10). Frequência de campanha vai pros stories.
 - **Logo e @ continuam** na peça de campanha (§4). A identidade muda cor de fundo, tarja e tipografia de destaque, não a assinatura.
 - Black Friday: a Lone começa a desenvolver em outubro. Se a Gabriela for contratada, ela produz o conteúdo de BF pra rodar no meio de novembro, no formato de vídeo de um produto só.
 

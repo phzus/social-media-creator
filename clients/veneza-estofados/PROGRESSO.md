@@ -4,6 +4,19 @@ Log datado do trabalho feito pra Veneza Estofados. Topo = mais recente. Entrada 
 
 ---
 
+## 2026-10-14 (2) — Esquenta Black: "Combo Cama Nova" (base baú + colchão, 5%) e dosagem até 30/10
+
+PH trouxe a campanha que a Veneza lançou pra outubro: *Esquenta Black Friday · Promoção Base Baú + Colchão · 5% de desconto no valor total da compra* ([referência](referencias/2026-10-14-campanha-esquenta-black-base-bau-colchao.md)). Pediu nome pro combo e que o calendário não vire só campanha.
+
+[Plano](estrategia/2026-10-esquenta-black-combo-cama-nova.md):
+- **Nome:** Combo Cama Nova (sugestão do PH, recomendado). Sem "de fábrica" no nome: colchão é revenda.
+- **Dosagem 21–30/10:** 2 de 5 posts de feed na campanha (sex 23 lançamento estático, qua 28 Reels do combo). Os outros: Reels de fábrica da base baú (qua 21, aquece sem anunciar), sofá fora do combo (seg 26), prova com avaliação do Google (sex 30). Campanha ganha frequência nos stories.
+- **🔴 Achado:** o site já dá **5% no PIX** em tudo. Se o 5% da campanha for o mesmo, o "Esquenta" não traz condição nova. Pergunta pro Mateus junto com validade e unidades; sem essas três, a arte de 23/10 não vai pro cliente.
+
+**Atualizados:** OQ #18 · PADROES §16 · memória do cliente.
+
+---
+
 ## 2026-10-14 — Post de segunda 19/10 (institucional): "Achou barato demais pra ser bom? A resposta tá na fábrica."
 
 [Peça](conteudo/posts/2026-10-19-barato-demais-resposta-na-fabrica.md): **primeira aplicação do institucional simplificado** (§14), arte única, mesma arte nos dois perfis (§15, sem cidade nem KM 90). Ângulo: a objeção "tá barato, deve ser ruim" que o Carlos levantou na reunião de 13/10. A fábrica responde, com fato da ficha (eucalipto reflorestado, espuma D28).

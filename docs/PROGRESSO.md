@@ -4,6 +4,13 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-14 (6) — Veneza: Esquenta Black "Combo Cama Nova" + novo subagent analista-tendencias
+
+- **Veneza:** campanha Base Baú + Colchão com 5% virou o "Combo Cama Nova", com dosagem de 2 em 5 posts de feed até 30/10 ([plano](../clients/veneza-estofados/estrategia/2026-10-esquenta-black-combo-cama-nova.md)). Pergunta bloqueante: o 5% é o mesmo do PIX do site?
+- **Subagent novo:** [analista-tendencias](../.claude/agents/analista-tendencias.md), adaptado do `trend-analyst` da coleção VoltAgent (MIT). O original é foresight corporativo (patentes, Delphi) com números de exemplo inventados; a versão da Lone lê o cliente antes, exige fonte com link e data, nunca inventa métrica e filtra por ponte com o produto. Registrado na tabela do CLAUDE.md.
+
+---
+
 ## 2026-10-14 (5) — Segunda 19/10: Max, CIIL, Atlas, Contele, BodySkin e WT
 
 Seis peças produzidas em paralelo (um agente por cliente), cada uma passada pelo validador-copy com instrução de não confiar na Checagem. Lote completo de 19/10, com VR, Veneza e MR:

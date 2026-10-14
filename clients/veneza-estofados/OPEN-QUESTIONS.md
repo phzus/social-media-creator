@@ -26,6 +26,7 @@ Pendências herdadas da "Fase 0 — Destravar" e do §12 do [documento-fonte](re
 
 17. 🔴 **Produtos do Esquenta Black, com preço vigente.** Mateus vai selecionar (sofás de entrada + base baú com colchão). Trava a campanha, que precisa estar no ar no fim de outubro.
 18. 🟡 **Dados dos combos** — base baú + colchão, com as faixas de desconto. Pendente desde setembro; a peça (post e talvez vídeo) só sai com eles.
+    - **14/10 (parcial):** campanha recebida via PH: *"Esquenta Black Friday · Promoção Base Baú + Colchão · 5% de desconto no valor total da compra"* ([referência](referencias/2026-10-14-campanha-esquenta-black-base-bau-colchao.md)). Nome proposto: **Combo Cama Nova**. Ainda falta, antes da arte de 23/10 ([plano](estrategia/2026-10-esquenta-black-combo-cama-nova.md)): 🔴 o 5% acumula com o 5% do PIX do site? · 🔴 até quando vale? · 🔴 vale nas duas unidades e no site? · 🟡 tamanhos e preços · 🟡 "valor total" é do combo ou da compra inteira? · 🟡 marca/modelo do colchão por escrito · 🟢 aprova o nome?
 19. 🟡 **Vídeo do feirão de Nova Iguaçu** — o próprio cliente reconheceu que está devendo.
 20. 🟢 **Números do mês recorde (setembro)** — valores e percentual não foram ditos na chamada.
 21. 🟢 **Feedback do mês da unidade de Nova Iguaçu** — Mateus vai buscar com o responsável de lá.
