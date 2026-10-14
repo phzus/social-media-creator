@@ -4,13 +4,13 @@ Log datado do trabalho feito pra Celmapel. Topo = mais recente. Entrada por bloc
 
 ---
 
-## 2026-10-14 — Roteiro de anúncio (Meta Ads): comércio compra sem cadastro de distribuidora e sem boleto
+## 2026-10-14 — Roteiro de anúncio (Meta Ads): balão, embalagem e confeitaria na mesma loja
 
-[Roteiro](conteudo/roteiros/2026-10-14-anuncio-comercio-sem-cadastro.md): vídeo 9:16 de ~28s com o Max, dois ganchos pra A/B, texto principal, título, botão e mensagem pronta de WhatsApp. Público: dono de açaiteria, sorveteria, lanchonete e restaurante da região.
+[Roteiro](conteudo/roteiros/2026-10-14-anuncio-produtos-principais.md): vídeo 9:16 de ~30s com a Taísa, dois ganchos pra A/B, bloco opcional de preço (só com produto + preço + validade do Max), texto principal, título, botão e mensagem pronta de WhatsApp.
 
-- **Por que esse ângulo:** é o único anúncio de venda que roda sem preço (produto + preço + validade de outubro seguem pendentes, #10). Vende facilidade de compra, com os fatos ditos pelo Max em 02/10; puxa a frente que não é festa.
-- **Validação (validador-copy):** 3 bloqueantes corrigidos (fala estourava 30s; "sem cadastro" sem o "de distribuidora" da fonte; "compra do mesmo jeito que todo mundo" sem fonte). Pix saiu até #8c; linha do lojista de festa de outra cidade cortada (vira anúncio de revenda separado, depois do desconto por volume).
-- **Travas antes de subir verba:** #29 (Festas × Atacarejo), #8c (Pix), #32 (quem responde o WhatsApp).
+- **Ângulo:** venda dos carros-chefe (balão, embalagem/descartável, doce/confeitaria). A v1, pra dono de comércio ("sem cadastro de distribuidora e sem boleto"), foi recusada por PH: *"bem mais focado na venda dos produtos principais mesmo"*. Fica no git (ebe083b) pra linha de tráfego de comércio.
+- **Validação (validador-copy):** a dor "roda três lojas" saiu por ser falsa (Armazém das Festas e Vivian também vendem confeitaria e descartável); o diferencial ficou em variedade + duas opções. Fala cortada pra caber em 30s; promessas de disponibilidade sem fonte retiradas.
+- **Roda sem preço** (#10 em aberto). **Trava pra subir verba:** #32 (quem responde o WhatsApp).
 
 ---
 

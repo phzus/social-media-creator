@@ -4,9 +4,9 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
-## 2026-10-14 — Celmapel: roteiro de anúncio pra comércio (Meta Ads)
+## 2026-10-14 — Celmapel: roteiro de anúncio dos produtos principais (Meta Ads)
 
-Vídeo de ~28s com o Max pra dono de comércio de alimentação: "sem cadastro de distribuidora e sem boleto". Roda sem preço. Passou por validador-copy (3 bloqueantes corrigidos). Trava pra subir verba: #29, #8c, #32. Detalhes em [clients/celmapel-festas/PROGRESSO.md](../clients/celmapel-festas/PROGRESSO.md).
+Vídeo de ~30s com a Taísa: balão, embalagem e confeitaria na mesma loja, marca conhecida × mais em conta. Substitui a v1 (anúncio pra comércio), recusada por PH. Passou por validador-copy. Trava pra subir verba: #32. Detalhes em [clients/celmapel-festas/PROGRESSO.md](../clients/celmapel-festas/PROGRESSO.md).
 
 ---
 
