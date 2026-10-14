@@ -4,6 +4,16 @@ Log datado do trabalho feito pra MR Distribuidora. Topo = mais recente. Entrada 
 
 ---
 
+## 2026-10-14 — Post de segunda 19/10: "O cliente aprovou a cor na amostra. No móvel pronto, jura que pediu outra."
+
+[Peça](conteudo/posts/2026-10-19-cor-aprovada-pela-amostra.md): estático, **#04 da série "Detalhe que gera indicação"**. PH pediu "estático educativo ou institucional"; fica no educativo porque a #04 estava em aberto desde 05/10.
+
+- **Giro na série:** primeira peça sobre **escolha de material** (pilar "Material certo, aplicação certa"), não execução. O detalhe é o tamanho em que a decisão foi tomada (amostra na mão × móvel na parede). Headline sai do molde "Ninguém…"; etiqueta e layout seguram a série.
+- **Validação (validador-copy):** saiu "o tom claro escurece / o veio aparece" (comportamento de material sem validação e com direção duvidosa); headline encurtada e ancorada em móvel (lia como tinta); apoio sem promessa impossível; CTA de MDF literal, sem "na MR".
+- **Travas:** pergunta pro balcão (a dor é hipótese do Briefing) e catálogo de padrões pelo WhatsApp (fallback de CTA pronto). Brief pro designer até qui 15/10, cliente sex 16/10 até 15h.
+
+---
+
 ## 2026-10-13 — Post de sexta 16/10: "A tomada do cliente não estava onde o projeto dizia. E a sua tico-tico ficou na oficina."
 
 [Peça](conteudo/posts/2026-10-16-tico-tico-da-van.md): **primeiro carrossel** (4 slides) e **primeira peça do pilar "Oferta com motivo"** da conta. Fora da série "Detalhe que gera indicação".

@@ -7,6 +7,11 @@ As 30 perguntas abaixo vieram do próprio Briefing Estratégico (§17), organiza
 
 ---
 
+## 📅 2026-10-14 — Série #04 (segunda 19/10, cor aprovada pela amostra)
+
+- 🟡 **Pergunta pro balcão:** "Vocês veem cliente estranhar a cor do padrão no móvel pronto, em relação à amostra?" A dor vem do Briefing Estratégico (hipótese) e a legenda diz que "o tom muda conforme a luz" ([PADROES §1](PADROES.md)). Peça: [2026-10-19](conteudo/posts/2026-10-19-cor-aprovada-pela-amostra.md).
+- 🟢 **A MR tem catálogo de padrões pra mandar pelo WhatsApp?** Se não tiver, o CTA vira "Pergunte no WhatsApp quais padrões a MR tem disponíveis".
+
 ## 📅 2026-10-13 — Primeira peça de oferta (sexta 16/10, serra tico-tico)
 
 - 🔴 **Preço da Serra tico-tico Sigma SGT-5221-PRO 110V:** R$ 206,40 à vista / R$ 229,40 em até 6x no cartão vêm da arte "Mês dos Pais" de 18/08, provavelmente promocional. Confirmar o preço atual e se o item segue em estoque antes de publicar. Peça: [2026-10-16](conteudo/posts/2026-10-16-tico-tico-da-van.md).

@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-14 (2) — MR Distribuidora: série #04 (segunda 19/10)
+
+Estático educativo: "O cliente aprovou a cor na amostra. No móvel pronto, jura que pediu outra." Primeira peça da série sobre escolha de material. Passou por validador-copy (1 bloqueante corrigido: afirmação de comportamento de cor sem validação). Detalhes em [clients/mr-distribuidora-mdf/PROGRESSO.md](../clients/mr-distribuidora-mdf/PROGRESSO.md).
+
+---
+
 ## 2026-10-14 — Celmapel: roteiro de anúncio dos produtos principais (Meta Ads)
 
 Vídeo de ~30s com a Taísa: balão, embalagem e confeitaria na mesma loja, marca conhecida × mais em conta. Substitui a v1 (anúncio pra comércio), recusada por PH. Passou por validador-copy. Trava pra subir verba: #32. Detalhes em [clients/celmapel-festas/PROGRESSO.md](../clients/celmapel-festas/PROGRESSO.md).
