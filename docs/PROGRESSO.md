@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-14 (9) — analista-tendencias testado na Vet Regional
+
+Primeiro uso real do subagent: seguiu o procedimento (leu as 14 peças recentes, fonte com link e data, confirmado × inferido, 12 descartadas com motivo, admitiu que não achou trend de vídeo datada). Achou um erro real: a peça de raiva de 25/09 usava a campanha da Prefeitura de 2025 (conferido e corrigido). Gerou a peça de 30/10 (orelha na volta da praia). Nota pra carteira: possível limite de 5 hashtags por post no Instagram (fonte secundária), conferir no app.
+
+---
+
 ## 2026-10-14 (8) — Complexo Vida excluída (não é mais cliente)
 
 PH confirmou que pediu a exclusão: a Complexo Vida não é mais cliente. Pasta removida de novo, agora registrada. Linha ⚫ no CLIENTES-INDEX aponta o commit `8e2d7a6` como o último com a pasta (recuperável com `git checkout 8e2d7a6 -- clients/complexo-vida`). As entradas antigas deste PROGRESSO que citam a pasta ficam como histórico. Seguem sem status no índice: Nova União Glass e Quero Tintas.

@@ -69,6 +69,9 @@ Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes
 
 13. **Conflito de calendário na sexta 25/09.** A peça de raiva ([2026-09-25-raiva-alerta-morcego.md](conteudo/posts/2026-09-25-raiva-alerta-morcego.md)) e a de Odontologia venda direta ([2026-09-25](conteudo/posts/2026-09-25-especialidade-odontologia-venda-direta.md)) disputam o mesmo slot. Proposta da Lone: raiva publica no 25 (perecível — ponto itinerante de vacinação sai da Praça de São Vicente em 27/09 e o Dia Mundial de Combate à Raiva é 28/09) e Odontologia desloca pra 02/10. **PH decide.**
 
-14. **A clínica topa indicar a vacinação gratuita da Prefeitura?** A peça de raiva manda o tutor vacinar de graça no Parque de Exposições em vez de na clínica. É aposta de autoridade (informar o que é melhor pro pet mesmo sem faturar) mas mexe com receita de vacina — **o cliente precisa topar**. Variação sem o parágrafo da campanha já descrita na própria peça.
+18. 🟡 **(14/10) Peça de 30/10 (orelha na volta da praia):** pedir que a equipe da clínica leia a orientação de secar a orelha, sem cotonete, e os sinais; e confirmar se abre no feriadão de Finados (31/10–02/11).
+
+14. 🔴 **(14/10) A peça de raiva de 25/09 tinha dados da campanha de 2025** (03/09 a 19/12, gratuita, a partir de 3 meses). Corrigida pra 2026 (26/09 a 10/12, Parque de Exposições 9h-16h). **PH: a v1 foi publicada?** Se sim, editar a legenda no ar; a arte dizia "gratuita", que a notícia de 2026 não confirma.
+    **A clínica topa indicar a vacinação gratuita da Prefeitura?** A peça de raiva manda o tutor vacinar de graça no Parque de Exposições em vez de na clínica. É aposta de autoridade (informar o que é melhor pro pet mesmo sem faturar) mas mexe com receita de vacina — **o cliente precisa topar**. Variação sem o parágrafo da campanha já descrita na própria peça.
 
 15. 🟡 **Ponto itinerante da Praça de São Vicente (23-27/09)** — aparece na cobertura de imprensa, não conferi na agenda oficial da Prefeitura se funciona sexta/sábado. Ficou fora da legenda. Se PH confirmar por telefone, dá pra somar uma linha antes de publicar.

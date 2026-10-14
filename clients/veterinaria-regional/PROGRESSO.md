@@ -4,6 +4,14 @@ Log datado do trabalho feito pra Veterinária Regional. Topo = mais recente. Ent
 
 ---
 
+## 2026-10-14 (3) — Primeiro uso do analista-tendencias + correção da peça de raiva + peça de 30/10
+
+- **[Relatório de tendências 20/10–15/11](referencias/2026-10-14-tendencias-20-10-a-15-11.md):** 5 oportunidades com fonte e data (Dia Mundial do Diabetes 14/11, "depois do temporal" com El Niño, feriadão de Finados e orelha, Halloween meme, campanha antirrábica 2026), 12 descartadas com motivo. Nenhuma trend de vídeo confirmada no período.
+- **🔴 Achado:** a peça de raiva de 25/09 usava a campanha da Prefeitura de **2025**. Conferido na fonte: a de 2026 vai de 26/09 a 10/12, Parque de Exposições 9h–16h, sem menção a gratuidade ou idade mínima. Banner e legenda corrigidos; OQ #14 pergunta se a v1 já foi ao ar.
+- **[Peça de sex 30/10](conteudo/posts/2026-10-30-voltou-da-praia-olha-a-orelha.md):** Dermatologia, "Vai levar ele pra praia no feriado? Na volta, antes de guardar a toalha, OLHA A ORELHA DELE". Validador pegou kicker no tempo errado (peça sai antes do feriado) e âncora em tricolon; corrigidos. Pendência: equipe ler a orientação (OQ #18).
+
+---
+
 ## 2026-10-14 (2) — Post de segunda 19/10: Mito x Verdade "Ele tá bebendo mais água, deve ser o calor" (Nefrologia)
 
 [Peça](conteudo/posts/2026-10-19-mito-bebe-mais-agua-por-causa-do-calor.md): o Mito x Verdade volta ao slot de segunda (não rodava desde 28/09). **Especialidade nova na conta: Nefrologia.** Gancho sazonal: outubro esquentando, tutor põe a sede na conta do tempo. CTA de comentário (rodízio §7).

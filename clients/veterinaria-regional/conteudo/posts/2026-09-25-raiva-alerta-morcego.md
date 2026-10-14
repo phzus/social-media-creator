@@ -2,6 +2,8 @@
 
 **Cliente:** veterinaria-regional · **Data:** 2026-09-25 (sexta) · **Plataforma:** Instagram (feed 4:5) · **Pilar:** Alerta sanitário · **Formato:** Estático — template **Alerta** ([PADROES §3](../../PADROES.md))
 
+> 🔴 **CORREÇÃO 2026-10-14 (analista-tendencias + conferência na fonte):** a v1 usou a notícia da Prefeitura de **03/09/2025** (campanha do ano passado). A campanha de **2026** vai de **26/09 a 10/12/2026**, com ponto fixo no **Parque de Exposições, das 9h às 16h** ([Prefeitura, 23/09/2026](https://www.araruama.rj.gov.br/noticia/parque-de-exposicoes-sera-ponto-permanente-da-vacinacao-antirrabica-durante-campanha-em-araruama)). A notícia de 2026 **não informa** gratuidade, idade mínima nem dias da semana, e a Praça de São Vicente em 2026 é só em 14/11. Banner e legenda corrigidos abaixo. **Se a v1 já foi publicada, editar a legenda no ar** (a arte com "gratuita" precisa de confirmação ou troca).
+>
 > ⚠️ **Correção de premissa antes de qualquer coisa.** PH trouxe o tema como "surto de raiva no estado do Rio". **Não é surto.** O que existe é **um caso confirmado**, em um cão de Santa Cruz (Zona Oeste da capital), diagnosticado em agosto, com alerta divulgado pela **SES-RJ em 18/09/2026**. O animal teve contato com morcego e foi eutanasiado; as pessoas expostas receberam profilaxia e **nenhum caso humano foi registrado**.
 >
 > Escrever "surto" numa peça de clínica veterinária seria inventar incidência sem fonte — proibido por [PADROES §6](../../PADROES.md) — e é o tipo de erro que custa caro justamente pra quem vende credibilidade médica. A peça foi construída em cima do fato real, que é forte o suficiente sozinho.
@@ -47,7 +49,7 @@ A sexta 25/09 **já tem peça escrita**: [Odontologia venda direta](2026-09-25-e
 > **VEIO DE UM MORCEGO.**
 
 **Banner pill:**
-> Em Araruama a vacina está gratuita — veja onde na legenda
+> Em Araruama tem campanha de vacinação até 10/12 — veja onde na legenda
 
 ---
 
@@ -64,7 +66,7 @@ O que o CRMV-RJ orienta aos tutores:
 • Gato dentro de casa, com tela de proteção nas janelas
 • Nunca encostar em morcego, vivo ou morto, nem deixar o pet encostar
 
-Aqui em Araruama a vacina está gratuita. A Prefeitura vacina cães e gatos a partir de 3 meses no Parque de Exposições, a Fazendinha, de segunda a sexta, das 9h às 16h, até 19 de dezembro.
+Aqui em Araruama a Prefeitura está com campanha de vacinação antirrábica de cães e gatos até 10 de dezembro, com ponto fixo no Parque de Exposições, no Centro, das 9h às 16h.
 
 Se o seu pet teve contato com morcego ou com qualquer animal silvestre, não espera sinal nenhum aparecer. Chama no WhatsApp (22) 99793-2384 que a gente te orienta sobre o que fazer.
 
