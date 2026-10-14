@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-14 (8) — Complexo Vida excluída (não é mais cliente)
+
+PH confirmou que pediu a exclusão: a Complexo Vida não é mais cliente. Pasta removida de novo, agora registrada. Linha ⚫ no CLIENTES-INDEX aponta o commit `8e2d7a6` como o último com a pasta (recuperável com `git checkout 8e2d7a6 -- clients/complexo-vida`). As entradas antigas deste PROGRESSO que citam a pasta ficam como histórico. Seguem sem status no índice: Nova União Glass e Quero Tintas.
+
+---
+
 ## 2026-10-14 (7) — Correções do /code-review (9 achados)
 
 1. **151 arquivos de cliente apagados do disco, sem registro, restaurados do git:** arte-em-manipulacao, dumar, tindaro-solar (encerrados: o índice manda "manter pasta para histórico"), engetec (em onboarding), complexo-vida, nova-uniao-glass, quero-tintas e bodyskin-araruama-rascunho-24-07. ⚠️ **Se a exclusão foi intencional (PH):** decidir arquivar e registrar aqui. Complexo Vida, Nova União Glass e Quero Tintas não aparecem no CLIENTES-INDEX: falta dizer o status deles.
