@@ -76,7 +76,7 @@ O problema que o cliente apontou não se resolve escrevendo melhor. Resolve-se c
 | 04 | Seg 28/09 | **Lúpus** | Reumatologia | 🆕 nova |
 | 05 | Seg 05/10 | **Dermatite Atópica** | Dermatologia | ✅ [escrita](../conteudo/posts/2026-10-05-isso-tem-nome-05-dermatite-atopica.md) — repescagem com eixo "onde", não "quando" |
 | 06 | Seg 12/10 | **Espondilite Anquilosante** | Reumatologia | 🆕 nunca produzida |
-| 07 | Seg 19/10 | **Retocolite Ulcerativa** | Gastro ⚠️ não nomear especialista | 🆕 nova |
+| 07 | Seg 19/10 | **Retocolite Ulcerativa** | Gastro ⚠️ não nomear especialista | ✅ [escrita](../conteudo/posts/2026-10-19-isso-tem-nome-07-retocolite-ulcerativa.md) em 14/10, retida (RT + PAUTA #5). ⚠️ vira `06 de 10` se a peça 06 não foi ao ar |
 | 08 | Seg 26/10 | **Hidradenite Supurativa** | Dermatologia | 🆕 nova |
 | 09 | Seg 02/11 | **Asma** | Pneumo/alergo ⚠️ não nomear especialista | 🆕 nova |
 | 10 | Seg 09/11 | **Artrite Psoriásica** | Reumatologia + Dermatologia | 🆕 fecha o arco pele→articulação |

@@ -4,6 +4,20 @@ Log datado do trabalho feito pra WT Shopping. Topo = mais recente. Entrada por b
 
 ---
 
+## 2026-10-14 — Post de segunda 19/10: "Ração que amolece no fim do saco nem sempre é culpa da marca" (pet/loja)
+
+[Peça](conteudo/posts/2026-10-19-racao-molenga-no-fim-do-saco.md), arte única, frente **pet/loja**, leve/educativo de segunda. Mecanismo: **objeto do dia a dia como solução** (saco dobrado e preso com prendedor de roupa, longe do sol e do chão). CTA "Chama no WhatsApp (22) 99789-8072 e compra o próximo saco antes de faltar", que fecha na recompra de ração (a porta de entrada da loja, [BRIEFING §2](BRIEFING.md)).
+
+**Por que pet/loja:** pet/loja e clínica carregam a conta ([PADROES §6](PADROES.md)) e pet não sai desde 05/10. **Descartado:** clínica (Veterinária Regional sai no mesmo dia com Mito x Verdade de sede/rim + gate de CRMV aberto) · piscina (02 e 16/10) · jardim (eventual, 12/10) · agro (sem mix, [OQ #7](OPEN-QUESTIONS.md)).
+
+**Isolamento com a VR:** nada de água, tigela, sede, apetite, sinal de saúde ou órgão; sem "outubro esquentou" (kicker da VR); formato diferente (headline + foto de objeto × split Mito x Verdade).
+
+**Validação (validador-copy):** 2 bloqueantes aplicados — "segura a ração boa até o último punhado" (promessa absoluta) e fatos sem fonte sobre tamanho/duração do saco e cômodo do leitor ("saco grande", "semanas", "na maioria das casas", "área de serviço"). Recomendados aplicados: headline sem "ele" ambíguo e sem pergunta (seria a 4ª seguida com "?"), bullet de descarte cobrindo ração amolecida, CTA da arte sem segunda pergunta. Sem preço, marca, estoque, entrega ou reserva.
+
+**Pendências (não travam):** pote hermético à venda e entrega/reserva por WhatsApp deixariam o CTA mais vendedor ([OQ #7](OPEN-QUESTIONS.md)). Linha temática da semana 19-23/10 não está definida pra WT. Brief pro designer até qui 15/10; envio ao cliente sex 16/10 até 15h.
+
+---
+
 ## 2026-10-13 — Post de sexta 16/10: "Daqui a 10 sextas é Natal. A piscina vai estar pronta pro primeiro mergulho?" (piscina)
 
 > Ajuste de lote (orquestrador, 13/10): "casa cheia" trocado por "primeiro mergulho" na headline e na legenda, porque Dijana e Maicom abriram na mesma cena de fim de ano no mesmo dia.

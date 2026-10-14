@@ -4,6 +4,14 @@ Pendências a resolver com PH / com o cliente. Diferente dos outros onboardings,
 
 > ⚠️ **Escalado em 2026-08-10, confirmado em 2026-08-12:** contando o post de sexta 14/08 (produzido), são 4 peças seguidas (03/08, 07/08, 12/08, 14/08) rodando fora do Pilar 2 e do Pilar 3 pelos itens 1 e 1b abaixo. O grid não tem variação de fundo Ink (Pilar 2) nem foto real (Pilar 3) ainda. Vale priorizar a resposta desses dois itens com o cliente antes do feed ficar repetitivo.
 
+## 🟡 2026-10-14 — Post de segunda 19/10 ("Quanto tempo uma EcoFlow aguenta?")
+
+1. 🟡 **Arte só com EcoFlow ou variante de categoria?** PH pediu EcoFlow, e a arte (kicker + headline) cita só ela. A BLUETTI aparece na legenda (1º parágrafo) e na hashtag. Pela regra de coexistência ([PADROES §8](PADROES.md)), o grid pode ler exclusividade. A variante "DICA · ESTAÇÃO DE ENERGIA" está pronta na [peça](conteudo/posts/2026-10-19-quanto-tempo-a-ecoflow-aguenta.md): PH escolhe.
+2. 🟡 **"ENERGIA" volta a rodar no direct.** Ela não aparecia desde 15/09. Avisar quem responde que a pessoa vai mandar a lista de aparelhos, e que a resposta é a conta (nunca "qual marca é melhor").
+3. 🟡 **Kit de marca EcoFlow** (item 14 abaixo) segue sem chegar. A peça roda só em tipografia.
+
+---
+
 ## 🟡 2026-10-13 — Post de sexta 16/10 ("12 contas de luz por ano")
 
 1. 🟡 **Fio B (Lei 14.300/2022):** o sistema homologado a partir de 2023 paga uma parte do Fio B sobre a energia compensada. As peças de 05/10 e 16/10 dizem que "o mínimo de ligação e a iluminação pública continuam chegando", e isso pode soar como a lista completa. **A Contele confirma** como explica isso na proposta? Se o Fio B pesa nos sistemas que ela instala, as duas legendas ganham "entre outras parcelas" ou uma linha própria.

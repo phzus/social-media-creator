@@ -4,6 +4,28 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-14 (5) — Segunda 19/10: Max, CIIL, Atlas, Contele, BodySkin e WT
+
+Seis peças produzidas em paralelo (um agente por cliente), cada uma passada pelo validador-copy com instrução de não confiar na Checagem. Lote completo de 19/10, com VR, Veneza e MR:
+
+| Cliente | Formato | Headline (resumo) | Mecanismo | CTA | Trava |
+|---|---|---|---|---|---|
+| Max | estático, Descomplica #04 | "Começou na segunda, e a carteira ficou pra depois da experiência. Mas a experiência já é contrato" | cena + giro (DP, contratação de fim de ano) | canal a confirmar | escritório confirmar a regra CLT; canal (OQ F) |
+| CIIL | estático, Isso Tem Nome | "Viagem, fila, reunião: você só relaxa depois de saber onde fica o banheiro" | rotina que virou "jeito de ser" (Retocolite) | WhatsApp, "te orienta" | OK do RT; numeração 06 ou 07; paciente sem diagnóstico (pauta #5) |
+| Atlas | estático | "O atestado diz 60 dias de repouso. Ninguém mandou atestado pros boletos" | contraste com objeto (afastamento por saúde) | salva | corretor confirmar cobertura de afastamento temporário |
+| Contele | estático | "Quanto tempo uma EcoFlow aguenta? Depende do que você liga nela" | ensinar a conta W/Wh | DM "ENERGIA" | nenhuma (arte só EcoFlow × versão de categoria: PH decide) |
+| BodySkin | estático, "Dúvida que mais chega aqui" #3 | "Vou começar o laser. Posso manter a cera entre as sessões?" | pergunta + resposta que contraria | avaliação gratuita (link) | RT/Cintia confirmar orientação de cera/lâmina |
+| WT | estático, pet/loja | "Ração que amolece no fim do saco nem sempre é culpa da marca" | objeto doméstico resolve (armazenamento) | WhatsApp | nenhuma |
+| VR | estático, Mito x Verdade | "Ele tá bebendo mais água, deve ser o calor" | mito × verdade (Nefrologia) | comentário | equipe ler a frase do gato |
+| Veneza | institucional §14 | "Achou barato demais pra ser bom? A resposta tá na fábrica" | objeção dita em voz alta | visita | WhatsApp de Nova Iguaçu |
+| MR | estático, série #04 | "O cliente aprovou a cor na amostra. No móvel pronto, jura que pediu outra" | decisão na escala errada | catálogo no WhatsApp | balcão confirmar a dor |
+
+**Variedade do lote:** sem colisão entre concorrentes; WT (pet) isolada da VR (sede/rim). Ponto de atenção: VR, BodySkin e WT caem todas na família "crença comum → correção", e Max, MR e Atlas na estrutura "cena + giro na 2ª linha". Formatos e CTAs variam.
+
+**Fora da peça (apontado pelos agentes):** Atlas, tema de sexta 23/10 repete headline de 24/08; CIIL, Crohn sem data no calendário; BodySkin, calendário previa carrossel de caixinha sem caixinha registrada.
+
+---
+
 ## 2026-10-14 (4) — Segunda 19/10: Vet Regional e Veneza (MR já estava pronta)
 
 - **Vet Regional:** Mito x Verdade de Nefrologia ("bebendo mais água, deve ser o calor"). O validador barrou a verdade que mandava esperar o tempo esfriar.

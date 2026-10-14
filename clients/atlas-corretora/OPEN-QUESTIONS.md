@@ -5,6 +5,17 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🔴 Nova (2026-10-14) — post de 19/10 (afastamento por saúde): resposta do corretor até sex 16/10
+
+A [peça de 19/10](conteudo/posts/2026-10-19-atestado-de-repouso-e-os-boletos.md) tem a arte liberada. A legenda aponta o leitor pro planejamento familiar nos meses de recuperação ([PADROES §2](PADROES.md)).
+
+1. A Atlas vende **cobertura pra afastamento temporário por doença ou acidente** (diária por incapacidade temporária ou equivalente) dentro do planejamento familiar? Com quais seguradoras? **Sim** → sobe a versão com afirmação. **Não** → a ponte sai da legenda. A resposta também serve pro vídeo de qua 21/10 (invalidez e doenças graves), que **ainda não tem roteiro**.
+2. Quem responde o direct sabe responder "isso entra no planejamento familiar?" ([OQ #4](#4)).
+3. **PH:** o trimestral entregue ao cliente diz "Outubro Rosa entra pela renda" nesta semana, e a peça não nomeia a campanha. Avisar o cliente? Ele quer stories institucional da data, sem produto?
+4. **PH (de passagem):** o tema mapeado pra sex 23/10 ("Quem conta com a sua renda todo mês?") repete a headline de 24/08. Precisa de outro ângulo.
+
+---
+
 ## 🟡 Nova (2026-10-13) — o que o calendário 2025 do cliente abre
 
 PH trouxe o [calendário 2025 do cliente](referencias/2026-10-13-calendario-editorial-2025-do-cliente.md). É intenção, não plano vigente: nada de percentual, brinde ou sorteio de 2025 entra sem validação.

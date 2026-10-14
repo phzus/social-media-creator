@@ -4,6 +4,28 @@ Log datado do trabalho feito pra Contele. Topo = mais recente. Entrada por bloco
 
 ---
 
+## 2026-10-14 — Post de segunda 19/10: "Quanto tempo uma EcoFlow aguenta?"
+
+PH: *"contele (ecoflow)"*. [Estático](conteudo/posts/2026-10-19-quanto-tempo-a-ecoflow-aguenta.md) no Pilar 1, layout assimétrico com bloco de dado em mono (`W` e `Wh`). O mecanismo é pergunta + giro na arte, com a conta passo a passo na legenda.
+
+**Ângulo novo:** a objeção central do produto segundo o próprio briefing da EcoFlow ([ref. 28/08](referencias/2026-08-28-parceria-ecoflow-powersafe.md)), "isso aguenta o quê?". Nenhuma das seis peças de estação de energia tinha respondido. A peça não dá número de autonomia: ensina a ler watts (o que fica ligado ao mesmo tempo) e watt-hora (quanta energia a estação guarda). A geladeira tem parágrafo próprio, com a conversão de kWh/mês e o aviso de que o motor puxa mais na partida. A ressalva de chuveiro e ar-condicionado está presente.
+
+**Descartado por repetição:** apagão on-grid (31/08, 11/09), escolha por cenário (04/09), nobreak (07/09), uso fora de casa (02/10) e cliente que fechou (09/10).
+
+**Travas:** zero modelo, preço, faixa, garantia, estoque e número de autonomia. Não vai spec na copy: RIVER 3 (245 Wh / 300 W) só confirma que a ficha oficial traz as duas medidas. "Estação de energia", nunca "gerador". A BLUETTI entra no 1º parágrafo da legenda e na hashtag, sem comparação.
+
+**CTA:** "manda ENERGIA no direct" com a lista do que a pessoa quer manter ligado. É a palavra-chave das duas marcas (15/09). Fica sem WhatsApp.
+
+**Validação de copy (subagent) aplicada:**
+- A headline perdeu o "depende menos dela e mais…", que contradizia a conta.
+- `Wh` na arte virou "quanta energia ela guarda". Wh é energia, não tempo.
+- A geladeira ganhou a conversão de kWh/mês e o aviso de pico na partida.
+- "Um pouco menos" virou "menos".
+
+🟡 **Decisões de PH:** arte com EcoFlow (como pedido) ou variante de categoria (pronta no arquivo); avisar o direct que "ENERGIA" volta. Kit de marca EcoFlow segue pendente, então a peça roda em tipografia ([OPEN-QUESTIONS](OPEN-QUESTIONS.md)).
+
+---
+
 ## 2026-10-13 — Post de sexta 16/10: "12 contas de luz por ano"
 
 [Estático](conteudo/posts/2026-10-16-soma-as-doze-contas.md) no Pilar 1, na variante de número gigante, voltado pra venda. Mecanismo: o leitor faz a conta. Ele soma as 12 contas do último ano e o CTA "manda SOL no direct" leva pra simulação. Volta pro sistema fotovoltaico depois de duas sextas seguidas de estação de energia (02/10 e 09/10). Fica coerente com 05/10: a legenda repete que a conta não zera.

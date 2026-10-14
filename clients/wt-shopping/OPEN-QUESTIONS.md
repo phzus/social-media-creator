@@ -77,7 +77,7 @@ Vindas do [áudio da cliente](referencias/2026-09-18-audios-promocao-vacinas.md)
 
 **6. Agendamento da clínica — canal e sistema.** É por WhatsApp mesmo, ou existe sistema de agendamento próprio? Isso muda o CTA e a mensuração de comparecimento.
 
-**7. Estoque/mix real por categoria.** Agro, jardim e piscina são citados no briefing mas sem detalhe de produto — o que exatamente a WT vende em cada uma?
+**7. Estoque/mix real por categoria.** Agro, jardim e piscina são citados no briefing mas sem detalhe de produto — o que exatamente a WT vende em cada uma? **Pet também (2026-10-14):** a WT vende pote hermético/porta-ração? Entrega ou separa ração pedida pelo WhatsApp? Se sim, o CTA da [peça de 19/10](conteudo/posts/2026-10-19-racao-molenga-no-fim-do-saco.md) pode nomear o produto/serviço — não trava a peça.
 
 ---
 

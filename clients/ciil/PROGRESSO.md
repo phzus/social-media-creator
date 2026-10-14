@@ -4,6 +4,33 @@ Log datado do trabalho feito pra CIIL. Topo = mais recente. Entrada por bloco de
 
 ---
 
+## 2026-10-14 — Post de segunda 19/10: "Isso Tem Nome · 07 de 10 — Retocolite Ulcerativa"
+
+PH pediu "post pro dia 19". O [calendário da temporada](estrategia/linha-editorial-isso-tem-nome.md) já reservava o slot 07 pra Retocolite Ulcerativa, então segui o previsto. [Peça](conteudo/posts/2026-10-19-isso-tem-nome-07-retocolite-ulcerativa.md): estático 4:5, esqueleto fixo de 5 blocos, **primeira doença intestinal da conta** (até aqui foi só pele e articulação).
+
+**Gancho:** *"Viagem, fila, reunião: você só relaxa depois de saber onde fica o banheiro. / Já faz tanto tempo assim que você nem pensa mais nisso como sintoma."* O mecanismo é a rotina organizada em volta do banheiro, que a pessoa trata como jeito de ser. Isso evita descrever o sintoma na abertura de um tema que o público tem vergonha de comentar. Na arte vão 4 sinais, e as peças anteriores tinham 3.
+
+**Decisões de compliance:**
+- Gastro **não é nomeado**. O CTA diz **"a gente te orienta"** e não "a gente avalia", porque a CIIL não tem gastro e a [PAUTA #5](reuniao-mensal/PAUTA.md) (encaminhamento de Crohn, Retocolite e Asma) segue aberta.
+- O imunobiológico está **condicionado à indicação**.
+- Sem via de aplicação, sem estatística, sem complicação/cirurgia/câncer.
+- Na imagem: nada de banheiro, órgão ou dor.
+
+**Validador-copy:** rodado sem confiar na checagem do produtor. Resultado: 0 problemas de compliance e 6 correções de texto, todas aplicadas (v1.1). As principais:
+- O "ele" do bloco 5 lia como se a CIIL fabricasse a medicação, o mesmo erro da peça de 16/10.
+- Na legenda, a promessa "deixa de depender do banheiro" virou condicional.
+- "Tem nome" virou "pode ser" na legenda.
+
+**Travas:**
+- 🔴 Retida até o OK do RT (8 itens). É a **oitava peça clínica na fila**.
+- 🔴 **Numeração:** a peça 06 (Espondilite, 12/10) não está no repositório. Se não foi ao ar, esta precisa sair como `06 de 10`, senão o feed mostra 05 → 07.
+- 🔴 **PAUTA #5:** se a CIIL só recebe paciente já encaminhado, o CTA precisa mudar.
+- 🟡 Crohn ficou sem slot (a 03 virou Artrite Psoriásica, que era a 10). O natural é 09/11, e sem repetir o banheiro como gancho.
+
+Atualizei a linha 07 do calendário da [linha editorial](estrategia/linha-editorial-isso-tem-nome.md).
+
+---
+
 ## 2026-10-13 — Post de sexta 16/10: "Trocou o colchão, corrigiu a postura, e a dor nas costas continua te acordando de madrugada."
 
 Lote de sexta de toda a carteira. [Peça](conteudo/posts/2026-10-16-espondilite-dor-que-melhora-com-movimento.md): estático 4:5, venda, **fora da série** (sem selo, sem numeração). É o slot de conversão da semana da **Espondilite Anquilosante** (06 de 10 no calendário da temporada). Mecanismo: **objeção respondida**. A pessoa já se explicou a dor (colchão, postura, cadeira), e a peça responde com o sinal que não bate com isso: piora parada, alivia com movimento, acorda de madrugada. Fecha com reumatologia na CIIL avaliando mesmo sem diagnóstico, e o imunobiológico "quando indicado".

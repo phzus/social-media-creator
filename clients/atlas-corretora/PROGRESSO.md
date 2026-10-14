@@ -4,6 +4,20 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ---
 
+## 2026-10-14 — Post de segunda 19/10: "O atestado diz 60 dias de repouso. Ninguém mandou atestado pros boletos."
+
+[Estático 4:5](conteudo/posts/2026-10-19-atestado-de-repouso-e-os-boletos.md). Abre a semana de **Planejamento familiar** do [trimestral §6](estrategia/2026-09-a-11-trimestral.md) (19-23/10). O trimestral previa: estático, "As contas da casa não pausam junto com você", afastamento por saúde, Outubro Rosa pela renda.
+
+**Mecanismo trocado:** "as contas continuam chegando" já estava em 24/08 e 14/09, e "o aluguel não fechou junto" é o título do vídeo de 30/09 que nunca saiu. A peça usa a **tesoura**: a pessoa está em casa se recuperando, a renda pode cair e o gasto sobe no mesmo mês (remédio, exame, transporte, ajuda em casa). CTA "salva esse post" (05/10 salva · 09/10 comenta · 16/10 direct).
+
+**Outubro Rosa fica fora do texto e da hashtag.** Citar a campanha numa peça que termina em produto puxa o diagnóstico pra leitura ([PADROES §8](PADROES.md)) e soa oportunista. Se quiserem marcar a data: stories institucional, sem produto. ⚠️ O HTML do trimestral que o cliente viu diz "Outubro Rosa entra pela renda" nessa semana, então vale avisar.
+
+**Validação de copy (subagent) aplicada:** a ponte pro produto virou pergunta ao corretor e passou a ser tratada como gate (antes estava como "não trava"). "Tratamento" foi trocado por "lesão", o brief proíbe qualquer imitação de documento clínico (CID, CRM, receituário), e o "60 dias" passa a dominar a arte pra não repetir a hierarquia de 16/10.
+
+🔴 **Gate:** a arte pode ir ao designer já. A legenda espera o corretor dizer se a Atlas vende cobertura de afastamento temporário (diária por incapacidade). **Sim** → sobe a versão com afirmação. **Não** → a ponte sai. A mesma resposta destrava o vídeo de 21/10, que ainda não tem roteiro. Prazo: brief ao designer qui 15/10, envio ao cliente sex 16/10 até 15h.
+
+---
+
 ## 2026-10-13 (3) — Sexta 16/10 vira estático; carrossel vira exceção na Atlas
 
 PH: *"Atlas tá muito carrossel, meu designer não vai aguentar."* Carrossel em toda sexta desde 11/09 (11/09, 18/09, 25/09, 02/10, 09/10) e mais três no plano (16/10, 30/10, 13/11).

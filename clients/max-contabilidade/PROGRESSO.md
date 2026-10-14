@@ -4,6 +4,20 @@ Log datado do trabalho feito pra Max Contabilidade. Topo = mais recente. Entrada
 
 ---
 
+## 2026-10-14 — Post de segunda 19/10: Descomplica #04, o contrato de experiência
+
+[Peça](conteudo/posts/2026-10-19-descomplica-experiencia-ja-e-contrato.md), estático 4:5, no slot de segunda que tinha ficado reservado pro #04 desde a peça de Dia das Crianças. Headline: **"Começou na segunda, e a carteira ficou pra depois da experiência. / Mas a experiência já é contrato de trabalho."**
+
+**Por que esse tema:** outubro é quando o comércio fecha contratação pro fim de ano, e o "deixa começar e depois assina" é o jeito como muito dono pequeno contrata. Primeira peça de Departamento Pessoal na série (as três anteriores foram de sócio e CNPJ). Mecanismo novo na conta: cena curta + giro.
+
+**O que ficou de fora:** duração da experiência, prazo de anotação da carteira, prazo de informar a admissão, nome de obrigação, valor de multa, lista de verbas. A consequência é condicional (os dias sem carteira *podem* ser cobrados *se* o vínculo for reconhecido), sem fiscalização nem ameaça.
+
+**Validação de copy (subagent) aplicada:** a v1 dizia que "o registro vale desde o primeiro dia", e a CLT dá prazo próprio pra anotar a carteira. Virou "a data de admissão na carteira é o primeiro dia trabalhado". Também saíram a consequência absoluta, uma regra de prova não verificada ("o papel que mostraria como a contratação foi feita"), o fechamento com prazo implícito e a moldura de 16/10 ("Vai X? … antes de…"), o 4º CTA seguido com "a gente olha o seu caso" e o "Só que" repetido.
+
+**Travas:** 🔴 o escritório confirma as duas regras da CLT afirmadas ([OQ K](OPEN-QUESTIONS.md)) · `[canal a confirmar]` no CTA ([OQ F](OPEN-QUESTIONS.md)) · @, identidade visual, CRC e posição sobre publicidade, abertos desde o #01. A série já tem quatro peças sem publicar, porque nenhuma foi vista pelo escritório.
+
+---
+
 ## 2026-10-13 — Post de sexta 16/10: "Primeiro eu abro a empresa, depois procuro um contador."
 
 Lote de sexta de toda a carteira. [Peça](conteudo/posts/2026-10-16-primeiro-abro-a-empresa-depois-procuro-contador.md): carrossel de 4 slides, **primeira peça do pilar Serviço e captação puro**, sobre abertura de empresas (uma das cinco frentes do BRIEFING). Mecanismo: **objeção respondida**. A capa é a frase de quem vai abrir, o slide 2 lista o que se define na abertura (CNAE, tipo de empresa, regime, endereço do alvará) e o slide 3 mostra o custo de corrigir depois. O CTA é conversa antes de dar entrada.

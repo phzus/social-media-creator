@@ -4,6 +4,24 @@ Log datado do trabalho feito pra BodySkin. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-10-14 — Post de segunda 19/10: "Vou começar o laser. Posso manter a cera entre as sessões?"
+
+PH pediu "post pro dia 19". [Peça](conteudo/posts/2026-10-19-cera-entre-as-sessoes.md): estático 4:5 tipográfico + animado de 5s, P1 Educativo, **terceira da série "Dúvida que mais chega aqui"** ([31/08](conteudo/posts/2026-08-31-peguei-sol-posso-fazer-laser.md) · [28/09](conteudo/posts/2026-09-28-depilacao-a-laser-doi.md)). Mecanismo: dúvida prática com resposta que contraria a expectativa — durante o tratamento, cera e pinça saem e a lâmina fica liberada; a hora de parar a cera se combina na avaliação gratuita.
+
+**O slot do calendário era outro e foi adaptado:** o calendário de outubro previa carrossel "Respondendo a caixinha: dúvidas reais dos stories da semana". Não há nenhuma resposta de caixinha registrada nos docs, então um carrossel de "dúvidas reais" seria pergunta inventada. Saiu como estático de uma dúvida só, igual ao slot de caixinha de 28/09.
+
+**Por que laser, numa data da dezena de pele:** toxina e 50+ seguem travados pelo gate da RT (aberto desde 26/07, sem resposta) e a limpeza de pele já ocupou a sexta 16/10. Uma segunda peça de limpeza dependeria de como o procedimento é feito na BodySkin, pergunta que segue aberta.
+
+**Por que esta dúvida, com a conta em risco:** fala com quem já paga por depilação todo mês (cliente de outro método, não curioso de preço) na hora em que decide trocar, e o CTA dá um motivo concreto pra marcar a avaliação presencial: é nela que se combina quando parar a cera.
+
+**Validação de copy (subagent):** 4 bloqueantes corrigidos. O CTA prometia combinar a primeira sessão por mensagem, pulando a avaliação. O giro da arte ("a lâmina vira parte do tratamento") exagerava. "É só por um tempo" sugeria que a lâmina acaba. E "quase sempre pergunta" afirmava uma frequência que ninguém registrou.
+
+**Travas de publicação:** 🔴 RT/Cintia validam as afirmações técnicas (cera e pinça tiram o pelo da raiz, lâmina liberada entre sessões, intervalo antes da 1ª sessão, o "Não." absoluto, se a clínica exige raspar) · 🔴 atendimento do WhatsApp alinhado com a mesma orientação · 🟡 o kicker "dúvida que mais chega" é verdade pra essa dúvida? Envio à Cintia **sexta 16/10 até 15h** (fora da semana de antecedência). Sem validação até lá, PH escolhe o substituto do slot.
+
+**Lote do dia:** a Vet Regional sai em 19/10 com um mito × verdade. É o mesmo território (pergunta respondida), mas com outro gancho e outro tipo de resposta. Registrado na peça.
+
+---
+
 ## 2026-10-13 — Post de sexta 16/10: "Dez minutos apertando cravo no espelho do banheiro, e o nariz vermelho até o dia seguinte."
 
 Lote de sexta de toda a carteira. [Peça](conteudo/posts/2026-10-16-cravo-no-espelho-do-banheiro.md): estático 4:5 + animado de 5s, P5 Oferta, slot 8 do [calendário de outubro](estrategia/2026-10.md) (oferta de limpeza de pele da dezena 11-20). Mecanismo: **comparação**, o hábito de espremer cravo em casa × a extração feita pela profissional. A dor vem primeiro e a condição por último, contra o lead que chega comparando preço (reunião de 17/09).

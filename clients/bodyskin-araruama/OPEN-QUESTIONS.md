@@ -3,6 +3,14 @@
 Legenda: 🔴 bloqueante · 🟡 importante (não trava tudo) · 🟢 calibração.
 Atualizar assim que PH ou a cliente responderem. Resposta vira registro em [context.md](context.md), [BRIEFING.md](BRIEFING.md) ou [PADROES.md](PADROES.md).
 
+## 🔴 2026-10-14 — Post de segunda 19/10 (cera entre as sessões): validação técnica
+
+[Peça](conteudo/posts/2026-10-19-cera-entre-as-sessoes.md) pronta, envio à Cintia sexta 16/10 até 15h. Pra subir:
+
+1. 🔴 **RT/Cintia confirmam a orientação da BodySkin:** cera e pinça ficam proibidas durante o tratamento? A lâmina está liberada entre as sessões, ou é obrigatória antes da sessão? Existe intervalo entre a última cera e a primeira sessão? (A peça não diz quantos dias.)
+2. 🔴 **O atendimento do WhatsApp dá a mesma orientação.** Se a equipe responder diferente da peça, vira reclamação.
+3. 🟡 **Cera × laser é dúvida frequente de verdade?** Define se o kicker "DÚVIDA QUE MAIS CHEGA AQUI" se mantém. E vale pedir à equipe as perguntas reais que chegam no WhatsApp: a próxima peça da série sai com a palavra delas. (Não há resposta de caixinha registrada na conta. O slot "Respondendo a caixinha" de 19/10 virou peça de uma dúvida só por isso.)
+
 ## 🔴 2026-10-13 — Post de sexta 16/10 (limpeza de pele): a condição da dezena não veio
 
 [Peça](conteudo/posts/2026-10-16-cravo-no-espelho-do-banheiro.md) pronta em duas versões. Pra versão A subir:

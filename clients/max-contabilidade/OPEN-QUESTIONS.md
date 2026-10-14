@@ -7,6 +7,12 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🔴 Novas (2026-10-14) — post de segunda 19/10 (contrato de experiência)
+
+**K. O escritório confirma as regras afirmadas na [peça de 19/10](conteudo/posts/2026-10-19-descomplica-experiencia-ja-e-contrato.md)?** (a) contrato de experiência é contrato de trabalho com prazo pra terminar, e a data de admissão na carteira é o primeiro dia trabalhado; (b) dias trabalhados sem carteira, se o vínculo for reconhecido na Justiça do Trabalho, podem ser cobrados da empresa. A peça não cita duração da experiência, prazo de anotação nem prazo de informar a admissão. — *trava a publicação.* Junto: se o escritório quiser afirmar que a admissão é informada **antes** do primeiro dia, o fechamento da arte pode endurecer (hoje é só "vale conferir antes").
+
+**L. A série "Descomplica" pode anunciar a cadência?** ("toda segunda, uma dúvida de dono de empresa"), pra o feed ler como série. Depende do plano contratado (item 5). — *não trava.*
+
 ## 🔴 Novas (2026-10-13) — post de sexta 16/10 (abertura de empresa)
 
 **I. O escritório confirma o que a [peça de 16/10](conteudo/posts/2026-10-16-primeiro-abro-a-empresa-depois-procuro-contador.md) afirma sobre a abertura?** Na abertura se definem o CNAE (principal e secundárias), o tipo de empresa, o regime de tributação e o endereço que a prefeitura confere no alvará. E, junto, "algumas escolhas, como o regime, não se trocam a qualquer momento do ano". Se ele não quiser afirmar essa última, ela vira "corrigir depois dá mais trabalho do que decidir antes". — *trava a publicação.*

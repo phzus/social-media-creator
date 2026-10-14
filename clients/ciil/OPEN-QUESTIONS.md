@@ -2,6 +2,14 @@
 
 Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes de fechar a 1ª estratégia mensal.
 
+## 🔴 Nova (2026-10-14) — Isso Tem Nome 07, Retocolite Ulcerativa (19/10)
+
+[Peça](conteudo/posts/2026-10-19-isso-tem-nome-07-retocolite-ulcerativa.md) escrita e retida. **Oitava peça clínica na fila do RT** (8 itens no arquivo).
+- 🔴 **Selo `07 de 10` ou `06 de 10`?** Depende de a peça 06 (Espondilite) ter ido ao ar em 12/10. Se não foi, esta vira 06 e as seguintes descem uma casa. Decidir antes do brief ao designer.
+- 🔴 **PAUTA #5 vira bloqueante pra esta peça.** Quem chega com suspeita de Retocolite e sem diagnóstico é avaliado na CIIL, ou a clínica só recebe paciente já encaminhado? Se for só encaminhado, o CTA ("a gente te orienta") precisa orientar a procurar um médico, o que quebra o CTA único de 14/09.
+- 🟡 **Doença de Crohn está sem slot.** A 03 saiu como Artrite Psoriásica (que no calendário era a 10). Sugestão: Crohn em 09/11.
+- 🟡 **Grafia do selo:** a 03 está como `#03` no arquivo e as outras como `NN de 10`. Conferir nas artes publicadas qual está no ar e padronizar.
+
 ## 🔴 Nova (2026-10-13) — post de sexta 16/10 (Espondilite Anquilosante)
 
 [Peça](conteudo/posts/2026-10-16-espondilite-dor-que-melhora-com-movimento.md) escrita e retida. **Sétima peça clínica na fila do RT.** Itens específicos: o fraseado da dor inflamatória ("piora parada, alivia quando se mexe", acordar de madrugada) · "costuma começar em adulto jovem" · atraso de diagnóstico sem número · **a CIIL faz o imunobiológico pra espondilite, e o RT aceita "quando é indicado"?** · reumatologia avaliando quem chega sem diagnóstico.
