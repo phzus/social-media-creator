@@ -38,7 +38,7 @@ Segunda = leve, **quarta = Reels**, sexta = carrossel/venda ([playbook §2](../.
 
 ## §8. Formato semanal — 1 layout diversificado + 2 encarte (validado em reunião 03/09)
 
-Pedido central de Junior Ribeiro na reunião de alinhamento ([referencias/2026-09-03](reuniao-mensal/resumos/2026-09-03-resumo-reuniao-lone-x-bazar.md)): intercalar o encarte tradicional com um layout diferente, pra tirar o feed da monotonia — principalmente em Maricá, que tem mais produto e menos vídeo e por isso acumula peças muito padronizadas em sequência.
+Pedido central de Junior Ribeiro na reunião de alinhamento ([referencias/2026-09-03](reuniao-mensal/resumos/2026-09-03-resumo-reuniao.md)): intercalar o encarte tradicional com um layout diferente, pra tirar o feed da monotonia — principalmente em Maricá, que tem mais produto e menos vídeo e por isso acumula peças muito padronizadas em sequência.
 
 **Referência citada pelo próprio cliente:** o post do WD-40 — texto ao lado, imagem mais realista, menos cara de encarte.
 

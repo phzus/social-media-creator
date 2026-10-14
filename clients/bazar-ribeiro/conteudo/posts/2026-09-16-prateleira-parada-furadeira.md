@@ -6,7 +6,7 @@
 **Pilar:** Venda
 **Formato:** **Layout diversificado (modelo WD-40)** — primeira peça nesse formato, validado em [PADROES §8](../../PADROES.md) na reunião de 03/09
 
-> **Por que esse layout:** pedido central de Junior Ribeiro na reunião de alinhamento ([referencias/2026-09-03](../../reuniao-mensal/resumos/2026-09-03-resumo-reuniao-lone-x-bazar.md)) — tirar o feed da monotonia do encarte, citando o post do WD-40 como referência: imagem realista, texto ao lado, menos cara de cartaz de oferta. Regra combinada: 1 peça assim por semana, as outras 2 seguem de encarte tradicional — essa é a peça diversificada.
+> **Por que esse layout:** pedido central de Junior Ribeiro na reunião de alinhamento ([referencias/2026-09-03](../../reuniao-mensal/resumos/2026-09-03-resumo-reuniao.md)) — tirar o feed da monotonia do encarte, citando o post do WD-40 como referência: imagem realista, texto ao lado, menos cara de cartaz de oferta. Regra combinada: 1 peça assim por semana, as outras 2 seguem de encarte tradicional — essa é a peça diversificada.
 
 > ⚠️ **Preço incluído a pedido de PH — verificar antes de publicar.** Usei o único preço 100% confirmado que temos pra furadeira nesta conta: **Furadeira Parafusadeira Tramontina 500W Impacto 3/8" — R$ 199,90**, confirmado por PH em 03/08 pra campanha de Dia dos Pais ([conteudo/posts/2026-08-07-presente-certeiro-furadeira.md](2026-08-07-presente-certeiro-furadeira.md)). É da tabela de 31/07, sem atualização desde então — e já sabemos que pelo menos um item dessa tabela mudou de preço no meio do caminho (lava jato Guepar, R$ 309,90 → R$ 279,90). **Confirmar com o dono antes de publicar**, principalmente porque o processo combinado em 03/09 (três produtos com preço toda segunda) ainda não rodou nenhuma vez.
 

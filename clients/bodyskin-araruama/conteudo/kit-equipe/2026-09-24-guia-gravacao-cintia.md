@@ -2,7 +2,7 @@
 
 **Cliente:** bodyskin-araruama · **Criado:** 2026-09-24 · **Para quem:** Cintia Ferraz (e quem mais da equipe gravar pelo celular)
 
-> **De onde vem:** próxima etapa da [reunião de 17/09](../../reuniao-mensal/resumos/2026-09-17-resumo-reuniao-cintia-ferraz.md): *"Desenvolver orientações técnicas para edição de vídeos gravados pela Cintia com inserção de imagens de procedimentos ao fundo."* A Cintia grava falando, a Lone monta com as imagens de procedimento cobrindo partes da fala.
+> **De onde vem:** próxima etapa da [reunião de 17/09](../../reuniao-mensal/resumos/2026-09-17-resumo-reuniao.md): *"Desenvolver orientações técnicas para edição de vídeos gravados pela Cintia com inserção de imagens de procedimentos ao fundo."* A Cintia grava falando, a Lone monta com as imagens de procedimento cobrindo partes da fala.
 >
 > **Por que este guia leva instrução de gravação:** aqui quem aperta o gravar é a cliente, sozinha, sem a Lone junto. É a mesma exceção já aplicada na Atlas ([PADROES §11 da Atlas](../../../atlas-corretora/PADROES.md), PH, 16/09). Na visita presencial, quem filma é a Lone e decide o take na hora.
 

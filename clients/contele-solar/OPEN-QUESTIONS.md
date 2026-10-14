@@ -63,7 +63,7 @@ Fonte única de contatos: [shared/contatos-clientes.md](../../shared/contatos-cl
 13. ✅ **RESOLVIDO (PH, 2026-08-28) — a parceria é revenda.** A Contele vende os produtos EcoFlow pros clientes dela, e **todos os modelos** da marca. A [peça de 31/08](conteudo/posts/2026-08-31-parceria-ecoflow.md) já está na v2 com essa confirmação aplicada.
 14. **Kit de marca EcoFlow** — logo em vetor/PNG e fotos de produto liberadas pelo parceiro. Marca de terceiro em arte oficial não se recria à mão nem se printa do site. Sem o kit, a peça de 31/08 roda só com tipografia (já previsto no brief).
 15. 🟡 **Parcialmente resolvido (PH, 2026-08-28): a faixa é de ~R$ 3 mil a ~R$ 50 mil**, conforme a necessidade. ⚠️ **Continua aberto:** preço unitário por modelo e condição de pagamento da Contele (parcelamento? PIX com desconto, como na loja?). Sem isso não sai peça com preço de um produto específico — só com a faixa, que já está sendo usada no [carrossel de 04/09](conteudo/posts/2026-09-04-qual-ecoflow-e-pra-voce.md).
-   > **Atualização (reunião Lone×Contele, 2026-09-08):** faixa corrigida pra **R$ 2.800–54.000** (A CONFIRMAR, citada em reunião — ver [PADROES §8](PADROES.md)). Descoberto também que **Vinicius é revendedor EcoFlow** e está montando **combos kit solar + EcoFlow** — ele vai mandar os preços reais por escrito. **Ainda não usar nenhum valor de combo em peça** até chegar por escrito. Detalhe em [reuniao-mensal/resumos/2026-09-08-resumo-reuniao-lone-contele.md](reuniao-mensal/resumos/2026-09-08-resumo-reuniao-lone-contele.md).
+   > **Atualização (reunião Lone×Contele, 2026-09-08):** faixa corrigida pra **R$ 2.800–54.000** (A CONFIRMAR, citada em reunião — ver [PADROES §8](PADROES.md)). Descoberto também que **Vinicius é revendedor EcoFlow** e está montando **combos kit solar + EcoFlow** — ele vai mandar os preços reais por escrito. **Ainda não usar nenhum valor de combo em peça** até chegar por escrito. Detalhe em [reuniao-mensal/resumos/2026-09-08-resumo-reuniao.md](reuniao-mensal/resumos/2026-09-08-resumo-reuniao.md).
 16. ✅ **RESOLVIDO por decisão, não por resposta (PH, 2026-08-28).** Modelos: catálogo inteiro. Disponibilidade/prazo: **ninguém tem essa informação, nem o dono** — então virou **regra dura em [PADROES §8](PADROES.md)**: nenhuma peça cita estoque, pronta-entrega ou prazo, em lugar nenhum. As duas peças novas (04/09 e 07/09) foram escritas pra não depender disso em nenhum ponto. Só reabrir se o cliente vier com a informação.
 
 18. ⏸️ **Painéis/sistemas híbridos — pauta em espera.** A Contele tem a solução no portfólio e PH quer conteúdo sobre isso mais pra frente, **não agora**. Quando destravar, ler [PADROES §5.1](PADROES.md) primeiro: existe uma tensão de mensagem entre "o sistema on-grid apaga no apagão" (peça de 31/08) e o híbrido, que mantém a casa ligada. A regra de como conciliar os dois já está escrita.
@@ -118,7 +118,7 @@ Mesma régua já aplicada à EcoFlow em agosto — o anúncio de 15/09 ([post](c
 
 ## 🆕 Pendências novas — reunião Lone×Contele, 08/09/2026
 
-Ver detalhe completo em [reuniao-mensal/resumos/2026-09-08-resumo-reuniao-lone-contele.md](reuniao-mensal/resumos/2026-09-08-resumo-reuniao-lone-contele.md).
+Ver detalhe completo em [reuniao-mensal/resumos/2026-09-08-resumo-reuniao.md](reuniao-mensal/resumos/2026-09-08-resumo-reuniao.md).
 
 21. **Preços dos combos EcoFlow** — Vinicius vai enviar por escrito (kit solar + EcoFlow com desconto). Sem isso, nenhum valor de combo entra em peça.
 22. **Nome da campanha de verão** (novembro a março) — a definir.

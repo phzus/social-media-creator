@@ -12,7 +12,7 @@
 
 **Bazar Ribeiro** — rede de material de construção e ferragens, litoral do Rio de Janeiro, **desde 1989**. Duas unidades com identidades regionais distintas: **Maricá** (matriz, ≈2.500 seguidores) e **Saquarema** (≈1.200-1.300 seguidores, feed menos ativo, perfil criado do zero).
 
-⚠️ **Números de 03/09/2026, citados de memória por Junior Ribeiro na reunião de alinhamento** ([referencias/2026-09-03](reuniao-mensal/resumos/2026-09-03-resumo-reuniao-lone-x-bazar.md)) — não é Insights consolidado (acesso ainda pendente, [OPEN-QUESTIONS #8](OPEN-QUESTIONS.md)). Maricá saiu de uma base de ≈800.
+⚠️ **Números de 03/09/2026, citados de memória por Junior Ribeiro na reunião de alinhamento** ([referencias/2026-09-03](reuniao-mensal/resumos/2026-09-03-resumo-reuniao.md)) — não é Insights consolidado (acesso ainda pendente, [OPEN-QUESTIONS #8](OPEN-QUESTIONS.md)). Maricá saiu de uma base de ≈800.
 
 **Quem decide do lado do cliente:** Junior Ribeiro — confirmado como aprovador na reunião de 03/09 ([OPEN-QUESTIONS #11](OPEN-QUESTIONS.md), resolvido).
 
@@ -84,7 +84,7 @@ Maricá e Saquarema não podem ser tratadas como cópia uma da outra — Saquare
 
 ⚠️ **A loja não é de gravar** — pra depoimento, UGC roteirizado ou qualquer captação que exija conduzir uma cena. PH confirmou (2026-07-31) que o dono/equipe não tem perfil pra isso, e **todo reel/UGC roteirizado precisa de alguém da Lone fisicamente presente**. Ver aplicação em [estrategia/2026-08.md §6](estrategia/2026-08.md) e [PADROES §7](PADROES.md).
 
-**Refinamento (reunião 03/09, [referencias](reuniao-mensal/resumos/2026-09-03-resumo-reuniao-lone-x-bazar.md)):** isso não significa zero vídeo sem a Lone em campo. **Junior gravar takes de ambiente sem fala** (loja, prateleira, atendentes trabalhando) quando visita Maricá **é viável** e foi o caminho que ele mesmo propôs pra resolver a lacuna de vídeo naquela cidade — vira banco de imagem pra reel/criativo, sem depender de crew. A restrição segue valendo só pra cena conduzida/roteirizada.
+**Refinamento (reunião 03/09, [referencias](reuniao-mensal/resumos/2026-09-03-resumo-reuniao.md)):** isso não significa zero vídeo sem a Lone em campo. **Junior gravar takes de ambiente sem fala** (loja, prateleira, atendentes trabalhando) quando visita Maricá **é viável** e foi o caminho que ele mesmo propôs pra resolver a lacuna de vídeo naquela cidade — vira banco de imagem pra reel/criativo, sem depender de crew. A restrição segue valendo só pra cena conduzida/roteirizada.
 
 ## Pendências
 

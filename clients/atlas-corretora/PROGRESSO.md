@@ -232,7 +232,7 @@ Post de hoje escrito: [conteudo/posts/2026-09-14-quanto-tempo-a-casa-se-sustenta
 
 ## 2026-09-08 (2) — Reunião mensal Lone×Atlas: feedback, Stories, e destravas puxadas
 
-Reunião de acompanhamento (Carlos, pela Lone · Laís, pela Atlas). Resumo completo em [reuniao-mensal/resumos/2026-09-08-resumo-reuniao-lone-atlas.md](reuniao-mensal/resumos/2026-09-08-resumo-reuniao-lone-atlas.md).
+Reunião de acompanhamento (Carlos, pela Lone · Laís, pela Atlas). Resumo completo em [reuniao-mensal/resumos/2026-09-08-resumo-reuniao.md](reuniao-mensal/resumos/2026-09-08-resumo-reuniao.md).
 
 **O que mudou de fato:**
 - Cliente aprovou explicitamente a estética atual (formal/corporativa/limpa) e o tom do perfil.

@@ -7,7 +7,7 @@
 **Formato:** Estático
 **Slides:** 1
 
-> **Aprovada na reunião de 03/09** ([referencias/2026-09-03](../../reuniao-mensal/resumos/2026-09-03-resumo-reuniao-lone-x-bazar.md)), a pedido do próprio Junior Ribeiro. Item de ação da Lone: "produzir os posts de horário e de homenagem do feriado" — **este é o de homenagem**, que não depende de dado pendente. O de horário reduzido segue travado até confirmar o horário exato de fechamento.
+> **Aprovada na reunião de 03/09** ([referencias/2026-09-03](../../reuniao-mensal/resumos/2026-09-03-resumo-reuniao.md)), a pedido do próprio Junior Ribeiro. Item de ação da Lone: "produzir os posts de horário e de homenagem do feriado" — **este é o de homenagem**, que não depende de dado pendente. O de horário reduzido segue travado até confirmar o horário exato de fechamento.
 
 > **Por que só Saquarema.** Diferente do 7 de setembro (feriado nacional, roda nos dois perfis com a mesma arte), o **8 de setembro é feriado municipal específico de Saquarema** — Dia da Padroeira da cidade. Publicar em Maricá seria falar de uma data que não é de lá.
 

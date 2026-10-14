@@ -45,7 +45,7 @@ Sem métrica consolidada pra esse ciclo — se o cliente cobrar número, dizer q
 
 | Data | Resumo |
 |---|---|
-| 2026-09-08 | [Reunião Lone × Atlas](resumos/2026-09-08-resumo-reuniao-lone-atlas.md) |
+| 2026-09-08 | [Reunião Lone × Atlas](resumos/2026-09-08-resumo-reuniao.md) |
 
 ---
 

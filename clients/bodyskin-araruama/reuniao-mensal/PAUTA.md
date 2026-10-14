@@ -57,7 +57,7 @@ Sem métrica consolidada pra esse ciclo — se o cliente cobrar número, dizer q
 
 | Data | Resumo |
 |---|---|
-| 2026-09-17 | [Reunião com Cintia Ferraz — risco de conta](resumos/2026-09-17-resumo-reuniao-cintia-ferraz.md) |
+| 2026-09-17 | [Reunião com Cintia Ferraz — risco de conta](resumos/2026-09-17-resumo-reuniao.md) |
 
 ---
 

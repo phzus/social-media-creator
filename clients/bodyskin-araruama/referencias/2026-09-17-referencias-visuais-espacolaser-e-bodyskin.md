@@ -1,6 +1,6 @@
 # Referências visuais enviadas por Cintia (reunião 17/09) — Espaço Laser + BodySkin
 
-**Origem:** prints de tela enviados junto com a reunião de 2026-09-17. Cintia "falou muito da Espaço Laser e [Bor/Body] Laser" como referência de criativo com movimento — ver [resumo da reunião](2026-09-17-resumo-reuniao-cintia-ferraz.md).
+**Origem:** prints de tela enviados junto com a reunião de 2026-09-17. Cintia "falou muito da Espaço Laser e [Bor/Body] Laser" como referência de criativo com movimento — ver [resumo da reunião](2026-09-17-resumo-reuniao.md).
 
 ⚠️ **Arquivos de imagem não salvos neste repositório** — só a transcrição/descrição abaixo. Se o designer precisar das imagens originais como referência, pedir a PH que reenvie.
 
@@ -39,4 +39,4 @@ Dois criativos prontos, com o logo **"bodyskin — Corpo · Pele · Laser"** e *
 
 ## Correção — "Bor Laser" era "BodyLaser" (franquia nacional, referência de formato)
 
-PH confirmou (2026-09-17): o nome que a transcrição do Gemini registrou como **"Bor Laser"** é **BodyLaser**, franquia nacional que Cintia citou ao lado da Espaço Laser como referência de **formato de criativo com movimento** — não tem relação de marca com a BodySkin (local), é concorrente/inspiração de estilo como a Espaço Laser. Atualiza a nota de transcrição do [resumo da reunião](2026-09-17-resumo-reuniao-cintia-ferraz.md) e o item correspondente do [OPEN-QUESTIONS.md](../OPEN-QUESTIONS.md).
+PH confirmou (2026-09-17): o nome que a transcrição do Gemini registrou como **"Bor Laser"** é **BodyLaser**, franquia nacional que Cintia citou ao lado da Espaço Laser como referência de **formato de criativo com movimento** — não tem relação de marca com a BodySkin (local), é concorrente/inspiração de estilo como a Espaço Laser. Atualiza a nota de transcrição do [resumo da reunião](2026-09-17-resumo-reuniao.md) e o item correspondente do [OPEN-QUESTIONS.md](../OPEN-QUESTIONS.md).

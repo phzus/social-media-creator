@@ -106,7 +106,7 @@ PH pediu uma arte de venda com layout/estrutura diferente, "como no que tivemos 
 
 ## 2026-09-08 (2) — Resultado da reunião de 03/09 + peça de homenagem à Padroeira de Saquarema
 
-PH mandou o PDF com o resumo da reunião de alinhamento que **Carlos Augusto (Lone Mídia) conduziu com Junior Ribeiro** em 03/09 — descoberta importante: esta conta tem equipe própria da Lone (Carlos, Roberto, Lucas) além de PH. Registro completo em [reuniao-mensal/resumos/2026-09-03-resumo-reuniao-lone-x-bazar.md](reuniao-mensal/resumos/2026-09-03-resumo-reuniao-lone-x-bazar.md).
+PH mandou o PDF com o resumo da reunião de alinhamento que **Carlos Augusto (Lone Mídia) conduziu com Junior Ribeiro** em 03/09 — descoberta importante: esta conta tem equipe própria da Lone (Carlos, Roberto, Lucas) além de PH. Registro completo em [reuniao-mensal/resumos/2026-09-03-resumo-reuniao.md](reuniao-mensal/resumos/2026-09-03-resumo-reuniao.md).
 
 **O que mudou de verdade:**
 - **Novo formato semanal validado:** 1 peça de layout diversificado (referência WD-40 — texto ao lado, imagem realista, apelo pela dor do cliente) + 2 encartes tradicionais. Registrado no [PADROES §8](PADROES.md).

@@ -109,7 +109,7 @@ Peça do lote de outubro. [Post](conteudo/posts/2026-10-05-sabado-e-10-10-chega-
 
 **A mecânica foi trocada de propósito.** A antecipação do 9.9 ([04/09](conteudo/posts/2026-09-04-guarda-o-dia-nove.md)) pediu pra pessoa **esperar** pra fechar. Repetir isso em outubro seria a mesma peça com a data trocada, e ainda desperdiçaria os cinco dias até o sábado. Esta pede o contrário: **fazer a avaliação durante a semana**, porque a [PADROES §8, regra 3](PADROES.md) já registra que aqui ninguém compra no dia — decide no dia, e a avaliação presencial gratuita é obrigatória antes.
 
-**Por que isso importa pro problema do mês:** a [reunião de 17/09](reuniao-mensal/resumos/2026-09-17-resumo-reuniao-cintia-ferraz.md) apontou lead barato que não fecha, com a conta em risco de cancelamento. Peça que enche a agenda de avaliação mexe exatamente na métrica que a Cintia quer ver subir.
+**Por que isso importa pro problema do mês:** a [reunião de 17/09](reuniao-mensal/resumos/2026-09-17-resumo-reuniao.md) apontou lead barato que não fecha, com a conta em risco de cancelamento. Peça que enche a agenda de avaliação mexe exatamente na métrica que a Cintia quer ver subir.
 
 **Duas travas ficaram no checklist da peça, as duas com a Cintia:**
 - 🔴 A clínica abre no sábado 10/10 e até que horas? A peça convida pra decisão presencial no dia.
@@ -204,7 +204,7 @@ Substitui o slot 8 da [estratégia de setembro](estrategia/2026-09.md) (primaver
 
 ## 2026-09-17 — Reunião com Cintia Ferraz: risco de conta + duas campanhas novas travadas pelo gate da RT
 
-PH repassou a ata (Gemini) da reunião de 17/09 com Cintia Ferraz, mais 8 prints de referência visual (Espaço Laser + material com a marca "bodyskin"). Registrei tudo em [reuniao-mensal/resumos/2026-09-17-resumo-reuniao-cintia-ferraz.md](reuniao-mensal/resumos/2026-09-17-resumo-reuniao-cintia-ferraz.md) e [referencias/2026-09-17-referencias-visuais-espacolaser-e-bodyskin.md](referencias/2026-09-17-referencias-visuais-espacolaser-e-bodyskin.md).
+PH repassou a ata (Gemini) da reunião de 17/09 com Cintia Ferraz, mais 8 prints de referência visual (Espaço Laser + material com a marca "bodyskin"). Registrei tudo em [reuniao-mensal/resumos/2026-09-17-resumo-reuniao.md](reuniao-mensal/resumos/2026-09-17-resumo-reuniao.md) e [referencias/2026-09-17-referencias-visuais-espacolaser-e-bodyskin.md](referencias/2026-09-17-referencias-visuais-espacolaser-e-bodyskin.md).
 
 **O que mais importa:** Cintia sinalizou que a conta está sob risco de cancelamento — custo operacional de R$47k contra menos de R$3k de retorno de marketing, sócio pressionando, leads classificados como "ruim e péssimo". Isso não é detalhe de rodapé, é o contexto que deveria pesar em qualquer priorização daqui pra frente.
 

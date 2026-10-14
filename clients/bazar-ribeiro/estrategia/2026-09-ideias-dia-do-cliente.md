@@ -3,7 +3,7 @@
 **Cliente:** Bazar Ribeiro (Maricá + Saquarema) · **Criado:** 2026-09-03 · **Pra apresentar na reunião de hoje**
 **Relacionado:** [pauta da reunião](2026-09-pauta-reuniao.md) · [PADROES](../PADROES.md) · [OPEN-QUESTIONS](../OPEN-QUESTIONS.md)
 
-> 🔴 **Status pós-reunião (03/09):** nada deste documento foi aprovado. Junior Ribeiro disse que vai analisar quais produtos entram em promoção e retornar com a mecânica — resumo completo em [referencias/2026-09-03](../reuniao-mensal/resumos/2026-09-03-resumo-reuniao-lone-x-bazar.md). **As seis mecânicas abaixo e a [peça de 14/09](../conteudo/posts/2026-09-14-fregues-desde-quando.md) são proposta da Lone, não briefing confirmado.** Não publicar nada desta linha até a mecânica ser validada com o cliente.
+> 🔴 **Status pós-reunião (03/09):** nada deste documento foi aprovado. Junior Ribeiro disse que vai analisar quais produtos entram em promoção e retornar com a mecânica — resumo completo em [referencias/2026-09-03](../reuniao-mensal/resumos/2026-09-03-resumo-reuniao.md). **As seis mecânicas abaixo e a [peça de 14/09](../conteudo/posts/2026-09-14-fregues-desde-quando.md) são proposta da Lone, não briefing confirmado.** Não publicar nada desta linha até a mecânica ser validada com o cliente.
 
 ---
 

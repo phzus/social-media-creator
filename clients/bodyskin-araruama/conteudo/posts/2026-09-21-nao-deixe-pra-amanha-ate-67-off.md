@@ -76,7 +76,7 @@ Agenda pelo link na bio.
 
 **Compliance atendido:** só a oferta 1 comunica desconto ✓ · "10 sessões" é o número da tabela do mês, não das artes do 9.9 ✓ · sem "sem juros" (a cliente não escreveu na tabela do mês) ✓ · sem validade nem data de encerramento ✓ · sem antes e depois ✓ · sem promessa de eliminação de pelo ✓ · zero injetável ✓ · sem "sua melhor versão" ✓ · disclaimer de avaliação prévia, molde que a leitura das referências recomendou adotar ✓.
 
-**Segunda-feira com peça de venda:** o playbook pede leve/educativo neste slot. Decisão de PH, pelo pedido explícito de reproduzir o kit — e a conta está sob risco de cancelamento por retorno de marketing ([resumo da reunião](../../reuniao-mensal/resumos/2026-09-17-resumo-reuniao-cintia-ferraz.md)), então entregar o que a cliente pediu na primeira segunda depois da reunião pesa mais que a grade. A peça 8 original (primavera educativa) não se perde: o argumento da primavera está na legenda.
+**Segunda-feira com peça de venda:** o playbook pede leve/educativo neste slot. Decisão de PH, pelo pedido explícito de reproduzir o kit — e a conta está sob risco de cancelamento por retorno de marketing ([resumo da reunião](../../reuniao-mensal/resumos/2026-09-17-resumo-reuniao.md)), então entregar o que a cliente pediu na primeira segunda depois da reunião pesa mais que a grade. A peça 8 original (primavera educativa) não se perde: o argumento da primavera está na legenda.
 
 **Anti-IA:** headline é a do kit, curta e imperativa, sem fórmula binária · legenda abre em fato de calendário, não em "imagine" · sem fragmentação · uma exclamação: nenhuma · acentuação conferida.
 

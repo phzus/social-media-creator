@@ -10,7 +10,7 @@ Pendências a resolver com PH / com o dono do Bazar Ribeiro. Resolver as **bloqu
 
 ## 📅 2026-09-08 — Reunião Lone × Bazar Ribeiro (03/09): resultado
 
-Resumo completo em [reuniao-mensal/resumos/2026-09-03-resumo-reuniao-lone-x-bazar.md](reuniao-mensal/resumos/2026-09-03-resumo-reuniao-lone-x-bazar.md). Atualiza várias pendências desta lista:
+Resumo completo em [reuniao-mensal/resumos/2026-09-03-resumo-reuniao.md](reuniao-mensal/resumos/2026-09-03-resumo-reuniao.md). Atualiza várias pendências desta lista:
 
 - ✅ **Item 11 (quem aprova) — RESOLVIDO.** O decisor do lado do cliente é **Junior Ribeiro**, confirmado como participante e aprovador na reunião de 03/09.
 - ✅ **"Linha temática por categoria única" — esclarecido.** A ideia partiu do **Roberto** (Lone Mídia), não é resposta a um problema, e **não é decisão fechada do cliente** — Junior só disse que achou que podia funcionar bem.
@@ -52,7 +52,7 @@ Fonte única de contatos: [shared/contatos-clientes.md](../../shared/contatos-cl
 
 **Linha temática por categoria única, semanal — a partir de 17/08/2026.** Direção nova do chefe do PH: cada cliente passa a postar só uma linha temática de categoria por semana (ex. só hidráulica numa semana). Bazar Ribeiro foi o **exemplo dado** pelo chefe pra ilustrar a ideia. PH confirmou (2026-08-10) que **isso só entra em prática a partir de 17/08** — a semana de 10-14/08 segue o mix normal (venda + posicionamento + emocional + educativo + prova social + remarketing), sem restrição de categoria. Lembrar: o catálogo do Bazar Ribeiro é mais amplo que hidráulica/ferragem (inclui eletroportáteis, [context.md](context.md)) — quando essa linha entrar em vigor, definir com PH/chefe qual categoria abre a rotação e como tratar o restante do catálogo nas semanas seguintes. **Ação:** revisitar esta pendência antes de montar o calendário da semana de 17-21/08.
 
-⚠️ **Esclarecido na reunião de 03/09** ([referencias](reuniao-mensal/resumos/2026-09-03-resumo-reuniao-lone-x-bazar.md)): a ideia partiu do Roberto (Lone Mídia) como sugestão de formato, não como resposta a um problema identificado. Junior (cliente) achou que "poderia funcionar bem", mas **isso não é aprovação fechada** — segue como proposta em aberto, não como regra decidida pelo cliente.
+⚠️ **Esclarecido na reunião de 03/09** ([referencias](reuniao-mensal/resumos/2026-09-03-resumo-reuniao.md)): a ideia partiu do Roberto (Lone Mídia) como sugestão de formato, não como resposta a um problema identificado. Junior (cliente) achou que "poderia funcionar bem", mas **isso não é aprovação fechada** — segue como proposta em aberto, não como regra decidida pelo cliente.
 
 ## 📅 2026-09-03 — Reunião de alinhamento de setembro (hoje)
 

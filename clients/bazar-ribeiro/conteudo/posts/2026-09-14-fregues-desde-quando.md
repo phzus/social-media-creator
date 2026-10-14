@@ -7,7 +7,7 @@
 **Formato:** Estático
 **Slides:** 1
 
-> 🔴 **NÃO PUBLICAR ainda — status pós-reunião de 03/09.** A mecânica do Dia do Cliente que esta peça abre não foi aprovada por Junior Ribeiro; ele vai analisar e retornar ([referencias/2026-09-03](../../reuniao-mensal/resumos/2026-09-03-resumo-reuniao-lone-x-bazar.md)). Segura esta peça até a mecânica ser confirmada.
+> 🔴 **NÃO PUBLICAR ainda — status pós-reunião de 03/09.** A mecânica do Dia do Cliente que esta peça abre não foi aprovada por Junior Ribeiro; ele vai analisar e retornar ([referencias/2026-09-03](../../reuniao-mensal/resumos/2026-09-03-resumo-reuniao.md)). Segura esta peça até a mecânica ser confirmada.
 
 > **Por que esta peça.** Abre a semana do Dia do Cliente (15/09, terça — fora dos slots seg/qua/sex, por isso a data entra na segunda e vale a semana inteira). Mecânica completa em [estrategia/2026-09-ideias-dia-do-cliente.md](../../estrategia/2026-09-ideias-dia-do-cliente.md).
 >

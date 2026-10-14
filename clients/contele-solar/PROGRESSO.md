@@ -203,7 +203,7 @@ PH pediu o post de sexta. [Estático](conteudo/posts/2026-09-11-mesma-equipe-ago
 
 ## 2026-09-08 — Reunião mensal Lone×Contele: causa raiz da "falta de autenticidade", EcoFlow atualizado, CRM a caminho
 
-Reunião de acompanhamento (Carlos+equipe, pela Lone · Natal Tuão sócio e Vinicius Melo comercial, pela Contele). Resumo completo em [reuniao-mensal/resumos/2026-09-08-resumo-reuniao-lone-contele.md](reuniao-mensal/resumos/2026-09-08-resumo-reuniao-lone-contele.md).
+Reunião de acompanhamento (Carlos+equipe, pela Lone · Natal Tuão sócio e Vinicius Melo comercial, pela Contele). Resumo completo em [reuniao-mensal/resumos/2026-09-08-resumo-reuniao.md](reuniao-mensal/resumos/2026-09-08-resumo-reuniao.md).
 
 **O que mudou de fato:**
 - Cliente confirmou o diagnóstico que já suspeitávamos: **falta material próprio**, e isso empurra pra banco de imagens — inclusive uma placa/painel que não batia com o real, já corrigida. Cliente vai passar a mandar fotos/vídeos reais (casas variadas) e regravar o conteúdo de estoque com "Cris".

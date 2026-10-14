@@ -4,6 +4,19 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-14 (7) — Correções do /code-review (9 achados)
+
+1. **151 arquivos de cliente apagados do disco, sem registro, restaurados do git:** arte-em-manipulacao, dumar, tindaro-solar (encerrados: o índice manda "manter pasta para histórico"), engetec (em onboarding), complexo-vida, nova-uniao-glass, quero-tintas e bodyskin-araruama-rascunho-24-07. ⚠️ **Se a exclusão foi intencional (PH):** decidir arquivar e registrar aqui. Complexo Vida, Nova União Glass e Quero Tintas não aparecem no CLIENTES-INDEX: falta dizer o status deles.
+2–3. Com as pastas de volta, os links do CLIENTES-INDEX (Engetec e encerrados) voltam a funcionar. `shared/contatos-clientes.md` corrigido: a pasta da Engetec não estava vazia (endereço e WhatsApp do BRIEFING de 11/05).
+4. CLAUDE.md: o mapeamento do MSE aponta pros clientes do CLIENTES-INDEX (não mais Dumar/Arte/Engetec/Tindaro); a regra "Conteúdo para Arte em Manipulação" virou regra de compliance de saúde, estética e conselho; exemplos trocados. WORKFLOW: exemplo de slug trocado.
+5. Commitados os arquivos de `shared/` que só existiam no disco (contatos-clientes, template de PAUTA, pedido de captação de takes, roteiro de vídeo HTML).
+6. WORKFLOW: §8 entrou no fluxo numerado, antes de "Convenções de nome".
+7. Resumos de reunião renomeados pro padrão `YYYY-MM-DD-resumo-reuniao.md` (Atlas, Bazar, BodySkin, Contele) e links atualizados em 38 arquivos + 2 memórias.
+8. Ciclo da reunião mensal: fonte única no WORKFLOW §8; CLAUDE.md e template só resumem e apontam.
+9. docs/OPEN-QUESTIONS (linha temática): os 4 itens voltaram com a numeração original e status de cada um ((2) superado, (3) resolvido, (1) e (4) abertos).
+
+---
+
 ## 2026-10-14 (6) — Veneza: Esquenta Black "Combo Cama Nova" + novo subagent analista-tendencias
 
 - **Veneza:** campanha Base Baú + Colchão com 5% virou o "Combo Cama Nova", com dosagem de 2 em 5 posts de feed até 30/10 ([plano](../clients/veneza-estofados/estrategia/2026-10-esquenta-black-combo-cama-nova.md)). Pergunta bloqueante: o 5% é o mesmo do PIX do site?
@@ -785,7 +798,7 @@ PH pediu peça pro Dia do Veterinário (9 de setembro). [Post escrito](../client
 
 ## 2026-09-08 (3) — Bazar Ribeiro: resultado da reunião de 03/09 + peça de homenagem
 
-PH mandou o resumo (PDF) da reunião de alinhamento que **Carlos Augusto (Lone Mídia) conduziu com Junior Ribeiro** em 03/09 — revelou que esta conta tem equipe própria da Lone além de PH (Carlos, Roberto, Lucas). Registro em [referencias/2026-09-03](../clients/bazar-ribeiro/reuniao-mensal/resumos/2026-09-03-resumo-reuniao-lone-x-bazar.md).
+PH mandou o resumo (PDF) da reunião de alinhamento que **Carlos Augusto (Lone Mídia) conduziu com Junior Ribeiro** em 03/09 — revelou que esta conta tem equipe própria da Lone além de PH (Carlos, Roberto, Lucas). Registro em [referencias/2026-09-03](../clients/bazar-ribeiro/reuniao-mensal/resumos/2026-09-03-resumo-reuniao.md).
 
 Mudanças principais: **novo formato semanal** (1 peça de layout diversificado tipo WD-40 + 2 encartes), **correção de que motion flyer já foi usado** (não é inédito, como a análise anterior tinha registrado), refinamento na regra de captação em Maricá (Junior pode gravar takes de ambiente sem fala), e confirmação de que **Junior Ribeiro é quem aprova**. 🔴 **Dia do Cliente segue sem mecânica definida** — as ideias que a Lone escreveu em 03/09 pra apresentar não foram aprovadas, marcadas como "não publicar" até confirmação.
 

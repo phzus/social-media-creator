@@ -203,7 +203,7 @@ Enquanto não vier, o feed roda em pilar de valor sem preço — foi a decisão 
 
 ## 🔴 2026-09-17 — Reunião prometeu 2 campanhas que caem direto no gate da RT (item 1 abaixo), aberto há 7+ semanas
 
-Reunião com Cintia Ferraz ([resumo completo](reuniao-mensal/resumos/2026-09-17-resumo-reuniao-cintia-ferraz.md)) fechou duas frentes novas — campanha pro público 50+ (harmonização/full face) e sorteio com toxina botulínica de prêmio — **sem que ninguém, nem Cintia nem a Lone, tenha mencionado o gate da RT durante a conversa.** As duas são 100% injetável, mesma categoria travada desde 26/07 (item 1 abaixo), que já é o gate mais antigo e mais repetido da conta.
+Reunião com Cintia Ferraz ([resumo completo](reuniao-mensal/resumos/2026-09-17-resumo-reuniao.md)) fechou duas frentes novas — campanha pro público 50+ (harmonização/full face) e sorteio com toxina botulínica de prêmio — **sem que ninguém, nem Cintia nem a Lone, tenha mencionado o gate da RT durante a conversa.** As duas são 100% injetável, mesma categoria travada desde 26/07 (item 1 abaixo), que já é o gate mais antigo e mais repetido da conta.
 
 ⚠️ **Contexto que muda a urgência:** Cintia relatou na mesma reunião que a conta está sob risco de cancelamento (sócio pressionando por ROI ruim, R$47k custo × <R$3k retorno de marketing, leads "ruim/péssimo"). Prometer essas duas campanhas de novo e não entregar — pelo mesmo motivo de sempre — é pior pra relação do que não ter prometido. **Recomendo tratar a resposta da RT como prioridade máxima desta semana**, antes de qualquer outra pauta do calendário.
 

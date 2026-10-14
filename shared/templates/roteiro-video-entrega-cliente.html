@@ -1,0 +1,292 @@
+<!--
+  Template de ENTREGA (cliente-facing) pra roteiro de vídeo — capa + página de cenas,
+  identidade Lone Mídia. Baseado no modelo "Roteiro - Lone Midia x Dijana" (Mês do Cliente/
+  Air Fryer) que PH usa como roteiro-base da casa, replicado pela 1ª vez em
+  clients/atlas-corretora/apresentacoes/2026-09-15-roteiro-cobre-ou-nao-cobre.html.
+
+  Regra da casa (shared/templates/roteiro-video.md): este HTML é a versão LIMPA que vai
+  pro cliente — timeline (cenas) + legenda + hashtags + rodapé obrigatório (quando houver
+  regra legal/compliance a declarar). Notas de produção, compliance interno, tensão de voz,
+  histórico de revisão — tudo isso fica só no .md de trabalho, nunca aqui.
+
+  Como usar:
+  1. Copiar pra clients/<slug>/apresentacoes/YYYY-MM-DD-roteiro-<tema>.html
+  2. Substituir todos os {{PLACEHOLDER}}
+  3. Ajustar o caminho do logo (../../../shared/identidade-lone/...) conforme a profundidade da pasta
+  4. Gerar o PDF via Chrome headless (nunca Cmd+P na página do artifact — ver memória
+     pdf-de-entregavel-gerar-com-chrome-headless):
+     "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --headless=new --disable-gpu \
+       --no-pdf-header-footer --virtual-time-budget=8000 \
+       --print-to-pdf="<saida>.pdf" "file:///<caminho-absoluto>.html"
+  5. Se não houver rodapé legal/compliance pra declarar, apagar o bloco .compliance inteiro
+     (não deixar vazio).
+-->
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Roteiro — {{TEMA}} · {{CLIENTE_CURTO}}</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700;800&family=Source+Sans+3:wght@400;600;700&display=swap">
+<style>
+  :root {
+    --ink: #0d1626;
+    --ink-soft: #45516b;
+    --muted: #7b869c;
+    --blue: #1233f5;
+    --blue-deep: #0a1f9c;
+    --blue-wash: #e7ebff;
+    --line: #dfe4ee;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: #e9ecf5; }
+  body {
+    color: var(--ink);
+    font-family: "Source Sans 3", -apple-system, "Segoe UI", system-ui, sans-serif;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+  h1, h2, .pill, .stamp strong, .eyebrow, .field b, .meta b, .cena-n {
+    font-family: "Archivo", "Helvetica Neue", Arial, sans-serif;
+  }
+
+  @page { size: A4; margin: 0; }
+
+  .page {
+    position: relative;
+    width: 210mm;
+    min-height: 297mm;
+    margin: 0 auto;
+    background: #ffffff;
+    break-inside: avoid;
+    page-break-inside: avoid;
+    break-after: page;
+    page-break-after: always;
+    overflow: hidden;
+  }
+  .page:last-child { break-after: auto; page-break-after: auto; }
+
+  .top-bar { position: absolute; top: 0; left: 0; width: 100%; height: 12px; background: var(--blue); }
+
+  .inner { padding: 34mm 22mm 20mm; }
+
+  /* ---------- capa ---------- */
+  .logo { height: 34px; width: auto; display: block; }
+
+  .pill {
+    display: inline-block;
+    margin-top: 22px;
+    padding: 6px 14px;
+    background: var(--blue);
+    color: #fff;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    border-radius: 4px;
+  }
+
+  .cover h1 {
+    margin: 26px 0 0;
+    font-size: 46px;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    line-height: 1.08;
+    color: var(--ink);
+  }
+  .cover h1 .accent { display: block; color: var(--blue); }
+
+  .cover .lede {
+    max-width: 30rem;
+    margin: 18px 0 0;
+    font-size: 15px;
+    color: var(--ink-soft);
+  }
+
+  .rule { height: 3px; width: 120px; background: var(--blue); border-radius: 2px; margin: 34px 0 30px; }
+
+  .fields { display: flex; gap: 64px; }
+  .field b {
+    display: block;
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 700;
+    margin-bottom: 4px;
+  }
+  .field span { font-size: 14px; font-weight: 700; letter-spacing: 0.02em; }
+
+  /* ---------- página de cenas ---------- */
+  .masthead-row {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+  .stamp { text-align: right; font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
+  .stamp strong { display: block; color: var(--ink); font-size: 12px; letter-spacing: 0.04em; }
+
+  .eyebrow {
+    display: inline-block;
+    margin-top: 30px;
+    font-size: 11px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--blue);
+    font-weight: 700;
+    background: var(--blue-wash);
+    padding: 5px 10px;
+    border-radius: 4px;
+  }
+
+  h2.title { margin: 16px 0 0; font-size: 28px; font-weight: 800; letter-spacing: -0.01em; color: var(--ink); }
+
+  .meta {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+    margin: 22px 0 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--line);
+  }
+  .meta b { display: block; font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); font-weight: 700; margin-bottom: 3px; }
+  .meta span { font-size: 14px; font-weight: 700; }
+
+  .cenas { margin-top: 8px; border-top: 1px solid var(--line); }
+  .cena {
+    display: grid;
+    grid-template-columns: 90px 1fr;
+    gap: 18px;
+    padding: 16px 0;
+    border-bottom: 1px solid var(--line);
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+  .cena-n { font-size: 11px; font-weight: 700; letter-spacing: 0.06em; color: var(--blue-deep); text-transform: uppercase; padding-top: 2px; }
+  .cena p { margin: 0; font-size: 13.5px; color: var(--ink); }
+  .fill { color: var(--blue-deep); font-weight: 700; } /* usar em [placeholders] que o cliente ainda precisa preencher/confirmar */
+
+  .block { margin-top: 22px; }
+  .block b {
+    display: block;
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 700;
+    margin-bottom: 6px;
+  }
+  .block p { margin: 0; font-size: 13px; color: var(--ink-soft); }
+  .tags { font-size: 12.5px; color: var(--blue-deep); font-weight: 600; }
+
+  /* bloco de rodapé obrigatório / compliance — apagar se não houver nada a declarar */
+  .compliance {
+    margin-top: 24px;
+    padding: 14px 16px;
+    background: var(--blue-wash);
+    border-left: 3px solid var(--blue);
+    border-radius: 4px;
+  }
+  .compliance b {
+    display: block;
+    font-size: 10px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--blue-deep);
+    font-weight: 700;
+    margin-bottom: 4px;
+  }
+  .compliance p { margin: 0; font-size: 12.5px; color: var(--ink-soft); }
+
+  .footer {
+    position: absolute;
+    bottom: 14mm;
+    left: 22mm;
+    right: 22mm;
+    display: flex;
+    justify-content: space-between;
+    font-size: 10.5px;
+    color: var(--muted);
+    padding-top: 12px;
+    border-top: 1px solid var(--line);
+  }
+  .footer strong { color: var(--ink); }
+</style>
+</head>
+<body>
+
+  <!-- PÁGINA 1 — CAPA -->
+  <section class="page cover">
+    <div class="top-bar"></div>
+    <div class="inner">
+      <img class="logo" src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia">
+      <span class="pill">Roteiro de vídeo</span>
+      <h1>{{NOME_DA_CAMPANHA_OU_SERIE}}<span class="accent">{{CLIENTE_CURTO}}</span></h1>
+      <p class="lede">{{DESCRIÇÃO_CURTA_DE_UMA_LINHA}}</p>
+      <div class="rule"></div>
+      <div class="fields">
+        <div class="field"><b>Cliente</b><span>{{NOME_COMPLETO_DO_CLIENTE}}</span></div>
+        <div class="field"><b>Produção</b><span>LONE MÍDIA</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PÁGINA 2 — ROTEIRO (repetir esta section pra cada peça, se for um pacote com mais de um vídeo) -->
+  <section class="page">
+    <div class="top-bar"></div>
+    <div class="inner">
+      <div class="masthead-row">
+        <img class="logo" src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia">
+        <div class="stamp">
+          Cliente
+          <strong>{{CLIENTE_CURTO}}</strong>
+          {{FORMATO_CURTO}} <!-- ex.: "Reel · Meta Ads" ou "Reel · Orgânico" -->
+        </div>
+      </div>
+
+      <span class="eyebrow">{{NOME_DA_CAMPANHA_OU_SERIE}}</span>
+      <h2 class="title">{{TÍTULO_DA_PEÇA}}</h2>
+
+      <div class="meta">
+        <div><b>Cenas</b><span>{{N}}</span></div>
+        <div><b>Duração</b><span>~{{X}}s</span></div>
+        <div><b>Formato</b><span>{{FORMATO_CURTO}}</span></div>
+        <div><b>CTA</b><span>{{CTA}}</span></div>
+      </div>
+
+      <div class="cenas">
+        <div class="cena">
+          <div class="cena-n">Cena 01</div>
+          <p>{{Fala/narração da cena 1}}</p>
+        </div>
+        <!-- repetir .cena pra cada cena do roteiro -->
+      </div>
+
+      <div class="block">
+        <b>Legenda</b>
+        <p>{{Copy da legenda}}</p>
+      </div>
+
+      <div class="block">
+        <b>Hashtags</b>
+        <p class="tags">{{#Hashtag1 #Hashtag2 ...}}</p>
+      </div>
+
+      <!-- Rodapé obrigatório: usar pra regulamento de sorteio (Lei 5.768/71), gate de compliance
+           técnico (ex.: seguro, saúde) ou qualquer condição legal que precise aparecer sempre.
+           Apagar o bloco inteiro se a peça não tiver nada disso a declarar. -->
+      <div class="compliance">
+        <b>{{TÍTULO_DO_AVISO}}</b>
+        <p>{{Texto do aviso/rodapé obrigatório}}</p>
+      </div>
+
+      <div class="footer">
+        <span><strong>LONE MÍDIA</strong> · Marketing &amp; Performance</span>
+        <span>{{CLIENTE_CURTO}} · {{NOME_DA_CAMPANHA_OU_SERIE}}</span>
+      </div>
+    </div>
+  </section>
+
+</body>
+</html>

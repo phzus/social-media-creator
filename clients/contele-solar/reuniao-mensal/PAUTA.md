@@ -43,7 +43,7 @@ Sem métrica consolidada pra esse ciclo — se o cliente cobrar número, dizer q
 
 | Data | Resumo |
 |---|---|
-| 2026-09-08 | [Reunião Lone × Contele](resumos/2026-09-08-resumo-reuniao-lone-contele.md) |
+| 2026-09-08 | [Reunião Lone × Contele](resumos/2026-09-08-resumo-reuniao.md) |
 
 ---
 

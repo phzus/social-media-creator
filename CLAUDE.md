@@ -21,7 +21,9 @@ Esta é a regra mais importante do projeto. Se PH menciona qualquer fato, decis�
 | Bloco de trabalho concluído (estratégia, lote de roteiros, análise) | Topo de [docs/PROGRESSO.md](docs/PROGRESSO.md) **e** `clients/<slug>/PROGRESSO.md` (entrada datada YYYY-MM-DD) |
 | Novo cliente / mudança de status | [docs/CLIENTES-INDEX.md](docs/CLIENTES-INDEX.md) |
 | Pergunta sem resposta (geral) | [docs/OPEN-QUESTIONS.md](docs/OPEN-QUESTIONS.md) |
-| Pergunta sem resposta (de cliente) | `clients/<slug>/OPEN-QUESTIONS.md` |
+| Pergunta sem resposta (de cliente) | `clients/<slug>/OPEN-QUESTIONS.md` (log completo) |
+| **Pergunta/insight/risco pra levar na reunião de alinhamento** | `clients/<slug>/reuniao-mensal/PAUTA.md` (curado) |
+| **Resumo de reunião com o cliente** | `clients/<slug>/reuniao-mensal/resumos/YYYY-MM-DD-resumo-reuniao.md` |
 | Pilar / voz / público / anti-padrão / posicionamento de cliente | `clients/<slug>/context.md` |
 | **Padrões consolidados de cliente** (vícios a banir, formatos validados, regras específicas) | `clients/<slug>/PADROES.md` (criar se ainda não existir) |
 | Briefing histórico imutável | `clients/<slug>/BRIEFING.md` |
@@ -58,7 +60,10 @@ clients/<slug>/
 ├── BRIEFING.md          # Briefing inicial recebido (não editar, é o registro)
 ├── context.md           # Contexto vivo do cliente (voz, público, pilares, anti-padrões)
 ├── PROGRESSO.md         # Log datado YYYY-MM-DD do trabalho desse cliente
-├── OPEN-QUESTIONS.md    # Dúvidas/pendências específicas do cliente
+├── OPEN-QUESTIONS.md    # Dúvidas/pendências específicas do cliente (log completo)
+├── reuniao-mensal/      # Tudo da reunião de alinhamento mensal
+│   ├── PAUTA.md         # Doc vivo e CURADO que PH abre antes da reunião
+│   └── resumos/         # YYYY-MM-DD-resumo-reuniao.md (um por reunião)
 ├── estrategia/          # Estratégias mensais (YYYY-MM.md)
 ├── conteudo/
 │   ├── posts/           # Posts de feed e carrosséis (formulação para designer)
@@ -67,9 +72,15 @@ clients/<slug>/
 └── referencias/         # Material recebido do cliente: prints, briefings, áudios transcritos
 ```
 
+### Reunião de alinhamento mensal (PH, 2026-09-18)
+
+Cada cliente tem `clients/<slug>/reuniao-mensal/` com `PAUTA.md` (curada, máximo ~8 perguntas, lida por PH antes da reunião) e `resumos/YYYY-MM-DD-resumo-reuniao.md`. O `OPEN-QUESTIONS.md` segue como log completo. Antes da reunião, Claude atualiza a PAUTA; depois, escreve o resumo, fecha as respostas na PAUTA e no OPEN-QUESTIONS e propaga pros docs vivos. Resumo de reunião é fonte confirmada; Briefing Estratégico é hipótese.
+
+**Processo completo (fonte única):** [docs/WORKFLOW.md §8](docs/WORKFLOW.md). Template: [shared/templates/pauta-reuniao-mensal.md](shared/templates/pauta-reuniao-mensal.md).
+
 ### Cliente ativo na conversa
 
-PH normalmente menciona o cliente no início do pedido ("para Arte em Manipulação...", "no cliente X..."). Quando não mencionar e for ambíguo, **perguntar antes de criar qualquer conteúdo** — não chutar.
+PH normalmente menciona o cliente no início do pedido ("para a Veneza...", "no cliente X..."). Quando não mencionar e for ambíguo, **perguntar antes de criar qualquer conteúdo** — não chutar.
 
 ### Adaptação das skills `*-sms` para multi-cliente
 
@@ -130,6 +141,7 @@ Subagents especializados que automatizam partes do workflow. Cada um vive em `.c
 | [mapeador-funil](.claude/agents/mapeador-funil.md) | Classificar peças em TOFU/MOFU/BOFU + Awareness Schwartz + validar distribuição | Fase 3 (Funil) |
 | [validador-copy](.claude/agents/validador-copy.md) | Validar copy contra voice-quality-checklist + PADROES.md do cliente + compliance | Fase 5 (Validação) |
 | [analista-perfil-ig](.claude/agents/analista-perfil-ig.md) | Analisar perfil Instagram do cliente (grade, tom, pilares) | Fase 1 (Contexto) — onboarding ou revisão mensal |
+| [analista-tendencias](.claude/agents/analista-tendencias.md) | Mapear tendências e oportunidades de conteúdo do período (trend de vídeo, busca, sazonalidade, nicho) filtradas pelo cliente, com fonte e data | Fase 2 (Pesquisa) — ou quando PH pedir oportunidades/trend |
 
 **Quando invocar:** ver [shared/workflow-planejamento-mensal.md](shared/workflow-planejamento-mensal.md) — workflow de planejamento mensal com 6 fases e subagents mapeados em cada fase.
 
@@ -163,7 +175,7 @@ Catálogo completo em [.claude/skills/](.claude/skills/). Resumo:
 
 - **Antes de escrever roteiro/post para um cliente novo**, garantir que `clients/<slug>/context.md` existe e está completo. Se faltar, rodar a skill `social-media-context-sms` primeiro.
 - **Antes de fazer suposição sobre o cliente** (público, ofertas, preços, restrições legais, sazonalidade), checar `BRIEFING.md` e `context.md`. Se a info não estiver lá, perguntar a PH e registrar a resposta no lugar certo.
-- **Conteúdo para Arte em Manipulação (farmácia artesanal)**: atenção a regulamentação Anvisa/CFF — não fazer promessas terapêuticas, não substituir orientação médica, evitar copy hype de "cura". Confirmar restrições com PH na fase de briefing.
+- **Conteúdo de saúde, estética e conselho profissional** (CIIL, BodySkin, Veterinária Regional, Max Contabilidade e afins): seguir o gate de compliance do `PADROES.md` de cada cliente — sem promessa terapêutica ou de resultado, sem substituir orientação profissional, sem copy hype de "cura", sem nome de profissional/registro não confirmado.
 - **Erros recorrentes a evitar**: copy genérico ("transforme sua vida"), promessas absolutas, jargão sem tradução, CTAs vagos ("saiba mais"), datas relativas ("amanhã", "essa semana") sem âncora absoluta.
 
 ## Workflow geral
@@ -247,7 +259,7 @@ Na dúvida entre os dois mundos, o critério é: **rotina de feed do cliente →
 O MSE foi escrito pra uma operação chamada Funnel Labs (dono "Anthony"/"André Cia"). Neste projeto:
 
 - **"Anthony" / "o dono" / "User" (aprovador final) = PH.** Toda aprovação GO/NO-GO e escolha de logo/estratégia é do PH.
-- **O "expert"/"cliente" do MSE = o cliente da Lone** (Dumar, Arte em Manipulação, Engetec, Tindaro Solar). O `context.md` / `BRIEFING.md` do cliente em `clients/<slug>/` faz o papel do `COMUNICACAO.md` (tom de voz) + briefing do MSE.
+- **O "expert"/"cliente" do MSE = o cliente da Lone** (clientes ativos listados em [docs/CLIENTES-INDEX.md](docs/CLIENTES-INDEX.md)). O `context.md` / `BRIEFING.md` do cliente em `clients/<slug>/` faz o papel do `COMUNICACAO.md` (tom de voz) + briefing do MSE.
 - **`@theboss`** orquestra; os demais agentes têm autoridade exclusiva no seu domínio (ver [.claude/rules/agent-authority.md](.claude/rules/agent-authority.md)).
 
 ## Como ativar os agentes

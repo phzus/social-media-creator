@@ -39,7 +39,7 @@ Sem métrica consolidada pra esse ciclo — se o cliente cobrar número, dizer q
 
 | Data | Resumo |
 |---|---|
-| 2026-09-03 | [Reunião Lone × Bazar Ribeiro (Junior)](resumos/2026-09-03-resumo-reuniao-lone-x-bazar.md) |
+| 2026-09-03 | [Reunião Lone × Bazar Ribeiro (Junior)](resumos/2026-09-03-resumo-reuniao.md) |
 
 ---
 

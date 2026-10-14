@@ -72,7 +72,7 @@ Cartaz de oferta não é salvo, não é compartilhado e não é comentado. O alg
 
 Vídeo é o único formato que alcança quem não segue — e a loja não grava ([PADROES §7](../PADROES.md)). Três saídas que não dependem disso:
 
-- **Motion flyer.** Arte animada, sem rosto, sem gravação — três produtos com preço entrando na tela com trilha. Ocupa o slot de Reels e alcança fora da base. ⚠️ **Correção (reunião de 03/09, [referencias](../reuniao-mensal/resumos/2026-09-03-resumo-reuniao-lone-x-bazar.md)):** já foi usado antes, e Junior avaliou bem — não é formato inédito nesta conta, é formato validado e pouco repetido desde então.
+- **Motion flyer.** Arte animada, sem rosto, sem gravação — três produtos com preço entrando na tela com trilha. Ocupa o slot de Reels e alcança fora da base. ⚠️ **Correção (reunião de 03/09, [referencias](../reuniao-mensal/resumos/2026-09-03-resumo-reuniao.md)):** já foi usado antes, e Junior avaliou bem — não é formato inédito nesta conta, é formato validado e pouco repetido desde então.
 - **Carrossel de kit.** Slide 1 é a tarefa, slides do meio são os itens com preço, último é o CTA. Carrossel de utilidade é salvo — e salvamento é o sinal que mais distribui.
 - **Pedido de captação de takes.** A loja não conduz gravação, mas consegue apontar o celular pra prateleira por dez segundos. A Lone monta. É bem mais fácil de conseguir do que "faz um vídeo".
 

@@ -54,7 +54,7 @@ Já a ferramenta que só aparece numa obra grande, uma vez por ano, pode continu
 
 ⚠️ **Rodapé de contato:** a conta publica os dois números identificados por cidade. **Checagem obrigatória: DDD 21 = Maricá · DDD 22 = Saquarema** ([OPEN-QUESTIONS](../../OPEN-QUESTIONS.md) — a divergência sobre qual número de Saquarema entra em arte **segue aberta**; confirmar com PH antes de fechar a arte. Não imprimir telefone sem essa confirmação).
 
-**Não afirmar:** preço de nenhum item · marca · horário de funcionamento (segue sem confirmação, [OPEN-QUESTIONS #1](../../OPEN-QUESTIONS.md)) · que item específico está em estoque nas duas unidades (o mix difere entre Maricá e Saquarema, [resumo da reunião §5](../../reuniao-mensal/resumos/2026-09-03-resumo-reuniao-lone-x-bazar.md)).
+**Não afirmar:** preço de nenhum item · marca · horário de funcionamento (segue sem confirmação, [OPEN-QUESTIONS #1](../../OPEN-QUESTIONS.md)) · que item específico está em estoque nas duas unidades (o mix difere entre Maricá e Saquarema, [resumo da reunião §5](../../reuniao-mensal/resumos/2026-09-03-resumo-reuniao.md)).
 
 **Por que o lado "pode pedir emprestado" não nomeia produto:** de propósito. Nomear betoneira, lava jato ou serra seria desaconselhar compra de item que pode estar no catálogo — o lava jato Guepar, por exemplo, está na tabela da loja. A regra fica expressa por frequência ("obra grande, uma vez por ano"), sem citar categoria.
 

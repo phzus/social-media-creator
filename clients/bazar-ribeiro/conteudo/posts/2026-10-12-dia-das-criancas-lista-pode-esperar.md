@@ -10,7 +10,7 @@
 
 > **Pedida por PH em 2026-10-07** ("artes comemorativas para todos os clientes"). Saudação de data é decisão dele; a peça sai.
 
-> **É saudação, sem mecânica de campanha e sem oferta.** Na reunião de 03/09 Junior Ribeiro confirmou Dia das Crianças + Halloween como as datas de outubro, mas **nenhuma mecânica foi definida** ([resumo](../../reuniao-mensal/resumos/2026-09-03-resumo-reuniao-lone-x-bazar.md), [OQ #16](../../OPEN-QUESTIONS.md)). Esta peça não inventa uma: não tem preço, produto, desconto, brinde nem sorteio.
+> **É saudação, sem mecânica de campanha e sem oferta.** Na reunião de 03/09 Junior Ribeiro confirmou Dia das Crianças + Halloween como as datas de outubro, mas **nenhuma mecânica foi definida** ([resumo](../../reuniao-mensal/resumos/2026-09-03-resumo-reuniao.md), [OQ #16](../../OPEN-QUESTIONS.md)). Esta peça não inventa uma: não tem preço, produto, desconto, brinde nem sorteio.
 
 > **Por que esse ângulo.** O dia 12 cai no **último dia de um fim de semana de três dias**, e o público primário da conta (65%, homem 30-60, "faço eu mesmo") é exatamente quem passa o feriadão olhando uma lista de consertos da casa que não andou. A peça fala dessa cena e dá uma licença, em vez de empurrar venda: é a voz do dono de bazar de bairro que conhece o freguês ([context.md](../../context.md)). A criança entra como o motivo da licença, não como tema infantil.
 >

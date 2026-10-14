@@ -3,7 +3,7 @@
 **Cliente:** bodyskin-araruama · **Data:** 2026-10-02 (sexta) · **Plataforma:** Instagram (feed 4:5) · **Pilar:** P5 Oferta, com função de alcance · **Formato:** Estático + versão animada (stories)
 **Envio pra aprovação:** sexta 25/09 ([estratégia de outubro §6](../../estrategia/2026-10.md))
 
-> **De onde vem:** campanha de indicação priorizada pela Cintia na [reunião de 17/09](../../reuniao-mensal/resumos/2026-09-17-resumo-reuniao-cintia-ferraz.md). A pesquisa interna da clínica mostra que o cliente novo chega de passagem ou por indicação, e este post põe o feed pra trabalhar a favor do segundo canal.
+> **De onde vem:** campanha de indicação priorizada pela Cintia na [reunião de 17/09](../../reuniao-mensal/resumos/2026-09-17-resumo-reuniao.md). A pesquisa interna da clínica mostra que o cliente novo chega de passagem ou por indicação, e este post põe o feed pra trabalhar a favor do segundo canal.
 >
 > **A jogada:** o post pede marcação nos comentários. Quem marca a amiga já está indicando, em público, antes de chamar no WhatsApp. O CTA de alcance e a mecânica de venda viram a mesma ação ([PADROES §4](../../PADROES.md): peça de topo pode pedir marcação).
 >

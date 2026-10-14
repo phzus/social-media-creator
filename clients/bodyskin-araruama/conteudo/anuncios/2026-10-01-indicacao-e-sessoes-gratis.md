@@ -4,7 +4,7 @@
 **Segmentação:** raio de 5 km a partir da Av. John Kennedy, 300 — Centro, Araruama (definido na reunião de 17/09)
 **Destino:** mensagem no WhatsApp da clínica (botão "Enviar mensagem")
 
-> **De onde vem:** próximas etapas da [reunião de 17/09](../../reuniao-mensal/resumos/2026-09-17-resumo-reuniao-cintia-ferraz.md): *"Criar duas a três variações para os anúncios de indique amigos e de sessões gratuitas em áreas como axila, faixa de barba, nuca ou buço."* Contexto e mecânica na [estratégia de outubro §3](../../estrategia/2026-10.md).
+> **De onde vem:** próximas etapas da [reunião de 17/09](../../reuniao-mensal/resumos/2026-09-17-resumo-reuniao.md): *"Criar duas a três variações para os anúncios de indique amigos e de sessões gratuitas em áreas como axila, faixa de barba, nuca ou buço."* Contexto e mecânica na [estratégia de outubro §3](../../estrategia/2026-10.md).
 >
 > **O problema que estes anúncios atacam:** lead barato que não fecha. Por isso nenhum criativo leva preço, todos dizem **"avaliação presencial no Centro de Araruama"** (quem mora longe se filtra sozinho antes de mandar mensagem) e as duas ofertas são de entrada: a pessoa testa ou vem pela amiga, que é o caminho que a própria clínica diz que converte.
 
