@@ -192,6 +192,8 @@ Referências: [Espumática, fábrica e estrutura](referencias/2026-10-06-referen
 | Estrutura | O conforto do sofá se decide **por dentro** | Estrutura em eucalipto reflorestado e espuma D28 nos sofás da nossa fábrica. |
 | Loja física | Antes de levar, **senta nele aqui** | Fábrica e loja no mesmo endereço: Rod. Amaral Peixoto, KM 90, Bananeiras. |
 
+⚠️ **(14/10) Os exemplos de Fábrica e Loja física acima citam KM 90/Araruama, e o §15 (13/10) proíbe cidade no estático, que vale pros dois perfis.** No estático, o fato concreto vem da ficha (eucalipto, D28), não do endereço.
+
 ⚠️ O pilar Loja física já rodou em 28/09 ("mesmo endereço"), e o pilar Estrutura encosta em 18/09 ("o que a foto não mostra"). Conferir o grid antes de usar esses dois exemplos em sequência.
 
 ---

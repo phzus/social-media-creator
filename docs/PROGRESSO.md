@@ -4,6 +4,14 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-14 (4) — Segunda 19/10: Vet Regional e Veneza (MR já estava pronta)
+
+- **Vet Regional:** Mito x Verdade de Nefrologia ("bebendo mais água, deve ser o calor"). O validador barrou a verdade que mandava esperar o tempo esfriar.
+- **Veneza:** primeiro institucional simplificado (§14), mesma arte nos dois perfis: "Achou barato demais pra ser bom? A resposta tá na fábrica." Pendência: WhatsApp de Nova Iguaçu.
+- **MR:** a #04 da série ("cor aprovada pela amostra") já tinha sido feita hoje mais cedo pra 19/10.
+
+---
+
 ## 2026-10-14 (3) — Vet Regional 16/10 em arte única + Império: localização da unidade Linha Azul
 
 - **Vet Regional:** o carrossel de Anestesia de 16/10 virou estático (pedido do PH), tema mantido. O validador pegou o bloqueante de 13/10 (tirar dúvida de anestesia antes de marcar) de volta na legenda; corrigido.

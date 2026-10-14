@@ -4,6 +4,16 @@ Log datado do trabalho feito pra Veneza Estofados. Topo = mais recente. Entrada 
 
 ---
 
+## 2026-10-14 — Post de segunda 19/10 (institucional): "Achou barato demais pra ser bom? A resposta tá na fábrica."
+
+[Peça](conteudo/posts/2026-10-19-barato-demais-resposta-na-fabrica.md): **primeira aplicação do institucional simplificado** (§14), arte única, mesma arte nos dois perfis (§15, sem cidade nem KM 90). Ângulo: a objeção "tá barato, deve ser ruim" que o Carlos levantou na reunião de 13/10. A fábrica responde, com fato da ficha (eucalipto reflorestado, espuma D28).
+
+- **Validação (validador-copy):** saiu "afundou em seis meses" (sem fonte, e "sofá afundando" é queixa registrada contra a própria Veneza); subtítulo trocou catálogo + "desde 2011" por fato de ficha; fecho deixou de repetir o "senta/aperta antes de decidir" de 02/10.
+- **PADROES §14:** nota de que os exemplos com KM 90 conflitam com o §15.
+- **Pendência:** WhatsApp de Nova Iguaçu (OQ #23). A versão do @venezaestofados não sai com o número de Araruama. Prazo: cliente sex 16/10 até 15h.
+
+---
+
 ## 2026-10-13 — Post de sexta 16/10: "Fechado, ele ocupa 80 cm da sala. Aberto, dá 1,55 m pra esticar as pernas."
 
 [Peça](conteudo/posts/2026-10-16-sofa-master-fechado-aberto.md): estático 4:5, mecanismo **ficha + preço**, Sofá Master 1,50m a R$ 799,99 à vista ou 12x de R$ 76,00. É a mesma arte nos dois perfis, só com a assinatura de cada um (Araruama com (22) 98811-4216; Nova Iguaçu com [CONFIRMAR]).

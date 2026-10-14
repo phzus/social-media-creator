@@ -4,6 +4,15 @@ Log datado do trabalho feito pra Veterinária Regional. Topo = mais recente. Ent
 
 ---
 
+## 2026-10-14 (2) — Post de segunda 19/10: Mito x Verdade "Ele tá bebendo mais água, deve ser o calor" (Nefrologia)
+
+[Peça](conteudo/posts/2026-10-19-mito-bebe-mais-agua-por-causa-do-calor.md): o Mito x Verdade volta ao slot de segunda (não rodava desde 28/09). **Especialidade nova na conta: Nefrologia.** Gancho sazonal: outubro esquentando, tutor põe a sede na conta do tempo. CTA de comentário (rodízio §7).
+
+- **Validação (validador-copy):** a verdade mandava esperar o tempo esfriar e tratava a sede do gato como normal no calor (o gancho de Nefrologia do briefing diz o oposto); corrigido pra "vale avaliar sem esperar o tempo esfriar". Bullets de xixi trocados (frequência na caixa de areia é outro quadro, de urgência); fecho cita Nefrologia e Nutrição & Endocrinologia, porque "açúcar no sangue" é desta.
+- **No envio:** pedir à equipe da clínica que leia a frase sobre gato (sem RT identificado, ninguém validou clinicamente). Prazo: cliente sex 16/10 até 15h.
+
+---
+
 ## 2026-10-14 — Post de sexta 16/10 vira arte única (Anestesia)
 
 PH: *"no post do dia 16/10 da VR faz ele slide único, podendo até mudar o tema"*. [Peça](conteudo/posts/2026-10-16-anestesia-pergunta-quem-cuida.md) v3.1: o carrossel de 4 slides virou estático no template Educativo. **Tema mantido**, porque a pergunta + giro ("PERGUNTA QUEM CUIDA DA ANESTESIA") fecha a ideia sozinha. As perguntas pro tutor levar à consulta foram pra legenda, agora 5, com "quem vai cuidar da anestesia dele?" no topo.
