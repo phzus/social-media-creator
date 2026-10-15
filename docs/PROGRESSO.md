@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-15 (4) — CIIL: anúncio do OMINT pra sexta 16/10
+
+[Peça](../clients/ciil/conteudo/posts/2026-10-16-novo-convenio-omint.md) feed + 9:16, validada pelo subagent (2 bloqueantes corrigidos). Ocupa o slot da Espondilite, que volta pra fila.
+
+---
+
 ## 2026-10-15 (3) — CIIL: resumo da reunião registrado
 
 [Resumo](../clients/ciil/reuniao-mensal/resumos/2026-10-15-resumo-reuniao.md) a partir da transcrição e do PDF. Saldo: linha editorial aprovada, convênio novo (3 peças), vacina infantil em Araruama, janela de filmagem. As perguntas de RT e de copy reescrita não entraram na reunião.
