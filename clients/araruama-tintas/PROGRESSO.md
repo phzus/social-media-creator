@@ -4,6 +4,22 @@ Log datado do trabalho feito pra Araruama Tintas. Topo = mais recente. Entrada p
 
 ---
 
+
+## 2026-10-15 — Dia do Pintor (domingo 18/10): "Pinta aí que eu vejo como fica."
+
+Pedido de PH. [Peça](conteudo/posts/2026-10-18-dia-do-pintor-pinta-que-eu-vejo.md): estático 4:5 no modelo de data da conta, falando **com o pintor**, sobre o retrabalho de cor ("Você sabe o que vem depois: a mesma parede, pintada duas vezes."). A loja entra com a tese dela: manda a foto antes de abrir a lata. Data conferida (18/10 é data comemorativa, não feriado).
+
+**Inverte a reserva de 13/10** ("Dia do Pintor desta semana é da Bruno"). As duas contas usam a data com ângulos isolados: a Bruno fala com o dono da casa, sobre orçamento e preço.
+
+**Validador:** 3 bloqueantes de isolamento e coerência corrigidos, e 4 ajustes:
+- o parágrafo de "a mesma cor muda com a luz / cartão de cores" era tese de uma peça da Bruno de 31/08
+- o título estava em 3ª pessoa, que é o endereçamento da Bruno
+- a legenda repetia o esqueleto da Bruno de 16/10
+
+**Pendências:** o post sai num domingo, fora da grade. O WhatsApp é atendido no domingo?
+
+---
+
 ## 2026-10-13 — Post de sexta 16/10: "Em outubro, o susto fica por conta do Halloween. O preço da massa corrida é este:" (carrossel, campanha "Outubro Espanta Preço")
 
 Lote de sexta da carteira inteira. [Peça](conteudo/posts/2026-10-16-outubro-espanta-preco-vitrine.md): **carrossel de 5 slides**, mecanismo **ficha + preço (vitrine)** organizada por duas perguntas que decidem a compra ("essa parede pega água?" e "o reboco é novo?"): massa PVA 21 kg R$ 35,00 · massa acrílica 25 kg R$ 59,90 · selador acrílico 15 L R$ 74,90 · Acrilux Standard Branco R$ 159,90, com CTA de foto da parede no WhatsApp (22) 99245-8813 dizendo se ela pega água ou se o reboco é novo. Primeira peça da campanha de outubro registrada aqui.

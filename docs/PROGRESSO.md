@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-15 (6) — Araruama Tintas: Dia do Pintor (domingo 18/10)
+
+[Peça](../clients/araruama-tintas/conteudo/posts/2026-10-18-dia-do-pintor-pinta-que-eu-vejo.md) a pedido de PH, isolada da peça de Dia do Pintor da Bruno das Tintas (outro leitor, outro assunto, sem produto). O validador pegou 3 colisões de texto com a Bruno, e foram corrigidas.
+
+---
+
 ## 2026-10-15 (5) — Estilo de anúncio da Lone formalizado (voice-quality-checklist §2.8)
 
 PH disse que o anúncio do OMINT da CIIL serve pra aprender o estilo de copy e posts da casa. Novo [§2.8 no checklist](../shared/voice-quality-checklist.md): arte de anúncio é direta e comercial (novidade dita, caixa alta, exclamação na chamada e no CTA, CTA de agendar, telefones na arte). O gancho editorial fica pra série educativa e post de dor.

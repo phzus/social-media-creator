@@ -96,6 +96,9 @@ Domingo, 18/10, é Dia do Pintor. Mostra o orçamento dele no balcão da Amaral 
 **Frases queimadas ([PADROES §4](../../PADROES.md)):** as 11 conferidas. Atenção à #8 ("Na Bruno Tintas tem!"): o CTA pede pra mostrar o orçamento, não anuncia estoque. Atenção à #3 ("Por que escolher a Bruno das Tintas?"): a pergunta da peça é sobre o pintor, não sobre a loja.
 
 🔴 **Isolamento ([PADROES §0](../../PADROES.md)), conferido por ângulo, frase-conceito, mecânica e CTA contra a Araruama Tintas do mesmo dia:** lá a sexta é a campanha de outubro com tema de **Halloween** ("Outubro Espanta Preço", direção aprovada pelo cliente deles em 09/10), carrossel de vitrine com massa, selador e tinta branca de outra linha, e CTA de foto da parede no WhatsApp. Aqui: estático, pilar do pintor, um produto premium, pergunta + giro, CTA presencial com o orçamento do pintor. Abertura da legenda escrita pra não espelhar a da Araruama do mesmo dia (que abre pela soma do material); sugestão: publicar a Bruno cedo e a Araruama depois, como em 12/10. **Nada de Halloween, "susto", "espanta" ou roxo/laranja nesta conta em outubro.** Dia do Pintor não aparece em nenhuma peça da Araruama.
+
+> 🔄 **2026-10-15:** a Araruama Tintas passou a ter peça própria de Dia do Pintor, no domingo 18/10, a pedido de PH ([peça](../../../araruama-tintas/conteudo/posts/2026-10-18-dia-do-pintor-pinta-que-eu-vejo.md)). Os ângulos ficaram isolados: lá a peça fala com o pintor sobre escolha de cor, sem produto e sem preço. A nota de isolamento acima vale pra sexta 16/10.
+
 🟡 **Casas Rio Bahia (mesmo bairro):** sem "fundação/estrutura"; a peça é de acabamento.
 
 **Anti-IA:** pergunta que é a fala real do cliente, com giro que inverte quem está certo · sem "não é X, é Y" · sem tricolon (o exemplo de parede na legenda tem dois itens) · zero exclamação · lata nunca é sujeito de ação humana · fecha em CTA, não em resumo · acentuação conferida (inclusive "à vista", "Iguaba", hashtags).

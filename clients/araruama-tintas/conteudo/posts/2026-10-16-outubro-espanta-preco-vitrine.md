@@ -113,6 +113,9 @@ Manda uma foto da parede no WhatsApp (22) 99245-8813 e diz se ela pega água ou 
 
 🔴 **Isolamento ([PADROES §1](../../PADROES.md)), por ângulo, frase-conceito, mecânica e CTA contra a Bruno das Tintas do mesmo dia:** lá a sexta é estático do **Dia do Pintor** (pergunta + giro sobre o pintor que pede tinta premium, um produto, CTA presencial sem WhatsApp). Aqui: carrossel de vitrine com 4 itens de preparo + tinta branca standard, tema de Halloween, CTA de foto no WhatsApp. **Nenhuma menção a pintor nesta peça** (o Dia do Pintor desta semana fica com a outra conta). A sequência massa → selador → tinta aparece como **vitrine de compra organizada pela pergunta "pega água?"**, não como passo a passo de preparo, e não usa a frase-conceito "antes da cor, a parede precisa estar pronta" nem nada próximo (é da outra conta, 14/09). Frases queimadas da outra conta conferidas: nenhuma.
 
+> 🔄 **2026-10-15:** esta conta passou a ter peça própria de Dia do Pintor, no domingo 18/10, a pedido de PH ([peça](2026-10-18-dia-do-pintor-pinta-que-eu-vejo.md)). Os ângulos ficaram isolados: a de domingo fala com o pintor sobre escolha de cor, sem produto e sem preço. A Bruno fala com o dono da casa, sobre orçamento e preço. O "Dia do Pintor é da Bruno nesta semana" acima foi superado.
+
+
 **Repetição dentro da conta:** a peça de 17/09 tinha os mesmos itens com "de/por" e 15% (e não foi ao ar por falta de validade); esta é a renovação pedida pelo cliente, com preço único, outro mecanismo (pergunta que decide), outro visual e o Acrilux no lugar do selador F.E. CTA "Manda uma foto…" é a fórmula da conta (12/10, 02/10).
 
 **Anti-IA:** sem "não é X, é Y" · slides com tamanhos diferentes · "susto" é palavra de quem fala de orçamento, não trocadilho solto · zero exclamação · fecha em CTA · acentuação conferida (inclusive #OutubroEspantaPreço).
