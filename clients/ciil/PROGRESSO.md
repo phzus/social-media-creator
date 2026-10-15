@@ -4,6 +4,22 @@ Log datado do trabalho feito pra CIIL. Topo = mais recente. Entrada por bloco de
 
 ---
 
+## 2026-10-15 — Análise de Instagram (CIIL + 2 referências) e PAUTA da reunião de hoje
+
+Coleta com Playwright de @ciilagos, @ciil.sg, @imunovidavacinas e @imunovitta. [Análise](referencias/2026-10-15-analise-instagram-ciil.md) · [dados](referencias/instagram/2026-10-15/).
+
+**Achados:**
+- 🔴 As legendas no ar foram reescritas fora da Lone, com emoji e caixa alta. Em São Gonçalo, uma saiu com asterisco de markdown visível.
+- As peças "retidas pelo RT" estão no ar.
+- Nenhum Reels desde setembro, enquanto o Reels de médico falando de doença autoimune é o que mais engaja na @imunovitta.
+- Fixados de junho.
+- São Gonçalo é cópia de Araruama.
+- Crescimento: +85 e +10 seguidores em 4 meses.
+
+**PAUTA reescrita** pra reunião de 15/10: item 0 interno, 8 perguntas (inclui o briefing de novembro adiantado e vacina pra quem usa imunobiológico), Dia Mundial da Psoríase (29/10) como oportunidade, resultado com linha de base honesta. A peça de 19/10 passa a ser **06 de 10**.
+
+---
+
 ## 2026-10-14 — Post de segunda 19/10: "Isso Tem Nome · 07 de 10 — Retocolite Ulcerativa"
 
 PH pediu "post pro dia 19". O [calendário da temporada](estrategia/linha-editorial-isso-tem-nome.md) já reservava o slot 07 pra Retocolite Ulcerativa, então segui o previsto. [Peça](conteudo/posts/2026-10-19-isso-tem-nome-07-retocolite-ulcerativa.md): estático 4:5, esqueleto fixo de 5 blocos, **primeira doença intestinal da conta** (até aqui foi só pele e articulação).

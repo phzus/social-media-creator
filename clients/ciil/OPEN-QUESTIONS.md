@@ -2,6 +2,13 @@
 
 Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes de fechar a 1ª estratégia mensal.
 
+## 🔴 Nova (2026-10-15) — análise do Instagram: copy trocada no ar e fila do RT desatualizada
+
+Fonte: [análise de 15/10](referencias/2026-10-15-analise-instagram-ciil.md).
+- 🔴 **Quem sobe os posts e reescreve a legenda?** As legendas no ar (14/09, 28/09, 02/10, 05/10, 09/10) não são as da Lone, e o texto de 2 artes mudou. Na @ciil.sg, a legenda de 09/10 saiu com asteriscos de markdown visíveis. PH confere internamente antes de perguntar ao cliente ([PAUTA item 0](reuniao-mensal/PAUTA.md)).
+- 🔴 **As peças 01 a 05 e a de gatilhos estão no ar**, mas constam aqui como "retidas até o OK do RT". O RT aprovou? A fila de "8 peças retidas" está desatualizada até isso ser respondido.
+- ✅ **Selo da peça de 19/10 respondido pela coleta:** a 06 (Espondilite) nunca foi ao ar, então Retocolite sai como **`06 de 10`**. A peça de Dia das Crianças (12/10) também não foi ao ar (PAUTA #3).
+
 ## 🔴 Nova (2026-10-14) — Isso Tem Nome 07, Retocolite Ulcerativa (19/10)
 
 [Peça](conteudo/posts/2026-10-19-isso-tem-nome-07-retocolite-ulcerativa.md) escrita e retida. **Oitava peça clínica na fila do RT** (8 itens no arquivo).

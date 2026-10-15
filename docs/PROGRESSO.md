@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-15 (2) — Coleta de Instagram aplicada na CIIL antes da reunião
+
+Segundo uso do script: 2 perfis da CIIL + 2 referências. [PAUTA da reunião](../clients/ciil/reuniao-mensal/PAUTA.md) reescrita com base na [análise](../clients/ciil/referencias/2026-10-15-analise-instagram-ciil.md). **Padrão que já apareceu em 2 clientes no mesmo dia (BodySkin e CIIL):** o que está no ar não é o que a Lone entregou (peça fora da grade ou legenda reescrita). Vale rodar a comparação grade × `conteudo/` em toda a carteira.
+
+---
+
 ## 2026-10-15 — Playwright instalado + piloto de análise de Instagram (BodySkin × Espaço Laser)
 
 Playwright 1.64 no repo, usando o Chrome do sistema (o macOS 13 do PH não recebe mais o Chromium do Playwright). Playwright MCP configurado em `.mcp.json` (vale a partir da próxima sessão). Script de coleta pública sem login em [scripts/instagram/coletar-perfil.mjs](../scripts/instagram/coletar-perfil.mjs): perfil, print da grade e, por post, curtidas, comentários, legenda e arte.

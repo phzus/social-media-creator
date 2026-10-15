@@ -3,46 +3,66 @@
 > Documento vivo e **curado** — é o que PH abre minutos antes da reunião de alinhamento.
 > O log completo e técnico de pendências continua em [OPEN-QUESTIONS.md](../OPEN-QUESTIONS.md); aqui entra só o que vale ocupar o tempo da reunião.
 
-**Última atualização:** 2026-09-18 · **Próxima reunião:** ❓ a marcar · **Última reunião:** 2026-08-26 (registro no OPEN-QUESTIONS, sem resumo próprio)
+**Última atualização:** 2026-10-15 · **Próxima reunião:** 2026-10-15 (hoje) · **Última reunião:** 2026-08-26 (registro no OPEN-QUESTIONS, sem resumo próprio)
+
+Base nova desta pauta: [análise do Instagram de 15/10](../referencias/2026-10-15-analise-instagram-ciil.md).
 
 ---
+
+## 0. 🔴 Antes de entrar na reunião (interno, PH)
+
+- **Conferir quem sobe os posts da CIIL e quem mexe na legenda.** As legendas no ar não são as que a Lone escreveu, o texto de 2 artes mudou, e a legenda de 09/10 na @ciil.sg saiu com `**dermatite atópica**`, com os asteriscos aparecendo. Se for alguém da Lone, resolve internamente e **não** vai pra reunião. Se for a cliente ou a @vivamidia, vira a pergunta 1.
 
 ## 1. 🔴 Perguntar nesta reunião
 
 | # | Pergunta | Por que importa (o que destrava) |
 |---|---|---|
-| 1 | **O RT libera depoimento de paciente em peça?** | Publicidade médica tem regra própria. Trava a peça de depoimentos do Doctoralia, escrita e parada. |
-| 2 | **Especialidade e vínculo das 4 médicas avaliadas** (Gabriela Higino · Clarice Almeida · Gabriela Masullo · Priscilla Abelha) e em qual unidade cada uma atende. | Sem isso não dá pra citar nome em arte; CRM só é necessário se o nome entrar na peça. |
-| 3 | **Quais das 10 doenças são subcutâneas e quais são infusionais?** | Toda a produção até hoje assumiu infusão/day clinic. Se parte é subcutânea, a copy está descrevendo errado o próprio serviço. |
-| 4 | **Quais doenças da lista a CIIL trata em criança?** | Pediatria abre um público que nunca apareceu em nenhuma peça da conta — pode ser frente inteira de conteúdo. |
-| 5 | **Como fica o encaminhamento de Crohn, Retocolite e Asma**, já que gastro e pneumo/alergo não estão entre as especialidades da casa? | Define o que a peça pode prometer: avaliação na clínica ou recebimento de paciente já encaminhado. |
-| 6 | **Quando a lista de especialidades cresce?** ("em breve iremos atender outras") | Combinar uma reconfirmação periódica evita a série travar de novo como travou em julho/agosto. |
+| 1 | **Quem publica no Instagram e quem revisa a legenda antes?** (só se o item 0 apontar pra fora da Lone) | A copy aprovada está chegando ao ar trocada, com emoji e caixa alta que a Lone evita, e com erro de formatação visível. |
+| 2 | 🔴 **O RT aprovou as peças da série que já estão no ar?** Quem é o RT, e dá pra combinar um prazo fixo de revisão (ex.: 2 dias úteis)? | Nos docs da Lone, 8 peças clínicas constam "retidas até o OK do RT", mas 6 já foram ao ar. Ou o OK existe e não chegou na Lone, ou estão saindo sem ele. Nos dois casos, falta o combinado. |
+| 3 | **O post de Dia das Crianças (12/10) não foi ao ar. Foi decisão de vocês?** | Saber se foi recusa, esquecimento ou feriado. Junto: a peça de segunda 19/10 sai como **06 de 10** (a 06 de Espondilite nunca foi produzida). |
+| 4 | 🔴 **Quem chega com suspeita de Crohn, Retocolite ou Asma é avaliado na CIIL ou precisa vir encaminhado?** | Bloqueia a peça de 19/10 (Retocolite). Gastro e pneumo não estão entre as especialidades da casa. |
+| 5 | **Campanhas de novembro** (as 5 do briefing): serviço a vender mais, promoção, data importante, meta, novidade. **Tem campanha de vacina pro fim do ano?** | Adianta o briefing mensal, que seria pedido entre 22 e 25/10. Vacinação sumiu do feed desde setembro, e a clínica também é "Imunização". |
+| 6 | **Quais vacinas a CIIL recomenda e aplica pra quem trata com imunobiológico?** | É a ponte entre as duas frentes da clínica (tratamento + vacina). Na @imunovitta, o alerta de sarampo pra paciente em uso de imunossupressor teve 81 curtidas, contra 4 a 12 dos Reels de vacina genérica. Precisa do RT. |
+| 7 | **Depoimentos e médicas:** o RT libera depoimento de paciente? Qual a especialidade e unidade das 4 médicas do Doctoralia? | Pendente desde 25/08. Prova social é o post que mais engaja nas referências, e a peça está pronta e parada. |
+| 8 | **Vídeo:** o banco de takes pedido em 25/08 foi gravado? Tem alguém da equipe (dermatologista, reumatologista) que topa aparecer? | A CIIL tem **zero Reels** desde setembro, nos dois perfis. A @imunovitta posta só Reels, e os mais curtidos (78 a 94, contra ~5 da CIIL) são **médico falando de doença autoimune**, o mesmo tema da série. |
+
+**Se sobrar tempo:** subcutâneo × infusional nas 10 doenças · quais doenças tratam em criança · a CIIL faz ultrassom de mama?
 
 ## 2. 💡 Insights e oportunidades que a Lone observou
 
-- **A série "Isso Tem Nome" destravou:** com as 10 doenças liberadas, são 10 segundas sem depender de peça-ponte. O gargalo agora é só o OK do RT por peça, não mais o escopo.
-- A regra do **"*Consulte condições"** em peça de convênio (confirmada em 17/09) resolveu de vez a questão de cobertura variável por unidade — vale replicar o raciocínio pra qualquer afirmação que dependa da rede do plano.
-- Confirmado em 14/09 que a CIIL **avalia e diagnostica** mesmo sem diagnóstico prévio — isso abriu o público de quem ainda não tem laudo, que antes a gente mandava procurar especialista fora.
+- **Dia Mundial da Psoríase é 29/10 (quinta).** Encaixa na série sem custo: a Psoríase já foi a 02, então dá pra fazer peça de data que puxa pra ela.
+- **Os fixados do perfil são de junho** (onde fica, horário, feedbacks, da época da @vivamidia). Proposta: fixar a abertura da série, convênios e "como começar o tratamento", que é o que explica a clínica pra quem chega.
+- **São Gonçalo recebe o mesmo post de Araruama** e engaja metade (2,4 contra 4,7 curtidas de média). Vale ter pelo menos 1 peça local por mês lá.
+- **A série precisa aparecer como série na grade.** Nos recortes, o selo "NN de 10" não aparece. Já aconteceu de o cliente não perceber que era série.
 
 ## 3. ⚠️ Riscos e alertas
 
-- 🔴 **Todo conteúdo clínico depende do OK do RT**, e esse fluxo já travou a série por semanas em julho. Sem um combinado de prazo de revisão, o risco se repete.
-- ⚠️ A CIIL **não tem imunologista nem alergista** atendendo na clínica — claim herdado que era falso. Nenhuma peça pode sugerir o contrário.
+- 🔴 **Copy trocada no ar** (ver item 0). Em conta de saúde, legenda reescrita fora da Lone também pode reintroduzir claim que o gate de compliance tinha tirado.
+- 🔴 **Peças clínicas no ar sem OK do RT registrado.** O risco é do cliente (publicidade médica), mas a Lone precisa do registro.
+- ⚠️ A CIIL **não tem imunologista nem alergista**. Nenhuma peça pode sugerir o contrário.
 
 ## 4. 📋 Falta fazer do nosso lado
 
-- [ ] Definir com o cliente um **prazo combinado de revisão do RT** (hoje é indefinido e é o maior gargalo da conta).
-- [ ] Confirmar o handoff de acessos da @vivamidia (2 IG + 2 Facebook + Docplanner/site).
+- [ ] **Item 0** antes da reunião.
+- [ ] Ajustar o selo da peça de 19/10 pra **06 de 10** antes do brief ao designer.
+- [ ] Confirmar o handoff de acessos da @vivamidia (2 IG + 2 Facebook + Docplanner/site). É o mesmo acesso que libera a API da Meta pra medir alcance.
+- [ ] Depois da reunião: estratégia de novembro com o que vier na pergunta 5.
 
 ## 5. 📊 O que levar de resultado
 
-Sem métrica consolidada pra esse ciclo — se o cliente cobrar número, dizer que não temos acesso/dado ainda em vez de estimar.
+Números públicos de 15/10, sem alcance (falta o acesso da Meta):
+- **Seguidores:** Araruama 1.555 → 1.640 e São Gonçalo 388 → 398, desde 22/06.
+- **Média de curtidas por post:** ~4,7 em Araruama e ~2,4 em São Gonçalo, sem comentários.
+- **Consistência:** o calendário da Lone saiu em todas as datas de 11/09 a 09/10, exceto 12/10.
+
+Leitura honesta: crescimento baixo, e sem vídeo não vai mudar. Não vender esses números como resultado. Usar como linha de base pra comparar em novembro.
 
 ## 6. 🗓️ Histórico de reuniões
 
 | Data | Resumo |
 |---|---|
-| — | Nenhuma reunião registrada ainda |
+| 2026-08-26 | [Pauta](../referencias/2026-08-26-pauta-reuniao-alinhamento.md) · [respostas](../referencias/2026-08-26-reuniao-alinhamento-doencas-especialidades.md) (antes do formato de resumo) |
+| 2026-10-15 | ⏳ resumo a escrever depois da reunião |
 
 ---
 
