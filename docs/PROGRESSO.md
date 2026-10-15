@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-15 (5) — Estilo de anúncio da Lone formalizado (voice-quality-checklist §2.8)
+
+PH disse que o anúncio do OMINT da CIIL serve pra aprender o estilo de copy e posts da casa. Novo [§2.8 no checklist](../shared/voice-quality-checklist.md): arte de anúncio é direta e comercial (novidade dita, caixa alta, exclamação na chamada e no CTA, CTA de agendar, telefones na arte). O gancho editorial fica pra série educativa e post de dor.
+
+---
+
 ## 2026-10-15 (4) — CIIL: anúncio do OMINT pra sexta 16/10
 
 [Peça](../clients/ciil/conteudo/posts/2026-10-16-novo-convenio-omint.md) feed + 9:16, validada pelo subagent (2 bloqueantes corrigidos). Ocupa o slot da Espondilite, que volta pra fila.

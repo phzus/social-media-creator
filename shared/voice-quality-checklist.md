@@ -146,6 +146,29 @@ A "dor" desce pro fim como **identificação** e encadeia direto no CTA: *"Se vo
 
 É variação, não substituição. O padrão clássico (§ 2.6) continua sendo o default.
 
+### 2.8. Arte de anúncio: direta e comercial (PH, 2026-10-15)
+
+Caso de referência: o [anúncio do OMINT da CIIL](../clients/ciil/conteudo/posts/2026-10-16-novo-convenio-omint.md). A Lone propôs um gancho editorial ("Tem OMINT? / Agora dá pra usar na CIIL."). PH e a equipe aprovaram esta versão, e disseram que é assim que funciona o estilo da casa:
+
+> **TEM NOVIDADE NA CIIL!**
+> **UM NOVO CONVÊNIO CHEGOU PARA FAZER PARTE DA NOSSA HISTÓRIA.**
+> [logo do plano em destaque]
+> Agora você pode utilizar seu plano OMINT para consultas e tratamentos nas nossas duas unidades.
+> **AGENDE SUA AVALIAÇÃO!**
+> Araruama: (22) 98800-6164 · São Gonçalo: (21) 97297-7998
+> *Consulte condições de cobertura.
+
+**O que essa arte ensina:**
+- **A notícia vem dita com todas as letras**, sem precisar ser decifrada: "tem novidade", "novo convênio".
+- **A estrutura é de anúncio:** chamada no topo → headline em caixa alta → elemento visual da novidade → uma frase de apoio com o que muda pro cliente → CTA de ação → contatos na própria arte → ressalva.
+- **Exclamação na chamada e no CTA é permitida.** Fora isso, o texto segue sem exclamação.
+- **Frase institucional calorosa passa** ("para fazer parte da nossa história") quando a peça é de marca anunciando algo. O filtro de antropomorfização (§ 1.1) mira coisa fazendo ação humana pra soar esperta, não esse registro de celebração.
+- **O CTA é de agendamento** ("Agende sua avaliação!") e os telefones vão na arte, porque a peça circula fora do Instagram (status, médicos parceiros).
+
+**Quando aplicar:** anúncio, novidade, convênio, inauguração, horário especial, oferta. Nessas peças, partir deste molde em vez de um gancho editorial.
+
+**Quando não aplicar:** série educativa e post de dor/identificação. Ali continua valendo a headline com gancho (pergunta + giro) e as regras da Parte 1.
+
 ---
 
 ## Parte 3 — Princípios estruturais
