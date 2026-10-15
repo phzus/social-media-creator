@@ -173,7 +173,7 @@ Além da chamada visual, a legenda reforça o convite a confirmar a condição p
 
 ## Fatos operacionais — convênios (fonte única, não completar de cabeça)
 
-> 🆕 **2026-10-15:** entrou um **convênio novo, válido pras duas unidades** ([resumo de 15/10](reuniao-mensal/resumos/2026-10-15-resumo-reuniao.md)). ⚠️ **Nome não dito na reunião**, foi avisado no grupo. Entra na tabela só depois de conferido. Todo convênio novo pede **3 entregas**: arte dedicada (stories, status, médicos parceiros) + carrossel atualizado (o antigo sai do feed) + imagem do destaque.
+> 🆕 **2026-10-15:** entrou um **convênio novo, válido pras duas unidades** ([resumo de 15/10](reuniao-mensal/resumos/2026-10-15-resumo-reuniao.md)). ✅ **É o OMINT** (PH, 15/10), que já constava desde 17/09. A novidade é valer nas duas unidades, pra consultas e tratamentos. [peça de 16/10](conteudo/posts/2026-10-16-novo-convenio-omint.md). Todo convênio novo pede **3 entregas**: arte dedicada (stories, status, médicos parceiros) + carrossel atualizado (o antigo sai do feed) + imagem do destaque.
 
 | Convênio | Status | Fonte |
 |---|---|---|
@@ -190,7 +190,7 @@ Além da chamada visual, a legenda reforça o convite a confirmar a condição p
 | Saúde Assim | ✅ Confirmado | Idem |
 | Vale | ✅ Confirmado | Idem |
 | Health Med | ✅ Confirmado — **novo em relação à lista de maio/2026** | Idem |
-| OMINT Saúde | ✅ Confirmado — cliente pediu inclusão explícita (não estava na imagem interna); logo já está no site ciil.com.br | Cliente, 2026-09-17 |
+| OMINT Saúde | ✅ Confirmado — cliente pediu inclusão explícita (não estava na imagem interna); logo já está no site ciil.com.br. **2026-10-15 (PH): aceito nas duas unidades, pra consultas e tratamentos.** Vacina não foi citada. | Cliente, 2026-09-17 · PH, 2026-10-15 |
 | Care Plus (Araruama) | ⚠️ **Não reconfirmado** — estava na lista antiga (maio/2026), não aparece na imagem nova, cliente não disse se saiu. Não incluir nem excluir sem perguntar. | — |
 | Amil / SulAmérica / Porto Seguro (reembolso) | ⚠️ **Não reconfirmado** — mesma situação do Care Plus. | — |
 

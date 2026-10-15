@@ -4,6 +4,16 @@ Log datado do trabalho feito pra CIIL. Topo = mais recente. Entrada por bloco de
 
 ---
 
+## 2026-10-15 (3) — Sexta 16/10: anúncio do OMINT nas duas unidades
+
+PH confirmou: o convênio da reunião é o **OMINT**, nas duas unidades, consultas e tratamentos, com arte pra sexta. [Peça](conteudo/posts/2026-10-16-novo-convenio-omint.md): feed 4:5 + 9:16 (stories, status e médicos parceiros), headline "Tem OMINT? / Agora dá pra usar na CIIL.". Vai junto o update do carrossel (só conferir se o OMINT está no slide publicado) e da imagem do destaque.
+
+**Etiqueta "AGORA NAS DUAS UNIDADES", não "NOVO CONVÊNIO":** o OMINT já constava como aceito desde 17/09.
+
+**Validador:** 2 bloqueantes corrigidos (etiqueta, `#Imunobiológicos` sugerindo cobertura) e 4 ajustes. **A Espondilite saiu do slot** e volta pra fila sem data.
+
+---
+
 ## 2026-10-15 (2) — Reunião com o cliente: resumo e propagação
 
 PH trouxe a transcrição Tactiq e o PDF da reunião (14h, 16 min, Carlos Augusto com Letícia e Thiago). [Resumo](reuniao-mensal/resumos/2026-10-15-resumo-reuniao.md).

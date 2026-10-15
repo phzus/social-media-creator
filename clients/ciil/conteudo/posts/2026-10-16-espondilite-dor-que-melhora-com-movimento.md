@@ -1,5 +1,8 @@
 # Post — "Trocou o colchão, corrigiu a postura, e a dor nas costas continua te acordando de madrugada." (venda, semana da Espondilite Anquilosante)
 
+> 🔄 **2026-10-15: saiu do slot de sexta 16/10**, que ficou com o [anúncio do OMINT](2026-10-16-novo-convenio-omint.md) (pedido da reunião). Volta pra fila **sem data**, porque é evergreen. Continua esperando o RT. Pra usar em outra sexta, revisar o "semana da Espondilite" do cabeçalho.
+
+
 **Cliente:** ciil · **Data:** sexta, 16/10/2026 · **Plataforma:** Instagram + Facebook (idêntico nas 2 unidades, só muda o rodapé) · **Formato:** Arte única (estático 4:5) + legenda · **Pilar:** Venda · **Funil:** BOFU / Problem-Aware → Solution-Aware
 **Linha da semana (12-16/10):** Espondilite Anquilosante — peça 06 de 10 no [calendário da temporada](../../estrategia/linha-editorial-isso-tem-nome.md). Segunda apresenta, quarta aprofunda, **sexta converte** ([linha temática semanal](../../estrategia/linha-editorial-isso-tem-nome.md)).
 **Mecanismo:** objeção respondida — a objeção é a explicação que a própria pessoa já se deu ("é o colchão", "é a postura"), e a peça responde com o sinal que não bate com ela.

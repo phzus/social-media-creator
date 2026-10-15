@@ -5,8 +5,8 @@ Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes
 ## 🔴 Nova (2026-10-15) — saídas da reunião com o cliente
 
 Fonte: [resumo de 15/10](reuniao-mensal/resumos/2026-10-15-resumo-reuniao.md).
-- 🔴 **Qual é o convênio novo?** Foi avisado no grupo, mas o nome não foi dito na chamada. Bloqueia as 3 peças pedidas.
-- 🔴 **O que sai na sexta 16/10?** Carlos disse que "o post do novo plano já está em produção e sairia na sexta", mas no repositório a peça de sexta 16/10 é a de [Espondilite](conteudo/posts/2026-10-16-espondilite-dor-que-melhora-com-movimento.md), e não existe peça de convênio pra essa data. PH decide: o convênio entra na sexta e a Espondilite sai da semana, ou o convênio vai pra segunda/quarta seguinte (o cliente aceitou). A arte dedicada também precisa de 1 dia útil de designer.
+- ✅ ~~**Qual é o convênio novo?**~~ **OMINT** (PH, 15/10), nas duas unidades, consultas e tratamentos. 🟡 Fica uma dúvida: ele já constava como aceito em 17/09. A peça não depende disso (etiqueta "AGORA NAS DUAS UNIDADES", ver [peça de 16/10](conteudo/posts/2026-10-16-novo-convenio-omint.md)).
+- ✅ **Resolvido (PH, 15/10): sexta 16/10 é o OMINT**, e a Espondilite volta pra fila sem data. ~~O que sai na sexta 16/10?~~ Carlos disse que "o post do novo plano já está em produção e sairia na sexta", mas no repositório a peça de sexta 16/10 é a de [Espondilite](conteudo/posts/2026-10-16-espondilite-dor-que-melhora-com-movimento.md), e não existe peça de convênio pra essa data. PH decide: o convênio entra na sexta e a Espondilite sai da semana, ou o convênio vai pra segunda/quarta seguinte (o cliente aceitou). A arte dedicada também precisa de 1 dia útil de designer.
 - 🟡 **Lista de vacinas** que a CIIL trabalha (ela vai mandar). Trava o post de vacinação infantil.
 - 🟡 **Vacina infantil também em São Gonçalo?** A fala foi sobre Araruama.
 - 🟡 **Dr. Felipe:** especialidade e unidade. Só importa se o nome for entrar em peça.

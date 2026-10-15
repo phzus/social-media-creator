@@ -45,7 +45,7 @@ Base nova desta pauta: [análise do Instagram de 15/10](../referencias/2026-10-1
 
 ## 4. 📋 Falta fazer do nosso lado
 
-- [ ] 🔴 **Convênio novo:** conferir o nome no grupo → arte dedicada + carrossel atualizado (despublicar o de 18/09) + imagem do destaque. Ver o conflito com a sexta 16/10 no [OPEN-QUESTIONS](../OPEN-QUESTIONS.md).
+- [x] ~~Convênio novo: conferir o nome~~ → **OMINT**. [Peça de sexta 16/10](../conteudo/posts/2026-10-16-novo-convenio-omint.md) escrita (feed + 9:16), com o update do carrossel e do destaque. Falta: brief ao designer hoje.
 - [ ] **Post de vacinação infantil** (Araruama), quando chegar a lista de vacinas.
 - [ ] **Data da filmagem** (Carlos), de seg a qui a partir das 14h.
 
