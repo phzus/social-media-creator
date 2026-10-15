@@ -173,6 +173,8 @@ Além da chamada visual, a legenda reforça o convite a confirmar a condição p
 
 ## Fatos operacionais — convênios (fonte única, não completar de cabeça)
 
+> 🆕 **2026-10-15:** entrou um **convênio novo, válido pras duas unidades** ([resumo de 15/10](reuniao-mensal/resumos/2026-10-15-resumo-reuniao.md)). ⚠️ **Nome não dito na reunião**, foi avisado no grupo. Entra na tabela só depois de conferido. Todo convênio novo pede **3 entregas**: arte dedicada (stories, status, médicos parceiros) + carrossel atualizado (o antigo sai do feed) + imagem do destaque.
+
 | Convênio | Status | Fonte |
 |---|---|---|
 | Bradesco Saúde | ✅ Confirmado | Imagem interna do cliente, 2026-09-17 |
@@ -208,10 +210,16 @@ Dia das Crianças (12/10/2026) foi a primeira data a puxar criança pra dentro d
 
 Peça: [2026-10-12-dia-das-criancas-perguntas-do-tratamento.md](conteudo/posts/2026-10-12-dia-das-criancas-perguntas-do-tratamento.md).
 
+> 🔄 **Atualização (cliente, 2026-10-15):** **vacina infantil está confirmada em Araruama**, do recém-nascido à infância, e a CIIL pediu um post sobre isso ([resumo de 15/10](reuniao-mensal/resumos/2026-10-15-resumo-reuniao.md)). A trava de "não sugerir que vacina criança" cai **pra vacinação em Araruama**. Continua valendo:
+> - **nenhuma vacina nomeada** até chegar a lista da CIIL
+> - **São Gonçalo** não foi citado, então não afirmar vacina infantil lá (o post é das duas unidades, então a frase precisa ficar na unidade de Araruama ou ser confirmada pra SG)
+> - **tratamento de doença em criança (Pediatria)** segue sem confirmação
+
 ---
 
 ## Histórico de revisões
 
+- **2026-10-15** — Reunião com o cliente: vacina infantil confirmada em Araruama (atualiza a regra de 07/10, sem nomear vacina) e padrão de 3 entregas pra todo convênio novo.
 - **2026-10-07** — Regra de peça de data com tema infantil (Dia das Crianças): criança só como espelho do adulto, nunca como serviço; não abre Pediatria nem vacina infantil sem confirmação.
 - **2026-09-17** — Cliente confirmou lista de convênios (substitui a de maio/2026, nunca reconfirmada) e estabeleceu regra permanente: toda peça de convênio leva "*Consulte condições" visível na arte. Resolve [OPEN-QUESTIONS #18](OPEN-QUESTIONS.md).
 - **2026-08-26** — Reunião com o cliente: escopo de 10 doenças fechado (gate por doença encerrado), 4 regras novas (série precisa parecer série · quando nomear especialista · série não se rotula por categoria · tratamento não é só infusão) e atualização da regra de escopo-vira-CTA.

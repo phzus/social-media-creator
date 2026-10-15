@@ -3,7 +3,7 @@
 > Documento vivo e **curado** — é o que PH abre minutos antes da reunião de alinhamento.
 > O log completo e técnico de pendências continua em [OPEN-QUESTIONS.md](../OPEN-QUESTIONS.md); aqui entra só o que vale ocupar o tempo da reunião.
 
-**Última atualização:** 2026-10-15 · **Próxima reunião:** 2026-10-15 (hoje) · **Última reunião:** 2026-08-26 (registro no OPEN-QUESTIONS, sem resumo próprio)
+**Última atualização:** 2026-10-15 (pós-reunião) · **Próxima reunião:** fim de outubro ou novembro (a marcar) · **Última reunião:** [2026-10-15](resumos/2026-10-15-resumo-reuniao.md)
 
 Base nova desta pauta: [análise do Instagram de 15/10](../referencias/2026-10-15-analise-instagram-ciil.md).
 
@@ -15,16 +15,18 @@ Base nova desta pauta: [análise do Instagram de 15/10](../referencias/2026-10-1
 
 ## 1. 🔴 Perguntar nesta reunião
 
+> **Reunião de 15/10 feita** ([resumo](resumos/2026-10-15-resumo-reuniao.md)). Ela foi pela pauta do Carlos (linha editorial, convênio, filmagem) e **não passou por estas perguntas**, exceto a 5 (respondida em parte) e a 8 (filmagem marcada). As que sobraram ficam pra próxima rodada ou pro grupo. A **4 é urgente** porque trava a peça de 19/10.
+
 | # | Pergunta | Por que importa (o que destrava) |
 |---|---|---|
 | 1 | **Quem publica no Instagram e quem revisa a legenda antes?** (só se o item 0 apontar pra fora da Lone) | A copy aprovada está chegando ao ar trocada, com emoji e caixa alta que a Lone evita, e com erro de formatação visível. |
 | 2 | 🔴 **O RT aprovou as peças da série que já estão no ar?** Quem é o RT, e dá pra combinar um prazo fixo de revisão (ex.: 2 dias úteis)? | Nos docs da Lone, 8 peças clínicas constam "retidas até o OK do RT", mas 6 já foram ao ar. Ou o OK existe e não chegou na Lone, ou estão saindo sem ele. Nos dois casos, falta o combinado. |
 | 3 | **O post de Dia das Crianças (12/10) não foi ao ar. Foi decisão de vocês?** | Saber se foi recusa, esquecimento ou feriado. Junto: a peça de segunda 19/10 sai como **06 de 10** (a 06 de Espondilite nunca foi produzida). |
 | 4 | 🔴 **Quem chega com suspeita de Crohn, Retocolite ou Asma é avaliado na CIIL ou precisa vir encaminhado?** | Bloqueia a peça de 19/10 (Retocolite). Gastro e pneumo não estão entre as especialidades da casa. |
-| 5 | **Campanhas de novembro** (as 5 do briefing): serviço a vender mais, promoção, data importante, meta, novidade. **Tem campanha de vacina pro fim do ano?** | Adianta o briefing mensal, que seria pedido entre 22 e 25/10. Vacinação sumiu do feed desde setembro, e a clínica também é "Imunização". |
+| 5 | ✅ *Em parte (15/10): não há campanha sazonal. O que move o mês é convênio novo e, agora, vacinação infantil.* Falta: **tem campanha de vacina pro fim do ano?** — **Campanhas de novembro** (as 5 do briefing): serviço a vender mais, promoção, data importante, meta, novidade. **Tem campanha de vacina pro fim do ano?** | Adianta o briefing mensal, que seria pedido entre 22 e 25/10. Vacinação sumiu do feed desde setembro, e a clínica também é "Imunização". |
 | 6 | **Quais vacinas a CIIL recomenda e aplica pra quem trata com imunobiológico?** | É a ponte entre as duas frentes da clínica (tratamento + vacina). Na @imunovitta, o alerta de sarampo pra paciente em uso de imunossupressor teve 81 curtidas, contra 4 a 12 dos Reels de vacina genérica. Precisa do RT. |
 | 7 | **Depoimentos e médicas:** o RT libera depoimento de paciente? Qual a especialidade e unidade das 4 médicas do Doctoralia? | Pendente desde 25/08. Prova social é o post que mais engaja nas referências, e a peça está pronta e parada. |
-| 8 | **Vídeo:** o banco de takes pedido em 25/08 foi gravado? Tem alguém da equipe (dermatologista, reumatologista) que topa aparecer? | A CIIL tem **zero Reels** desde setembro, nos dois perfis. A @imunovitta posta só Reels, e os mais curtidos (78 a 94, contra ~5 da CIIL) são **médico falando de doença autoimune**, o mesmo tema da série. |
+| 8 | ✅ *Em parte (15/10): a CIIL pediu filmagem, de seg a qui a partir das 14h, com o enfermeiro aparecendo. Carlos retorna com a data.* Falta: alguém médico topa aparecer? — **Vídeo:** o banco de takes pedido em 25/08 foi gravado? Tem alguém da equipe (dermatologista, reumatologista) que topa aparecer? | A CIIL tem **zero Reels** desde setembro, nos dois perfis. A @imunovitta posta só Reels, e os mais curtidos (78 a 94, contra ~5 da CIIL) são **médico falando de doença autoimune**, o mesmo tema da série. |
 
 **Se sobrar tempo:** subcutâneo × infusional nas 10 doenças · quais doenças tratam em criança · a CIIL faz ultrassom de mama?
 
@@ -42,6 +44,10 @@ Base nova desta pauta: [análise do Instagram de 15/10](../referencias/2026-10-1
 - ⚠️ A CIIL **não tem imunologista nem alergista**. Nenhuma peça pode sugerir o contrário.
 
 ## 4. 📋 Falta fazer do nosso lado
+
+- [ ] 🔴 **Convênio novo:** conferir o nome no grupo → arte dedicada + carrossel atualizado (despublicar o de 18/09) + imagem do destaque. Ver o conflito com a sexta 16/10 no [OPEN-QUESTIONS](../OPEN-QUESTIONS.md).
+- [ ] **Post de vacinação infantil** (Araruama), quando chegar a lista de vacinas.
+- [ ] **Data da filmagem** (Carlos), de seg a qui a partir das 14h.
 
 - [ ] **Item 0** antes da reunião.
 - [ ] Ajustar o selo da peça de 19/10 pra **06 de 10** antes do brief ao designer.
@@ -62,7 +68,7 @@ Leitura honesta: crescimento baixo, e sem vídeo não vai mudar. Não vender ess
 | Data | Resumo |
 |---|---|
 | 2026-08-26 | [Pauta](../referencias/2026-08-26-pauta-reuniao-alinhamento.md) · [respostas](../referencias/2026-08-26-reuniao-alinhamento-doencas-especialidades.md) (antes do formato de resumo) |
-| 2026-10-15 | ⏳ resumo a escrever depois da reunião |
+| 2026-10-15 | [Linha editorial aprovada, convênio novo, vacina infantil, janela de filmagem](resumos/2026-10-15-resumo-reuniao.md) |
 
 ---
 

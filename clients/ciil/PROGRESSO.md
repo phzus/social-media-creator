@@ -4,6 +4,24 @@ Log datado do trabalho feito pra CIIL. Topo = mais recente. Entrada por bloco de
 
 ---
 
+## 2026-10-15 (2) — Reunião com o cliente: resumo e propagação
+
+PH trouxe a transcrição Tactiq e o PDF da reunião (14h, 16 min, Carlos Augusto com Letícia e Thiago). [Resumo](reuniao-mensal/resumos/2026-10-15-resumo-reuniao.md).
+
+**Decidido:**
+- linha editorial aprovada, com doença e medicação como foco e consulta e vacina como apoio
+- vacinação a domicílio e datas de saúde validadas
+- **vacina infantil confirmada em Araruama**, com pedido de post
+- **convênio novo** pede 3 entregas: arte dedicada, carrossel atualizado e destaque
+- estética aprovada
+- filmagem de seg a qui a partir das 14h, com o enfermeiro aparecendo
+
+**Propagado:** [context.md](context.md) (nomes, prioridade, vacina infantil, convênio como única campanha, filmagem) · [PADROES](PADROES.md) (regra infantil de 07/10 atualizada, padrão de convênio novo) · [PAUTA](reuniao-mensal/PAUTA.md) · [OPEN-QUESTIONS](OPEN-QUESTIONS.md).
+
+**Ficou de fora da reunião:** RT, copy reescrita no ar, 12/10, encaminhamento de Retocolite (trava 19/10), depoimentos.
+
+---
+
 ## 2026-10-15 — Análise de Instagram (CIIL + 2 referências) e PAUTA da reunião de hoje
 
 Coleta com Playwright de @ciilagos, @ciil.sg, @imunovidavacinas e @imunovitta. [Análise](referencias/2026-10-15-analise-instagram-ciil.md) · [dados](referencias/instagram/2026-10-15/).

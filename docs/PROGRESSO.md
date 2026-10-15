@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-15 (3) — CIIL: resumo da reunião registrado
+
+[Resumo](../clients/ciil/reuniao-mensal/resumos/2026-10-15-resumo-reuniao.md) a partir da transcrição e do PDF. Saldo: linha editorial aprovada, convênio novo (3 peças), vacina infantil em Araruama, janela de filmagem. As perguntas de RT e de copy reescrita não entraram na reunião.
+
+---
+
 ## 2026-10-15 (2) — Coleta de Instagram aplicada na CIIL antes da reunião
 
 Segundo uso do script: 2 perfis da CIIL + 2 referências. [PAUTA da reunião](../clients/ciil/reuniao-mensal/PAUTA.md) reescrita com base na [análise](../clients/ciil/referencias/2026-10-15-analise-instagram-ciil.md). **Padrão que já apareceu em 2 clientes no mesmo dia (BodySkin e CIIL):** o que está no ar não é o que a Lone entregou (peça fora da grade ou legenda reescrita). Vale rodar a comparação grade × `conteudo/` em toda a carteira.

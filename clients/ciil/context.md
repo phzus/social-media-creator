@@ -149,7 +149,12 @@ Herdados da proposta Cowork AI (validar % com a Lone na 1ª estratégia mensal).
 - **Gestão:** **a Lone assume 100% da CIIL** (decisão PH 22/06). A **@vivamidia não cuida mais** da CIIL. Garantir handoff de acessos das contas.
 - **Estrutura oficial Lone:** Seg = post estratégico simples · Qua = Reels · Sex = carrossel/venda. **Qua (Reels) é estratégico aqui** — Reels é a maior lacuna do CIIL.
 - **Identidade visual:** azul institucional #1A7FBD / #0D5A8C · branco e azul claro · ciano #2EAEE8 (destaque). Logo = símbolo CIIL (molécula/folha). Auditoria sugere paleta expandida (verde-turquesa/off-white pra wellness) + tipografia display (DM Sans/Sora) — propostas, validar.
-- **Decisor / contato direto:** ✅ confirmado (PH, 2026-08-11) — é a contato ("a menina da CIIL") que passa recados de foco/estratégia pra PH. Nome ainda não registrado, confirmar quando for prático.
+- **Decisor / contato direto:** ✅ confirmado (PH, 2026-08-11) — é a contato ("a menina da CIIL") que passa recados de foco/estratégia pra PH. **Nomes na reunião de 15/10: Letícia e Thiago** (⚠️ não está registrado qual dos dois é "a menina" do recado; provavelmente a Letícia, que conduziu a fala). Pela Lone, quem conduziu a reunião foi **Carlos Augusto**.
+- **Prioridade de conteúdo confirmada pelo cliente (2026-10-15):** **foco principal** em doenças, tratamentos e medicações; **apoio** em consultas e vacinas. Diversificação validada: vacinação a domicílio e datas de saúde (conscientização mesmo sem oferecer o serviço da data). Fonte: [resumo de 15/10](reuniao-mensal/resumos/2026-10-15-resumo-reuniao.md).
+- **Vacinação infantil em Araruama (cliente, 2026-10-15):** a unidade vacina **muitas crianças**, inclusive recém-nascidos, e o volume está crescendo. Primeira confirmação direta (a "todas as idades" vinha da Cowork AI). **Quais vacinas:** a CIIL vai mandar a lista. Até lá, nenhuma peça nomeia vacina.
+- **Única "campanha" do negócio é convênio novo (cliente, 2026-10-15):** não há sazonalidade de tratamento. Quando entra plano novo, a CIIL avisa no grupo e pede arte dedicada + atualização do carrossel e do destaque. **A imagem do destaque de convênios é enviada aos médicos parceiros** que encaminham paciente.
+- **Médicos compartilham a série (cliente, 2026-10-15):** o **Dr. Felipe** divulga os posts da doença que trata. Especialidade e unidade não confirmadas; o nome não entra em peça sem isso.
+- **Filmagem (cliente, 2026-10-15):** de **segunda a quinta, a partir das 14h**. De manhã a clínica está cheia de pacientes em infusão. **Quem aparece nos vídeos é o enfermeiro.**
 - **Banco de mídia:** **há fotos autorais** da equipe e da clínica (confirmado PH, 22/06) + banco stock. Humanização e Reels usam o autoral; stock cobre educativo/venda/datas. PH apontar a pasta do material autoral pra referência nos briefs.
 - **Janela de briefing mensal:** dias 22–25 do mês anterior (padrão Lone).
 
@@ -168,4 +173,5 @@ Herdados da proposta Cowork AI (validar % com a Lone na 1ª estratégia mensal).
 ## Histórico de revisões
 
 - **2026-06-22** — v1.0 criado a partir do briefing/auditoria da Cowork AI (Maio/2026), repassado por PH. Direção de marca, pilares e tom são herdados de terceiro — marcados como "a validar" até confirmação de PH/cliente.
+- **2026-10-15** — Reunião com Letícia e Thiago (conduzida por Carlos Augusto): prioridade de conteúdo confirmada, vacinação infantil em Araruama, convênio novo como única "campanha", janela de filmagem e enfermeiro como rosto dos vídeos. Ver [resumo de 15/10](reuniao-mensal/resumos/2026-10-15-resumo-reuniao.md).
 - **2026-08-26** — Reunião de alinhamento: escopo clínico fechado (10 doenças + via subcutânea/infusional + 3 especialidades atendidas). Cliente aprovou o trabalho e pediu foco em doenças imunomediadas com a série mais explicitamente marcada, ângulo de identificação de sintomas.
