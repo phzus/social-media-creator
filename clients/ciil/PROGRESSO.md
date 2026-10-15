@@ -12,6 +12,8 @@ PH confirmou: o convênio da reunião é o **OMINT**, nas duas unidades, consult
 
 **Validador:** 2 bloqueantes corrigidos (etiqueta, `#Imunobiológicos` sugerindo cobertura) e 4 ajustes. **A Espondilite saiu do slot** e volta pra fila sem data.
 
+**Copy final decidida por PH e equipe (v2):** anúncio direto, "Tem novidade na CIIL! / Um novo convênio chegou para fazer parte da nossa história.", CTA "Agende sua avaliação!" e os contatos das 2 unidades na arte. A proposta da Lone ficou no histórico da peça.
+
 ---
 
 ## 2026-10-15 (2) — Reunião com o cliente: resumo e propagação

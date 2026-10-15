@@ -1,4 +1,4 @@
-# Post — "Tem OMINT? Agora dá pra usar na CIIL." (convênio OMINT, sexta 16/10)
+# Post — "Tem novidade na CIIL!" (convênio OMINT, sexta 16/10)
 
 **Cliente:** ciil · **Data:** sexta, 16/10/2026 · **Plataforma:** Instagram + Facebook (idêntico nas 2 unidades, só muda o rodapé) · **Formato:** arte única em **2 tamanhos**: feed 4:5 + vertical 9:16 (stories, status do WhatsApp e envio aos médicos parceiros) · **Pilar:** Venda · **Funil:** BOFU
 
@@ -19,9 +19,9 @@
 - **Vertical 9:16** pra stories, status e envio aos médicos. Deixar a faixa superior e a inferior livres (~250 px) pra não brigar com a interface do stories. **Rodapé com os WhatsApp e `*Consulte condições` ficam acima da faixa inferior livre**, porque status e médicos precisam ver o contato.
 
 **Layout:**
-- **Etiqueta pequena no topo:** `AGORA NAS DUAS UNIDADES`.
+- **Topo:** `TEM NOVIDADE NA CIIL!` (copy aprovada abaixo).
 - **Logo da OMINT em destaque**, centro-alto, com respiro em volta. **Pegar o logo oficial** (o do site ciil.com.br, que a cliente indicou em 17/09, ou o do kit de marca da OMINT). Não recriar nem redesenhar. Se o logo em boa resolução não aparecer, o layout funciona com "OMINT" em tipografia, porque a headline já carrega o nome.
-- **Headline em 2 linhas** logo abaixo do logo.
+- **Headline** acima do logo, como na copy aprovada.
 - **Linha de apoio** em corpo menor.
 - **`*Consulte condições` visível e legível na arte** (não microscópico), perto da linha de apoio (regra permanente do cliente, [PADROES](../../PADROES.md)).
 - **Rodapé fixo da grade** com logo CIIL e os 2 WhatsApp.
@@ -31,22 +31,25 @@
 
 ---
 
-## Copy da arte
+## Copy da arte — ✅ versão aprovada (PH, 15/10)
 
-**Etiqueta:** AGORA NAS DUAS UNIDADES
+> PH e a equipe decidiram por esta copy, mais direta como anúncio. Ela substitui a proposta da Lone ("Tem OMINT? / Agora dá pra usar na CIIL."), que fica registrada no histórico.
 
-**[logo OMINT]**
+**Topo:** **TEM NOVIDADE NA CIIL!**
 
-**Headline (2 linhas):**
-> **Tem OMINT?**
-> **Agora dá pra usar na CIIL.**
+**Headline:** **UM NOVO CONVÊNIO CHEGOU PARA FAZER PARTE DA NOSSA HISTÓRIA.**
 
-**Apoio:**
-> Consultas e tratamentos com OMINT em Araruama e São Gonçalo.
+**[LOGO OMINT EM DESTAQUE]**
 
-**Ressalva:** *Consulte condições
+**Apoio:** Agora você pode utilizar seu plano OMINT para consultas e tratamentos nas nossas duas unidades.
 
-**CTA:** Fala com a nossa equipe no WhatsApp.
+**CTA:** **AGENDE SUA AVALIAÇÃO!**
+
+**Contatos:**
+Araruama: (22) 98800-6164
+São Gonçalo: (21) 97297-7998
+
+**Ressalva:** *Consulte condições de cobertura.
 
 ---
 
@@ -104,3 +107,11 @@ Quem tem OMINT agora pode usar o plano pra consulta e tratamento na CIIL, em Ara
 **Pendências:**
 - 🟡 Logo OMINT: confirmar se o arquivo do site está em resolução boa. Se não, pegar do kit de marca da OMINT.
 - 🟡 A Espondilite (que saiu deste slot) volta pra fila sem data. Ela já não dependia da semana.
+
+---
+
+## Histórico de revisões
+
+- **2026-10-15 v2 (aprovada):** PH e a equipe trocaram a copy da arte por um anúncio direto ("Tem novidade na CIIL! / Um novo convênio chegou para fazer parte da nossa história.", CTA "Agende sua avaliação!", contatos das 2 unidades na arte). Legenda e hashtags da v1 seguem.
+- **2026-10-15 v1:** proposta da Lone. Etiqueta "AGORA NAS DUAS UNIDADES", headline "Tem OMINT? / Agora dá pra usar na CIIL.", apoio "Consultas e tratamentos com OMINT em Araruama e São Gonçalo.". Passou pelo validador (2 bloqueantes corrigidos).
+
