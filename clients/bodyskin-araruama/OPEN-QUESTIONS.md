@@ -3,6 +3,10 @@
 Legenda: 🔴 bloqueante · 🟡 importante (não trava tudo) · 🟢 calibração.
 Atualizar assim que PH ou a cliente responderem. Resposta vira registro em [context.md](context.md), [BRIEFING.md](BRIEFING.md) ou [PADROES.md](PADROES.md).
 
+## 🔴 2026-10-15 — Peças aprovadas fora da grade: quem publica e o que aconteceu com elas?
+
+A [coleta de 15/10](referencias/2026-10-15-analise-instagram-bodyskin-x-espacolaser.md) (§4) não achou na grade as peças de 21/09, 25/09, 26/09, 01/10, 02/10, 05/10 (avaliação), 09/10 e 12/10. Em 11/09, 14/09 e 23/09 foi ao ar outro tema na data da Lone. *Pergunta:* quem posta no perfil, e essas peças foram recusadas, adiadas ou trocadas? *Trava:* qualquer leitura de resultado de outubro. Vai como item 0 da [PAUTA](reuniao-mensal/PAUTA.md).
+
 ## 🔴 2026-10-14 — Post de segunda 19/10 (cera entre as sessões): validação técnica
 
 [Peça](conteudo/posts/2026-10-19-cera-entre-as-sessoes.md) pronta, envio à Cintia sexta 16/10 até 15h. Pra subir:

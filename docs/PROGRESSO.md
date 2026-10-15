@@ -4,6 +4,14 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-15 — Playwright instalado + piloto de análise de Instagram (BodySkin × Espaço Laser)
+
+Playwright 1.64 no repo, usando o Chrome do sistema (o macOS 13 do PH não recebe mais o Chromium do Playwright). Playwright MCP configurado em `.mcp.json` (vale a partir da próxima sessão). Script de coleta pública sem login em [scripts/instagram/coletar-perfil.mjs](../scripts/instagram/coletar-perfil.mjs): perfil, print da grade e, por post, curtidas, comentários, legenda e arte.
+
+**Limite:** sem login não vem alcance, salvamento, views nem texto de comentário. Isso depende da API da Meta (conector "MCP META" do claude.ai, ainda não autorizado). Piloto na BodySkin: [análise](../clients/bodyskin-araruama/referencias/2026-10-15-analise-instagram-bodyskin-x-espacolaser.md).
+
+---
+
 ## 2026-10-14 (9) — analista-tendencias testado na Vet Regional
 
 Primeiro uso real do subagent: seguiu o procedimento (leu as 14 peças recentes, fonte com link e data, confirmado × inferido, 12 descartadas com motivo, admitiu que não achou trend de vídeo datada). Achou um erro real: a peça de raiva de 25/09 usava a campanha da Prefeitura de 2025 (conferido e corrigido). Gerou a peça de 30/10 (orelha na volta da praia). Nota pra carteira: possível limite de 5 hashtags por post no Instagram (fonte secundária), conferir no app.

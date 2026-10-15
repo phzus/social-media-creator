@@ -4,6 +4,16 @@ Log datado do trabalho feito pra BodySkin. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-10-15 — Primeira análise automática de Instagram: BodySkin × Espaço Laser
+
+Piloto da coleta com Playwright (sem login): 12 posts de cada perfil, com curtidas, comentários, legenda e arte. [Análise](referencias/2026-10-15-analise-instagram-bodyskin-x-espacolaser.md) · [dados](referencias/instagram/2026-10-15/).
+
+**Achados:** Reels com a equipe tem 10 vezes a curtida do estático (11 contra 1,1) · 0 comentários em 10 posts · o perfil segue mais gente (6.986) do que tem de seguidores (5.744) · estático com rosto de banco de imagem é o pior formato · **8 peças da Lone não aparecem na grade, e 3 datas foram ao ar com outro tema** (último post: 05/10).
+
+**Propagado:** [PAUTA](reuniao-mensal/PAUTA.md) (item 0 novo, insight do Reels, risco dos seguidores, seção de resultado) e [OPEN-QUESTIONS](OPEN-QUESTIONS.md).
+
+---
+
 ## 2026-10-14 — Post de segunda 19/10: "Vou começar o laser. Posso manter a cera entre as sessões?"
 
 PH pediu "post pro dia 19". [Peça](conteudo/posts/2026-10-19-cera-entre-as-sessoes.md): estático 4:5 tipográfico + animado de 5s, P1 Educativo, **terceira da série "Dúvida que mais chega aqui"** ([31/08](conteudo/posts/2026-08-31-peguei-sol-posso-fazer-laser.md) · [28/09](conteudo/posts/2026-09-28-depilacao-a-laser-doi.md)). Mecanismo: dúvida prática com resposta que contraria a expectativa — durante o tratamento, cera e pinça saem e a lâmina fica liberada; a hora de parar a cera se combina na avaliação gratuita.

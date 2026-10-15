@@ -3,7 +3,7 @@
 > Documento vivo e **curado** — é o que PH abre minutos antes da reunião de alinhamento.
 > O log completo e técnico de pendências continua em [OPEN-QUESTIONS.md](../OPEN-QUESTIONS.md); aqui entra só o que vale ocupar o tempo da reunião.
 
-**Última atualização:** 2026-10-05 · **Próxima reunião:** ❓ a marcar · **Última reunião:** 2026-09-17
+**Última atualização:** 2026-10-15 · **Próxima reunião:** ❓ a marcar · **Última reunião:** 2026-09-17
 
 ---
 
@@ -11,6 +11,7 @@
 
 | # | Pergunta | Por que importa (o que destrava) |
 |---|---|---|
+| 0 | 🔴🔴 **Quem publica no perfil e por que parte das peças aprovadas não foi ao ar?** A [análise de 15/10](../referencias/2026-10-15-analise-instagram-bodyskin-x-espacolaser.md) achou 8 peças da Lone fora da grade (incluindo 01, 02, 09 e 12/10) e 3 datas com outro tema no lugar. Último post de feed: 05/10. | A cliente cobra resultado de um feed que a Lone não controla. Sem resolver isso, nenhum número de outubro mede o trabalho da Lone. |
 | 1 | 🔴 **Quando sai o aval da RT pra injetável?** Aberto desde 26/07, mais de 8 semanas. Agora vai como **lista de 7 perguntas de sim ou não** ([estratégia de outubro §4](../estrategia/2026-10.md)). E a Cintia é a RT? | É o gate que trava as duas campanhas fechadas na reunião de 17/09 (público 50+ full face e sorteio com toxina). Se a RT responder até 05/10, as peças 50+ entram na dezena 11-20 de outubro. |
 | 1b | 🔴 **A condição do 11.11 e as promoções de novembro até 25/10.** Em outubro a condição do dia nunca veio, e **o 10.10 foi cancelado** por isso. | Dois meses seguidos sem condição própria encerram o modelo de data dupla na prática — não por decisão nossa, por falta de oferta que sustente o dia ([PADROES §8, regra 5](../PADROES.md)). E promoção que chega no dia 2 não cabe num arco de três peças. |
 | 1d | 🔴 **A clínica abre no sábado? Até que horas?** Pergunta aberta desde 24/09. | Não morreu com o 10.10: qualquer peça que convide a ir à clínica no fim de semana depende disso. |
@@ -26,12 +27,16 @@
 
 ## 2. 💡 Insights e oportunidades que a Lone observou
 
+- **Na conta dela, o Reels com gente da equipe tem 10 vezes a curtida do estático** (média de 11 contra 1,1, coleta de 15/10). Os estáticos com rosto de modelo de banco de imagem são os piores. Proposta: mais vídeo com a Cintia ou a equipe respondendo dúvida, no molde do "especialista responde" da Espaço Laser ([análise](../referencias/2026-10-15-analise-instagram-bodyskin-x-espacolaser.md)).
+
 - **Depilação a laser é o que está liberado e é o carro-chefe** — com o gate da RT travando injetável, a conta deveria concentrar esforço onde pode produzir, em vez de esperar liberação que não vem.
 - A estratégia de agosto já virou o formato (Reels 18% → 42%). Vale medir se o vídeo puxou alcance antes de decidir o mix de outubro.
 - **O lead ruim é sintoma de anúncio com preço.** A pesquisa da própria clínica diz que o cliente novo vem de passagem ou indicação. Outubro põe o digital pra reforçar os dois: indicação vira campanha fixa e a fachada entra na gravação.
 - **Indicação com recompensa garantida funciona melhor que sorteio** (certeza move mais, e sorteio comercial exige regulamento). Levar a proposta.
 
 ## 3. ⚠️ Riscos e alertas
+
+- 🔴 **O perfil segue 6.986 contas e tem 5.744 seguidores** (coleta de 15/10). É público de "seguir pra ser seguido", não de quem quer laser em Araruama. Explica parte do engajamento quase zero (média de 4 curtidas, 0 comentários em 10 posts) e tira o número de seguidores da lista de provas de resultado.
 
 - 🔴 **O modelo de data dupla da cliente está sendo sustentado pela Lone, não pela operação dela.** O 9.9 teve condição própria e funcionou. O **10.10 foi cancelado em 05/10** porque a condição do dia era a tabela do mês — e a peça de antecipação já estava aprovada prometendo o contrário, salva por um dia. O 11.11 é a terceira tentativa, e é ela que decide se o formato continua.
 - 🔴🔴 **Conta sob risco de cancelamento.** Reunião de 17/09 com Cintia trouxe R$ 47k de custo contra menos de R$ 3k de retorno, sócio pressionando, leads classificados como "ruim/péssimo". Essa reunião é de recuperação, não de rotina.
@@ -50,6 +55,8 @@
 - [ ] Pedir dado de origem de lead — a queixa é de qualidade de lead, e sem dado a discussão vira opinião.
 
 ## 5. 📊 O que levar de resultado
+
+Primeira coleta pública em 15/10 ([análise](../referencias/2026-10-15-analise-instagram-bodyskin-x-espacolaser.md)): só curtida e comentário, sem alcance. Pra provar resultado de verdade falta o acesso à API da Meta (alcance, salvamento, views).
 
 Sem métrica consolidada pra esse ciclo — se o cliente cobrar número, dizer que não temos acesso/dado ainda em vez de estimar.
 
