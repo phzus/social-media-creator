@@ -167,6 +167,15 @@ Caso de referência: o [anúncio do OMINT da CIIL](../clients/ciil/conteudo/post
 
 **Quando aplicar:** anúncio, novidade, convênio, inauguração, horário especial, oferta. Nessas peças, partir deste molde em vez de um gancho editorial.
 
+**Homenagem de data segue a mesma lógica (PH, 2026-10-15, [Dia do Pintor da Araruama Tintas](../clients/araruama-tintas/conteudo/posts/2026-10-18-dia-do-pintor-pinta-que-eu-vejo.md)):**
+
+> **18 DE OUTUBRO | DIA DO PINTOR**
+> **CADA PAREDE BEM PINTADA CARREGA O TALENTO DE QUEM FEZ O TRABALHO.**
+> Por trás de cada acabamento, existem técnica, dedicação e anos de experiência.
+> **NOSSA HOMENAGEM A TODOS OS PINTORES!**
+
+O molde é: kicker com data e nome da data → título em caixa alta reconhecendo o homenageado → uma linha concreta do ofício dele → fecho "Nossa homenagem…!" → assinatura. Não leva gancho de dor, nem CTA de venda.
+
 **Quando não aplicar:** série educativa e post de dor/identificação. Ali continua valendo a headline com gancho (pergunta + giro) e as regras da Parte 1.
 
 ---

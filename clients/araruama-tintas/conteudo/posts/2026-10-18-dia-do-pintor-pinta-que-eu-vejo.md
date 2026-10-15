@@ -1,4 +1,4 @@
-# Post de feed — Dia do Pintor (domingo 18/10): "Pinta aí que eu vejo como fica."
+# Post de feed — Dia do Pintor (domingo 18/10): homenagem "Cada parede bem pintada carrega o talento de quem fez o trabalho."
 
 **Cliente:** araruama-tintas · **Data:** domingo, 18/10/2026 (o próprio Dia do Pintor). É post extra, fora do Seg/Qua/Sex · **Plataforma:** Instagram · **Formato:** estático 4:5 · **Pilar:** Profissional + Escolha assistida · **Funil:** MOFU
 
@@ -18,7 +18,7 @@
 
 **Foto:** **real**, de banco ou de ambiente comum da região, **nunca IA fotorrealista** e nunca apresentada como obra da loja. **Canto de parede de uma cor só**, fita crepe no rodapé, rolo e bandeja no chão em primeiro plano. Se tiver pessoa, só a mão, sem rosto ([PADROES §4](../../PADROES.md): pintor identificável só com autorização). 🚫 Nada de parede com duas cores, faixa de teste ou divisa de cor: lê como antes/depois ([§5](../../PADROES.md)) e é o recurso de uma peça da outra conta de tinta.
 
-**Hierarquia:** logo (topo) → foto → **kicker** "F E L I Z  D I A  D O  P I N T O R" em amarelo, sem data → **título em 2 blocos**: o 1º (a frase do cliente, entre aspas) em peso médio, e o 2º (a virada) em negrito e maior → **CTA no pill azul** → rodapé.
+**Hierarquia (v2):** logo (topo) → foto → **kicker** em amarelo → **título** em caixa alta, o maior elemento → apoio em corpo menor → **"NOSSA HOMENAGEM A TODOS OS PINTORES!"** em destaque (no lugar do pill de CTA) → assinatura e rodapé.
 
 **Tipografia:** a sans geométrica dos templates da conta, no máximo 2 famílias. **Zona segura:** texto nos ~1012 px centrais (o grid 3:4 corta as bordas do 4:5).
 
@@ -34,31 +34,29 @@
 
 ---
 
-## Copy da arte
+## Copy da arte — ✅ versão aprovada (PH, 15/10)
 
-**Kicker:** FELIZ DIA DO PINTOR
+> PH e a equipe preferiram um **post de homenagem direto**. Ele substitui a v1 da Lone ("Pinta aí que eu vejo como fica."), que fica no histórico.
 
-**Título (2 blocos):**
+**Kicker:** 18 DE OUTUBRO | DIA DO PINTOR
 
-> **"Pinta aí que eu vejo como fica."**
-> **Você sabe o que vem depois: a mesma parede, pintada duas vezes.**
+**Título:** **CADA PAREDE BEM PINTADA CARREGA O TALENTO DE QUEM FEZ O TRABALHO.**
 
-**CTA (pill):**
-Vai pintar essa semana? Manda a foto da parede no WhatsApp (22) 99245-8813 antes de abrir a lata. A gente olha e ajuda a escolher a cor.
+**Apoio:** Por trás de cada acabamento, existem técnica, dedicação e anos de experiência.
 
-**Rodapé:** Rod. Araruama–Rio Bonito, nº 1.815, km 3 — Rio do Limão
+**Fecho:** **NOSSA HOMENAGEM A TODOS OS PINTORES!**
+
+**Assinatura:** Araruama Tintas
+
+> **Nota de isolamento (1 linha, sem travar):** a Bruno das Tintas usa o kicker "DIA DO PINTOR · 18/10". O desta arte tem a mesma informação em outra ordem. Se der pra mexer na diagramação, a data pode sair do kicker ou ir pra baixo do título. Se não, passa: o resto da peça não tem nada em comum.
 
 ---
 
 ## Legenda
 
-"Pinta aí que eu vejo como fica." Todo pintor ouve essa frase na hora da cor. A parede fica pronta, o cliente olha e pede outra cor, e aí a parede é pintada de novo.
+Toda parede bem acabada tem alguém por trás que preparou a superfície, protegeu o chão, recortou os cantos e passou demão por demão até ficar do jeito certo.
 
-O resultado final ainda muda um pouco com a luz do cômodo e com a superfície, e por isso essa conversa vale mais antes da primeira demão do que depois.
-
-Feliz Dia do Pintor pra quem passa a semana deixando a casa dos outros pronta.
-
-Vai pintar essa semana? Manda a foto da parede no WhatsApp (22) 99245-8813, você ou o seu cliente, antes de abrir a lata. A gente olha e ajuda a escolher a cor.
+Neste 18 de outubro, a Araruama Tintas deixa o agradecimento aos pintores de Araruama e região, que transformam a tinta que sai da loja em casa pronta. Feliz Dia do Pintor!
 
 📍 Rod. Araruama–Rio Bonito, nº 1.815, km 3 — Rio do Limão
 
@@ -94,3 +92,11 @@ Também aplicados: unidade coerente entre título e legenda (parede pintada de n
 **Pendências:**
 - 🟡 Post de domingo, fora da grade Seg/Qua/Sex. PH confirma se a conta publica no domingo ou se vai como agendado.
 - 🟡 O WhatsApp é atendido no domingo? Se não, a legenda ganha "a gente responde a partir de segunda".
+
+---
+
+## Histórico de revisões
+
+- **2026-10-15 v2 (aprovada):** PH e a equipe trocaram por homenagem direta (kicker com a data, título em caixa alta sobre o talento do pintor, "Nossa homenagem a todos os pintores!"). Sai o CTA de WhatsApp. A legenda foi reescrita no mesmo tom. A foto e o modelo de data da conta seguem.
+- **2026-10-15 v1:** proposta da Lone, falando com o pintor sobre retrabalho de cor ("Pinta aí que eu vejo como fica." / "Você sabe o que vem depois: a mesma parede, pintada duas vezes."), com CTA de foto no WhatsApp. Passou pelo validador (3 bloqueantes de isolamento corrigidos).
+

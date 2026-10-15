@@ -16,7 +16,9 @@ Pedido de PH. [Peça](conteudo/posts/2026-10-18-dia-do-pintor-pinta-que-eu-vejo.
 - o título estava em 3ª pessoa, que é o endereçamento da Bruno
 - a legenda repetia o esqueleto da Bruno de 16/10
 
-**Pendências:** o post sai num domingo, fora da grade. O WhatsApp é atendido no domingo?
+**Copy final decidida por PH (v2):** homenagem direta ("Cada parede bem pintada carrega o talento de quem fez o trabalho." / "Nossa homenagem a todos os pintores!"), sem CTA. A legenda foi reescrita no tom. O [PADROES §6](PADROES.md) foi revisto: homenagem de data a um público vira post de homenagem direto.
+
+**Pendência:** o post sai num domingo, fora da grade. Vai agendado?
 
 ---
 

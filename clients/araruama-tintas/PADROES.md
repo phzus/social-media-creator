@@ -34,6 +34,8 @@ Peça de "transformação" (antes/depois de ambiente ou fachada) usa material re
 
 ## 6. Peça de data comemorativa parte da orientação, não vira cartão
 
+> 🔄 **Revisto por PH em 2026-10-15 (Dia do Pintor):** quando a data é **homenagem a um público** (pintor, cliente, profissional), a casa prefere o **post de homenagem direto**: kicker com a data, título em caixa alta reconhecendo quem é homenageado, uma linha de apoio e "Nossa homenagem a…!", sem CTA de venda. Ver a [peça de 18/10](conteudo/posts/2026-10-18-dia-do-pintor-pinta-que-eu-vejo.md). O que continua valendo daqui: sem stock genérico de cartão (mãe e filho com rolo) e sem claim de produto. A regra abaixo, de partir da orientação, vale pra data que **não** é homenagem (Dia das Crianças, feriados).
+
 A arte de Dia das Mães (maio) foi o cartão clássico: stock de mãe e filho com rolo + "um parabéns para elas…". **Peça de data desta conta fala a tese da loja (orientação antes de oferta) com a data como contexto**, como em [Dia das Crianças 12/10](conteudo/posts/2026-10-12-dia-das-criancas-a-mancha-do-canto-da-sala.md) (a casa cheia no feriado e a mancha de parede adiada há um ano, com a foto da mancha no WhatsApp como CTA). **O molde "criança que pergunta" foi descartado nesta peça por colidir com outra peça da carteira no mesmo dia**; peça de data também confere o lote, não só a conta. **Criança não aparece em quadro** (sem autorização de imagem, §4) e **nenhum claim de segurança de tinta para criança** ("atóxica", "lavável", "sem cheiro") sem fonte checada. CTA de WhatsApp é opcional em peça de data; sem preço e sem afirmar que a loja abre no feriado.
 
 ---
