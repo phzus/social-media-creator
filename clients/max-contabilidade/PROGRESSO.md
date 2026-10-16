@@ -6,7 +6,7 @@ Log datado do trabalho feito pra Max Contabilidade. Topo = mais recente. Entrada
 
 ## 2026-10-16 — Cliente define foco só tributário (feedback registrado)
 
-O cliente reprovou as peças que estavam na mesa ("não gostei de nenhuma dessas") e disse que a única semana com retorno foi a de **análise tributária / pagamento de impostos**. Nos outros temas não veio nenhuma pergunta. Decisão dele: **por enquanto, a estratégia é só tributário.** Fala na íntegra em [referencias/2026-10-16-feedback-cliente-foco-so-tributario.md](referencias/2026-10-16-feedback-cliente-foco-so-tributario.md).
+O cliente reprovou as peças que estavam na mesa ("não gostei de nenhuma dessas") e disse que a única semana com retorno foi a de **análise tributária / pagamento de impostos**. Nos outros temas não veio nenhuma pergunta (PH esclareceu: "pergunta" = mensagem de lead). Decisão dele: **por enquanto, a estratégia é só tributário.** Fala na íntegra em [referencias/2026-10-16-feedback-cliente-foco-so-tributario.md](referencias/2026-10-16-feedback-cliente-foco-so-tributario.md).
 
 **Propagado:** [PADROES §0](PADROES.md) (regra operacional: o que entra, o que sai, os gates continuam) · [context.md](context.md) (pilares v1 suspensos) · [OPEN-QUESTIONS M–Q](OPEN-QUESTIONS.md) · [PAUTA](reuniao-mensal/PAUTA.md) · peças de 16/10 e 19/10 marcadas como provavelmente reprovadas · memória persistente.
 

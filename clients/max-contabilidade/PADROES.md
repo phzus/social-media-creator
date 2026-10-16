@@ -15,6 +15,7 @@ O cliente reprovou as peças que estavam na mesa e disse que a única semana com
 - **Fora até segunda ordem:** DP (folha, contratação, 13º, férias), abertura de empresa como assunto principal, pró-labore/retirada como assunto de sócio, CNPJ/cadastro, data comemorativa sem gancho tributário e bastidor. Se um desses temas entrar, entra **pelo lado do imposto** (ex.: abertura → "o regime que você escolhe na abertura define o imposto do ano").
 - **Os pilares do context.md ficam suspensos**, e o mix do playbook (venda, posicionamento, emocional etc.) varia dentro do tema tributário, não entre temas.
 - **O foco não suspende os gates.** §1 (sem promessa de economia, sem número de economia), §1.5 (nunca "sonegar") e §2 (prazo e regra só com o escritório confirmando) valem ainda mais, porque é justamente o terreno em que a promessa escapa.
+- **Retorno = mensagem de lead.** Quando o cliente fala em "retorno" ou "pergunta", está falando de lead chamando o escritório. Por isso toda peça tributária fecha com motivo concreto pra mandar mensagem ("manda seu regime que a gente olha"), nunca só informa e encerra.
 - **"Por enquanto"** quer dizer que vale até o cliente dizer outra coisa. Não reabrir outros temas por iniciativa da Lone; se parecer hora de variar, levar como pergunta pra reunião.
 
 ## 1. ⚠️ Gate de compliance CFC (BLOQUEANTE)

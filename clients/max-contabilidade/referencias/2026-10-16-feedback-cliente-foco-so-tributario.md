@@ -18,6 +18,6 @@
 
 ## Leitura da Lone
 
-- Em conta B2B, "retorno" quer dizer pergunta e contato, não curtida. É a métrica certa, e o cliente está medindo por ela.
+- **"Retorno" e "pergunta" = mensagem de lead** (esclarecimento de PH, 16/10): gente que chamou o escritório querendo serviço, não comentário nem curtida. O tributário gerou lead; o resto não gerou nenhum. É a métrica certa pra B2B, e o cliente está medindo por ela.
 - A fala implica que **peças já foram ao ar** (pelo menos a da reforma). O PROGRESSO registrava todas como travadas por falta de @, canal e validação. Isso precisa ser conferido com PH.
 - O foco único não suspende os gates. Continua valendo: sem promessa de economia (CFC), sem "sonegar" (PADROES §1.5), prazo e regra só depois de o escritório confirmar (PADROES §2).

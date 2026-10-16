@@ -52,7 +52,7 @@ Confirmar com o cliente (ver [OPEN-QUESTIONS.md](OPEN-QUESTIONS.md)). Hipótese 
 
 O cliente reprovou as peças que estavam na mesa e disse que a única semana com retorno foi a de **análise tributária / pagamento de impostos** (provavelmente a da reforma, 25/09). Nos outros temas não veio nenhuma pergunta. **Por enquanto, toda a pauta é imposto.** Os pilares abaixo ficam suspensos até ele dizer outra coisa. Regra operacional em [PADROES §0](PADROES.md); fala na íntegra em [referencias/2026-10-16-feedback-cliente-foco-so-tributario.md](referencias/2026-10-16-feedback-cliente-foco-so-tributario.md).
 
-**Métrica que o cliente usa:** pergunta e contato. Curtida não conta.
+**Métrica que o cliente usa:** mensagem de lead (gente chamando o escritório querendo serviço). Curtida e comentário não contam. Toda peça precisa ter motivo pra mandar mensagem.
 
 ## Pilares de conteúdo (proposta v1, ⏸️ SUSPENSA desde 2026-10-16, ver foco acima)
 

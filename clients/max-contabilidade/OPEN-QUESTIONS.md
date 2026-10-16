@@ -17,7 +17,7 @@ Contexto: [referencias/2026-10-16-feedback-cliente-foco-so-tributario.md](refere
 
 **O. O que já foi ao ar?** A fala implica que peças foram publicadas, e o PROGRESSO registrava todas como travadas (sem @, canal e validação do escritório). Confirmar com PH o @, o que saiu e quem validou. — *corrige o registro e pode destravar F (canal do CTA).*
 
-**P. Que perguntas chegaram na semana boa?** As dúvidas reais que o público mandou são a melhor pauta tributária possível. — *não trava.*
+**P. O que os leads da semana boa pediram nas mensagens?** "Perguntas" = mensagens de lead (PH, 16/10). Quantos chegaram, o que pediam e quantos viraram cliente: isso mostra qual ângulo tributário converte e vira pauta direto. — *não trava.*
 
 **Q. Até quando vale o "por enquanto"?** Por padrão vale até o cliente dizer outra coisa; levar pra reunião se o tema começar a se repetir. — *não trava.*
 
