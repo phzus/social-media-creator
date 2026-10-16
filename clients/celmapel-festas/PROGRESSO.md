@@ -4,6 +4,19 @@ Log datado do trabalho feito pra Celmapel. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-10-16 — Post de segunda 19/10: "Seu bombom amanheceu manchado de branco?"
+
+[Peça](conteudo/posts/2026-10-19-bombom-manchado-tipo-de-chocolate.md): estático 3:4, educativo. Headline: *"Seu bombom amanheceu manchado de branco? / Antes de trocar de marca, confere o tipo de chocolate."* Duas colunas de mesmo peso (nobre × fracionado: o que cada um entrega e o que pede). CTA: *"Conta a sua receita aqui na loja que a gente mostra os dois."*
+
+- **Mecanismo:** defeito que a pessoa já viu → causa → critério de escolha entre duas opções. Não repete memória (12/10), anúncio (14/10) nem calendário (16/10), nem os mecanismos do lote de 19/10 da carteira.
+- **Linha da semana:** confeitaria de quem vende doce, antes da compra de insumo de Halloween (26 a 28/10). Sexta organizou o prazo; segunda ensina a escolher. Frente que não é festa ([PADROES §3](PADROES.md)) e diferencial "duas opções" do Max sem dizer qual é melhor ([§5](PADROES.md)).
+- **Validação (validador-copy):** 3 bloqueantes e 5 importantes, todos aplicados na v2. A mancha branca virou "causa muito comum" (calor e umidade também mancham); "balcão" saiu por não ter fonte; a coluna do nobre ganhou o que ele entrega (sabor, estalo) pra não pender pro fracionado; temperagem restrita a bombom, casca e pirulito; "quanto quer gastar" saiu (insinuava preço).
+- **Travas:** #41 (a loja tem os dois tipos? nome na embalagem; conferência técnica do Max/Taísa) e #40 (foto). Sem preço, marca, horário, endereço, telefone ou "atacado". CTA na loja, não no WhatsApp (#32).
+
+**Atualizado:** [OPEN-QUESTIONS](OPEN-QUESTIONS.md) #40 e #41.
+
+---
+
 ## 2026-10-14 — Roteiro de anúncio (Meta Ads): balão, embalagem e confeitaria na mesma loja
 
 [Roteiro](conteudo/roteiros/2026-10-14-anuncio-produtos-principais.md): vídeo 9:16 de ~30s com a Taísa, dois ganchos pra A/B, bloco opcional de preço (só com produto + preço + validade do Max), texto principal, título, botão e mensagem pronta de WhatsApp.

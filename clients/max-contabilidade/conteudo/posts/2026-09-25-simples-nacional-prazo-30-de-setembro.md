@@ -1,5 +1,7 @@
 # Post — "Você tem até 30 de setembro" (Simples Nacional × IBS e CBS)
 
+> ⚠️ **2026-10-16 — PRAZO DESATUALIZADO:** a Resolução CGSN 194/2026 (DOU 28/09/2026) prorrogou a opção pelo regime regular do IBS/CBS até **30/10/2026**; cancelamento de 03/11 a 20/12/2026. Se esta peça foi ao ar, a data "30 de setembro" está vencida. Ver [OQ T](../../OPEN-QUESTIONS.md). Fonte: [Fenacon](https://fenacon.org.br/noticias/simples-nacional-prorroga-opcao-pelo-regime-hibrido-30-outubro/).
+
 **Cliente:** max-contabilidade · **Data:** 2026-09-25 (sexta) · **Plataforma:** Instagram (feed 4:5) + stories
 **Pilar:** Custa caro errar · **Formato:** Carrossel, 5 slides
 **Prioridade:** 🔴 alta — o prazo vence **5 dias depois** da publicação

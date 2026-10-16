@@ -4,6 +4,18 @@ Log datado do trabalho feito pra Maicom. Topo = mais recente. Entrada por bloco 
 
 ---
 
+## 2026-10-16 — Post de segunda 19/10: "Casa perto da praia: piso claro ou escuro?"
+
+[Peça](conteudo/posts/2026-10-19-piso-claro-ou-escuro-perto-da-praia.md): estático 4:5, mecanismo **escolha A × B resolvida por um detalhe da rotina local**. Linha 2: "No escuro, dá pra ver cada grão de areia." Terceira peça da linha da temporada (05/10 calendário · 16/10 cena + preço), agora no "qual escolher". Segunda leve: sem preço, não depende da tabela de outubro.
+
+**CTA de salvar** ("Salva pra olhar de novo na hora de escolher."), depois de cinco peças seguidas fechando em loja; WhatsApp só no bloco de contato. Foto pedida **de cima**, piso escuro com chinelo e trilha de areia (troca o ângulo rasante de 12/10 e 16/10; sem split, que 21/09 já usou).
+
+**Validador-copy:** 2 bloqueantes corrigidos ("aparece"/"se confunde" → "dá pra ver"/"se nota"; frase do desenho amarrada ao piso claro e fecho sem absoluto) + recomendados aplicados (rotina restrita a casa perto da praia, CTA neutro, foto top-down, nota de mecanismo).
+
+**Trava:** nenhuma de dado. Foto depende da captação na loja (PAUTA pergunta 9); sem ela, foto real do showroom de cima.
+
+---
+
 ## 2026-10-13 — Post de sexta 16/10: "Em janeiro, sua casa vai ter gente descalça o dia todo."
 
 [Peça](conteudo/posts/2026-10-16-janeiro-descalco-piso-novo.md): estático 4:5, mecanismo **cena/desejo**. É a sexta que converte a linha da temporada aberta na segunda 05/10: casa cheia no verão, todo mundo descalço em cima do piso. Linha 2: "O piso que já te incomoda vai estar debaixo do pé de todo mundo." Selo: **piso a partir de R$ 19,99 o m², no dinheiro ou no Pix**.

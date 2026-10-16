@@ -4,6 +4,16 @@ Log datado do trabalho feito pra Lagos Padrão. Topo = mais recente. Entrada por
 
 ---
 
+## 2026-10-16 — Post de segunda 19/10: "O padrão da tua casa é teu, não da Enel"
+
+[Estático 4:5](conteudo/posts/2026-10-19-o-padrao-da-tua-casa-e-teu.md), slot de segunda (leve/educativo). Mecanismo novo na conta: **correção de crença** sobre de quem é o padrão de entrada. Poste, caixa, disjuntor, eletroduto e aterramento são do dono do imóvel; medidor e fio da rua são da distribuidora (pauta 1 da linha "padrão de entrada" do briefing estratégico). É a primeira peça que fala com quem **já tem padrão** e puxa orçamento de **conserto/adequação** (linha 3 do BRIEFING), em vez de obra nova. CTA: duas fotos (padrão inteiro + caixa de perto) pra orçamento.
+
+**Validação de copy (subagent) aplicada:** "nem da CERAL" saiu da headline e da legenda (norma da CERAL não publicada, [OQ 18](OPEN-QUESTIONS.md)); cortada a frase "quem compra casa leva o padrão junto" (sem fonte); abertura da legenda deixou de repetir a headline; CTA com antecedente explícito.
+
+**Travas:** sem preço (R$ 945 sem reconfirmação), sem prazo, horário, "fabrica", número de norma ou o que a distribuidora faz com padrão irregular. Depende de foto de padrão montado (plano B no brief). CTA pressupõe que o cliente orce conserto por foto ([OQ 18b](OPEN-QUESTIONS.md)).
+
+---
+
 ## 2026-10-13 — Post de sexta 16/10 (opcional): "O munck aguenta a carga? Depende de onde ela vai descer."
 
 [Estático 4:5](conteudo/posts/2026-10-16-o-munck-aguenta-depende-de-onde-desce.md), **opcional**: fica guardado pra quando o cliente quiser postar e não tem data, então não vence. É a primeira peça de venda da linha de **aluguel de munck**. Mecanismo: pergunta + resposta. A carga que o braço levanta diminui conforme a distância de descida, e por isso o orçamento começa por onde a carga vai descer. O ângulo vem do briefing estratégico, sem número de toneladas. O CTA é inédito na conta: o cliente manda o que vai içar, o peso e uma foto do ponto de descida, e recebe orçamento. A validação de copy foi aplicada: o CTA não promete veredito à distância e o gate de foto entrou no brief.

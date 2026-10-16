@@ -7,6 +7,14 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🔴 Novas (2026-10-16) — post de segunda 19/10 refeito (imposto pago a mais)
+
+**R. A pauta tributária ganha etiqueta de série?** A [peça de 19/10](conteudo/posts/2026-10-19-imposto-pago-a-mais-nao-gera-aviso.md) saiu sem "DESCOMPLICA · 04", porque a série nasceu num pilar suspenso. Opções: manter "Descomplica" com tema só tributário, criar nome novo ou ficar sem etiqueta. — *decidir antes do designer; não trava a copy.*
+
+**S. O escritório confirma o que a [peça de 19/10](conteudo/posts/2026-10-19-imposto-pago-a-mais-nao-gera-aviso.md) afirma?** (a) imposto pago com atraso tem multa e juros; (b) pagamento a mais não gera aviso automático; (c) os dois exemplos de causa (regime que deixou de combinar com faturamento e folha; receita classificada errado na guia); (d) a tradução de Simples/DAS, Lucro Presumido e Lucro Real na legenda. Junto: o escritório responde quem ainda não é cliente com "o que precisa olhar" (CTA)? — *trava a publicação.*
+
+**T. 🔴 A data do carrossel de 25/09 ficou desatualizada, e a janela segue aberta.** A [Res. CGSN 194/2026](https://fenacon.org.br/wp-content/uploads/2026/09/Resolucao-CGSN-no-194-DE-25-DE-setembro-DE-2026-Resolucao-CGSN-no-194-DE-25-DE-setembro-DE-2026-DOU-Imprensa-Naciona.pdf) (DOU de 28/09/2026, texto lido em 16/10) prorrogou a opção de recolher IBS e CBS fora do Simples (jan–jun/2027) até **30/10/2026**. A opção pelo Simples pra 2027 fechou em **15/10/2026**, e o cancelamento das duas vai de **03/11 a 20/12/2026**. O [carrossel de 25/09](conteudo/posts/2026-09-25-simples-nacional-prazo-30-de-setembro.md) diz "até 30 de setembro". Se ele foi ao ar (OQ O), PH decide se corrige. E é pauta pronta pra quarta 21/10 ou sexta 23/10 (a semana que deu lead, com data real ainda aberta), se o escritório confirmar. — *não trava 19/10.*
+
 ## 🔴 Novas (2026-10-16) — feedback do cliente: foco só tributário
 
 Contexto: [referencias/2026-10-16-feedback-cliente-foco-so-tributario.md](referencias/2026-10-16-feedback-cliente-foco-so-tributario.md) · regra em [PADROES §0](PADROES.md).

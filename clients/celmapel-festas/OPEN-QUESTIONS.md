@@ -44,6 +44,13 @@ Log completo. O que vale ocupar a reunião está curado em [reuniao-mensal/PAUTA
 
 39. 🟡 **Foto da loja pro carrossel de 16/10:** corredor ou prateleira de confeitaria e embalagem (caixinha de doce, forminha, chocolate), celular na vertical, sem rosto e sem rótulo de marca em destaque. Resposta até **qua 14/10, 12h**. Sem ela, vai foto de banco real (nunca IA). Se o Max mandar junto produto + preço + validade de algum insumo de Halloween (#10), o slide 4 ganha uma linha de preço.
 
+## 🟡 2026-10-16 — Post de segunda 19/10 (bombom manchado, tipo de chocolate)
+
+[Peça](conteudo/posts/2026-10-19-bombom-manchado-tipo-de-chocolate.md).
+
+40. 🟡 **Foto da loja pra arte de 19/10:** bombons ou pedaços de chocolate na bancada (um brilhante, um opaco com mancha branca, se tiver), ou chocolate derretido na tigela, ou barras sem rótulo na prateleira de confeitaria. Celular na vertical, sem rosto e sem marca em destaque. Sem ela, banco real (nunca IA).
+41. 🔴 **A loja vende os dois tipos, chocolate nobre e fracionado (ou cobertura)? E qual o nome na embalagem?** A peça diz "a gente mostra os dois". Se só tiver um, sai com o CTA alternativo ("a gente te ajuda a escolher o chocolate"). Pedir também que Max ou Taísa confiram a explicação técnica (temperagem, mancha branca, sabor e textura) antes de publicar. Resposta até **seg 19/10, 12h**.
+
 ---
 
 ## 🔴 Outubro (campanha do Mês do Aniversário)

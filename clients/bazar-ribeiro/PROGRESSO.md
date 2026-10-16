@@ -4,6 +4,16 @@ Log datado do trabalho feito pro Bazar Ribeiro. Topo = mais recente. Entrada por
 
 ---
 
+## 2026-10-16 — Post de segunda 19/10: "Veio pela fita isolante e saiu com o mop e a sapateira. / Faz sentido: o nome da loja começa com Bazar."
+
+[Peça](conteudo/posts/2026-10-19-o-nome-comeca-com-bazar.md): estático na base da casa (uma das 2 peças de base da semana, [PADROES §8](PADROES.md)), **os dois perfis**, mesma arte. Pilar posicionamento leve; abre a semana de **utilidades de casa** (mop, sapateira, tapete, TV box), categoria que a conta nunca teve.
+
+**Mecanismo novo na conta:** quebra de expectativa de catálogo, com cena + giro pelo nome da loja. Passa no teste do nome. CTA: "Chama a sua loja e pergunta o que ela tem pra casa", com os dois números por cidade. Usei "chama" em vez de "WhatsApp" porque ainda não sabemos se o fixo de Maricá recebe WhatsApp. Sem preço, sem horário, sem Halloween, nada que dependa da reunião de 16/10. O validador-copy pegou uma contradição entre o CTA e a headline, além de tricolon. As duas coisas foram corrigidas na v1.1.
+
+**Trava:** os 4 itens vêm de artes de junho em ~/Downloads, uma de cada loja ([OQ #20](OPEN-QUESTIONS.md)).
+
+---
+
 ## 2026-10-13 — Post de sexta 16/10: "Quando foi que você trocou o regulador do gás? / Se não lembra, o prazo de validade está gravado nele."
 
 [Peça](conteudo/posts/2026-10-16-regulador-de-gas-data-gravada.md): estático no **layout diversificado (modelo WD-40)**, slot diversificado da semana ([PADROES §8](PADROES.md)). Perfil **Saquarema**; Maricá só se Junior confirmar preço e estoque lá.

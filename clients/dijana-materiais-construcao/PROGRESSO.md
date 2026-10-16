@@ -4,6 +4,18 @@ Log datado do trabalho feito pra Dijana. Topo = mais recente. Entrada por bloco 
 
 ---
 
+## 2026-10-16 — Post de segunda 19/10: "Chapisco, traço, prumo, bater laje"
+
+Lote de segunda da carteira. [Peça](conteudo/posts/2026-10-19-chapisco-traco-prumo-bater-laje.md): arte única, pilar Compra certa + Profissional, mecanismo **glossário do canteiro** (quatro palavras do pedreiro traduzidas em uma linha cada; traço e bater laje ligados à lista de material). Headline: *"Chapisco, traço, prumo, bater laje: / quem está em obra ouve isso do pedreiro e nem sempre sabe o que é."* CTA: *"Passa a lista do pedreiro no WhatsApp (22) 99752-1356 e pede o orçamento."* (intenção "quero um orçamento" pedida pelo Igor em 02/09; verbo novo na conta). Sem preço, oferta, sorteio ou entrega.
+
+**Por que:** volta ao educativo leve depois de oferta (16/10) e homenagem (12/10), em território de alvenaria/estrutura, onde o mix confirmado (cimento, colunas) está. Massa corrida ficou de fora (Araruama Tintas 16/10).
+
+**Validação de copy (subagent): 3 bloqueantes, 5 importantes, 5 menores, aplicados.** O principal: "o traço é o que define quantos sacos de cimento" estava tecnicamente errado (depende também do volume do serviço) e virou "entra na conta, junto com o tamanho do serviço"; traço passou de "medida" pra "proporção" com brita no concreto; legenda tinha contradição de tempo (lista "veio" × "quando chegar"); CTA "Recebeu a lista? Encaminha…" repetia o esqueleto de 05/10 e 06/10.
+
+**Travas (não bloqueiam texto, mas vão junto):** olhar da loja nas 4 definições ([PADROES §5](PADROES.md)) · decisão de PH sobre formato (4ª segunda seguida em arte única; glossário cabe em carrossel de 6) · prazo: copy ao Igor sexta 16/10 até 15h, arte sai segunda de manhã, publicar depois da aprovação ou descer pra terça 20/10.
+
+---
+
 ## 2026-10-13 — Post de sexta 16/10: "Em dezembro a casa enche de gente e a caixa d'água pode secar antes do almoço"
 
 Lote de sexta da carteira. [Peça](conteudo/posts/2026-10-16-caixa-dagua-antes-de-dezembro.md): arte única, mecanismo **comparação** (caixa de 500 L × 1000 L lado a lado; a faixa de calendário OUT · NOV · DEZ saiu no ajuste de lote do orquestrador porque WT e Celmapel usaram faixa de calendário no mesmo dia), produto **Caixa d'água 1000 L Fortlev, R$ 390,00 à vista no dinheiro ou Pix, retirando na loja** — preço do encarte fixado de **24/08** em `~/Downloads`, a confirmar. CTA: "Fala com a gente no WhatsApp (22) 99752-1356 e deixa a caixa trocada antes do Natal." Legenda manda conferir laje/base com pedreiro ou engenheiro (1000 L cheios pesam mais de uma tonelada).

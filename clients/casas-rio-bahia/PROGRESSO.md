@@ -4,6 +4,18 @@ Log datado do trabalho feito pra Casas Rio Bahia. Topo = mais recente. Entrada p
 
 ---
 
+## 2026-10-16 — Post de segunda 19/10: "Pedir só 'cano de esgoto' no balcão não fecha a compra"
+
+[Peça](conteudo/posts/2026-10-19-vaso-100-pia-40.md): **estático, arte única**, pilar Orientação, **peça 03** da série "Material certo para cada etapa" (a 12/10 e a 16/10 ficaram fora da numeração, a série segue sem buraco). Mecanismo **pedido incompleto no balcão + mapa do cômodo**: a headline pega o pedido genérico e já responde ("O vaso leva o tubo de 100 mm. A pia do banheiro, o de 40."), e a arte é uma planta de banheiro em croqui ligando cada louça ao recorte do tubo certo. CTA "Na dúvida sobre a medida, manda a pergunta no WhatsApp (22) 98824-0668".
+
+**Por que esse produto:** o tubo de esgoto Canaã (100 e 40 mm) está no encarte e ainda não tinha tido peça; leva a série pra uma etapa nova (hidráulica do banheiro) e não esbarra no preço nem na metragem da barra ([OQ #48](OPEN-QUESTIONS.md)). Diâmetros pela NBR 8160 (vaso DN 100, lavatório DN 40); pia de cozinha (50 mm, fora do encarte) e chuveiro ficaram de fora de propósito.
+
+**Validação de copy (subagent): 1 bloqueante, 3 importantes, aplicados.** O bloqueante: a headline v1 dizia que os dois tubos "parecem o mesmo cano branco", premissa falsa (100 e 40 mm não se confundem a olho, a própria arte desmentia), cor inventada e molde "parece…" igual ao da peça 02. Também: consequência suavizada ("tende a entupir"), saiu a frase de inclinação/ligação na rede que quebrava a legenda, disponibilidade redigida como "a loja trabalha com as duas medidas".
+
+**Travas:** sem preço, sem metragem, sem conexões/caixa sifonada (não registrado que a loja venda), sem entrega/prazo, sem tinta, sem "sonho". **Prazo apertado:** brief ao designer hoje (sex 16/10) até o meio da tarde; envio ao cliente até seg 19/10, 10h.
+
+---
+
 ## 2026-10-13 — Post de sexta 16/10: "Terreno de 10 x 30, cercado com três fios de arame. Quantos rolos de arame farpado você leva?"
 
 Lote de sexta da carteira (PH: "faz de sexta em todos os clientes"). [Peça](conteudo/posts/2026-10-16-um-rolo-de-arame-cerca-o-terreno.md): **carrossel de 4 slides**, mecanismo **cálculo/conta**. A capa pergunta quantos rolos um terreno de 10 x 30 com três fios pede; os slides fazem a conta (volta de 80 m × 3 fios = 240 m) e o rolo Guepar de 250 m vira a resposta: pela conta, um rolo dá a volta inteira, com 10 m de folga. Slide 4 é a oferta: **R$ 269,99 o rolo**, dinheiro ou Pix, CTA "Manda a medida do seu terreno no WhatsApp".

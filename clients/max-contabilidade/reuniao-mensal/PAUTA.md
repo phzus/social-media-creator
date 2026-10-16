@@ -14,6 +14,7 @@
 **Levar pra reunião:**
 - Os leads daquela semana pediram o quê nas mensagens? Quantos foram e quantos fecharam? ("Pergunta" na fala dele = mensagem de lead.) O pedido de cada um vira pauta direto.
 - O que já foi publicado e com qual @? O nosso registro dizia que nada tinha saído.
+- ⚠️ **O prazo da peça de 25/09 mudou:** a Resolução CGSN 194/2026 (DOU 28/09) prorrogou até **30/10/2026** a opção do Simples por recolher IBS/CBS pelo regime regular, e o cancelamento corre de 03/11 a 20/12/2026 ([Fenacon](https://fenacon.org.br/noticias/simples-nacional-prorroga-opcao-pelo-regime-hibrido-30-outubro/)). Se o carrossel de 25/09 foi ao ar com "até 30 de setembro", a data está vencida. Isso também é a pauta tributária mais quente do momento, com data real: dá peça pra 21/10 ou 23/10 se o escritório confirmar ([OQ T](../OPEN-QUESTIONS.md)).
 - O escritório topa validar rápido peça tributária? Prazo e regra de imposto mudam, e é o tema em que o gate CFC mais aperta.
 
 ## 1. 🔴 Perguntar nesta reunião

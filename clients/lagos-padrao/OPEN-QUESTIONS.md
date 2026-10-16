@@ -26,6 +26,12 @@ Pendências a resolver com PH / com o cliente.
 
 **17b. O cliente orça munck por WhatsApp a partir de foto + peso?** O CTA da peça pede "o que precisa içar, quanto pesa e uma foto do lugar onde a carga vai descer" e promete orçamento. Se ele só orça com visita, o CTA vira pedido de visita.
 
+## 🟡 2026-10-16 — Post de segunda 19/10 (padrão é do dono do imóvel)
+
+**18. Na CERAL também é assim: poste, caixa, disjuntor, eletroduto e aterramento são do dono do imóvel, e só o medidor e o fio da rua são da cooperativa?** A regra veio da pesquisa da Lone (ANEEL/Enel); a norma da CERAL não está publicada ([OQ 15](#)). A [peça de 19/10](conteudo/posts/2026-10-19-o-padrao-da-tua-casa-e-teu.md) saiu só com "Enel" na headline e na legenda. Se o cliente confirmar, a headline volta a ser "O PADRÃO DA TUA CASA É TEU, / NÃO DA ENEL NEM DA CERAL."
+
+**18b. O cliente faz conserto/adequação de padrão existente e orça por foto?** "Montagem, adequação e reparo" vem do briefing estratégico, não validado ([OQ 10](#)). O CTA da peça de 19/10 pede duas fotos e promete orçamento; se ele só orça com visita, o CTA vira pedido de visita.
+
 ## 🟡 Importantes (qualidade da estratégia)
 
 **4. Tabela real de produtos** — medidas, cargas, resistências, formatos e preços praticados, por linha. Hoje só existe um preço público (R$ 945).

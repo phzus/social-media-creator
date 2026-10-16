@@ -5,6 +5,14 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🟡 2026-10-16 — Post de segunda 19/10 (glossário do canteiro)
+
+[Peça](conteudo/posts/2026-10-19-chapisco-traco-prumo-bater-laje.md).
+
+1. 🟡 **A loja confere as quatro definições** (chapisco, traço, prumo, bater laje) e a frase "o traço entra na conta dos sacos de cimento, junto com o tamanho do serviço"? Conteúdo de compra certa pede esse olhar ([PADROES §5](PADROES.md)).
+2. 🟡 **PH: arte única ou carrossel?** Quarta segunda seguida em arte única; o glossário cabe em carrossel de 6 slides, mas pesa no designer.
+3. 🟢 **Prazo:** arte só sai segunda 19/10 de manhã (brief na sexta + 1 dia útil). Se o Igor não aprovar a tempo, a peça desce pra terça 20/10.
+
 ## 🔴 2026-10-13 — Post de sexta 16/10 (caixa d'água) + reunião de 02/09 achada
 
 [Peça](conteudo/posts/2026-10-16-caixa-dagua-antes-de-dezembro.md) e [resumo da reunião de 02/09](referencias/2026-09-02-resumo-reuniao-setembro-do-cliente.md), que não estava no repo.

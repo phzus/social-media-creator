@@ -2,6 +2,10 @@
 
 Pendências a resolver com PH / com o dono do Bazar Ribeiro. Resolver as **bloqueantes** antes de produzir qualquer peça da campanha de agosto.
 
+## 📅 2026-10-16 — Post de segunda 19/10 (utilidades de casa)
+
+20. 🟡 **Mop giratório, sapateira, tapete e TV box ainda estão no mix das duas lojas?** A única fonte são as artes de junho/2026 em ~/Downloads (uma de Maricá e uma de Saquarema por item). Pedir o OK ao Junior junto com o envio da arte. Se algum item tiver saído de uma das lojas, é só trocar no corpo da [peça de 19/10](conteudo/posts/2026-10-19-o-nome-comeca-com-bazar.md).
+
 ## 📅 2026-10-13 — Post de sexta 16/10 (regulador de gás)
 
 17. 🔴 **Kit regulador de gás Vinigas "a partir de R$ 29,90" ainda vale?** Preço tirado da arte de Saquarema de 24/08. Confirmar até qui 15/10, antes de mandar ao Junior. Peça: [2026-10-16](conteudo/posts/2026-10-16-regulador-de-gas-data-gravada.md).

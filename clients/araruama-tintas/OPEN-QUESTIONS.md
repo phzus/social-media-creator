@@ -5,6 +5,12 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🆕 2026-10-16 — post de segunda 19/10 (reboco novo)
+
+- **15. 🟡 Cura de reboco antes de pintar:** a [peça de 19/10](conteudo/posts/2026-10-19-reboco-novo-28-dias.md) diz "costuma pedir cerca de 28 dias" (fonte: orientação geral de mercado, não fabricante da loja). Perguntar ao Wanderson na aprovação: a loja orienta cerca de 28 dias? Alguma linha dispensa? A ficha da Coral Proteção Sol & Chuva **Pintura Impermeabilizante** permite aplicar em reboco novo visivelmente seco. Falta saber se a "Coral Sol e Chuva" dos 15% é esse produto. Se for, vira gancho de sexta ("reboco novo que não pode esperar"). Não trava a publicação.
+
+---
+
 ## 🆕 2026-10-13 — achados das reuniões de 09/09 e 09/10 + post de sexta 16/10
 
 Os dois resumos de reunião (PDFs na Downloads do PH) não estavam no repositório; foram transcritos em [reuniao-mensal/resumos/](reuniao-mensal/resumos/). O que eles mudam aqui:

@@ -1,6 +1,6 @@
 # Post — Descomplica #04: "Começou na segunda, e a carteira ficou pra depois da experiência. Mas a experiência já é contrato de trabalho."
 
-> ⏸️ **2026-10-16 — provavelmente REPROVADA pelo cliente** ("não gostei de nenhuma dessas"; foco passou a ser só tributário, [PADROES §0](../../PADROES.md)). Não produzir nem enviar ao designer. Confirmar em [OQ M](../../OPEN-QUESTIONS.md).
+> ⏸️ **2026-10-16 — provavelmente REPROVADA pelo cliente** ("não gostei de nenhuma dessas"; foco passou a ser só tributário, [PADROES §0](../../PADROES.md)). Não produzir nem enviar ao designer. Confirmar em [OQ M](../../OPEN-QUESTIONS.md). **Substituída por** [2026-10-19-imposto-pago-a-mais-nao-gera-aviso.md](2026-10-19-imposto-pago-a-mais-nao-gera-aviso.md).
 
 **Cliente:** max-contabilidade · **Data:** 2026-10-19 (segunda — leve/educativo, playbook Lone) · **Plataforma:** Instagram (❓ @ não informado — [OPEN-QUESTIONS](../../OPEN-QUESTIONS.md)) · **Formato:** Estático (arte única, 4:5) · **Pilar:** Descomplica (35%) · **Série:** "Descomplica" #04
 **Mecanismo:** cena curta + giro. A primeira linha conta uma contratação comum, como se fosse a história de alguém; a segunda desmonta a premissa que a cena carrega (de que experiência é o período antes do contrato).

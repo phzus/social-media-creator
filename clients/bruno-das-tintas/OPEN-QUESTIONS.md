@@ -2,6 +2,11 @@
 
 Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes de fechar a 1ª estratégia mensal formal (o calendário de 12 semanas do [BRIEFING.md](BRIEFING.md) é proposta, ainda não validada com o cliente).
 
+## 🆕 Aberto em 2026-10-16 — semana de 19 a 23/10 (meia parede)
+
+- **A semana fecha em meia parede?** Segunda 19/10 abriu a linha ([peça](conteudo/posts/2026-10-19-meia-parede-repinta-so-embaixo.md)). Proposta: quarta 21/10 em vídeo sem fala (a fita saindo e a linha aparecendo, captação ou motion flyer) e sexta 23/10 de venda com as duas latas. **Pra sexta ter preço, o cliente precisa mandar produto e valor**; sem isso sai sem preço ([PADROES §9](PADROES.md)).
+- **"Cor da semana" e cores do ano:** a semana 10 do briefing (Tempestade, Cipó da Amazônia, Azul Puro) segue travada pelo leque não confirmado. Os nomes de cor do briefing também precisam ser conferidos na fonte (Suvinil/Coral) antes de entrar em arte.
+
 ## 🆕 Aberto em 2026-10-13 — post de sexta 16/10 (Dia do Pintor)
 
 - **O R$ 846,00 à vista da Coral Decora Seda acetinado branco 18L (arte de 24/08) ainda vale?** É o preço da [peça de 16/10](conteudo/posts/2026-10-16-o-nome-dele-fica-na-parede.md). Mesma família do #7. Se PH não confirmar até qui 15/10, 12h, sai a versão sem preço (já escrita).

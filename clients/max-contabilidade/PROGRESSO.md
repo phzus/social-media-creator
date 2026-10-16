@@ -4,6 +4,20 @@ Log datado do trabalho feito pra Max Contabilidade. Topo = mais recente. Entrada
 
 ---
 
+## 2026-10-16 — Post de segunda 19/10 refeito no foco tributário: "Imposto pago a mais não gera aviso nenhum"
+
+[Peça](conteudo/posts/2026-10-19-imposto-pago-a-mais-nao-gera-aviso.md), estático 4:5, substitui o [Descomplica #04](conteudo/posts/2026-10-19-descomplica-experiencia-ja-e-contrato.md) (contrato de experiência, reprovado). Headline: **"Imposto atrasado, a empresa descobre pela multa. / Imposto pago a mais não gera aviso nenhum."** Mecanismo novo na conta: **contraste entre dois erros** (o que se anuncia × o silencioso). CTA na arte, de lead: *"Manda em `[canal a confirmar]` o ramo da sua empresa e, se souber, o regime (Simples, Lucro Presumido ou Real), que a gente diz o que precisa olhar."*
+
+**Por que esse ângulo:** mantém o motor da semana que deu lead (25/09: regime + manda o caso) sem repetir prazo nem reforma. Não depende de número: zero alíquota, prazo ou valor na peça.
+
+**Fonte primária conferida antes de escrever:** [Res. CGSN 194/2026, DOU de 28/09/2026](https://fenacon.org.br/wp-content/uploads/2026/09/Resolucao-CGSN-no-194-DE-25-DE-setembro-DE-2026-Resolucao-CGSN-no-194-DE-25-DE-setembro-DE-2026-DOU-Imprensa-Naciona.pdf). Ela derrubou a frase planejada "a troca de regime é no começo do ano": pra 2027, a opção pelo Simples foi de 01/09 a 15/10/2026. Ela também mostra que **a opção de IBS/CBS fora do Simples foi prorrogada até 30/10/2026** (o carrossel de 25/09 diz "até 30 de setembro") e que o cancelamento das duas opções corre de 03/11 a 20/12/2026. Nada disso entrou na peça ([OQ T](OPEN-QUESTIONS.md)).
+
+**Validação de copy (subagent) aplicada:** apoio da arte sem sujeito virou "A empresa pode pagar a mais quando…"; "fica sabendo logo" virou "vê na hora de pagar"; "dois jeitos" virou "por exemplo" (lista não é fechada); o CTA "a gente confere se a conta bate" prometia uma análise que regime e ramo não permitem e sugeria achado de pagamento a mais, e virou "a gente diz o que precisa olhar"; saiu o parágrafo "as escolhas pra 2027 estão sendo feitas agora" (data relativa, assunto de 25/09); Lucro Presumido descrito só pro imposto sobre o lucro; "não chega com aviso" virou "não gera aviso".
+
+**Travas:** 🔴 escritório confirma as afirmações gerais ([OQ S](OPEN-QUESTIONS.md)) · 🔴 se responde quem ainda não é cliente (OQ B/J) · `[canal a confirmar]` (OQ F/O) · 🟡 etiqueta de série ([OQ R](OPEN-QUESTIONS.md)) · identidade, CRC e posição sobre publicidade.
+
+---
+
 ## 2026-10-16 — Cliente define foco só tributário (feedback registrado)
 
 O cliente reprovou as peças que estavam na mesa ("não gostei de nenhuma dessas") e disse que a única semana com retorno foi a de **análise tributária / pagamento de impostos**. Nos outros temas não veio nenhuma pergunta (PH esclareceu: "pergunta" = mensagem de lead). Decisão dele: **por enquanto, a estratégia é só tributário.** Fala na íntegra em [referencias/2026-10-16-feedback-cliente-foco-so-tributario.md](referencias/2026-10-16-feedback-cliente-foco-so-tributario.md).

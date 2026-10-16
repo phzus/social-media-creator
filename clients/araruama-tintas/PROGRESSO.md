@@ -5,6 +5,18 @@ Log datado do trabalho feito pra Araruama Tintas. Topo = mais recente. Entrada p
 ---
 
 
+## 2026-10-16 — Post de segunda 19/10: "Reboco novo parece seco em poucos dias. Pra receber tinta, ele costuma pedir cerca de 28 dias de cura." (estático)
+
+[Peça](conteudo/posts/2026-10-19-reboco-novo-28-dias.md): educativo leve, fora da campanha de Halloween (sem preço, sem produto). Mecanismo **quebra de expectativa com número** (parece seco × cerca de 28 dias de cura). O CTA pede no WhatsApp a data do reboco e a tinta que a pessoa pensa em usar, porque algumas tintas têm orientação própria pra reboco novo. Responde à pergunta "o reboco é novo?" da vitrine de 16/10.
+
+**Descartados:** econômica × standard × premium (perto da Bruno de 16/10), parede descascando (dor de maresia da Bruno), quanto de tinta (frase queimada #4 da Bruno), lista de erros (ângulo esgotado da Bruno).
+
+**Validador:** 1 bloqueante (claim de 28 dias sem hedge na headline) e 4 importantes aplicados. Entre eles: CTA sem foto (repetia 16/10) e fora o "pronto" (eixo da Bruno em 14/09 e 28/09). Lote do dia conferido: Bruno (meia parede), Dijana e Império (reboco, sem cura), sem colisão.
+
+**Trava leve:** Wanderson confirma os 28 dias e se alguma linha da loja dispensa a cura ([OQ #15](OPEN-QUESTIONS.md)).
+
+---
+
 ## 2026-10-15 — Dia do Pintor (domingo 18/10): "Pinta aí que eu vejo como fica."
 
 Pedido de PH. [Peça](conteudo/posts/2026-10-18-dia-do-pintor-pinta-que-eu-vejo.md): estático 4:5 no modelo de data da conta, falando **com o pintor**, sobre o retrabalho de cor ("Você sabe o que vem depois: a mesma parede, pintada duas vezes."). A loja entra com a tese dela: manda a foto antes de abrir a lata. Data conferida (18/10 é data comemorativa, não feriado).

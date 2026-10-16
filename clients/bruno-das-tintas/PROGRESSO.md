@@ -1,5 +1,19 @@
 # Progresso — Bruno das Tintas
 
+## 2026-10-16 — Post de segunda 19/10: "A cadeira estraga um palmo da parede, e você repinta a parede inteira."
+
+[Peça](conteudo/posts/2026-10-19-meia-parede-repinta-so-embaixo.md): **estático único** 4:5 + versão 2:3 pro Pinterest, Pilar 1 (Cor resolvida), linha **Meia parede** do calendário do briefing (ainda não produzida). Mecanismo **custo escondido + atalho**: o estrago é um palmo, o conserto é a parede inteira, e a meia parede encolhe o retoque pra faixa de baixo. A arte entrega onde passa a linha (uma mão aberta acima da marca mais alta da cadeira, a lápis e com nível) e manda anotar o código da cor de baixo. CTA de compartilhar ("Compartilha com quem tá querendo pintar a sala de jantar."). Sem preço, sem WhatsApp, sem cor nomeada, sem afirmar que a loja vende fita.
+
+**Por que este tema:** a semana 19–23/10 não tinha linha definida. A semana 10 do briefing caiu inteira: cores do ano (leque não confirmado, nomes não conferidos), textura e grafiato (mix), calor × chuva (chuva é território da Araruama Tintas; calor já está no lote de 19/10 da Vet Regional), e "como guardar tinta" colidia com o mecanismo da WT Shopping no mesmo lote. **Proposta de linha da semana: meia parede** (quarta em vídeo sem fala, sexta de venda só com produto e preço do cliente).
+
+**Validação de copy (subagent): 1 bloqueante + 3 importantes, aplicados.** Arte e legenda davam ordens diferentes pra fita, e a ordem só valia com a cor clara em cima (fita sobre tinta só seca ao toque arranca a tinta). "Raspa" lia como tirar tinta. "A divisa segura o acabamento" usava a palavra-ângulo da Araruama de 02/10. CTA "Manda pra quem…" trocado por "Compartilha", porque "Manda" é o verbo dos CTAs da Araruama.
+
+**Isolamento:** a Araruama de 02/10 (encardiu, acabamento por cômodo, pano) parte da mesma parede marcada; esta peça não fala de acabamento, pano nem limpeza. A segunda da Araruama de 19/10 (reboco/28 dias) não colide.
+
+**Travas:** foto real de meia parede com cadeira (sem IA); PH confirma a linha da semana. O brief chegou ao designer com menos de 1 dia útil.
+
+---
+
 ## 2026-10-13 — Post de sexta 16/10: "Achou cara a tinta que o seu pintor pediu? É o nome dele que vai ficar na sua parede."
 
 Lote de sexta da carteira inteira. [Peça](conteudo/posts/2026-10-16-o-nome-dele-fica-na-parede.md): **estático único** (carrossel segue fora da conta), mecanismo **objeção respondida (pergunta + giro)**. **Ativa o Dia do Pintor** (dom 18/10, janela 15–17/10 do briefing; território de pintor estava reservado pra esta semana): a peça toma o lado do pintor na discussão do orçamento e vende a lata que ele pediu, **Coral Decora Seda acetinado branco 18L**. CTA único e presencial: "Mostra o orçamento do seu pintor no balcão da Amaral Peixoto ou de Iguaba." **Versão principal sem preço**; o R$ 846,00 à vista (arte de 24/08) é bloco opcional.
