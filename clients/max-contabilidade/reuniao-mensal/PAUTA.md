@@ -3,9 +3,18 @@
 > Documento vivo e **curado** — é o que PH abre minutos antes da reunião de alinhamento.
 > O log completo e técnico de pendências continua em [OPEN-QUESTIONS.md](../OPEN-QUESTIONS.md); aqui entra só o que vale ocupar o tempo da reunião.
 
-**Última atualização:** 2026-09-18 · **Próxima reunião:** ❓ a marcar · **Última reunião:** — (nenhuma registrada)
+**Última atualização:** 2026-10-16 · **Próxima reunião:** ❓ a marcar · **Última reunião:** — (nenhuma registrada)
 
 ---
+
+## 🎯 Decisão vigente do cliente (2026-10-16)
+
+**Por enquanto, só conteúdo tributário.** A semana de análise tributária / pagamento de impostos foi a única que trouxe pergunta e contato. Nos outros temas o retorno foi zero ([PADROES §0](../PADROES.md)). Isso responde em boa parte a pergunta 7 abaixo.
+
+**Levar pra reunião:**
+- Quais perguntas chegaram naquela semana? Viram pauta direto.
+- O que já foi publicado e com qual @? O nosso registro dizia que nada tinha saído.
+- O escritório topa validar rápido peça tributária? Prazo e regra de imposto mudam, e é o tema em que o gate CFC mais aperta.
 
 ## 1. 🔴 Perguntar nesta reunião
 

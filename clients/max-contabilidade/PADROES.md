@@ -6,6 +6,17 @@ Filtro final de toda peça, antes do cliente e antes de publicar. Roda junto com
 
 ---
 
+## 0. 🎯 Foco temático: SÓ TRIBUTÁRIO (decisão do cliente, 2026-10-16)
+
+O cliente reprovou as peças que estavam na mesa e disse que a única semana com retorno (pergunta e contato) foi a de **análise tributária e pagamento de impostos**. Em todos os outros temas o retorno foi zero. Decisão dele: **por enquanto, a estratégia é só tributário.** Fala na íntegra em [referencias/2026-10-16-feedback-cliente-foco-so-tributario.md](referencias/2026-10-16-feedback-cliente-foco-so-tributario.md).
+
+**Na prática:**
+- **Toda peça (segunda, quarta e sexta) fala de imposto**: quanto, como e quando a empresa paga, regime, enquadramento, planejamento tributário, reforma tributária (IBS/CBS, Simples), guia, parcelamento, imposto pago a mais.
+- **Fora até segunda ordem:** DP (folha, contratação, 13º, férias), abertura de empresa como assunto principal, pró-labore/retirada como assunto de sócio, CNPJ/cadastro, data comemorativa sem gancho tributário e bastidor. Se um desses temas entrar, entra **pelo lado do imposto** (ex.: abertura → "o regime que você escolhe na abertura define o imposto do ano").
+- **Os pilares do context.md ficam suspensos**, e o mix do playbook (venda, posicionamento, emocional etc.) varia dentro do tema tributário, não entre temas.
+- **O foco não suspende os gates.** §1 (sem promessa de economia, sem número de economia), §1.5 (nunca "sonegar") e §2 (prazo e regra só com o escritório confirmando) valem ainda mais, porque é justamente o terreno em que a promessa escapa.
+- **"Por enquanto"** quer dizer que vale até o cliente dizer outra coisa. Não reabrir outros temas por iniciativa da Lone; se parecer hora de variar, levar como pergunta pra reunião.
+
 ## 1. ⚠️ Gate de compliance CFC (BLOQUEANTE)
 
 Publicidade de serviço contábil é regulada pelo Conselho Federal de Contabilidade. Até o escritório confirmar como interpreta as regras (e quem é o responsável técnico com CRC — [OPEN-QUESTIONS.md](OPEN-QUESTIONS.md)), vale o critério conservador:
@@ -79,6 +90,7 @@ A data entra pelo **dono de empresa**, não pelo tema da data: uma cena ou memó
 
 ## Histórico
 
+- **2026-10-16 (v1.3)** — adicionado §0 (foco só tributário). **Decisão do cliente**, não proposta da Lone: a semana de análise tributária foi a única com retorno.
 - **2026-10-07 (v1.2)** — adicionado §8 (peça de data) a partir da peça de Dia das Crianças de 12/10. Proposta da Lone, a validar com PH.
 - **2026-09-18 (v1.0)** — criado no onboarding. Todas as regras são acréscimo da Lone: o briefing institucional não traz nenhuma restrição de compliance, e §1 e §2 são o critério conservador padrão pra profissão regulada até o cliente se pronunciar.
 - **2026-09-18 (v1.1)** — adicionado §1.5 após o cliente descrever o próprio serviço como "sonegar de forma legal" numa fala solta repassada por PH. Correção de vocabulário registrada como bloqueante — sonegação é crime, o termo correto é planejamento tributário/elisão fiscal.

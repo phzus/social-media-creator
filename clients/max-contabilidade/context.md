@@ -48,7 +48,13 @@ Confirmar com o cliente (ver [OPEN-QUESTIONS.md](OPEN-QUESTIONS.md)). Hipótese 
 - "Desde 1996" como assunto do post. Vira credencial de rodapé, não pauta ([[feedback-humanizar-cliente-no-centro]]).
 - Emoji de dinheiro, martelinho de juiz, gráfico subindo — estética de perfil de "dicas financeiras" genérico.
 
-## Pilares de conteúdo (proposta v1 — validar com PH/cliente)
+## 🎯 Foco atual: SÓ TRIBUTÁRIO (decisão do cliente, 2026-10-16)
+
+O cliente reprovou as peças que estavam na mesa e disse que a única semana com retorno foi a de **análise tributária / pagamento de impostos** (provavelmente a da reforma, 25/09). Nos outros temas não veio nenhuma pergunta. **Por enquanto, toda a pauta é imposto.** Os pilares abaixo ficam suspensos até ele dizer outra coisa. Regra operacional em [PADROES §0](PADROES.md); fala na íntegra em [referencias/2026-10-16-feedback-cliente-foco-so-tributario.md](referencias/2026-10-16-feedback-cliente-foco-so-tributario.md).
+
+**Métrica que o cliente usa:** pergunta e contato. Curtida não conta.
+
+## Pilares de conteúdo (proposta v1, ⏸️ SUSPENSA desde 2026-10-16, ver foco acima)
 
 | Pilar | Peso | O que é |
 |---|---|---|
@@ -83,5 +89,7 @@ A confirmar — ver [OPEN-QUESTIONS.md](OPEN-QUESTIONS.md).
 ---
 
 ## Histórico
+
+- **v1.1 (2026-10-16)** — cliente define foco só tributário (única semana com retorno). Pilares v1 suspensos.
 
 - **v1.0 (2026-09-18)** — criado no onboarding a partir do Briefing Institucional repassado por PH. Público, pilares e direção de arte são proposta da Lone, não vieram do briefing.

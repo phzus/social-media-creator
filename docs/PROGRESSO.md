@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-16 — Max Contabilidade: cliente define foco só tributário
+
+O cliente reprovou as peças em aberto e pediu que a pauta seja, por enquanto, só tributária, porque a semana de análise tributária / pagamento de impostos foi a única que trouxe retorno. Regra em [PADROES §0](../clients/max-contabilidade/PADROES.md), pilares v1 suspensos, peças de 16/10 e 19/10 marcadas como provavelmente reprovadas. [Log do cliente](../clients/max-contabilidade/PROGRESSO.md).
+
+---
+
 ## 2026-10-15 (6) — Araruama Tintas: Dia do Pintor (domingo 18/10)
 
 [Peça](../clients/araruama-tintas/conteudo/posts/2026-10-18-dia-do-pintor-pinta-que-eu-vejo.md) a pedido de PH, isolada da peça de Dia do Pintor da Bruno das Tintas (outro leitor, outro assunto, sem produto). O validador pegou 3 colisões de texto com a Bruno, e foram corrigidas.

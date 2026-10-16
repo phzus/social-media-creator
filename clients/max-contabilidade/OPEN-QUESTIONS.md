@@ -7,7 +7,24 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🔴 Novas (2026-10-16) — feedback do cliente: foco só tributário
+
+Contexto: [referencias/2026-10-16-feedback-cliente-foco-so-tributario.md](referencias/2026-10-16-feedback-cliente-foco-so-tributario.md) · regra em [PADROES §0](PADROES.md).
+
+**M. Quais peças o cliente reprovou com "nenhuma dessas"?** Hipótese: 16/10 (abertura) e 19/10 (Descomplica #04, DP). Se forem outras, corrigir o status delas. — *define o que reescrever.*
+
+**N. Qual semana foi a do retorno?** Hipótese: a da reforma tributária (carrossel de 25/09, Simples × IBS/CBS). Saber qual peça puxou pergunta mostra qual ângulo repetir (prazo com urgência real? escolha de regime?). — *calibra a pauta.*
+
+**O. O que já foi ao ar?** A fala implica que peças foram publicadas, e o PROGRESSO registrava todas como travadas (sem @, canal e validação do escritório). Confirmar com PH o @, o que saiu e quem validou. — *corrige o registro e pode destravar F (canal do CTA).*
+
+**P. Que perguntas chegaram na semana boa?** As dúvidas reais que o público mandou são a melhor pauta tributária possível. — *não trava.*
+
+**Q. Até quando vale o "por enquanto"?** Por padrão vale até o cliente dizer outra coisa; levar pra reunião se o tema começar a se repetir. — *não trava.*
+
 ## 🔴 Novas (2026-10-14) — post de segunda 19/10 (contrato de experiência)
+
+> ⏸️ **2026-10-16:** peça provavelmente reprovada pelo cliente (fora do foco tributário, ver M). K só volta se ele pedir DP de novo.
+
 
 **K. O escritório confirma as regras afirmadas na [peça de 19/10](conteudo/posts/2026-10-19-descomplica-experiencia-ja-e-contrato.md)?** (a) contrato de experiência é contrato de trabalho com prazo pra terminar, e a data de admissão na carteira é o primeiro dia trabalhado; (b) dias trabalhados sem carteira, se o vínculo for reconhecido na Justiça do Trabalho, podem ser cobrados da empresa. A peça não cita duração da experiência, prazo de anotação nem prazo de informar a admissão. — *trava a publicação.* Junto: se o escritório quiser afirmar que a admissão é informada **antes** do primeiro dia, o fechamento da arte pode endurecer (hoje é só "vale conferir antes").
 

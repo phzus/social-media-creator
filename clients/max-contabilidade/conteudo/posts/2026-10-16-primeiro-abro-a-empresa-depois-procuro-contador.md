@@ -1,5 +1,7 @@
 # Post — "Primeiro eu abro a empresa, depois procuro um contador." (abertura de empresa)
 
+> ⏸️ **2026-10-16 — provavelmente REPROVADA pelo cliente** ("não gostei de nenhuma dessas"; foco passou a ser só tributário, [PADROES §0](../../PADROES.md)). Não produzir nem enviar ao designer. Confirmar em [OQ M](../../OPEN-QUESTIONS.md).
+
 **Cliente:** max-contabilidade · **Data:** 2026-10-16 (sexta — venda/carrossel, playbook Lone) · **Plataforma:** Instagram (❓ @ não informado — [OPEN-QUESTIONS](../../OPEN-QUESTIONS.md)) · **Formato:** Carrossel (4 slides) · **Pilar:** Serviço e captação (20%)
 **Mecanismo:** objeção respondida — a capa é a frase que quem vai abrir empresa diz, e os slides seguintes mostram por que a ordem custa caro.
 

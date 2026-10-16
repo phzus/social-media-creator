@@ -4,6 +4,18 @@ Log datado do trabalho feito pra Max Contabilidade. Topo = mais recente. Entrada
 
 ---
 
+## 2026-10-16 — Cliente define foco só tributário (feedback registrado)
+
+O cliente reprovou as peças que estavam na mesa ("não gostei de nenhuma dessas") e disse que a única semana com retorno foi a de **análise tributária / pagamento de impostos**. Nos outros temas não veio nenhuma pergunta. Decisão dele: **por enquanto, a estratégia é só tributário.** Fala na íntegra em [referencias/2026-10-16-feedback-cliente-foco-so-tributario.md](referencias/2026-10-16-feedback-cliente-foco-so-tributario.md).
+
+**Propagado:** [PADROES §0](PADROES.md) (regra operacional: o que entra, o que sai, os gates continuam) · [context.md](context.md) (pilares v1 suspensos) · [OPEN-QUESTIONS M–Q](OPEN-QUESTIONS.md) · [PAUTA](reuniao-mensal/PAUTA.md) · peças de 16/10 e 19/10 marcadas como provavelmente reprovadas · memória persistente.
+
+**O que muda pra frente:** segunda, quarta e sexta falam de imposto. A variedade vem do ângulo (prazo, regime, imposto pago a mais, reforma, guia), não do tema. A semana boa foi quase certamente a da reforma (25/09), e é o ângulo com mais lastro.
+
+**Inconsistência a resolver:** a fala implica que peças já foram ao ar, e este log registrava todas como travadas ([OQ O](OPEN-QUESTIONS.md)).
+
+---
+
 ## 2026-10-14 — Post de segunda 19/10: Descomplica #04, o contrato de experiência
 
 [Peça](conteudo/posts/2026-10-19-descomplica-experiencia-ja-e-contrato.md), estático 4:5, no slot de segunda que tinha ficado reservado pro #04 desde a peça de Dia das Crianças. Headline: **"Começou na segunda, e a carteira ficou pra depois da experiência. / Mas a experiência já é contrato de trabalho."**
