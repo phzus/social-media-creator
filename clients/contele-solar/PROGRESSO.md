@@ -4,6 +4,16 @@ Log datado do trabalho feito pra Contele. Topo = mais recente. Entrada por bloco
 
 ---
 
+## 2026-10-16 — Segunda 19/10 refeita: "Quanto dura cada EcoFlow?" (modelos lado a lado)
+
+PH reprovou a v1, que ensinava a fazer a conta sem dar número: *"vamos falar sobre quanto cada ecoflow dura em média e a gente faz uma arte deles lado à lado"*. [Peça nova](conteudo/posts/2026-10-19-quanto-dura-cada-ecoflow.md): estático com RIVER 3, RIVER 3 Max, DELTA 3 e DELTA Pro lado a lado e o tempo de cada um com a mesma carga de referência de 100 W (Wh × 0,85 ÷ 100): cerca de 2 h, quase 5 h, mais de 8 h e mais de um dia inteiro. A premissa vai escrita na arte, e é isso que impede o número de virar promessa.
+
+**Conferido:** DELTA 3 (1 kWh, 1.800 W) e DELTA Pro (3,6 kWh, 3.600 W) no site EcoFlow BR; RIVER 3 (245 Wh) na página do produto já registrada; RIVER 3 Max (572 Wh) só em revendas internacionais, porque não está no catálogo BR ([OQ #27](OPEN-QUESTIONS.md)).
+
+**Travas:** fotos só do kit oficial EcoFlow (sem ele, colunas tipográficas) · RIVER 3 Max a confirmar · OK do Vinicius pros tempos.
+
+---
+
 ## 2026-10-14 — Post de segunda 19/10: "Quanto tempo uma EcoFlow aguenta?"
 
 PH: *"contele (ecoflow)"*. [Estático](conteudo/posts/2026-10-19-quanto-tempo-a-ecoflow-aguenta.md) no Pilar 1, layout assimétrico com bloco de dado em mono (`W` e `Wh`). O mecanismo é pergunta + giro na arte, com a conta passo a passo na legenda.

@@ -127,3 +127,5 @@ Ver detalhe completo em [reuniao-mensal/resumos/2026-09-08-resumo-reuniao.md](re
 24. **Números de venda da Contele** (maio ~6, junho ~5, agosto ~11, queda de ~15% no mercado) foram citados de memória em reunião — **confirmar com relatório comercial antes de usar em qualquer peça ou argumento**.
 25. **CRM próprio da Lone** — previsão de liberação em ~7 dias (a partir de 08/09/2026), gratuito pros clientes. Não é conteúdo de peça, mas muda o fluxo de atendimento/funil da Contele — acompanhar se afeta o CTA ou a forma de medir resultado do social media.
 26. **"Mateus"** — comercial citado, a verificar se o EcoFlow entra na esteira de produtos dele. **"Cris"** — vai regravar o conteúdo das placas de estoque; confirmar papel dela na operação. Nenhum dos dois é candidato automático a citação em peça sem autorização.
+
+27. 🟡 **(2026-10-16) A Contele vende o RIVER 3 Max?** Ele está na [peça de 19/10](conteudo/posts/2026-10-19-quanto-dura-cada-ecoflow.md) (572 Wh), mas não aparece no catálogo do site EcoFlow BR. Se não vender, a arte sai com três colunas. Junto: fotos oficiais dos modelos (kit EcoFlow, pendente desde 31/08) e OK do Vinicius pros tempos estimados.

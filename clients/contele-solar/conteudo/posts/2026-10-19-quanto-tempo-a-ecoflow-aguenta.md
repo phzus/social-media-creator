@@ -1,5 +1,7 @@
 # Post de feed — "Quanto tempo uma EcoFlow aguenta?" (a conta que responde em casa)
 
+> ⛔ **2026-10-16 — REPROVADA por PH** (*"o educativo da contele eu não gostei"*). Substituída por [quanto dura cada EcoFlow](2026-10-19-quanto-dura-cada-ecoflow.md). Não enviar ao designer.
+
 **Cliente:** contele-solar · **Data:** 2026-10-19 (segunda) · **Plataforma:** Instagram (feed 1080×1080) · **Pilar:** 1 — Educativo ([PADROES §4](../../PADROES.md)) · **Formato:** Estático
 **Mecanismo (conferência de lote):** pergunta + giro na arte, conta passo a passo na legenda. O leitor sai sabendo ler a ficha de qualquer estação.
 **Funil:** MOFU — responde a objeção central do produto e leva pra conversa no direct, sem preço.

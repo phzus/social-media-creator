@@ -4,9 +4,9 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
-## 2026-10-16 (3) — Lote de segunda 19/10 (9 clientes + Max refeita)
+## 2026-10-16 (3) — Lote de segunda 19/10 (9 clientes + Max refeita + Contele refeita)
 
-Peças novas: Araruama Tintas (reboco novo, 28 dias de cura) · Bazar Ribeiro (o nome começa com Bazar: utilidades de casa) · Bruno das Tintas (meia parede) · Casas Rio Bahia (vaso 100 mm, pia 40 mm; série 03) · Celmapel (bombom manchado, tipo de chocolate) · Dijana (glossário do canteiro) · Império (telhado: confere no dia de sol) · Lagos Padrão (o padrão é do dono, não da Enel) · Maicom (piso claro ou escuro perto da praia) · **Max refeita no foco tributário** (imposto pago a mais não gera aviso). Atlas, BodySkin, CIIL, Contele, MR, Veneza, Vet Regional e WT já tinham segunda pronta.
+Peças novas: Araruama Tintas (reboco novo, 28 dias de cura) · Bazar Ribeiro (o nome começa com Bazar: utilidades de casa) · Bruno das Tintas (meia parede) · Casas Rio Bahia (vaso 100 mm, pia 40 mm; série 03) · Celmapel (bombom manchado, tipo de chocolate) · Dijana (glossário do canteiro) · Império (telhado: confere no dia de sol) · Lagos Padrão (o padrão é do dono, não da Enel) · Maicom (piso claro ou escuro perto da praia) · **Max refeita no foco tributário** (imposto pago a mais não gera aviso). Atlas, BodySkin, CIIL, MR, Veneza, Vet Regional e WT já tinham segunda pronta. **Contele refeita** a pedido de PH: em vez de ensinar a conta, os modelos EcoFlow lado a lado com o tempo de cada um numa carga de 100 W ([peça](../clients/contele-solar/conteudo/posts/2026-10-19-quanto-dura-cada-ecoflow.md)).
 
 Cada peça passou pelo validador-copy. Na tabela do lote, a Celmapel colidia com a WT no giro "não é culpa da marca", e a linha 2 da Celmapel foi trocada. Achado lateral na Max: a opção de IBS/CBS por fora do Simples foi **prorrogada até 30/10/2026** (Resolução CGSN 194/2026), então o carrossel de 25/09 ficou com data vencida.
 
