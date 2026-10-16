@@ -4,6 +4,17 @@ Log datado do trabalho feito pro Império. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-10-16 — Post de segunda 19/10: "Ninguém lembra do telhado até a primeira goteira."
+
+[Peça](conteudo/posts/2026-10-19-telhado-confere-no-dia-de-sol.md): estático 4:5, pilar educativo. Headline: *"NINGUÉM LEMBRA DO TELHADO ATÉ A PRIMEIRA GOTEIRA. / MAS É NUM DIA DE SOL QUE DÁ PRA CONSERTAR."* Mecanismo **inversão de momento** (o problema se mostra na chuva, a hora de resolver é no seco). Legenda com 4 pontos pra conferir (telha, calha/ralo, laje, encontro telhado-parede) + aviso de segurança. CTA: foto no WhatsApp (22) 99743-3328. Primeira peça da conta sobre telhado e calha.
+
+- **Tema trocado na validação:** a 1ª versão (areia fina, média e grossa) repetia o esqueleto "pedido genérico no balcão → qual vai em qual serviço" da Casas Rio Bahia (canos) e encostava no glossário chapisco/traço da Dijana, no mesmo lote de 19/10. Descartada.
+- **Validação (validador-copy) da versão telhado: 2 bloqueantes e 4 importantes aplicados** — linha 2 da headline sem direção virou "dia de sol", CTA da arte amarrado à conferência, conselho de segurança convidava leigo a trocar telha (reescrito: queda, equipamento, "na dúvida não suba"), claridade e laje condicionadas, fecho sem prometer estoque, abertura diferente da de 05/10.
+- **Lote:** o Lagos Padrão pede foto no WhatsApp no mesmo dia (outra praça); alternativa de CTA na peça.
+- **Travas:** estoque de telha/calha/impermeabilizante não confirmado ([OQ #20](OPEN-QUESTIONS.md), copy não nomeia produto) · foto real de telhado/calha · prazo: arte só sai segunda de manhã (1 dia útil), PH decide publicar segunda à tarde ou terça 20/10.
+
+---
+
 ## 2026-10-14 — Arte de localização da unidade Linha Azul: "Tá com obra na Linha Azul? Então conhece a unidade da Império."
 
 PH pediu "arte sobre a unidade de Linha Azul, localização com nova arte". [Peça](conteudo/posts/2026-10-14-unidade-linha-azul-localizacao.md): estático institucional, composição diferente da arte "Onde estamos?" de 31/07 (fachada em tela cheia + cartão de endereço único), sem horário, sem WhatsApp, sem mascote. CTA: salvar o endereço.

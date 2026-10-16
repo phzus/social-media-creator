@@ -34,3 +34,7 @@ Achado ao montar a [peça de sexta 16/10](conteudo/posts/2026-10-16-lona-na-jane
 17. 🟡 **WhatsApp:** todas as artes de oferta de agosto usam **(22) 99743-3328** no rodapé ("Nosso Atendimento"), o mesmo da bio. Reforça o 99743 como oficial (#1); o 99932-7201 não aparece em nenhuma arte.
 18. 🟡 **Tabela de preços de agosto** (05/08 a 24/08): porta lisa R$ 140,00 · janela 1x1 R$ 300,00 · caixa d'água Fortlev 1000 L R$ 450,00 · piso Calacata Bianco 60x60 R$ 35,99 · piso Fama Cimento Outside Relevo 60x60 R$ 35,99 (unidade não informada), todos "retirando em loja". Seguem valendo? Medida da porta lisa? (#9)
 19. 🟢 **Quem produziu essas artes e quais foram ao ar?** Não há registro no PROGRESSO. Se são da Lone, o molde (fundo vermelho + card amarelo + rodapé em pílula) já é o padrão visual de oferta da conta e responde parte do #4.
+
+## 2026-10-16 — Peça de segunda 19/10 (telhado)
+
+20. 🟢 **A Império trabalha com telha, calha e material de impermeabilização?** O context diz só "linha completa do alicerce ao acabamento". A [peça de 19/10](conteudo/posts/2026-10-19-telhado-confere-no-dia-de-sol.md) não nomeia produto e o CTA não promete estoque; confirmando, rende desdobramento com os itens. Mesma lacuna vale pra areia (fina/média/grossa), tema descartado nesta peça.
