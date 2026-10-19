@@ -8,7 +8,7 @@
 **Mecanismo (conferência de lote):** a hora da contratação. O valor sai de quem você é no dia em que assina, e a idade só anda pra frente, então esperar costuma custar. A urgência vem do tempo da pessoa, não de promoção. Forma: **pergunta + giro** (16/10 foi "fato + giro"; a 19/10 v2 virou "cena + pergunta", ordem espelhada desta).
 **Status:** ✅ **sobe hoje (19/10) no fallback**, porque o corretor não respondeu. A frase do problema de saúde já existente saiu da legenda (item 3 do Gate). A arte não mudou: ela depende só da idade no cálculo, que vale pra quase todo o mercado e vai com condicional.
 
-> **Fecha a semana de Planejamento familiar** do [trimestral §6](../../estrategia/2026-09-a-11-trimestral.md) (19-23/10). A linha temática é semanal ([PADROES §10](../../PADROES.md)): segunda 19/10 abriu com o afastamento por saúde ([marcou a cirurgia, e o dinheiro?](2026-10-19-planejou-a-cirurgia-e-o-dinheiro.md)), quarta 21/10 é o vídeo de invalidez e doenças graves, e a sexta vende o mesmo serviço.
+> **Abre a semana de Planejamento familiar** do [trimestral §6](../../estrategia/2026-09-a-11-trimestral.md) (19-23/10), na segunda 19/10. Ela foi escrita pra fechar a semana, mas a peça de segunda (afastamento por saúde) foi excluída por PH e esta subiu no lugar. Quarta 21/10 é o vídeo de invalidez e doenças graves, e a sexta 23/10 está em aberto.
 >
 > **Funil:** BOFU. Quem já sabe que precisa e vai adiando ("faço depois, quando a vida acalmar"). A peça não explica o produto, ela tira o "depois" do lugar confortável.
 
