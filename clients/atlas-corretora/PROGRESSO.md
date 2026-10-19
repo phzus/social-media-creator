@@ -4,6 +4,12 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ---
 
+## 2026-10-19 (2) — Segunda 19/10 refeita: "Você marcou a cirurgia e organizou os dois meses de repouso. E o dinheiro desses dois meses?"
+
+PH não gostou da v1 (atestado e boletos): *"Nada de leia a legenda, porque a gente já usou bastante semana passada."* [v2](conteudo/posts/2026-10-19-planejou-a-cirurgia-e-o-dinheiro.md): a arte se explica sozinha (cena + giro, apoio com autônomo e CLT, kicker SEGUROS · PLANEJAMENTO FAMILIAR) e leva o CTA de salvar na própria faixa. O validador-copy achou 2 bloqueantes e 4 importantes, todos aplicados. A ponte da legenda virou "perguntar **se** a apólice prevê alguma coisa" (sem pressupor cobertura, porque o corretor não respondeu). Regra registrada no [voice-quality-checklist §3.4](../../shared/voice-quality-checklist.md).
+
+---
+
 ## 2026-10-19 — Post de sexta 23/10: "Fazer o seu planejamento familiar daqui a um ano custa o mesmo que hoje?"
 
 [Estático 4:5](conteudo/posts/2026-10-23-daqui-a-um-ano-custa-o-mesmo.md). Fecha a semana de **Planejamento familiar** do [trimestral §6](estrategia/2026-09-a-11-trimestral.md) (19-23/10), mesmo serviço da segunda, por causa da linha temática semanal ([PADROES §10](PADROES.md)). Linha 2 da arte: *"A seguradora vai perguntar a sua idade. Daqui a um ano, a resposta é outra."*
@@ -20,7 +26,7 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ## 2026-10-14 — Post de segunda 19/10: "O atestado diz 60 dias de repouso. Ninguém mandou atestado pros boletos."
 
-[Estático 4:5](conteudo/posts/2026-10-19-atestado-de-repouso-e-os-boletos.md). Abre a semana de **Planejamento familiar** do [trimestral §6](estrategia/2026-09-a-11-trimestral.md) (19-23/10). O trimestral previa: estático, "As contas da casa não pausam junto com você", afastamento por saúde, Outubro Rosa pela renda.
+[Estático 4:5](conteudo/posts/2026-10-19-planejou-a-cirurgia-e-o-dinheiro.md). Abre a semana de **Planejamento familiar** do [trimestral §6](estrategia/2026-09-a-11-trimestral.md) (19-23/10). O trimestral previa: estático, "As contas da casa não pausam junto com você", afastamento por saúde, Outubro Rosa pela renda.
 
 **Mecanismo trocado:** "as contas continuam chegando" já estava em 24/08 e 14/09, e "o aluguel não fechou junto" é o título do vídeo de 30/09 que nunca saiu. A peça usa a **tesoura**: a pessoa está em casa se recuperando, a renda pode cair e o gasto sobe no mesmo mês (remédio, exame, transporte, ajuda em casa). CTA "salva esse post" (05/10 salva · 09/10 comenta · 16/10 direct).
 

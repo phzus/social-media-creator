@@ -212,6 +212,8 @@ Uma única ação por peça. Para Lone:
 - B2B/construção: "Peça seu orçamento"
 - Para Reels do IG: pode somar save-bait/share-bait neutro (sem julgamento — ver § 1.4).
 
+- **Estático leva o CTA na própria arte (PH, 2026-10-19).** Nada de arte que só funciona se a pessoa ler a legenda ("leia a legenda", seta pra baixo, CTA só na legenda, explicação toda na legenda). A arte fecha a ideia sozinha e diz o que fazer; a legenda aprofunda. Caso: Atlas 19/10 v1, reprovada porque o recurso já tinha sido muito usado na semana anterior.
+
 ### 3.5. Cliente específico tem regras próprias
 Verificar `clients/<slug>/context.md` antes — pode ter anti-padrões específicos. Ex.: Arte em Manipulação não cita tempo de atendimento.
 

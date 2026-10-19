@@ -5,10 +5,10 @@
 **Plataforma:** Instagram (@__atlas.corretora — dois underscores)
 **Pilar:** P4 — Oferta (simulação), com função de venda da semana (segunda apresenta · quarta explica · sexta vende)
 **Formato:** **Estático, arte única 4:5** (cartaz tipográfico). Sem carrossel ([PADROES §4](../../PADROES.md), PH 13/10).
-**Mecanismo (conferência de lote):** a hora da contratação. O valor sai de quem você é no dia em que assina, e a idade só anda pra frente, então esperar costuma custar. A urgência vem do tempo da pessoa, não de promoção. Forma: **pergunta + giro** (16/10 e 19/10 foram "fato + giro").
+**Mecanismo (conferência de lote):** a hora da contratação. O valor sai de quem você é no dia em que assina, e a idade só anda pra frente, então esperar costuma custar. A urgência vem do tempo da pessoa, não de promoção. Forma: **pergunta + giro** (16/10 foi "fato + giro"; a 19/10 v2 virou "cena + pergunta", ordem espelhada desta).
 **Status:** 🟡 **gate do corretor** (ver Gate). A arte depende só da idade no cálculo, que vale pra quase todo o mercado; a frase de saúde fica só na legenda, com fallback.
 
-> **Fecha a semana de Planejamento familiar** do [trimestral §6](../../estrategia/2026-09-a-11-trimestral.md) (19-23/10). A linha temática é semanal ([PADROES §10](../../PADROES.md)): segunda 19/10 abriu com o afastamento por saúde ([atestado e boletos](2026-10-19-atestado-de-repouso-e-os-boletos.md)), quarta 21/10 é o vídeo de invalidez e doenças graves, e a sexta vende o mesmo serviço.
+> **Fecha a semana de Planejamento familiar** do [trimestral §6](../../estrategia/2026-09-a-11-trimestral.md) (19-23/10). A linha temática é semanal ([PADROES §10](../../PADROES.md)): segunda 19/10 abriu com o afastamento por saúde ([marcou a cirurgia, e o dinheiro?](2026-10-19-planejou-a-cirurgia-e-o-dinheiro.md)), quarta 21/10 é o vídeo de invalidez e doenças graves, e a sexta vende o mesmo serviço.
 >
 > **Funil:** BOFU. Quem já sabe que precisa e vai adiando ("faço depois, quando a vida acalmar"). A peça não explica o produto, ela tira o "depois" do lugar confortável.
 

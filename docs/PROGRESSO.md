@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-19 (3) — Atlas: segunda 19/10 refeita + regra "nada de leia a legenda"
+
+PH reprovou a v1 do atestado porque a arte dependia da legenda, recurso muito usado na semana passada. A [v2](../clients/atlas-corretora/conteudo/posts/2026-10-19-planejou-a-cirurgia-e-o-dinheiro.md) foi validada e tem a arte com CTA próprio. Regra nova no [voice-quality-checklist §3.4](../shared/voice-quality-checklist.md): estático leva o CTA na arte.
+
+---
+
 ## 2026-10-19 (2) — BodySkin: anúncio do Outubro OFF masculino (16x R$ 132)
 
 [Anúncio](../clients/bodyskin-araruama/conteudo/anuncios/2026-10-19-outubro-off-masculino-5-areas.md) feito a partir da arte da cliente, com a mesma estrutura de oferta, sem os 8 selos e com headline nova. Validado. A oferta nova muda a sexta 23/10 da BodySkin, que foi escrita em cima de "3 sessões grátis" (condição que não veio). Também na CIIL: o selo da Retocolite de 19/10 foi corrigido pra 06 de 10.
