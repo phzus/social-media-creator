@@ -4,6 +4,12 @@ Log datado do trabalho feito pro Bazar Ribeiro. Topo = mais recente. Entrada por
 
 ---
 
+## 2026-10-19 — Tabela de preços (curva ABC de 30 dias) guardada
+
+PH mandou o relatório de curva ABC do sistema da loja (19/09 a 19/10, 1.431 produtos) pra consulta rápida de preço. Transcrito em [referencias/2026-10-19-precos-produtos-curva-abc.csv](referencias/2026-10-19-precos-produtos-curva-abc.csv), com o preço médio unitário (vendido ÷ qtde) e a soma conferida com o total do relatório. Notas de leitura no [.md ao lado](referencias/2026-10-19-precos-produtos-curva-abc.md).
+
+---
+
 ## 2026-10-16 — Post de segunda 19/10: "Veio pela fita isolante e saiu com o mop e a sapateira. / Faz sentido: o nome da loja começa com Bazar."
 
 [Peça](conteudo/posts/2026-10-19-o-nome-comeca-com-bazar.md): estático na base da casa (uma das 2 peças de base da semana, [PADROES §8](PADROES.md)), **os dois perfis**, mesma arte. Pilar posicionamento leve; abre a semana de **utilidades de casa** (mop, sapateira, tapete, TV box), categoria que a conta nunca teve.
