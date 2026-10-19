@@ -1,8 +1,8 @@
-# Post — Isso Tem Nome · 07 de 10: Retocolite Ulcerativa
+# Post — Isso Tem Nome · 06 de 10: Retocolite Ulcerativa
 
 **Cliente:** ciil · **Data:** segunda, 19/10/2026 · **Plataforma:** Instagram + Facebook (idêntico nas 2 unidades, só muda o rodapé)
 **Formato:** estático único (4:5) · **Pilar:** Educativo · **Funil:** TOFU / Problem-Aware
-**Série:** [Isso Tem Nome](../../estrategia/linha-editorial-isso-tem-nome.md) — **peça 07 da temporada de 10** (ver pendência 🔴 sobre a numeração antes de mandar ao designer)
+**Série:** [Isso Tem Nome](../../estrategia/linha-editorial-isso-tem-nome.md) — **peça 06 da temporada de 10** (selo decidido em 15/10: a 06 de Espondilite nunca foi ao ar)
 **Calendário:** [linha editorial v2.1](../../estrategia/linha-editorial-isso-tem-nome.md) — slot 07, segunda 19/10, Retocolite Ulcerativa (🆕 doença nunca tratada na conta)
 
 > **Primeira doença intestinal da temporada.** As seis entradas até aqui foram de pele ou de articulação. A Retocolite abre o território do intestino, que o calendário reservou pra alternar a área do corpo e a conta nunca publicou (o Reel de Crohn de 08/07 não foi ao ar).
@@ -26,7 +26,7 @@
 **Objetivo:** quem planeja a rotina em volta do banheiro há anos parar o scroll, se reconhecer na headline e ler o nome da doença.
 
 **Layout (feed 4:5, menos de 60% de texto):**
-- **Selo de série (bloco 1), topo, idêntico às outras:** `ISSO TEM NOME · 07 de 10`. Mesma posição, cor e tipografia. ⚠️ A peça 03 saiu com `#03` em vez de `03 de 10` no arquivo; conferir qual das duas grafias está nas artes publicadas e **manter a que estiver no ar**, igual em todas.
+- **Selo de série (bloco 1), topo, idêntico às outras:** `ISSO TEM NOME · 06 de 10`. Mesma posição, cor e tipografia. ⚠️ A peça 03 saiu com `#03` em vez de `03 de 10` no arquivo; conferir qual das duas grafias está nas artes publicadas e **manter a que estiver no ar**, igual em todas.
 - **Imagem:** vida seguindo, fora de casa. Pessoa adulta saindo pela porta com a chave na mão, ou sentada tranquila numa mesa de restaurante/café, luz natural. Stock real ou foto autoral, **nunca IA fotorrealista**.
 - 🚫 **Proibido:** vaso sanitário, porta de banheiro, placa de WC, papel higiênico, mão na barriga com careta, pessoa curvada de dor, ilustração de intestino/cólon, ícone de órgão, exame de colonoscopia. Tema já é constrangedor pro público; a imagem não pode expor (regra de esperança primeiro, [PADROES](../../PADROES.md) 24/08). Também 🚫 médico de jaleco em consultório (lido pelo cliente como "aqui tem imunologista", 21/08) e 🚫 poltrona de infusão/bolsa de soro (via não confirmada pra esta doença, 26/08).
 - **Gancho (bloco 2):** duas linhas sobre faixa de leitura, terço inferior, mesma posição das peças anteriores. A segunda linha é o giro; dar peso a ela.
@@ -42,7 +42,7 @@
 
 ## Copy da arte
 
-**Bloco 1 — selo:** ISSO TEM NOME · 07 de 10
+**Bloco 1 — selo:** ISSO TEM NOME · 06 de 10
 
 **Bloco 2 — gancho (duas linhas):**
 > **Viagem, fila, reunião: você só relaxa depois de saber onde fica o banheiro.**
@@ -72,7 +72,7 @@ Dá pra controlar. Com acompanhamento e a medicação certa pra cada caso, as cr
 
 Se você já tem o diagnóstico ou reconheceu esses sinais, fala com a nossa equipe no WhatsApp: a gente te orienta e explica como funciona o tratamento por aqui.
 
-Esta é a sétima de dez. **Toda segunda, uma doença que tem tratamento na CIIL.**
+Esta é a sexta de dez. **Toda segunda, uma doença que tem tratamento na CIIL.**
 
 📍 Araruama · São Gonçalo
 
@@ -133,7 +133,7 @@ Esta é a sétima de dez. **Toda segunda, uma doença que tem tratamento na CIIL
 ## Pendências pro PH
 
 1. 🔴 **OK do RT** — itens acima. Oitava peça clínica na fila.
-2. 🔴 **Numeração do selo: 07 ou 06?** A peça 06 (Espondilite, segunda 12/10) **não existe no repositório** e a segunda foi ocupada pelo Dia das Crianças. Se a 06 não foi ao ar, publicar esta como `07 de 10` deixa um buraco visível na série que nasceu pra parecer série. **Recomendação:** se a 06 não saiu, esta vira `06 de 10` ("a sexta de dez" na legenda) e a numeração das seguintes desce uma casa. A Espondilite já teve a peça de venda de 16/10 e pode entrar na rodada 2. Decidir antes do brief ao designer.
+2. ✅ ~~**Numeração do selo: 07 ou 06?**~~ Resolvido: 06 (19/10). A peça 06 (Espondilite, segunda 12/10) **não existe no repositório** e a segunda foi ocupada pelo Dia das Crianças. Se a 06 não foi ao ar, publicar esta como `07 de 10` deixa um buraco visível na série que nasceu pra parecer série. **Recomendação:** se a 06 não saiu, esta vira `06 de 10` ("a sexta de dez" na legenda) e a numeração das seguintes desce uma casa. A Espondilite já teve a peça de venda de 16/10 e pode entrar na rodada 2. Decidir antes do brief ao designer.
 3. 🔴 **PAUTA #5 precisa de resposta antes de liberar, mesmo com OK do RT.** Sem gastro na casa, "quando há indicação" depende de quem indica. Se a CIIL **só recebe paciente já encaminhado**, o leitor com sangue nas fezes e sem diagnóstico não pode ficar só com "fala com a gente": o CTA teria que orientar a procurar um médico, o que quebra o CTA único de 14/09 e precisa de decisão de PH.
 4. 🟡 **Doença de Crohn está sem slot no calendário.** A peça 03 saiu como Artrite Psoriásica (21/09), que no calendário era a 10. Restam Hidradenite (26/10), Asma (02/11) e o slot de 09/11, que seria a Artrite Psoriásica: o natural é **Crohn em 09/11**. Quando ela for escrita, **não reusar** o banheiro como gancho (já usado aqui); o Reel de 08/07 tem outro caminho (a barriga posta "na conta do nervoso").
 5. 🟡 **Vergonha do tema pode pedir formato de vídeo depois.** Retocolite e Crohn são as doenças em que o @imunovitta (médico falando em câmera) faria mais diferença, porque a pessoa não comenta com ninguém. Fica de ideia pra quarta-feira da semana, se houver quem grave.
@@ -142,5 +142,6 @@ Esta é a sétima de dez. **Toda segunda, uma doença que tem tratamento na CIIL
 
 ## Histórico de revisões
 
+- **2026-10-19 v1.2:** selo trocado pra `06 de 10` e legenda pra "a sexta de dez" (decisão já registrada no OPEN-QUESTIONS e na PAUTA #3: a 06 de Espondilite nunca foi ao ar). Nome do arquivo mantido com `07` pra não quebrar links.
 - **2026-10-14 v1.1:** ajustes do validador-copy: giro da headline reescrito ("contar como" era decalque), bloco 5 sem o "ele" ambíguo (lia como se a CIIL fabricasse a medicação, mesmo erro da 16/10), promessa de resultado da legenda virou condicional, "tem nome" virou "pode ser" na legenda (o bloco 4 mantém a assinatura), lista de hábitos cortada pra dois, sinal 4 encurtado.
 - **2026-10-14 v1:** escrita para o slot de segunda 19/10, sétima peça da temporada pelo calendário. Primeira doença intestinal da conta. CTA com "a gente te orienta" no lugar de "a gente avalia" por falta de gastro na casa. **Retida até o OK do RT.**
