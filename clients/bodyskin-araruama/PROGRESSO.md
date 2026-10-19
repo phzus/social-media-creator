@@ -4,6 +4,12 @@ Log datado do trabalho feito pra BodySkin. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-10-19 (2) — Anúncio Outubro OFF masculino (16x R$ 132)
+
+A cliente mandou a arte da oferta masculina, e PH pediu criativo de anúncio mantendo a estrutura da promoção, mais limpa, com headline forte e o selo Outubro OFF. [Anúncio](conteudo/anuncios/2026-10-19-outubro-off-masculino-5-areas.md) em 4:5 + 9:16 + animado de 6s. Headline: **"HOMEM DE ARARUAMA: 5 ÁREAS NO LASER, 2 DE PRESENTE!"**, com variação B **"VOCÊ DE ARARUAMA RASPA O PEITO? O LASER DO OUTUBRO OFF É PRA VOCÊ!"**. Saíram os 8 selos e os ícones. O validador-copy achou 1 bloqueante (frase de "qual dos 4 lasers atende o seu tom") e 5 importantes, todos aplicados. Oferta registrada no [PADROES §7](PADROES.md) e em [referencias/](referencias/2026-10-19-outubro-off-masculino-cliente.md). ⚠️ Cruza com o post de 23/10 e com o anúncio 2B ([OQ de 19/10 (2)](OPEN-QUESTIONS.md)).
+
+---
+
 ## 2026-10-19 — Post de sexta 23/10: "Na quarta, o pelo que o barbeiro tirou no sábado já voltou." (3 sessões grátis, dezena masculina)
 
 [Peça](conteudo/posts/2026-10-23-o-pelo-que-o-barbeiro-tirou-no-sabado.md): estático 4:5 tipográfico + animado de 5s, P5 Oferta, slot 11 do [calendário de outubro](estrategia/2026-10.md). Primeira peça de feed do mês pra homem. Mecanismo: **anúncio direto da casa** ([voice-quality-checklist §2.8](../../shared/voice-quality-checklist.md)) aberto por cena de rotina masculina (o contorno da barbearia que volta no meio da semana), com a oferta dita na segunda linha e o "3" gigante em laranja como elemento principal da arte.

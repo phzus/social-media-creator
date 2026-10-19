@@ -116,7 +116,8 @@ Ela envia as promoções já diagramadas: modelo de IA, preço gigante em laranj
 
 | # | Oferta | Condição | Observação |
 |---|---|---|---|
-| 1 | Áreas pequenas — 10 sessões | **R$ 89,00** | Único valor do pacote de outubro. Pode citar "10 sessões": aqui a cliente informou |
+| 1 | Áreas pequenas — 10 sessões | **R$ 89,00** | Primeiro valor do pacote de outubro. Pode citar "10 sessões": aqui a cliente informou |
+| 2 | **Masculino (chegou em 19/10):** 10 sessões de tórax + 10 de abdômen + 10 de virilha, **+ ganha** 10 de faixa de barba + 10 de axilas | **16x de R$ 132,00** | [Arte da cliente](referencias/2026-10-19-outubro-off-masculino-cliente.md). Sem "sem juros", sem total, sem validade escritos: não afirmar. Selos da arte seguem vetados |
 
 **Conceito do mês, escrito pela cliente:** *"Outubro OFF — dê um OFF nos pelos, dê um ON na sua liberdade"*. Vira a assinatura das peças de laser do mês.
 

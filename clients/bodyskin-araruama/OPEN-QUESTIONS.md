@@ -3,6 +3,15 @@
 Legenda: 🔴 bloqueante · 🟡 importante (não trava tudo) · 🟢 calibração.
 Atualizar assim que PH ou a cliente responderem. Resposta vira registro em [context.md](context.md), [BRIEFING.md](BRIEFING.md) ou [PADROES.md](PADROES.md).
 
+## 🔴 2026-10-19 (2) — Outubro OFF masculino (16x R$ 132): o que confirmar
+
+[Arte da cliente](referencias/2026-10-19-outubro-off-masculino-cliente.md) · [anúncio da Lone](conteudo/anuncios/2026-10-19-outubro-off-masculino-5-areas.md)
+
+1. 🔴 **Qual oferta masculina lidera?** Hoje são três com regras diferentes pra faixa de barba: o pacote de 5 áreas (presente), o anúncio 2B de 01/10 (3 sessões grátis, 21-31/10) e o post de sexta 23/10 (3 sessões grátis). A recomendação é o post de 23/10 passar a vender este pacote e o 2B pausar. Decisão de PH com a Cintia, e o atendimento do WhatsApp precisa saber.
+2. 🟡 Validade da campanha e forma de pagamento do 16x (cartão? sem juros?).
+3. 🟡 O presente (barba + axilas) depende de fechar as 3 áreas?
+4. 🟡 Foto: kit oficial masculino da franquia existe? Senão, PH decide entre a foto da arte dela (IA, exceção ao §7) e a arte tipográfica.
+
 ## 🔴 2026-10-19 — Post de sexta 23/10 (3 sessões grátis, faixa de barba/nuca): o que confirmar
 
 [Peça](conteudo/posts/2026-10-23-o-pelo-que-o-barbeiro-tirou-no-sabado.md) pronta, envio à Cintia hoje 19/10 até 15h. Pra subir:
