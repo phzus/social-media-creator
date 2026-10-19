@@ -95,9 +95,9 @@ O que o trimestre **não** substitui é o briefing mensal dos dias 22-25 ([playb
 | **12 → 16** ⭐ | A casa — o corretor | 12/10 | seg | estático | Dia do Corretor de Seguros | Ele não aparece na venda, aparece no sinistro |
 | | | 14/10 | qua | Reel | Quem responde aqui | Apresentação. ✅ [roteiro parqueado](../conteudo/roteiros/2026-07-27-quem-responde-aqui.md) · 🔴 [OQ #1](../OPEN-QUESTIONS.md) e [#2](../OPEN-QUESTIONS.md) |
 | | | 16/10 | sex | estático | O que acontece depois que você avisa o sinistro | O trabalho que o cliente não vê |
-| **19 → 23** | Planejamento familiar | 19/10 | seg | estático | As contas da casa não pausam junto com você | Afastamento por saúde (Outubro Rosa, pela renda) |
+| **19 → 23** | Planejamento familiar | 19/10 | seg | estático | ~~As contas da casa não pausam junto com você~~ → **Daqui a um ano custa o mesmo que hoje?** | A peça de afastamento foi excluída por PH em 19/10, e a da sexta subiu no lugar dela. ✅ [no ar](../conteudo/posts/2026-10-19-daqui-a-um-ano-custa-o-mesmo.md) |
 | | | 21/10 | qua | vídeo | Planejamento familiar serve só pro pior cenário? | Invalidez e doenças graves. ⚠️ gate reforçado |
-| | | 23/10 | sex | estático | Daqui a um ano custa o mesmo que hoje? | Simulação no direct. Tema trocado em 19/10 (o mapeado repetia 24/08). ✅ [escrito](../conteudo/posts/2026-10-23-daqui-a-um-ano-custa-o-mesmo.md) · 🔴 gate |
+| | | 23/10 | sex | estático | **em aberto** | A peça prevista subiu na segunda 19/10. Falta peça pro slot (PH decide). |
 | **26 → 30** | Auto | 26/10 | seg | estático | A apólice é anual. E a sua vida, mudou? | O que precisa ser avisado antes da renovação |
 | | | 28/10 | qua | vídeo | Bati o carro. O que eu faço na primeira hora? | Passo a passo do sinistro · *flexível* |
 | | | 30/10 | sex | estático | 5 situações em que o seguro auto não paga | Lista de mito: a pergunta-gancho na arte, as situações na legenda (era carrossel; trocado em 13/10) |

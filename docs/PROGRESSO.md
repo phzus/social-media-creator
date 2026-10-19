@@ -4,9 +4,15 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-19 (4) — Atlas: peça de segunda excluída, a de sexta sobe hoje
+
+PH achou a segunda 19/10 da Atlas muito ruim, inclusive a v2, e mandou excluir. Hoje sobe a peça de 23/10 ("daqui a um ano custa o mesmo"), renomeada pra 19/10 e no fallback do corretor (sem a frase de problema de saúde). A sexta 23/10 da Atlas ficou em aberto.
+
+---
+
 ## 2026-10-19 (3) — Atlas: segunda 19/10 refeita + regra "nada de leia a legenda"
 
-PH reprovou a v1 do atestado porque a arte dependia da legenda, recurso muito usado na semana passada. A [v2](../clients/atlas-corretora/conteudo/posts/2026-10-19-planejou-a-cirurgia-e-o-dinheiro.md) foi validada e tem a arte com CTA próprio. Regra nova no [voice-quality-checklist §3.4](../shared/voice-quality-checklist.md): estático leva o CTA na arte.
+PH reprovou a v1 do atestado porque a arte dependia da legenda, recurso muito usado na semana passada. A [v2](../clients/atlas-corretora/conteudo/posts/2026-10-19-daqui-a-um-ano-custa-o-mesmo.md) *(excluída depois; ver entrada (4))* foi validada e tem a arte com CTA próprio. Regra nova no [voice-quality-checklist §3.4](../shared/voice-quality-checklist.md): estático leva o CTA na arte.
 
 ---
 

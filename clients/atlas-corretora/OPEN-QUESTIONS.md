@@ -5,9 +5,13 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🟡 2026-10-19 (2) — Sexta 23/10 ficou sem peça
+
+A peça de 23/10 subiu hoje (19/10) no lugar da de segunda, que PH excluiu. Falta definir a sexta: outra peça de planejamento familiar (a semana ainda é desse serviço) ou outro formato. As 4 perguntas ao corretor seguem valendo pra peça que está no ar. Se ele disser que a idade **não** pesa no valor, a peça precisa sair do ar.
+
 ## 🔴 Nova (2026-10-19) — post de sexta 23/10 (daqui a um ano custa o mesmo?): corretor até qua 21/10 12h
 
-A [peça de 23/10](conteudo/posts/2026-10-23-daqui-a-um-ano-custa-o-mesmo.md) diz que a idade entra no cálculo e que esperar costuma sair mais caro. A arte depende do item 1, a legenda dos itens 1 a 3. O fallback está escrito na peça.
+A [peça de 23/10](conteudo/posts/2026-10-19-daqui-a-um-ano-custa-o-mesmo.md) diz que a idade entra no cálculo e que esperar costuma sair mais caro. A arte depende do item 1, a legenda dos itens 1 a 3. O fallback está escrito na peça.
 
 1. Nas seguradoras com que a Atlas trabalha planejamento familiar, **a idade entra no cálculo** e **contratar um ano depois costuma sair mais caro**? O valor sobe por idade exata ou por faixa etária? Se for "não", a peça não sobe.
 2. A proposta pede **declaração de saúde em qualquer capital**, ou existe produto simplificado só com idade?
@@ -20,12 +24,12 @@ A [peça de 23/10](conteudo/posts/2026-10-23-daqui-a-um-ano-custa-o-mesmo.md) di
 
 ## 🔴 Nova (2026-10-14) — post de 19/10 (afastamento por saúde): resposta do corretor até sex 16/10
 
-A [peça de 19/10](conteudo/posts/2026-10-19-planejou-a-cirurgia-e-o-dinheiro.md) tem a arte liberada. A legenda aponta o leitor pro planejamento familiar nos meses de recuperação ([PADROES §2](PADROES.md)).
+A [peça de 19/10](conteudo/posts/2026-10-19-daqui-a-um-ano-custa-o-mesmo.md) *(a peça da cirurgia foi excluída em 19/10; o link aponta pra que subiu no lugar)* tem a arte liberada. A legenda aponta o leitor pro planejamento familiar nos meses de recuperação ([PADROES §2](PADROES.md)).
 
 1. A Atlas vende **cobertura pra afastamento temporário por doença ou acidente** (diária por incapacidade temporária ou equivalente) dentro do planejamento familiar? Com quais seguradoras? **Sim** → sobe a versão com afirmação. **Não** → a ponte sai da legenda. A resposta também serve pro vídeo de qua 21/10 (invalidez e doenças graves), que **ainda não tem roteiro**.
 2. Quem responde o direct sabe responder "isso entra no planejamento familiar?" ([OQ #4](#4)).
 3. **PH:** o trimestral entregue ao cliente diz "Outubro Rosa entra pela renda" nesta semana, e a peça não nomeia a campanha. Avisar o cliente? Ele quer stories institucional da data, sem produto?
-4. ✅ **Resolvida em 2026-10-19:** ~~o tema mapeado pra sex 23/10 ("Quem conta com a sua renda todo mês?") repete a headline de 24/08.~~ A peça manteve o serviço e a simulação, e o ângulo passou a ser a hora da contratação ([peça](conteudo/posts/2026-10-23-daqui-a-um-ano-custa-o-mesmo.md)).
+4. ✅ **Resolvida em 2026-10-19:** ~~o tema mapeado pra sex 23/10 ("Quem conta com a sua renda todo mês?") repete a headline de 24/08.~~ A peça manteve o serviço e a simulação, e o ângulo passou a ser a hora da contratação ([peça](conteudo/posts/2026-10-19-daqui-a-um-ano-custa-o-mesmo.md)).
 5. ⚠️ **(2026-10-19)** O prazo do item 1 (sex 16/10) passou e não há resposta registrada. A peça vai ao ar hoje: **PH confirma** se subiu com a ponte, sem ela, ou se a legenda ficou segurada.
 
 ---

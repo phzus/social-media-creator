@@ -1,12 +1,12 @@
 # Estático — "Fazer o seu planejamento familiar daqui a um ano custa o mesmo que hoje? A seguradora vai perguntar a sua idade. Daqui a um ano, a resposta é outra."
 
 **Cliente:** atlas-corretora
-**Data planejada:** 2026-10-23 (sexta, slot de venda)
+**Data planejada:** ~~2026-10-23 (sexta)~~ → **2026-10-19 (segunda), postada hoje por decisão de PH**, no lugar da peça de 19/10, que foi excluída
 **Plataforma:** Instagram (@__atlas.corretora — dois underscores)
 **Pilar:** P4 — Oferta (simulação), com função de venda da semana (segunda apresenta · quarta explica · sexta vende)
 **Formato:** **Estático, arte única 4:5** (cartaz tipográfico). Sem carrossel ([PADROES §4](../../PADROES.md), PH 13/10).
 **Mecanismo (conferência de lote):** a hora da contratação. O valor sai de quem você é no dia em que assina, e a idade só anda pra frente, então esperar costuma custar. A urgência vem do tempo da pessoa, não de promoção. Forma: **pergunta + giro** (16/10 foi "fato + giro"; a 19/10 v2 virou "cena + pergunta", ordem espelhada desta).
-**Status:** 🟡 **gate do corretor** (ver Gate). A arte depende só da idade no cálculo, que vale pra quase todo o mercado; a frase de saúde fica só na legenda, com fallback.
+**Status:** ✅ **sobe hoje (19/10) no fallback**, porque o corretor não respondeu. A frase do problema de saúde já existente saiu da legenda (item 3 do Gate). A arte não mudou: ela depende só da idade no cálculo, que vale pra quase todo o mercado e vai com condicional.
 
 > **Fecha a semana de Planejamento familiar** do [trimestral §6](../../estrategia/2026-09-a-11-trimestral.md) (19-23/10). A linha temática é semanal ([PADROES §10](../../PADROES.md)): segunda 19/10 abriu com o afastamento por saúde ([marcou a cirurgia, e o dinheiro?](2026-10-19-planejou-a-cirurgia-e-o-dinheiro.md)), quarta 21/10 é o vídeo de invalidez e doenças graves, e a sexta vende o mesmo serviço.
 >
@@ -66,7 +66,7 @@ O trimestral previa *"Quem conta com a sua renda todo mês? / Simulação no dir
 
 Antes de dizer o valor, a seguradora costuma perguntar, entre outras coisas, quantos anos você tem e como está a sua saúde.
 
-A idade costuma pesar no valor, e o que você declara sobre a saúde entra na análise da seguradora. Se você já tiver algum problema de saúde no dia em que assina, as condições da proposta podem mudar, no valor ou no que fica de fora da cobertura.
+A idade costuma pesar no valor, e o que você declara sobre a saúde entra na análise da seguradora.
 
 Esperar costuma sair mais caro por um motivo simples: a idade só sobe, e ela entra no cálculo.
 
@@ -132,5 +132,6 @@ Condições variam por seguradora e por apólice.
 
 ## Histórico de revisões
 
+- **2026-10-19 v1.2 (PH):** a peça de segunda 19/10 da Atlas foi excluída (PH: "muito ruim") e esta sobe hoje no lugar dela. Arquivo renomeado (era `2026-10-23-…`). Como o corretor não respondeu, entrou o fallback do item 3: saiu da legenda a frase do problema de saúde já existente. O slot de sexta 23/10 fica vazio.
 - **2026-10-19 v1.1:** validação de copy (subagent) aplicada. A v1 (*"A seguradora vai perguntar a sua idade e como está a sua saúde. / Quem deixa pra depois responde as mesmas perguntas, só que mais tarde."*) tinha linha 2 ambígua (lia como "não muda nada") e era a terceira sexta/segunda seguida em "fato + giro"; virou pergunta + giro, com a saúde fora da arte. "A simulação mostra quanto fica" virou "dá uma ideia" (a saúde entra na análise, então simulação não fecha valor). "A cada aniversário" saiu (reajuste pode ser por faixa etária). "Um problema que você já tem" virou "se você já tiver". Gate ganhou 2 perguntas (faixa etária, produto sem questionário) e o cuidado de não pedir dado de saúde no direct. Arquivo renomeado (era `2026-10-23-a-seguradora-pergunta-idade-e-saude.md`).
 - **2026-10-19 v1:** escrita pra fechar a semana de Planejamento familiar. O tema mapeado no trimestral ("Quem conta com a sua renda todo mês?") repetia a headline de 24/08 e o ângulo de 14/09; mantidos serviço, função de venda e simulação no direct, com ângulo novo (a hora da contratação).
