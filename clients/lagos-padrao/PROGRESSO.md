@@ -4,6 +4,20 @@ Log datado do trabalho feito pra Lagos Padrão. Topo = mais recente. Entrada por
 
 ---
 
+## 2026-10-19 — 3 artes de anúncio dos carros-chefe (Meta Ads)
+
+[Arquivo](conteudo/posts/2026-10-19-anuncios-carros-chefe.md). PH pediu "artes de anúncio" sem produto, então abriu nos dois carros-chefe do logo e no pacote que junta os dois. Molde de anúncio direto da casa ([checklist §2.8](../../shared/voice-quality-checklist.md)): chamada, headline em caixa alta, CTA com exclamação e WhatsApp na arte. Cada arte leva texto principal, título e botão do Meta, e tem adaptação 9:16.
+
+- **A — Poste padrão em fibra de vidro**, a partir de R$ 945 à vista (cartaz de preço).
+- **B — Aluguel de caminhão munck** ("Carga pesada na obra? O munck vai até você."), sem preço, sem toneladas e sem cidades atendidas (raio desconhecido, OQ 9).
+- **C — Padrão de entrada com uma empresa só**: lista com poste, entrega, içamento e montagem, e CTA pedindo a foto da conta de luz.
+
+**Validador-copy aplicado:** o texto Meta da C foi reescrito (frase agramatical, "conta do vizinho" e "seu padrão é Enel ou CERAL", que contradizia a peça de 19/10). O CTA da B foi trocado e os gates de foto do munck da peça de 16/10 voltaram. O preço do poste ficou separado da entrega e da montagem no texto, pra não parecer tudo incluso.
+
+**Ressalvas (não travam):** R$ 945 é de agosto (OQ 2). Entrega, içamento e montagem vêm do briefing da Lone e do logo (OQ 10). O orçamento de munck por WhatsApp segue o OQ 17b. As fotos são do cliente.
+
+---
+
 ## 2026-10-16 — Post de segunda 19/10: "O padrão da tua casa é teu, não da Enel"
 
 [Estático 4:5](conteudo/posts/2026-10-19-o-padrao-da-tua-casa-e-teu.md), slot de segunda (leve/educativo). Mecanismo novo na conta: **correção de crença** sobre de quem é o padrão de entrada. Poste, caixa, disjuntor, eletroduto e aterramento são do dono do imóvel; medidor e fio da rua são da distribuidora (pauta 1 da linha "padrão de entrada" do briefing estratégico). É a primeira peça que fala com quem **já tem padrão** e puxa orçamento de **conserto/adequação** (linha 3 do BRIEFING), em vez de obra nova. CTA: duas fotos (padrão inteiro + caixa de perto) pra orçamento.

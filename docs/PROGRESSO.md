@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-19 (5) — Lagos Padrão: 3 artes de anúncio dos carros-chefe
+
+PH pediu "artes de anúncio para Lagos Padrão" sem produto, então abriu nos carros-chefe do logo: poste padrão de fibra (com R$ 945), aluguel de munck e padrão de entrada completo. Molde direto da casa (§2.8). Validador aplicado. Detalhe em [clients/lagos-padrao/PROGRESSO.md](../clients/lagos-padrao/PROGRESSO.md).
+
+---
+
 ## 2026-10-19 (4) — Atlas: peça de segunda excluída, a de sexta sobe hoje
 
 PH achou a segunda 19/10 da Atlas muito ruim, inclusive a v2, e mandou excluir. Hoje sobe a peça de 23/10 ("daqui a um ano custa o mesmo"), renomeada pra 19/10 e no fallback do corretor (sem a frase de problema de saúde). A sexta 23/10 da Atlas ficou em aberto.
