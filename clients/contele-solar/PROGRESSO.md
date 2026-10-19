@@ -4,6 +4,12 @@ Log datado do trabalho feito pra Contele. Topo = mais recente. Entrada por bloco
 
 ---
 
+## 2026-10-19 (2) — Ideia de Halloween de PH registrada (fantasma assustado com a conta)
+
+PH trouxe um briefing de Halloween feito no ChatGPT: um fantasma assustado com a conta de luz e a headline "Até quem assombra se assusta com essa conta". [Registro e ajustes](referencias/2026-10-19-briefing-halloween-fantasma-chatgpt.md): sem CAPS (padrão da marca), sem o "Conheça as soluções", um CTA só, slot natural na sexta 30/10.
+
+---
+
 ## 2026-10-19 — Post de sexta 23/10: "O tamanho do sistema solar sai da sua conta de luz"
 
 [Estático](conteudo/posts/2026-10-23-do-tamanho-da-sua-conta.md) no slot de venda, Pilar 1 aplicado a venda, de volta ao **produto principal** (sistema fotovoltaico). Mecanismo: **quebra de objeção** (pergunta + giro). Depois de duas peças seguidas com número (16/10 soma das contas, 19/10 EcoFlow lado a lado), esta não tem cálculo. A objeção vem da reunião de 08/09: "energia solar é cara", com o pedido de mostrar casas variadas e não só alto padrão. A resposta é o método. O tamanho do sistema sai do consumo em kWh da conta, quem gasta menos usa menos painéis, e o limite é o telhado, que a visita técnica confere.
