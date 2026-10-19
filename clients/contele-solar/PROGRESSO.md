@@ -4,6 +4,37 @@ Log datado do trabalho feito pra Contele. Topo = mais recente. Entrada por bloco
 
 ---
 
+## 2026-10-19 — Post de sexta 23/10: "O tamanho do sistema solar sai da sua conta de luz"
+
+[Estático](conteudo/posts/2026-10-23-do-tamanho-da-sua-conta.md) no slot de venda, Pilar 1 aplicado a venda, de volta ao **produto principal** (sistema fotovoltaico). Mecanismo: **quebra de objeção** (pergunta + giro). Depois de duas peças seguidas com número (16/10 soma das contas, 19/10 EcoFlow lado a lado), esta não tem cálculo. A objeção vem da reunião de 08/09: "energia solar é cara", com o pedido de mostrar casas variadas e não só alto padrão. A resposta é o método. O tamanho do sistema sai do consumo em kWh da conta, quem gasta menos usa menos painéis, e o limite é o telhado, que a visita técnica confere.
+
+**Headline:** *O tamanho do sistema solar da sua casa sai da conta de luz. / Casa pequena não fica de fora: a metragem não entra nesse cálculo.* (v1.2: era pergunta, trocada na conferência do lote pra não abrir duas peças seguidas em pergunta)
+
+**CTA:** "manda SOL no direct" com foto da última conta, sem WhatsApp.
+
+**Consultado e descartado:** a bandeira tarifária como gancho. Outubro/2026 está em verde (ANEEL, 25/09), e a de novembro sai em 30/10.
+
+**Travas:**
+- Zero preço, faixa, economia, payback, prazo e garantia.
+- Nenhum caso de cliente.
+- Sem EcoFlow/BLUETTI.
+- Não acrescentar "acessível" em revisão, porque "casa pequena + menos painéis" já vai ser lido como mais barato.
+
+**Validação de copy (subagent) aplicada:**
+- Saíram as cenas "casa térrea em Iguaba / sobrado em Búzios", que liam como caso real (e sobrado puxa alto padrão).
+- Saiu a 9ª repetição de visita/projeto/homologação/instalação.
+- Saiu o "o telhado só precisa", que era absoluto.
+- A headline virou pergunta e trocou "planta" por "metragem".
+- Kicker agora é `DICA · TAMANHO DO SISTEMA`.
+- "SOL" foi pra aspas.
+
+🟡 **Decisões de PH:**
+- **Foto real de instalação em casa comum**, prometida em 08/09. Sem ela, são quatro Sand tipográficas seguidas no grid.
+- **"SOL" + conta pela 4ª vez desde 05/10.**
+- **Resposta do direct a "quanto custa pra casa pequena?"**, a alinhar com o Vinicius ([OPEN-QUESTIONS](OPEN-QUESTIONS.md)).
+
+---
+
 ## 2026-10-16 — Segunda 19/10 refeita: "Quanto dura cada EcoFlow?" (modelos lado a lado)
 
 PH reprovou a v1, que ensinava a fazer a conta sem dar número: *"vamos falar sobre quanto cada ecoflow dura em média e a gente faz uma arte deles lado à lado"*. [Peça nova](conteudo/posts/2026-10-19-quanto-dura-cada-ecoflow.md): estático com RIVER 3, RIVER 3 Max, DELTA 3 e DELTA Pro lado a lado e o tempo de cada um com a mesma carga de referência de 100 W (Wh × 0,85 ÷ 100): cerca de 2 h, quase 5 h, mais de 8 h e mais de um dia inteiro. A premissa vai escrita na arte, e é isso que impede o número de virar promessa.

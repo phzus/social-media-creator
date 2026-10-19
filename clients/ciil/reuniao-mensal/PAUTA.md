@@ -51,6 +51,7 @@ Base nova desta pauta: [análise do Instagram de 15/10](../referencias/2026-10-1
 
 - [ ] **Item 0** antes da reunião.
 - [ ] Ajustar o selo da peça de 19/10 pra **06 de 10** antes do brief ao designer.
+- [ ] Refazer a tabela da série (07 a 10: Crohn, Hidradenite, Asma, Espondilite) antes da segunda 26/10. A [linha editorial](../estrategia/linha-editorial-isso-tem-nome.md) ainda mostra a ordem antiga.
 - [ ] Confirmar o handoff de acessos da @vivamidia (2 IG + 2 Facebook + Docplanner/site). É o mesmo acesso que libera a API da Meta pra medir alcance.
 - [ ] Depois da reunião: estratégia de novembro com o que vier na pergunta 5.
 

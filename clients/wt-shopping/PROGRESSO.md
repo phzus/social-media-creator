@@ -4,6 +4,25 @@ Log datado do trabalho feito pra WT Shopping. Topo = mais recente. Entrada por b
 
 ---
 
+## 2026-10-19 — Post de sexta 23/10: "A gata que escapa pelo telhado em outubro pode estar com uma ninhada em dezembro" (clínica, castração)
+
+[Peça](conteudo/posts/2026-10-23-gata-que-escapa-em-outubro.md), arte única, frente **clínica**, venda de **castração de gata**. Mecanismo: **consequência adiante** (cena do cio agora → ninhada daqui a dois meses). CTA "Agenda a castração dela pelo WhatsApp (22) 99789-8072" + ressalva "Castração sujeita à avaliação do médico-veterinário" na arte e na legenda.
+
+**Por que clínica e castração:** pet acabou de sair na segunda 19/10 (não colar categoria), clínica não sai desde 09/10 e carrega a conta ([PADROES §6](PADROES.md)). Gancho sazonal real: cio mais frequente na primavera/verão. Castração é serviço que a WT já vende (artes abr-jun em ~/Downloads + combo de setembro). **Descartado:** pet (colado em 19/10) · piscina (02 e 16/10) · agro (sem mix) · jardim (eventual, 12/10).
+
+**Isolamento com a VR:** não há peça da VR em 23/10 no repo; a única de castração dela é o mito do peso (14/09). Esta não fala de peso, doença nem prevenção. Se a VR fechar 23/10 em gato/castração, uma das duas muda de dia.
+
+**Validação (validador-copy):** 2 bloqueantes aplicados (legenda determinista "basta uma escapada… vira ninhada" contra o "pode" da headline · promessa de comportamento "não passa mais a noite vigiando janela"). Recomendados aplicados: "uma ninhada" no lugar de "filhotes" na headline, linha de apoio "deixa de entrar no cio e não corre mais esse risco", rota de fuga alinhada, Checagem corrigida. **Decisão de PH em aberto:** headline sem mês, se quiser tirar o eco "outubro → dezembro" com a contagem de Natal de 16/10 (alternativa na peça). A headline com "outubro" vale até 31/10.
+
+**Achados em ~/Downloads (artes já postadas pela WT, nada disso estava no repo):**
+- **Delivery de ração** ("WT Shopping resolve pra você! Com nosso delivery rápido, você pode pedir a ração ideal sem sair de casa", arte de 14-17/08). Responde em parte o [OQ #7](OPEN-QUESTIONS.md) e deixa o CTA da peça de 19/10 mais vendedor ("pede pelo WhatsApp que a gente entrega"), se PH quiser ajustar antes de publicar.
+- **Dias de atendimento da clínica** (arte de 15/05): seg, qua e qui 9h-17h, sáb 9h-13h30. Cinco meses de idade; não usado em peça sem confirmar.
+- **Mix pet visto em arte:** NexGard e linha Cão Brother (promo 27/06), mochila Hello Cat a R$ 109,99 (14/08), Premier Formula, Zuppy, Lótus.
+
+**Pendências:** OK da clínica nas 3 afirmações técnicas (cio sazonal, gestação ~2 meses, castrada não tem cio) junto do envio de qui 22/10 até 15h · combo castração + vacina felina ainda vale ([OQ D](OPEN-QUESTIONS.md))? Brief pro designer até ter 20/10.
+
+---
+
 ## 2026-10-14 — Post de segunda 19/10: "Ração que amolece no fim do saco nem sempre é culpa da marca" (pet/loja)
 
 [Peça](conteudo/posts/2026-10-19-racao-molenga-no-fim-do-saco.md), arte única, frente **pet/loja**, leve/educativo de segunda. Mecanismo: **objeto do dia a dia como solução** (saco dobrado e preso com prendedor de roupa, longe do sol e do chão). CTA "Chama no WhatsApp (22) 99789-8072 e compra o próximo saco antes de faltar", que fecha na recompra de ração (a porta de entrada da loja, [BRIEFING §2](BRIEFING.md)).

@@ -3,7 +3,7 @@
 > Documento vivo e **curado** — é o que PH abre minutos antes da reunião de alinhamento.
 > O log completo e técnico de pendências continua em [OPEN-QUESTIONS.md](../OPEN-QUESTIONS.md); aqui entra só o que vale ocupar o tempo da reunião.
 
-**Última atualização:** 2026-10-15 · **Próxima reunião:** ❓ a marcar · **Última reunião:** 2026-09-17
+**Última atualização:** 2026-10-19 · **Próxima reunião:** ❓ a marcar · **Última reunião:** 2026-09-17
 
 ---
 
@@ -17,7 +17,7 @@
 | 1d | 🔴 **A clínica abre no sábado? Até que horas?** Pergunta aberta desde 24/09. | Não morreu com o 10.10: qualquer peça que convide a ir à clínica no fim de semana depende disso. |
 | 1e | 🔴 **Quais áreas entram em "áreas pequenas"** na condição de R$ 89? E o valor é à vista ou parcelado? | É a única oferta de laser com preço em outubro, e vai ao ar sexta 09/10 sem poder nomear área nenhuma. |
 | 1f | ⚠️ **As mesmas 10 sessões de área pequena custavam R$ 199 em setembro e custam R$ 89 agora.** Confirmar que é condição de campanha, não erro de digitação — e avisar quem atende. | A cliente que pagou R$ 199 mês passado vai perguntar no balcão. A Lone produziu com R$ 89 porque preço é alçada dela, mas o atendimento precisa saber da queda de 55%. |
-| 1c | **Termos da indicação e das 3 sessões grátis**: recompensa, se vale só a avaliação ou precisa fechar, uma área por pessoa, prazo de uso. | Os criativos estão prontos com esses campos em aberto ([anúncios](../conteudo/anuncios/2026-10-01-indicacao-e-sessoes-gratis.md)). Não trava produção, trava publicação. |
+| 1c | **Termos da indicação e das 3 sessões grátis**: recompensa, se vale só a avaliação ou precisa fechar, uma área por pessoa, prazo de uso. 🆕 19/10: **a gratuidade ainda está rodando?** Não veio no pacote do Outubro OFF, e o post de 23/10 depende dela (senão sobe a versão com o R$ 89). | Os criativos estão prontos com esses campos em aberto ([anúncios](../conteudo/anuncios/2026-10-01-indicacao-e-sessoes-gratis.md)). Não trava produção, trava publicação. |
 | 2 | **Quantas sessões tem cada pacote do 9.9?** | Pendente desde 08/09. Sem isso a peça não pode citar pacote. |
 | 3 | **Peeling de ATA: 1 sessão ou 3 por R$ 650?** | A tabela mudou entre agosto e setembro. Publicar 1 sessão pelo mesmo valor que antes valia 3 queima a credibilidade de preço da conta inteira. |
 | 5 | **O "18x" do laser é sem juros?** | Ela escreveu "sem juros" só nas ofertas de pele/harmonização. Até confirmar, nenhuma peça de laser escreve "sem juros". |

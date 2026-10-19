@@ -3,7 +3,7 @@
 > Documento vivo e **curado** — é o que PH abre minutos antes da reunião de alinhamento.
 > O log completo e técnico de pendências continua em [OPEN-QUESTIONS.md](../OPEN-QUESTIONS.md); aqui entra só o que vale ocupar o tempo da reunião.
 
-**Última atualização:** 2026-09-30 · **Próxima reunião:** ❓ a marcar · **Última reunião:** — (nenhuma registrada)
+**Última atualização:** 2026-10-19 · **Próxima reunião:** ❓ a marcar · **Última reunião:** — (nenhuma registrada)
 
 ---
 
@@ -23,6 +23,8 @@
 | 10 | **O agendamento da clínica é por WhatsApp ou tem sistema próprio?** | Muda o CTA e a forma de medir comparecimento. |
 | 11 | **O que exatamente a WT vende em agro e piscina?** | As duas frentes são citadas no briefing sem detalhe de produto — hoje não há o que pautar nelas. Jardim saiu da lista: PH definiu como frente eventual ([PADROES §6](../PADROES.md)). |
 | 12 | **A hospedagem/creche da WT exige carteira de vacinação em dia?** | O vídeo da vacina da gripe usa isso como prática comum do mercado. Se for política da casa, vira fato próprio e o argumento fica mais forte. |
+| 13 | **Os dias da clínica ainda são seg, qua e qui 9h-17h e sáb 9h-13h30? E o delivery de ração segue valendo?** | Os dois estão em artes que a própria WT postou (maio e agosto), mas nunca entraram no nosso material. Confirmados, as peças de clínica trazem os dias e as de ração fecham com "a gente entrega", que vende mais que "chama no WhatsApp". |
+| 14 | **Quem da clínica pode ler as afirmações técnicas antes de a peça sair?** (ex.: castração de 23/10) | Sem veterinária identificada (#6), alguém da clínica precisa dar o OK em frase técnica. Combinar um nome e um prazo evita travar peça na véspera. |
 
 ## 2. 💡 Insights e oportunidades que a Lone observou
 

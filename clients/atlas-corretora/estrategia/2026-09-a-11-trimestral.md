@@ -97,7 +97,7 @@ O que o trimestre **não** substitui é o briefing mensal dos dias 22-25 ([playb
 | | | 16/10 | sex | estático | O que acontece depois que você avisa o sinistro | O trabalho que o cliente não vê |
 | **19 → 23** | Planejamento familiar | 19/10 | seg | estático | As contas da casa não pausam junto com você | Afastamento por saúde (Outubro Rosa, pela renda) |
 | | | 21/10 | qua | vídeo | Planejamento familiar serve só pro pior cenário? | Invalidez e doenças graves. ⚠️ gate reforçado |
-| | | 23/10 | sex | venda | Quem conta com a sua renda todo mês? | Simulação no direct |
+| | | 23/10 | sex | estático | Daqui a um ano custa o mesmo que hoje? | Simulação no direct. Tema trocado em 19/10 (o mapeado repetia 24/08). ✅ [escrito](../conteudo/posts/2026-10-23-daqui-a-um-ano-custa-o-mesmo.md) · 🔴 gate |
 | **26 → 30** | Auto | 26/10 | seg | estático | A apólice é anual. E a sua vida, mudou? | O que precisa ser avisado antes da renovação |
 | | | 28/10 | qua | vídeo | Bati o carro. O que eu faço na primeira hora? | Passo a passo do sinistro · *flexível* |
 | | | 30/10 | sex | estático | 5 situações em que o seguro auto não paga | Lista de mito: a pergunta-gancho na arte, as situações na legenda (era carrossel; trocado em 13/10) |

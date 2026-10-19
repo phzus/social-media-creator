@@ -4,6 +4,20 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ---
 
+## 2026-10-19 — Post de sexta 23/10: "Fazer o seu planejamento familiar daqui a um ano custa o mesmo que hoje?"
+
+[Estático 4:5](conteudo/posts/2026-10-23-daqui-a-um-ano-custa-o-mesmo.md). Fecha a semana de **Planejamento familiar** do [trimestral §6](estrategia/2026-09-a-11-trimestral.md) (19-23/10), mesmo serviço da segunda, por causa da linha temática semanal ([PADROES §10](PADROES.md)). Linha 2 da arte: *"A seguradora vai perguntar a sua idade. Daqui a um ano, a resposta é outra."*
+
+**Repetição de 24/08 resolvida:** o tema mapeado ("Quem conta com a sua renda todo mês?") era quase a headline de 24/08 e o ângulo de 14/09. Ficaram o serviço, a função de venda e a simulação no direct. O ângulo passou a ser **a hora da contratação**: a idade entra no cálculo e só sobe, então esperar costuma custar. É a primeira peça da conta sobre *quando* contratar pelo lado do valor (28/08 falou de quando faz sentido). Forma **pergunta + giro**, porque 16/10 e 19/10 foram "fato + giro". CTA direct (19/10 salva).
+
+**Validação de copy (subagent) aplicada:** a v1 tinha linha 2 ambígua ("responde as mesmas perguntas, só que mais tarde" lia como "não muda nada") e saúde na arte, o que daria a terceira peça de saúde da semana, em outubro. A saúde saiu da arte e ficou só na legenda, em condicional ("se você já tiver"). "A simulação mostra quanto fica" virou "dá uma ideia" (a análise de saúde muda o valor final). "A cada aniversário" saiu porque o reajuste pode ser por faixa etária.
+
+🔴 **Gate:** são 4 perguntas ao corretor, com resposta até qua 21/10 12h ([OPEN-QUESTIONS](OPEN-QUESTIONS.md)): idade e esperar encarecem? Existe produto sem questionário de saúde? A frase de saúde está certa? A simulação no direct roda sem dado de saúde? Fallback escrito na peça. Prazo: brief ao designer qua 21/10, envio ao cliente qui 22/10 até 15h.
+
+⚠️ **Achados:** o vídeo de qua 21/10 (invalidez e doenças graves) **segue sem roteiro**, e quando sair não pode contradizer esta legenda. A pergunta ao corretor sobre a peça de 19/10 (prazo sex 16/10) **não tem resposta registrada**, e a peça vai ao ar hoje. Segunda sexta seguida em direct (16/10 e 23/10), então a de 30/10 deveria fechar em comentário ou salvamento.
+
+---
+
 ## 2026-10-14 — Post de segunda 19/10: "O atestado diz 60 dias de repouso. Ninguém mandou atestado pros boletos."
 
 [Estático 4:5](conteudo/posts/2026-10-19-atestado-de-repouso-e-os-boletos.md). Abre a semana de **Planejamento familiar** do [trimestral §6](estrategia/2026-09-a-11-trimestral.md) (19-23/10). O trimestral previa: estático, "As contas da casa não pausam junto com você", afastamento por saúde, Outubro Rosa pela renda.

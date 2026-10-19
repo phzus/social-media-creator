@@ -5,6 +5,20 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🟡 2026-10-19 — Post de 23/10 (clínica, castração de gata) + achados em ~/Downloads
+
+[Peça](conteudo/posts/2026-10-23-gata-que-escapa-em-outubro.md).
+
+**O. A clínica lê as 3 afirmações técnicas da legenda antes de publicar?** Cio mais frequente na primavera/verão · gestação em torno de dois meses · castrada deixa de entrar no cio. São gerais e conservadoras, mas é fala de clínica sem veterinária identificada ([#1](OPEN-QUESTIONS.md)). Mandar junto com a arte na qui 22/10. — *trava a publicação, não o brief.*
+
+**P. 🟢 PH: headline com "outubro" ou sem mês?** A com "outubro → dezembro" ecoa a contagem de Natal de 16/10; a alternativa sem mês está na peça. A com mês só vale até 31/10.
+
+**Q. A WT ainda faz delivery de ração?** Arte de 14-17/08 em ~/Downloads anuncia "delivery rápido" pelo WhatsApp. Se seguir valendo, responde parte do [#7](OPEN-QUESTIONS.md) e o CTA de pet pode dizer "a gente entrega". — *não trava nada.*
+
+**R. Os dias de atendimento da clínica ainda são seg, qua e qui 9h-17h e sáb 9h-13h30?** Arte de 15/05 em ~/Downloads. Liga com [#6](OPEN-QUESTIONS.md); se confirmar, peças de clínica podem trazer os dias na arte.
+
+---
+
 ## 🟡 2026-10-13 — Post de 16/10 (piscina, "10 sextas pro Natal")
 
 [Peça](conteudo/posts/2026-10-16-piscina-dez-sextas-pro-natal.md).

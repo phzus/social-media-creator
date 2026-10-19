@@ -4,6 +4,24 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-19 — Sexta 23/10: CIIL, WT, Contele, Atlas e BodySkin
+
+PH pediu os cinco juntos (mesmo grupo da segunda 19/10). Um agente por cliente, cada peça passou pelo validador-copy (todas tiveram bloqueante corrigido).
+
+| Cliente | Formato | Headline (resumo) | Mecanismo | CTA | Trava |
+|---|---|---|---|---|---|
+| CIIL | estático, fora da série | "Já trocou o colchão e a dor nas costas continua? / Repare se ela piora parada e melhora quando você se mexe" | objeção + sinal pra conferir (Espondilite, peça que saiu do slot de 16/10, renomeada) | WhatsApp, avaliação | 🔴 RT (8 itens) |
+| WT | estático 4:5, clínica | "A gata que escapa pelo telhado em outubro / pode estar com uma ninhada em dezembro" | consequência adiante (castração) | WhatsApp, agendar | clínica dar OK nas 3 afirmações técnicas; combo de setembro ainda vale? |
+| Contele | estático, sistema fotovoltaico | "O tamanho do sistema solar da sua casa sai da conta de luz / Casa pequena não fica de fora" | objeção "solar é caro / só casa grande" | DM "SOL" + foto da conta | foto real de instalação até qui 22/10 |
+| Atlas | estático 4:5 | "Fazer o seu planejamento familiar daqui a um ano custa o mesmo que hoje?" | pergunta + giro (idade no cálculo) | direct, simulação | 🔴 corretor (4 perguntas até qua 21/10 12h) |
+| BodySkin | estático + animado | "Na quarta, o pelo que o barbeiro tirou no sábado já voltou / 3 sessões grátis de laser na faixa de barba ou na nuca" | anúncio direto §2.8 aberto por cena | avaliação pelo link | 🔴 a gratuidade está rodando em outubro? (versão B com R$ 89 do Outubro OFF) |
+
+**Conferência do lote (orquestrador):** CIIL, Atlas e Contele abriam todas em pergunta + giro. A Contele virou afirmação (a 19/10 dela também abria em pergunta). A Atlas ficou em pergunta porque as duas peças anteriores dela foram "fato + giro". Sem colisão WT × Vet Regional em 23/10 (VR sem peça nesse dia; se fechar em gato/castração, uma muda de dia).
+
+**Achados laterais:** CIIL, calendário da série "Isso Tem Nome" desatualizado (numeração 06/07) e peça de 19/10 com selo `07` e dependente da PAUTA #4. Atlas, sem registro de como a peça de 19/10 subiu (gate do corretor vencido em 16/10). WT, artes antigas em ~/Downloads com delivery de ração e dias da clínica (maio, a confirmar). BodySkin, o anúncio 2B e o Reels de quarta 21/10 dividem o gancho da barba, e o prazo do 11.11 com a Cintia cai num domingo (25/10). Contele, CTA "SOL" + conta é a 4ª vez desde 05/10.
+
+---
+
 ## 2026-10-16 (3) — Lote de segunda 19/10 (9 clientes + Max refeita + Contele refeita)
 
 Peças novas: Araruama Tintas (reboco novo, 28 dias de cura) · Bazar Ribeiro (o nome começa com Bazar: utilidades de casa) · Bruno das Tintas (meia parede) · Casas Rio Bahia (vaso 100 mm, pia 40 mm; série 03) · Celmapel (bombom manchado, tipo de chocolate) · Dijana (glossário do canteiro) · Império (telhado: confere no dia de sol) · Lagos Padrão (o padrão é do dono, não da Enel) · Maicom (piso claro ou escuro perto da praia) · **Max refeita no foco tributário** (imposto pago a mais não gera aviso). Atlas, BodySkin, CIIL, MR, Veneza, Vet Regional e WT já tinham segunda pronta. **Contele refeita** a pedido de PH: em vez de ensinar a conta, os modelos EcoFlow lado a lado com o tempo de cada um numa carga de 100 W ([peça](../clients/contele-solar/conteudo/posts/2026-10-19-quanto-dura-cada-ecoflow.md)).

@@ -2,11 +2,19 @@
 
 Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes de fechar a 1ª estratégia mensal.
 
+## 🟡 Nova (2026-10-19) — sexta 23/10 e calendário da série
+
+[Peça de 23/10](conteudo/posts/2026-10-23-espondilite-piora-parada-melhora-mexendo.md): a Espondilite volta, revisada, no slot de venda.
+- 🔴 **OK do RT** (8 itens na peça). Pela [PAUTA #2](reuniao-mensal/PAUTA.md), segue sem fluxo combinado.
+- 🟡 **O calendário da [linha editorial](estrategia/linha-editorial-isso-tem-nome.md) está desatualizado.** Ele ainda mostra 03 Crohn, 06 Espondilite, 07 Retocolite e 10 Artrite Psoriásica. No feed, a 03 foi Artrite Psoriásica e a Retocolite sai como 06. Sobram 07 a 10 pra Crohn, Hidradenite, Asma e Espondilite. **Refazer a tabela antes da segunda 26/10.** Se a Espondilite entrar na série, o gancho de segunda não pode usar colchão, madrugada nem "piora parada".
+- 🟡 **A semana 19–23/10 tem duas doenças** (Retocolite na segunda, Espondilite na sexta), o que quebra a linha temática semanal. A conversão da Retocolite não dá pra fazer enquanto a [PAUTA #4](reuniao-mensal/PAUTA.md) estiver aberta. PH decide se aceita, ou se prefere outra peça na sexta.
+- 🟡 **A peça de 19/10 ainda cita a Espondilite como "sexta 16/10"** e o selo `07 de 10`. A PAUTA decidiu 06. Conferir o selo antes do brief, se a arte ainda não saiu.
+
 ## 🔴 Nova (2026-10-15) — saídas da reunião com o cliente
 
 Fonte: [resumo de 15/10](reuniao-mensal/resumos/2026-10-15-resumo-reuniao.md).
 - ✅ ~~**Qual é o convênio novo?**~~ **OMINT** (PH, 15/10), nas duas unidades, consultas e tratamentos. 🟡 Fica uma dúvida: ele já constava como aceito em 17/09. A peça não depende disso (etiqueta "AGORA NAS DUAS UNIDADES", ver [peça de 16/10](conteudo/posts/2026-10-16-novo-convenio-omint.md)).
-- ✅ **Resolvido (PH, 15/10): sexta 16/10 é o OMINT**, e a Espondilite volta pra fila sem data. ~~O que sai na sexta 16/10?~~ Carlos disse que "o post do novo plano já está em produção e sairia na sexta", mas no repositório a peça de sexta 16/10 é a de [Espondilite](conteudo/posts/2026-10-16-espondilite-dor-que-melhora-com-movimento.md), e não existe peça de convênio pra essa data. PH decide: o convênio entra na sexta e a Espondilite sai da semana, ou o convênio vai pra segunda/quarta seguinte (o cliente aceitou). A arte dedicada também precisa de 1 dia útil de designer.
+- ✅ **Resolvido (PH, 15/10): sexta 16/10 é o OMINT**, e a Espondilite volta pra fila sem data. ~~O que sai na sexta 16/10?~~ Carlos disse que "o post do novo plano já está em produção e sairia na sexta", mas no repositório a peça de sexta 16/10 é a de [Espondilite](conteudo/posts/2026-10-23-espondilite-piora-parada-melhora-mexendo.md), e não existe peça de convênio pra essa data. PH decide: o convênio entra na sexta e a Espondilite sai da semana, ou o convênio vai pra segunda/quarta seguinte (o cliente aceitou). A arte dedicada também precisa de 1 dia útil de designer.
 - 🟡 **Lista de vacinas** que a CIIL trabalha (ela vai mandar). Trava o post de vacinação infantil.
 - 🟡 **Vacina infantil também em São Gonçalo?** A fala foi sobre Araruama.
 - 🟡 **Dr. Felipe:** especialidade e unidade. Só importa se o nome for entrar em peça.
@@ -26,9 +34,9 @@ Fonte: [análise de 15/10](referencias/2026-10-15-analise-instagram-ciil.md).
 - 🟡 **Doença de Crohn está sem slot.** A 03 saiu como Artrite Psoriásica (que no calendário era a 10). Sugestão: Crohn em 09/11.
 - 🟡 **Grafia do selo:** a 03 está como `#03` no arquivo e as outras como `NN de 10`. Conferir nas artes publicadas qual está no ar e padronizar.
 
-## 🔴 Nova (2026-10-13) — post de sexta 16/10 (Espondilite Anquilosante)
+## 🔴 Nova (2026-10-13) — post de Espondilite Anquilosante (escrito pra 16/10, realocado pra sexta 23/10 em 19/10)
 
-[Peça](conteudo/posts/2026-10-16-espondilite-dor-que-melhora-com-movimento.md) escrita e retida. **Sétima peça clínica na fila do RT.** Itens específicos: o fraseado da dor inflamatória ("piora parada, alivia quando se mexe", acordar de madrugada) · "costuma começar em adulto jovem" · atraso de diagnóstico sem número · **a CIIL faz o imunobiológico pra espondilite, e o RT aceita "quando é indicado"?** · reumatologia avaliando quem chega sem diagnóstico.
+[Peça](conteudo/posts/2026-10-23-espondilite-piora-parada-melhora-mexendo.md) escrita e retida. **Sétima peça clínica na fila do RT.** Itens específicos: o fraseado da dor inflamatória ("piora parada, alivia quando se mexe", acordar de madrugada) · "costuma começar em adulto jovem" · atraso de diagnóstico sem número · **a CIIL faz o imunobiológico pra espondilite, e o RT aceita "quando é indicado"?** · reumatologia avaliando quem chega sem diagnóstico.
 🟡 **A peça 06 de 10 (Espondilite, segunda 12/10) não está no repositório.** Foi escrita e só não foi salva, ou não foi produzida? Se ainda for produzida, não pode usar colchão, postura nem madrugada como gancho.
 
 ## 🟡 Nova (2026-10-07) — peça de Dia das Crianças (12/10): atendimento no feriado

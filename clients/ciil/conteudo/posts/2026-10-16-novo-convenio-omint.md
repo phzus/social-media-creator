@@ -4,7 +4,7 @@
 
 > **Por que esta peça.** Pedido central da [reunião de 15/10](../../reuniao-mensal/resumos/2026-10-15-resumo-reuniao.md): quando entra plano novo, a CIIL precisa de uma **arte só dele**, porque na imagem com todos os convênios o médico parceiro não percebe a novidade. PH confirmou em 15/10: o plano é **OMINT**, vale **nas duas unidades** e **pra consultas e tratamentos**.
 >
-> **Sai no slot de sexta 16/10 no lugar da [peça de Espondilite](2026-10-16-espondilite-dor-que-melhora-com-movimento.md)**, que volta pra fila sem data (é evergreen e ainda espera o RT).
+> **Sai no slot de sexta 16/10 no lugar da [peça de Espondilite](2026-10-23-espondilite-piora-parada-melhora-mexendo.md)**, que volta pra fila sem data (é evergreen e ainda espera o RT).
 >
 > **Ângulo:** a notícia é o plano, então o nome OMINT precisa estar grande e legível de longe. O gancho é de quem tem o plano: a pergunta "Tem OMINT?" filtra o público na primeira palavra.
 

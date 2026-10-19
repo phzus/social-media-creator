@@ -4,6 +4,33 @@ Log datado do trabalho feito pra CIIL. Topo = mais recente. Entrada por bloco de
 
 ---
 
+## 2026-10-19 — Sexta 23/10: Espondilite volta, revisada, no slot de venda
+
+[Peça](conteudo/posts/2026-10-23-espondilite-piora-parada-melhora-mexendo.md): estático 4:5, venda, fora da série (etiqueta neutra, sem selo). É a peça de 13/10 que saiu do slot de 16/10 pro OMINT. O arquivo foi **renomeado**, não duplicado, e os links foram atualizados.
+
+**Headline:** *"Já trocou o colchão e a dor nas costas continua? / Repare se ela piora parada e melhora quando você se mexe."* O mecanismo é a objeção respondida, em pergunta + giro. A headline antiga abria por enumeração, igual à Retocolite de 19/10, e foi trocada. CTA: **"Agende sua avaliação pelo WhatsApp."**
+
+**Por que a Espondilite:**
+- A vacina infantil espera a lista de vacinas.
+- A conversão da Retocolite espera a PAUTA #4.
+- O convênio já saiu no pacote do OMINT.
+- A Espondilite é doença, tratamento e venda, que é o foco que o cliente confirmou em 15/10. A reumato da casa e a avaliação sem diagnóstico estão confirmadas.
+
+Custo: a semana fica com duas doenças.
+
+**Validador-copy:** rodado sem confiar na Checagem. Achou 1 bloqueante, já corrigido. A primeira versão da headline nova ("talvez o colchão nunca tenha sido o problema") usava um sinal que não separa da dor mecânica e caía no molde "pode não ser X". Os 5 ajustes foram aplicados:
+- o apoio não repete mais a headline
+- a legenda abre pela cena
+- saiu a tautologia
+- a cama saiu da imagem
+- o fecho não copia mais o da Retocolite
+
+**Travas:**
+- 🔴 RT (8 itens).
+- 🟡 O calendário da série está desatualizado (07 a 10 a refazer).
+
+---
+
 ## 2026-10-15 (3) — Sexta 16/10: anúncio do OMINT nas duas unidades
 
 PH confirmou: o convênio da reunião é o **OMINT**, nas duas unidades, consultas e tratamentos, com arte pra sexta. [Peça](conteudo/posts/2026-10-16-novo-convenio-omint.md): feed 4:5 + 9:16 (stories, status e médicos parceiros), headline "Tem OMINT? / Agora dá pra usar na CIIL.". Vai junto o update do carrossel (só conferir se o OMINT está no slide publicado) e da imagem do destaque.
@@ -79,7 +106,7 @@ Atualizei a linha 07 do calendário da [linha editorial](estrategia/linha-editor
 
 ## 2026-10-13 — Post de sexta 16/10: "Trocou o colchão, corrigiu a postura, e a dor nas costas continua te acordando de madrugada."
 
-Lote de sexta de toda a carteira. [Peça](conteudo/posts/2026-10-16-espondilite-dor-que-melhora-com-movimento.md): estático 4:5, venda, **fora da série** (sem selo, sem numeração). É o slot de conversão da semana da **Espondilite Anquilosante** (06 de 10 no calendário da temporada). Mecanismo: **objeção respondida**. A pessoa já se explicou a dor (colchão, postura, cadeira), e a peça responde com o sinal que não bate com isso: piora parada, alivia com movimento, acorda de madrugada. Fecha com reumatologia na CIIL avaliando mesmo sem diagnóstico, e o imunobiológico "quando indicado".
+Lote de sexta de toda a carteira. [Peça](conteudo/posts/2026-10-23-espondilite-piora-parada-melhora-mexendo.md): estático 4:5, venda, **fora da série** (sem selo, sem numeração). É o slot de conversão da semana da **Espondilite Anquilosante** (06 de 10 no calendário da temporada). Mecanismo: **objeção respondida**. A pessoa já se explicou a dor (colchão, postura, cadeira), e a peça responde com o sinal que não bate com isso: piora parada, alivia com movimento, acorda de madrugada. Fecha com reumatologia na CIIL avaliando mesmo sem diagnóstico, e o imunobiológico "quando indicado".
 
 **Por que agora:** a linha temática da semana pede que a sexta converta. Estático porque as duas sextas anteriores foram carrossel.
 

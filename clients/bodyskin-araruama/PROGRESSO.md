@@ -4,6 +4,20 @@ Log datado do trabalho feito pra BodySkin. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-10-19 — Post de sexta 23/10: "Na quarta, o pelo que o barbeiro tirou no sábado já voltou." (3 sessões grátis, dezena masculina)
+
+[Peça](conteudo/posts/2026-10-23-o-pelo-que-o-barbeiro-tirou-no-sabado.md): estático 4:5 tipográfico + animado de 5s, P5 Oferta, slot 11 do [calendário de outubro](estrategia/2026-10.md). Primeira peça de feed do mês pra homem. Mecanismo: **anúncio direto da casa** ([voice-quality-checklist §2.8](../../shared/voice-quality-checklist.md)) aberto por cena de rotina masculina (o contorno da barbearia que volta no meio da semana), com a oferta dita na segunda linha e o "3" gigante em laranja como elemento principal da arte.
+
+**Condição usada:** 3 sessões grátis de depilação a laser na faixa de barba ou na nuca — oferta da Cintia (decisão #6 da [reunião de 17/09](reuniao-mensal/resumos/2026-09-17-resumo-reuniao.md), [PADROES §9](PADROES.md)). Nenhum termo afirmado (área por pessoa, elegibilidade, prazo, validade): a peça manda as regras pro atendimento, com o disclaimer dos anúncios. **Versão B** pronta com o R$ 89 do Outubro OFF (10 sessões, área pequena), caso a gratuidade não esteja rodando — ela não veio no pacote de outubro.
+
+**Validação de copy (subagent):** 1 bloqueante corrigido — a legenda dizia "como o laser se sai" (veredito de eficácia em 3 sessões) e "antes de decidir qualquer coisa" (afirmava que não há obrigação, termo não confirmado). Também: "bochecha" encaixava área fora da oferta, "lâmina no espelho" e "também gratuita" repetiam o anúncio 2B, "cada pele responde de um jeito" seria a 3ª sexta seguida, e o layout (foto + faixa preta) repetia 16/10 e 19/10. Tudo ajustado; o print 8 do kit fica reservado ao anúncio 2B.
+
+**Travas:** 🔴 a gratuidade está rodando e vale pra faixa de barba e nuca? (senão sobe a B) · 🟡 termos · 🟡 avaliação vem antes da 1ª sessão grátis? · 🟡 escopo da "faixa de barba" (o maxilar entra?) · 🟡 equipe do WhatsApp avisada · ⚠️ gratuidade aprovada pela RT só por analogia com 15/09. Envio à Cintia **hoje 19/10 até 15h**, fora da semana de antecedência.
+
+**Convivência:** o Reels de quarta 21/10 (ainda não escrito) fica com a lâmina em casa ("faz a barba todo dia"); a barbearia é da sexta. A versão animada desta peça compete com o anúncio 2B (mesma oferta, mesmas datas, mesmo raio) — tratar como teste de criativo.
+
+---
+
 ## 2026-10-15 — Primeira análise automática de Instagram: BodySkin × Espaço Laser
 
 Piloto da coleta com Playwright (sem login): 12 posts de cada perfil, com curtidas, comentários, legenda e arte. [Análise](referencias/2026-10-15-analise-instagram-bodyskin-x-espacolaser.md) · [dados](referencias/instagram/2026-10-15/).

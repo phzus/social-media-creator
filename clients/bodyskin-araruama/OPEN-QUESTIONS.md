@@ -3,6 +3,16 @@
 Legenda: 🔴 bloqueante · 🟡 importante (não trava tudo) · 🟢 calibração.
 Atualizar assim que PH ou a cliente responderem. Resposta vira registro em [context.md](context.md), [BRIEFING.md](BRIEFING.md) ou [PADROES.md](PADROES.md).
 
+## 🔴 2026-10-19 — Post de sexta 23/10 (3 sessões grátis, faixa de barba/nuca): o que confirmar
+
+[Peça](conteudo/posts/2026-10-23-o-pelo-que-o-barbeiro-tirou-no-sabado.md) pronta, envio à Cintia hoje 19/10 até 15h. Pra subir:
+
+1. 🔴 **As 3 sessões grátis estão rodando em outubro e valem pra faixa de barba e nuca?** A oferta é da reunião de 17/09 e não veio no pacote do Outubro OFF. Se não estiver, sobe a versão B (R$ 89, área pequena).
+2. 🟡 **Termos** (abertos desde 24/09): uma área por pessoa (o "ou" da oferta sugere que sim)? Só quem nunca fez laser na BodySkin? Prazo de uso? Validade? A gratuidade exige fechar pacote?
+3. 🟡 **A avaliação gratuita vem antes da primeira sessão grátis?** A peça afirma, com base no context.md e no texto dos anúncios, não numa fala da Cintia.
+4. 🟡 **Escopo da "faixa de barba" na BodySkin** — quais pontos, e o maxilar entra? (No 9.9, maxilar era área à parte.)
+5. 🟡 **Incluir a gratuidade na lista de sim ou não da RT** ([estratégia §4](estrategia/2026-10.md)). Hoje ela só está liberada por analogia com o brinde de 15/09.
+
 ## 🔴 2026-10-15 — Peças aprovadas fora da grade: quem publica e o que aconteceu com elas?
 
 A [coleta de 15/10](referencias/2026-10-15-analise-instagram-bodyskin-x-espacolaser.md) (§4) não achou na grade as peças de 21/09, 25/09, 26/09, 01/10, 02/10, 05/10 (avaliação), 09/10 e 12/10. Em 11/09, 14/09 e 23/09 foi ao ar outro tema na data da Lone. *Pergunta:* quem posta no perfil, e essas peças foram recusadas, adiadas ou trocadas? *Trava:* qualquer leitura de resultado de outubro. Vai como item 0 da [PAUTA](reuniao-mensal/PAUTA.md).
