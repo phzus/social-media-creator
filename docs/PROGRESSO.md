@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-20 (5) — BodySkin: carrossel de harmonização facial (referência do Pinterest)
+
+Capa "Antes da primeira harmonização facial, parte da conversa é sobre o que não fazer." Validada, mas travada pelo gate da RT (injetável, aberto desde 26/07). O slot de 23/10 já tem a peça do barbeiro. Detalhe em [clients/bodyskin-araruama/PROGRESSO.md](../clients/bodyskin-araruama/PROGRESSO.md).
+
+---
+
 ## 2026-10-20 (4) — Lote de sexta 23/10 (9 clientes)
 
 PH pediu as peças de sexta 23/10 pra carteira, menos Veneza, Bruno das Tintas, Araruama Tintas, WT e Celmapel. CIIL, BodySkin e Contele já tinham peça. Lagos Padrão (posta só quando precisa), Engetec, Nova União e Quero Tintas ficaram fora.
