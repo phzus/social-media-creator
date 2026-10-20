@@ -16,6 +16,14 @@ PH: *"Guarda e, quando eu te pedir, você me dá um produto e o preço dele, tip
 - **Conferência:** soma do valor vendido = R$ 104.171,80, igual ao TOTAL GERAL do relatório. São 1.431 itens: A 1–337, B 338–749 e C 750–1431.
 - O relatório é dos **últimos 30 dias**. Produto que não vendeu no período não aparece. Preço muda com o tempo, então em peça de venda vale confirmar a vigência com o cliente.
 
+## ⚠️ Preço muda por unidade (achado de 2026-10-20)
+
+O feed mostra o mesmo produto com preço diferente em cada loja: Maxi Ducha a R$ 89,90 em Maricá e R$ 79,90 em Saquarema; Prote Raio a R$ 49,90 em Maricá e R$ 46,90 em Saquarema. Os preços da tabela batem com Saquarema. Até o cliente confirmar ([OQ #17](../OPEN-QUESTIONS.md)), trate a tabela como **preço de Saquarema**.
+
+## Conferir se já foi postado
+
+Antes de sugerir produto, rodar `scripts/instagram/ja-postado.sh "bazarribeiro_marica bazarribeiro_saquarema" "termo1|termo2"`. O script lê os 12 posts mais recentes de cada perfil (≈ 1 mês), sem login, e também confere os posts da pasta `conteudo/`.
+
 ## Leitura rápida (pra pauta)
 
 - **Mais vendidos em faturamento:** cabinho Cobrecom 10 mm e 4 mm (rolo 100 m), duchas Lorenzetti (Bella Ducha 4T, Maxi Ducha), protetor de raio PW pra geladeira, luminária portátil Kian, lâmpada Tramontina LED 9 W (1.989 unidades, a R$ 1,90).
