@@ -55,6 +55,7 @@ Instagram (instagram.com/dijana_mt/). Formato-base: arte de oferta (produto/pre�
 - **Julho do Pedreiro** — sazonal, valorização do profissional.
 - **Dia do Cliente** — café da manhã + ofertas + presença na loja.
 - **Café da manhã na loja — quarta 07/10/2026** (PH, 05/10). Divulgação: stories 05–07/10 + [feed 06/10](conteudo/posts/2026-10-06-cafe-da-manha-na-dijana.md) + [Reels 07/10](conteudo/roteiros/2026-10-07-cafe-da-manha.md). Horário e formato (aberto ou só cliente) a confirmar.
+- **Outubro da Construção** — campanha de oferta de outubro/2026 com template próprio (lettering amarelo, capacetes, bloco de produto + selo "dinheiro ou Pix retirando" + preço). Arte de 16/10: Cimento Campeão CPIII 50 kg a R$ 33,00. Em 20/10: queima de estoque a R$ 53,50 até 23/10 (produto a confirmar).
 - **Sorteio da Air Fryer** — cupom em compra ≥ R$ 150, regulamento validado. Roteiro-base já existe (ver [BRIEFING §4](BRIEFING.md)).
 
 ## Anti-padrões (o que a Lone já diagnosticou)

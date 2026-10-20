@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-20 — Dijana: headline de queima de estoque (Outubro da Construção)
+
+R$ 53,50 no dinheiro, retirada na loja, até sexta 23/10. Headline recomendada "QUANDO ZERAR, ACABOU!" + 4 alternativas. Produto ainda a confirmar. Detalhe em [clients/dijana-materiais-construcao/PROGRESSO.md](../clients/dijana-materiais-construcao/PROGRESSO.md).
+
+---
+
 ## 2026-10-19 (5) — Lagos Padrão: 3 artes de anúncio dos carros-chefe
 
 PH pediu "artes de anúncio para Lagos Padrão" sem produto, então abriu nos carros-chefe do logo: poste padrão de fibra (com R$ 945), aluguel de munck e padrão de entrada completo. Molde direto da casa (§2.8). Validador aplicado. Detalhe em [clients/lagos-padrao/PROGRESSO.md](../clients/lagos-padrao/PROGRESSO.md).

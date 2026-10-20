@@ -4,6 +4,12 @@ Log datado do trabalho feito pra Dijana. Topo = mais recente. Entrada por bloco 
 
 ---
 
+## 2026-10-20 — Headline de queima de estoque (Outubro da Construção)
+
+PH: promoção pra zerar estoque, R$ 53,50 no dinheiro retirando na loja, até sexta 23/10. [Peça](conteudo/posts/2026-10-20-queima-de-estoque-outubro-da-construcao.md) com headline recomendada *"QUANDO ZERAR, ACABOU!"* + 4 alternativas, todas no template "Outubro da Construção" (o mesmo da arte do Cimento Campeão CPIII 50 kg a R$ 33,00 de 16/10, achada em `~/Downloads`). Escassez só com fato: prazo + estoque, sem "imbatível" e sem número de unidades inventado. **Trava:** PH não disse o produto.
+
+---
+
 ## 2026-10-16 — Post de segunda 19/10: "Chapisco, traço, prumo, bater laje"
 
 Lote de segunda da carteira. [Peça](conteudo/posts/2026-10-19-chapisco-traco-prumo-bater-laje.md): arte única, pilar Compra certa + Profissional, mecanismo **glossário do canteiro** (quatro palavras do pedreiro traduzidas em uma linha cada; traço e bater laje ligados à lista de material). Headline: *"Chapisco, traço, prumo, bater laje: / quem está em obra ouve isso do pedreiro e nem sempre sabe o que é."* CTA: *"Passa a lista do pedreiro no WhatsApp (22) 99752-1356 e pede o orçamento."* (intenção "quero um orçamento" pedida pelo Igor em 02/09; verbo novo na conta). Sem preço, oferta, sorteio ou entrega.
