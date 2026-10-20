@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-20 (2) — Atlas: Halloween de sexta 30/10 ("NÃO FAZ ISSO!")
+
+Pôster de terror com as 5 situações em que o seguro auto pode não pagar, CTA de comentário. Evita fantasma e inversão porque a Contele usa os dois no mesmo dia. Validador aplicado; gate do corretor aberto. Detalhe em [clients/atlas-corretora/PROGRESSO.md](../clients/atlas-corretora/PROGRESSO.md).
+
+---
+
 ## 2026-10-20 — Dijana: headline de queima de estoque (Outubro da Construção)
 
 R$ 53,50 no dinheiro, retirada na loja, até sexta 23/10. Headline recomendada "QUANDO ZERAR, ACABOU!" + 4 alternativas. Produto ainda a confirmar. Detalhe em [clients/dijana-materiais-construcao/PROGRESSO.md](../clients/dijana-materiais-construcao/PROGRESSO.md).
