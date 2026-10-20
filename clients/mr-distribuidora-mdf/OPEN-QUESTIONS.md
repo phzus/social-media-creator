@@ -7,11 +7,18 @@ As 30 perguntas abaixo vieram do próprio Briefing Estratégico (§17), organiza
 
 ---
 
-## 📅 2026-10-20 — Oferta de sexta 23/10 (pinador pneumático)
+## 📅 2026-10-20 — Educativo de sexta 23/10 (folga da corrediça)
 
-- 🔴 **Preço do Pinador pneumático Sigma (tipo F 18/50, F50):** R$ 377,50 à vista / R$ 444,00 no cartão em até 6x vêm do catálogo "Mega Descontão" (16/07) e do encarte "Mês dos Pais" (11/08). Confirmar vigência e estoque antes de publicar. Peça: [2026-10-23](conteudo/posts/2026-10-23-martelada-fora-do-pino.md).
-- 🔴 **Balcão:** "O pinador F50 é o que vocês indicam pra fixar moldura e guarnição no lugar do martelo? Precisa avisar algo sobre o compressor ou sobre o pino/bitola que se compra junto?" ([PADROES §1](PADROES.md)).
-- 🟡 **Preço atual de MDF/ferragem:** as duas ofertas da conta (16/10 e 23/10) saíram de ferramenta Sigma da campanha de agosto, porque é o único preço registrado. Pra alternar categoria na próxima sexta de oferta, a MR precisa mandar preço de chapa ou ferragem.
+- 🔴 **Balcão:** "As corrediças telescópicas que vocês vendem pedem quanto de folga por lado: 12,5, 12,7 ou 13 mm? Tem a ficha do fabricante?" A arte usa 12,5 mm (vão de 500 mm → caixa de 475 mm), número editável. Peça: [2026-10-23](conteudo/posts/2026-10-23-gaveta-nao-entrou-folga-da-corredica.md) ([PADROES §1](PADROES.md)).
+- 🔴 **Balcão:** a conta é sobre a "largura externa da caixa" da gaveta? E "medir o vão na frente e no fundo e trabalhar com a menor" é a orientação que vocês dão?
+
+## ~~📅 2026-10-20 — Oferta de sexta 23/10 (pinador pneumático)~~ ⚪ sem efeito
+
+> ⚪ **Sem efeito (20/10):** o pinador já foi postado (PH) e a peça saiu da sexta 23/10 ([referência](conteudo/posts/2026-10-20-pinador-sigma-ja-publicado-referencia.md)). As duas perguntas abaixo só existiam por ela. O item de preço de MDF/ferragem continua valendo.
+
+- ⚪ ~~**Preço do Pinador pneumático Sigma (tipo F 18/50, F50):** confirmar vigência e estoque.~~ Sem efeito.
+- ⚪ ~~**Balcão:** "O pinador F50 é o que vocês indicam pra fixar moldura e guarnição no lugar do martelo?"~~ Sem efeito.
+- 🟡 **Preço atual de MDF/ferragem:** as ofertas da conta saíram de ferramenta Sigma da campanha de agosto, porque é o único preço registrado. Pra alternar categoria na próxima sexta de oferta, a MR precisa mandar preço de chapa ou ferragem.
 
 ## 📅 2026-10-14 — Série #04 (segunda 19/10, cor aprovada pela amostra)
 

@@ -3,7 +3,7 @@
 > Documento vivo e **curado** — é o que PH abre minutos antes da reunião de alinhamento.
 > O log completo e técnico de pendências continua em [OPEN-QUESTIONS.md](../OPEN-QUESTIONS.md); aqui entra só o que vale ocupar o tempo da reunião.
 
-**Última atualização:** 2026-10-20 · **Próxima reunião:** ❓ a marcar · **Última reunião:** — (nenhuma registrada)
+**Última atualização:** 2026-10-20 (pinador saiu, educativo de corrediça entrou) · **Próxima reunião:** ❓ a marcar · **Última reunião:** — (nenhuma registrada)
 
 ---
 
@@ -17,7 +17,8 @@
 | 4 | **Dias e horários de funcionamento.** | Falta pra qualquer peça de atendimento. |
 | 5 | **Quais dias e horários concentram o movimento de marceneiro?** | Define horário de publicação — o público dessa conta trabalha em horário comercial e olha o celular em horário específico. |
 | 6 | **A MR trabalha componentes de ajuste/nivelamento de móvel (pé regulável, sapata, calço)?** E o balcão concorda que móvel apoiado em piso fora de nível desalinha porta e gaveta? | A série "Detalhe que gera indicação" #03 (05/10) usa esse enquadramento sem nomear produto justamente porque o portfólio não está confirmado. Com a confirmação, o mesmo tema rende peça de oferta com item nomeado. |
-| 7 | **Tabela de preço atual (MDF, ferragem e as ferramentas Sigma do encarte de agosto).** | As ofertas de 16/10 e 23/10 usam preço de julho/agosto, com vigência em aberto; e sem preço de chapa/ferragem a sexta de oferta fica presa em ferramenta. |
+| 7 | **Tabela de preço atual (MDF, ferragem e as ferramentas Sigma do encarte de agosto).** | A oferta de 16/10 usou preço de agosto, com vigência em aberto; sem preço de chapa/ferragem a sexta de oferta fica presa em ferramenta. (A oferta do pinador de 23/10 saiu: já tinha sido postado.) |
+| 8 | **Quanto de folga por lado pedem as corrediças telescópicas que a MR vende (12,5, 12,7 ou 13 mm)?** | O educativo de sexta 23/10 traz a conta na arte (vão de 500 → caixa de 475); número técnico errado queima a autoridade com o marceneiro. |
 
 ## 2. 💡 Insights e oportunidades que a Lone observou
 

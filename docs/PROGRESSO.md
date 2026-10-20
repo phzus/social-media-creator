@@ -22,7 +22,7 @@ PH pediu as peças de sexta 23/10 pra carteira, menos Veneza, Bruno das Tintas, 
 | Maicom | [1.000 modelos aqui pertinho](../clients/maicom-minerais-unamar/conteudo/posts/2026-10-23-mil-modelos-aqui-pertinho.md) | anúncio de proximidade |
 | Império | [varal + Telha Plan](../clients/imperio-material-de-construcao/conteudo/posts/2026-10-23-varal-cobre-com-telha-plan.md) | cena → produto |
 | Vet Regional | [Nefrologia: "muita" não é número](../clients/veterinaria-regional/conteudo/posts/2026-10-23-nefrologia-mede-a-agua-de-um-dia.md) | impressão vira número |
-| MR Distribuidora | [martelada fora do pino](../clients/mr-distribuidora-mdf/conteudo/posts/2026-10-23-martelada-fora-do-pino.md) | consequência → ferramenta |
+| MR Distribuidora | ~~pinador~~ (já tinha sido postado, PH 20/10) → [educativo: vão de 500 mm não leva gaveta de 500 mm](../clients/mr-distribuidora-mdf/conteudo/posts/2026-10-23-gaveta-nao-entrou-folga-da-corredica.md) | número contraintuitivo + conta pronta · salvar |
 | Casas Rio Bahia | [bloco com canal em cima](../clients/casas-rio-bahia/conteudo/posts/2026-10-23-bloco-com-canal-em-cima.md) | formato explica a função |
 | Max Contabilidade | [prazo IBS/CBS até 30/10](../clients/max-contabilidade/conteudo/posts/2026-10-23-prazo-ibs-cbs-prorrogado-30-de-outubro.md) | prazo com data real (vence 30/10) |
 

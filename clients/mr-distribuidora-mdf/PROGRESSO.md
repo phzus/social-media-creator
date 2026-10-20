@@ -4,9 +4,25 @@ Log datado do trabalho feito pra MR Distribuidora. Topo = mais recente. Entrada 
 
 ---
 
-## 2026-10-20 — Post de sexta 23/10: "Uma martelada fora do pino e a peça pronta sai marcada."
+## 2026-10-20 — Sexta 23/10 vira educativo: "Vão de 500 mm não leva gaveta de 500 mm."
 
-[Peça](conteudo/posts/2026-10-23-martelada-fora-do-pino.md): **estático** (arte única 4:5), segunda peça do pilar "Oferta com motivo". Fora da série "Detalhe que gera indicação".
+PH: *"O pinador na MR já foi, vamos de educativo nessa sexta?"* O pinador já tinha sido postado; a oferta saiu da sexta e a [peça antiga](conteudo/posts/2026-10-20-pinador-sigma-ja-publicado-referencia.md) ficou como referência (renomeada, não apagada).
+
+[Peça nova](conteudo/posts/2026-10-23-gaveta-nao-entrou-folga-da-corredica.md): **estático** (arte única 4:5), pilar "Material certo, aplicação certa", fora da série "Detalhe que gera indicação". Tema: folga lateral da corrediça telescópica na largura da caixa da gaveta.
+
+- **Mecanismo:** afirmação contraintuitiva com número → regra de bolso com exemplo calculado na arte (largura externa da caixa = vão interno − 25 mm; vão de 500 → caixa de 475). Número com premissa escrita ([[feedback-numero-concreto-com-premissa]]). Corrediça, que a #03 tinha descartado pra não repetir território dentro da série, entra aqui fora da série e por outro ângulo (conta de projeto).
+- **CTA:** salvar ("Salve esta conta antes de cortar a próxima gaveta."), variando do WhatsApp das sextas 16/10 e do pinador. Linha "Educativo" adicionada ao PADROES §5.
+- **Validação (validador-copy, sem confiar na autochecagem):** headline trocada ("Você mediu o vão certinho. / A gaveta não entrou mesmo assim." repetia o gancho "fez certo, deu errado" de 05/10 e 19/10); "474,6 mm" virou milímetro inteiro; "gaveta" → "caixa" na conta (a frente é outra medida); legenda reescrita sem repetir a arte e sem duas afirmações erradas ou sem fonte ("parafusada entre as laterais", corrediça com amortecimento com folga diferente); conferência de comprimento cortada.
+- **Travas:** 🔴 balcão confirma a folga por lado das telescópicas que a MR vende (12,5 / 12,7 / 13 mm). Os números da arte são editáveis e a peça lista as trocas pra cada resposta. Também vai pro balcão: "largura externa da caixa" e "medir frente e fundo, usar a menor" (PADROES §1).
+- **Prazo:** brief pro designer qua 21/10 manhã · cliente qui 22/10 até 15h · publicação sex 23/10.
+
+---
+
+## 2026-10-20 — ~~Post de sexta 23/10: "Uma martelada fora do pino e a peça pronta sai marcada."~~ ❌ saiu da sexta
+
+> **Atualização (20/10):** o pinador já tinha sido postado (PH). A peça saiu da sexta 23/10 e ficou como referência anti-repetição; as travas abaixo (vigência do preço, balcão sobre o pinador) ficaram sem efeito. A sexta virou o educativo da entrada acima.
+
+[Peça](conteudo/posts/2026-10-20-pinador-sigma-ja-publicado-referencia.md): **estático** (arte única 4:5), segunda peça do pilar "Oferta com motivo". Fora da série "Detalhe que gera indicação".
 
 - **Mecanismo:** consequência concreta → ferramenta que tira o risco (diferente da objeção respondida de 16/10 e do contraste de escala de 19/10). Molde de anúncio direto do checklist §2.8: headline em caixa alta com a cena, preço e CTA na própria arte, exclamação só no CTA.
 - **Produto e preço:** Pinador pneumático Sigma, tipo F 18/50 (F50), capacidade de 10 a 50 mm — R$ 377,50 à vista / R$ 444,00 no cartão, parcelado em até 6x. Fonte: `Catalogo_MR_Distribuidora.pdf` (~/Downloads, 16/07, "Mega Descontão", primeira vez usado no repo) e encarte "Mês dos Pais 2" (11/08), mesmo preço nos dois. **[confirmar vigência]**. Sem "de/por", sem prazo de oferta.

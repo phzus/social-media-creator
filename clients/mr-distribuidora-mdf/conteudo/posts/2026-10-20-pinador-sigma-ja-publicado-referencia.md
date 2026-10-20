@@ -1,5 +1,7 @@
 # Post — "Uma martelada fora do pino e a peça pronta sai marcada."
 
+**Status: ❌ fora da sexta 23/10 — o pinador já foi postado (PH, 20/10).** Arquivo mantido só como referência anti-repetição (ângulo "martelada que marca a peça", produto, preço de julho/agosto). A sexta 23/10 virou educativo: [2026-10-23-gaveta-nao-entrou-folga-da-corredica.md](2026-10-23-gaveta-nao-entrou-folga-da-corredica.md). Renomeado de `2026-10-23-martelada-fora-do-pino.md`.
+
 **Cliente:** mr-distribuidora-mdf · **Data:** 2026-10-23 (sexta — slot "oferta/venda" da cadência, [context.md](../../context.md)) · **Plataforma:** Instagram (@mr.distribuidoramdf) · **Formato:** Estático (arte única, 4:5) · **Pilar:** Oferta com motivo (encosto em Ferramenta e produtividade) · **Série:** fora da "Detalhe que gera indicação" (sem numeração)
 
 > **Mecanismo: consequência concreta → ferramenta que tira o risco.** A arte abre no acidente que todo marceneiro já viu na própria bancada (o martelo escapa do pino pequeno e marca a peça já acabada) e fecha no produto, no preço e no CTA, tudo na arte. Diferente da sexta 16/10 (objeção respondida em carrossel: "tico-tico eu já tenho") e da segunda 19/10 (contraste de escala amostra × móvel).
@@ -111,5 +113,6 @@ O que a peça **não** afirma: que o dedo deixa de ficar perto do bico (a mão s
 
 ## Histórico de revisões
 
+- **2026-10-20 v1.2:** saiu da sexta 23/10. PH: "O pinador na MR já foi, vamos de educativo nessa sexta?" O pinador já tinha sido postado; a peça fica como referência e a sexta vira educativo.
 - **2026-10-20 v1.1:** pós-validador (validador-copy): apoio reescrito ("entra no gatilho" era erro de construção; "sem o dedo segurando" era promessa de segurança sem fonte, saiu da arte e da legenda); "peça já lixada e pintada" → "peça pronta"; parcelamento desambiguado; 1º parágrafo da legenda sem tricolon; nome do produto não repete na arte (fica só na etiqueta do topo); rodapé do brief com endereço completo; hashtags variadas em relação a 16/10. CTA sem "voltagem" é exceção consciente ao literal do PADROES §5 (ferramenta pneumática).
 - **2026-10-20 v1:** escrita pro slot de sexta 23/10. Segunda peça do pilar "Oferta com motivo"; produto e preço do catálogo de julho e do encarte de agosto da MR.

@@ -43,6 +43,7 @@ Toda peça do pilar "Oferta com motivo" leva: produto identificado + aplicação
 | Oferta | "Consulte a condição no WhatsApp" |
 | Projeto | "Envie sua lista para orçamento" |
 | Consumidor leigo | "Mande uma foto da peça ou do problema" |
+| Educativo (sem produto) | Salvar a regra/conta ("Salve esta conta antes de…") — 2026-10-20, corrediça |
 
 ## 6. Meta Ads — nunca "loja inteira" no mesmo criativo
 
@@ -71,6 +72,7 @@ Projeto de cliente, depoimento ou imagem de marceneiro parceiro só entra com au
 
 ## Histórico
 
+- **2026-10-20** — §5: linha "Educativo (sem produto)", CTA de salvar (peça da corrediça, 23/10).
 - **2026-10-20** — §5: CTA de ferramenta pneumática sai sem "voltagem" (peça do pinador, 23/10).
 - **2026-10-07** — peça de Dia das Crianças (12/10). Criada a §9 (peça de data comemorativa).
 - **2026-09-16 (v1.0)** — criado no onboarding, a partir do Briefing Estratégico da Lone.
