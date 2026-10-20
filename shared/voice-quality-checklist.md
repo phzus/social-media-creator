@@ -96,6 +96,24 @@ Erro identificado na rodada PROGO v2 (2026-05-11). A supervisora descreveu uma *
 
 ---
 
+### 1.8. Português de Portugal (PH, 2026-10-20)
+
+Legenda publicada do Bazar Ribeiro (Maricá, 18/09 e 21/09) saiu com "fiabilidade", "equipa", "quinta" (sítio), "estamos à sua espera", "visitar-nos" e "ajudar". PH: *"é um erro mesmo, temos que ficar atentos."* Isso vem de ferramenta de IA ou tradutor e entrega na hora que a peça não foi escrita por alguém daqui.
+
+| ❌ PT-PT | ✅ PT-BR |
+|---|---|
+| fiabilidade | confiança, qualidade |
+| equipa | equipe |
+| quinta (propriedade) | sítio, chácara |
+| estamos à sua espera | a gente te espera |
+| visitar-nos / ajudá-lo / garanti-lo (ênclise) | vem visitar a gente / te ajudar / garantir o seu |
+| telemóvel, ecrã, casa de banho, autocarro | celular, tela, banheiro, ônibus |
+| "está a fazer" | "está fazendo" |
+
+Vale pra arte, legenda e roteiro. O validador também confere.
+
+---
+
 ## Parte 2 — Padrões que funcionam (validados)
 
 ### 2.1. Tríade de dor concreta
