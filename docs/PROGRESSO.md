@@ -4,6 +4,26 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-20 (4) — Lote de sexta 23/10 (9 clientes)
+
+PH pediu as peças de sexta 23/10 pra carteira, menos Veneza, Bruno das Tintas, Araruama Tintas, WT e Celmapel. CIIL, BodySkin e Contele já tinham peça. Lagos Padrão (posta só quando precisa), Engetec, Nova União e Quero Tintas ficaram fora.
+
+| Cliente | Peça | Mecanismo |
+|---|---|---|
+| Atlas | [seguro do carro e a renda](../clients/atlas-corretora/conteudo/posts/2026-10-23-seguro-do-carro-e-a-renda.md) | contraste do que já protege · comenta SIMULAR |
+| Dijana | [tubo 100 mm Fortlev](../clients/dijana-materiais-construcao/conteudo/posts/2026-10-23-tubo-100mm-fase-do-esgoto.md) + stories de último dia da queima | hiperlocal + fase da obra |
+| Bazar Ribeiro | [mop giratório](../clients/bazar-ribeiro/conteudo/posts/2026-10-23-mop-giratorio-limpa-de-pe.md) | jeito antigo → troca (ja-postado limpo nos 2 perfis) |
+| Maicom | [1.000 modelos aqui pertinho](../clients/maicom-minerais-unamar/conteudo/posts/2026-10-23-mil-modelos-aqui-pertinho.md) | anúncio de proximidade |
+| Império | [varal + Telha Plan](../clients/imperio-material-de-construcao/conteudo/posts/2026-10-23-varal-cobre-com-telha-plan.md) | cena → produto |
+| Vet Regional | [Nefrologia: "muita" não é número](../clients/veterinaria-regional/conteudo/posts/2026-10-23-nefrologia-mede-a-agua-de-um-dia.md) | impressão vira número |
+| MR Distribuidora | [martelada fora do pino](../clients/mr-distribuidora-mdf/conteudo/posts/2026-10-23-martelada-fora-do-pino.md) | consequência → ferramenta |
+| Casas Rio Bahia | [bloco com canal em cima](../clients/casas-rio-bahia/conteudo/posts/2026-10-23-bloco-com-canal-em-cima.md) | formato explica a função |
+| Max Contabilidade | [prazo IBS/CBS até 30/10](../clients/max-contabilidade/conteudo/posts/2026-10-23-prazo-ibs-cbs-prorrogado-30-de-outubro.md) | prazo com data real (vence 30/10) |
+
+Validador-copy rodou nas 9. **Ajuste de lote:** a Maicom abria em "VOCÊ DE UNAMAR VAI COMPRAR PISO?", mesmo molde da Dijana no mesmo dia, e virou abertura direta. No Bazar, a linha 2 repetia o corpo. Pendências abertas: dono dos comentários SIMULAR (Atlas), produto da queima ≠ tubo (Dijana), validação do escritório até 22/10 (Max) e vigência dos preços antigos (todos).
+
+---
+
 ## 2026-10-20 (3) — Atlas: Halloween refeito ("não tem filme de terror mais assustador que…")
 
 PH reprovou o "NÃO FAZ ISSO!". v2 com 4 headlines no molde dele; recomendada: garagem vazia + seguro vencido.

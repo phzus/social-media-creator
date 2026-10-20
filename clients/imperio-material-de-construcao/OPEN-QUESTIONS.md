@@ -38,3 +38,7 @@ Achado ao montar a [peça de sexta 16/10](conteudo/posts/2026-10-16-lona-na-jane
 ## 2026-10-16 — Peça de segunda 19/10 (telhado)
 
 20. 🟢 **A Império trabalha com telha, calha e material de impermeabilização?** O context diz só "linha completa do alicerce ao acabamento". A [peça de 19/10](conteudo/posts/2026-10-19-telhado-confere-no-dia-de-sol.md) não nomeia produto e o CTA não promete estoque; confirmando, rende desdobramento com os itens. Mesma lacuna vale pra areia (fina/média/grossa), tema descartado nesta peça.
+
+## 2026-10-20 — Peça de sexta 23/10 (Telha Plan)
+
+21. 🟡 **Telha Plan segue a R$ 115,00 e com estoque?** Preço da arte `(imperio material) telha plan.png` (06/08). Por unidade/chapa? Qual medida? Responde em parte o #20 (telha, ao menos em agosto). A [peça de 23/10](conteudo/posts/2026-10-23-varal-cobre-com-telha-plan.md) usa o card igual à fonte, sem medida nem validade.

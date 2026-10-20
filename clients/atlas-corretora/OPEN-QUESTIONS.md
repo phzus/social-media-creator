@@ -5,7 +5,17 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
-## 🟡 2026-10-19 (2) — Sexta 23/10 ficou sem peça
+## 🟡 Nova (2026-10-20) — post de sexta 23/10 (seguro do carro × renda): CTA SIMULAR
+
+A [peça de 23/10](conteudo/posts/2026-10-23-seguro-do-carro-e-a-renda.md) não afirma cobertura. A trava é operacional:
+
+1. **PH, antes do brief de qua 21/10 de manhã:** quem monitora os comentários SIMULAR e chama no direct, e em quanto tempo ([OQ #4](#4))? Sem dono, a faixa de CTA vai como camada separada e sobe o fallback *"Salva pra conversar sobre isso em casa."*
+2. **Corretor, até qua 21/10 12h:** a simulação pelo direct roda só com idade e capital/renda, sem dado de saúde? (Mesmo item 4 da peça de 19/10.)
+
+## ✅ 2026-10-19 (2) — Sexta 23/10 ficou sem peça (resolvida em 2026-10-20)
+
+> Slot preenchido com a peça acima.
+
 
 A peça de 23/10 subiu hoje (19/10) no lugar da de segunda, que PH excluiu. Falta definir a sexta: outra peça de planejamento familiar (a semana ainda é desse serviço) ou outro formato. As 4 perguntas ao corretor seguem valendo pra peça que está no ar. Se ele disser que a idade **não** pesa no valor, a peça precisa sair do ar.
 

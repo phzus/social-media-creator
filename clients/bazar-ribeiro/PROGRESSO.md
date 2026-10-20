@@ -4,6 +4,20 @@ Log datado do trabalho feito pro Bazar Ribeiro. Topo = mais recente. Entrada por
 
 ---
 
+## 2026-10-20 — Post de sexta 23/10: "Agachado torcendo pano na mão, e as costas reclamando no fim da faxina. / Com o mop giratório, você limpa de pé e sem torcer o pano na mão."
+
+[Peça](conteudo/posts/2026-10-23-mop-giratorio-limpa-de-pe.md): estático no **layout diversificado (modelo WD-40)**, slot de venda da semana. Roda nos **dois perfis**, com a mesma arte se o preço for igual nas duas lojas. Se não for, sai uma versão por perfil. Fecha a semana de **utilidades de casa** no produto que a segunda 19/10 já tinha citado (produto fixo, função variável).
+
+**Mecanismo novo na conta:** cena do jeito antigo → troca com preço. Dor → tempo → preço. Preço: **mop giratório 8 litros a R$ 44,90**. Vem da curva ABC (cód. 001847, média de R$ 179,60 ÷ 4 un.). O preço de junho era R$ 39,90 e está vencido. A peça não usa "de/por". CTA na arte: "Pede o seu na loja da sua cidade!", com os dois números identificados por cidade. A palavra "WhatsApp" ficou de fora porque o fixo de Maricá ainda não foi confirmado.
+
+**Checagem de repetição:** rodei `ja-postado.sh` nos dois perfis, últimos 12 posts de cada, até 19/10. Termos: mop, girat, limpeza, luminária, kian, lanterna, varal. Não apareceu nada. No `conteudo/`, o mop só aparece citado na peça de 19/10. A loja publicou por conta própria TV box (16/10) e Assento Primafer (19/10). Nenhum dos dois colide com a peça. O validador-copy deu 4 correções, todas aplicadas na v1.1: coerência entre headline e corpo, antropomorfização no corpo, legenda que repetia a arte e "balde" na linha do preço.
+
+**Descartado:** luminária Kian portátil (R$ 59,90, a mais vendida da categoria). Fica como opção pra semana de elétrica ou de verão. Também ficaram de fora varal e sapateira (ticket maior, 1 unidade vendida de cada).
+
+**Travas:** preço por unidade ([OQ #17](OPEN-QUESTIONS.md)); mop no mix das duas lojas ([OQ #20](OPEN-QUESTIONS.md)); WhatsApp do fixo de Maricá (PAUTA #7); foto do item real com o Junior. Prazo: brief ao designer na quarta 21/10 de manhã. Envio ao cliente na quinta 22/10, até 15h.
+
+---
+
 ## 2026-10-19 — Tabela de preços (curva ABC de 30 dias) guardada
 
 PH mandou o relatório de curva ABC do sistema da loja (19/09 a 19/10, 1.431 produtos) pra consulta rápida de preço. Transcrito em [referencias/2026-10-19-precos-produtos-curva-abc.csv](referencias/2026-10-19-precos-produtos-curva-abc.csv), com o preço médio unitário (vendido ÷ qtde) e a soma conferida com o total do relatório. Notas de leitura no [.md ao lado](referencias/2026-10-19-precos-produtos-curva-abc.md).

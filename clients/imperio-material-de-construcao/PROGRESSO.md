@@ -4,6 +4,18 @@ Log datado do trabalho feito pro Império. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-10-20 — Post de sexta 23/10: "No verão, é só o céu fechar e você correr pro varal."
+
+[Peça](conteudo/posts/2026-10-23-varal-cobre-com-telha-plan.md): estático 4:5, oferta, fecha a linha de telhado da semana (19/10 educativo → 23/10 venda). Headline: *"NO VERÃO, É SÓ O CÉU FECHAR E VOCÊ CORRER PRO VARAL. / COBRE A ÁREA COM TELHA PLAN."* Card **Telha Plan R$ 115,00, retirando em loja** (arte `(imperio material) telha plan.png` de 06/08 em `~/Downloads`, vigência a confirmar). CTA na arte: "PEÇA SEU ORÇAMENTO NO WHATSAPP!" (22) 99743-3328. Mecanismo: **anúncio direto aberto por cena de rotina**, no molde de oferta de agosto (mesmo da peça de 16/10).
+
+- **Por que área do varal e não telhado da casa:** a Telha Plan é chapa (pela imagem); vender ela pra "telha quebrada" da segunda seria produto errado pro problema. A peça fica em "cobrir", sem afirmação técnica.
+- **Validação (validador-copy): 2 bloqueantes e 4 importantes aplicados** — colchetes e linha de validade inventada saíram da arte (card igual à fonte); legenda deixou de amarrar R$ 115 à solução da área inteira; headline ganhou o "só" e a linha 2 nomeia o produto em vez de repetir o "antes das chuvas" de 19/10; "lavar tudo de novo" virou "a roupa molha".
+- **Rodapé:** Itaúna nº 20, Piracema (endereço da arte-fonte do preço), como em 16/10. [OQ #15](OPEN-QUESTIONS.md) segue aberto.
+- **Achado:** arte de Sika-1 (aditivo impermeabilizante pra reboco, R$ 99,99, 14/08) também em `~/Downloads`; não usada.
+- **Travas:** vigência/estoque do R$ 115,00 · endereço do rodapé · se a arte de 06/08 já foi ao ar (repetiria produto). Brief ao designer qua 21/10 de manhã; envio ao cliente qui 22/10 até 15h.
+
+---
+
 ## 2026-10-16 — Post de segunda 19/10: "Ninguém lembra do telhado até a primeira goteira."
 
 [Peça](conteudo/posts/2026-10-19-telhado-confere-no-dia-de-sol.md): estático 4:5, pilar educativo. Headline: *"NINGUÉM LEMBRA DO TELHADO ATÉ A PRIMEIRA GOTEIRA. / MAS É NUM DIA DE SOL QUE DÁ PRA CONSERTAR."* Mecanismo **inversão de momento** (o problema se mostra na chuva, a hora de resolver é no seco). Legenda com 4 pontos pra conferir (telha, calha/ralo, laje, encontro telhado-parede) + aviso de segurança. CTA: foto no WhatsApp (22) 99743-3328. Primeira peça da conta sobre telhado e calha.

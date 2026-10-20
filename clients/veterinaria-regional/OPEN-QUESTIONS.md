@@ -2,6 +2,14 @@
 
 Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes de fechar a 1ª estratégia mensal.
 
+## 🟢 2026-10-20 — Post de 23/10 (Nefrologia, venda direta): não bloqueia
+
+[Peça](conteudo/posts/2026-10-23-nefrologia-mede-a-agua-de-um-dia.md).
+
+19. 🟢 **A equipe da clínica lê a orientação de medir a água?** Passo a passo de 24 horas com copo medidor, "deixa a água liberada como sempre" e a linha de urgência (parou de comer ou está vomitando → procurar atendimento sem esperar). Sem RT identificado, ninguém validou clinicamente. Se a clínica usar outro período com tutor, troca "24 horas"; sem resposta, a peça sai como está.
+
+---
+
 ## 🟢 2026-10-13 — Post de 16/10 (Anestesia, venda direta): não bloqueia
 
 [Peça](conteudo/posts/2026-10-16-anestesia-pergunta-quem-cuida.md).

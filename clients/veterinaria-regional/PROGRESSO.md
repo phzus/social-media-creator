@@ -4,6 +4,16 @@ Log datado do trabalho feito pra Veterinária Regional. Topo = mais recente. Ent
 
 ---
 
+## 2026-10-20 — Post de sexta 23/10: Nefrologia venda direta, "Muita água ainda não é um número"
+
+[Peça](conteudo/posts/2026-10-23-nefrologia-mede-a-agua-de-um-dia.md), estático no template Educativo. Fecha a linha de Nefrologia aberta no Mito x Verdade de segunda 19/10 (segunda apresenta, sexta converte). Kicker “Ele anda bebendo muita água.” / Só que “muita” ainda não é um número. → âncora **TRAZ O NÚMERO NA AVALIAÇÃO** → apoio com 24 horas + "Nefrologia, a especialidade dos rins, é uma das 13 da Regional" → banner "Agenda a Nefrologia pelo WhatsApp".
+
+- **Mecanismo:** impressão vira número (medição de água em casa levada à consulta). Diferente de 16/10 (objeção), 19/10 (mito) e 30/10 (cena de retorno). Isolamento com a WT do mesmo dia (castração, gata que escapa): sem fuga, sem gato, foto pede cachorro.
+- **Validação (validador-copy):** 2 bloqueantes aplicados. A âncora v1 "MEDE UM DIA E TRAZ O NÚMERO" punha a medição antes da consulta, e a legenda prometia o número sem ensinar a conta (agora copo medidor em ml, "pôs menos sobrou"). Kicker saiu da pergunta (seria a 3ª sexta seguida), urgência subiu, entrou "deixa a água liberada", parágrafo de rim/açúcar deixou de copiar 19/10.
+- **Pendência:** equipe da clínica ler a orientação de medição ([OQ #19](OPEN-QUESTIONS.md)). Brief designer qua 21/10 de manhã; cliente qui 22/10 até 15h.
+
+---
+
 ## 2026-10-14 (3) — Primeiro uso do analista-tendencias + correção da peça de raiva + peça de 30/10
 
 - **[Relatório de tendências 20/10–15/11](referencias/2026-10-14-tendencias-20-10-a-15-11.md):** 5 oportunidades com fonte e data (Dia Mundial do Diabetes 14/11, "depois do temporal" com El Niño, feriadão de Finados e orelha, Halloween meme, campanha antirrábica 2026), 12 descartadas com motivo. Nenhuma trend de vídeo confirmada no período.

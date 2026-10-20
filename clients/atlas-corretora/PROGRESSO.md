@@ -4,6 +4,18 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ---
 
+## 2026-10-20 (4) — Post de sexta 23/10: "O seguro do carro, muita gente resolve antes de sair da loja. E a renda que paga as parcelas do carro?"
+
+[Estático 4:5](conteudo/posts/2026-10-23-seguro-do-carro-e-a-renda.md) pro slot que ficou vazio quando a peça prevista ("daqui a um ano custa o mesmo") subiu na segunda 19/10. Fecha a semana de **Planejamento familiar** do [trimestral §6](estrategia/2026-09-a-11-trimestral.md) com função de venda. Apoio: *"Planejamento familiar é pensar em quem conta com a renda que paga o carro, a casa e todo o resto."* CTA na arte: *"Comenta SIMULAR e a gente te chama no direct."*
+
+**Mecanismo novo na conta: contraste do que você já protege.** A pessoa segura o carro e deixa sem nada a renda que paga a parcela dele. Forma cena + pergunta-giro (19/10 pergunta + giro, 16/10 fato + giro). Nenhuma peça da conta tinha comparado o planejamento familiar com um seguro que a pessoa já faz. **Restrições atendidas:** sem saúde (a semana já tem duas peças que passam por ela), sem afirmar cobertura, CTA em comentário (16/10 e 19/10 em direct, 30/10 em cotação). A arte não pode ter carro nem chave, porque a semana seguinte é de Auto.
+
+**Validação de copy (subagent): 1 bloqueante, 4 importantes, 5 menores, aplicados.** O bloqueante era premissa universal sem fonte ("você faz", "quase todo mundo", e seguro auto não é obrigatório), que virou "muita gente". O apoio "cuidar da parte que paga o resto" insinuava contas pagas e foi trocado pela fórmula da [PADROES §8](PADROES.md). A legenda reciclava a lista de contas de 24/08 e 14/09 e foi reescrita. O "dele" sem antecedente na linha dominante virou "do carro".
+
+🟡 **Sem gate técnico, mas com trava operacional:** quem responde os comentários SIMULAR e chama no direct ([OQ #4](OPEN-QUESTIONS.md)), e se a simulação roda sem dado de saúde. O corretor tem até qua 21/10 12h, depois do brief. **PH decide antes do brief:** nomear o responsável ou mandar a faixa de CTA como camada separada. Fallback escrito: *"Salva pra conversar sobre isso em casa."* Prazo: brief ao designer qua 21/10 de manhã, envio ao cliente qui 22/10 até 15h. ⚠️ O vídeo de qua 21/10 (invalidez e doenças graves) segue sem roteiro.
+
+---
+
 ## 2026-10-20 (3) — Halloween: copy final do PH
 
 PH fechou a arte com a própria redação: *"HALLOWEEN | SEGURO AUTO / NÃO TEM FILME DE TERROR MAIS ASSUSTADOR QUE... / PRECISAR DO SEGURO E DESCOBRIR QUE ELE VENCEU! / NÃO DEIXE SEU CARRO SEM PROTEÇÃO. / FALE COM A ATLAS E SOLICITE SUA COTAÇÃO DE SEGURO AUTO!"* A legenda foi ajustada pro CTA de cotação no direct. Copy fechada; falta a confirmação leve do corretor sobre tolerância depois do vencimento.

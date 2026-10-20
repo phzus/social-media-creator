@@ -4,6 +4,22 @@ Log datado do trabalho feito pra Max Contabilidade. Topo = mais recente. Entrada
 
 ---
 
+## 2026-10-20 — Post de sexta 23/10 (venda): prazo do IBS/CBS no Simples prorrogado até 30/10
+
+[Peça](conteudo/posts/2026-10-23-prazo-ibs-cbs-prorrogado-30-de-outubro.md), estático 4:5, a partir da [OQ T](OPEN-QUESTIONS.md). Headline (v1.1): **"Empresa do Simples Nacional: o prazo do IBS e da CBS foi prorrogado. / Agora vai até 30 de outubro."** Mecanismo novo na conta: **prazo reaberto com data real**. Serviço vendido: triagem de planejamento tributário antes do dia 30. CTA na arte: *"Vende pra outras empresas? Chama em `[canal a confirmar]` até 30/10 e conta o que a sua empresa vende, que a gente diz se vale olhar essa escolha no seu caso."* Fonte e "MEI fica de fora" no rodapé da arte.
+
+**Validação de copy (subagent):** 3 bloqueantes, 5 importantes, 4 menores, aplicados (v1.1). Saiu o "Perdeu o prazo" (ninguém perdeu, a prorrogação veio antes de vencer), entrou "MEI fica de fora" com trava de MEI/sublimite, a frase da Receita foi citada literal ("especialmente relevante"), crédito traduzido, cancelamento e o "não dá pra responder num post" (repetia 25/09) cortados.
+
+**Por que agora:** é o assunto da única semana com lead (25/09) e a única data legal ainda aberta. De quebra, corrige em público o "até 30 de setembro" do carrossel de 25/09.
+
+**Fontes oficiais conferidas hoje:** Receita Federal (notícias de 01/09, 29/09 e 16/10/2026), MEMP (01/10) e CGIBS (30/09): opção pelo regime regular até 30/10/2026, efeito jan–jun/2027, quem não opta fica com IBS/CBS no DAS, cancelamento de 03/11 a 20/12/2026, e a frase da Receita sobre quem vende pra outras empresas (crédito do cliente). **Fora por não estar reconferido:** janela de março/2027, MEI, alíquota da CBS de 2027.
+
+**Travas:** 🔴 escritório confirma as quatro afirmações · 🔴 se responde não cliente antes do dia 30 (OQ B/J/S) · 🔴 **peça vence em 30/10**: sem validação até qui 22/10, empurrar no máximo pra seg 26/10; depois, arquivar · reconferir o prazo no gov.br em 22/10 (já foi prorrogado uma vez) · `[canal a confirmar]` (OQ F/O) · identidade, CRC e posição sobre publicidade.
+
+**Prazo:** brief ao designer qua 21/10 de manhã · envio ao cliente qui 22/10 até 15h.
+
+---
+
 ## 2026-10-16 — Post de segunda 19/10 refeito no foco tributário: "Imposto pago a mais não gera aviso nenhum"
 
 [Peça](conteudo/posts/2026-10-19-imposto-pago-a-mais-nao-gera-aviso.md), estático 4:5, substitui o [Descomplica #04](conteudo/posts/2026-10-19-descomplica-experiencia-ja-e-contrato.md) (contrato de experiência, reprovado). Headline: **"Imposto atrasado, a empresa descobre pela multa. / Imposto pago a mais não gera aviso nenhum."** Mecanismo novo na conta: **contraste entre dois erros** (o que se anuncia × o silencioso). CTA na arte, de lead: *"Manda em `[canal a confirmar]` o ramo da sua empresa e, se souber, o regime (Simples, Lucro Presumido ou Real), que a gente diz o que precisa olhar."*

@@ -4,6 +4,18 @@ Log datado do trabalho feito pra Casas Rio Bahia. Topo = mais recente. Entrada p
 
 ---
 
+## 2026-10-20 — Post de sexta 23/10: "Esse bloco tem um canal em cima de propósito"
+
+Lote de sexta 23/10 da carteira. [Peça](conteudo/posts/2026-10-23-bloco-com-canal-em-cima.md): **estático, arte única**, pilar Oferta e produto, molde de anúncio direto ([checklist §2.8](../../shared/voice-quality-checklist.md)). Mecanismo **o formato do produto explica a função**: headline "ESSE BLOCO TEM UM CANAL EM CIMA DE PROPÓSITO. / É DENTRO DELE QUE ENTRA A CINTA QUE AMARRA A PAREDE.", recorte grande do bloco canaleta 15 com o canal em U à mostra, **R$ 8,99** a unidade dominante + canaleta 10 **R$ 5,99** menor, "em dinheiro ou Pix", CTA "ENVIE SUA LISTA PELO WHATSAPP!". Fundo azul-marinho com textura (as três peças anteriores foram bege).
+
+**Por que esse produto:** a canaleta nunca tinha sido produto principal (só terceiro preço em 22/09 e linha de tabela em 28/09), tem unidade fechada no encarte, e a canaleta 10 nunca tinha saído com preço. Preços do encarte com **[confirmar vigência]** no envio (não bloqueia, [PADROES §6](PADROES.md)).
+
+**Validação de copy (subagent): 0 bloqueante, 4 importantes, aplicados.** A v1 abria na "lista do pedreiro que o dono não entende" e fechava em "manda a lista do seu pedreiro": premissa e CTA iguais aos da **Dijana de 19/10** ("Chapisco, traço, prumo, bater laje"), então o mecanismo foi trocado. Também: "a canaleta 15 fecha a parede" saiu (absoluto), cinta virou condicional ("se a sua parede leva cinta"), personificação "a fiada de cima espera" saiu, oferta secundária trocou bloco 15 por canaleta 10 (o par 4,19/8,99 repetia 22/09). "Aberto em cima" virou "tem um canal em cima" (bloco comum também é vazado). Lote conferido: Dijana fase da obra, Império cena do varal, Maicom proximidade, Bazar jeito antigo; nenhum usa o formato do produto.
+
+**Travas:** sem desconto, sem validade/data, sem estoque/entrega/retirada/prazo de resposta ([OQ #53](OPEN-QUESTIONS.md), [#56](OPEN-QUESTIONS.md)), sem verga/ferragem/altura de cinta, sem tinta, sem "sonho". Pareamento canaleta 10/15 ↔ bloco 10/15 é inferência pelo nome no encarte. Brief ao designer **qua 21/10 de manhã**; envio ao cliente **qui 22/10 até 15h**.
+
+---
+
 ## 2026-10-16 — Post de segunda 19/10: "Pedir só 'cano de esgoto' no balcão não fecha a compra"
 
 [Peça](conteudo/posts/2026-10-19-vaso-100-pia-40.md): **estático, arte única**, pilar Orientação, **peça 03** da série "Material certo para cada etapa" (a 12/10 e a 16/10 ficaram fora da numeração, a série segue sem buraco). Mecanismo **pedido incompleto no balcão + mapa do cômodo**: a headline pega o pedido genérico e já responde ("O vaso leva o tubo de 100 mm. A pia do banheiro, o de 40."), e a arte é uma planta de banheiro em croqui ligando cada louça ao recorte do tubo certo. CTA "Na dúvida sobre a medida, manda a pergunta no WhatsApp (22) 98824-0668".

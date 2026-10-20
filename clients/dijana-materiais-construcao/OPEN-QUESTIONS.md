@@ -5,6 +5,16 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🔴 2026-10-20 — Post de sexta 23/10 (tubo 100 mm) + queima de estoque
+
+[Peça](conteudo/posts/2026-10-23-tubo-100mm-fase-do-esgoto.md) e [queima](conteudo/posts/2026-10-20-queima-de-estoque-outubro-da-construcao.md).
+
+1. 🔴 **Tubo 100 mm Fortlev (6 m) segue a R$ 79,90?** Preço das artes de 12/08 e 18/08. E qual a validade.
+2. 🔴 **É o tubo de esgoto?** As artes dizem só "Tubo 100 mm Fortlev"; a headline usa "esgoto da obra".
+3. 🔴 **Qual o produto da queima a R$ 53,50?** Não pode ser o tubo (mesmo item com dois preços no mesmo dia). Pix entra ou não na queima.
+4. 🟡 **Foto real dos tubos no estoque/pátio**, de celular, sem pessoa no quadro — primeira peça com prova de estoque. Pedir ao Igor à tarde.
+5. 🟢 Carrinho de mão galvanizado: arte de 31/07 diz R$ 129,00 e encarte de 18/08 diz R$ 129,90. Conferir antes de reaproveitar.
+
 ## 🟡 2026-10-16 — Post de segunda 19/10 (glossário do canteiro)
 
 [Peça](conteudo/posts/2026-10-19-chapisco-traco-prumo-bater-laje.md).

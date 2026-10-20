@@ -4,6 +4,20 @@ Log datado do trabalho feito pra Maicom. Topo = mais recente. Entrada por bloco 
 
 ---
 
+## 2026-10-20 — Post de sexta 23/10: "Você de Unamar vai comprar piso?"
+
+[Peça](conteudo/posts/2026-10-23-mil-modelos-aqui-pertinho.md): estático 4:5, anúncio direto no molde da casa (checklist §2.8), mecanismo **proximidade + carro-chefe**. Headline (ajuste de lote): "AQUI EM UNAMAR TEM MAIS DE 1.000 MODELOS DE PISO! / É NA MAICOM, AQUI PERTINHO!" A v1.1 abria em pergunta hiperlocal, o mesmo molde da Dijana no mesmo dia. Sem produto nem preço de outubro vindos do cliente, a peça abre no piso e na variedade, e é a primeira arte estática a vender a proximidade (o roteiro de 25/09 já tinha tocado no assunto numa fala).
+
+**CTA é o endereço** ("PASSA NA AMARAL PEIXOTO, KM 131!"), não o WhatsApp, por causa do gargalo de atendimento. O número fica só no rodapé. Imagem pedida em plano aberto do mostruário, diferente do enquadramento rente ao chão de 16/10 e do de cima de 19/10. Sem captação, entra um mosaico de pisos que a loja confirmar, com pelo menos um da faixa de R$ 19,99.
+
+**Validador-copy:** a marca entrou na headline e no rodapé; "do lado da sua casa" virou "aqui pertinho" (é a frase do context.md); "trocar" virou "comprar", pra incluir quem está em obra nova; a legenda perdeu o "centro de Cabo Frio"; o brief deixou de citar modelos de agosto acima de R$ 19,99 e o revestimento branco.
+
+**Varredura em ~/Downloads:** não há material de outubro da Maicom. As artes de produto de agosto (Avelã, Tennessee, Black Supreme) trazem preço Pix/cartão por modelo, mas não foram usadas porque o preço é de agosto e o Black Supreme esbarra no PADROES §1.
+
+**Trava:** 🔴 o selo "a partir de R$ 19,99 o m², Dinheiro/Pix" é da tabela de **setembro** (OQ item C, sem fechamento registrado nem para 16/10). Confirmar com PH até qui 22/10. Se não vier, usar o fallback sem número, que já está escrito. A condição Pix no R$ 19,99 continua 🟡 (lado seguro). Prazo: brief pro designer na qua 21/10 de manhã e envio ao cliente na qui 22/10 até 15h.
+
+---
+
 ## 2026-10-16 — Post de segunda 19/10: "Casa perto da praia: piso claro ou escuro?"
 
 [Peça](conteudo/posts/2026-10-19-piso-claro-ou-escuro-perto-da-praia.md): estático 4:5, mecanismo **escolha A × B resolvida por um detalhe da rotina local**. Linha 2: "No escuro, dá pra ver cada grão de areia." Terceira peça da linha da temporada (05/10 calendário · 16/10 cena + preço), agora no "qual escolher". Segunda leve: sem preço, não depende da tabela de outubro.

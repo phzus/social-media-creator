@@ -97,7 +97,7 @@ O que o trimestre **não** substitui é o briefing mensal dos dias 22-25 ([playb
 | | | 16/10 | sex | estático | O que acontece depois que você avisa o sinistro | O trabalho que o cliente não vê |
 | **19 → 23** | Planejamento familiar | 19/10 | seg | estático | ~~As contas da casa não pausam junto com você~~ → **Daqui a um ano custa o mesmo que hoje?** | A peça de afastamento foi excluída por PH em 19/10, e a da sexta subiu no lugar dela. ✅ [no ar](../conteudo/posts/2026-10-19-daqui-a-um-ano-custa-o-mesmo.md) |
 | | | 21/10 | qua | vídeo | Planejamento familiar serve só pro pior cenário? | Invalidez e doenças graves. ⚠️ gate reforçado |
-| | | 23/10 | sex | estático | **em aberto** | A peça prevista subiu na segunda 19/10. Falta peça pro slot (PH decide). |
+| | | 23/10 | sex | estático | ~~em aberto~~ → **O seguro do carro, muita gente resolve antes de sair da loja. E a renda que paga as parcelas do carro?** | A peça prevista subiu na segunda 19/10. Contraste com o seguro que a pessoa já faz; CTA comenta SIMULAR. [peça](../conteudo/posts/2026-10-23-seguro-do-carro-e-a-renda.md) |
 | **26 → 30** | Auto | 26/10 | seg | estático | A apólice é anual. E a sua vida, mudou? | O que precisa ser avisado antes da renovação |
 | | | 28/10 | qua | vídeo | Bati o carro. O que eu faço na primeira hora? | Passo a passo do sinistro · *flexível* |
 | | | 30/10 | sex | estático | 5 situações em que o seguro auto não paga | Lista de mito: a pergunta-gancho na arte, as situações na legenda (era carrossel; trocado em 13/10) |

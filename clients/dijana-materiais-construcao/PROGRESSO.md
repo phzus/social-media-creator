@@ -4,6 +4,18 @@ Log datado do trabalho feito pra Dijana. Topo = mais recente. Entrada por bloco 
 
 ---
 
+## 2026-10-20 — Post de sexta 23/10: Tubo 100 mm Fortlev + stories de último dia da queima
+
+[Peça](conteudo/posts/2026-10-23-tubo-100mm-fase-do-esgoto.md): arte única, pilar Oferta objetiva + Obra real, mecanismo **fase da obra + estoque real** (headline chama quem está fazendo o esgoto; imagem é foto real dos tubos no estoque da Dijana, sem pessoa). Headline: *"VOCÊ DE SAQUAREMA QUE TÁ FAZENDO O ESGOTO DA OBRA: / O TUBO FORTLEV DE 100 MM ESTÁ AQUI NA DIJANA!"* CTA na arte: *"FAZ SEU ORÇAMENTO PELO WHATSAPP (22) 99752-1356!"* Produto/preço: **Tubo 100 mm Fortlev, barra de 6 m, R$ 79,90 à vista no dinheiro ou Pix, retirando** — artes de 12/08 e 18/08 em `~/Downloads`, [confirmar vigência].
+
+**Por que:** sexta é o último dia da queima (R$ 53,50), mas o prazo já foi dito com data desde 20/10, então o lembrete foi pros stories (anexo de 2 telas na mesma peça) e o feed vende outro carro-chefe com validade própria. Ataca o alerta de mix: sai do Compra certa e puxa Obra real pela foto de estoque. **Descartados:** cimento (16/10), colunas (aço +9% e preço de agosto perto demais dos R$ 53,50 da queima), cabo Sil (cobre), caixa d'água (sexta passada), carrinho de mão (artes de agosto divergem: R$ 129,00 × R$ 129,90).
+
+**Validação de copy (subagent): 2 bloqueantes, 3 importantes, 7 menores, aplicados.** "Esgoto" não está em fonte nenhuma (virou trava 🔴 com headline plano B sem esgoto); stories tinham "volta pro preço normal" (preço cheio inexistente, contradiz "quando zerar, acabou"); headline com pergunta repetia o esqueleto de 09/10 e virou molde hiperlocal; CTA da legenda repetia o de 19/10.
+
+**Travas:** vigência de R$ 79,90 · validade do tubo · loja confirma que é tubo de esgoto · produto da queima não pode ser o tubo · foto real do estoque (pedir ao Igor até qua 21/10 à tarde) · Pix no feed × só dinheiro na queima. Prazo: brief ao designer qua 21/10 de manhã; cliente qui 22/10 até 15h.
+
+---
+
 ## 2026-10-20 — Headline de queima de estoque (Outubro da Construção)
 
 PH: promoção pra zerar estoque, R$ 53,50 no dinheiro retirando na loja, até sexta 23/10. [Peça](conteudo/posts/2026-10-20-queima-de-estoque-outubro-da-construcao.md) com headline recomendada *"QUANDO ZERAR, ACABOU!"* + 4 alternativas, todas no template "Outubro da Construção" (o mesmo da arte do Cimento Campeão CPIII 50 kg a R$ 33,00 de 16/10, achada em `~/Downloads`). Escassez só com fato: prazo + estoque, sem "imbatível" e sem número de unidades inventado. **Trava:** PH não disse o produto.

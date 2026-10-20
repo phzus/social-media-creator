@@ -4,6 +4,19 @@ Log datado do trabalho feito pra MR Distribuidora. Topo = mais recente. Entrada 
 
 ---
 
+## 2026-10-20 — Post de sexta 23/10: "Uma martelada fora do pino e a peça pronta sai marcada."
+
+[Peça](conteudo/posts/2026-10-23-martelada-fora-do-pino.md): **estático** (arte única 4:5), segunda peça do pilar "Oferta com motivo". Fora da série "Detalhe que gera indicação".
+
+- **Mecanismo:** consequência concreta → ferramenta que tira o risco (diferente da objeção respondida de 16/10 e do contraste de escala de 19/10). Molde de anúncio direto do checklist §2.8: headline em caixa alta com a cena, preço e CTA na própria arte, exclamação só no CTA.
+- **Produto e preço:** Pinador pneumático Sigma, tipo F 18/50 (F50), capacidade de 10 a 50 mm — R$ 377,50 à vista / R$ 444,00 no cartão, parcelado em até 6x. Fonte: `Catalogo_MR_Distribuidora.pdf` (~/Downloads, 16/07, "Mega Descontão", primeira vez usado no repo) e encarte "Mês dos Pais 2" (11/08), mesmo preço nos dois. **[confirmar vigência]**. Sem "de/por", sem prazo de oferta.
+- **Validação (validador-copy):** saiu "sem o dedo segurando" (promessa de segurança sem fonte: a mão segue perto do bico) e "o pino entra no gatilho" (erro de construção); "peça já lixada e pintada" virou "peça pronta" (pino F também deixa furo); parcelamento desambiguado; nome do produto não repete na arte. CTA de ferramenta do PADROES §5 **sem "voltagem"** (pneumático) — exceção anotada no PADROES.
+- **Travas:** 🔴 vigência do preço (campanha de julho/agosto) · 🔴 balcão valida o uso (moldura/guarnição, compressor, pino vendido junto) — gate §1 · 🔴 estoque não confirmado (CTA pede confirmar disponibilidade).
+- **Ponto pro PH:** duas sextas seguidas de ferramenta Sigma do mesmo material de agosto. A próxima sexta de oferta deveria ir pra MDF ou ferragem, o que pede preço novo da MR (levado pra PAUTA).
+- **Prazo:** brief pro designer qua 21/10 manhã · cliente qui 22/10 até 15h · publicação sex 23/10.
+
+---
+
 ## 2026-10-14 — Post de segunda 19/10: "O cliente aprovou a cor na amostra. No móvel pronto, jura que pediu outra."
 
 [Peça](conteudo/posts/2026-10-19-cor-aprovada-pela-amostra.md): estático, **#04 da série "Detalhe que gera indicação"**. PH pediu "estático educativo ou institucional"; fica no educativo porque a #04 estava em aberto desde 05/10.
