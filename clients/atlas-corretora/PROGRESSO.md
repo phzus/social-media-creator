@@ -4,6 +4,12 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ---
 
+## 2026-10-20 (3) — Halloween: copy final do PH
+
+PH fechou a arte com a própria redação: *"HALLOWEEN | SEGURO AUTO / NÃO TEM FILME DE TERROR MAIS ASSUSTADOR QUE... / PRECISAR DO SEGURO E DESCOBRIR QUE ELE VENCEU! / NÃO DEIXE SEU CARRO SEM PROTEÇÃO. / FALE COM A ATLAS E SOLICITE SUA COTAÇÃO DE SEGURO AUTO!"* A legenda foi ajustada pro CTA de cotação no direct. Copy fechada; falta a confirmação leve do corretor sobre tolerância depois do vencimento.
+
+---
+
 ## 2026-10-20 (2) — Halloween refeito no molde do PH
 
 PH não gostou do "NÃO FAZ ISSO!" e pediu o molde *"não tem filme de terror mais assustador que…"*. [v2](conteudo/posts/2026-10-30-halloween-filme-de-terror-mais-assustador.md) com 4 opções. A recomendada é *"…que olhar pra garagem vazia e lembrar que o seguro venceu"*, que traz o conceito do cliente (falta do seguro), uma cena que se entende sem ler e nenhuma afirmação de cobertura. O CTA é "comenta RENOVA". A pauta das 5 situações sai do slot. O validador roda depois da escolha.
