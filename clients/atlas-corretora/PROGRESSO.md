@@ -4,9 +4,15 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ---
 
+## 2026-10-20 (2) — Halloween refeito no molde do PH
+
+PH não gostou do "NÃO FAZ ISSO!" e pediu o molde *"não tem filme de terror mais assustador que…"*. [v2](conteudo/posts/2026-10-30-halloween-filme-de-terror-mais-assustador.md) com 4 opções. A recomendada é *"…que olhar pra garagem vazia e lembrar que o seguro venceu"*, que traz o conceito do cliente (falta do seguro), uma cena que se entende sem ler e nenhuma afirmação de cobertura. O CTA é "comenta RENOVA". A pauta das 5 situações sai do slot. O validador roda depois da escolha.
+
+---
+
 ## 2026-10-20 — Sexta 30/10 (Halloween): "Em filme de terror, a plateia grita: NÃO FAZ ISSO!"
 
-PH pediu uma de terror pro Halloween, "com ideias como a" do fantasma da Contele, olhando o [calendário 2025 do cliente](referencias/2026-10-13-calendario-editorial-2025-do-cliente.md). [Estático 4:5](conteudo/posts/2026-10-30-halloween-nao-faz-isso.md) que mantém a pauta da semana Auto ("5 situações em que o seguro auto não paga") com moldura de pôster de terror: a plateia gritando com o personagem, e as 5 cenas numeradas. CTA: comentário com o número. O conceito do cliente ("não deixe a falta do seguro te assombrar") fecha a legenda. **Descartado:** a inversão "o que dá medo em corretor é 'achei que cobria'", porque é o mesmo mecanismo do fantasma da Contele, que sai no mesmo dia 30/10; e nada de fantasma no visual pelo mesmo motivo.
+PH pediu uma de terror pro Halloween, "com ideias como a" do fantasma da Contele, olhando o [calendário 2025 do cliente](referencias/2026-10-13-calendario-editorial-2025-do-cliente.md). [Estático 4:5](conteudo/posts/2026-10-30-halloween-filme-de-terror-mais-assustador.md) que mantém a pauta da semana Auto ("5 situações em que o seguro auto não paga") com moldura de pôster de terror: a plateia gritando com o personagem, e as 5 cenas numeradas. CTA: comentário com o número. O conceito do cliente ("não deixe a falta do seguro te assombrar") fecha a legenda. **Descartado:** a inversão "o que dá medo em corretor é 'achei que cobria'", porque é o mesmo mecanismo do fantasma da Contele, que sai no mesmo dia 30/10; e nada de fantasma no visual pelo mesmo motivo.
 
 **Validação de copy (subagent): 2 bloqueantes, 5 importantes, 7 menores, aplicados.** A arte não dizia a consequência nem tinha condicional, e a cena "emprestar o carro" estava errada (empréstimo eventual costuma ser coberto, o risco é o uso habitual).
 

@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-20 (3) — Atlas: Halloween refeito ("não tem filme de terror mais assustador que…")
+
+PH reprovou o "NÃO FAZ ISSO!". v2 com 4 headlines no molde dele; recomendada: garagem vazia + seguro vencido.
+
+---
+
 ## 2026-10-20 (2) — Atlas: Halloween de sexta 30/10 ("NÃO FAZ ISSO!")
 
 Pôster de terror com as 5 situações em que o seguro auto pode não pagar, CTA de comentário. Evita fantasma e inversão porque a Contele usa os dois no mesmo dia. Validador aplicado; gate do corretor aberto. Detalhe em [clients/atlas-corretora/PROGRESSO.md](../clients/atlas-corretora/PROGRESSO.md).
