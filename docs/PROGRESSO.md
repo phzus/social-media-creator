@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-20 (6) — BodySkin: motion flyer "Checklist pro feriadão" (30/10)
+
+Versão BodySkin do story da Espaço Laser: 3 itens de feriadão ticados e o quarto, "Marcar a avaliação do laser", em aberto. Validado. Ocupa o slot de Reels de 30/10, então PH decide pra onde vai o lembrete da indicação.
+
+---
+
 ## 2026-10-20 (5) — BodySkin: carrossel de harmonização facial (referência do Pinterest)
 
 Capa "Antes da primeira harmonização facial, parte da conversa é sobre o que não fazer." Validada, mas travada pelo gate da RT (injetável, aberto desde 26/07). O slot de 23/10 já tem a peça do barbeiro. Detalhe em [clients/bodyskin-araruama/PROGRESSO.md](../clients/bodyskin-araruama/PROGRESSO.md).

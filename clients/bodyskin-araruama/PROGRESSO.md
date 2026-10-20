@@ -4,6 +4,16 @@ Log datado do trabalho feito pra BodySkin. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-10-20 (2) — Motion flyer "Checklist pro feriadão" (sexta 30/10), versão BodySkin da Espaço Laser
+
+PH mandou o story da Espaço Laser "Checklist para o fim de semana perfeito" (card de notas com 3 itens ticados) e pediu a nossa versão pro feriadão, em motion flyer. [Roteiro](conteudo/roteiros/2026-10-30-motion-flyer-checklist-feriadao.md): 4 itens. Os três primeiros são ticados (cadeira de praia no porta-malas, pé na areia em Araruama, celular no modo avião). O quarto fica sem tick: **"Marcar a avaliação do laser"**. Fecho: "ESSE AQUI FICA PRA VOLTA DO FERIADÃO." · avaliação gratuita · 4 lasers · link na bio. Finados não é citado pelo nome.
+
+**Validação: 2 bloqueantes, 6 importantes e 5 menores, aplicados.** Os bloqueantes: o fecho supunha a clínica aberta em 02/11 (ela fechou no 07/09), e a legenda prometia resultado com prazo ("chegar no verão com a rotina mais leve").
+
+**Decisão de PH:** a peça ocupa o slot 14 (Reels de 30/10, lembrete da indicação + 11.11). Envio à Cintia até sexta 23/10.
+
+---
+
 ## 2026-10-20 — Carrossel de harmonização facial (pedido de PH, referência do Pinterest)
 
 PH: *"Vamo falar em harmonização facial na sexta"*, com um [pin](https://br.pinterest.com/pin/726486983692507274/) de referência: carrossel editorial "O que você não sabia sobre o Bioestimulador", com foto real de procedimento na capa e serifada display gigante. [Peça](conteudo/posts/2026-10-23-harmonizacao-o-que-ninguem-te-conta.md): carrossel de 4 slides. Capa: *"Antes da primeira harmonização facial, parte da conversa é sobre / o que não fazer."* CTA: salvar e levar as dúvidas pra avaliação. A estrutura é a da referência, nas cores da BodySkin (a referência é bege).
