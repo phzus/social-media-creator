@@ -22,7 +22,7 @@ O feed mostra o mesmo produto com preço diferente em cada loja: Maxi Ducha a R$
 
 ## Conferir se já foi postado
 
-Antes de sugerir produto, rodar `scripts/instagram/ja-postado.sh "bazarribeiro_marica bazarribeiro_saquarema" "termo1|termo2"`. O script lê os 12 posts mais recentes de cada perfil (≈ 1 mês), sem login, e também confere os posts da pasta `conteudo/`.
+Antes de sugerir produto, rodar `scripts/instagram/ja-postado.sh "bazarribeiro_marica bazarribeiro_saquarema" "termo1|termo2"`. O script lê os 12 posts mais recentes de cada perfil (≈ 1 mês), sem login. Depois, rodar grep em `conteudo/` também.
 
 ## Leitura rápida (pra pauta)
 
