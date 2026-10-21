@@ -2,6 +2,16 @@
 
 Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes de fechar a 1ª estratégia mensal formal (o calendário de 12 semanas do [BRIEFING.md](BRIEFING.md) é proposta, ainda não validada com o cliente).
 
+## 🆕 Aberto em 2026-10-21 — café da manhã Coral (sex 23/10, 9h)
+
+[Peça](conteudo/posts/2026-10-23-cafe-da-manha-coral.md) · [registro](referencias/2026-10-21-cafe-da-manha-coral-23-10.md).
+
+- 🔴 **Em qual unidade é o café?** Amaral Peixoto (Vila Capri) ou Iguaba. A arte não fecha sem isso.
+- **É só pra pintor ou aberto a todo mundo?** Versão principal chama o pintor; variante aberta já está escrita.
+- **Logo oficial da Coral / arte do evento:** a Coral (representante) mandou kit ou key visual? Se mandou, a peça segue o visual deles.
+- **O convite ocupa o slot de sexta?** Recomendação: feed na qui 22/10 cedo + stories na sexta. Se for assim, a sexta de venda da semana (meia parede, abaixo) continua aberta.
+- **Liga com o #9:** se a Coral faz café com pintor na loja, existe relacionamento com pintor de verdade. Vale perguntar se é recorrente (vira linha fixa do pilar 3).
+
 ## 🆕 Aberto em 2026-10-16 — semana de 19 a 23/10 (meia parede)
 
 - **A semana fecha em meia parede?** Segunda 19/10 abriu a linha ([peça](conteudo/posts/2026-10-19-meia-parede-repinta-so-embaixo.md)). Proposta: quarta 21/10 em vídeo sem fala (a fita saindo e a linha aparecendo, captação ou motion flyer) e sexta 23/10 de venda com as duas latas. **Pra sexta ter preço, o cliente precisa mandar produto e valor**; sem isso sai sem preço ([PADROES §9](PADROES.md)).

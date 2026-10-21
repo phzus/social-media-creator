@@ -1,5 +1,15 @@
 # Progresso — Bruno das Tintas
 
+## 2026-10-21 — Convite: café da manhã Coral (sex 23/10, 9h)
+
+[Peça](conteudo/posts/2026-10-23-cafe-da-manha-coral.md): **estático único** 4:5 + versão stories "É HOJE, ÀS 9H!", Pilar 3 (pintor), **molde de anúncio direto** da casa ([checklist §2.8](../../shared/voice-quality-checklist.md)): "PINTOR, ESSE CONVITE É SEU!" / "CAFÉ DA MANHÃ CORAL NA BRUNO DAS TINTAS" / logo Coral / SEXTA · 23/10 · 9H / "A GENTE TE ESPERA!". Variante pronta caso o café seja aberto a todo mundo. Primeiro evento em loja da conta no repositório. Fato recebido registrado em [referencias](referencias/2026-10-21-cafe-da-manha-coral-23-10.md).
+
+**Validação de copy (subagent): 1 bloqueante + 6 ajustes aplicados.** Saiu "com a Coral" (afirmava presença da marca), o cardápio inventado no brief, a etiqueta amarela (PADROES §1 + isolamento visual com o Dia do Pintor da Araruama de 18/10) e o segundo CTA da legenda; grade refeita (qui 22/10 ~16h, depois da aprovação, + stories sex 7h).
+
+**Travas:** 🔴 unidade do evento em placeholder (Amaral Peixoto ou Iguaba); público (só pintor?); logo oficial da Coral. Ver [OPEN-QUESTIONS](OPEN-QUESTIONS.md), entrada 21/10.
+
+---
+
 ## 2026-10-16 — Post de segunda 19/10: "A cadeira estraga um palmo da parede, e você repinta a parede inteira."
 
 [Peça](conteudo/posts/2026-10-19-meia-parede-repinta-so-embaixo.md): **estático único** 4:5 + versão 2:3 pro Pinterest, Pilar 1 (Cor resolvida), linha **Meia parede** do calendário do briefing (ainda não produzida). Mecanismo **custo escondido + atalho**: o estrago é um palmo, o conserto é a parede inteira, e a meia parede encolhe o retoque pra faixa de baixo. A arte entrega onde passa a linha (uma mão aberta acima da marca mais alta da cadeira, a lápis e com nível) e manda anotar o código da cor de baixo. CTA de compartilhar ("Compartilha com quem tá querendo pintar a sala de jantar."). Sem preço, sem WhatsApp, sem cor nomeada, sem afirmar que a loja vende fita.

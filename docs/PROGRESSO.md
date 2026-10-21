@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-21 — Bruno das Tintas: convite do café da manhã Coral (sex 23/10, 9h)
+
+Estático no molde de anúncio direto (§2.8) + stories de lembrete. Validado. Falta PH confirmar a unidade do evento (bloqueante), o público e o logo oficial da Coral.
+
+---
+
 ## 2026-10-20 (6) — BodySkin: motion flyer "Checklist pro feriadão" (30/10)
 
 Versão BodySkin do story da Espaço Laser: 3 itens de feriadão ticados e o quarto, "Marcar a avaliação do laser", em aberto. Validado. Ocupa o slot de Reels de 30/10, então PH decide pra onde vai o lembrete da indicação.
