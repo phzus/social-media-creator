@@ -4,6 +4,12 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ---
 
+## 2026-10-22 (4) — Dia do Servidor: "como gravar" refeito no padrão Lone
+
+PH mandou o PDF do roteiro modificado pela equipe (8 cenas, *"Servidor público, temos um presente pra você"*, CTA direct/link na bio) e reprovou a parte de gravação: *"tá ridículo… muda somente isso."* [v2](conteudo/roteiros/2026-10-28-dia-do-servidor-condicao-especial.md) com as falas do PDF intactas e gravação reescrita: ação concreta por cena, dois cenários (carro e mesa), respiro com a ação em andamento, B-roll listado. Saíram a direção estilo TV e a instrução de edição. Regra registrada na [PADROES §11](PADROES.md). Sinalizado sem mexer: o PDF diz "Atlas Seguradora" (é corretora) e "melhores condições" (superlativo, §2).
+
+---
+
 ## 2026-10-22 (3) — Dia do Servidor vira oferta genérica gravada (PH)
 
 PH: as perguntas sobre a condição não precisam de resposta, *"se a gente não sabe, coloca uma coisa genérica."* [Roteiro](conteudo/roteiros/2026-10-28-dia-do-servidor-condicao-especial.md) de ~30-35s: *"Você é servidor público e tem carro?"* → seguro vencendo ou carro sem seguro → condição especial no seguro auto, cotada nas seguradoras parceiras → por tempo limitado, comenta SERVIDOR. "Condição especial" no lugar de "desconto", porque não se sabe o tipo do benefício. Rodapé: mediante comprovação, sujeita à análise, condições variam por apólice. **Validado** (0 bloqueantes, 3 importantes aplicados). O Reel educativo de (2) foi pro banco, e o motion usa esta copy se ninguém gravar. Única ressalva: a Atlas precisa ter *alguma* condição pra servidor.

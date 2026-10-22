@@ -168,6 +168,8 @@ A Atlas chega com marca pronta e coesa, o que é raro. **Não há kit a criar aq
 - Quando cabe B-roll (planos de ambiente/objeto sem ela falando) pra variar o corte, seguindo o que já aparece nos Reels no ar da conta.
 - **Nenhum plano é só "parado" (PH, 2026-09-17):** mesmo quando o enquadramento não anda, ela precisa estar fazendo algo enquanto fala — fechar o notebook, mexer numa prancheta/tablet, apoiar a mão no carro, folhear um papel. "Parado" descreve a câmera (sem tremer, sem panorâmica), nunca a pessoa parada sem ação nenhuma. Todo take de fala direta pra câmera precisa vir com uma sugestão de gancho/ação — se o roteiro não sugerir uma, quem grava fica sem saber o que fazer com as mãos.
 
+- **Sem direção de interpretação estilo TV (PH, 2026-10-22):** um roteiro em PDF saiu com "começar como abertura de comercial de televisão", "entonação de apresentadora de TV" e "apontar pra câmera" em quase toda cena. PH: *"tá ridículo… não segue nosso padrão Lone."* O padrão é ação concreta com objeto (porta do carro, prancheta, relógio, celular com o perfil aberto), poucos cenários (grava tudo de um lugar antes de mudar) e B-roll listado. O tom de cada cena é descrito pela ação, não por adjetivo de energia.
+
 **O que continua fora do roteiro:** decisão de edição em si — corte, ritmo de montagem, onde exatamente a legenda aparece na tela. Isso é sempre da Lone, na hora de montar.
 
 **Primeira aplicação:** [conteudo/roteiros/2026-08-20-byd-oficina-parceira.md](conteudo/roteiros/2026-08-20-byd-oficina-parceira.md) v2, reescrito a partir da análise de dois Reels já publicados da conta (referência do PH).

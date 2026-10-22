@@ -1,93 +1,98 @@
-# Roteiro — Dia do Servidor Público: condição especial no seguro auto (versão genérica)
+# Roteiro — Dia do Servidor Público: "Servidor público, temos um presente pra você"
 
-**Cliente:** atlas-corretora · **Data:** qua 28/10/2026 (Dia do Servidor Público) · **Formato:** Reel vertical gravado, ~30-35s · **Pilar:** P4 — Institucional / Oferta · **Tipo (mix Lone):** venda · **Funil:** BOFU · **Quem grava:** a consultora que ficar confirmada como rosto da conta ([OQ #1](../OPEN-QUESTIONS.md)).
+**Cliente:** atlas-corretora · **Data:** qua 28/10/2026 (Dia do Servidor Público) · **Formato:** Reel vertical gravado, ~45s, 8 cenas · **Pilar:** P4 — Institucional / Oferta · **Tipo (mix Lone):** venda · **Funil:** BOFU · **CTA:** direct / link na bio · **Quem grava:** a consultora, sozinha, com o próprio celular ([PADROES §11](../PADROES.md)).
 
-> **Decisão de PH (2026-10-22):** o vídeo não espera resposta sobre os detalhes da condição. Onde falta dado, a copy fica genérica: "condição especial" no lugar do número, "por tempo limitado" no lugar da data limite. Substitui o [Reel educativo](2026-10-28-dia-do-servidor-carro-no-servico.md) e dispensa as lacunas do [motion de oferta](2026-10-28-motion-flyer-dia-do-servidor.md), que pode usar a mesma copy se a peça sair sem rosto.
+> **v2 (2026-10-22):** as falas são as do PDF "Roteiro - Lone Midia x Atlas Servidor Publico" (Roteiro 01, 8 cenas), versão que PH e a equipe modificaram. PH: *"as ideias de gravação não seguem nosso padrão Lone, muda somente isso."* **Só o "como gravar" foi reescrito.** A direção no estilo comercial de TV e a instrução de edição saíram. Falas, tempos e CTA são os do PDF, sem mudança.
 >
-> **A única coisa que precisa ser verdade:** que a Atlas tem *alguma* condição pra servidor em 2026 (o [calendário do cliente](../referencias/2026-10-13-calendario-editorial-2025-do-cliente.md) prevê "condição especial mediante comprovação"). O resto pode ficar genérico.
->
-> **"Condição especial", não "desconto":** se a condição for brinde ou assistência, "desconto" vira promessa errada. Se a Atlas disser que é desconto, troca a palavra nas falas e na tela, e é a única mudança.
+> ⚠️ **Dois pontos de copy que ficaram como estavam (PH pediu pra mexer só na gravação):** o PDF chama o cliente de "Atlas **Seguradora**" no cabeçalho, e a Atlas é **corretora** (o próprio encerramento do PDF diz "Atlas Corretora"). A cena 08 diz "as **melhores** condições", e superlativo está fora pela [PADROES §2](../PADROES.md). Alternativa: "as condições disponíveis pro seu perfil".
 
 ---
 
-## 1. Gancho (0-3s)
+## Como gravar — vale pra todas as cenas
 
-**Texto na tela** (tarja azul-marinho + tarja branca, padrão da conta, [PADROES §7](../PADROES.md)):
-"SERVIDOR PÚBLICO"
-"ESSA É PRA VOCÊ"
-
-**Fala:**
-"Você é servidor público e tem carro?"
-
-**Como gravar:** plano médio, de pé ao lado de um carro estacionado (placa fora do quadro), olhando pra lente. Ação: aponta pra câmera em "pra você". Repetir 3-4 vezes, com 1-2s de respiro antes e depois.
-
----
-
-## 2. Problema (3-10s)
-
-**Fala:**
-"Hoje, 28 de outubro, é Dia do Servidor. E se o seu seguro tá pra vencer, ou o carro roda sem seguro, esse é o momento."
-
-**Texto na tela:** "28/10 · DIA DO SERVIDOR PÚBLICO"
-
-**Como gravar:** mesmo enquadramento, andando devagar ao lado do carro, câmera parada. Ação: gira a chave do carro na mão. Para de andar em "esse é o momento". Repetir 3-4 vezes.
+- Celular **na vertical**, câmera **parada** (apoiada ou com alguém segurando firme, sem tremer). "Parado" é a câmera, **nunca ela**: em toda cena ela está fazendo alguma coisa enquanto fala (a ação está em cada cena abaixo).
+- Plano médio (da cintura ou do peito pra cima). Olhar **na lente**, não na tela.
+- Cada cena é uma tomada separada. Não precisa decorar o vídeo inteiro: grava uma cena, repete **3 a 4 vezes** e passa pra próxima.
+- **Respiro:** 1-2s de silêncio antes e depois de cada fala, **com a ação ainda acontecendo**. É o espaço que a Lone usa pra cortar e encaixar o texto de tela.
+- **Placa fora do quadro** em todo plano com carro. Na tela do celular, nada de conversa ou dado de cliente.
+- Lugar silencioso, sem vento nem trânsito. Microfone de lapela, se tiver.
+- **Dois cenários só:** ao lado do carro (cenas 01-04 e 08) e na mesa de atendimento (cenas 05-07). Grava todas as cenas de um cenário antes de mudar de lugar.
 
 ---
 
-## 3. Solução + benefício (10-20s)
+## Cena 01 — Gancho (0-4s) · ao lado do carro
 
-**Fala:**
-"A Atlas preparou uma condição especial no seguro auto pra quem é servidor. A gente cota nas seguradoras com que trabalha e mostra a opção que faz sentido pro seu carro, já com essa condição."
+**Fala:** "SERVIDOR PÚBLICO, TEMOS UM PRESENTE PRA VOCÊ!"
 
-**Texto na tela:** "CONDIÇÃO ESPECIAL PRA SERVIDOR NO SEGURO AUTO"
+**Como gravar:** de pé ao lado do carro estacionado. **Ação:** começa fechando a porta do carro e se vira pra lente já falando. A primeira palavra sai junto com o virar, sem "oi, gente" antes.
 
-**Como gravar:** plano médio sentada (mesa do escritório), olhando pra lente. Ação: vira o notebook ou o tablet pra câmera em "a gente cota", tela sem dado legível. Dá pra gravar em dois pedaços, com o corte em "...pra quem é servidor". Repetir 3-4 vezes.
+## Cena 02 — Conexão (4-7s) · ao lado do carro
 
-**B-roll opcional** (3-5s, placa fora do quadro): mão pegando a chave do carro, carro saindo da vaga.
+**Fala:** "Você que cuida de tanta gente todos os dias..."
+
+**Como gravar:** mesmo lugar e mesmo enquadramento da cena 01. **Ação:** apoia a mão no teto ou na porta do carro, como quem para pra conversar. Fala mais baixo que na cena 01, no tom de conversa.
+
+## Cena 03 — Virada (7-10s) · ao lado do carro
+
+**Fala:** "Hoje é a nossa vez de cuidar de você!"
+
+**Como gravar:** mesmo enquadramento. **Ação:** tira a mão do carro e dá um passo na direção da câmera enquanto fala. Vale gravar também as cenas 02 e 03 numa tomada só, emendadas, pra ter as duas opções na montagem.
+
+## Cena 04 — Oferta (10-16s) · ao lado do carro
+
+**Fala:** "A Atlas preparou uma condição especial no seguro do seu carro!"
+
+**Como gravar:** mesmo enquadramento. **Ação:** passa a mão pela lateral do carro, do retrovisor em direção à porta, enquanto fala. O gesto mostra o carro sem precisar apontar pra ele.
+
+## Cena 05 — Reforço comercial (16-23s) · mesa de atendimento
+
+**Fala:** "É ISSO MESMO! UMA CONDIÇÃO ESPECIAL, PREPARADA PARA VOCÊ QUE É SERVIDOR PÚBLICO!"
+
+**Como gravar:** sentada à mesa, plano médio. **Ação:** está escrevendo numa prancheta ou mexendo no notebook, para e levanta o olhar pra lente em "É isso mesmo". O resto da fala sai olhando pra câmera, com a caneta ainda na mão.
+**Se a fala travar:** grava só a voz (sem se preocupar com o quadro, 2-3 vezes) e a Lone cobre com B-roll, mesmo recurso do roteiro da BYD.
+
+## Cena 06 — Urgência (23-27s) · mesa de atendimento
+
+**Fala:** "Mas atenção: essa oportunidade é por tempo limitado!"
+
+**Como gravar:** mesmo enquadramento da cena 05. **Ação:** olha pro relógio de pulso (ou pra tela do celular sobre a mesa) em "tempo limitado" e volta o olhar pra lente no fim da frase.
+
+## Cena 07 — Chamada pra ação (27-34s) · mesa de atendimento
+
+**Fala:** "Então, manda uma mensagem no nosso direct ou clica no link da bio!"
+
+**Como gravar:** mesmo enquadramento. **Ação:** pega o celular e vira a tela pra câmera, mostrando o perfil da Atlas aberto (@__atlas.corretora). A tela não pode ter conversa nem nome de cliente.
+
+## Cena 08 — Fechamento (34-43s) · ao lado do carro
+
+**Fala:** "Diga que você é servidor público e nossos corretores vão buscar as melhores condições disponíveis para o seu perfil!"
+
+**Como gravar:** de volta ao lado do carro, no enquadramento da cena 01 (o vídeo fecha onde abriu). **Ação:** guarda o celular no bolso enquanto começa a fala e termina com a mão apoiada no carro. Depois da última palavra, segura **2-3s calada e sorrindo, ainda com a mão no carro**. É ali que entra a tela de fechamento da Atlas.
 
 ---
 
-## 4. CTA (20-28s)
+## B-roll (sem ela falando)
 
-**Fala:**
-"A condição é por tempo limitado. Comenta SERVIDOR aqui embaixo que a gente te chama no direct."
+De 4 a 5 planos de 3-5s cada, câmera parada, placa sempre fora:
 
-**Texto na tela** (tela final com monograma "A" + escudo sobre azul-marinho):
-"COMENTA SERVIDOR"
-Rodapé pequeno, mínimo 3s: *"Condição mediante comprovação de vínculo. Sujeita à análise da seguradora. Condições variam por apólice."*
+- a mão girando a chave do carro
+- a mão abrindo a porta do carro
+- o carro saindo da vaga, filmado de fora
+- a tela do celular no perfil da Atlas, sem conversa aberta
+- a mesa de atendimento com a prancheta e o notebook
 
-**Como gravar:** de volta ao carro (fecha onde abriu), olhando pra lente. Ação: aponta pra baixo, pros comentários, em "aqui embaixo". Segurar 2s parada e sorrindo no fim, que é onde entra a tela final. Repetir 3-4 vezes.
-
----
-
-## Legenda
-
-Hoje, 28 de outubro, é Dia do Servidor Público, e a Atlas tem uma condição especial no seguro do carro pra quem é servidor.
-
-Se o seu seguro está pra vencer, ou se o carro ainda roda sem seguro, vale cotar agora. A gente compara as seguradoras com que trabalha e mostra a opção que faz sentido pro seu carro, já com a condição de servidor. Ela vale por tempo limitado.
-
-Comenta SERVIDOR que a gente te chama no direct.
-
-Condição mediante comprovação de vínculo, sujeita à análise e aceitação da seguradora. Condições variam por apólice.
-
-#DiaDoServidorPublico #ServidorPublico #SeguroAuto #SeguroDeCarro #AtlasCorretora
+A Lone usa esses planos pra intercalar entre as cenas na montagem.
 
 ---
 
-## Observações
+## Antes de publicar
 
-- **Sem feriado ou ponto facultativo** na copy. A data é o Dia do Servidor, e folga varia por órgão.
-- **Sem número:** nenhum percentual, valor ou "mais barato" ([PADROES §2](../PADROES.md)).
-- **Comprovante não vai pelo direct do Instagram** (contracheque tem CPF e salário). Quem responder os comentários leva a conversa pro canal de atendimento da Atlas.
-- **Quem responde os comentários SERVIDOR** segue sem dono ([OQ #4](../OPEN-QUESTIONS.md)). Sem dono, troca o fecho por *"Chama a gente no direct e manda SERVIDOR."*
-- **Se ninguém gravar até seg 26/10:** a mesma copy vira o [motion](2026-10-28-motion-flyer-dia-do-servidor.md), trocando as lacunas dele pelos termos genéricos daqui.
-- **Coerência com a semana:** a sexta 30/10 (Halloween) pede cotação no direct. As duas peças pedem cotação, mas por caminhos diferentes (comentário × direct), e a quarta tem a data como motivo.
+A Atlas precisa ter **alguma** condição pra servidor em 2026. O resto pode ficar genérico (decisão de PH, 22/10). Na legenda e no rodapé da tela final: *"Condição mediante comprovação de vínculo. Sujeita à análise da seguradora. Condições variam por apólice."*
 
-## Estrutura ↔ playbook Lone
-
-Gancho (você é servidor?) → Problema (seguro vencendo ou carro sem seguro) → Solução (condição especial) → Benefício (cotação comparada, já com a condição) → CTA (tempo limitado + comenta SERVIDOR).
+---
 
 ## Histórico
 
-- **2026-10-22 v1.1:** validador-copy (0 bloqueantes, 3 importantes, 4 menores), aplicados: falas enxugadas (~30-35s), "Mas" sem contraste virou "A condição é", "condições variam por apólice" entrou no rodapé de tela (vídeo é visto no mudo), gancho falado deixou de repetir a tela, legenda sem "a data vem com".
+- **2026-10-22 v2:** PH mandou em PDF o roteiro modificado pela equipe (8 cenas, CTA direct/link na bio). Mantidas as falas do PDF. O "como gravar" foi reescrito no padrão [PADROES §11](../PADROES.md): ação concreta em toda cena, dois cenários, respiro com a ação em andamento e B-roll. Saíram a direção estilo apresentadora de TV e as instruções de edição. Ficaram sinalizados, sem alteração, "Atlas Seguradora" e "melhores condições".
+- **2026-10-22 v1.1:** versão genérica de 4 blocos, validada (substituída pela v2).
 - **2026-10-22 v1:** escrita a pedido de PH. Versão genérica de oferta, sem esperar os detalhes da condição.
