@@ -5,6 +5,27 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🔴 Nova (2026-10-22) — motion de qua 28/10 (Dia do Servidor): Atlas até seg 26/10 12h (ideal sex 23/10)
+
+O [roteiro](conteudo/roteiros/2026-10-28-motion-flyer-dia-do-servidor.md) está pronto com lacunas. É a mesma pergunta do item 3 do bloco do calendário (13/10), agora detalhada:
+
+1. Existe condição pra servidor em 2026? Sem ela, a data não entra e o slot volta pro vídeo de sinistro, que não tem roteiro.
+2. Qual é a condição (percentual fixo ou "até", ou outro benefício) e quem banca: a corretora ou uma seguradora específica?
+3. Quem tem direito: federal, estadual, municipal, aposentado, empregado de estatal, dependente?
+4. Que documento comprova, e por qual canal? O direct não é lugar pra receber contracheque.
+5. Até quando vale, e vale pra renovação? (decide a cena 04)
+6. Só auto ou outros ramos? (uma linha da legenda)
+7. Quem responde os comentários SERVIDOR ([OQ #4](#4)).
+
+**Adendo (2026-10-22, 2) — opção que sobe sem condição:** [roteiro gravado "O seu carro também trabalha?"](conteudo/roteiros/2026-10-28-dia-do-servidor-carro-no-servico.md), educativo (uso do carro no serviço × perfil do seguro). Se a resposta do item 1 for "não", o slot não precisa voltar pro sinistro. Ele tem gate próprio, com o **corretor** até **sex 23/10 12h**:
+
+- a. O questionário de perfil separa "ir e voltar do trabalho" de "usar o carro durante o trabalho"? Como a opção aparece? **Não** → o roteiro cai.
+- b. Uso a serviço com perfil marcado só como "ir ao trabalho" pode dar problema na hora de acionar o seguro?
+- c. As seguradoras tratam esse uso de jeitos diferentes? (sustenta o bloco 4)
+- **PH decide** qual dos dois vai no slot: motion de oferta (se houver condição) ou roteiro gravado (sem condição). Os dois juntos repetiriam data e CTA.
+
+---
+
 ## 🟡 Nova (2026-10-20) — post de sexta 23/10 (seguro do carro × renda): CTA SIMULAR
 
 A [peça de 23/10](conteudo/posts/2026-10-23-seguro-do-carro-e-a-renda.md) não afirma cobertura. A trava é operacional:

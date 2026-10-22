@@ -4,6 +4,24 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ---
 
+## 2026-10-22 (2) — Reel gravado de qua 28/10: "Servidor público, o seu carro também trabalha?"
+
+[Roteiro](conteudo/roteiros/2026-10-28-dia-do-servidor-carro-no-servico.md) pedido por PH ("roteiro com o assunto do calendário, o de servidor"). É o **plano sem condição** pro mesmo slot do motion abaixo: educativo, semana de Auto, com o uso do carro no serviço (professor em duas escolas, assistente social, oficial de justiça) × o que foi marcado no perfil do seguro. ~45-50s, takes por bloco ([PADROES §11](PADROES.md)). CTA: comenta SERVIDOR → direct. Fallback de salvar já escrito.
+
+**Validação de copy (subagent): 2 bloqueantes, 6 importantes, 8 menores, aplicados.** A v1 não explicava a relação com o motion e tinha marcador de gate solto na fala. Estourava 60s (cortada de ~170 pra ~125 palavras). "Agente de saúde" saiu (visita costuma ser a pé, e o vínculo varia). Também saiu a frase que dizia que o público errou, e o parentesco com o motorista de app (21/08) ficou assumido no cabeçalho.
+
+🔴 **Gate do corretor** (3 perguntas, até sex 23/10 12h): o questionário separa "ir ao trabalho" de "usar no trabalho"? Se não separar, o vídeo cai. **PH escolhe** motion de oferta ou este Reel quando a Atlas responder sobre a condição. ⚠️ A segunda 26/10 não pode usar "mudou o uso do carro" como exemplo.
+
+---
+
+## 2026-10-22 — Motion flyer de qua 28/10: Dia do Servidor Público com condição no seguro auto
+
+[Roteiro](conteudo/roteiros/2026-10-28-motion-flyer-dia-do-servidor.md) pedido a partir do [calendário 2025 do cliente](referencias/2026-10-13-calendario-editorial-2025-do-cliente.md) ("condição especial mediante comprovação"). Ocupa o slot de vídeo de qua 28/10 na semana de **Auto**. A pauta *"Bati o carro. O que eu faço na primeira hora?"*, que estava ali como flexível e sem roteiro, vai pro banco. Gancho recomendado: *"Se o seu crachá é de servidor público, ele vale desconto no seguro do carro."* ~18s, 4 cenas + card azul, corte de Stories de 10s. CTA: comenta SERVIDOR.
+
+🔴 **A condição não existe ainda.** O calendário de 2025 não traz número, então a arte e a legenda têm lacunas entre colchetes (condição, data limite, público, documento). São 7 perguntas pra Atlas no item 7 do roteiro e na [OQ nova de 22/10](OPEN-QUESTIONS.md). O ideal é ter resposta até sex 23/10, e o limite é seg 26/10 12h. Sem resposta, a data não entra no feed (regra da OQ #3 do calendário).
+
+---
+
 ## 2026-10-20 (4) — Post de sexta 23/10: "O seguro do carro, muita gente resolve antes de sair da loja. E a renda que paga as parcelas do carro?"
 
 [Estático 4:5](conteudo/posts/2026-10-23-seguro-do-carro-e-a-renda.md) pro slot que ficou vazio quando a peça prevista ("daqui a um ano custa o mesmo") subiu na segunda 19/10. Fecha a semana de **Planejamento familiar** do [trimestral §6](estrategia/2026-09-a-11-trimestral.md) com função de venda. Apoio: *"Planejamento familiar é pensar em quem conta com a renda que paga o carro, a casa e todo o resto."* CTA na arte: *"Comenta SIMULAR e a gente te chama no direct."*
