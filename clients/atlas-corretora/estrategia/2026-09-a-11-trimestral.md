@@ -99,7 +99,7 @@ O que o trimestre **não** substitui é o briefing mensal dos dias 22-25 ([playb
 | | | 21/10 | qua | vídeo | Planejamento familiar serve só pro pior cenário? | Invalidez e doenças graves. ⚠️ gate reforçado |
 | | | 23/10 | sex | estático | ~~em aberto~~ → **O seguro do carro, muita gente resolve antes de sair da loja. E a renda que paga as parcelas do carro?** | A peça prevista subiu na segunda 19/10. Contraste com o seguro que a pessoa já faz; CTA comenta SIMULAR. [peça](../conteudo/posts/2026-10-23-seguro-do-carro-e-a-renda.md) |
 | **26 → 30** | Auto | 26/10 | seg | estático | A apólice é anual. E a sua vida, mudou? | O que precisa ser avisado antes da renovação |
-| | | 28/10 | qua | vídeo | Bati o carro. O que eu faço na primeira hora? | Passo a passo do sinistro · *flexível* · **22/10: proposta de troca pelo [motion do Dia do Servidor](../conteudo/roteiros/2026-10-28-motion-flyer-dia-do-servidor.md), se a Atlas confirmar a condição; sem condição, [Reel gravado "O seu carro também trabalha?"](../conteudo/roteiros/2026-10-28-dia-do-servidor-carro-no-servico.md) (PH escolhe)** |
+| | | 28/10 | qua | vídeo | Bati o carro. O que eu faço na primeira hora? | Passo a passo do sinistro · *flexível* · **22/10: trocado pelo [Reel do Dia do Servidor, condição especial (genérico)](../conteudo/roteiros/2026-10-28-dia-do-servidor-condicao-especial.md); sem gravação, vira o [motion](../conteudo/roteiros/2026-10-28-motion-flyer-dia-do-servidor.md) com a mesma copy** |
 | | | 30/10 | sex | estático | 5 situações em que o seguro auto não paga | Lista de mito: a pergunta-gancho na arte, as situações na legenda (era carrossel; trocado em 13/10) |
 
 ## 7. Novembro

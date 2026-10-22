@@ -6,7 +6,7 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ## 2026-10-22 — Atlas: Dia do Servidor (qua 28/10), motion de oferta + Reel gravado sem condição
 
-Dois roteiros pro mesmo slot. O motion só sobe se a Atlas confirmar condição pra servidor. O Reel "O seu carro também trabalha?" é educativo (uso do carro no serviço × perfil do seguro) e sobe sem oferta, validado (o motion não tem validação registrada). Gate do corretor até sex 23/10 12h, e PH escolhe a peça.
+Atualização: PH decidiu gravar uma oferta genérica ("condição especial", "por tempo limitado") sem esperar resposta da Atlas. [Roteiro validado](../clients/atlas-corretora/conteudo/roteiros/2026-10-28-dia-do-servidor-condicao-especial.md). O Reel educativo foi pro banco, e o motion vira contingência com a mesma copy.
 
 ---
 

@@ -4,6 +4,12 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ---
 
+## 2026-10-22 (3) — Dia do Servidor vira oferta genérica gravada (PH)
+
+PH: as perguntas sobre a condição não precisam de resposta, *"se a gente não sabe, coloca uma coisa genérica."* [Roteiro](conteudo/roteiros/2026-10-28-dia-do-servidor-condicao-especial.md) de ~30-35s: *"Você é servidor público e tem carro?"* → seguro vencendo ou carro sem seguro → condição especial no seguro auto, cotada nas seguradoras parceiras → por tempo limitado, comenta SERVIDOR. "Condição especial" no lugar de "desconto", porque não se sabe o tipo do benefício. Rodapé: mediante comprovação, sujeita à análise, condições variam por apólice. **Validado** (0 bloqueantes, 3 importantes aplicados). O Reel educativo de (2) foi pro banco, e o motion usa esta copy se ninguém gravar. Única ressalva: a Atlas precisa ter *alguma* condição pra servidor.
+
+---
+
 ## 2026-10-22 (2) — Reel gravado de qua 28/10: "Servidor público, o seu carro também trabalha?"
 
 [Roteiro](conteudo/roteiros/2026-10-28-dia-do-servidor-carro-no-servico.md) pedido por PH ("roteiro com o assunto do calendário, o de servidor"). É o **plano sem condição** pro mesmo slot do motion abaixo: educativo, semana de Auto, com o uso do carro no serviço (professor em duas escolas, assistente social, oficial de justiça) × o que foi marcado no perfil do seguro. ~45-50s, takes por bloco ([PADROES §11](PADROES.md)). CTA: comenta SERVIDOR → direct. Fallback de salvar já escrito.

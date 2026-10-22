@@ -5,7 +5,11 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
-## 🔴 Nova (2026-10-22) — motion de qua 28/10 (Dia do Servidor): Atlas até seg 26/10 12h (ideal sex 23/10)
+## ✅ (2026-10-22, 3) — Dia do Servidor: as perguntas abaixo não travam mais (PH)
+
+> PH: *"não precisa necessariamente responder essas perguntas… se a gente não sabe, a gente coloca uma coisa genérica."* Virou o [roteiro genérico gravado](conteudo/roteiros/2026-10-28-dia-do-servidor-condicao-especial.md) ("condição especial", "por tempo limitado", "mediante comprovação"). Só fica de pé: **a Atlas tem alguma condição pra servidor em 2026?** (aviso, não gate) e quem responde os comentários SERVIDOR ([OQ #4](#4)). O Reel educativo e o adendo do corretor ficam arquivados.
+
+## (arquivado) Nova (2026-10-22) — motion de qua 28/10 (Dia do Servidor): Atlas até seg 26/10 12h (ideal sex 23/10)
 
 O [roteiro](conteudo/roteiros/2026-10-28-motion-flyer-dia-do-servidor.md) está pronto com lacunas. É a mesma pergunta do item 3 do bloco do calendário (13/10), agora detalhada:
 

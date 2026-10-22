@@ -1,5 +1,7 @@
 # Roteiro — Dia do Servidor Público: "O seu carro também trabalha?"
 
+> **⚠️ Arquivado em 2026-10-22 (PH):** o slot de 28/10 vai com o [roteiro genérico de oferta](2026-10-28-dia-do-servidor-condicao-especial.md), que não depende de resposta. Este fica no banco como ideia de educativo pra uma próxima semana de Auto (precisa do gate do corretor abaixo).
+
 **Cliente:** atlas-corretora · **Data:** qua 28/10/2026 (Dia do Servidor Público) · **Formato:** Reel vertical gravado, ~45-50s · **Pilar:** P1 — Dúvidas em vídeo · **Tipo (mix Lone):** educativo com data, fecho de conversa · **Funil:** MOFU (quem já tem seguro e nunca pensou no uso declarado) · **Quem grava:** a consultora que ficar confirmada como rosto da conta ([OQ #1](../OPEN-QUESTIONS.md), Mayara é a candidata).
 
 > **Relação com o motion flyer do mesmo dia:** existe outro roteiro pro slot de 28/10, o [motion flyer de oferta](2026-10-28-motion-flyer-dia-do-servidor.md), que **só sobe se a Atlas confirmar uma condição especial pra servidor** (gate de 7 perguntas, limite seg 26/10 12h). **Este Reel é o plano pra quando a condição não vier:** educativo, sobe sem oferta e evita que a data saia do feed. Os dois não sobem juntos (mesma data, mesmo CTA SERVIDOR). **PH escolhe um** quando a resposta da Atlas chegar.
