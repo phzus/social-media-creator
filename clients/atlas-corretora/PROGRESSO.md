@@ -4,6 +4,12 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ---
 
+## 2026-10-22 (5) — Dia do Servidor: gravação simplificada pra "andando enquanto fala"
+
+PH: *"tá muito mirabolante. A gente tinha a de ir andando enquanto fala e mais nada."* [v3](conteudo/roteiros/2026-10-28-dia-do-servidor-condicao-especial.md): uma instrução só pra todas as cenas (andando, quem grava de costas, olhar na lente, 3-4 tomadas, respiro). A [PADROES §11](PADROES.md) foi corrigida: o default é andar falando, e ação por cena só se PH pedir.
+
+---
+
 ## 2026-10-22 (4) — Dia do Servidor: "como gravar" refeito no padrão Lone
 
 PH mandou o PDF do roteiro modificado pela equipe (8 cenas, *"Servidor público, temos um presente pra você"*, CTA direct/link na bio) e reprovou a parte de gravação: *"tá ridículo… muda somente isso."* [v2](conteudo/roteiros/2026-10-28-dia-do-servidor-condicao-especial.md) com as falas do PDF intactas e gravação reescrita: ação concreta por cena, dois cenários (carro e mesa), respiro com a ação em andamento, B-roll listado. Saíram a direção estilo TV e a instrução de edição. Regra registrada na [PADROES §11](PADROES.md). Sinalizado sem mexer: o PDF diz "Atlas Seguradora" (é corretora) e "melhores condições" (superlativo, §2).
