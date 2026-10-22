@@ -4,6 +4,18 @@ Log datado do trabalho feito pra Max Contabilidade. Topo = mais recente. Entrada
 
 ---
 
+## 2026-10-22 — Post de segunda 26/10: "Empresa do Simples: o que você vender na Black Friday e no Natal fica 12 meses na conta da alíquota."
+
+[Peça](conteudo/posts/2026-10-26-fim-de-ano-forte-fica-12-meses-na-aliquota.md), estático 4:5, foco tributário ([PADROES §0](PADROES.md)). Linha 2: *"Se isso fizer o acumulado crescer, ela pode ficar mais alta até nos meses fracos de 2027."* Mecanismo novo na conta: **efeito adiado**, em afirmação (a Araruama Tintas do mesmo dia abre em pergunta). Black Friday e Natal entram como contexto. CTA na arte, **primeiro de comentário da conta**, porque não há canal confirmado e a arte não sai com lacuna: *"Comenta ALÍQUOTA pra receber no direct como o fim de ano entra na alíquota da sua empresa."*
+
+**Por que esse tema:** fica no Simples (assunto da semana que deu lead) sem repetir prazo nem IBS/CBS (25/09 e 23/10). **Fonte:** LC 123/2006, art. 18, §1º e §1º-A, e Anexos (1ª faixa sem parcela a deduzir), lidos no Planalto hoje. Nenhuma alíquota, faixa em reais ou limite na peça.
+
+**Validado (2 bloqueantes, 6 importantes, aplicados; v1.1).** Bloqueantes: a linha 2 não condicionava a alta da alíquota ao acumulado crescer, e o CTA prometia fazer a conta individual no direct (virou triagem). Importantes: "faturar" no lugar de "entrar no caixa", "no comércio" na regra da 1ª faixa (fator R), frase final reescrita, recorte "Empresa do Simples", DAS traduzido só na arte, nota pro PH sobre comentário × mensagem de lead.
+
+**Travas:** 🔴 escritório confirma as regras gerais, o fator R e se a janela dos 12 meses muda em 2027 pela LC 214/2025 ([OQ U](OPEN-QUESTIONS.md)) · 🔴 quem responde os comentários ALÍQUOTA no direct e se o escritório atende não cliente (OQ B/J/S) · se a peça de 23/10 escorregar pra 26/10, esta vai pra qua 28/10 · identidade, CRC e posição sobre publicidade. Prazo: brief ao designer hoje, envio ao cliente sex 23/10 até 15h.
+
+---
+
 ## 2026-10-20 — Post de sexta 23/10 (venda): prazo do IBS/CBS no Simples prorrogado até 30/10
 
 [Peça](conteudo/posts/2026-10-23-prazo-ibs-cbs-prorrogado-30-de-outubro.md), estático 4:5, a partir da [OQ T](OPEN-QUESTIONS.md). Headline (v1.1): **"Empresa do Simples Nacional: o prazo do IBS e da CBS foi prorrogado. / Agora vai até 30 de outubro."** Mecanismo novo na conta: **prazo reaberto com data real**. Serviço vendido: triagem de planejamento tributário antes do dia 30. CTA na arte: *"Vende pra outras empresas? Chama em `[canal a confirmar]` até 30/10 e conta o que a sua empresa vende, que a gente diz se vale olhar essa escolha no seu caso."* Fonte e "MEI fica de fora" no rodapé da arte.

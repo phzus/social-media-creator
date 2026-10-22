@@ -2,6 +2,12 @@
 
 Pendências a resolver com PH / com o dono do Bazar Ribeiro. Resolver as **bloqueantes** antes de produzir qualquer peça da campanha de agosto.
 
+## 📅 2026-10-22 — Post de segunda 26/10 (lâmpada, luz de farmácia) + achados no perfil público
+
+21. 🟡 **Como a caixa da lâmpada 3000K vem rotulada na loja ("branca quente", "amarela", "quente")?** A arte diz "luz amarelada, mais quente" e manda olhar o número com K. Se a caixa usar outro nome, troca só o rótulo. Peça: [2026-10-26](conteudo/posts/2026-10-26-lampada-luz-de-farmacia.md).
+22. 🟡 **Horário de funcionamento: já está publicado pela própria conta (achado, falta confirmar).** @bazarribeiro_saquarema, 30/09 (dois posts): seg a sex 08h–18h30 · sáb 08h–17h30 · dom 08h–13h. @bazarribeiro_marica, 22/04: "funciona de domingo a domingo", horários só na imagem (não lida). Feriado de 12/10, nos dois perfis em 09/10: Maricá 8h–14h · Saquarema 8h–13h30. Isso responde em boa parte o item 1 e a PAUTA #6. Confirmar com o Junior se segue valendo e ler a imagem de Maricá antes de usar em arte.
+23. 🔴 **PT-PT voltou na legenda de Maricá:** o reel de 21/10 diz "num só sítio", "sinónimo" e "tudo o que precisa". Mesmo vício do item 18, depois da regra de 20/10. A legenda que vai ao ar não é a do repo: descobrir quem escreve as legendas de Maricá e passar o [checklist §1.8](../../shared/voice-quality-checklist.md).
+
 ## 📅 2026-10-16 — Post de segunda 19/10 (utilidades de casa)
 
 20. 🟡 **Mop giratório, sapateira, tapete e TV box ainda estão no mix das duas lojas?** A única fonte são as artes de junho/2026 em ~/Downloads (uma de Maricá e uma de Saquarema por item). Pedir o OK ao Junior junto com o envio da arte. Se algum item tiver saído de uma das lojas, é só trocar no corpo da [peça de 19/10](conteudo/posts/2026-10-19-o-nome-comeca-com-bazar.md).

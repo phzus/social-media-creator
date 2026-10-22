@@ -4,6 +4,18 @@ Log datado do trabalho feito pra Veterinária Regional. Topo = mais recente. Ent
 
 ---
 
+## 2026-10-22 — Post de segunda 26/10: Mito x Verdade "Tosa bem baixinha deixa o cachorro mais fresco" (Dermatologia) · validado (3 bloqueantes, 7 importantes)
+
+[Peça](conteudo/posts/2026-10-26-mito-tosa-baixinha-refresca.md), estático no split Mito x Verdade. Kicker "Antes de pedir pra raspar ele pro verão:" → verdade "O pelo faz sombra na pele. Raspado até a pele, o cachorro pode se queimar, e o de pelo duplo nem sempre sente menos calor. A tosa certa depende da pelagem dele." → âncora **DERMATOLOGIA** → banner "Salva e mostra no dia da tosa" (CTA na arte).
+
+- **Linha da semana:** abre Dermatologia, que fecha na sexta 30/10 (orelha na volta da praia). Sem colisão com 30/10: pelo/pele/tosa × orelha/praia/feriado; mito × cena de retorno; salvar × WhatsApp. Não repete o mito de 03/08 (pelo/frio/roupa).
+- **Fonte:** WebMD (vets Sonnenfield e Stickney), Compre Rural/PetsCare. Existe visão divergente (Correio Braziliense), por isso tudo condicional e sem número de centímetros.
+- **Validação (validador-copy, sem confiar na Checagem):** 3 bloqueantes aplicados: "ele pode se queimar" tinha "o pelo" como sujeito · a legenda sugeria que a Dermatologia avalia pelagem antes da tosa (serviço não confirmado), e "não o termômetro" não tinha referente · a lista "Antes da tosa" tinha item de depois. 7 importantes: fórmula binária "o pelo não serve só pra esquentar" cortada, escovação restrita ao pelo duplo, "protege" virou "faz sombra", arte restrita ao pelo duplo como a legenda, "pergunta pra quem vai tosar", CTA mantido com sintoma ligado à Dermatologia, e o ponto político (26/10 é o dia seguinte ao 2º turno): #MitoOuVerdade fora só neste dia e aviso de moderação de comentários. Brief: foto real de cachorro com pelagem na metade inferior, 🚫 ícone de sol (Contele e Bruno das Tintas falam de sol no mesmo dia).
+- **Isolamento com a WT (mesmo dia):** lá sai piscina (olhar da borda), sem pet.
+- **Pendência:** equipe da clínica ler a versão final da verdade e dos bullets ([OQ #20](OPEN-QUESTIONS.md)). Brief designer qui 22/10; cliente sex 23/10 até 15h.
+
+---
+
 ## 2026-10-20 — Post de sexta 23/10: Nefrologia venda direta, "Muita água ainda não é um número"
 
 [Peça](conteudo/posts/2026-10-23-nefrologia-mede-a-agua-de-um-dia.md), estático no template Educativo. Fecha a linha de Nefrologia aberta no Mito x Verdade de segunda 19/10 (segunda apresenta, sexta converte). Kicker “Ele anda bebendo muita água.” / Só que “muita” ainda não é um número. → âncora **TRAZ O NÚMERO NA AVALIAÇÃO** → apoio com 24 horas + "Nefrologia, a especialidade dos rins, é uma das 13 da Regional" → banner "Agenda a Nefrologia pelo WhatsApp".

@@ -3,6 +3,13 @@
 Legenda: 🔴 bloqueante · 🟡 importante (não trava tudo) · 🟢 calibração.
 Atualizar assim que PH ou a cliente responderem. Resposta vira registro em [context.md](context.md), [BRIEFING.md](BRIEFING.md) ou [PADROES.md](PADROES.md).
 
+## 🔴 2026-10-22 — Post de segunda 26/10 (faixa de barba não tira a barba): o que confirmar
+
+[Peça](conteudo/posts/2026-10-26-laser-na-faixa-de-barba-nao-tira-a-barba.md) pronta, envio à Cintia sexta 23/10 até 15h.
+1. 🔴 **A barba que o cliente mantém fica fora da área tratada na faixa de barba?** Confirmar como orientação da clínica.
+2. 🟡 **Na avaliação, a equipe mostra onde o laser vai trabalhar no rosto?** Se não, o apoio da arte troca (alternativa na peça).
+3. 🟡 **A visita presencial aconteceu?** Sem ela, "Quem atende você" (slot original de 26/10) segue sem data, e os Reels de outubro seguem sem take novo.
+
 ## 🔴 2026-10-19 (2) — Outubro OFF masculino (16x R$ 132): o que confirmar
 
 [Arte da cliente](referencias/2026-10-19-outubro-off-masculino-cliente.md) · [anúncio da Lone](conteudo/anuncios/2026-10-19-outubro-off-masculino-5-areas.md)

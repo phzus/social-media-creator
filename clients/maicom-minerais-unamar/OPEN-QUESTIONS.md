@@ -2,6 +2,10 @@
 
 Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes de fechar a 1ª estratégia mensal.
 
+## 🟡 2026-10-22 — Argamassa de piso sobre piso (não trava)
+
+A [segunda 26/10](conteudo/posts/2026-10-26-piso-novo-em-cima-do-velho.md) ensina que dá pra assentar piso novo sobre o velho "com argamassa própria pra piso sobre piso", sem dizer que a Maicom vende (a legenda deixa a escolha com o pedreiro e "no balcão a gente tira a dúvida"). **A loja tem essa argamassa?** Se tiver, a próxima sexta pode amarrar piso + argamassa certa num anúncio (hoje só a AC-1 está confirmada, [PADROES §4](PADROES.md)).
+
 ## 🔴 2026-10-13 — Vigência do R$ 19,99/m² em 16/10 (item C com data)
 
 A [sexta 16/10](conteudo/posts/2026-10-16-janeiro-descalco-piso-novo.md) usa **"piso a partir de R$ 19,99 o m², no dinheiro ou no Pix"**, que é da tabela de setembro. A tabela de outubro nunca chegou (item C, aberto desde 22/09). **Confirmar com PH até qui 15/10.** Sem confirmação, o selo de preço sai e vira "mais de 1.000 modelos de piso".

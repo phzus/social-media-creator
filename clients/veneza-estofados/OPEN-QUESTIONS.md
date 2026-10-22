@@ -7,6 +7,14 @@ Pendências herdadas da "Fase 0 — Destravar" e do §12 do [documento-fonte](re
 
 ---
 
+## 🟡 2026-10-22 — Post de segunda 26/10 (Sofá Ipanema 1,50m)
+
+[Peça](conteudo/posts/2026-10-26-cochilo-cabeca-no-braco-ipanema.md). Sai como vitrine sem preço; a pergunta abaixo só destrava a versão B com preço.
+
+35. 🟡 **Qual preço do Sofá Ipanema 1,50m vale?** A arte do cliente de agosto (~/Downloads, 24/08) diz **R$ 899,99 à vista ou 12x de R$ 85,70**; a página do produto no site, consultada em 22/10, diz **R$ 1.099,90, 12x de R$ 117,06 ou R$ 1.044,91 no PIX** (e "de R$ 1.399,99"). Liga com a #31 (Master, mesma leva de artes) e a #34 (faixa "a partir de"): se o site está certo, os preços das artes de agosto caíram; se as artes estão certas, o site está acima da loja.
+
+---
+
 ## 🟡 2026-10-13 — Post de sexta 16/10 (Sofá Master 1,50m)
 
 [Peça](conteudo/posts/2026-10-16-sofa-master-fechado-aberto.md). Itens 31 e 32 travam a subida; 33 e 34 são achados que valem pra conta toda.

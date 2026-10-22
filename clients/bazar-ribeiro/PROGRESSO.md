@@ -4,6 +4,20 @@ Log datado do trabalho feito pro Bazar Ribeiro. Topo = mais recente. Entrada por
 
 ---
 
+## 2026-10-22 — Post de segunda 26/10: "Trocou a lâmpada e a sala ficou com luz de farmácia. / A cor da luz vem escrita na caixa, no número com K."
+
+[Peça](conteudo/posts/2026-10-26-lampada-luz-de-farmacia.md): estático na base da casa (uma das 2 peças de base da semana, [PADROES §8](PADROES.md)), **os dois perfis**, mesma arte. Educativo leve abrindo uma **semana de iluminação** (proposta; a conta nunca teve). Lâmpada LED é o item que mais sai da loja (Tramontina 9 W 6,5K, A7 da curva ABC), e a loja vende as duas cores (Kian em 6,5K e 3,0K).
+
+**Mecanismo novo na conta:** cena com humor → regra do número da caixa (6500K branca fria × 3000K amarelada, com sugestão de cômodo). Fontes: guia de temperatura de cor da Philips e Correio Braziliense, citados na peça. CTA: "Na dúvida de qual levar, liga ou chama a loja da sua cidade", com os dois números por cidade. Sem preço, marca, estoque por loja, número de vendas, Halloween, Dia do Servidor ou horário. `ja-postado.sh` nos dois perfis (lampada|led|luz|ilumina|kian): só o reel de Maricá de 21/10 cita "lâmpadas" numa lista, sem colisão. O validador-copy deu 6 correções, aplicadas na v1.1: headline L2 que culpava quem comprou, rótulos de cor, legenda em cena genérica, relativa ambígua e CTA "liga ou chama".
+
+**Sexta 30/10 (sugestão):** converter na mesma linha no layout diversificado. A candidata é a luminária Kian portátil, R$ 59,90 (média da curva ABC, confirmar por unidade).
+
+**Achados no perfil público** ([OQ 2026-10-22](OPEN-QUESTIONS.md)): horário das duas lojas já publicado pela conta; reel de Maricá de 21/10 de novo em PT-PT.
+
+**Trava:** 🟡 rótulo da 3000K na caixa ("branca quente" ou "amarela"). Prazo: brief ao designer sex 23/10 de manhã; cliente sex 23/10 até 15h.
+
+---
+
 ## 2026-10-20 — Post de sexta 23/10: "Agachado torcendo pano na mão, e as costas reclamando no fim da faxina. / Com o mop giratório, você limpa de pé e sem torcer o pano na mão."
 
 [Peça](conteudo/posts/2026-10-23-mop-giratorio-limpa-de-pe.md): estático no **layout diversificado (modelo WD-40)**, slot de venda da semana. Roda nos **dois perfis**, com a mesma arte se o preço for igual nas duas lojas. Se não for, sai uma versão por perfil. Fecha a semana de **utilidades de casa** no produto que a segunda 19/10 já tinha citado (produto fixo, função variável).

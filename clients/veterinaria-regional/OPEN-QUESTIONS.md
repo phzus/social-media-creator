@@ -2,6 +2,14 @@
 
 Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes de fechar a 1ª estratégia mensal.
 
+## 🟢 2026-10-22 — Post de 26/10 (Mito x Verdade, tosa no verão): não bloqueia
+
+[Peça](conteudo/posts/2026-10-26-mito-tosa-baixinha-refresca.md).
+
+20. 🟢 **A equipe da clínica lê a verdade e os bullets da tosa?** Pelo protege a pele do sol, raspado até a pele pode queimar, em pelo duplo raspar pode não aliviar e o pelo pode voltar falhado, pedir comprimento em vez de raspar. Sem RT identificado, ninguém validou clinicamente. Se a clínica usar um comprimento mínimo de pelo com tutor, ele entra no bullet 2. Sem resposta, a peça sai como está.
+
+---
+
 ## 🟢 2026-10-20 — Post de 23/10 (Nefrologia, venda direta): não bloqueia
 
 [Peça](conteudo/posts/2026-10-23-nefrologia-mede-a-agua-de-um-dia.md).

@@ -4,6 +4,35 @@ Log datado do trabalho feito pra CIIL. Topo = mais recente. Entrada por bloco de
 
 ---
 
+## 2026-10-22 — Post de segunda 26/10: "Isso Tem Nome · 07 de 10 — Hidradenite Supurativa"
+
+[Peça](conteudo/posts/2026-10-26-isso-tem-nome-07-hidradenite-supurativa.md): estático 4:5, esqueleto fixo de 5 blocos, Dermatologia. **Primeira peça da série com CTA na arte**, pela regra de 19/10 (a arte fecha sozinha). O CTA fica dentro do bloco 5.
+
+**Gancho:** *"O caroço na axila dói por dias, abre, seca e deixa marca. / Quando parece que acabou, aparece outro logo ao lado."* O mecanismo é o ciclo contado como a pessoa vive: a repetição é o que separa a doença do furúnculo, e a peça não precisa dizer "não é furúnculo". CTA: **"marque sua avaliação com a dermatologia da CIIL pelo WhatsApp"**. É a primeira vez que a série nomeia a especialidade no CTA.
+
+**Por que a Hidradenite das 4 que sobravam:**
+- Crohn e Asma dependem da PAUTA #4.
+- A Espondilite saiu na sexta 23/10.
+- Dermatologia é da casa, e a CIIL informou o tratamento duas vezes (15/06 e 26/08).
+
+Sinais conferidos em fonte pública (sem página oficial da SBD), citados na peça.
+
+**Validador-copy:** rodado sem confiar na Checagem. Achou 1 bloqueante de produção, já corrigido: o brief de imagem pedia braço levantado e expunha a axila que ele mesmo proibia. Os 7 importantes foram aplicados:
+- a legenda copiava frases da 19/10
+- o "ele" ambíguo do bloco 5 voltou
+- "drenar" soava como autodrenagem
+- dois sinais só repetiam a headline
+- havia um comma splice
+
+**Tabela da série refeita** na [linha editorial](estrategia/linha-editorial-isso-tem-nome.md): ficou o que foi ao ar, e a proposta pra 08–10 é Espondilite, Crohn e Asma.
+
+**Travas:**
+- 🔴 RT (8 itens).
+- 🟡 A 08 cai em 02/11, que é Finados.
+- 🟡 O selo `07` supõe que a 06 (19/10) foi ao ar.
+
+---
+
 ## 2026-10-19 — Sexta 23/10: Espondilite volta, revisada, no slot de venda
 
 [Peça](conteudo/posts/2026-10-23-espondilite-piora-parada-melhora-mexendo.md): estático 4:5, venda, fora da série (etiqueta neutra, sem selo). É a peça de 13/10 que saiu do slot de 16/10 pro OMINT. O arquivo foi **renomeado**, não duplicado, e os links foram atualizados.

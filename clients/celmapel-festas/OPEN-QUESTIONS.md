@@ -51,6 +51,14 @@ Log completo. O que vale ocupar a reunião está curado em [reuniao-mensal/PAUTA
 40. 🟡 **Foto da loja pra arte de 19/10:** bombons ou pedaços de chocolate na bancada (um brilhante, um opaco com mancha branca, se tiver), ou chocolate derretido na tigela, ou barras sem rótulo na prateleira de confeitaria. Celular na vertical, sem rosto e sem marca em destaque. Sem ela, banco real (nunca IA).
 41. 🔴 **A loja vende os dois tipos, chocolate nobre e fracionado (ou cobertura)? E qual o nome na embalagem?** A peça diz "a gente mostra os dois". Se só tiver um, sai com o CTA alternativo ("a gente te ajuda a escolher o chocolate"). Pedir também que Max ou Taísa confiram a explicação técnica (temperagem, mancha branca, sabor e textura) antes de publicar. Resposta até **seg 19/10, 12h**.
 
+
+## 🟡 2026-10-22 — Post de segunda 26/10 (Halloween, saquinhos montados na sexta)
+
+[Peça](conteudo/posts/2026-10-26-halloween-saquinhos-montados-na-sexta.md).
+
+42. 🟡 **Foto pra arte de 26/10:** mãos adultas fechando um saquinho transparente com doces embalados um por um (sem marca à mostra), com outros saquinhos prontos ao lado. Celular na vertical, perto da janela, sem rosto e sem criança. Resposta até **sex 23/10, 12h**. Sem ela, banco real (nunca IA). **Junto, perguntar:** a loja tem saquinho transparente e doce embalado individualmente (bala, pirulito, bombom)? A peça (v1.1) fala só em "doce e embalagem" até confirmar.
+43. 🟡 **Respondida em parte por PH (2026-10-22):** *"vamos ainda deixar mais pra frente, mas será ainda nesse mês de outubro."* A campanha de aniversário **fica em outubro**, mais pro fim da semana de 27-31/10, e não migra pra novembro. Ainda faltam mecânica, produto e nome (#9-#12). A seg 26/10 segue com o Halloween. Pelo prazo do designer (1 dia útil), a peça precisa estar escrita até qua 28/10 pra subir na qui 29 ou na sex 30. Pergunta original: **Mês do aniversário sem nada no ar:** outubro acaba no sábado, 31/10, e a campanha-mãe decidida em 02/10 continua sem mecânica, produto, preço, validade e nome (#9–#12). Nenhuma peça do repositório anuncia o aniversário. PH decide com o Carlos: ainda entra algo nesta semana (com o que o Max mandar) ou a campanha migra pra novembro com outro nome? O público "espera a queima de estoque anual" ([BRIEFING](BRIEFING.md)). **Cruzamento com a seg 26/10 (validador, 22/10):** a peça de Halloween saiu sem data no CTA pra não empurrar compra antes do aniversário; a peça de aniversário não deve pôr doce/embalagem de Halloween como oferta retroativa (quem comprou na semana veria o desconto depois, PADROES §1). Perguntar ao Max se a mecânica toca doce ou embalagem.
+
 ---
 
 ## 🔴 Outubro (campanha do Mês do Aniversário)

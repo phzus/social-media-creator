@@ -4,6 +4,47 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-22 (2) — Lote de segunda 26/10 (18 clientes)
+
+PH pediu as peças de "segunda dia 23". Como 23/10 é sexta e já tinha peça em 14 clientes, o lote foi feito pra seg 26/10. Nenhum cliente tinha peça pra esse dia. Ficaram fora os mesmos do lote de sexta: Engetec, Nova União e Quero Tintas. Foi um agente por par de clientes de nicho parecido, e **todas as 18 passaram pelo validador-copy** ("não confie na Checagem"), com bloqueantes e importantes aplicados.
+
+| Cliente | Peça | Mecanismo | CTA | Trava |
+|---|---|---|---|---|
+| Atlas | [kit gás e multimídia × apólice](../clients/atlas-corretora/conteudo/posts/2026-10-26-o-carro-na-garagem-e-o-carro-na-apolice.md) | comparação lado a lado | salvar | 🔴 corretor |
+| Max | [Black Friday fica 12 meses na alíquota do Simples](../clients/max-contabilidade/conteudo/posts/2026-10-26-fim-de-ano-forte-fica-12-meses-na-aliquota.md) | efeito adiado | comenta ALÍQUOTA | 🔴 escritório |
+| CIIL | [Isso Tem Nome 07: Hidradenite](../clients/ciil/conteudo/posts/2026-10-26-isso-tem-nome-07-hidradenite-supurativa.md) | ciclo vivido | WhatsApp, dermatologia | 🔴 RT · CTA na arte da série (PH) |
+| BodySkin | [faixa de barba não é ficar sem barba](../clients/bodyskin-araruama/conteudo/posts/2026-10-26-laser-na-faixa-de-barba-nao-tira-a-barba.md) | objeção pelo nome do serviço | link do perfil | 🔴 RT/Cintia |
+| Vet Regional | [mito: tosa baixinha refresca](../clients/veterinaria-regional/conteudo/posts/2026-10-26-mito-tosa-baixinha-refresca.md) | mito × verdade | salvar | 🟢 equipe lê |
+| WT | [da borda, olha o fundo da piscina](../clients/wt-shopping/conteudo/posts/2026-10-26-piscina-da-borda-olha-o-fundo.md) | sinal pra conferir | WhatsApp | 🟡 3ª de piscina em 24 dias (PH) |
+| Bruno das Tintas | [pinta primeiro a parede na sombra](../clients/bruno-das-tintas/conteudo/posts/2026-10-26-fachada-se-pinta-na-sombra.md) | cena → regra | salvar | foto real de fachada |
+| Araruama Tintas | [mofo no teto do banheiro](../clients/araruama-tintas/conteudo/posts/2026-10-26-mofo-do-teto-do-banheiro.md) | pergunta + giro de causa | WhatsApp com foto | — |
+| Contele | [Araruama tem 65% mais sol que Berlim](../clients/contele-solar/conteudo/posts/2026-10-26-araruama-tem-mais-sol-que-berlim.md) | número contraintuitivo | marca alguém | foto opcional |
+| Celmapel | [Halloween: monta os saquinhos na sexta](../clients/celmapel-festas/conteudo/posts/2026-10-26-halloween-saquinhos-montados-na-sexta.md) | antecipação de data | passa na loja | foto (OQ #42) |
+| Maicom | [piso novo por cima do velho](../clients/maicom-minerais-unamar/conteudo/posts/2026-10-26-piso-novo-em-cima-do-velho.md) | derruba premissa + teste caseiro | compartilhar | 🟡 vende argamassa? |
+| Dijana | [cimento que empedrou não volta a ser pó](../clients/dijana-materiais-construcao/conteudo/posts/2026-10-26-cimento-empedrado-nao-tem-conserto.md) | consequência sem volta | cota no WhatsApp | foto em palete |
+| Império | [pratinho da planta × tampa da caixa d'água](../clients/imperio-material-de-construcao/conteudo/posts/2026-10-26-pratinho-da-planta-e-a-caixa-dagua.md) | ponto cego | WhatsApp | endereço do rodapé |
+| Casas Rio Bahia | [laje: 1 saco, 4 latas, 5½ de brita](../clients/casas-rio-bahia/conteudo/posts/2026-10-26-laje-cimento-areia-brita-em-latas.md) | proporção em número | lista no WhatsApp | ⚠️ peças da Lone não aparecem no perfil |
+| Bazar | [lâmpada com luz de farmácia (K na caixa)](../clients/bazar-ribeiro/conteudo/posts/2026-10-26-lampada-luz-de-farmacia.md) | cena com humor → número | liga na loja | 🟡 rótulo da 3000K |
+| MR | [fonte do LED atrás do painel](../clients/mr-distribuidora-mdf/conteudo/posts/2026-10-26-fonte-do-led-atras-do-painel.md) | falha que aparece depois | lista pra orçamento | 🔴 balcão (vende LED?) |
+| Veneza | [todo cochilo acaba com a cabeça no braço (Ipanema)](../clients/veneza-estofados/conteudo/posts/2026-10-26-cochilo-cabeca-no-braco-ipanema.md) | cena → produto | conferir na loja | preço do Ipanema diverge do site |
+| Lagos Padrão | [vizinho da frente × fio que atravessa a rua](../clients/lagos-padrao/conteudo/posts/2026-10-26-vizinho-da-frente-rede-do-outro-lado.md) | comparação | foto da frente no WhatsApp | — |
+
+**Conferência do lote:**
+- **Dia seguinte ao 2º turno** (25/10): saíram "não tem conserto", "quebradeira", "lado", "ralo" e "Alemanha × Brasil". Nenhum termo político ficou nas copies.
+- **Molde de abertura:** Max e Araruama abriam em "Vai...?", e a Max virou afirmação.
+- **Mantidos com nota:** três peças com sol/calor (VR, Bruno, Contele), cada uma com mecanismo e visual diferentes e sem ícone de sol. Duas com LED (Bazar lâmpada × MR fita), com públicos e cidades diferentes.
+
+**Achados pro PH:**
+- Preço do Ipanema e possivelmente de todas as artes de agosto da Veneza divergem do site.
+- As peças da Lone não aparecem no perfil da Casas Rio Bahia desde 28/09.
+- PT-PT de novo num reel de Maricá do Bazar, com legenda escrita fora do repo.
+- Ângulo de "todos os tons de pele" da BodySkin queimado.
+- Campanha de aniversário da Celmapel fica em outubro (PH), escrita até qua 28/10.
+- Molde "OFERTA IMPÉRIO" com mascote 3D apareceu em ~/Downloads.
+- Ainda não há o que vem depois da queima da Dijana.
+
+---
+
 ## 2026-10-22 — Atlas: Dia do Servidor (qua 28/10), motion de oferta + Reel gravado sem condição
 
 Atualização: PH decidiu gravar uma oferta genérica ("condição especial", "por tempo limitado") sem esperar resposta da Atlas. [Roteiro validado](../clients/atlas-corretora/conteudo/roteiros/2026-10-28-dia-do-servidor-condicao-especial.md). O Reel educativo foi pro banco, e o motion vira contingência com a mesma copy.

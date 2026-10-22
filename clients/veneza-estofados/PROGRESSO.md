@@ -4,6 +4,17 @@ Log datado do trabalho feito pra Veneza Estofados. Topo = mais recente. Entrada 
 
 ---
 
+## 2026-10-22 — Post de segunda 26/10: "Todo cochilo no sofá acaba com a cabeça no braço" (Sofá Ipanema 1,50m, vitrine)
+
+[Peça](conteudo/posts/2026-10-26-cochilo-cabeca-no-braco-ipanema.md): estático 4:5, **vitrine sem preço** ([PADROES §13](PADROES.md)), mesma arte nos dois perfis com a assinatura de cada um. Segue a pauta da [estratégia do Esquenta](estrategia/2026-10-esquenta-black-combo-cama-nova.md) pra 26/10: sofá fora do combo, modelo ainda não usado em outubro. Mecanismo **cena → produto**: o cochilo que termina com a cabeça no braço, e o Ipanema tem pillow nos braços (está no nome do produto no site). Chamada com seta no braço, CTA de visita "Venha **conferir de perto** na loja" (inédito na conta).
+
+- **Por que vitrine e não ficha + preço:** alternância do §13 (16/10 saiu com preço) e **o preço do Ipanema 1,50m diverge** entre a arte de agosto (R$ 899,99 à vista / 12x R$ 85,70) e o site hoje (R$ 1.099,90 / 12x R$ 117,06 / PIX R$ 1.044,91). Versão B com preço pronta no arquivo, esperando PH dizer qual vale ([OQ #35](OPEN-QUESTIONS.md)).
+- **Foto pro recorte:** a do site (Bege5-6.png). As artes de agosto têm o selo de preço por cima da base do sofá.
+- **Travas:** sem D28 (a página do Ipanema diz densidade "não informada") e sem molas bonnel (percintas italianas) · sem prazo, entrega, montagem, garantia · sem claim de resistência da página (100 kg, manchas) · sem cidade · versão Nova Iguaçu sem número ([OQ #23](OPEN-QUESTIONS.md)).
+- **Validação (validador-copy):** a legenda deixava o pillow do braço parecer de 18 cm de fibra (é o do assento) e virava lista de ficha sem voltar à cena; corrigido. A chamada da arte ganhou o benefício ("pra apoiar a cabeça").
+
+---
+
 ## 2026-10-14 (2) — Esquenta Black: "Combo Cama Nova" (base baú + colchão, 5%) e dosagem até 30/10
 
 PH trouxe a campanha que a Veneza lançou pra outubro: *Esquenta Black Friday · Promoção Base Baú + Colchão · 5% de desconto no valor total da compra* ([referência](referencias/2026-10-14-campanha-esquenta-black-base-bau-colchao.md)). Pediu nome pro combo e que o calendário não vire só campanha.

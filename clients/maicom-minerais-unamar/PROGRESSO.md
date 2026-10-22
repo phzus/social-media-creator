@@ -4,6 +4,20 @@ Log datado do trabalho feito pra Maicom. Topo = mais recente. Entrada por bloco 
 
 ---
 
+## 2026-10-22 — Post de segunda 26/10: "Pra pôr piso novo, nem sempre precisa arrancar o antigo"
+
+[Peça](conteudo/posts/2026-10-26-piso-novo-em-cima-do-velho.md): estático 4:5, mecanismo **desfaz a crença + teste caseiro**. Headline: "Pra pôr piso novo, nem sempre precisa arrancar o antigo. / Bate no chão com o cabo da vassoura: som firme é bom sinal." Linha de apoio: cerâmica firme dentro de casa, limpa e sem cera; o pedreiro assenta o novo por cima com a argamassa certa. Primeira peça da conta (e da carteira) sobre piso sobre piso: tira a objeção da quebradeira de quem adia a troca, sem repetir a temporada como argumento.
+
+**CTA de compartilhar**, novo na conta ("Manda pra quem tá adiando a troca do piso por causa da obra."), na arte e na legenda. Headline em afirmação depois de três perguntas em 12 dias. Foto pedida em plano médio lateral (mão com cabo de vassoura no piso antigo), diferente de 16/10, 19/10 e 23/10. Lote: a Dijana do mesmo dia vai de "consequência sem volta → causa → regra de guarda" (cimento empedrado), sem molde em comum.
+
+**Fato técnico conferido em ficha de fabricante:** Votomassa Piso sobre Piso (revestimento antigo íntegro, sem cera/gordura; não em piscina) e Portobello (peças soltas recolocadas antes; não aplicar sobre base com som cavo; sobreposição aumenta a altura da base). Sem preço, não depende da tabela de outubro (OQ item C).
+
+**Validado (1 bloqueante, 4 importantes), aplicados.** B1: a linha 2 prometia demais ("se nenhuma peça soar oca, o novo pode ir por cima"; o som só pega peça solta) → "som firme é bom sinal". Véspera política (dia seguinte ao 2º turno): saíram "quebradeira" e "quebrar o velho". Linha de apoio desambiguada, arte mais curta, legenda deixa a argamassa com o pedreiro e o balcão. Brief proíbe layout MITO × VERDADE (Vet Regional usa no lote).
+
+**Trava:** nenhuma de dado. 🟡 Pendência: a loja vende argamassa de piso sobre piso? (só a AC-1 está confirmada; a peça não afirma). Prazo: brief qui 22/10, envio ao cliente sex 23/10 até 15h.
+
+---
+
 ## 2026-10-20 — Post de sexta 23/10: "Você de Unamar vai comprar piso?"
 
 [Peça](conteudo/posts/2026-10-23-mil-modelos-aqui-pertinho.md): estático 4:5, anúncio direto no molde da casa (checklist §2.8), mecanismo **proximidade + carro-chefe**. Headline (ajuste de lote): "AQUI EM UNAMAR TEM MAIS DE 1.000 MODELOS DE PISO! / É NA MAICOM, AQUI PERTINHO!" A v1.1 abria em pergunta hiperlocal, o mesmo molde da Dijana no mesmo dia. Sem produto nem preço de outubro vindos do cliente, a peça abre no piso e na variedade, e é a primeira arte estática a vender a proximidade (o roteiro de 25/09 já tinha tocado no assunto numa fala).

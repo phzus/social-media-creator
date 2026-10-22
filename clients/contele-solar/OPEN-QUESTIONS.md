@@ -4,6 +4,10 @@ Pendências a resolver com PH / com o cliente. Diferente dos outros onboardings,
 
 > ⚠️ **Escalado em 2026-08-10, confirmado em 2026-08-12:** contando o post de sexta 14/08 (produzido), são 4 peças seguidas (03/08, 07/08, 12/08, 14/08) rodando fora do Pilar 2 e do Pilar 3 pelos itens 1 e 1b abaixo. O grid não tem variação de fundo Ink (Pilar 2) nem foto real (Pilar 3) ainda. Vale priorizar a resposta desses dois itens com o cliente antes do feed ficar repetitivo.
 
+## 🟡 2026-10-22 — Post de segunda 26/10 ("65%", sol de Araruama × Berlim)
+
+1. 🟡 **Grid parado no Pilar 1.** 16, 19, 23 e 26/10 são Pilar 1 em fundo Sand. A [peça de 26/10](conteudo/posts/2026-10-26-araruama-tem-mais-sol-que-berlim.md) pede **foto real do céu/lagoa de Araruama** (banco com local identificado ou do cliente) pra quebrar a sequência; sem ela, são cinco Sand tipográficas seguidas. O que destrava Pilar 2 e 3 continua sendo caso real de cliente e foto/autorização da equipe, prometidos em 08/09.
+
 ## 🟡 2026-10-19 — Post de sexta 23/10 ("O tamanho do sistema solar sai da sua conta de luz")
 
 1. 🟡 **Foto real de instalação em casa comum** (térrea, telhado simples). O cliente prometeu fotos de casas variadas em 08/09 e nada chegou. Sem foto até quinta 22/10, a [peça](conteudo/posts/2026-10-23-do-tamanho-da-sua-conta.md) roda tipográfica, e o grid fica com quatro Sand tipográficas seguidas (12, 16, 19 e 23/10).

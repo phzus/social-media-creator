@@ -1,5 +1,19 @@
 # Progresso — Bruno das Tintas
 
+## 2026-10-22 — Post de segunda 26/10: "Com o sol batendo na parede, a tinta seca antes de você voltar com o rolo."
+
+[Peça](conteudo/posts/2026-10-26-fachada-se-pinta-na-sombra.md): **estático único** 4:5, Pilar 2 (beira de lagoa, pelo lado do **sol**), metade "calor" do educativo da semana 10 do briefing. Mecanismo **cena → regra**: a faixa que seca antes da próxima encostar fica marcada; a regra é pintar primeiro a parede que está na sombra e trocar de parede quando o sol chegar, com o teste da mão (parede ainda bem quente, espera). CTA na arte: "Salva pra quando for pintar a fachada." Sem preço, sem WhatsApp, sem número técnico.
+
+**Validado (0 bloqueantes, 4 importantes, aplicados)** pelo validador-copy, sem confiar na Checagem: saiu a citação dos 40 ºC do boletim Coral (não sustentava a causa e o leitor leria "33 graus pode"); o teste da mão deixou de contradizer a troca de parede; apoio redundante encurtado; cor da fachada neutra/quente, sem vermelho, azul-royal ou verde+amarelo (dia seguinte ao 2º turno). Menores: "o lado da casa" virou "primeiro a parede", foto de casa brasileira sem sol visível nem flare, "pano de parede" saiu, hashtags.
+
+**Descartado:** Dia do Trabalhador da Construção Civil (data varia entre 25 e 28/10 conforme o município e seria a 3ª semana seguida de pintor), chuva (território da Araruama Tintas), teste de amostra (colide com Araruama 16/09 e 05/10 e com a nossa de 31/08), cores do ano/textura (sem confirmação), feriadão de Finados (gancho de 09/10), Halloween.
+
+**Isolamento:** a Araruama de 19/10 também é "quando pintar" (reboco, "28 DIAS" gigante, WhatsApp), por isso aqui não há número na arte, prazo nem WhatsApp, e o template deles (degradê no pé, kicker amarelo, pílula) está vetado no brief. A Contele também fala de sol no mesmo dia, por outro lado (número contraintuitivo).
+
+**Travas:** foto real de fachada com a linha de sombra na parede (sem IA). Proposta de linha da semana: fachada antes do verão (ver [OPEN-QUESTIONS](OPEN-QUESTIONS.md)).
+
+---
+
 ## 2026-10-21 — Convite: café da manhã Coral (sex 23/10, 9h)
 
 [Peça](conteudo/posts/2026-10-23-cafe-da-manha-coral.md): **estático único** 4:5 + versão stories "É HOJE, ÀS 9H!", Pilar 3 (pintor), **molde de anúncio direto** da casa ([checklist §2.8](../../shared/voice-quality-checklist.md)): "PINTOR, ESSE CONVITE É SEU!" / "CAFÉ DA MANHÃ CORAL NA BRUNO DAS TINTAS" / logo Coral / SEXTA · 23/10 · 9H / "A GENTE TE ESPERA!". Variante pronta caso o café seja aberto a todo mundo. Primeiro evento em loja da conta no repositório. Fato recebido registrado em [referencias](referencias/2026-10-21-cafe-da-manha-coral-23-10.md).

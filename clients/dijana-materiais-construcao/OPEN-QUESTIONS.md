@@ -5,6 +5,14 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🟡 2026-10-22 — Post de segunda 26/10 ("cimento que empedrou não volta a ser pó") + o que vem depois da queima
+
+[Peça](conteudo/posts/2026-10-26-cimento-empedrado-nao-tem-conserto.md).
+
+1. 🟡 **Foto real dos sacos de cimento em palete no estoque da Dijana**, de celular, sem pessoa. Pedir ao Igor qui 22/10 à tarde. Só serve se mostrar palete, pilha de até 10 sacos e afastamento da parede; senão entra banco real.
+2. 🟡 **A loja confere os itens de armazenamento** (2 na arte, 5 na legenda) e a frase do torrão que desmancha "já perdeu força, quem decide é o pedreiro/engenheiro" ([PADROES §5](PADROES.md)). Se o Igor quiser liberar "peneirar e usar", só com a confirmação dele.
+3. 🟡 **O que vem depois da queima (encerrada 23/10)?** O Outubro da Construção segue até 31/10 com outra oferta, ou a próxima campanha é Black Friday (27/11)? Define a sexta 30/10. Até lá, sem oferta nova registrada.
+
 ## 🔴 2026-10-20 — Post de sexta 23/10 (tubo 100 mm) + queima de estoque
 
 [Peça](conteudo/posts/2026-10-23-tubo-100mm-fase-do-esgoto.md) e [queima](conteudo/posts/2026-10-20-queima-de-estoque-outubro-da-construcao.md).

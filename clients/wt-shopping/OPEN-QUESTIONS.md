@@ -5,6 +5,16 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🟡 2026-10-22 — Post de 26/10 (piscina, teste da borda)
+
+[Peça](conteudo/posts/2026-10-26-piscina-da-borda-olha-o-fundo.md).
+
+**S. PH: aceita a terceira peça de piscina em 24 dias (02, 16 e 26/10)?** Foi a única frente com gancho sazonal sem colidir com a Veterinária Regional no mesmo dia (lá sai Dermatologia, tosa no verão). Se não aceitar, a peça vai pro banco de novembro e a segunda precisa de um ângulo pet/loja, que hoje esbarra no mix sem mapa ([#7](OPEN-QUESTIONS.md)). — *não trava a arte.*
+
+**T. 🟢 A WT tem foto de piscina atendida por ela, com autorização?** Foto própria com o fundo nítido vale mais que banco de imagem ([PADROES §4](PADROES.md)).
+
+---
+
 ## 🟡 2026-10-19 — Post de 23/10 (clínica, castração de gata) + achados em ~/Downloads
 
 [Peça](conteudo/posts/2026-10-23-gata-que-escapa-em-outubro.md).

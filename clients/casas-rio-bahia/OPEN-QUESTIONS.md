@@ -35,6 +35,12 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 **59.** 🟡 **Araruama tem restrição a arame farpado em testada/divisa de lote urbano?** A [peça de 16/10](conteudo/posts/2026-10-16-um-rolo-de-arame-cerca-o-terreno.md) ensina a calcular cerca de arame farpado em terreno de 10 x 30. Não há registro de regra municipal; vale perguntar ao balcão (eles sabem o que o cliente costuma ouvir da prefeitura) antes de publicar. Não trava a conta, mas pode pedir uma linha de ressalva.
 **60.** 🟢 **O balcão faz a conta de arame quando alguém manda a medida do terreno?** O CTA da peça é "manda a medida do seu terreno". Mesma família do #53 e do #56 (quem responde e como).
 
+
+## 🟡 2026-10-22 — Post de segunda 26/10 (traço da laje)
+
+**61.** 🟡 **As peças da Lone estão indo ao ar?** Na coleta do perfil em 22/10 ([referência](referencias/2026-10-22-posts-publicados-perfil.md)), os 12 posts mais recentes (05/09 a 19/10) não mostram nenhuma peça da Lone de 28/09 em diante (bloco 10 × 15, material que chega cedo, Dia das Crianças, arame, tubo 100/40). Aparecem posts de cimento Campeão, argamassa AC1, Extrafilito e elétrica/hidráulica, com emoji e "do início ao acabamento". Ou as peças não foram publicadas, ou o cliente posta uma grade própria em paralelo. Vale PH conferir antes de seguir a numeração da série.
+**62.** 🟢 **Mix fora do encarte:** cimento (Campeão CP III, R$ 32,99 em 16/10), argamassa AC1 Ipumix (R$ 10,99 em 09/10), aditivos e setor de elétrica/hidráulica aparecem no perfil. Entram na tabela liberada da [PADROES §6](PADROES.md) ou ficam fora das peças da Lone?
+
 ---
 
 ## 🔴 Bloqueantes — A. Negócio e posicionamento

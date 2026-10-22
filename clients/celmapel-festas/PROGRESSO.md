@@ -4,6 +4,18 @@ Log datado do trabalho feito pra Celmapel. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-10-22 — Post de segunda 26/10: "Se tiver criança pedindo doce na sua porta no sábado, monta os saquinhos na sexta." · validado (1 bloqueante, 4 importantes)
+
+[Peça](conteudo/posts/2026-10-26-halloween-saquinhos-montados-na-sexta.md): estático 3:4, educativo de antecipação. Headline (v1.1): *"Se tiver criança pedindo doce na sua porta no sábado, / monta os saquinhos na sexta."* Apoio: *"Na hora da campainha, é só entregar."* CTA na arte: *"Passa aqui na Celmapel e leva o doce e a embalagem na mesma ida."*
+
+- **Mecanismo:** antecipação de data (cena de sábado → tarefa de sexta → onde comprar). Última segunda antes do Halloween (sáb 31/10).
+- **Linha:** muda o público de propósito. 16/10 e 19/10 falaram com quem vende doce; esta fala com a família que recebe criança na porta, e continua em doce e embalagem (frente que não é festa, [PADROES §3](PADROES.md)). Decoração de Halloween ficou fora (reforça "só festas").
+- **Validação (validador-copy, "não confie na Checagem"): 1 bloqueante e 4 importantes, aplicados** (v1.1). **B1:** o apoio "quem acompanha a criança vê o que tem dentro" (de origem FDA) instalava premissa de adulteração e insinuava "industrial é o seguro" contra a linha de confeitaria: saiu da arte e da legenda, e a FDA deixou de ser usada. **I1:** o CTA "até sexta, 30/10… na mesma compra" podia atropelar a peça de aniversário do fim da semana (#43) e soava como prazo de oferta/combo: CTA sem data, "na mesma ida". **I2:** saquinho transparente e doce embalado individualmente não estão confirmados como itens: CTA no nível de categoria (doce e embalagem), pergunta junto do #42. **I3–I4:** pontuação do §1 e fecho sem "em Araruama" (4ª seguida). Nada lê como política.
+- **Sem** preço, oferta, horário, endereço, telefone, marca, "atacado" ou criança na imagem. **Trava:** só a foto ([#42](OPEN-QUESTIONS.md)); sem ela, banco real.
+- ⚠️ **Aniversário da loja:** outubro termina sáb 31/10 e a campanha-mãe segue sem mecânica, preço, validade e nome (#9–#12). A segunda não carrega aniversário por falta do que anunciar. Ver [#43](OPEN-QUESTIONS.md). **Atualização (PH, 22/10):** o aniversário fica em outubro, no fim da semana 27–31/10; a peça de 26/10 não muda, e a de aniversário não deve pôr doce/embalagem de Halloween como oferta retroativa.
+
+---
+
 ## 2026-10-16 — Post de segunda 19/10: "Seu bombom amanheceu manchado de branco?"
 
 [Peça](conteudo/posts/2026-10-19-bombom-manchado-tipo-de-chocolate.md): estático 3:4, educativo. Headline: *"Seu bombom amanheceu manchado de branco? / Antes de trocar de marca, confere o tipo de chocolate."* Duas colunas de mesmo peso (nobre × fracionado: o que cada um entrega e o que pede). CTA: *"Conta a sua receita aqui na loja que a gente mostra os dois."*

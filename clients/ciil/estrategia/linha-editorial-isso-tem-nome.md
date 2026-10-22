@@ -67,19 +67,22 @@ O problema que o cliente apontou não se resolve escrevendo melhor. Resolve-se c
 
 **Ordem pensada pra alternar a área do corpo** — nunca duas de pele seguidas, pra não parecer que a clínica só cuida de pele.
 
+> 🔄 **Tabela refeita em 2026-10-22** (pendência do OPEN-QUESTIONS de 19/10). Ela agora mostra **o que foi ao ar**, na ordem do feed, e não a ordem planejada em 26/08. A ordem original fica no histórico deste arquivo.
+
 | # | Data | Doença | Área / especialidade | Situação do material |
 |---|---|---|---|---|
 | — | **Seg 31/08** | **Abertura de temporada** | as 10 de uma vez | ✅ [escrita](../conteudo/posts/2026-08-31-abertura-temporada-isso-tem-nome.md) |
-| 01 | Seg 07/09 | **Artrite Reumatoide** | Reumatologia | peça de 06/07 escrita, nunca publicada — adaptar ao novo formato |
-| 02 | Seg 14/09 | **Psoríase** | Dermatologia | repescagem com ângulo de sintoma |
-| 03 | Seg 21/09 | **Doença de Crohn** | Gastro ⚠️ não nomear especialista | Reel de 08/07 escrito, nunca publicado |
-| 04 | Seg 28/09 | **Lúpus** | Reumatologia | 🆕 nova |
-| 05 | Seg 05/10 | **Dermatite Atópica** | Dermatologia | ✅ [escrita](../conteudo/posts/2026-10-05-isso-tem-nome-05-dermatite-atopica.md) — repescagem com eixo "onde", não "quando" |
-| 06 | Seg 12/10 | **Espondilite Anquilosante** | Reumatologia | 🆕 nunca produzida |
-| 07 | Seg 19/10 | **Retocolite Ulcerativa** | Gastro ⚠️ não nomear especialista | ✅ [escrita](../conteudo/posts/2026-10-19-isso-tem-nome-07-retocolite-ulcerativa.md) em 14/10, retida (RT + PAUTA #5). ⚠️ vira `06 de 10` se a peça 06 não foi ao ar |
-| 08 | Seg 26/10 | **Hidradenite Supurativa** | Dermatologia | 🆕 nova |
-| 09 | Seg 02/11 | **Asma** | Pneumo/alergo ⚠️ não nomear especialista | 🆕 nova |
-| 10 | Seg 09/11 | **Artrite Psoriásica** | Reumatologia + Dermatologia | 🆕 fecha o arco pele→articulação |
+| 01 | Seg 07/09 | **Artrite Reumatoide** | Reumatologia | ✅ no ar |
+| 02 | Seg 14/09 | **Psoríase** | Dermatologia | ✅ no ar |
+| 03 | Seg 21/09 | **Artrite Psoriásica** | Reumatologia + Dermatologia | ✅ no ar (no plano era a 10) |
+| 04 | Seg 28/09 | **Lúpus** | Reumatologia | ✅ no ar |
+| 05 | Seg 05/10 | **Dermatite Atópica** | Dermatologia | ✅ no ar |
+| — | Seg 12/10 | *(feriado, Dia das Crianças: peça de data não foi ao ar, e a Espondilite também não)* | — | buraco, sem número |
+| 06 | Seg 19/10 | **Retocolite Ulcerativa** | Gastro ⚠️ não nomear especialista | ✅ [escrita](../conteudo/posts/2026-10-19-isso-tem-nome-07-retocolite-ulcerativa.md), selo `06 de 10` |
+| 07 | Seg 26/10 | **Hidradenite Supurativa** | Dermatologia | ✅ [escrita em 22/10](../conteudo/posts/2026-10-26-isso-tem-nome-07-hidradenite-supurativa.md), retida pelo RT. Primeira da série com CTA na arte |
+| 08 | Seg 02/11 *(Finados, feriado: PH decide se sai ou pula pra 09/11)* | **Espondilite Anquilosante** (proposta) | Reumatologia | 🟡 não depende da PAUTA #4. A [peça de venda de 23/10](../conteudo/posts/2026-10-23-espondilite-piora-parada-melhora-mexendo.md) queimou colchão, madrugada e "piora parada": o gancho da série precisa de outro eixo |
+| 09 | Seg 09/11 | **Doença de Crohn** (proposta) | Gastro ⚠️ não nomear especialista | 🔴 depende da [PAUTA #4](../reuniao-mensal/PAUTA.md) (avaliação sem gastro). Não repetir o banheiro da 06; o Reel de 08/07 tem outro caminho |
+| 10 | Seg 16/11 | **Asma** (proposta) | Pneumo/alergo ⚠️ não nomear especialista | 🔴 depende da PAUTA #4. Fecha a temporada fora da pele e da articulação |
 
 **Por que a Artrite Reumatoide abre:** é a mais reconhecível do grupo, tem a peça mais pronta, e o sintoma dela (mão travada de manhã) é o exemplo mais claro de "sinal que a pessoa vive há anos sem dar nome".
 
@@ -143,6 +146,7 @@ Cobertas as 10, a série continua com **novo ângulo sobre o mesmo elenco** — 
 
 ## Histórico
 
+- **2026-10-22** — Tabela da temporada refeita pelo que foi ao ar: 03 virou Artrite Psoriásica, 12/10 ficou sem peça, Retocolite saiu como 06, Hidradenite entra como 07 (26/10). Proposta pras 08 a 10: Espondilite, Crohn e Asma, as duas últimas dependentes da PAUTA #4. Ordem original: 03 Crohn · 06 Espondilite · 07 Retocolite · 08 Hidradenite · 09 Asma · 10 Artrite Psoriásica.
 - **2026-09-14** — PH resolveu a pendência de "consulta na CIIL": mesmo sem diagnóstico formado, a CIIL avalia, examina e apresenta o diagnóstico. CTA da série deixa de separar os dois públicos — regra em [PADROES](../PADROES.md). Peças 01 e 02 corrigidas.
 - **2026-08-26 · v2.1** — PH confirmou 31/08 pra abertura (depoimentos foram pra sexta 28/08) e decidiu que **a série não usa guarda-chuva categórico**: "Isso Tem Nome" é a identidade, cada peça fala da doença pelo nome.
 - **2026-08-26 · v2.0** — Reformulada após a reunião com o cliente. Gate de escopo encerrado (10 doenças liberadas), temporada de 10 semanas calendarizada, formato de 5 blocos com foco em identificação de sintoma, e mecanismos pra série ser lida como série (numeração, cadência sem buraco, esqueleto fixo, destaque no IG).

@@ -4,6 +4,20 @@ Log datado do trabalho feito pra Casas Rio Bahia. Topo = mais recente. Entrada p
 
 ---
 
+## 2026-10-22 — Post de segunda 26/10: "Num traço de referência pra laje, 1 saco de cimento leva 4 latas de areia e 5 e meia de brita"
+
+[Peça](conteudo/posts/2026-10-26-laje-cimento-areia-brita-em-latas.md): **estático, arte única**, pilar Orientação, **peça 04** da série "Material certo para cada etapa" (a sexta 23/10 ficou fora da numeração). Mecanismo **número contraintuitivo (proporção em latas)**: headline "Num traço de referência pra laje, 1 saco de cimento leva 4 latas de areia e 5 e meia de brita. / Em volume, a brita é o que mais entra na mistura.", arte com a fila 1 saco → 4 latas → 5½ latas recortadas, linha "Traço de referência pra laje residencial, em lata de 18 litros, sem contar a água. Na sua obra, vale o traço que o engenheiro definir." CTA "Vai concretar a laje? Envie sua lista pelo WhatsApp (22) 98824-0668". Sem preço.
+
+**Por que esse assunto:** areia lavada e brita 01 nunca tinham sido assunto principal; laje é estrutura (foco do cliente); a lata é medida de mistura, então a peça não esbarra na unidade de venda em aberto ([OQ #48](OPEN-QUESTIONS.md)). Traço conferido em Lar Pontual Engenharia (CREA-SP, 23/09/2026: 1 saco : 4 : 5,5 brita 1 pra laje/viga/pilar 25 MPa); edital TCE-SP traz 1 : 4,5 : 6. Junta fria pela mesma fonte.
+
+**Validação de copy (subagent): 1 bloqueante, 4 importantes, aplicados.** A linha 2 v1 ("Quem monta a lista contando só os sacos de cimento sai com pouca brita.") não decorria da linha 1 e pressupunha que o leitor erra a lista; virou o dado que a conta prova. Também: "traço comum" → "de referência", só laje, "sem contar a água", junta fria condicional, saiu "parar pra buscar pedra" (cena de obra parada já usada), cimento com fonte registrada.
+
+**Achado lateral (perfil publicado, coleta 22/10, [referência](referencias/2026-10-22-posts-publicados-perfil.md)):** a loja vende **cimento Campeão CP III (R$ 32,99), argamassa AC1 Ipumix (R$ 10,99), aditivos e elétrica/hidráulica** — nada disso estava no encarte nem no context. E **nenhuma peça da Lone de 28/09 a 19/10 aparece nos 12 posts recentes** ([OQ #61](OPEN-QUESTIONS.md)).
+
+**Lote 26/10 (material de construção):** Império ponto cego (caixa d'água/dengue), Maicom premissa + teste, Dijana consequência sem volta (cimento empedrado), Bazar cena com humor + número da caixa, MR falha que aparece depois. Nenhum usa proporção em número. **Travas:** nenhuma de copy; cimento citado pela fonte do perfil (PH pode tirar). Brief ao designer até **sex 23/10 de manhã**; envio ao cliente sex 23/10 até 15h (ou seg 26/10 até 10h).
+
+---
+
 ## 2026-10-20 — Post de sexta 23/10: "Esse bloco tem um canal em cima de propósito"
 
 Lote de sexta 23/10 da carteira. [Peça](conteudo/posts/2026-10-23-bloco-com-canal-em-cima.md): **estático, arte única**, pilar Oferta e produto, molde de anúncio direto ([checklist §2.8](../../shared/voice-quality-checklist.md)). Mecanismo **o formato do produto explica a função**: headline "ESSE BLOCO TEM UM CANAL EM CIMA DE PROPÓSITO. / É DENTRO DELE QUE ENTRA A CINTA QUE AMARRA A PAREDE.", recorte grande do bloco canaleta 15 com o canal em U à mostra, **R$ 8,99** a unidade dominante + canaleta 10 **R$ 5,99** menor, "em dinheiro ou Pix", CTA "ENVIE SUA LISTA PELO WHATSAPP!". Fundo azul-marinho com textura (as três peças anteriores foram bege).

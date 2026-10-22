@@ -7,6 +7,13 @@ As 30 perguntas abaixo vieram do próprio Briefing Estratégico (§17), organiza
 
 ---
 
+## 📅 2026-10-22 — Série #05 (segunda 26/10, fonte do LED)
+
+- 🔴 **Balcão (mandar hoje, 22/10):** *"Vocês vendem fita de LED e fonte pra móvel? Onde vocês orientam o marceneiro a colocar a fonte, e tem algum lugar que vocês não recomendam (vão fechado, atrás de painel, perto do cooktop)?"* A peça diz "onde dê pra alcançar sem desmontar nada, com espaço livre em volta" e não dá exemplo de lugar. Se a MR **não** trabalha com LED, o CTA "Envie sua lista para orçamento" fica, e a pergunta da arte vira "Tem móvel com LED no próximo projeto?". Peça: [2026-10-26](conteudo/posts/2026-10-26-fonte-do-led-atras-do-painel.md) ([PADROES §1](PADROES.md)).
+- 🟡 **Achado no perfil público:** em 18/06/2025 a MR publicou "✔ Corte e fitagem sob medida", junto com puxadores, fitas de borda e colas, e a hashtag #CorteEFitagempersonalizado. Isso responde em parte a [PAUTA #3](reuniao-mensal/PAUTA.md) (corte de chapa/fita de borda), mas é de mais de um ano atrás. Confirmar se o serviço segue ativo antes de usar em peça; plano de corte e usinagem continuam sem resposta.
+
+---
+
 ## 📅 2026-10-20 — Educativo de sexta 23/10 (folga da corrediça)
 
 - 🔴 **Balcão:** "As corrediças telescópicas que vocês vendem pedem quanto de folga por lado: 12,5, 12,7 ou 13 mm? Tem a ficha do fabricante?" A arte usa 12,5 mm (vão de 500 mm → caixa de 475 mm), número editável. Peça: [2026-10-23](conteudo/posts/2026-10-23-gaveta-nao-entrou-folga-da-corredica.md) ([PADROES §1](PADROES.md)).

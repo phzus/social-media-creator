@@ -2,6 +2,10 @@
 
 Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes de fechar a 1ª estratégia mensal formal (o calendário de 12 semanas do [BRIEFING.md](BRIEFING.md) é proposta, ainda não validada com o cliente).
 
+## 🆕 Aberto em 2026-10-22 — semana de 26 a 30/10 (fachada antes do verão)
+
+- **A semana fecha em fachada?** Segunda 26/10 abre com [pintar na sombra](conteudo/posts/2026-10-26-fachada-se-pinta-na-sombra.md). Proposta: quarta 28/10 em vídeo sem fala (a sombra andando na parede, captação ou motion flyer) e sexta 30/10 de venda com tinta de fachada. **Pra sexta ter preço, o cliente precisa mandar produto e valor**; sem isso sai sem preço ([PADROES §9](PADROES.md)).
+
 ## 🆕 Aberto em 2026-10-21 — café da manhã Coral (sex 23/10, 9h)
 
 [Peça](conteudo/posts/2026-10-23-cafe-da-manha-coral.md) · [registro](referencias/2026-10-21-cafe-da-manha-coral-23-10.md).

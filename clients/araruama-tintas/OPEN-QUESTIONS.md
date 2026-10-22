@@ -5,6 +5,12 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🆕 2026-10-22 — post de segunda 26/10 (mofo do teto do banheiro)
+
+- **16. 🟢 Tinta de área úmida/antimofo pra interno:** a [peça de 26/10](conteudo/posts/2026-10-26-mofo-do-teto-do-banheiro.md) diz só que "tinta própria pra área úmida pode ajudar, mas não substitui a ventilação" (v1.1, depois do validador), sem citar produto nem afirmar que a loja tem. Perguntar ao Wanderson na aprovação: qual linha a loja indica pra banheiro? Se tiver com preço, vira gancho de sexta. Não trava a publicação.
+
+---
+
 ## 🆕 2026-10-16 — post de segunda 19/10 (reboco novo)
 
 - **15. 🟡 Cura de reboco antes de pintar:** a [peça de 19/10](conteudo/posts/2026-10-19-reboco-novo-28-dias.md) diz "costuma pedir cerca de 28 dias" (fonte: orientação geral de mercado, não fabricante da loja). Perguntar ao Wanderson na aprovação: a loja orienta cerca de 28 dias? Alguma linha dispensa? A ficha da Coral Proteção Sol & Chuva **Pintura Impermeabilizante** permite aplicar em reboco novo visivelmente seco. Falta saber se a "Coral Sol e Chuva" dos 15% é esse produto. Se for, vira gancho de sexta ("reboco novo que não pode esperar"). Não trava a publicação.

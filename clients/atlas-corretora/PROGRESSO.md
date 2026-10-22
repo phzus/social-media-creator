@@ -4,6 +4,18 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ---
 
+## 2026-10-22 — Post de segunda 26/10: "Instalou alguma coisa no carro depois que fez o seguro?"
+
+[Estático 4:5](conteudo/posts/2026-10-26-o-carro-na-garagem-e-o-carro-na-apolice.md) que abre a semana de **Auto** do [trimestral §6](estrategia/2026-09-a-11-trimestral.md). Arte: pergunta + dois blocos, *"NO SEU CARRO: Kit gás e central multimídia novos."* × *"NA APÓLICE: Pode estar só o carro de quando você contratou."*, apoio com condicional (em geral precisa ser avisado, sem aviso pode ficar de fora da indenização). CTA na faixa: *"Salva pra conferir na sua apólice."*
+
+**Pauta ajustada:** "A apólice é anual. E a sua vida, mudou?" já tinha saído em 25/09 (carrossel das 5 perguntas, slide 6), e os exemplos de mudança de vida estão bloqueados na semana (condutor, CEP e app por 30/10; uso no trabalho por 28/10). Ficou a função (o que avisar antes de renovar) com recorte novo na conta: **equipamento instalado depois**. Mecanismo: comparação lado a lado. A semana fecha um arco: conferir a apólice (26) → condição pra servidor (28) → não deixar vencer (30).
+
+**Validado (1 bloqueante, 4 importantes, aplicados; v1.1).** O bloqueante: a v1 mandava deixar a checagem pra renovação, e as fontes falam em avisar a seguradora quando o item é instalado. O bloco 2 deixou de ser absoluto, a abertura da legenda (premissa universal, ângulo de 25/09) foi trocada, som e roda dependem do corretor, e apoio e CTA vão em camadas separadas. "Blindagem do carro" por ser o dia seguinte ao 2º turno.
+
+🔴 **Gate do corretor** (3 perguntas na peça, até sex 23/10 12h), com fallback do apoio escrito. Fontes: CC art. 769 e falas de Mapfre/HDI na Revista Apólice (12/2021). Prazo: brief ao designer hoje, envio ao cliente sex 23/10 até 15h.
+
+---
+
 ## 2026-10-22 (5) — Dia do Servidor: gravação simplificada pra "andando enquanto fala"
 
 PH: *"tá muito mirabolante. A gente tinha a de ir andando enquanto fala e mais nada."* [v3](conteudo/roteiros/2026-10-28-dia-do-servidor-condicao-especial.md): uma instrução só pra todas as cenas (andando, quem grava de costas, olhar na lente, 3-4 tomadas, respiro). A [PADROES §11](PADROES.md) foi corrigida: o default é andar falando, e ação por cena só se PH pedir.

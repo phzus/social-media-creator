@@ -4,6 +4,22 @@ Log datado do trabalho feito pra Contele. Topo = mais recente. Entrada por bloco
 
 ---
 
+## 2026-10-22 — Post de segunda 26/10: "65%" (o sol que Araruama recebe a mais que Berlim)
+
+[Estático](conteudo/posts/2026-10-26-araruama-tem-mais-sol-que-berlim.md) no Pilar 1, número gigante. Mecanismo **número contraintuitivo + comparação**: Araruama recebe cerca de 65% mais sol por ano que Berlim (≈1.780 × ≈1.070 kWh/m²), e com menos sol a Alemanha foi o 4º maior mercado solar do mundo em 2025. Premissa e fonte na arte (irradiação média anual, Global Solar Atlas). A legenda separa sol de geração: pela estimativa do atlas, o mesmo sistema geraria cerca de 40% mais energia por ano aqui.
+
+**Validado (3 bloqueantes e 5 importantes apontados; 2 bloqueantes e 5 importantes aplicados)** pelo validador-copy, sem confiar na Checagem. O B1 (conta dos 40%) não procedia: o PVOUT de Berlim coincide com o GHI (1.070,9 × 1.071,4), conferido na API. Saiu "a Alemanha instala mais energia solar que o Brasil" (ambíguo entre acumulado e anual, e com leitura política no dia seguinte ao 2º turno), o "65%" ganhou o complemento colado *a mais de sol que Berlim, por ano* (sozinho lia como economia), o número passou a dominar a arte (foto opcional, sem disco solar), e entrou uma ponte neutra antes do CTA.
+
+**Conferido em 22/10:** Global Solar Atlas (API, GHI e PVOUT) pra Araruama, pontos vizinhos (1.805–1.835), Berlim, Munique e Freiburg; ranking de mercado pela referência de 23/09 (Global Market Outlook 2026-2030).
+
+**CTA trocado:** "Marca alguém de Araruama que paga muito de luz", fórmula aprovada do PADROES §5 que nunca tinha saído. Encerra a sequência de "SOL" + conta (05, 07, 16 e 23/10).
+
+**Descartado:** verão (3 peças), nublado, crédito, conta que não zera, soma e tamanho do sistema, estação de energia, Halloween (sexta 30/10), Dia do Servidor e Finados.
+
+**Travas:** foto real de céu/lagoa de Araruama pra quebrar a sequência de Sand tipográfica; sem ela, são cinco seguidas. Quinta peça seguida no Pilar 1 (ver [OPEN-QUESTIONS](OPEN-QUESTIONS.md)).
+
+---
+
 ## 2026-10-19 (2) — Ideia de Halloween de PH registrada (fantasma assustado com a conta)
 
 PH trouxe um briefing de Halloween feito no ChatGPT: um fantasma assustado com a conta de luz e a headline "Até quem assombra se assusta com essa conta". [Registro e ajustes](referencias/2026-10-19-briefing-halloween-fantasma-chatgpt.md): sem CAPS (padrão da marca), sem o "Conheça as soluções", um CTA só, slot natural na sexta 30/10.

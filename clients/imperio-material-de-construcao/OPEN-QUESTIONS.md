@@ -42,3 +42,9 @@ Achado ao montar a [peça de sexta 16/10](conteudo/posts/2026-10-16-lona-na-jane
 ## 2026-10-20 — Peça de sexta 23/10 (Telha Plan)
 
 21. 🟡 **Telha Plan segue a R$ 115,00 e com estoque?** Preço da arte `(imperio material) telha plan.png` (06/08). Por unidade/chapa? Qual medida? Responde em parte o #20 (telha, ao menos em agosto). A [peça de 23/10](conteudo/posts/2026-10-23-varal-cobre-com-telha-plan.md) usa o card igual à fonte, sem medida nem validade.
+
+## 2026-10-22 — Peça de segunda 26/10 (caixa d'água / dengue)
+
+22. 🟡 **Molde novo "OFERTA IMPÉRIO" (22/10, `~/Downloads`): o mascote dele é o oficial?** `Banner de Ofertas Império sem Produto.png` e `Oferta Império_ Carrinho Galvanizado.png` trazem um mascote 3D de capacete "IMPÉRIO" e colete de segurança, coroa dourada, "À VISTA DINHEIRO/PIX" e "Ofertas válidas enquanto durarem os estoques". Se é molde aprovado pelo cliente, responde parte do #4 (mascote/paleta) e a [PADROES §1](PADROES.md) precisa ser atualizada; se é teste, as peças da Lone seguem sem mascote. Também traz o **carrinho de mão galvanizado Botafogo a R$ 179,00** (preço do cliente, 22/10) e repete Itaúna nº 20 + (22) 99743-3328 no rodapé (reforça #1 e #15).
+23. 🟢 **A Império vende tampa de caixa d'água avulsa?** A [peça de 26/10](conteudo/posts/2026-10-26-pratinho-da-planta-e-a-caixa-dagua.md) só convida a perguntar "o que a Império tem pra sua caixa"; se vender, o CTA pode nomear a tampa. A caixa Fortlev 1000 L (R$ 450,00, arte de 05/08) segue sem confirmação de vigência (#18).
+

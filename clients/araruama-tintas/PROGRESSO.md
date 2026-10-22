@@ -4,6 +4,20 @@ Log datado do trabalho feito pra Araruama Tintas. Topo = mais recente. Entrada p
 
 ---
 
+## 2026-10-22 — Post de segunda 26/10: "Vai pintar o teto do banheiro por causa do mofo? A tinta cobre os pontinhos pretos. Sem saída pro vapor do banho, eles voltam." (estático) · validado (0 bloqueantes, 4 importantes)
+
+[Peça](conteudo/posts/2026-10-26-mofo-do-teto-do-banheiro.md): educativo leve, fora da campanha de Halloween (sem preço, sem produto). Mecanismo **pergunta de intenção + giro de causa**: a pessoa já decidiu pintar por causa do mofo, e a headline mostra que a tinta cobre o que se vê, mas não o vapor sem saída que causa. Apoio com a saída prática (janela depois do banho ou exaustor). CTA na arte (v1.1): "Manda uma foto do teto no WhatsApp (22) 99245-8813 e diz se o banheiro tem janela ou exaustor. A gente olha o seu caso e te orienta." Mofo de banheiro nunca tinha sido assunto da conta; é o caso oposto da infiltração de 21/09 (umidade que nasce dentro do cômodo), e a legenda fecha a exceção (volta sempre no mesmo ponto = pode ser vazamento ou infiltração).
+
+**Descartados por isolamento com a Bruno:** pintar no sol/calor (semana 10 do calendário do briefing dela é "calor × chuva", justamente a semana de 26/10), primeira demão/intervalo entre demãos (semana 6 dela, e puxa o "sela/bebe" de 14/09), massa corrida grossa (14/09 dela + semana 8), ordem de pintura (mecânica de lista dela). Também fora: lavável (já foi o 02/10 desta conta) e Halloween/"susto" (segunda sem preço, e 26/10 é o dia seguinte ao 2º turno).
+
+**Validação (validador-copy, "não confie na Checagem"): 0 bloqueantes, 4 importantes, aplicados** (v1.1). O apoio da arte agora diz tirar o mofo e secar **antes** de pintar (a v1 só falava de ventilar e prometia "dura mais"); o "Por isso" sem nexo do parágrafo 3 foi reordenado; saiu o parágrafo de tinta antimofo (categoria não confirmada na loja, OQ #16); o CTA largou o molde "Vai pintar X? Manda… A gente te diz" de 19/10; "continua se desenvolvendo" virou "pode continuar". Opcionais: headline linha 2 encurtada e fora o refrão "o problema começa antes da tinta". Abertura em pergunta mantida (decisão do lote). Conferida junto com a Bruno de 26/10: sem frase, estrutura de arte ou CTA parecidos, nada lê como política. **Aviso pro lote:** se a Bruno for de mofo/antimofo (Emborrachada 6 em 1) na sexta 30/10, as duas lojas falam de mofo na mesma semana.
+
+**Fontes:** Sienge (tinta antimofo não resolve a causa, pintar sobre mofo ativo só esconde) e Catraca Livre (vapor do chuveiro, secagem, sinais de infiltração), citadas na Checagem da peça.
+
+**Trava:** nenhuma de dado. Pergunta leve pro Wanderson: a loja tem tinta de área úmida/antimofo pra interno ([OQ #16](OPEN-QUESTIONS.md))? **Lote do dia:** a Bruno de 26/10 saiu em "fachada se pinta na sombra" (sol, CTA "Salva"), o ângulo que foi descartado aqui. Sem colisão; as duas são educativo de condição do ambiente (sol × vapor), vale o validador olhar juntas.
+
+---
+
 
 ## 2026-10-16 — Post de segunda 19/10: "Reboco novo parece seco em poucos dias. Pra receber tinta, ele costuma pedir cerca de 28 dias de cura." (estático)
 

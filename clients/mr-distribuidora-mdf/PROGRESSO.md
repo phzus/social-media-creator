@@ -4,6 +4,19 @@ Log datado do trabalho feito pra MR Distribuidora. Topo = mais recente. Entrada 
 
 ---
 
+## 2026-10-22 — Post de segunda 26/10: "A luz de LED do armário apagou. / Pra chegar na fonte da fita, só desmontando o móvel."
+
+[Peça](conteudo/posts/2026-10-26-fonte-do-led-atras-do-painel.md): estático, **#05 da série "Detalhe que gera indicação"**, e a primeira peça de **iluminação** da conta. O Briefing Estratégico lista "iluminação de móvel" no pilar e na descrição da série. `ja-postado.sh` (led|ilumina|fonte|luz) e o grep em `conteudo/` não acharam nada.
+
+- **Giro na série:** o detalhe é o dia do conserto. A fonte da fita sem acesso faz o chamado de volta virar desmontagem de móvel pronto. Mecanismo: cena → consequência → decisão de projeto (diferente do número contraintuitivo de 23/10).
+- **Fonte técnica:** manual de instalação da Mean Well pra fontes de LED ("ventilação apropriada à volta do equipamento e não cubra com nenhum objeto") + ficha de fonte 12 V na MadeiraMadeira ("local seco e ventilado"). A legenda diz "costuma pedir".
+- **CTA:** o de Projeto do PADROES §5, literal, na arte: "Vai ter LED no próximo móvel? Envie sua lista para orçamento." É a primeira vez na série.
+- **Validação (validador-copy):** saiu "abrindo uma porta ou tirando uma tampa", que contradizia a ventilação. "Acaba no espaço que sobrou" virou "pode acabar". A headline passou a dizer "fonte da fita". A legenda ficou com 2 cenas em vez de 3, perdeu o "Ninguém repara" e fecha em "quem fez o móvel". O brief de imagem não mostra mais fonte enfiada em vão.
+- **Travas:** 🔴 o balcão confirma onde a MR orienta pôr a fonte e se vende fita e fonte de LED (gate §1). A pergunta vai **hoje, 22/10**, antes do brief. Prazo: brief sex 23/10 de manhã; arte pro cliente sex 23/10 até 15h.
+- **Achado lateral:** um post da própria MR de 18/06/2025 lista "Corte e fitagem sob medida". Isso responde em parte a PAUTA #3 ([OQ 2026-10-22](OPEN-QUESTIONS.md)).
+
+---
+
 ## 2026-10-20 — Sexta 23/10 vira educativo: "Vão de 500 mm não leva gaveta de 500 mm."
 
 PH: *"O pinador na MR já foi, vamos de educativo nessa sexta?"* O pinador já tinha sido postado; a oferta saiu da sexta e a [peça antiga](conteudo/posts/2026-10-20-pinador-sigma-ja-publicado-referencia.md) ficou como referência (renomeada, não apagada).

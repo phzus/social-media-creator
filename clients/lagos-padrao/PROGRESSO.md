@@ -4,6 +4,18 @@ Log datado do trabalho feito pra Lagos Padrão. Topo = mais recente. Entrada por
 
 ---
 
+## 2026-10-22 — Post de segunda 26/10: "O vizinho da frente prendeu o fio na fachada"
+
+[Estático 4:5](conteudo/posts/2026-10-26-vizinho-da-frente-rede-do-outro-lado.md), slot de segunda (leve/educativo como mecanismo de venda). Mecanismo novo na conta: **comparação** (vizinho da frente × você). A rede passa do lado do vizinho, então ele prende o fio na fachada; do teu lado, o fio atravessa a rua e o padrão precisa de poste particular. Vende o poste padrão sem preço. CTA na arte e na legenda, inédito: foto da frente do terreno com o poste da rua aparecendo.
+
+- **Fonte técnica conferida:** folder "Ligação Nova" da Enel Rio (jul/2026), [transcrito em referencias/2026-10-22](referencias/2026-10-22-enel-rj-folder-ligacao-nova.md): pontalete a no mínimo 4,5 m com a rede do mesmo lado, na fachada ou em poste particular; poste particular necessário na travessia; vão máximo de 30 m. A tabela do folder lista **fibra** como material de poste aceito.
+- **Caiu da pauta do briefing:** "lado oposto, 5,5 m". No folder os 5,5 m são do poste da Enel, não do poste do cliente nem da altura do fio. Vale pra próximas peças: a pauta nº 5 de postes do briefing estratégico estava imprecisa.
+- **Só Enel** na arte e na legenda (norma da CERAL sem fonte, OQ 15/18).
+- **Validação (validador-copy):** headline ganhou o elo causal explícito; "a Enel pede poste no teu terreno" virou o que o folder diz; do mesmo lado, pontalete na fachada **ou** em poste. Mantido "teu" (voz da conta desde 05/10).
+- **Travas:** sem preço, sem "5,5 m", sem daN, prazo, horário, "fabrica" (OQ 3), "autorizada". "Monta" segue a base do briefing (OQ 10). CTA pressupõe orçamento por foto (OQ 18b). Peça não vence: sobe quando o cliente quiser vender poste.
+
+---
+
 ## 2026-10-19 — 3 artes de anúncio dos carros-chefe (Meta Ads)
 
 [Arquivo](conteudo/posts/2026-10-19-anuncios-carros-chefe.md). PH pediu "artes de anúncio" sem produto, então abriu nos dois carros-chefe do logo e no pacote que junta os dois. Molde de anúncio direto da casa ([checklist §2.8](../../shared/voice-quality-checklist.md)): chamada, headline em caixa alta, CTA com exclamação e WhatsApp na arte. Cada arte leva texto principal, título e botão do Meta, e tem adaptação 9:16.

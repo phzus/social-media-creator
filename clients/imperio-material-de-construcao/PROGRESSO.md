@@ -4,6 +4,19 @@ Log datado do trabalho feito pro Império. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-10-22 — Post de segunda 26/10: "Você esvazia o pratinho da planta por causa da dengue."
+
+[Peça](conteudo/posts/2026-10-26-pratinho-da-planta-e-a-caixa-dagua.md): estático 4:5, pilar educativo. Headline: *"VOCÊ ESVAZIA O PRATINHO DA PLANTA POR CAUSA DA DENGUE. / E A TAMPA DA CAIXA D'ÁGUA, LÁ EM CIMA, ALGUÉM JÁ CONFERIU?"*, kicker "DE OUTUBRO A MAIO, OS CASOS DE DENGUE SOBEM MAIS", apoio "Pro mosquito, água limpa e parada também serve…". Mecanismo **ponto cego ao lado do cuidado que a pessoa já tem**. CTA na arte: "TAMPA QUEBRADA OU FALTANDO? PERGUNTA NO WHATSAPP O QUE A IMPÉRIO TEM PRA SUA CAIXA!" (22) 99743-3328. Primeira peça da conta sobre caixa d'água; sem preço, sem mascote.
+
+- **Fontes:** Ministério da Saúde (casos sobem "principalmente" de outubro a maio; "vedação dos reservatórios e caixas de água"), Gov. ES / Prefeitura de SP (água parada limpa também é criadouro; conferir água sobre a tampa). A peça diz "também serve", não "prefere".
+- **Mecanismo trocado na validação:** a v1 era mito × verdade; a Maicom corrige crença no mesmo lote e a Vet Regional sai com MITO/VERDADE em vermelho no mesmo dia (mesmo designer).
+- **Validação (validador-copy): 1 bloqueante e 5 importantes aplicados** — CTA v1 ("Tampa quebrada ou faltando? Chama no WhatsApp!") sugeria que a loja resolve a tampa sem fonte; "a água mais limpa da casa" saiu; kicker ganhou o "principalmente" do MS; legenda saiu do esqueleto de 4 bullets de 05/10 e 19/10; plano B sem marca real.
+- **Lote 26/10 (material de construção):** CRB número/proporção (traço da laje), Maicom premissa + teste, Dijana consequência sem volta, Bazar cena com humor, MR falha que aparece depois.
+- **Achado:** em `~/Downloads`, **molde novo "OFERTA IMPÉRIO" de 22/10** (banner vazio + carrinho de mão galvanizado Botafogo **R$ 179,00 à vista dinheiro/Pix**, "Ofertas válidas enquanto durarem os estoques", rodapé Itaúna nº 20 + 99743-3328) com **mascote 3D de capacete e colete** ([OQ #22](OPEN-QUESTIONS.md)).
+- **Travas:** rodapé Itaúna × Linha Azul ([OQ #15](OPEN-QUESTIONS.md), a conta está alternando) · tampa avulsa ([OQ #23](OPEN-QUESTIONS.md), não trava). Brief ao designer até sex 23/10 de manhã; envio ao cliente sex 23/10 até 15h.
+
+---
+
 ## 2026-10-20 — Post de sexta 23/10: "No verão, é só o céu fechar e você correr pro varal."
 
 [Peça](conteudo/posts/2026-10-23-varal-cobre-com-telha-plan.md): estático 4:5, oferta, fecha a linha de telhado da semana (19/10 educativo → 23/10 venda). Headline: *"NO VERÃO, É SÓ O CÉU FECHAR E VOCÊ CORRER PRO VARAL. / COBRE A ÁREA COM TELHA PLAN."* Card **Telha Plan R$ 115,00, retirando em loja** (arte `(imperio material) telha plan.png` de 06/08 em `~/Downloads`, vigência a confirmar). CTA na arte: "PEÇA SEU ORÇAMENTO NO WHATSAPP!" (22) 99743-3328. Mecanismo: **anúncio direto aberto por cena de rotina**, no molde de oferta de agosto (mesmo da peça de 16/10).

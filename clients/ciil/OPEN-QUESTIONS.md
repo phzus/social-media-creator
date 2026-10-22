@@ -2,11 +2,20 @@
 
 Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes de fechar a 1ª estratégia mensal.
 
+## 🟡 Nova (2026-10-22) — Isso Tem Nome 07, Hidradenite (26/10)
+
+[Peça](conteudo/posts/2026-10-26-isso-tem-nome-07-hidradenite-supurativa.md) escrita e retida.
+- 🔴 **OK do RT** (8 itens na peça). Entre eles: a dermatologia da casa avalia quem chega com suspeita e sem diagnóstico?
+- 🟡 **CTA na arte é novo na série.** PH aceita, ou mantém o esqueleto das 01 a 06 sem CTA na arte?
+- 🟡 **Selo `07 de 10` supõe que a Retocolite (19/10) foi ao ar como 06.** Conferir no perfil antes do brief.
+- 🟡 **A 08 cai em 02/11 (Finados).** Sai no feriado ou pula pra 09/11? A tabela nova propõe 08 Espondilite, 09 Crohn, 10 Asma. As duas últimas dependem da PAUTA #4.
+- ✅ ~~Refazer a tabela da série antes de 26/10~~ → feito em 22/10 ([linha editorial](estrategia/linha-editorial-isso-tem-nome.md)).
+
 ## 🟡 Nova (2026-10-19) — sexta 23/10 e calendário da série
 
 [Peça de 23/10](conteudo/posts/2026-10-23-espondilite-piora-parada-melhora-mexendo.md): a Espondilite volta, revisada, no slot de venda.
 - 🔴 **OK do RT** (8 itens na peça). Pela [PAUTA #2](reuniao-mensal/PAUTA.md), segue sem fluxo combinado.
-- 🟡 **O calendário da [linha editorial](estrategia/linha-editorial-isso-tem-nome.md) está desatualizado.** Ele ainda mostra 03 Crohn, 06 Espondilite, 07 Retocolite e 10 Artrite Psoriásica. No feed, a 03 foi Artrite Psoriásica e a Retocolite sai como 06. Sobram 07 a 10 pra Crohn, Hidradenite, Asma e Espondilite. **Refazer a tabela antes da segunda 26/10.** Se a Espondilite entrar na série, o gancho de segunda não pode usar colchão, madrugada nem "piora parada".
+- 🟡 **O calendário da [linha editorial](estrategia/linha-editorial-isso-tem-nome.md) está desatualizado.** Ele ainda mostra 03 Crohn, 06 Espondilite, 07 Retocolite e 10 Artrite Psoriásica. No feed, a 03 foi Artrite Psoriásica e a Retocolite sai como 06. Sobram 07 a 10 pra Crohn, Hidradenite, Asma e Espondilite. ~~Refazer a tabela antes da segunda 26/10.~~ ✅ Feito em 22/10. Se a Espondilite entrar na série, o gancho de segunda não pode usar colchão, madrugada nem "piora parada".
 - 🟡 **A semana 19–23/10 tem duas doenças** (Retocolite na segunda, Espondilite na sexta), o que quebra a linha temática semanal. A conversão da Retocolite não dá pra fazer enquanto a [PAUTA #4](reuniao-mensal/PAUTA.md) estiver aberta. PH decide se aceita, ou se prefere outra peça na sexta.
 - 🟡 **A peça de 19/10 ainda cita a Espondilite como "sexta 16/10"** e o selo `07 de 10`. A PAUTA decidiu 06. Conferir o selo antes do brief, se a arte ainda não saiu.
 

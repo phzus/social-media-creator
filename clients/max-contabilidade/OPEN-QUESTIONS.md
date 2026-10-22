@@ -7,6 +7,10 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🔴 Nova (2026-10-22) — post de segunda 26/10 (fim de ano e alíquota do Simples)
+
+**U. O escritório confirma o que a [peça de 26/10](conteudo/posts/2026-10-26-fim-de-ano-forte-fica-12-meses-na-aliquota.md) afirma?** (a) a alíquota do Simples é recalculada todo mês sobre o faturamento acumulado em 12 meses (LC 123, art. 18, §1º e §1º-A); (b) na 1ª faixa ela não muda dentro da faixa, e da 2ª em diante sobe aos poucos com o acumulado; (c) MEI fica fora; (d) **a janela dos 12 meses muda em 2027 pela LC 214/2025** (um site de cálculo diz que passa a ser os 12 meses antes do mês anterior; não achei em fonte oficial)? A peça foi escrita pra valer nas duas leituras. (e) pra serviço dos Anexos III e V, o fator R muda a leitura da 1ª faixa? (a peça diz "no comércio"). Junto: **quem responde os comentários ALÍQUOTA no direct, e em quanto tempo**, e a Max explica isso pra quem ainda não é cliente? Sem dono, o CTA vira salvar. — *trava a publicação.*
+
 ## 🔴 Novas (2026-10-16) — post de segunda 19/10 refeito (imposto pago a mais)
 
 **R. A pauta tributária ganha etiqueta de série?** A [peça de 19/10](conteudo/posts/2026-10-19-imposto-pago-a-mais-nao-gera-aviso.md) saiu sem "DESCOMPLICA · 04", porque a série nasceu num pilar suspenso. Opções: manter "Descomplica" com tema só tributário, criar nome novo ou ficar sem etiqueta. — *decidir antes do designer; não trava a copy.*

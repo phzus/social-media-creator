@@ -4,6 +4,20 @@ Log datado do trabalho feito pra Dijana. Topo = mais recente. Entrada por bloco 
 
 ---
 
+## 2026-10-22 — Post de segunda 26/10: "Cimento que empedrou não volta a ser pó"
+
+[Peça](conteudo/posts/2026-10-26-cimento-empedrado-nao-tem-conserto.md): arte única, pilar Compra certa + Obra real (foto de estoque), mecanismo **consequência sem volta → causa evitável → regra de guarda**. Headline: *"CIMENTO QUE EMPEDROU NÃO VOLTA A SER PÓ. / NO CHÃO, O SACO PUXA UMIDADE E PODE VIRAR PEDRA."* Dois itens na arte (estrado ou palete; no máximo 10 sacos por pilha); os outros três ficam na legenda. CTA: *"COTA SEU CIMENTO NO WHATSAPP (22) 99752-1356"* (verbo novo na conta).
+
+**Por que:** cimento é o item mais confirmado do mix; quem compra e não usa no dia guarda no chão da garagem, e com as chuvas de verão o prejuízo fica mais provável. Sem oferta: a queima de estoque do Outubro da Construção (R$ 53,50) acabou em 23/10 e nada foi registrado sobre o que vem depois. Sem pergunta e sem o molde hiperlocal da sexta 23/10. Lote: a Maicom do mesmo dia vai de "derruba a premissa + teste caseiro" (piso sobre piso).
+
+**Fato técnico conferido:** armazenamento de cimento (umidade inicia a hidratação, torrão duro descarta, estrado, longe da parede, lona, pilha de até 10 sacos) na matéria do Olhar Digital que cita a ABCP e no termo de referência da Prefeitura de SP (este último lido só pelo resumo de busca).
+
+**Validado (2 bloqueantes, 3 importantes), aplicados.** B1+B2: "não tem conserto" contradizia "torrão ainda dá pra peneirar e usar", e liberar o uso pedia confirmação da loja → torrão duro está perdido; o que desmancha já perdeu força e quem decide é o pedreiro/engenheiro. Densidade: arte de cerca de 60 pra 35 palavras (4 → 2 itens). Foto tem que bater com a arte (palete, ≤10 sacos, longe da parede, marca do mix). "Compra perto do dia de usar" brigava com o CTA → "compra só o que vai usar nas próximas semanas". Véspera política: "não tem conserto" saiu da headline. Nome do arquivo mantido.
+
+**Travas (não bloqueiam texto):** foto real do estoque com saco **em palete, pilha de até 10, longe da parede** (pedir ao Igor hoje à tarde; foto com saco no chão contradiz a headline; plano B banco real) · olhar da loja nos 4 itens ([PADROES §5](PADROES.md)). Prazo: brief qui 22/10; arte e copy ao Igor sex 23/10 até 15h.
+
+---
+
 ## 2026-10-20 — Post de sexta 23/10: Tubo 100 mm Fortlev + stories de último dia da queima
 
 [Peça](conteudo/posts/2026-10-23-tubo-100mm-fase-do-esgoto.md): arte única, pilar Oferta objetiva + Obra real, mecanismo **fase da obra + estoque real** (headline chama quem está fazendo o esgoto; imagem é foto real dos tubos no estoque da Dijana, sem pessoa). Headline: *"VOCÊ DE SAQUAREMA QUE TÁ FAZENDO O ESGOTO DA OBRA: / O TUBO FORTLEV DE 100 MM ESTÁ AQUI NA DIJANA!"* CTA na arte: *"FAZ SEU ORÇAMENTO PELO WHATSAPP (22) 99752-1356!"* Produto/preço: **Tubo 100 mm Fortlev, barra de 6 m, R$ 79,90 à vista no dinheiro ou Pix, retirando** — artes de 12/08 e 18/08 em `~/Downloads`, [confirmar vigência].

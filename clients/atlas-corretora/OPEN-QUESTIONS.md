@@ -5,6 +5,14 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🔴 Nova (2026-10-22) — post de seg 26/10 (equipamento instalado depois): corretor até sex 23/10 12h
+
+A [peça de 26/10](conteudo/posts/2026-10-26-o-carro-na-garagem-e-o-carro-na-apolice.md) afirma, com condicional, regra de cobertura de acessório/equipamento ([PADROES §2](PADROES.md)). Fallback do apoio escrito na peça.
+
+1. Nas seguradoras da Atlas, equipamento instalado depois da contratação (kit gás, som, roda, blindagem) precisa ser comunicado? Sem comunicar, o item fica de fora da indenização?
+2. Esses itens entram com cobertura de acessórios/equipamentos contratada à parte? Alguma seguradora parceira pede vistoria ou recusa carro com kit gás?
+3. Algum dos 4 itens da legenda não se aplica? Sai sem mexer no resto.
+
 ## ✅ (2026-10-22, 3) — Dia do Servidor: as perguntas abaixo não travam mais (PH)
 
 > PH: *"não precisa necessariamente responder essas perguntas… se a gente não sabe, a gente coloca uma coisa genérica."* Virou o [roteiro genérico gravado](conteudo/roteiros/2026-10-28-dia-do-servidor-condicao-especial.md) ("condição especial", "por tempo limitado", "mediante comprovação"). Só fica de pé: **a Atlas tem alguma condição pra servidor em 2026?** (aviso, não gate) e quem responde os comentários SERVIDOR ([OQ #4](#4)). O Reel educativo e o adendo do corretor ficam arquivados.

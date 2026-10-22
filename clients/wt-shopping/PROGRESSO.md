@@ -4,6 +4,18 @@ Log datado do trabalho feito pra WT Shopping. Topo = mais recente. Entrada por b
 
 ---
 
+## 2026-10-22 — Post de segunda 26/10: "Água azul não quer dizer água boa pra entrar" (piscina, olhar da borda) · validado (2 bloqueantes, 5 importantes)
+
+[Peça](conteudo/posts/2026-10-26-piscina-da-borda-olha-o-fundo.md), arte única, frente **piscina**, leve/educativo de segunda. Headline "Água azul não quer dizer água boa pra entrar. / Se da borda você não enxerga o fundo da piscina, não é dia de mergulho." Mecanismo: **sinal pra conferir**. CTA "Chama no WhatsApp (22) 99789-8072 e pede o orçamento da manutenção."
+
+**Por que piscina:** calor chegando é o gancho sazonal aberto ([PADROES §6](PADROES.md)). Clínica descartada (VR sai no mesmo dia com Dermatologia; WT saiu em clínica 23/10). Pet/loja sem ângulo sazonal que não colida (pelo/tosa com a VR do mesmo dia, sede com a VR de 19/10, ração em 19/10, feriado/viagem na VR de 30/10, gato em 23/10; mix sem mapa, [OQ #7](OPEN-QUESTIONS.md)). Agro sem mix, jardim eventual.
+
+**Validação (validador-copy, sem confiar na Checagem):** 2 bloqueantes aplicados: "atrapalha ver quem está lá dentro / debaixo d'água" instalava premissa de afogamento (cortado) e a citação do "CDC" na legenda saiu (lido como Código de Defesa do Consumidor, fonte secundária, ruído no dia pós-eleição). 5 importantes: claim "saiu do ponto/filtragem" virou "costuma ter causa" (OQ N) · "ralo" virou "fundo da piscina" (falha em piscina sem ralo e evita "pelo ralo" no dia pós-2º turno) · CTA de foto sugeria avaliação pela foto, virou orçamento direto · gradação das 3 leituras refeita · "pronta" saiu da headline (eixo de 02/10 e 16/10). Arquivo renomeado pra "olha-o-fundo".
+
+**Decisão de PH:** é a terceira de piscina em 24 dias (02, 16 e 26/10) ([OQ S](OPEN-QUESTIONS.md)). A peça fica; se ele segurar, vai pro banco (evergreen de verão). Sexta 30/10 não deveria ser piscina de novo. Brief designer qui 22/10; cliente sex 23/10 até 15h.
+
+---
+
 ## 2026-10-19 — Post de sexta 23/10: "A gata que escapa pelo telhado em outubro pode estar com uma ninhada em dezembro" (clínica, castração)
 
 [Peça](conteudo/posts/2026-10-23-gata-que-escapa-em-outubro.md), arte única, frente **clínica**, venda de **castração de gata**. Mecanismo: **consequência adiante** (cena do cio agora → ninhada daqui a dois meses). CTA "Agenda a castração dela pelo WhatsApp (22) 99789-8072" + ressalva "Castração sujeita à avaliação do médico-veterinário" na arte e na legenda.

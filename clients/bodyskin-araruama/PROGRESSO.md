@@ -4,6 +4,25 @@ Log datado do trabalho feito pra BodySkin. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-10-22 — Post de segunda 26/10: "Fazer laser na faixa de barba não é ficar sem barba."
+
+[Peça](conteudo/posts/2026-10-26-laser-na-faixa-de-barba-nao-tira-a-barba.md): estático 4:5 com foto dominante + animado de 5s, P1 Educativo, slot 12 do [calendário de outubro](estrategia/2026-10.md). **O slot previa "Quem atende você"** com foto da equipe tirada na visita. Não há registro de visita nem de consentimento, e foto de banco ali seria mentir sobre quem atende. Por isso o slot virou educativo masculino, na linha da semana (dezena masculina, entre a oferta de 23/10 e o Reels de 28/10).
+
+**Headline:** *"Fazer laser na faixa de barba não é ficar sem barba. / O nome já diz: é uma faixa, não a barba inteira."* O mecanismo é a objeção nomeada, respondida pelo nome do próprio serviço. CTA: **"Chame pelo link do perfil e marque a sua"** (avaliação gratuita). Sem preço, sem oferta, tom de pele só no rodapé.
+
+**Validador-copy:** 3 bloqueantes, 4 importantes e 4 menores. Todos aplicados. Os bloqueantes:
+- a v1 afirmava o escopo da faixa ("o laser fica só no contorno"), que é pergunta aberta
+- "a área é combinada com você" era passo operacional que ninguém descreveu
+- a legenda repetia o parágrafo de avaliação da 23/10
+
+**Travas:**
+- 🔴 RT/Cintia confirmam que a barba mantida fica fora da área tratada.
+- 🟡 Confirmar que a avaliação mostra onde o laser vai trabalhar.
+- 🟡 O Reels de 28/10 (plano B) não pode repetir a pergunta da barba.
+- 🟡 O envio à Cintia sai na sexta 23/10, fora da semana de antecedência.
+
+---
+
 ## 2026-10-20 (2) — Motion flyer "Checklist pro feriadão" (sexta 30/10), versão BodySkin da Espaço Laser
 
 PH mandou o story da Espaço Laser "Checklist para o fim de semana perfeito" (card de notas com 3 itens ticados) e pediu a nossa versão pro feriadão, em motion flyer. [Roteiro](conteudo/roteiros/2026-10-30-motion-flyer-checklist-feriadao.md): 4 itens. Os três primeiros são ticados (cadeira de praia no porta-malas, pé na areia em Araruama, celular no modo avião). O quarto fica sem tick: **"Marcar a avaliação do laser"**. Fecho: "ESSE AQUI FICA PRA VOLTA DO FERIADÃO." · avaliação gratuita · 4 lasers · link na bio. Finados não é citado pelo nome.
