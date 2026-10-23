@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-23 — WT 26/10: piscina sai, entra vitrine pet "da ração à consulta"
+
+PH achou a peça de piscina de 26/10 "meio nada a ver" e pediu clínica/agropecuária "falando que tem de tudo para os pets". [Peça nova](../clients/wt-shopping/conteudo/posts/2026-10-26-da-racao-a-consulta-tem-de-tudo.md): "DA RAÇÃO À CONSULTA: NA WT TEM DE TUDO PRO SEU PET!", vitrine loja + clínica no estilo direto da casa. A piscina foi pro banco (evergreen de verão). Exceção nova no [PADROES §2 da WT](../clients/wt-shopping/PADROES.md): vitrine do universo pet pode juntar loja e clínica, porque a WT já postou assim (29/05 e 17/07). Sem colisão de mecanismo no lote de 26/10 (é a única vitrine).
+
+---
+
 ## 2026-10-22 (2) — Lote de segunda 26/10 (18 clientes)
 
 PH pediu as peças de "segunda dia 23". Como 23/10 é sexta e já tinha peça em 14 clientes, o lote foi feito pra seg 26/10. Nenhum cliente tinha peça pra esse dia. Ficaram fora os mesmos do lote de sexta: Engetec, Nova União e Quero Tintas. Foi um agente por par de clientes de nicho parecido, e **todas as 18 passaram pelo validador-copy** ("não confie na Checagem"), com bloqueantes e importantes aplicados.
@@ -15,7 +21,7 @@ PH pediu as peças de "segunda dia 23". Como 23/10 é sexta e já tinha peça em
 | CIIL | [Isso Tem Nome 07: Hidradenite](../clients/ciil/conteudo/posts/2026-10-26-isso-tem-nome-07-hidradenite-supurativa.md) | ciclo vivido | WhatsApp, dermatologia | 🔴 RT · CTA na arte da série (PH) |
 | BodySkin | [faixa de barba não é ficar sem barba](../clients/bodyskin-araruama/conteudo/posts/2026-10-26-laser-na-faixa-de-barba-nao-tira-a-barba.md) | objeção pelo nome do serviço | link do perfil | 🔴 RT/Cintia |
 | Vet Regional | [mito: tosa baixinha refresca](../clients/veterinaria-regional/conteudo/posts/2026-10-26-mito-tosa-baixinha-refresca.md) | mito × verdade | salvar | 🟢 equipe lê |
-| WT | [da borda, olha o fundo da piscina](../clients/wt-shopping/conteudo/posts/2026-10-26-piscina-da-borda-olha-o-fundo.md) | sinal pra conferir | WhatsApp | 🟡 3ª de piscina em 24 dias (PH) |
+| WT | [da ração à consulta: tem de tudo pro seu pet](../clients/wt-shopping/conteudo/posts/2026-10-26-da-racao-a-consulta-tem-de-tudo.md) (troca de 23/10; piscina foi pro banco) | vitrine direta | WhatsApp | — |
 | Bruno das Tintas | [pinta primeiro a parede na sombra](../clients/bruno-das-tintas/conteudo/posts/2026-10-26-fachada-se-pinta-na-sombra.md) | cena → regra | salvar | foto real de fachada |
 | Araruama Tintas | [mofo no teto do banheiro](../clients/araruama-tintas/conteudo/posts/2026-10-26-mofo-do-teto-do-banheiro.md) | pergunta + giro de causa | WhatsApp com foto | — |
 | Contele | [Araruama tem 65% mais sol que Berlim](../clients/contele-solar/conteudo/posts/2026-10-26-araruama-tem-mais-sol-que-berlim.md) | número contraintuitivo | marca alguém | foto opcional |

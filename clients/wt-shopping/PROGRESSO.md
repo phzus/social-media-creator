@@ -4,6 +4,16 @@ Log datado do trabalho feito pra WT Shopping. Topo = mais recente. Entrada por b
 
 ---
 
+## 2026-10-23 — Post de segunda 26/10 refeito: "DA RAÇÃO À CONSULTA: NA WT TEM DE TUDO PRO SEU PET!" (vitrine pet, loja + clínica)
+
+PH achou a peça de piscina "meio nada a ver" e pediu o tema de clínica/agropecuária "falando que tem de tudo para os pets". [Peça nova](conteudo/posts/2026-10-26-da-racao-a-consulta-tem-de-tudo.md), arte única, anúncio direto (caixa alta, exclamação no fecho). Etiquetas: rações · coleiras e acessórios · brinquedos · medicamentos · clínica veterinária. CTA "CHAMA NO WHATSAPP E PEDE O QUE SEU PET PRECISA!". Foto de cão **e** gato (as vitrines anteriores eram só cachorro).
+
+**Base:** vitrines já postadas pela WT em ~/Downloads, 29/05 ("AQUI SEU PET TEM O QUE PRECISA!") e 17/07 ("CUIDADO COMPLETO PARA O SEU PET."), as duas juntando loja e clínica. A headline nova não repete nenhuma delas. Todo item da lista tem arte postada como fonte. Sem banho/tosa (tema da VR no mesmo dia). Validador-copy: 0 bloqueantes, 5 importantes aplicados (fecho da legenda sem prometer marcação, castração com ressalva de avaliação, "consulta adiada" sem culpa).
+
+**Decisões:** [OQ S](OPEN-QUESTIONS.md) fechado (piscina não sai em 26/10; a peça fica no banco como evergreen de verão). [PADROES §2](PADROES.md) ganhou a exceção da vitrine do universo pet. Brief pro designer sex 23/10; envio ao cliente seg 26/10 de manhã.
+
+---
+
 ## 2026-10-22 — Post de segunda 26/10: "Água azul não quer dizer água boa pra entrar" (piscina, olhar da borda) · validado (2 bloqueantes, 5 importantes)
 
 [Peça](conteudo/posts/2026-10-26-piscina-da-borda-olha-o-fundo.md), arte única, frente **piscina**, leve/educativo de segunda. Headline "Água azul não quer dizer água boa pra entrar. / Se da borda você não enxerga o fundo da piscina, não é dia de mergulho." Mecanismo: **sinal pra conferir**. CTA "Chama no WhatsApp (22) 99789-8072 e pede o orçamento da manutenção."

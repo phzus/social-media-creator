@@ -1,5 +1,7 @@
 # Post — "Água azul não quer dizer água boa pra entrar. Se da borda você não enxerga o fundo da piscina, não é dia de mergulho." (Piscina — leve e educativo)
 
+> 📦 **BANCO (2026-10-23):** não sai em 26/10. PH achou "meio nada a ver" e trocou pela [vitrine pet](2026-10-26-da-racao-a-consulta-tem-de-tudo.md). Fica como evergreen de verão (vale até março); se voltar, mudar a data e reconferir a frequência de piscina.
+
 **Cliente:** wt-shopping · **Data:** 2026-10-26 (segunda) · **Plataforma:** Instagram (feed) · **Formato:** Arte única 4:5 · **Pilar:** Problema e solução · **Frente:** **Manutenção de piscinas**, não mistura com pet/loja, clínica, agro ou jardim ([PADROES §2](../../PADROES.md)) · **Mecanismo:** **sinal pra conferir** (um olhar da borda que o dono da piscina faz sozinho antes do mergulho)
 
 > **Formato de segunda:** post estratégico simples, leve/educativo, padrão oficial da casa ([CLAUDE.md](../../../../CLAUDE.md)).

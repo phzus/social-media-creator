@@ -20,6 +20,8 @@ A WT tem clínica veterinária dentro do mix — puxa o mesmo tipo de cuidado qu
 
 Regra explícita do briefing: pet, clínica, agro, jardim e piscina não dividem a mesma peça ou o mesmo anúncio. Cada post/anúncio tem uma frente só, com CTA daquela frente (WhatsApp de compra × agendamento da clínica × "conversa por categoria" de casa/agro).
 
+**Exceção, vitrine do universo pet (PH, 2026-10-23):** peça de posicionamento "tem de tudo pro seu pet" pode juntar pet shop/agropecuária e clínica numa arte só. A própria WT já postou assim (29/05 "AQUI SEU PET TEM O QUE PRECISA!", 17/07 "CUIDADO COMPLETO PARA O SEU PET."). Piscina, jardim e agro de roça continuam fora. Peça de produto ou serviço único segue com uma frente só. Na hora de escrever outra vitrine, não repetir as headlines já usadas: "tem o que precisa", "cuidado completo", "tudo em um só lugar", "da ração à consulta" (26/10).
+
 ## 3. CTA nunca genérico, sempre por categoria
 
 - Pet/loja → "chama no WhatsApp" / "comprar hoje".
@@ -55,5 +57,6 @@ Sazonal aqui é o que muda o que o cliente vai comprar: calor chegando (piscina)
 
 ## Histórico
 
+- **2026-10-23 (v1.2)** — §2 ganha exceção: vitrine do universo pet junta loja e clínica (PH pediu "tem de tudo para os pets"; a WT já postava assim).
 - **2026-09-30 (v1.1)** — §6 nova: variedade de pauta vem de gancho sazonal, não de rodízio pra cobrir frente zerada; jardinagem passa a frente eventual (direção do PH).
 - **2026-09-16 (v1.0)** — criado no onboarding, a partir do Briefing Estratégico da Lone.
