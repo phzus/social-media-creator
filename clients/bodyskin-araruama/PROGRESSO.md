@@ -4,6 +4,16 @@ Log datado do trabalho feito pra BodySkin. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-10-23 — Post de segunda 26/10 refeito com preço + regra nova: peça sai com preço
+
+PH: *"Na bodyskin a gente tem que fazer peça com preço mesmo."* [Peça de 26/10](conteudo/posts/2026-10-26-laser-na-faixa-de-barba-nao-tira-a-barba.md) v2: a objeção da barba virou gancho de oferta. Headline *"FAZER LASER NA FAIXA DE BARBA NÃO É FICAR SEM BARBA. / E NO PACOTE MASCULINO ELA VEM DE PRESENTE!"*, oferta masculina do Outubro OFF (10 tórax + 10 abdômen + 10 virilha, ganha 10 faixa de barba + 10 axilas, **16x de R$ 132,00**), CTA de avaliação gratuita pelo link do perfil, disclaimer de avaliação prévia. Foto dominante, diferente da 23/10 (tipográfica) e do anúncio de 19/10 (card de 5 áreas).
+
+**Regra registrada:** [PADROES §11](PADROES.md), que revoga a trava do §1 (preço só no pilar Oferta). Travas de preço do §7 e gate da RT seguem.
+
+**Pendências:** 🔴 qual oferta masculina lidera ([OQ de 19/10 (2)](OPEN-QUESTIONS.md), item 1), porque agora a sexta vende "3 sessões grátis" e a segunda vende o pacote · 🔴 confirmar que a barba mantida fica fora da área tratada (sem isso, sobe a headline alternativa da peça). Validador-copy: preço conferido; legenda perdeu a frase técnica da área tratada e o passo da avaliação não confirmado.
+
+---
+
 ## 2026-10-22 — Post de segunda 26/10: "Fazer laser na faixa de barba não é ficar sem barba."
 
 [Peça](conteudo/posts/2026-10-26-laser-na-faixa-de-barba-nao-tira-a-barba.md): estático 4:5 com foto dominante + animado de 5s, P1 Educativo, slot 12 do [calendário de outubro](estrategia/2026-10.md). **O slot previa "Quem atende você"** com foto da equipe tirada na visita. Não há registro de visita nem de consentimento, e foto de banco ali seria mentir sobre quem atende. Por isso o slot virou educativo masculino, na linha da semana (dezena masculina, entre a oferta de 23/10 e o Reels de 28/10).

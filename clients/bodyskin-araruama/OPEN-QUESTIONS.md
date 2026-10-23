@@ -5,7 +5,7 @@ Atualizar assim que PH ou a cliente responderem. Resposta vira registro em [cont
 
 ## 🔴 2026-10-22 — Post de segunda 26/10 (faixa de barba não tira a barba): o que confirmar
 
-[Peça](conteudo/posts/2026-10-26-laser-na-faixa-de-barba-nao-tira-a-barba.md) pronta, envio à Cintia sexta 23/10 até 15h.
+[Peça](conteudo/posts/2026-10-26-laser-na-faixa-de-barba-nao-tira-a-barba.md) pronta, envio à Cintia sexta 23/10 até 15h. **v2 (23/10): agora vende o pacote masculino 16x R$ 132,00** (PH: peça da BodySkin sai com preço, [PADROES §11](PADROES.md)). Isso deixa mais urgente o item 1 da pendência de 19/10 (2), abaixo: a sexta vende "3 sessões grátis" de faixa de barba e a segunda vende o pacote em que ela vem de presente.
 1. 🔴 **A barba que o cliente mantém fica fora da área tratada na faixa de barba?** Confirmar como orientação da clínica.
 2. 🟡 **Na avaliação, a equipe mostra onde o laser vai trabalhar no rosto?** Se não, o apoio da arte troca (alternativa na peça).
 3. 🟡 **A visita presencial aconteceu?** Sem ela, "Quem atende você" (slot original de 26/10) segue sem data, e os Reels de outubro seguem sem take novo.

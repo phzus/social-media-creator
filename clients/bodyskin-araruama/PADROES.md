@@ -18,7 +18,7 @@ O vício que originou o trabalho: **todo post é um cartaz de preço**. 80% do f
 
 **A régua, peça a peça:** *"se eu tapar a logo, essa arte poderia ser de qualquer clínica de estética do Brasil?"* Se sim, refazer.
 
-- 🚫 **Preço na capa de peça que não é do pilar Oferta.** Preço vive nos ~15% de peças de venda e na conversa privada.
+- ~~🚫 **Preço na capa de peça que não é do pilar Oferta.** Preço vive nos ~15% de peças de venda e na conversa privada.~~ **Revogado por PH em 23/10/2026: peça da BodySkin sai com preço (ver §11).** O resto da regra-mãe continua: o problema é o encarte repetido, não o preço.
 - 🚫 Esqueleto único de arte repetido — cada peça de um pilar diferente tem tratamento diferente.
 - 🚫 Campanha sazonal esticada em sequência longa com o mesmo layout (o caso "Arraiá da Beleza").
 - 🚫 Modelo de banco de imagem genérico. **Foto da clínica real, da equipe real, de cliente autorizada** vale mais.
@@ -256,8 +256,22 @@ Peça: [2026-10-12-dia-das-criancas-feriado-nao-e-dia-off.md](conteudo/posts/202
 
 ---
 
+## 11. Peça sai com preço (PH, 2026-10-23)
+
+*"Na bodyskin a gente tem que fazer peça com preço mesmo."* Revoga a trava do §1 que deixava preço só no pilar Oferta (~15% das peças). Faz sentido com a conta em risco por ROI ([§9](#9-reunião-de-17-09--regras-novas-de-criativo-e-calendário-cintia-ferraz)): peça sem preço não gera lead que fecha.
+
+- **Default da conta:** toda peça de feed leva a oferta vigente com o preço da tabela do mês (§7). O educativo continua existindo, mas como **gancho** que termina na oferta (caso de 26/10: objeção da barba → pacote masculino com a faixa de barba de presente).
+- **Tema puxa a oferta:** escolher o tema pela oferta que tem preço, ou levar o tema até ela. Se o serviço do tema não tem preço na tabela do mês, não inventar: puxar pra oferta mais próxima que tem.
+- **As travas de preço do §7 continuam valendo:** valor exatamente como a cliente mandou, sem "de/por" sem preço cheio, sem percentual sem base, sem "sem juros", total ou validade que ela não escreveu.
+- **Injetável segue no gate da RT (§2):** preço de toxina/preenchimento/enzima não sai sem aval, com ou sem esta regra.
+- **O que não volta:** o esqueleto único de encarte (banner + modelo de banco + preço gigante). Preço entra com tema e ângulo próprios, e menor que a headline.
+- Em aberto: vale também pra peça de data/feriado (§10 dizia "sem preço")? Perguntar a PH na próxima peça de data.
+
+---
+
 ## Histórico
 
+- **2026-10-23 (v2.0)** — §11 nova: peça da BodySkin sai com preço (PH). Revoga a trava do §1 "preço só no pilar Oferta". Travas de preço do §7 e gate da RT seguem.
 - **2026-10-07 (v1.9)** — Regra do §10: peça de data com tema infantil (Dia das Crianças) leva criança só em texto, nunca em imagem ou objeto, e não imita data dupla.
 - **2026-10-05 (v1.8)** — PH confirmou que **não vai ter 10.10**. A regra 1 do §8 foi reprovada pela primeira vez e a data foi **cancelada**, não encenada. Nasceu a **regra 5 do §8**: condição do dia é input obrigatório até o dia 25 do mês anterior, peça de antecipação não promete condição que ainda não existe, data cancelada não ganha gancho substituto, e duas datas seguidas sem condição própria encerram o modelo. A peça de 05/10 foi reescrita antes de subir e o slot do sábado saiu do feed.
 - **2026-10-02 (v1.7)** — chegou o pacote de **outubro** ("Outubro OFF"): 3 artes, **um único preço** (áreas pequenas 10 sessões, R$ 89, contra R$ 199 em setembro). Tabela nova no §7 com cinco travas — sem preço cheio, logo sem percentual; "OFF" é trocadilho, não desconto; capa de harmonização travada pelo gate da RT; selos de benefício fora da copy. A condição do 10.10 continua sem vir — e hoje era o dia de mandar a peça do 10.10 pra aprovação.
