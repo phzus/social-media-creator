@@ -29,6 +29,8 @@
 - **Nota 4,5 no Google com 1.959 avaliações** é prova social real e pouco usada. O elogio dominante é variedade ("tem tudo"); o cliente diz isso, a marca não precisa.
 - **Concorrência local que não estava no radar:** **Armazém das Festas Araruama** (69,9 mil seguidores, "a maior loja de festas da Região dos Lagos") e a **Vivian**, com loja em São Pedro da Aldeia. Não vale disputar "a maior"; vale disputar atendimento consultivo, confeitaria, embalagem e comprador PJ.
 - **Ponto fraco da Vivian que a Celmapel pode explorar sem citá-la:** condição de atacado opaca, canal de empresa só até 17h e um telefone central pra 11 lojas.
+- **(26/10) A Vivian já está no Natal desde 22/10** (10 dos 12 posts), e o post que mais engajou foi a fundadora contando a história (2.434 curtidas, o dobro do segundo). Na Celmapel também: família dos donos e Festival de Fatias engajam, e tutorial fica abaixo de 25 curtidas. O plano de novembro e dezembro aposta em Max e Taísa e no **Natal de quem vende** (confeiteira e revenda), que a Vivian só alcança pelo evento pago ([planejamento](../estrategia/2026-11-a-12-bimestral.md)).
+- **(26/10) Personalização é o vídeo que mais rende na região:** o mini painel do Armazém teve 8.286 curtidas. O da Celmapel teve 16.
 - **Mensagem pronta no WhatsApp** separa o lead de comércio e permite contar quantos vêm do Instagram, sem CRM.
 
 ## 3. ⚠️ Riscos e alertas

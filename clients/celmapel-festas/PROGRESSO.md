@@ -4,6 +4,30 @@ Log datado do trabalho feito pra Celmapel. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-10-26 — Planejamento de novembro e dezembro (BF, Natal, Réveillon)
+
+PH pediu o planejamento de nov → dez, "quase como na Atlas", com trend e análise da Vivian, que já está no Natal. [Planejamento](estrategia/2026-11-a-12-bimestral.md): 27 peças em 9 semanas (seg estático · qua Reels · sex venda), uma frente por semana e uma peça "fora de festa" em cada. Só um carrossel, no pico da BF (23/11).
+
+**Pesquisa** ([referência](referencias/2026-10-26-concorrencia-e-tendencias-nov-dez.md)): grades públicas de Vivian, Armazém e Celmapel (Playwright, 12 posts cada, só curtidas) + analista de tendências.
+
+**Achados:**
+- A Vivian tem 10 de 12 posts de Natal desde 22/10. O que mais engajou foi a fundadora contando a história (2.434 curtidas).
+- O Armazém teve um outlier de personalização (8.286 curtidas).
+- Na Celmapel, a família e o Festival de Fatias engajam, e tutorial não.
+
+**As três apostas:**
+- Natal de quem vende
+- BF "que não muda de preço" com o Max no bastidor
+- Reels de gente (Max e Taísa)
+
+**Travas (OQ #44–#48):**
+- 🔴 BF fechada até ~10/11.
+- 🔴 O que a loja tem de Natal e Réveillon.
+- 🟡 Horário dos feriados.
+- 🟡 Personalização de Natal e Réveillon.
+
+---
+
 ## 2026-10-22 — Post de segunda 26/10: "Se tiver criança pedindo doce na sua porta no sábado, monta os saquinhos na sexta." · validado (1 bloqueante, 4 importantes)
 
 [Peça](conteudo/posts/2026-10-26-halloween-saquinhos-montados-na-sexta.md): estático 3:4, educativo de antecipação. Headline (v1.1): *"Se tiver criança pedindo doce na sua porta no sábado, / monta os saquinhos na sexta."* Apoio: *"Na hora da campainha, é só entregar."* CTA na arte: *"Passa aqui na Celmapel e leva o doce e a embalagem na mesma ida."*

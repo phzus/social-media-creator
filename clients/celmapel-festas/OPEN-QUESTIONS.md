@@ -29,7 +29,7 @@ Log completo. O que vale ocupar a reunião está curado em [reuniao-mensal/PAUTA
 
 29. **Existe a "Celmapel Atacarejo"** (Rua Pedro Luiz Souza, 140, Centro; Instagram, Facebook e Linktree próprios; Google 4,7★). **Qual a relação com a Celmapel Festas** (mesmo dono? outra empresa?), **onde o comprador PJ compra** e se o perfil da Festas pode usar "Atacado" no nome e na bio? **Trava** o rótulo "Atacado", o destaque ATACADO, o destino do link "Compro pro meu comércio" e o endereço do fixado 3. A relação é **inferência** (mesmo nome, rua vizinha, avaliação que diz que a equipe de lá indica "a loja de festa").
 30. **Personalização:** o link da bio tem botão "Personalização" (WhatsApp +55 22 99776-8832) e o perfil tem destaque "TEMAS" (foto antiga fala em "mais de 130 temas"). **Ainda vale?** Balão personalizado entra na copy?
-31. **Festival de Fatias** (sábados 12, 19 e 26/09, em frente à loja, com confeiteiras locais) e aula com chef (01/10): **continua?** Vira destaque, série ou lista de transmissão de confeiteiras?
+31. **Festival de Fatias** (sábados 12, 19 e 26/09, em frente à loja, com confeiteiras locais) e aula com chef (01/10): **continua?** *(26/10: o perfil mostra edições em 10, 17 e 24/10, então seguiu em outubro. Falta saber de novembro e dezembro e se tem edição de Natal.)* Vira destaque, série ou lista de transmissão de confeiteiras?
 32. **WhatsApp: quem atende e em que horário?** O Google mostra "atendimento on-line" 10h–16h30 (a loja abre 9h–18h30) e a avaliação mais recente lida (1★, jan/2026) reclama de resposta lenta. **Saudação e ausência** com horário real.
 33. **Entrega e retirada:** o site diz que ambas estão ativas, e o Google mostra entrega só seg–sex 9h–17h. **Área, prazo e valor?** "Retirada em até 3h" (site) vale como promessa pública?
 34. **Ponto de referência e estacionamento.** O Google marca estacionamento acessível; ninguém falou de ponto de referência.
@@ -60,6 +60,15 @@ Log completo. O que vale ocupar a reunião está curado em [reuniao-mensal/PAUTA
 43. 🟡 **Respondida em parte por PH (2026-10-22):** *"vamos ainda deixar mais pra frente, mas será ainda nesse mês de outubro."* A campanha de aniversário **fica em outubro**, mais pro fim da semana de 27-31/10, e não migra pra novembro. Ainda faltam mecânica, produto e nome (#9-#12). A seg 26/10 segue com o Halloween. Pelo prazo do designer (1 dia útil), a peça precisa estar escrita até qua 28/10 pra subir na qui 29 ou na sex 30. Pergunta original: **Mês do aniversário sem nada no ar:** outubro acaba no sábado, 31/10, e a campanha-mãe decidida em 02/10 continua sem mecânica, produto, preço, validade e nome (#9–#12). Nenhuma peça do repositório anuncia o aniversário. PH decide com o Carlos: ainda entra algo nesta semana (com o que o Max mandar) ou a campanha migra pra novembro com outro nome? O público "espera a queima de estoque anual" ([BRIEFING](BRIEFING.md)). **Cruzamento com a seg 26/10 (validador, 22/10):** a peça de Halloween saiu sem data no CTA pra não empurrar compra antes do aniversário; a peça de aniversário não deve pôr doce/embalagem de Halloween como oferta retroativa (quem comprou na semana veria o desconto depois, PADROES §1). Perguntar ao Max se a mecânica toca doce ou embalagem.
 
 ---
+
+## 🔴 2026-10-26 — Planejamento de novembro e dezembro (BF, Natal, Réveillon)
+
+[Planejamento](estrategia/2026-11-a-12-bimestral.md) · [pesquisa](referencias/2026-10-26-concorrencia-e-tendencias-nov-dez.md).
+44. 🔴 **Black Friday:** vai ter? Período, produtos, preço cheio e preço de BF. **Precisa chegar até ~10/11** pra o aquecimento de 16/11 ([PADROES §1](PADROES.md)).
+45. 🔴 **O que a loja tem de Natal e Réveillon:** decoração, mesa, embalagem de panetone (caixa, cartucho, lata), balão número 2027, itens de "Natal praiano". Trava as sextas de venda e os tours.
+46. 🟡 **Horário de feriado:** 02/11, 20/11, 24 e 25/12, 31/12 e 01/01 (estende o #35).
+47. 🟡 **Personalização faz painel ou balão de Natal e Réveillon?** No Armazém, o Reels de mini painel personalizado fez 8.286 curtidas (estende o #30).
+48. 🟢 **Festival de Fatias de Natal** em dezembro (estende o #31).
 
 ## 🔴 Outubro (campanha do Mês do Aniversário)
 

@@ -69,7 +69,8 @@ Além da **Celmapel Festas** (Rua Iza Domingues Eurico, 162, Centro) existe a **
 ## Concorrência local (não estava no radar)
 
 - **Armazém das Festas Araruama** (@armazemdasfestasararuama): 69,9 mil seguidores, "a maior loja de festas da Região dos Lagos", Rod. Amaral Peixoto. Não disputar "a maior".
-- **Vivian Festas:** 11 lojas, **Loja VIII em São Pedro da Aldeia** (vizinha de Araruama). Max a chamou de referência de outro mercado ("pioneira no Rio"); ela também é concorrente na região. [Benchmark verificado](referencias/2026-10-07-benchmark-vivian-festas.md).
+- **Vivian Festas:** 11 lojas, **Loja VIII em São Pedro da Aldeia** (vizinha de Araruama). Max a chamou de referência de outro mercado ("pioneira no Rio"); ela também é concorrente na região. [Benchmark verificado](referencias/2026-10-07-benchmark-vivian-festas.md). **(26/10)** Já está no Natal desde 22/10, tem evento de confeitaria pago em 17/11 ("Natal Experience") e o post que mais engaja é a fundadora contando a história ([grade de 26/10](referencias/2026-10-26-concorrencia-e-tendencias-nov-dez.md)).
+- **Armazém (26/10):** o vídeo de mini painel personalizado fez 8.286 curtidas, o maior número da região. O Natal dele começou em 23/10, em estático de produto.
 
 ## Anti-padrões
 

@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-26 (3) — Celmapel: planejamento de novembro e dezembro
+
+[Planejamento](../clients/celmapel-festas/estrategia/2026-11-a-12-bimestral.md) de BF, Natal e Réveillon (27 peças, 9 semanas), com análise das grades de Vivian, Armazém e Celmapel via Playwright e o analista de tendências ([pesquisa](../clients/celmapel-festas/referencias/2026-10-26-concorrencia-e-tendencias-nov-dez.md)). Travas: BF do Max até ~10/11 e o que a loja tem de Natal e Réveillon.
+
+---
+
 ## 2026-10-26 (2) — CIIL: roteiro de Reels de consultas + roteiros antigos travados
 
 [Roteiro](../clients/ciil/conteudo/roteiros/2026-10-26-consultas-doctoralia-whatsapp.md) pra filmagem da CIIL (enfermeiro + B-roll, ~37s), par do estático de 30/10. Validado (4 bloqueantes corrigidos). Os roteiros de 22/07 e 12/08 ainda tinham o claim falso de imunologia e ganharam aviso de "não gravar como está".
