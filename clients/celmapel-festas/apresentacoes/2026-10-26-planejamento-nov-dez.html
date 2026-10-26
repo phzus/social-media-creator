@@ -39,7 +39,7 @@
     letter-spacing: -0.02em;
   }
 
-  h1, h2, h3, .stamp strong, .fmt, .date-chip, .eyebrow, .key b, .when .dow, .bet b, .seen b {
+  h1, h2, h3, .stamp strong, .fmt, .date-chip, .eyebrow, .key b, .when .dow, .seen b, .receipt-title {
     font-family: "Archivo", "Helvetica Neue", Arial, sans-serif;
   }
 
@@ -99,7 +99,7 @@
     max-width: 44rem;
   }
 
-  /* ---------- o que vimos / apostas ---------- */
+  /* ---------- blocos de abertura ---------- */
   .block { margin-top: 3rem; }
   .block-head {
     padding-bottom: 0.7rem;
@@ -139,27 +139,41 @@
   .seen .big small { font-size: 0.72rem; font-weight: 500; color: var(--muted); letter-spacing: 0.04em; }
   .source { margin: 0.7rem 0 0; font-size: 0.78rem; color: var(--muted); }
 
-  .bets { margin: 1.1rem 0 0; padding: 0; list-style: none; counter-reset: bet; }
-  .bet {
-    counter-increment: bet;
+
+  /* ---------- quanto custa ---------- */
+  .howmuch {
     display: grid;
-    grid-template-columns: 2.4rem 1fr;
-    gap: 0.6rem;
-    padding: 0.9rem 0;
-    border-bottom: 1px solid var(--line);
-    font-size: 0.93rem;
+    grid-template-columns: 1fr 280px;
+    gap: 1.6rem;
+    align-items: center;
+    margin-top: 1.1rem;
+  }
+  .howmuch-text p { margin: 0; color: var(--ink-soft); font-size: 0.95rem; max-width: 34rem; }
+  .receipt {
+    display: block;
+    background: var(--card);
+    border: 1px solid var(--line-strong);
+    border-radius: 6px 6px 14px 14px;
+    padding: 1.1rem 1.2rem 1rem;
+    font-size: 0.88rem;
     color: var(--ink-soft);
   }
-  .bet:last-child { border-bottom: 0; }
-  .bet::before {
-    content: counter(bet, decimal-leading-zero);
-    font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
-    font-weight: 700;
-    color: var(--blue);
-    font-size: 0.95rem;
-    padding-top: 0.1rem;
+  .receipt-title { display: block; font-weight: 800; color: var(--ink); font-size: 1rem; margin-bottom: 0.6rem; }
+  .receipt-line, .receipt-total {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 0.22rem 0;
+    border-bottom: 1px dashed var(--line-strong);
+    font-variant-numeric: tabular-nums;
   }
-  .bet b { display: block; color: var(--ink); font-size: 1rem; margin-bottom: 0.1rem; }
+  .receipt-line span:last-child, .receipt-total span:last-child { font-family: "JetBrains Mono", ui-monospace, Menlo, monospace; }
+  .receipt-total { border-bottom: 0; border-top: 2px solid var(--ink); margin-top: 0.3rem; padding-top: 0.45rem; color: var(--ink); font-weight: 700; }
+  .receipt-cta { display: block; margin-top: 0.7rem; color: var(--blue); font-weight: 700; font-family: "Archivo", Arial, sans-serif; }
+
+  @media (max-width: 620px) {
+    .howmuch { grid-template-columns: 1fr; }
+  }
 
   /* ---------- month ---------- */
   .month { margin-top: 3.4rem; }
@@ -303,14 +317,14 @@
 
     /* colunas fixas: os três perfis lado a lado, a legenda numa linha só */
     .key { grid-template-columns: repeat(4, 1fr); }
-    .seen { grid-template-columns: repeat(3, 1fr); }
+    .seen { grid-template-columns: repeat(2, 1fr); }
     .seen { break-inside: avoid; page-break-inside: avoid; }
 
     /* cada mês abre numa página nova */
     .month { break-before: page; page-break-before: always; }
 
     /* nada de card partido no meio */
-    .row, .week, .key, .closing, .week-band, .seen div, .bet {
+    .row, .week, .key, .closing, .week-band, .seen div, .howmuch {
       break-inside: avoid;
       page-break-inside: avoid;
     }
@@ -344,89 +358,94 @@
 
   <p class="eyebrow">Planejamento · Bimestre</p>
   <h1>Novembro <span>→</span> Dezembro<br>2026</h1>
-  <p class="lede">São 27 publicações em nove semanas, na estrutura de sempre: segunda, quarta e sexta. <strong>Novembro gira em torno da Black Friday, e dezembro em torno do Natal e da virada do ano.</strong> Cada semana fecha em uma frente só, e a função de cada dia muda: segunda apresenta, quarta mostra e sexta vende.</p>
+  <p class="lede">São 27 publicações em nove semanas, na estrutura de sempre: segunda, quarta e sexta. <strong>Novembro é inteiro da Black Friday, do anúncio da data até o dia 27.</strong> O Natal entra na virada do mês e divide dezembro com o Réveillon.</p>
 
   <div class="key">
     <div><b>Segunda</b>Post estático</div>
     <div><b>Quarta</b>Reels com a Taísa ou o Max</div>
     <div><b>Sexta</b>Venda, com preço</div>
-    <div><b>Semana</b>Uma frente, em três funções</div>
+    <div><b>Semana</b>Um assunto, em três funções</div>
   </div>
 
   <p class="note">Toda semana tem uma peça além da festa, pra confeitaria, embalagem ou revenda, marcada abaixo como <strong>além da festa</strong>. O que está fechado aqui é a semana e a data. O tema de cada peça ainda passa pela conversa do mês, e toda peça com preço depende da tabela que vocês mandarem.</p>
 
   <section class="block">
-    <div class="block-head"><h2>O que a gente viu antes de planejar</h2></div>
-    <div class="seen">
-      <div>
-        <b>Vivian Festas</b>
-        Está no Natal desde 22/10: são 10 dos 12 posts mais recentes, com tour de corredor, produto com preço e um evento pago de confeitaria em 17/11. Nenhum fala de Black Friday ainda. O que mais engajou foi a fundadora contando a história da loja.
-        <span class="big">2.434 <small>curtidas · o dobro do 2º post</small></span>
+    <div class="block-head"><h2>Um formato novo: "Quanto custa"</h2></div>
+    <div class="howmuch">
+      <div class="howmuch-text">
+        <p>A arte mostra os produtos da loja que formam uma caixa de doce, uma festa em casa ou uma mesa, com o preço de cada um e o total no final. Quem vê já sabe quanto vai gastar e vem montar a sua. Ele aparece quatro vezes no bimestre, nas sextas de venda.</p>
       </div>
-      <div>
-        <b>Armazém das Festas</b>
-        O vídeo de mini painel personalizado é o post mais curtido das três lojas. O Natal começou em 23/10, em post estático de produto, que fica entre 4 e 39 curtidas.
-        <span class="big">8.286 <small>curtidas · personalização</small></span>
-      </div>
-      <div>
-        <b>Celmapel</b>
-        O que mais engaja são vocês dois, a família e o Festival de Fatias. As edições de outubro do Festival ficaram entre 163 e 198 curtidas, e os tutoriais, abaixo de 25.
-        <span class="big">471 <small>curtidas · Max e Taísa no aniversário</small></span>
+      <div class="receipt">
+        <span class="receipt-title">Quanto custa a caixinha de doce?</span>
+        <span class="receipt-line"><span>Caixa</span><span>R$ —</span></span>
+        <span class="receipt-line"><span>Forminhas</span><span>R$ —</span></span>
+        <span class="receipt-line"><span>Fita</span><span>R$ —</span></span>
+        <span class="receipt-line"><span>Tag</span><span>R$ —</span></span>
+        <span class="receipt-total"><span>Sua caixinha</span><span>R$ —</span></span>
+        <span class="receipt-cta">Venha montar a sua!</span>
       </div>
     </div>
-    <p class="source">Vivian e Armazém: os 12 posts mais recentes de cada perfil, lidos em 26/10/2026. Celmapel: grade pública lida em 07 e 26/10. Só curtidas públicas. Visualização de Reels não aparece pra quem está de fora.</p>
+    <p class="source">Exemplo de estrutura. Os produtos e os preços de cada arte saem da lista que vocês mandarem.</p>
   </section>
 
   <section class="block">
-    <div class="block-head"><h2>As três apostas do bimestre</h2></div>
-    <ol class="bets">
-      <li class="bet"><div><b>O Natal de quem vende</b>A confeiteira e a revendedora que fazem renda extra no fim do ano compram insumo e embalagem já em novembro. A Vivian só fala com esse público pelo evento pago. A Celmapel já tem a comunidade do Festival de Fatias e o Max, que conversa de dono pra dono. É por isso que o bimestre abre aqui.</div></li>
-      <li class="bet"><div><b>A Black Friday com preço que não muda até o fim</b>O preço da casa é negociado com a indústria e fica fixo. Numa época em que todo mundo desconfia de desconto, o Max mostrando como isso funciona por dentro vira o argumento da campanha.</div></li>
-      <li class="bet"><div><b>Vocês na frente da câmera</b>Nas três lojas, gente engaja mais que produto. Os Reels do bimestre são da Taísa e do Max, e o ano fecha com a retrospectiva contada pelos dois.</div></li>
-    </ol>
+    <div class="block-head"><h2>O que a gente observou</h2></div>
+    <div class="seen">
+      <div>
+        <b>Vivian Festas</b>
+        Começou o Natal em 22/10: são 10 dos 12 posts mais recentes. Até agora, nenhum fala de Black Friday. O post que mais engajou foi a fundadora contando a história da loja.
+        <span class="big">2.434 <small>curtidas · o dobro do 2º post</small></span>
+      </div>
+      <div>
+        <b>Celmapel</b>
+        O que mais engaja são vocês dois, a família e o Festival de Fatias. As edições de outubro do Festival ficaram entre 163 e 198 curtidas, e os tutoriais, abaixo de 25. Por isso os Reels do bimestre são da Taísa e do Max.
+        <span class="big">471 <small>curtidas · Max e Taísa no aniversário</small></span>
+      </div>
+    </div>
+    <p class="source">Vivian: os 12 posts mais recentes, lidos em 26/10/2026. Celmapel: grade pública lida em 07 e 26/10. Só curtidas públicas, porque a visualização de Reels não aparece pra quem está de fora.</p>
   </section>
 
   <section class="month">
     <div class="month-head">
       <h2>Novembro</h2>
     </div>
-    <p class="month-why">As duas primeiras semanas colocam o Natal no feed, começando por quem vende. A partir de 16/11, a Black Friday assume, com aquecimento, a explicação do Max e o pico na sexta 27.</p>
+    <p class="month-why">Quatro semanas de Black Friday, e cada uma cumpre uma função: anunciar a data, explicar por que o preço é tão baixo, contar os dias e, por fim, vender. A Celmapel compra direto da indústria, e é isso que deixa essa Black tão barata. O Natal só aparece no fim do mês, já dentro da campanha.</p>
     <div class="dates">
-      <span class="date-chip warn">02/11 · Finados (sem post)</span>
+      <span class="date-chip warn">02/11 · Finados (feriado)</span>
       <span class="date-chip warn">20/11 · Consciência Negra (feriado)</span>
       <span class="date-chip">27/11 · Black Friday</span>
-      <span class="date-chip">30/11 · Cyber Monday e 1ª parcela do 13º</span>
+      <span class="date-chip">30/11 · 1ª parcela do 13º</span>
     </div>
 
   <div class="week">
     <div class="week-band">
-      <span class="ramo">O Natal de quem vende</span>
-      <span class="week-note">segunda é Finados: a semana abre na terça</span>
-      <span class="week-when">03 → 06 nov</span>
+      <span class="ramo">Black Friday · a data</span>
+      <span class="week-note">a lista VIP do WhatsApp abre aqui</span>
+      <span class="week-when">02 → 06 nov</span>
     </div>
-    <div class="row">
-      <div class="when"><span class="dow">Ter</span><span class="num mono">03/11</span></div>
+    <div class="row star">
+      <div class="when"><span class="dow">Seg</span><span class="num mono">02/11</span></div>
       <div class="what">
-        <h3>O que a confeiteira precisa ter antes de abrir encomenda de Natal</h3>
-        <p>Insumo e embalagem (caixa, cartucho, forminha, fita) pra quem vende no fim do ano.</p>
-        <span class="extraline">Além da festa</span>
+        <h3>27/11 TEM BLACK FRIDAY NA CELMAPEL!</h3>
+        <p>O anúncio da data, com o convite pra entrar na lista VIP do WhatsApp.</p>
+        <span class="flagline">Finados: confirmar se a loja abre</span>
       </div>
       <span class="fmt">estático</span>
     </div>
-    <div class="row star">
+    <div class="row">
       <div class="when"><span class="dow">Qua</span><span class="num mono">04/11</span></div>
       <div class="what">
-        <h3>"Vai vender panetone em dezembro? Separa isso aqui."</h3>
-        <p>O Max mostra na mão o que a loja tem pra quem vende.</p>
+        <h3>"Você de Araruama já entrou na lista VIP da Black?"</h3>
+        <p>A Taísa explica como entrar e o que a lista recebe primeiro.</p>
       </div>
-      <span class="fmt video">reels · Max</span>
+      <span class="fmt video">reels · Taísa</span>
     </div>
     <div class="row">
       <div class="when"><span class="dow">Sex</span><span class="num mono">06/11</span></div>
       <div class="what">
-        <h3>Especial Revendedor de Natal</h3>
-        <p>Insumo e embalagem organizados por uso, com preço e validade.</p>
-        <span class="flagline">Depende da tabela de vocês</span>
+        <h3>Quanto custa a caixinha de doce?</h3>
+        <p>Caixa, forminha, fita e tag com o preço de cada um e o total, pra quem vende doce.</p>
+        <span class="extraline">Além da festa</span>
       </div>
       <span class="fmt sell">venda</span>
     </div>
@@ -434,31 +453,32 @@
 
   <div class="week">
     <div class="week-band">
-      <span class="ramo">O Natal chegou na Celmapel</span>
-      <span class="week-note">o Natal entra no feed na primeira quinzena</span>
+      <span class="ramo">Black Friday · por que tão barata</span>
+      <span class="week-note">o argumento da campanha</span>
       <span class="week-when">09 → 13 nov</span>
     </div>
     <div class="row">
       <div class="when"><span class="dow">Seg</span><span class="num mono">09/11</span></div>
       <div class="what">
-        <h3>O NATAL CHEGOU NA CELMAPEL!</h3>
-        <p>Anúncio direto do que tem pra decorar e pra mesa.</p>
+        <h3>A BLACK FRIDAY CELMAPEL TAMBÉM É PRA QUEM VENDE!</h3>
+        <p>Confeitaria, embalagem e descartável entram na campanha junto com a festa.</p>
+        <span class="extraline">Além da festa</span>
       </div>
       <span class="fmt">estático</span>
     </div>
-    <div class="row">
+    <div class="row star">
       <div class="when"><span class="dow">Qua</span><span class="num mono">11/11</span></div>
       <div class="what">
-        <h3>Tour de Natal da loja</h3>
-        <p>A Taísa mostra os achados de Natal e abre com "Você de Araruama já começou o Natal?".</p>
+        <h3>"Por que a nossa Black Friday tá tão barata?"</h3>
+        <p>O Max conta que a Celmapel negocia direto com a indústria, e que é assim que consegue preço tão baixo.</p>
       </div>
-      <span class="fmt video">reels · Taísa</span>
+      <span class="fmt video">reels · Max</span>
     </div>
     <div class="row">
       <div class="when"><span class="dow">Sex</span><span class="num mono">13/11</span></div>
       <div class="what">
-        <h3>Decoração e mesa de Natal com preço</h3>
-        <p>Se a loja tiver os itens, abre espaço pro Natal com cara de praia, que combina com a Região dos Lagos.</p>
+        <h3>Quanto custa um aniversário em casa?</h3>
+        <p>Balão, vela, prato, copo e guardanapo com o preço de cada um e o total.</p>
       </div>
       <span class="fmt sell">venda</span>
     </div>
@@ -466,31 +486,31 @@
 
   <div class="week">
     <div class="week-band">
-      <span class="ramo">Black Friday · aquecimento</span>
+      <span class="ramo">Black Friday · contagem</span>
       <span class="week-note">sexta é feriado da Consciência Negra</span>
       <span class="week-when">16 → 20 nov</span>
     </div>
     <div class="row">
       <div class="when"><span class="dow">Seg</span><span class="num mono">16/11</span></div>
       <div class="what">
-        <h3>VEM AÍ A BLACK FRIDAY CELMAPEL!</h3>
-        <p>Período e categorias, e a lista de espera no WhatsApp começa aqui.</p>
+        <h3>FALTAM 11 DIAS PRA BLACK FRIDAY CELMAPEL!</h3>
+        <p>Período, categorias e a última chamada pra lista VIP.</p>
       </div>
       <span class="fmt">estático</span>
     </div>
-    <div class="row star">
+    <div class="row">
       <div class="when"><span class="dow">Qua</span><span class="num mono">18/11</span></div>
       <div class="what">
-        <h3>Por que o preço da nossa Black Friday não muda até o fim</h3>
-        <p>O Max conta como o preço é negociado com a indústria.</p>
+        <h3>Spoiler da Black</h3>
+        <p>A Taísa mostra o que vai entrar na campanha. O preço fica pra lista VIP e pro dia.</p>
       </div>
-      <span class="fmt video">reels · Max</span>
+      <span class="fmt video">reels · Taísa</span>
     </div>
     <div class="row">
       <div class="when"><span class="dow">Sex</span><span class="num mono">20/11</span></div>
       <div class="what">
-        <h3>A lista do revendedor na Black Friday</h3>
-        <p>Embalagem e descartável pra quem vende.</p>
+        <h3>Especial Revendedor</h3>
+        <p>Embalagem e descartável com preço, organizados pra quem compra pra revender.</p>
         <span class="extraline">Além da festa</span>
         <span class="flagline">Feriado: confirmar se a loja abre</span>
       </div>
@@ -507,8 +527,8 @@
     <div class="row star">
       <div class="when"><span class="dow">Seg</span><span class="num mono">23/11</span></div>
       <div class="what">
-        <h3>A Black Friday da Celmapel, uma página pra cada uso</h3>
-        <p>Festa, confeitaria, embalagem e revenda, um slide cada, com preço.</p>
+        <h3>A Black Friday da Celmapel, categoria por categoria</h3>
+        <p>Festa, confeitaria, embalagem e descartável, um slide cada, com preço. O último slide já puxa o Natal.</p>
       </div>
       <span class="fmt">carrossel</span>
     </div>
@@ -516,7 +536,7 @@
       <div class="when"><span class="dow">Qua</span><span class="num mono">25/11</span></div>
       <div class="what">
         <h3>Achadinho de Black Friday</h3>
-        <p>A Taísa com um item na mão, com preço e validade.</p>
+        <p>A Taísa com o produto na mão, com preço e validade.</p>
       </div>
       <span class="fmt video">reels · Taísa</span>
     </div>
@@ -536,7 +556,7 @@
     <div class="month-head">
       <h2>Dezembro</h2>
     </div>
-    <p class="month-why">O mês anda na ordem em que o cliente compra: a mesa, o presente, o Réveillon e o que faltou pra ceia. As duas parcelas do 13º caem em semanas de venda, e Natal e Ano Novo ganham homenagem da casa, sem oferta.</p>
+    <p class="month-why">O Natal chega no feed logo depois da Black: primeiro a loja, depois quem vende doce e panetone, depois o fim de ano das empresas e o Réveillon, e por último o que faltou pra ceia. Natal e Ano Novo ganham homenagem da casa, sem oferta.</p>
     <div class="dates">
       <span class="date-chip">18/12 · 2ª parcela do 13º</span>
       <span class="date-chip">24 e 25/12 · Véspera e Natal</span>
@@ -546,32 +566,31 @@
 
   <div class="week">
     <div class="week-band">
-      <span class="ramo">Mesa e ceia de Natal</span>
-      <span class="week-note">o último dia da Black Friday, se houver, vai pros stories na segunda</span>
+      <span class="ramo">O Natal chegou na Celmapel</span>
+      <span class="week-note">o último dia da Black, se houver, vai pros stories na segunda</span>
       <span class="week-when">30 nov → 04 dez</span>
     </div>
     <div class="row">
       <div class="when"><span class="dow">Seg</span><span class="num mono">30/11</span></div>
       <div class="what">
-        <h3>A mesa de Natal de 2026</h3>
-        <p>Laço grande, bordô e branco perolado, que é o que os portais de decoração estão apontando pra este Natal.</p>
+        <h3>O NATAL CHEGOU NA CELMAPEL!</h3>
+        <p>Anúncio direto do que tem pra decorar e pra mesa.</p>
       </div>
       <span class="fmt">estático</span>
     </div>
     <div class="row">
       <div class="when"><span class="dow">Qua</span><span class="num mono">02/12</span></div>
       <div class="what">
-        <h3>"Monta a mesa de Natal comigo"</h3>
-        <p>A Taísa escolhe guardanapo, copo, prato e laço na loja.</p>
+        <h3>"Você de Araruama já começou o Natal?"</h3>
+        <p>A Taísa faz o tour de Natal da loja, no tom de achadinho.</p>
       </div>
       <span class="fmt video">reels · Taísa</span>
     </div>
     <div class="row">
       <div class="when"><span class="dow">Sex</span><span class="num mono">04/12</span></div>
       <div class="what">
-        <h3>Doce de Natal pra vender</h3>
-        <p>Caixinha de bombom, pão de mel e kit, com insumo e embalagem e preço, logo depois da 1ª parcela do 13º.</p>
-        <span class="extraline">Além da festa</span>
+        <h3>Quanto custa a mesa de Natal?</h3>
+        <p>Guardanapo, copo, prato, vela e enfeite com o preço de cada um e o total.</p>
       </div>
       <span class="fmt sell">venda</span>
     </div>
@@ -579,32 +598,32 @@
 
   <div class="week">
     <div class="week-band">
-      <span class="ramo">Presente de fim de ano</span>
-      <span class="week-note">embalagem como frente própria</span>
+      <span class="ramo">O Natal de quem vende</span>
+      <span class="week-note">confeiteira e revendedora no pico das encomendas</span>
       <span class="week-when">07 → 11 dez</span>
     </div>
     <div class="row">
       <div class="when"><span class="dow">Seg</span><span class="num mono">07/12</span></div>
       <div class="what">
-        <h3>Lembrança de fim de ano pra turma, a equipe ou o amigo secreto</h3>
-        <p>Ideias com embalagem e doce, sem preço.</p>
+        <h3>O que a confeiteira precisa ter pras encomendas de Natal</h3>
+        <p>Insumo e embalagem: caixa, cartucho, forminha e fita.</p>
         <span class="extraline">Além da festa</span>
       </div>
       <span class="fmt">estático</span>
     </div>
-    <div class="row">
+    <div class="row star">
       <div class="when"><span class="dow">Qua</span><span class="num mono">09/12</span></div>
       <div class="what">
-        <h3>Transformando o panetone em presente</h3>
-        <p>Caixa, laço e fita em 30 segundos.</p>
+        <h3>"Vai vender panetone? Separa isso aqui."</h3>
+        <p>O Max mostra na mão o que a loja tem pra quem vende no Natal.</p>
       </div>
-      <span class="fmt video">reels · Taísa</span>
+      <span class="fmt video">reels · Max</span>
     </div>
     <div class="row">
       <div class="when"><span class="dow">Sex</span><span class="num mono">11/12</span></div>
       <div class="what">
-        <h3>Embalagem de presente com preço</h3>
-        <p>Caixa, sacola, laço e fita.</p>
+        <h3>Especial Embalagem de Natal</h3>
+        <p>Caixa de panetone, sacola, laço e fita, com preço.</p>
       </div>
       <span class="fmt sell">venda</span>
     </div>
@@ -619,7 +638,7 @@
     <div class="row">
       <div class="when"><span class="dow">Seg</span><span class="num mono">14/12</span></div>
       <div class="what">
-        <h3>O fim de ano do comércio</h3>
+        <h3>A confraternização da sua empresa começa aqui</h3>
         <p>O Max fala do descartável da confraternização, com nota fiscal.</p>
         <span class="extraline">Além da festa</span>
       </div>
@@ -628,7 +647,7 @@
     <div class="row">
       <div class="when"><span class="dow">Qua</span><span class="num mono">16/12</span></div>
       <div class="what">
-        <h3>Montando o 2027</h3>
+        <h3>"Montando o 2027"</h3>
         <p>A Taísa com balão número e metalizado. Se a personalização fizer painel de Réveillon, ele entra aqui.</p>
       </div>
       <span class="fmt video">reels · Taísa</span>
@@ -636,8 +655,8 @@
     <div class="row">
       <div class="when"><span class="dow">Sex</span><span class="num mono">18/12</span></div>
       <div class="what">
-        <h3>Kit de Réveillon com preço</h3>
-        <p>Balão, decoração da virada e mesa.</p>
+        <h3>Quanto custa a decoração da virada?</h3>
+        <p>Balão 2027, metalizado, painel e mesa, com o preço de cada um e o total.</p>
       </div>
       <span class="fmt sell">venda</span>
     </div>
@@ -685,8 +704,8 @@
     <div class="row">
       <div class="when"><span class="dow">Seg</span><span class="num mono">28/12</span></div>
       <div class="what">
-        <h3>Última semana do Réveillon</h3>
-        <p>Balão e decoração da virada com preço.</p>
+        <h3>ÚLTIMA SEMANA PRA DECORAR A VIRADA!</h3>
+        <p>Balão e decoração do Réveillon com preço.</p>
       </div>
       <span class="fmt sell">venda</span>
     </div>
@@ -694,7 +713,7 @@
       <div class="when"><span class="dow">Qua</span><span class="num mono">30/12</span></div>
       <div class="what">
         <h3>O ano da Celmapel contado pelo Max e pela Taísa</h3>
-        <p>Retrospectiva e agradecimento, no formato do post mais curtido da Vivian.</p>
+        <p>Retrospectiva e agradecimento.</p>
       </div>
       <span class="fmt video">reels · Max e Taísa</span>
     </div>
@@ -713,16 +732,18 @@
   <div class="closing">
     <h2>Ideias pra conversar</h2>
     <ul>
-      <li><b>Festival de Fatias de Natal.</b> Em dezembro, uma edição natalina, com fatia de Natal e panetone de confeiteira da região, é a resposta da Celmapel ao evento da Vivian: comunidade na porta da loja, sem ingresso.</li>
-      <li><b>Personalização de Natal e Réveillon.</b> O post mais curtido da região é de painel personalizado. Se o setor faz painel, balão com nome ou "2027", ele pode ganhar um Reels próprio.</li>
-      <li><b>WhatsApp na Black Friday.</b> Antes de a campanha lotar a caixa de mensagens, vale configurar resposta rápida e uma etiqueta "Black Friday" no WhatsApp Business. A demora pra responder já apareceu em avaliação no Google.</li>
+      <li><b>Festival de Fatias de Natal.</b> Uma edição natalina em dezembro, com fatia de Natal e panetone de confeiteira da região, na porta da loja.</li>
+      <li><b>Personalização de Natal e Réveillon.</b> Se o setor faz painel, balão com nome ou "2027", ele pode ganhar um Reels próprio no lugar de um dos Reels da Taísa.</li>
+      <li><b>WhatsApp na Black Friday.</b> Antes de a campanha lotar a caixa de mensagens, vale configurar resposta rápida e uma etiqueta "Black Friday" no WhatsApp Business.</li>
     </ul>
   </div>
 
   <div class="closing">
     <h2>O que precisa de vocês</h2>
     <ul>
-      <li><b>Black Friday até 10/11.</b> Vai ter? Período, produtos, preço normal e preço da Black Friday. É o que deixa o aquecimento de 16/11 sair com preço.</li>
+      <li><b>Black Friday, em duas etapas.</b> Até 30/10: se vai ter e o período, porque o anúncio sai em 02/11. Até 10/11: produtos, preço normal e preço da Black.</li>
+      <li><b>Lista VIP no WhatsApp.</b> Topam? A gente deixa a mensagem pronta.</li>
+      <li><b>Produtos do "Quanto custa".</b> Pra cada arte, a lista de produtos com o preço de cada um, uma semana antes da sexta. A primeira é a caixinha de doce, em 06/11.</li>
       <li><b>O que a loja tem de Natal e Réveillon.</b> Decoração, mesa, embalagem de panetone (caixa, cartucho, lata) e balão número 2027.</li>
       <li><b>Horário dos feriados:</b> 02/11, 20/11, 24 e 25/12, 31/12 e 01/01. Vai pros stories, nunca em arte fixa.</li>
       <li><b>Gravações.</b> Seis Reels com a Taísa, dois com o Max e a retrospectiva com os dois.</li>

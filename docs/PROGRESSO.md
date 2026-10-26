@@ -4,6 +4,18 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-26 (5) — Celmapel: planejamento nov–dez v2 (revisão do PH)
+
+[Plano v2](../clients/celmapel-festas/estrategia/2026-11-a-12-bimestral.md) + [PDF refeito](../clients/celmapel-festas/apresentacoes/2026-10-26-planejamento-nov-dez.pdf). As mudanças:
+- Armazém das Festas nunca citado
+- sem "apostas"
+- novembro 100% BF, com o Natal só no fim do mês
+- post só seg/qua/sex
+- argumento da BF = "direto da indústria", nunca "preço não muda"
+- a loja não monta kit, e entrou o formato "Quanto custa"
+
+As regras novas foram pro PADROES §13–15.
+
 ## 2026-10-26 (4) — Celmapel: planejamento nov–dez em PDF
 
 [PDF de cliente](../clients/celmapel-festas/apresentacoes/2026-10-26-planejamento-nov-dez.pdf) do planejamento, no molde do calendário trimestral da Atlas (Chrome headless, 9 páginas).

@@ -21,7 +21,7 @@ Log completo. O que vale ocupar a reunião está curado em [reuniao-mensal/PAUTA
 7. **OK na bio.** A [v3](conteudo/posts/2026-10-07-perfil-bio-destaques-fixados-v3.md) recomenda a bio **sem** o slogan estendido (variante B tem). Max prefere manter "Aqui sua festa acontece. E o seu negócio também."?
 8. **Troca dos fixados atuais por três carrosséis.** Um dos atuais é com o filho do Max (citado na reunião). **Desafixar não apaga o vídeo.**
 8a. ~~**Pode usar a palavra "atacarejo"?**~~ O **Max usa a palavra** na reunião ("uma loja de varejo e atacado também", "pegada de Atacarejo"). **O que segue em aberto não é a palavra: é a promessa de preço menor pra quem compra mais (#15) e a Celmapel Atacarejo (#29).** A v3 usa "Atacado" + a regra confirmada, não "atacarejo".
-8b. **"A gente monta" vale só pra cesta, ou também pra mesa e lembrancinha?** A v3 fala só de cesta, o único exemplo que o Max deu.
+8b. **"A gente monta" vale só pra cesta, ou também pra mesa e lembrancinha?** A v3 fala só de cesta, o único exemplo que o Max deu. *(26/10, PH: "eles não montam caixas nem kits". Mesa e lembrancinha: não. Falta saber se a cesta é exceção. Até lá, nenhuma peça promete montagem ([PADROES §15](PADROES.md)).)*
 8c. **Formas de pagamento da loja em geral:** o site mostra **Pix, débito, crédito e dinheiro**. ⚠️ Na reunião o Max falou *"cartão de débito, cartão de crédito, no Pix se for uma condição bacana"*: **o Pix tem condição?** (A bio da v3 diz "Pix/cartão".) Confirmar.
 8d. **Fluxo de WhatsApp pra comércio:** quem atende, e se dá pra mandar lista e receber cotação. Até confirmar, a peça só diz "chama no WhatsApp e fala que é pro seu comércio".
 
@@ -34,7 +34,7 @@ Log completo. O que vale ocupar a reunião está curado em [reuniao-mensal/PAUTA
 33. **Entrega e retirada:** o site diz que ambas estão ativas, e o Google mostra entrega só seg–sex 9h–17h. **Área, prazo e valor?** "Retirada em até 3h" (site) vale como promessa pública?
 34. **Ponto de referência e estacionamento.** O Google marca estacionamento acessível; ninguém falou de ponto de referência.
 35. **Horário de feriado.** O Google avisa que o feriado de 12/10 "pode afetar o horário" mas mostra o horário normal; nenhuma fonte traz regra de feriado. Qual a regra da loja (12/10, Finados, Natal, Ano Novo)? Avisar por story, nunca no fixado. **Nota de 07/10:** a [peça de Dia das Crianças](conteudo/posts/2026-10-12-dia-das-criancas-bolo-no-guardanapo.md) não afirma horário; vão perguntar "abre hoje?" nos comentários, então a resposta pronta (e o story de aviso, se a loja abrir) precisa da regra do Max **até sex 09/10**.
-36. **O Max sabe** da **Vivian em São Pedro da Aldeia** (Loja VIII, vizinha de Araruama) e do **Armazém das Festas Araruama** (69,9 mil seguidores, "a maior loja de festas da Região dos Lagos")? Na reunião ele chamou a Vivian de "uma das pioneiras no Rio".
+36. ✅ *Respondida em parte (PH, 26/10): o Armazém é "concorrente mortal" e eles "nem gostam que falem um do outro". Não levar pra reunião e nunca citar ([PADROES §13](PADROES.md)).* **O Max sabe** da **Vivian em São Pedro da Aldeia** (Loja VIII, vizinha de Araruama) e do **Armazém das Festas Araruama** (69,9 mil seguidores, "a maior loja de festas da Região dos Lagos")? Na reunião ele chamou a Vivian de "uma das pioneiras no Rio".
 37. **"Novidade toda semana" vale pra loja toda?** O Max disse que "todo dia tem um novo lançamento" **no setor de confeitaria** e que traz novidade de fora. A bio da v3 e o destaque NOVIDADES assumem uma cadência semanal: é compromisso que ele precisa sustentar. Se não, a frase fica restrita à confeitaria.
 
 
@@ -64,10 +64,12 @@ Log completo. O que vale ocupar a reunião está curado em [reuniao-mensal/PAUTA
 ## 🔴 2026-10-26 — Planejamento de novembro e dezembro (BF, Natal, Réveillon)
 
 [Planejamento](estrategia/2026-11-a-12-bimestral.md) · [pesquisa](referencias/2026-10-26-concorrencia-e-tendencias-nov-dez.md).
-44. 🔴 **Black Friday:** vai ter? Período, produtos, preço cheio e preço de BF. **Precisa chegar até ~10/11** pra o aquecimento de 16/11 ([PADROES §1](PADROES.md)).
+44. 🔴 **Black Friday:** vai ter, e qual o período? **Até 30/10**, porque o anúncio sai em 02/11 (v2). Produtos, preço cheio e preço de BF **até 10/11** ([PADROES §1](PADROES.md)).
+44a. 🟡 **Lista VIP da BF no WhatsApp:** o Max topa? A Lone escreve a mensagem.
+44b. 🟡 **"Quanto custa":** lista de produtos + preço de cada, uma semana antes de cada sexta (06/11, 13/11, 04/12, 18/12).
 45. 🔴 **O que a loja tem de Natal e Réveillon:** decoração, mesa, embalagem de panetone (caixa, cartucho, lata), balão número 2027, itens de "Natal praiano". Trava as sextas de venda e os tours.
 46. 🟡 **Horário de feriado:** 02/11, 20/11, 24 e 25/12, 31/12 e 01/01 (estende o #35).
-47. 🟡 **Personalização faz painel ou balão de Natal e Réveillon?** No Armazém, o Reels de mini painel personalizado fez 8.286 curtidas (estende o #30).
+47. 🟡 **Personalização faz painel ou balão de Natal e Réveillon?** (estende o #30). *Motivação interna em [referencias/](referencias/2026-10-26-concorrencia-e-tendencias-nov-dez.md). Não citar a origem com o cliente ([PADROES §13](PADROES.md)).*
 48. 🟢 **Festival de Fatias de Natal** em dezembro (estende o #31).
 
 ## 🔴 Outubro (campanha do Mês do Aniversário)

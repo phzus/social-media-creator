@@ -38,7 +38,7 @@ O problema central da conta é a percepção "Celmapel = loja de festas".
 
 - O diferencial "marca famosa × alternativa mais em conta" se mostra **com as duas na mão**, e **quem escolhe é o cliente**. 🚫 Sem afirmar que uma é melhor, "igualzinha" ou "mesma coisa".
 - 🚫 Sem nome de concorrente (Vivian Festas é referência interna).
-- 🚫 **Sem comparar o preço da cesta montada com as empresas de cesta.** As duas especializadas da cidade **compram os insumos na Celmapel** (Max, 02/10): atacar o preço delas em público é atacar cliente PJ, justamente o público que a estratégia quer crescer. A cesta entra pelo serviço ("a gente monta com você"), não pelo preço contra alguém.
+- 🚫 **Sem comparar o preço da cesta montada com as empresas de cesta.** As duas especializadas da cidade **compram os insumos na Celmapel** (Max, 02/10): atacar o preço delas em público é atacar cliente PJ, justamente o público que a estratégia quer crescer. A cesta entra pelo serviço, não pelo preço contra alguém. ⚠️ "A gente monta com você" está suspenso até o Max confirmar ([§15](PADROES.md), [#8b](OPEN-QUESTIONS.md)).
 
 ## 6. Marca e imagem de produto
 
@@ -91,9 +91,36 @@ Data é contexto, não assunto. Vale também pra quem produz sob prazo curto.
 - **Feriado dispara "abre hoje?"** nos comentários: ter a resposta pronta, com a regra do Max, antes de publicar.
 - **CTA de peça de data pode ser engajamento** (marcar, responder), já que o horário e a oferta são desconhecidos; resultado se lê por marcação, compartilhamento e visita ao perfil ([§2](PADROES.md)).
 
+## 13. 🔴 Armazém das Festas: nunca citar (BLOQUEANTE)
+
+PH, 26/10: *"não podemos falar de jeito nenhum de Armazém das Festas, eles são concorrentes mortais e nem gostam que falem um do outro."*
+
+- 🚫 Nome, @, dado, print ou "uma loja da região" que aponte pro Armazém **em peça, legenda, PDF, apresentação, pauta de reunião ou mensagem pro cliente**.
+- Dado do Armazém fica **só em pesquisa interna** ([referencias/](referencias/)) e nunca é a justificativa escrita de uma ideia que vai pro Max.
+- Vivian segue como referência que o Max mesmo citou. Em peça pública, nenhum concorrente é citado ([§5](PADROES.md)).
+
+## 14. Black Friday: o argumento é a indústria, nunca "o preço não muda"
+
+PH, 26/10: falar que o preço não muda ao longo do ano **acaba com a escassez e ainda diz que o preço da Black é mentira**.
+
+- ✅ O argumento é: *a Celmapel negocia direto com a indústria, consegue preço extremamente baixo, e por isso essa Black tá tão barata.*
+- 🚫 "O preço não muda", "o mesmo preço do ano todo", "aqui não tem Black Fraude porque o preço é sempre esse".
+- O [§1](PADROES.md) (preço fixo por um mês) continua valendo **por dentro**, como regra de operação, e não vira copy.
+
+## 15. A loja não monta caixa nem kit → formato "Quanto custa"
+
+PH, 26/10: *"Eles não montam caixas nem kits."*
+
+- 🚫 "Kit pronto", "a gente monta", "caixa montada", "kit de Réveillon" como produto da loja.
+- ✅ **"Quanto custa"** (no molde de "quanto custa o outfit"): a arte lista os produtos da loja que formam uma caixa, festa ou mesa, **com o preço de cada um e o total**, e fecha em "Venha montar a sua!". Exemplo do PH: *Caixa de Dia dos Namorados: laço R$ 2 · caixa R$ 15 · bala de gelatina R$ 90 · … · R$ 290 o seu kit. Venha agora e monte o melhor.*
+- Cada preço vem do Max ([§1](PADROES.md)), e o total é a soma exata dos itens. Sem marca no nome do item ([§6](PADROES.md)), mesmo que o exemplo do PH tenha marca.
+- ⚠️ Conflito a confirmar: o §5 e o context falam em "a gente monta com você" pra cesta ([OPEN-QUESTIONS #8b](OPEN-QUESTIONS.md)). Até o Max confirmar, nenhuma peça promete montagem.
+
 ---
 
 ## Histórico
+
+- **2026-10-26 (v1.3)** — novos §13 (Armazém nunca citado), §14 (argumento da BF) e §15 ("Quanto custa", a loja não monta kit), da revisão do PH no planejamento nov–dez.
 
 - **2026-10-07 (v1.2)** — novo §12 (peça de data comemorativa), a partir da peça de Dia das Crianças de 12/10.
 - **2026-10-07 (v1.1)** — §4 ganha "a palavra × a promessa" (Celmapel Atacarejo); §9 ganha carrossel fixado; novos §10 (fonte de dado operacional) e §11 (mensagem de WhatsApp). Vêm da pesquisa de presença pública e do benchmark.

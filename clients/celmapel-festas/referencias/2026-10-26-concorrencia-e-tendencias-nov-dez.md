@@ -1,5 +1,7 @@
 # Pesquisa — Concorrência no Instagram e tendências de novembro e dezembro (26/10/2026)
 
+> 🔴 **Uso interno.** O Armazém das Festas **nunca** é citado com o cliente nem em peça (PH, 26/10, [PADROES §13](../PADROES.md)). E a v2 do plano trocou o argumento da BF "que não muda de preço" por "direto da indústria" ([§14](../PADROES.md)).
+
 **Pra que serve:** base do [planejamento de novembro e dezembro](../estrategia/2026-11-a-12-bimestral.md). Pedido do PH em 26/10: analisar as trends e, principalmente, a Vivian Festas, que já está fazendo conteúdo de Natal.
 
 **Método:**

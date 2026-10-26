@@ -4,6 +4,17 @@ Log datado do trabalho feito pra Celmapel. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-10-26 (3) — Planejamento nov–dez v2 (revisão do PH) + PDF refeito
+
+O PH revisou o PDF. [Plano v2](estrategia/2026-11-a-12-bimestral.md) e [PDF](apresentacoes/2026-10-26-planejamento-nov-dez.pdf) refeitos (9 páginas):
+- 🔴 **Armazém das Festas fora** ("concorrentes mortais, nem gostam que falem um do outro"). Virou o [PADROES §13](PADROES.md), e a PAUTA e o OPEN-QUESTIONS #36/#47 foram ajustados.
+- **Sem a seção de "apostas".**
+- **Novembro 100% Black Friday:** anúncio da data em 02/11 → "por que tá tão barata" (Max, 11/11) → contagem → BF. O Natal só entra no fim do mês, e o feed de Natal abre em 30/11.
+- **Post só seg/qua/sex.** A peça de terça 03/11 voltou pra segunda.
+- **Argumento da BF:** "direto com a indústria, preço extremamente baixo". O "preço que não muda" saiu, porque mata a escassez e sugere que a Black é mentira ([PADROES §14](PADROES.md)).
+- **A loja não monta caixa nem kit.** Entrou o formato **"Quanto custa"** (itens + preço de cada um + total, "venha montar a sua") em 06/11, 13/11, 04/12 e 18/12 ([PADROES §15](PADROES.md)). "A gente monta com você" ficou suspenso (#8b).
+- **No PDF:** o bloco do Armazém e a menção à avaliação do Google saíram, e entraram a lista VIP no WhatsApp e os prazos da BF em duas etapas (até 30/10 e até 10/11).
+
 ## 2026-10-26 (2) — Planejamento nov–dez em PDF pro cliente
 
 PH pediu o PDF "como no da Atlas". [HTML](apresentacoes/2026-10-26-planejamento-nov-dez.html) + [PDF](apresentacoes/2026-10-26-planejamento-nov-dez.pdf) (9 páginas, A4, Chrome headless), no molde do calendário trimestral da Atlas: logo da Lone, legenda dos dias, o que vimos em Vivian/Armazém/Celmapel, as três apostas, as semanas de novembro e dezembro, ideias pra conversar e o que precisa de vocês. Versão de cliente: sem referência a PADROES nem nota interna, e "ⓔ" virou a etiqueta "Além da festa".

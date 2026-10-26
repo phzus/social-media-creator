@@ -35,7 +35,7 @@
 - **Taísa / consumidor:** achadinho, intimista, "olha o que eu achei", pouca edição, como amiga mostrando promoção. Humor espontâneo vale (coco ralado com gôndola vazia).
 - **Max / PJ:** dono falando com dono de comércio — direto, racional, prático (pagamento, nota, volume, facilidade). É aqui que mora a **autoridade** que o cliente pede.
 
-✅ Serve: pessoa real, fala natural, produto na mão, preço com validade, novidade, "a gente monta com você", duas opções de preço.
+✅ Serve: pessoa real, fala natural, produto na mão, preço com validade, novidade, duas opções de preço, "Quanto custa" (itens + preço de cada + total). ⚠️ "A gente monta com você" suspenso: PH, 26/10, *"eles não montam caixas nem kits"* ([PADROES §15](PADROES.md)).
 🚫 Não serve: pegadinha que simula crime/emergência; feed inteiro de encarte; comunicação que só fala de festa; preço sem validade.
 
 ## Pilares (hipótese do Briefing Estratégico, ajustar por dado)
@@ -68,6 +68,7 @@ Além da **Celmapel Festas** (Rua Iza Domingues Eurico, 162, Centro) existe a **
 
 ## Concorrência local (não estava no radar)
 
+- 🔴 **Armazém das Festas: nunca citar em peça nem em nada que vá pro cliente** (PH, 26/10: "concorrentes mortais, nem gostam que falem um do outro"; [PADROES §13](PADROES.md)). Dado só em pesquisa interna.
 - **Armazém das Festas Araruama** (@armazemdasfestasararuama): 69,9 mil seguidores, "a maior loja de festas da Região dos Lagos", Rod. Amaral Peixoto. Não disputar "a maior".
 - **Vivian Festas:** 11 lojas, **Loja VIII em São Pedro da Aldeia** (vizinha de Araruama). Max a chamou de referência de outro mercado ("pioneira no Rio"); ela também é concorrente na região. [Benchmark verificado](referencias/2026-10-07-benchmark-vivian-festas.md). **(26/10)** Já está no Natal desde 22/10, tem evento de confeitaria pago em 17/11 ("Natal Experience") e o post que mais engaja é a fundadora contando a história ([grade de 26/10](referencias/2026-10-26-concorrencia-e-tendencias-nov-dez.md)).
 - **Armazém (26/10):** o vídeo de mini painel personalizado fez 8.286 curtidas, o maior número da região. O Natal dele começou em 23/10, em estático de produto.
