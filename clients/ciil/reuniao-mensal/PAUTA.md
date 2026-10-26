@@ -47,7 +47,7 @@ Base nova desta pauta: [análise do Instagram de 15/10](../referencias/2026-10-1
 
 - [x] ~~Convênio novo: conferir o nome~~ → **OMINT**. [Peça de sexta 16/10](../conteudo/posts/2026-10-16-novo-convenio-omint.md) escrita (feed + 9:16), com o update do carrossel e do destaque. Falta: brief ao designer hoje.
 - [ ] **Post de vacinação infantil** (Araruama), quando chegar a lista de vacinas.
-- [ ] **Data da filmagem** (Carlos), de seg a qui a partir das 14h.
+- [ ] **Data da filmagem** (Carlos), de seg a qui a partir das 14h. Roteiro pronto pra ela: [consultas, Doctoralia + WhatsApp](../conteudo/roteiros/2026-10-26-consultas-doctoralia-whatsapp.md). ⚠️ Os roteiros de 22/07 e 12/08 **não vão pro set** sem reescrita (claim de imunologia).
 
 - [ ] **Item 0** antes da reunião.
 - [x] Ajustar o selo da peça de 19/10 pra **06 de 10** antes do brief ao designer (feito 19/10).

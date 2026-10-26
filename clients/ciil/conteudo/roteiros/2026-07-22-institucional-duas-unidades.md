@@ -1,5 +1,7 @@
 # Roteiro — Institucional: a CIIL perto de você (Araruama e São Gonçalo)
 
+> 🔴 **NÃO GRAVAR COMO ESTÁ (marcado em 2026-10-26).** Este roteiro é anterior à correção de 21/08 e afirma "avaliação/consulta em imunologia" (fala, texto na tela e `#Imunologia`). **A CIIL não tem imunologista** ([PADROES](../../PADROES.md)). Antes de levar pra filmagem, reescrever esses trechos pro tratamento e pras especialidades da casa (dermato, reumato, pediatria). Também assume só infusão, e o tratamento pode ser subcutâneo (regra de 26/08).
+
 **Cliente:** ciil · **Data:** 2026-07-22 (Quarta — slot de Reel da semana) · **Plataforma:** Reels (IG) + cross-post FB · **Pilar:** Venda / Autoridade (institucional) · **Tipo (mix Lone):** Venda + Posicionamento · **Duração alvo:** 35-45s · **Quem grava:** o mesmo apresentador (enfermeiro/técnico de scrub CIIL) dos vídeos institucionais já gravados.
 
 > **Ocupa o slot de Qua 22/07** (decisão PH, 2026-07-21), no lugar do Reel de autoridade "Frio e quem trata com biológico" que estava planejado. Aquele tema fica parkeado pra uma quarta futura.

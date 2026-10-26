@@ -4,6 +4,20 @@ Log datado do trabalho feito pra CIIL. Topo = mais recente. Entrada por bloco de
 
 ---
 
+## 2026-10-26 (2) — Roteiro de Reels: consultas (Doctoralia + WhatsApp), pra filmagem
+
+PH pediu "roteiro pra ciil" logo depois do pedido do Dr. Felipe. [Roteiro](conteudo/roteiros/2026-10-26-consultas-doctoralia-whatsapp.md): formato institucional validado (enfermeiro + B-roll), ~37s. É o par em vídeo do estático de 30/10. Gancho hiperlocal: *"Você de Araruama ou de São Gonçalo tá precisando marcar consulta?"*. CTA: Doctoralia ou WhatsApp da unidade. Sai na primeira quarta depois da filmagem que o Carlos está marcando.
+
+**Validador-copy:** rodado sem confiar na Checagem. 4 bloqueantes corrigidos:
+- a fala tinha ~50s e caiu pra ~37s
+- o enfermeiro aparecia explicando diagnóstico, e agora é "quem avalia é o médico"
+- a tela final ganhou espaço reservado pro diretor técnico
+- o gancho não amarra mais a pediatria às duas cidades
+
+**Achado:** os roteiros institucionais de [22/07](conteudo/roteiros/2026-07-22-institucional-duas-unidades.md) e [12/08](conteudo/roteiros/2026-08-12-institucional-anos-sem-resposta.md), que estavam "prontos pra fila de produção", ainda afirmam consulta/avaliação em imunologia (anteriores à correção de 21/08) e assumem só infusão. Ganharam aviso "não gravar como está". Com a filmagem sendo marcada, eles não podem ir pro set assim.
+
+---
+
 ## 2026-10-26 — Post de sexta 30/10: "Consultas na CIIL!" (Doctoralia + WhatsApp)
 
 **Origem:** pedido do Dr. Felipe, via equipe de SG no grupo ([referência](referencias/2026-10-26-pedido-divulgacao-consultas-doctoralia.md)). A clínica quer divulgar consultas e mandar o paciente tanto pro Doctoralia quanto pros WhatsApps.

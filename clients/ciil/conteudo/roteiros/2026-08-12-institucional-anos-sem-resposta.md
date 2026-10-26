@@ -1,5 +1,7 @@
 # Roteiro — Ninguém devia levar anos até ouvir um nome pro que sente
 
+> 🔴 **NÃO GRAVAR COMO ESTÁ (marcado em 2026-10-26).** Este roteiro é anterior à correção de 21/08 e afirma "avaliação/consulta em imunologia" (fala, texto na tela e `#Imunologia`). **A CIIL não tem imunologista** ([PADROES](../../PADROES.md)). Antes de levar pra filmagem, reescrever esses trechos pro tratamento e pras especialidades da casa (dermato, reumato, pediatria). Também assume só infusão, e o tratamento pode ser subcutâneo (regra de 26/08).
+
 **Cliente:** ciil · **Data:** 2026-08-12 (Quarta — slot de Reel) · **Plataforma:** Reels (IG) + cross-post FB · **Pilar:** Emocional/Autoridade (institucional) · **Tipo (mix Lone):** Emocional + Posicionamento · **Duração alvo:** 35-45s · **Quem grava:** o mesmo apresentador (enfermeiro/técnico de scrub CIIL) dos vídeos institucionais já gravados.
 
 > **Contexto:** CIIL sem estratégia de agosto fechada ([OQ #2](../../OPEN-QUESTIONS.md)). Quarta é o slot estrutural de vídeo (padrão Lone). Escolhido o **formato institucional publicitário validado** (apresentador + B-roll + "se sentir bem", [PADROES.md](../../PADROES.md)) — não depende do gate de escopo por doença, que segue travando Espondilite Anquilosante e Artrite Psoriática desde 13/07. Também completa o mix da semana com o pilar **Emocional**, que a peça de segunda (educativo) e a de sexta (venda) não cobrem.

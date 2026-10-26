@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-26 (2) — CIIL: roteiro de Reels de consultas + roteiros antigos travados
+
+[Roteiro](../clients/ciil/conteudo/roteiros/2026-10-26-consultas-doctoralia-whatsapp.md) pra filmagem da CIIL (enfermeiro + B-roll, ~37s), par do estático de 30/10. Validado (4 bloqueantes corrigidos). Os roteiros de 22/07 e 12/08 ainda tinham o claim falso de imunologia e ganharam aviso de "não gravar como está".
+
+---
+
 ## 2026-10-26 — CIIL: post de consultas (Doctoralia + WhatsApp)
 
 A equipe de São Gonçalo repassou um pedido do Dr. Felipe: divulgar as consultas, mandando pro Doctoralia e pros WhatsApps das unidades. [Peça de sexta 30/10](../clients/ciil/conteudo/posts/2026-10-30-consultas-na-ciil-doctoralia-whatsapp.md): anúncio direto "CONSULTAS NA CIIL!" + dermatologia, reumatologia e pediatria + dois caminhos de agendamento. O perfil da clínica no Doctoralia foi conferido ([referência](../clients/ciil/referencias/2026-10-26-pedido-divulgacao-consultas-doctoralia.md)): lista nutrologia e clínico geral, que não estão na lista da dona, e ficaram fora da peça. Validador-copy: 2 bloqueantes corrigidos (headline com superioridade, identificação regulatória subiu pro topo). 🔴 RT: diretor técnico/CRM/RQE na arte.
