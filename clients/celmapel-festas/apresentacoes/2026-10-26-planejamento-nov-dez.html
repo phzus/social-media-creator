@@ -1,0 +1,738 @@
+<title>Celmapel Nov–Dez</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700;800&family=Source+Sans+3:wght@400;600;700&family=JetBrains+Mono:wght@500;700&display=swap">
+<style>
+  :root {
+    --paper: #f4f6fa;
+    --card: #ffffff;
+    --ink: #0d1626;
+    --ink-soft: #45516b;
+    --muted: #7b869c;
+    --blue: #1233f5;
+    --blue-deep: #0a1f9c;
+    --blue-wash: #e7ebff;
+    --line: #dfe4ee;
+    --line-strong: #c6cee0;
+    --flag: #b3540a;
+    --flag-wash: #fdf0e2;
+    --done: #1f7a52;
+    --done-wash: #e4f4ec;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "Source Sans 3", -apple-system, "Segoe UI", system-ui, sans-serif;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .page { max-width: 940px; margin: 0 auto; padding: 3rem 1.25rem 4.5rem; }
+
+  .mono {
+    font-family: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, monospace;
+    font-variant-numeric: tabular-nums;
+    letter-spacing: -0.02em;
+  }
+
+  h1, h2, h3, .stamp strong, .fmt, .date-chip, .eyebrow, .key b, .when .dow, .bet b, .seen b {
+    font-family: "Archivo", "Helvetica Neue", Arial, sans-serif;
+  }
+
+  /* ---------- masthead ---------- */
+  .masthead {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 2rem;
+    flex-wrap: wrap;
+  }
+  .logo { width: 168px; max-width: 45vw; height: auto; display: block; }
+  .stamp { text-align: right; font-size: 0.7rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--muted); }
+  .stamp strong { display: block; color: var(--ink); letter-spacing: 0.06em; font-size: 0.82rem; }
+
+  .eyebrow {
+    font-size: 0.7rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--blue);
+    font-weight: 700;
+    margin: 2.8rem 0 0.6rem;
+  }
+
+  h1 {
+    font-size: clamp(2.2rem, 6vw, 3.4rem);
+    text-wrap: balance;
+    line-height: 1.02;
+    letter-spacing: -0.02em;
+    margin: 0;
+    font-weight: 800;
+  }
+  h1 span { color: var(--blue); }
+
+  .lede { max-width: 46rem; color: var(--ink-soft); margin: 1rem 0 0; font-size: 1.02rem; }
+
+  /* ---------- key ---------- */
+  .key {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 0.75rem;
+    margin: 2rem 0 0;
+    padding: 1.1rem 1.2rem;
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 14px;
+  }
+  .key div { font-size: 0.9rem; color: var(--ink-soft); }
+  .key b { display: block; font-size: 0.68rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--muted); margin-bottom: 0.15rem; }
+
+  .note {
+    margin: 1.1rem 0 0;
+    font-size: 0.88rem;
+    color: var(--ink-soft);
+    border-left: 3px solid var(--blue);
+    padding: 0.1rem 0 0.1rem 0.9rem;
+    max-width: 44rem;
+  }
+
+  /* ---------- o que vimos / apostas ---------- */
+  .block { margin-top: 3rem; }
+  .block-head {
+    padding-bottom: 0.7rem;
+    border-bottom: 2px solid var(--ink);
+  }
+  .block-head h2 {
+    margin: 0;
+    font-size: clamp(1.3rem, 3.4vw, 1.7rem);
+    letter-spacing: -0.015em;
+    font-weight: 800;
+  }
+  .seen {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 0.75rem;
+    margin-top: 1.1rem;
+  }
+  .seen div {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    padding: 1rem 1.1rem;
+    font-size: 0.9rem;
+    color: var(--ink-soft);
+  }
+  .seen b { display: block; color: var(--ink); font-size: 0.95rem; margin-bottom: 0.15rem; }
+  .seen .big {
+    display: block;
+    font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+    font-variant-numeric: tabular-nums;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--blue);
+    letter-spacing: -0.03em;
+    margin: 0.35rem 0 0.1rem;
+  }
+  .seen .big small { font-size: 0.72rem; font-weight: 500; color: var(--muted); letter-spacing: 0.04em; }
+  .source { margin: 0.7rem 0 0; font-size: 0.78rem; color: var(--muted); }
+
+  .bets { margin: 1.1rem 0 0; padding: 0; list-style: none; counter-reset: bet; }
+  .bet {
+    counter-increment: bet;
+    display: grid;
+    grid-template-columns: 2.4rem 1fr;
+    gap: 0.6rem;
+    padding: 0.9rem 0;
+    border-bottom: 1px solid var(--line);
+    font-size: 0.93rem;
+    color: var(--ink-soft);
+  }
+  .bet:last-child { border-bottom: 0; }
+  .bet::before {
+    content: counter(bet, decimal-leading-zero);
+    font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+    font-weight: 700;
+    color: var(--blue);
+    font-size: 0.95rem;
+    padding-top: 0.1rem;
+  }
+  .bet b { display: block; color: var(--ink); font-size: 1rem; margin-bottom: 0.1rem; }
+
+  /* ---------- month ---------- */
+  .month { margin-top: 3.4rem; }
+  .month-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+    padding-bottom: 0.7rem;
+    border-bottom: 2px solid var(--ink);
+  }
+  .month-head h2 {
+    margin: 0;
+    font-size: clamp(1.5rem, 4vw, 2.1rem);
+    letter-spacing: -0.015em;
+    font-weight: 800;
+  }
+  .month-why { margin: 0.9rem 0 0; color: var(--ink-soft); font-size: 0.95rem; max-width: 46rem; }
+
+  .dates { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 1rem 0 1.4rem; }
+  .date-chip {
+    font-size: 0.75rem;
+    padding: 0.28rem 0.6rem;
+    border-radius: 999px;
+    background: var(--blue-wash);
+    color: var(--blue-deep);
+    font-weight: 600;
+  }
+  .date-chip.warn { background: var(--flag-wash); color: var(--flag); }
+
+  /* ---------- rows ---------- */
+  .row {
+    display: grid;
+    grid-template-columns: 88px 1fr auto;
+    gap: 1rem;
+    align-items: start;
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    padding: 0.95rem 1.1rem;
+    margin-bottom: 0.55rem;
+    break-inside: avoid;
+  }
+  .row.star { border-color: var(--blue); box-shadow: inset 3px 0 0 var(--blue); }
+
+  .when { line-height: 1.25; }
+  .when .dow { display: block; font-size: 0.66rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--blue); font-weight: 700; }
+  .when .num { font-size: 1.15rem; font-weight: 700; }
+
+  .what h3 { text-wrap: balance; margin: 0 0 0.2rem; font-size: 1.02rem; line-height: 1.3; font-weight: 700; }
+  .what p { margin: 0; font-size: 0.9rem; color: var(--ink-soft); }
+  .what .flagline { display: block; margin-top: 0.35rem; font-size: 0.8rem; color: var(--flag); font-weight: 600; }
+  .what .extraline { display: block; margin-top: 0.35rem; font-size: 0.8rem; color: var(--done); font-weight: 600; }
+
+  .fmt {
+    font-size: 0.72rem;
+    letter-spacing: 0.04em;
+    padding: 0.3rem 0.65rem;
+    border-radius: 999px;
+    border: 1px solid var(--line-strong);
+    color: var(--ink-soft);
+    white-space: nowrap;
+    background: var(--paper);
+  }
+  .fmt.video { background: var(--blue); border-color: var(--blue); color: #fff; font-weight: 600; }
+  .fmt.sell { background: var(--done-wash); border-color: #9fd2ba; color: var(--done); font-weight: 600; }
+
+  /* ---------- faixa de semana ---------- */
+  .week { margin-top: 1.9rem; }
+  .week-band {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.8rem;
+    flex-wrap: wrap;
+    padding: 0.45rem 0.2rem 0.5rem;
+    border-bottom: 1px solid var(--line-strong);
+    margin-bottom: 0.7rem;
+  }
+  .week-when {
+    font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+    font-size: 0.76rem;
+    letter-spacing: 0.02em;
+    color: var(--muted);
+    font-variant-numeric: tabular-nums;
+  }
+  .ramo {
+    font-family: "Archivo", Arial, sans-serif;
+    font-size: 0.82rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: var(--blue-deep);
+  }
+  .ramo.peak { color: var(--flag); }
+  .week-note { font-size: 0.82rem; color: var(--muted); }
+
+  /* ---------- closing ---------- */
+  .closing {
+    margin-top: 3.4rem;
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    padding: 1.6rem 1.5rem;
+  }
+  .closing + .closing { margin-top: 1rem; }
+  .closing h2 { margin: 0 0 0.8rem; font-size: 1.25rem; }
+  .closing ul { margin: 0; padding-left: 1.1rem; color: var(--ink-soft); }
+  .closing li { margin-bottom: 0.5rem; }
+  .closing li b { color: var(--ink); }
+
+  footer {
+    margin-top: 3rem;
+    padding-top: 1.2rem;
+    border-top: 1px solid var(--line-strong);
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+    font-size: 0.75rem;
+    color: var(--muted);
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+
+  @media (max-width: 620px) {
+    .row { grid-template-columns: 70px 1fr; }
+    .fmt { grid-column: 2; justify-self: start; margin-top: 0.4rem; }
+  }
+
+  @media print {
+    @page { size: A4; margin: 14mm 12mm; }
+
+    body {
+      background: #fff;
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+    .page { padding: 0; max-width: none; }
+
+    /* colunas fixas: os três perfis lado a lado, a legenda numa linha só */
+    .key { grid-template-columns: repeat(4, 1fr); }
+    .seen { grid-template-columns: repeat(3, 1fr); }
+    .seen { break-inside: avoid; page-break-inside: avoid; }
+
+    /* cada mês abre numa página nova */
+    .month { break-before: page; page-break-before: always; }
+
+    /* nada de card partido no meio */
+    .row, .week, .key, .closing, .week-band, .seen div, .bet {
+      break-inside: avoid;
+      page-break-inside: avoid;
+    }
+
+    /* rótulo nunca fica sozinho no pé da página */
+    .week-band, .month-head, .month-why, .dates, .block-head, h1, h2, h3 {
+      break-after: avoid;
+      page-break-after: avoid;
+    }
+
+    p, li { orphans: 2; widows: 2; }
+
+    /* etiquetas legíveis mesmo se o navegador não imprimir fundo */
+    .fmt.video { background: #fff; color: var(--blue); border-color: var(--blue); }
+    .fmt.sell { background: #fff; color: var(--done); border-color: var(--done); }
+    .row.star { box-shadow: none; border-left: 3px solid var(--blue); }
+    .date-chip { border: 1px solid var(--line-strong); }
+  }
+</style>
+
+<div class="page">
+
+  <div class="masthead">
+    <img class="logo" src="data:image/png;base64,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" alt="Lone Mídia">
+    <div class="stamp">
+      Preparado para
+      <strong>Celmapel Festas</strong>
+      Emissão · outubro/2026
+    </div>
+  </div>
+
+  <p class="eyebrow">Planejamento · Bimestre</p>
+  <h1>Novembro <span>→</span> Dezembro<br>2026</h1>
+  <p class="lede">São 27 publicações em nove semanas, na estrutura de sempre: segunda, quarta e sexta. <strong>Novembro gira em torno da Black Friday, e dezembro em torno do Natal e da virada do ano.</strong> Cada semana fecha em uma frente só, e a função de cada dia muda: segunda apresenta, quarta mostra e sexta vende.</p>
+
+  <div class="key">
+    <div><b>Segunda</b>Post estático</div>
+    <div><b>Quarta</b>Reels com a Taísa ou o Max</div>
+    <div><b>Sexta</b>Venda, com preço</div>
+    <div><b>Semana</b>Uma frente, em três funções</div>
+  </div>
+
+  <p class="note">Toda semana tem uma peça além da festa, pra confeitaria, embalagem ou revenda, marcada abaixo como <strong>além da festa</strong>. O que está fechado aqui é a semana e a data. O tema de cada peça ainda passa pela conversa do mês, e toda peça com preço depende da tabela que vocês mandarem.</p>
+
+  <section class="block">
+    <div class="block-head"><h2>O que a gente viu antes de planejar</h2></div>
+    <div class="seen">
+      <div>
+        <b>Vivian Festas</b>
+        Está no Natal desde 22/10: são 10 dos 12 posts mais recentes, com tour de corredor, produto com preço e um evento pago de confeitaria em 17/11. Nenhum fala de Black Friday ainda. O que mais engajou foi a fundadora contando a história da loja.
+        <span class="big">2.434 <small>curtidas · o dobro do 2º post</small></span>
+      </div>
+      <div>
+        <b>Armazém das Festas</b>
+        O vídeo de mini painel personalizado é o post mais curtido das três lojas. O Natal começou em 23/10, em post estático de produto, que fica entre 4 e 39 curtidas.
+        <span class="big">8.286 <small>curtidas · personalização</small></span>
+      </div>
+      <div>
+        <b>Celmapel</b>
+        O que mais engaja são vocês dois, a família e o Festival de Fatias. As edições de outubro do Festival ficaram entre 163 e 198 curtidas, e os tutoriais, abaixo de 25.
+        <span class="big">471 <small>curtidas · Max e Taísa no aniversário</small></span>
+      </div>
+    </div>
+    <p class="source">Vivian e Armazém: os 12 posts mais recentes de cada perfil, lidos em 26/10/2026. Celmapel: grade pública lida em 07 e 26/10. Só curtidas públicas. Visualização de Reels não aparece pra quem está de fora.</p>
+  </section>
+
+  <section class="block">
+    <div class="block-head"><h2>As três apostas do bimestre</h2></div>
+    <ol class="bets">
+      <li class="bet"><div><b>O Natal de quem vende</b>A confeiteira e a revendedora que fazem renda extra no fim do ano compram insumo e embalagem já em novembro. A Vivian só fala com esse público pelo evento pago. A Celmapel já tem a comunidade do Festival de Fatias e o Max, que conversa de dono pra dono. É por isso que o bimestre abre aqui.</div></li>
+      <li class="bet"><div><b>A Black Friday com preço que não muda até o fim</b>O preço da casa é negociado com a indústria e fica fixo. Numa época em que todo mundo desconfia de desconto, o Max mostrando como isso funciona por dentro vira o argumento da campanha.</div></li>
+      <li class="bet"><div><b>Vocês na frente da câmera</b>Nas três lojas, gente engaja mais que produto. Os Reels do bimestre são da Taísa e do Max, e o ano fecha com a retrospectiva contada pelos dois.</div></li>
+    </ol>
+  </section>
+
+  <section class="month">
+    <div class="month-head">
+      <h2>Novembro</h2>
+    </div>
+    <p class="month-why">As duas primeiras semanas colocam o Natal no feed, começando por quem vende. A partir de 16/11, a Black Friday assume, com aquecimento, a explicação do Max e o pico na sexta 27.</p>
+    <div class="dates">
+      <span class="date-chip warn">02/11 · Finados (sem post)</span>
+      <span class="date-chip warn">20/11 · Consciência Negra (feriado)</span>
+      <span class="date-chip">27/11 · Black Friday</span>
+      <span class="date-chip">30/11 · Cyber Monday e 1ª parcela do 13º</span>
+    </div>
+
+  <div class="week">
+    <div class="week-band">
+      <span class="ramo">O Natal de quem vende</span>
+      <span class="week-note">segunda é Finados: a semana abre na terça</span>
+      <span class="week-when">03 → 06 nov</span>
+    </div>
+    <div class="row">
+      <div class="when"><span class="dow">Ter</span><span class="num mono">03/11</span></div>
+      <div class="what">
+        <h3>O que a confeiteira precisa ter antes de abrir encomenda de Natal</h3>
+        <p>Insumo e embalagem (caixa, cartucho, forminha, fita) pra quem vende no fim do ano.</p>
+        <span class="extraline">Além da festa</span>
+      </div>
+      <span class="fmt">estático</span>
+    </div>
+    <div class="row star">
+      <div class="when"><span class="dow">Qua</span><span class="num mono">04/11</span></div>
+      <div class="what">
+        <h3>"Vai vender panetone em dezembro? Separa isso aqui."</h3>
+        <p>O Max mostra na mão o que a loja tem pra quem vende.</p>
+      </div>
+      <span class="fmt video">reels · Max</span>
+    </div>
+    <div class="row">
+      <div class="when"><span class="dow">Sex</span><span class="num mono">06/11</span></div>
+      <div class="what">
+        <h3>Especial Revendedor de Natal</h3>
+        <p>Insumo e embalagem organizados por uso, com preço e validade.</p>
+        <span class="flagline">Depende da tabela de vocês</span>
+      </div>
+      <span class="fmt sell">venda</span>
+    </div>
+  </div>
+
+  <div class="week">
+    <div class="week-band">
+      <span class="ramo">O Natal chegou na Celmapel</span>
+      <span class="week-note">o Natal entra no feed na primeira quinzena</span>
+      <span class="week-when">09 → 13 nov</span>
+    </div>
+    <div class="row">
+      <div class="when"><span class="dow">Seg</span><span class="num mono">09/11</span></div>
+      <div class="what">
+        <h3>O NATAL CHEGOU NA CELMAPEL!</h3>
+        <p>Anúncio direto do que tem pra decorar e pra mesa.</p>
+      </div>
+      <span class="fmt">estático</span>
+    </div>
+    <div class="row">
+      <div class="when"><span class="dow">Qua</span><span class="num mono">11/11</span></div>
+      <div class="what">
+        <h3>Tour de Natal da loja</h3>
+        <p>A Taísa mostra os achados de Natal e abre com "Você de Araruama já começou o Natal?".</p>
+      </div>
+      <span class="fmt video">reels · Taísa</span>
+    </div>
+    <div class="row">
+      <div class="when"><span class="dow">Sex</span><span class="num mono">13/11</span></div>
+      <div class="what">
+        <h3>Decoração e mesa de Natal com preço</h3>
+        <p>Se a loja tiver os itens, abre espaço pro Natal com cara de praia, que combina com a Região dos Lagos.</p>
+      </div>
+      <span class="fmt sell">venda</span>
+    </div>
+  </div>
+
+  <div class="week">
+    <div class="week-band">
+      <span class="ramo">Black Friday · aquecimento</span>
+      <span class="week-note">sexta é feriado da Consciência Negra</span>
+      <span class="week-when">16 → 20 nov</span>
+    </div>
+    <div class="row">
+      <div class="when"><span class="dow">Seg</span><span class="num mono">16/11</span></div>
+      <div class="what">
+        <h3>VEM AÍ A BLACK FRIDAY CELMAPEL!</h3>
+        <p>Período e categorias, e a lista de espera no WhatsApp começa aqui.</p>
+      </div>
+      <span class="fmt">estático</span>
+    </div>
+    <div class="row star">
+      <div class="when"><span class="dow">Qua</span><span class="num mono">18/11</span></div>
+      <div class="what">
+        <h3>Por que o preço da nossa Black Friday não muda até o fim</h3>
+        <p>O Max conta como o preço é negociado com a indústria.</p>
+      </div>
+      <span class="fmt video">reels · Max</span>
+    </div>
+    <div class="row">
+      <div class="when"><span class="dow">Sex</span><span class="num mono">20/11</span></div>
+      <div class="what">
+        <h3>A lista do revendedor na Black Friday</h3>
+        <p>Embalagem e descartável pra quem vende.</p>
+        <span class="extraline">Além da festa</span>
+        <span class="flagline">Feriado: confirmar se a loja abre</span>
+      </div>
+      <span class="fmt sell">venda</span>
+    </div>
+  </div>
+
+  <div class="week">
+    <div class="week-band">
+      <span class="ramo peak">Black Friday</span>
+      <span class="week-note">a semana mais forte do bimestre</span>
+      <span class="week-when">23 → 27 nov</span>
+    </div>
+    <div class="row star">
+      <div class="when"><span class="dow">Seg</span><span class="num mono">23/11</span></div>
+      <div class="what">
+        <h3>A Black Friday da Celmapel, uma página pra cada uso</h3>
+        <p>Festa, confeitaria, embalagem e revenda, um slide cada, com preço.</p>
+      </div>
+      <span class="fmt">carrossel</span>
+    </div>
+    <div class="row">
+      <div class="when"><span class="dow">Qua</span><span class="num mono">25/11</span></div>
+      <div class="what">
+        <h3>Achadinho de Black Friday</h3>
+        <p>A Taísa com um item na mão, com preço e validade.</p>
+      </div>
+      <span class="fmt video">reels · Taísa</span>
+    </div>
+    <div class="row star">
+      <div class="when"><span class="dow">Sex</span><span class="num mono">27/11</span></div>
+      <div class="what">
+        <h3>É HOJE: BLACK FRIDAY CELMAPEL!</h3>
+        <p>Anúncio direto no dia. Se a Black Friday for até 30/11, o último dia vai pros stories.</p>
+      </div>
+      <span class="fmt sell">venda</span>
+    </div>
+  </div>
+
+  </section>
+
+  <section class="month">
+    <div class="month-head">
+      <h2>Dezembro</h2>
+    </div>
+    <p class="month-why">O mês anda na ordem em que o cliente compra: a mesa, o presente, o Réveillon e o que faltou pra ceia. As duas parcelas do 13º caem em semanas de venda, e Natal e Ano Novo ganham homenagem da casa, sem oferta.</p>
+    <div class="dates">
+      <span class="date-chip">18/12 · 2ª parcela do 13º</span>
+      <span class="date-chip">24 e 25/12 · Véspera e Natal</span>
+      <span class="date-chip">31/12 e 01/01 · Réveillon e Ano Novo</span>
+      <span class="date-chip warn">Horário de feriado só nos stories</span>
+    </div>
+
+  <div class="week">
+    <div class="week-band">
+      <span class="ramo">Mesa e ceia de Natal</span>
+      <span class="week-note">o último dia da Black Friday, se houver, vai pros stories na segunda</span>
+      <span class="week-when">30 nov → 04 dez</span>
+    </div>
+    <div class="row">
+      <div class="when"><span class="dow">Seg</span><span class="num mono">30/11</span></div>
+      <div class="what">
+        <h3>A mesa de Natal de 2026</h3>
+        <p>Laço grande, bordô e branco perolado, que é o que os portais de decoração estão apontando pra este Natal.</p>
+      </div>
+      <span class="fmt">estático</span>
+    </div>
+    <div class="row">
+      <div class="when"><span class="dow">Qua</span><span class="num mono">02/12</span></div>
+      <div class="what">
+        <h3>"Monta a mesa de Natal comigo"</h3>
+        <p>A Taísa escolhe guardanapo, copo, prato e laço na loja.</p>
+      </div>
+      <span class="fmt video">reels · Taísa</span>
+    </div>
+    <div class="row">
+      <div class="when"><span class="dow">Sex</span><span class="num mono">04/12</span></div>
+      <div class="what">
+        <h3>Doce de Natal pra vender</h3>
+        <p>Caixinha de bombom, pão de mel e kit, com insumo e embalagem e preço, logo depois da 1ª parcela do 13º.</p>
+        <span class="extraline">Além da festa</span>
+      </div>
+      <span class="fmt sell">venda</span>
+    </div>
+  </div>
+
+  <div class="week">
+    <div class="week-band">
+      <span class="ramo">Presente de fim de ano</span>
+      <span class="week-note">embalagem como frente própria</span>
+      <span class="week-when">07 → 11 dez</span>
+    </div>
+    <div class="row">
+      <div class="when"><span class="dow">Seg</span><span class="num mono">07/12</span></div>
+      <div class="what">
+        <h3>Lembrança de fim de ano pra turma, a equipe ou o amigo secreto</h3>
+        <p>Ideias com embalagem e doce, sem preço.</p>
+        <span class="extraline">Além da festa</span>
+      </div>
+      <span class="fmt">estático</span>
+    </div>
+    <div class="row">
+      <div class="when"><span class="dow">Qua</span><span class="num mono">09/12</span></div>
+      <div class="what">
+        <h3>Transformando o panetone em presente</h3>
+        <p>Caixa, laço e fita em 30 segundos.</p>
+      </div>
+      <span class="fmt video">reels · Taísa</span>
+    </div>
+    <div class="row">
+      <div class="when"><span class="dow">Sex</span><span class="num mono">11/12</span></div>
+      <div class="what">
+        <h3>Embalagem de presente com preço</h3>
+        <p>Caixa, sacola, laço e fita.</p>
+      </div>
+      <span class="fmt sell">venda</span>
+    </div>
+  </div>
+
+  <div class="week">
+    <div class="week-band">
+      <span class="ramo">Réveillon e confraternização</span>
+      <span class="week-note">sexta é dia da 2ª parcela do 13º</span>
+      <span class="week-when">14 → 18 dez</span>
+    </div>
+    <div class="row">
+      <div class="when"><span class="dow">Seg</span><span class="num mono">14/12</span></div>
+      <div class="what">
+        <h3>O fim de ano do comércio</h3>
+        <p>O Max fala do descartável da confraternização, com nota fiscal.</p>
+        <span class="extraline">Além da festa</span>
+      </div>
+      <span class="fmt">estático</span>
+    </div>
+    <div class="row">
+      <div class="when"><span class="dow">Qua</span><span class="num mono">16/12</span></div>
+      <div class="what">
+        <h3>Montando o 2027</h3>
+        <p>A Taísa com balão número e metalizado. Se a personalização fizer painel de Réveillon, ele entra aqui.</p>
+      </div>
+      <span class="fmt video">reels · Taísa</span>
+    </div>
+    <div class="row">
+      <div class="when"><span class="dow">Sex</span><span class="num mono">18/12</span></div>
+      <div class="what">
+        <h3>Kit de Réveillon com preço</h3>
+        <p>Balão, decoração da virada e mesa.</p>
+      </div>
+      <span class="fmt sell">venda</span>
+    </div>
+  </div>
+
+  <div class="week">
+    <div class="week-band">
+      <span class="ramo">Reta final do Natal</span>
+      <span class="week-note">horário da véspera vai pros stories</span>
+      <span class="week-when">21 → 25 dez</span>
+    </div>
+    <div class="row">
+      <div class="when"><span class="dow">Seg</span><span class="num mono">21/12</span></div>
+      <div class="what">
+        <h3>O que falta pra sobremesa da ceia</h3>
+        <p>Creme, chocolate e forminha.</p>
+        <span class="extraline">Além da festa</span>
+      </div>
+      <span class="fmt">estático</span>
+    </div>
+    <div class="row">
+      <div class="when"><span class="dow">Qua</span><span class="num mono">23/12</span></div>
+      <div class="what">
+        <h3>"Esqueceu alguma coisa da ceia?"</h3>
+        <p>A última chamada antes do Natal, sem pressão.</p>
+      </div>
+      <span class="fmt video">reels · Taísa</span>
+    </div>
+    <div class="row">
+      <div class="when"><span class="dow">Sex</span><span class="num mono">25/12</span></div>
+      <div class="what">
+        <h3>FELIZ NATAL</h3>
+        <p>Homenagem da casa, sem oferta.</p>
+      </div>
+      <span class="fmt">estático</span>
+    </div>
+  </div>
+
+  <div class="week">
+    <div class="week-band">
+      <span class="ramo">A virada</span>
+      <span class="week-note">horário do dia 31 vai pros stories</span>
+      <span class="week-when">28 dez → 01 jan</span>
+    </div>
+    <div class="row">
+      <div class="when"><span class="dow">Seg</span><span class="num mono">28/12</span></div>
+      <div class="what">
+        <h3>Última semana do Réveillon</h3>
+        <p>Balão e decoração da virada com preço.</p>
+      </div>
+      <span class="fmt sell">venda</span>
+    </div>
+    <div class="row star">
+      <div class="when"><span class="dow">Qua</span><span class="num mono">30/12</span></div>
+      <div class="what">
+        <h3>O ano da Celmapel contado pelo Max e pela Taísa</h3>
+        <p>Retrospectiva e agradecimento, no formato do post mais curtido da Vivian.</p>
+      </div>
+      <span class="fmt video">reels · Max e Taísa</span>
+    </div>
+    <div class="row">
+      <div class="when"><span class="dow">Sex</span><span class="num mono">01/01</span></div>
+      <div class="what">
+        <h3>FELIZ 2027</h3>
+        <p>Homenagem da casa.</p>
+      </div>
+      <span class="fmt">estático</span>
+    </div>
+  </div>
+
+  </section>
+
+  <div class="closing">
+    <h2>Ideias pra conversar</h2>
+    <ul>
+      <li><b>Festival de Fatias de Natal.</b> Em dezembro, uma edição natalina, com fatia de Natal e panetone de confeiteira da região, é a resposta da Celmapel ao evento da Vivian: comunidade na porta da loja, sem ingresso.</li>
+      <li><b>Personalização de Natal e Réveillon.</b> O post mais curtido da região é de painel personalizado. Se o setor faz painel, balão com nome ou "2027", ele pode ganhar um Reels próprio.</li>
+      <li><b>WhatsApp na Black Friday.</b> Antes de a campanha lotar a caixa de mensagens, vale configurar resposta rápida e uma etiqueta "Black Friday" no WhatsApp Business. A demora pra responder já apareceu em avaliação no Google.</li>
+    </ul>
+  </div>
+
+  <div class="closing">
+    <h2>O que precisa de vocês</h2>
+    <ul>
+      <li><b>Black Friday até 10/11.</b> Vai ter? Período, produtos, preço normal e preço da Black Friday. É o que deixa o aquecimento de 16/11 sair com preço.</li>
+      <li><b>O que a loja tem de Natal e Réveillon.</b> Decoração, mesa, embalagem de panetone (caixa, cartucho, lata) e balão número 2027.</li>
+      <li><b>Horário dos feriados:</b> 02/11, 20/11, 24 e 25/12, 31/12 e 01/01. Vai pros stories, nunca em arte fixa.</li>
+      <li><b>Gravações.</b> Seis Reels com a Taísa, dois com o Max e a retrospectiva com os dois.</li>
+      <li><b>Festival de Fatias e personalização.</b> O Festival continua em novembro e dezembro? A personalização faz painel ou balão de Natal e Réveillon?</li>
+    </ul>
+  </div>
+
+  <footer>
+    <span>Lone Mídia</span>
+    <span>Planejamento · Celmapel Festas · Nov–Dez 2026</span>
+  </footer>
+
+</div>

@@ -4,6 +4,10 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-26 (4) — Celmapel: planejamento nov–dez em PDF
+
+[PDF de cliente](../clients/celmapel-festas/apresentacoes/2026-10-26-planejamento-nov-dez.pdf) do planejamento, no molde do calendário trimestral da Atlas (Chrome headless, 9 páginas).
+
 ## 2026-10-26 (3) — Celmapel: planejamento de novembro e dezembro
 
 [Planejamento](../clients/celmapel-festas/estrategia/2026-11-a-12-bimestral.md) de BF, Natal e Réveillon (27 peças, 9 semanas), com análise das grades de Vivian, Armazém e Celmapel via Playwright e o analista de tendências ([pesquisa](../clients/celmapel-festas/referencias/2026-10-26-concorrencia-e-tendencias-nov-dez.md)). Travas: BF do Max até ~10/11 e o que a loja tem de Natal e Réveillon.

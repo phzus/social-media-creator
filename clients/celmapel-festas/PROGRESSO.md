@@ -4,6 +4,10 @@ Log datado do trabalho feito pra Celmapel. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-10-26 (2) — Planejamento nov–dez em PDF pro cliente
+
+PH pediu o PDF "como no da Atlas". [HTML](apresentacoes/2026-10-26-planejamento-nov-dez.html) + [PDF](apresentacoes/2026-10-26-planejamento-nov-dez.pdf) (9 páginas, A4, Chrome headless), no molde do calendário trimestral da Atlas: logo da Lone, legenda dos dias, o que vimos em Vivian/Armazém/Celmapel, as três apostas, as semanas de novembro e dezembro, ideias pra conversar e o que precisa de vocês. Versão de cliente: sem referência a PADROES nem nota interna, e "ⓔ" virou a etiqueta "Além da festa".
+
 ## 2026-10-26 — Planejamento de novembro e dezembro (BF, Natal, Réveillon)
 
 PH pediu o planejamento de nov → dez, "quase como na Atlas", com trend e análise da Vivian, que já está no Natal. [Planejamento](estrategia/2026-11-a-12-bimestral.md): 27 peças em 9 semanas (seg estático · qua Reels · sex venda), uma frente por semana e uma peça "fora de festa" em cada. Só um carrossel, no pico da BF (23/11).
