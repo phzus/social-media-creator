@@ -4,6 +4,28 @@ Log datado do trabalho feito pra CIIL. Topo = mais recente. Entrada por bloco de
 
 ---
 
+## 2026-10-26 — Post de sexta 30/10: "Consultas na CIIL!" (Doctoralia + WhatsApp)
+
+**Origem:** pedido do Dr. Felipe, via equipe de SG no grupo ([referência](referencias/2026-10-26-pedido-divulgacao-consultas-doctoralia.md)). A clínica quer divulgar consultas e mandar o paciente tanto pro Doctoralia quanto pros WhatsApps.
+
+[Peça](conteudo/posts/2026-10-30-consultas-na-ciil-doctoralia-whatsapp.md): estático 4:5 no molde de anúncio da casa (§2.8). Headline **"CONSULTAS NA CIIL!"**, as 3 especialidades como elemento visual, "atendemos também quem ainda não tem diagnóstico", CTA **"AGENDE PELO DOCTORALIA OU PELO WHATSAPP!"**, telefones das duas unidades e `*Consulte condições`. Sugestão opcional de stories 9:16 com figurinha de link pro Doctoralia.
+
+**Doctoralia conferido** (perfil público da clínica): as duas unidades, 5 médicas com especialidade, e nutrologia/clínico geral/gastro que a dona nunca listou. Isso respondeu em parte a PAUTA #7 (especialidade das médicas dos depoimentos). Dr. Felipe não aparece lá.
+
+**Validador-copy:** rodado sem confiar na Checagem. 2 bloqueantes corrigidos:
+- a headline "com quem entende do seu caso" lia como superioridade (CFM)
+- a dúvida de diretor técnico/CRM/RQE estava enterrada e subiu pro topo
+
+Também: a frase de imunobiológico saiu da legenda (colava em pediatria), a alternativa "passou em vários médicos" foi descartada e a imagem virou só tipografia.
+
+**Docs:** context.md (Doctoralia como destino, WhatsApp de SG, linha velha "consulta não confirmada" corrigida), OPEN-QUESTIONS (bloco novo de 26/10), PAUTA #7.
+
+**Travas:**
+- 🔴 RT: identificação regulatória na arte.
+- 🟡 Especialidades por unidade, nutrologia/clínico geral, link do Doctoralia na bio.
+
+---
+
 ## 2026-10-22 — Post de segunda 26/10: "Isso Tem Nome · 07 de 10 — Hidradenite Supurativa"
 
 [Peça](conteudo/posts/2026-10-26-isso-tem-nome-07-hidradenite-supurativa.md): estático 4:5, esqueleto fixo de 5 blocos, Dermatologia. **Primeira peça da série com CTA na arte**, pela regra de 19/10 (a arte fecha sozinha). O CTA fica dentro do bloco 5.

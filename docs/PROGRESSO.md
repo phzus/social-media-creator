@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-26 — CIIL: post de consultas (Doctoralia + WhatsApp)
+
+A equipe de São Gonçalo repassou um pedido do Dr. Felipe: divulgar as consultas, mandando pro Doctoralia e pros WhatsApps das unidades. [Peça de sexta 30/10](../clients/ciil/conteudo/posts/2026-10-30-consultas-na-ciil-doctoralia-whatsapp.md): anúncio direto "CONSULTAS NA CIIL!" + dermatologia, reumatologia e pediatria + dois caminhos de agendamento. O perfil da clínica no Doctoralia foi conferido ([referência](../clients/ciil/referencias/2026-10-26-pedido-divulgacao-consultas-doctoralia.md)): lista nutrologia e clínico geral, que não estão na lista da dona, e ficaram fora da peça. Validador-copy: 2 bloqueantes corrigidos (headline com superioridade, identificação regulatória subiu pro topo). 🔴 RT: diretor técnico/CRM/RQE na arte.
+
+---
+
 ## 2026-10-23 (2) — BodySkin: peça sai com preço (PH)
 
 PH: *"Na bodyskin a gente tem que fazer peça com preço mesmo."* A peça de 26/10 (faixa de barba) virou oferta com o pacote masculino do Outubro OFF (16x R$ 132,00, faixa de barba de presente), com a objeção da barba como gancho. Regra nova no [PADROES §11 da BodySkin](../clients/bodyskin-araruama/PADROES.md), que revoga a trava "preço só no pilar Oferta". Travas de preço (§7) e gate da RT seguem.

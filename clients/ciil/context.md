@@ -20,7 +20,7 @@ status: 🟡 Versão 1.0 — destilado do briefing/auditoria da Cowork AI (Maio/
 
   **Tratamento:** medicações imunobiológicas, **subcutâneas ou infusionais**. ⚠️ Toda a copy da conta até 26/08 assumiu só infusão (poltrona/day clinic) — está incompleto, existe também a via subcutânea, que é aplicação rápida e não sessão.
 
-  **Especialidades atendidas no momento:** **Dermatologia · Reumatologia · Pediatria.** A dona sinalizou que a lista deve crescer ("em breve iremos atender outras especialidades") — reconfirmar periodicamente. Nenhuma delas é imunologia ou alergia, que seguem fora (regra de 21/08 intacta). ⚠️ **Ainda não está confirmado se "atender a especialidade" significa consulta médica na clínica** — não afirmar consulta antes de confirmar com PH, ver [OPEN-QUESTIONS](OPEN-QUESTIONS.md).
+  **Especialidades atendidas no momento:** **Dermatologia · Reumatologia · Pediatria.** A dona sinalizou que a lista deve crescer ("em breve iremos atender outras especialidades") — reconfirmar periodicamente. Nenhuma delas é imunologia ou alergia, que seguem fora (regra de 21/08 intacta). ✅ **"Atender a especialidade" = consulta médica na clínica** (PH, 2026-09-14), inclusive pra quem chega sem diagnóstico. **Doctoralia (consultado em 2026-10-26)** lista também Nutrologia e Clínico geral, e o "Sobre nós" cita gastro. Nada disso está na lista da dona: não usar em peça até a CIIL confirmar ([referência](referencias/2026-10-26-pedido-divulgacao-consultas-doctoralia.md)).
 
   ⚠️ **Nomenclatura:** **Asma não é doença autoimune** (é inflamatória crônica das vias aéreas) e Hidradenite é autoinflamatória. O guarda-chuva correto pras 10 é **"doenças imunomediadas"** / "doenças tratadas com imunobiológico" — não "autoimunes". Pendente de validação do RT.
 
@@ -56,7 +56,7 @@ A CIIL fala com **públicos distintos que dividem o mesmo tom** — muda o conte
 - **São Gonçalo / Grande Rio** → @ciil.sg (precisa de pauta local própria, não espelho).
 
 ### Where they hang out
-- **Instagram** = canal principal (2 perfis). **Facebook** = espelho. **WhatsApp** ((22) 98800-6164 Araruama · SG a confirmar) e **Docplanner** = destinos de conversão. Site ciil.com.br = hub.
+- **Instagram** = canal principal (2 perfis). **Facebook** = espelho. **WhatsApp** ((22) 98800-6164 Araruama · (21) 97297-7998 São Gonçalo) e **Doctoralia** (Docplanner) = destinos de conversão. Perfil da clínica: https://www.doctoralia.com.br/clinicas/ciil-centro-de-imunobiologicos-e-imunizacao-lagos. **Pedido do cliente (2026-10-26):** post de consulta direciona pros dois, Doctoralia e WhatsApp das unidades. Site ciil.com.br = hub.
 
 ---
 
@@ -153,7 +153,7 @@ Herdados da proposta Cowork AI (validar % com a Lone na 1ª estratégia mensal).
 - **Prioridade de conteúdo confirmada pelo cliente (2026-10-15):** **foco principal** em doenças, tratamentos e medicações; **apoio** em consultas e vacinas. Diversificação validada: vacinação a domicílio e datas de saúde (conscientização mesmo sem oferecer o serviço da data). Fonte: [resumo de 15/10](reuniao-mensal/resumos/2026-10-15-resumo-reuniao.md).
 - **Vacinação infantil em Araruama (cliente, 2026-10-15):** a unidade vacina **muitas crianças**, inclusive recém-nascidos, e o volume está crescendo. Primeira confirmação direta (a "todas as idades" vinha da Cowork AI). **Quais vacinas:** a CIIL vai mandar a lista. Até lá, nenhuma peça nomeia vacina.
 - **Única "campanha" do negócio é convênio novo (cliente, 2026-10-15):** não há sazonalidade de tratamento. Quando entra plano novo, a CIIL avisa no grupo e pede arte dedicada + atualização do carrossel e do destaque. **A imagem do destaque de convênios é enviada aos médicos parceiros** que encaminham paciente.
-- **Médicos compartilham a série (cliente, 2026-10-15):** o **Dr. Felipe** divulga os posts da doença que trata. Especialidade e unidade não confirmadas; o nome não entra em peça sem isso.
+- **Médicos compartilham a série (cliente, 2026-10-15):** o **Dr. Felipe** divulga os posts da doença que trata. Especialidade e unidade não confirmadas; o nome não entra em peça sem isso. **Em 2026-10-26 ele pediu (via equipe de SG) mais divulgação das consultas**, e não aparece entre os médicos do perfil da clínica no Doctoralia.
 - **Filmagem (cliente, 2026-10-15):** de **segunda a quinta, a partir das 14h**. De manhã a clínica está cheia de pacientes em infusão. **Quem aparece nos vídeos é o enfermeiro.**
 - **Banco de mídia:** **há fotos autorais** da equipe e da clínica (confirmado PH, 22/06) + banco stock. Humanização e Reels usam o autoral; stock cobre educativo/venda/datas. PH apontar a pasta do material autoral pra referência nos briefs.
 - **Janela de briefing mensal:** dias 22–25 do mês anterior (padrão Lone).

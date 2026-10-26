@@ -26,7 +26,15 @@ Fonte: [resumo de 15/10](reuniao-mensal/resumos/2026-10-15-resumo-reuniao.md).
 - ✅ **Resolvido (PH, 15/10): sexta 16/10 é o OMINT**, e a Espondilite volta pra fila sem data. ~~O que sai na sexta 16/10?~~ Carlos disse que "o post do novo plano já está em produção e sairia na sexta", mas no repositório a peça de sexta 16/10 é a de [Espondilite](conteudo/posts/2026-10-23-espondilite-piora-parada-melhora-mexendo.md), e não existe peça de convênio pra essa data. PH decide: o convênio entra na sexta e a Espondilite sai da semana, ou o convênio vai pra segunda/quarta seguinte (o cliente aceitou). A arte dedicada também precisa de 1 dia útil de designer.
 - 🟡 **Lista de vacinas** que a CIIL trabalha (ela vai mandar). Trava o post de vacinação infantil.
 - 🟡 **Vacina infantil também em São Gonçalo?** A fala foi sobre Araruama.
-- 🟡 **Dr. Felipe:** especialidade e unidade. Só importa se o nome for entrar em peça.
+- 🟡 **Dr. Felipe:** especialidade e unidade. Só importa se o nome for entrar em peça. *(26/10: pediu divulgação das consultas; não aparece no perfil da clínica no Doctoralia.)*
+
+## 🟡 Nova (2026-10-26) — post de consultas (Doctoralia + WhatsApp)
+
+Fonte: [pedido da equipe de SG](referencias/2026-10-26-pedido-divulgacao-consultas-doctoralia.md) · peça: [sexta 30/10](conteudo/posts/2026-10-30-consultas-na-ciil-doctoralia-whatsapp.md). Nenhuma trava a peça.
+- 🟡 **Quais especialidades atendem em cada unidade?** O Doctoralia não separa.
+- 🟡 **Nutrologia e clínico geral estão atendendo?** Aparecem no Doctoralia, não estão na lista da dona (26/08). Se sim, entram na arte.
+- 🟡 **Pode pôr o link do Doctoralia na bio dos dois perfis?** Resolve o CTA do feed.
+- 🟡 **RT: peça de consulta precisa do nome + CRM do diretor técnico?** É publicidade de estabelecimento médico. Vale pras peças anteriores também.
 
 ## 🔴 Nova (2026-10-15) — análise do Instagram: copy trocada no ar e fila do RT desatualizada
 
