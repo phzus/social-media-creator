@@ -48,7 +48,7 @@
 
 - [ ] Plano estratégico (apresentação aberta a ajustes).
 - [ ] Calendário editorial de outubro com as datas.
-- [ ] Encartes por segmento (fluxo esboço → aprovação → publicação).
+- [x] Encartes por segmento (fluxo esboço → aprovação → publicação): no plano nov–dez v3 (27/10), 6 encartes no feed + Dia D nos stories.
 - [ ] Carlos: falar com o Roberto sobre "Fecha Mês" e parceiro de locução; enviar o resumo da reunião ao cliente.
 - [x] Proposta de bio, destaques e fixados: v1/v2 de [06/10](../conteudo/posts/2026-10-06-bio-destaques-fixados.md), **refeita em [07/10 (v3)](../conteudo/posts/2026-10-07-perfil-bio-destaques-fixados-v3.md)**.
 - [ ] PH: print do perfil atual (fixados e conteúdo dos destaques) e 2–3 referências Pinterest de loja de festas/confeitaria/atacarejo.

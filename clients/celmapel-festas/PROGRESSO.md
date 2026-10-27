@@ -4,6 +4,29 @@ Log datado do trabalho feito pra Celmapel. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-10-27 — Planejamento nov–dez v3: encartes por categoria + Dia D nos stories
+
+PH: *"na celmapel ele tinha falado de colocar os encartes temáticos pra cada categoria… não tô vendo nada disso no nosso plano bimestral"*. A [transcrição de 02/10](referencias/2026-10-02-transcricao-reuniao-onboarding.txt) confirma três pedidos:
+- Carlos: encarte com os produtos da data e nome de campanha, tipo "Outubro Espanta Preço".
+- Max: dias de segmento ("quarta do descartável, terça-feira da confeitaria").
+- Max: "encarte semanal. Ou no dia D".
+
+A v2 só tinha encarte solto. O [plano v3](estrategia/2026-11-a-12-bimestral.md), o [HTML](apresentacoes/2026-10-26-planejamento-nov-dez.html) e o [PDF](apresentacoes/2026-10-26-planejamento-nov-dez.pdf) (9 páginas) foram refeitos:
+- **Feed:** a série "ENCARTE · [CATEGORIA]" tem 6 peças, todas nas mesmas datas da v2:
+  - 20/11 Descartável/Revendedor
+  - 23/11 carrossel BF com as 4 categorias
+  - 07/12 Confeitaria de Natal
+  - 11/12 Embalagem de Natal
+  - 14/12 Descartável/confraternização
+  - 28/12 Festa/virada
+- **Stories:** Dia D semanal, terça da Confeitaria e quarta do Descartável, com 3 a 5 produtos e preço. Pausa de 16 a 27/11.
+- Com o "Quanto custa", são 10 de 27 peças de feed com produto e preço, ou 37%.
+- O PDF ganhou o bloco "Encartes por categoria" e o item de produtos dos encartes e do Dia D em "O que precisa de vocês".
+
+**Ainda fora do plano:** o vídeo "Fecha Mês", pedido na mesma reunião (OQ #11 e #22).
+
+---
+
 ## 2026-10-26 (3) — Planejamento nov–dez v2 (revisão do PH) + PDF refeito
 
 O PH revisou o PDF. [Plano v2](estrategia/2026-11-a-12-bimestral.md) e [PDF](apresentacoes/2026-10-26-planejamento-nov-dez.pdf) refeitos (9 páginas):

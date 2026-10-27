@@ -1,10 +1,10 @@
 # Planejamento · Celmapel Festas · Novembro → Dezembro 2026
 
 **Janela:** seg 02/11 → sex 01/01/2027. **27 peças de feed em 9 semanas**, mais os stories de apoio nos dias de campanha.
-**Origem:** pedido do PH em 26/10, com os pontos-chave de Black Friday em novembro e Natal e Ano Novo em dezembro, mais análise de trend e da Vivian. A **v2** veio da revisão do PH no mesmo dia (ver Histórico).
+**Origem:** pedido do PH em 26/10, com os pontos-chave de Black Friday em novembro e Natal e Ano Novo em dezembro, mais análise de trend e da Vivian. A **v2** veio da revisão do PH no mesmo dia, e a **v3** (27/10) entrou com os encartes por categoria (ver Histórico).
 **Base:** [pesquisa de concorrência e tendências de 26/10](../referencias/2026-10-26-concorrencia-e-tendencias-nov-dez.md) · [context.md](../context.md) · [PADROES.md](../PADROES.md).
 **Entregável do cliente:** [HTML](../apresentacoes/2026-10-26-planejamento-nov-dez.html) · [PDF](../apresentacoes/2026-10-26-planejamento-nov-dez.pdf).
-**Status:** 🟡 v2, proposta. O que está fechado é a **semana** e a **data**. O tema de cada peça é proposta, e tudo que leva preço depende do Max ([PADROES §1](../PADROES.md)).
+**Status:** 🟡 v3, proposta. O que está fechado é a **semana** e a **data**. O tema de cada peça é proposta, e tudo que leva preço depende do Max ([PADROES §1](../PADROES.md)).
 
 ---
 
@@ -14,6 +14,7 @@
 - **Argumento da BF ([PADROES §14](../PADROES.md)):** a Celmapel negocia direto com a indústria, consegue preço extremamente baixo, e por isso essa Black tá tão barata. 🚫 Nunca "o preço não muda".
 - **Natal só no fim de novembro**, dentro da campanha (último slide do carrossel de 23/11). O feed de Natal abre em 30/11.
 - **Formato "Quanto custa" ([PADROES §15](../PADROES.md)):** produtos da loja que formam uma caixa, festa ou mesa, preço de cada um e o total, "venha montar a sua". Aparece 4 vezes, sempre na sexta de venda (06/11, 13/11, 04/12, 18/12). A loja **não monta** caixa nem kit.
+- **Encartes por categoria (v3, pedido do Max em 02/10):** são 6 no feed, numa série com topo fixo "ENCARTE · [CATEGORIA]" e cada um puxa o assunto do momento: 20/11 Descartável (Revendedor), 23/11 Black Friday com as 4 categorias, 07/12 Confeitaria, 11/12 Embalagem, 14/12 Descartável (confraternização) e 28/12 Festa (virada). Nos **stories** entra o **Dia D** semanal, com os dias do próprio Max: **terça da Confeitaria** e **quarta do Descartável**, 3 a 5 produtos com preço e destaque de ofertas. O Dia D pausa de 16 a 27/11, quando o spoiler e a lista VIP fazem esse papel. Somando encartes e "Quanto custa", são 10 de 27 peças de feed com produto e preço (37%, dentro dos 35% do mix), e o feed não vira encarte ([PADROES §9](../PADROES.md)).
 - **Gente antes de produto:** os Reels são da Taísa (6) e do Max (2), mais a retrospectiva dos dois (30/12). Na grade, família e Festival de Fatias engajam e tutorial não.
 - 🚫 **Armazém das Festas fora de qualquer peça ou documento do cliente** ([PADROES §13](../PADROES.md)).
 
@@ -49,8 +50,8 @@
 | | | 13/11 | sex | venda | **Quanto custa** um aniversário em casa? | Balão, vela, prato, copo, guardanapo + total |
 | **16 → 20** | **BF · contagem** | 16/11 | seg | estático | FALTAM 11 DIAS PRA BLACK FRIDAY CELMAPEL! | Período, categorias, última chamada da lista VIP |
 | | | 18/11 | qua | Reels **Taísa** | Spoiler da Black | Mostra o que vai entrar; preço só pra lista VIP e no dia |
-| | | 20/11 | sex | venda ⓔ | Especial Revendedor | Embalagem e descartável com preço, só fatos de atacado confirmados ([§4](../PADROES.md)). Feriado: conferir se a loja abre |
-| **23 → 27** ⭐ | **Black Friday** | 23/11 | seg | **carrossel** | A BF da Celmapel, categoria por categoria | Festa · confeitaria · embalagem · descartável, com preço. Último slide puxa o Natal |
+| | | 20/11 | sex | **encarte** ⓔ | ENCARTE DESCARTÁVEL · Especial Revendedor | Copo, prato, talher, guardanapo e embalagem com preço, só fatos de atacado confirmados ([§4](../PADROES.md)). Feriado: conferir se a loja abre |
+| **23 → 27** ⭐ | **Black Friday** | 23/11 | seg | **carrossel encarte** | ENCARTE BLACK FRIDAY: as 4 categorias | Festa · confeitaria · embalagem · descartável, um slide cada com o topo da categoria e preço. Último slide puxa o Natal |
 | | | 25/11 | qua | Reels **Taísa** | Achadinho de Black Friday | Produto na mão, com preço e validade |
 | | | 27/11 | sex | venda | É HOJE: BLACK FRIDAY CELMAPEL! | Anúncio direto no dia. Se a BF for até 30/11, o último dia vai em story |
 
@@ -61,16 +62,16 @@
 | **30/11 → 04/12** | **O Natal chegou** | 30/11 | seg | estático | O NATAL CHEGOU NA CELMAPEL! | Anúncio direto (decorar e mesa). Fim da BF, se houver, em story |
 | | | 02/12 | qua | Reels **Taísa** | "Você de Araruama já começou o Natal?" | Tour de Natal no tom de achadinho. Sem número de variedade, que é o jogo da Vivian |
 | | | 04/12 | sex | venda | **Quanto custa** a mesa de Natal? | Guardanapo, copo, prato, vela, enfeite + total |
-| **07 → 11** | **Natal de quem vende** | 07/12 | seg | estático ⓔ | O que a confeiteira precisa ter pras encomendas de Natal | Insumo + embalagem (caixa, cartucho, forminha, fita) |
+| **07 → 11** | **Natal de quem vende** | 07/12 | seg | **encarte** ⓔ | ENCARTE CONFEITARIA · encomendas de Natal | Chocolate, creme, confeito, forminha com preço |
 | | | 09/12 | qua | Reels **Max** | "Vai vender panetone? Separa isso aqui." | Max mostra o que a loja tem pra quem vende. Dono falando com dono |
-| | | 11/12 | sex | venda | Especial Embalagem de Natal | Caixa de panetone, sacola, laço, fita com preço |
-| **14 → 18** | **Réveillon e confraternização** | 14/12 | seg | estático ⓔ **Max** | A confraternização da sua empresa começa aqui | Descartável com nota fiscal. Só fatos de atacado confirmados, sem desconto por volume ([§4](../PADROES.md)) |
+| | | 11/12 | sex | **encarte** | ENCARTE EMBALAGEM · Natal | Caixa de panetone, cartucho, sacola, laço, fita com preço |
+| **14 → 18** | **Réveillon e confraternização** | 14/12 | seg | **encarte** ⓔ | ENCARTE DESCARTÁVEL · "A confraternização da sua empresa começa aqui" | Descartável com preço e nota fiscal. Só fatos de atacado confirmados, sem desconto por volume ([§4](../PADROES.md)) |
 | | | 16/12 | qua | Reels **Taísa** | "Montando o 2027" | Balão número e metalizado. Se a personalização fizer painel de Réveillon, entra aqui |
 | | | 18/12 | sex | venda | **Quanto custa** a decoração da virada? | Balão 2027, metalizado, painel, mesa + total. Dia da 2ª parcela do 13º |
 | **21 → 25** | **Reta final do Natal** | 21/12 | seg | estático ⓔ | O que falta pra sobremesa da ceia | Creme, chocolate, forminha. Sem receita e sem marca |
 | | | 23/12 | qua | Reels **Taísa** | "Esqueceu alguma coisa da ceia?" | Última chamada, sem pressão. Horário de véspera só em story |
 | | | 25/12 | sex | estático | FELIZ NATAL | Homenagem direta, sem oferta |
-| **28/12 → 01/01** | **A virada** | 28/12 | seg | venda | ÚLTIMA SEMANA PRA DECORAR A VIRADA! | Balão e decoração do Réveillon com preço (encarte, não "Quanto custa") |
+| **28/12 → 01/01** | **A virada** | 28/12 | seg | **encarte** | ENCARTE FESTA · ÚLTIMA SEMANA PRA DECORAR A VIRADA! | Balão 2027, metalizado, decoração do Réveillon com preço |
 | | | 30/12 | qua | Reels **Max e Taísa** | O ano da Celmapel contado por eles | Retrospectiva do casal (o post mais curtido da Vivian é a fundadora contando a história). Sem número inventado |
 | | | 01/01 | sex | estático | FELIZ 2027 | Homenagem direta |
 
@@ -99,14 +100,27 @@
 1. **Black Friday:** se vai ter e o período até 30/10; produtos, preço cheio e preço de BF até 10/11.
 2. **Lista VIP no WhatsApp:** topa? A Lone escreve a mensagem.
 3. **"Quanto custa":** lista de produtos + preço de cada um, uma semana antes de cada sexta (a 1ª é 06/11).
-4. **Natal e Réveillon:** decoração, mesa, embalagem de panetone (caixa, cartucho, lata), balão número 2027.
-5. **Horário dos feriados.**
-6. **Gravações:** 6 Reels da Taísa, 2 do Max e a retrospectiva.
-7. **Festival de Fatias** em novembro e dezembro, e **personalização** de Natal e Réveillon.
+4. **Encartes e Dia D:** pra cada encarte, os produtos da categoria com preço, uma semana antes. Pro Dia D, 3 a 5 produtos de confeitaria e de descartável até a segunda de cada semana.
+5. **Natal e Réveillon:** decoração, mesa, embalagem de panetone (caixa, cartucho, lata), balão número 2027.
+6. **Horário dos feriados.**
+7. **Gravações:** 6 Reels da Taísa, 2 do Max e a retrospectiva.
+8. **Festival de Fatias** em novembro e dezembro, e **personalização** de Natal e Réveillon.
 
 ---
 
 ## Histórico
+
+- **2026-10-27 v3:** encartes por categoria. PH: *"ele tinha falado de colocar os encartes temáticos pra cada categoria… não tô vendo nada disso no nosso plano"*. Na [transcrição de 02/10](../referencias/2026-10-02-transcricao-reuniao-onboarding.txt) aparecem três pedidos:
+  - Carlos (42:21): encarte com os produtos de cada data, com nome de campanha.
+  - Max (01:01:08): dias de segmento, "quarta do descartável, terça-feira da confeitaria", com encartezinho.
+  - Max (01:04:26): "fazer um encarte semanal. Ou no dia D".
+
+  A v2 tinha encarte solto (Revendedor, Embalagem de Natal, virada), sem série e sem categoria explícita. **Mudou:**
+  - 6 peças do feed viraram a série "ENCARTE · [CATEGORIA]": 20/11, 23/11, 07/12, 11/12, 14/12 e 28/12.
+  - O 14/12 deixou de ser estático do Max.
+  - O Dia D semanal entrou nos stories (terça Confeitaria, quarta Descartável).
+
+  O "Quanto custa" segue nas 4 sextas. **Também pendente da mesma reunião e fora do plano:** o vídeo "Fecha Mês" (OQ #11 e #22).
 
 - **2026-10-26 v2:** revisão do PH, com seis mudanças.
   - **Armazém das Festas** fora do documento ("concorrentes mortais, nem gostam que falem um do outro").
