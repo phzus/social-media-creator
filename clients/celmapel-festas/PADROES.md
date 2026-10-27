@@ -103,7 +103,8 @@ PH, 26/10: *"não podemos falar de jeito nenhum de Armazém das Festas, eles sã
 
 PH, 26/10: falar que o preço não muda ao longo do ano **acaba com a escassez e ainda diz que o preço da Black é mentira**.
 
-- ✅ O argumento é: *a Celmapel negocia direto com a indústria, consegue preço extremamente baixo, e por isso essa Black tá tão barata.*
+- ✅ O argumento é: *a Celmapel negocia direto com a indústria, consegue preço extremamente baixo, e por isso essa Black vai ser tão barata.*
+- ✅ **Tempo verbal (PH, 27/10):** antes da BF, a peça fala no futuro ("vai ser tão barata"). "Tá barata" só vale do dia em diante.
 - 🚫 "O preço não muda", "o mesmo preço do ano todo", "aqui não tem Black Fraude porque o preço é sempre esse".
 - O [§1](PADROES.md) (preço fixo por um mês) continua valendo **por dentro**, como regra de operação, e não vira copy.
 

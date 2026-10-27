@@ -1,6 +1,6 @@
 # Planejamento · Celmapel Festas · Novembro → Dezembro 2026
 
-**Janela:** seg 02/11 → sex 01/01/2027. **27 peças de feed em 9 semanas**, mais os stories de apoio nos dias de campanha.
+**Janela:** ter 03/11 → sex 01/01/2027. **27 peças de feed em 9 semanas**, mais os stories de apoio nos dias de campanha.
 **Origem:** pedido do PH em 26/10, com os pontos-chave de Black Friday em novembro e Natal e Ano Novo em dezembro, mais análise de trend e da Vivian. A **v2** veio da revisão do PH no mesmo dia, e a **v3** (27/10) entrou com os encartes por categoria (ver Histórico).
 **Base:** [pesquisa de concorrência e tendências de 26/10](../referencias/2026-10-26-concorrencia-e-tendencias-nov-dez.md) · [context.md](../context.md) · [PADROES.md](../PADROES.md).
 **Entregável do cliente:** [HTML](../apresentacoes/2026-10-26-planejamento-nov-dez.html) · [PDF](../apresentacoes/2026-10-26-planejamento-nov-dez.pdf).
@@ -10,15 +10,15 @@
 
 ## 1. A lógica do bimestre
 
-- **Novembro é inteiro da Black Friday.** Quatro semanas, uma função cada: anunciar a data (02/11), explicar por que tá tão barata (11/11, Max), contar os dias (16/11) e vender (23–27/11).
-- **Argumento da BF ([PADROES §14](../PADROES.md)):** a Celmapel negocia direto com a indústria, consegue preço extremamente baixo, e por isso essa Black tá tão barata. 🚫 Nunca "o preço não muda".
+- **Novembro é inteiro da Black Friday.** Quatro semanas, uma função cada: anunciar a data (03/11), explicar por que vai ser tão barata (11/11, Max), contar os dias (16/11) e vender (23–27/11).
+- **Argumento da BF ([PADROES §14](../PADROES.md)):** a Celmapel negocia direto com a indústria, consegue preço extremamente baixo, e por isso essa Black vai ser tão barata. 🚫 Nunca "o preço não muda".
 - **Natal só no fim de novembro**, dentro da campanha (último slide do carrossel de 23/11). O feed de Natal abre em 30/11.
 - **Formato "Quanto custa" ([PADROES §15](../PADROES.md)):** produtos da loja que formam uma caixa, festa ou mesa, preço de cada um e o total, "venha montar a sua". Aparece 4 vezes, sempre na sexta de venda (06/11, 13/11, 04/12, 18/12). A loja **não monta** caixa nem kit.
 - **Encartes por categoria (v3, pedido do Max em 02/10):** são 6 no feed, numa série com topo fixo "ENCARTE · [CATEGORIA]" e cada um puxa o assunto do momento: 20/11 Descartável (Revendedor), 23/11 Black Friday com as 4 categorias, 07/12 Confeitaria, 11/12 Embalagem, 14/12 Descartável (confraternização) e 28/12 Festa (virada). Nos **stories** entra o **Dia D** semanal, com os dias do próprio Max: **terça da Confeitaria** e **quarta do Descartável**, 3 a 5 produtos com preço e destaque de ofertas. O Dia D pausa de 16 a 27/11, quando o spoiler e a lista VIP fazem esse papel. Somando encartes e "Quanto custa", são 10 de 27 peças de feed com produto e preço (37%, dentro dos 35% do mix), e o feed não vira encarte ([PADROES §9](../PADROES.md)).
 - **Gente antes de produto:** os Reels são da Taísa (6) e do Max (2), mais a retrospectiva dos dois (30/12). Na grade, família e Festival de Fatias engajam e tutorial não.
 - 🚫 **Armazém das Festas fora de qualquer peça ou documento do cliente** ([PADROES §13](../PADROES.md)).
 
-**Cadência:** **seg estático · qua Reels · sex venda**, sem mudar de dia por feriado. Só um carrossel, no pico da BF, porque carrossel pesa no designer. Feriado em dia de post: a peça sai, e o horário da loja vai em story.
+**Cadência:** **seg estático · qua Reels · sex venda**, sem mudar de dia por feriado. **Exceção:** Finados (seg 02/11) fica sem post, e o anúncio da BF sai na terça 03/11 (PH, 27/10). Só um carrossel, no pico da BF, porque carrossel pesa no designer. Feriado em dia de post: a peça sai, e o horário da loja vai em story.
 
 **Linha da semana:** cada semana tem um assunto, e a função varia (seg apresenta, qua mostra, sex vende). ⓔ marca a peça "fora de festa" da semana ([PADROES §3](../PADROES.md)). No PDF ela aparece como a etiqueta "Além da festa".
 
@@ -28,7 +28,7 @@
 
 | Data | O que é | Como entra |
 |---|---|---|
-| seg 02/11 | Finados (feriado) | O post sai (anúncio da data da BF). Horário da loja só em story |
+| seg 02/11 | Finados (feriado) | **Sem post** (PH, 27/10). O anúncio da BF vai pra terça 03/11. Horário da loja só em story |
 | sex 20/11 | Consciência Negra (feriado) | O post sai. Horário só com a regra do Max ([#35](../OPEN-QUESTIONS.md)) |
 | **sex 27/11** | **Black Friday** | Pico da campanha |
 | seg 30/11 | Cyber Monday · 1ª parcela do 13º | Se a BF for até 30/11, o último dia vai **só em stories**. O feed abre o Natal |
@@ -42,11 +42,11 @@
 
 | Semana | Assunto | Data | Dia | Formato | Tema | Objetivo |
 |---|---|---|---|---|---|---|
-| **02 → 06** | **BF · a data** | 02/11 | seg | estático | 27/11 TEM BLACK FRIDAY NA CELMAPEL! | Anúncio da data + lista VIP no WhatsApp |
+| **02 → 06** | **BF · a data** | 03/11 | **ter** | estático | 27/11 TEM BLACK FRIDAY NA CELMAPEL! | Anúncio da data + lista VIP no WhatsApp |
 | | | 04/11 | qua | Reels **Taísa** | "Você de Araruama já entrou na lista VIP da Black?" | Como entrar e o que a lista recebe primeiro |
 | | | 06/11 | sex | venda ⓔ | **Quanto custa** a caixinha de doce? | Caixa, forminha, fita, tag + total, pra quem vende doce |
 | **09 → 13** | **BF · por que tão barata** | 09/11 | seg | estático ⓔ | A BLACK FRIDAY CELMAPEL TAMBÉM É PRA QUEM VENDE! | Confeitaria, embalagem e descartável entram na campanha |
-| | | 11/11 | qua | Reels **Max** | "Por que a nossa Black Friday tá tão barata?" | Negociação direto com a indústria → preço extremamente baixo. É a autoridade da campanha |
+| | | 11/11 | qua | Reels **Max** | "Por que a nossa Black Friday vai ser tão barata?" | Negociação direto com a indústria → preço extremamente baixo. É a autoridade da campanha |
 | | | 13/11 | sex | venda | **Quanto custa** um aniversário em casa? | Balão, vela, prato, copo, guardanapo + total |
 | **16 → 20** | **BF · contagem** | 16/11 | seg | estático | FALTAM 11 DIAS PRA BLACK FRIDAY CELMAPEL! | Período, categorias, última chamada da lista VIP |
 | | | 18/11 | qua | Reels **Taísa** | Spoiler da Black | Mostra o que vai entrar; preço só pra lista VIP e no dia |
@@ -81,11 +81,10 @@
 
 - **Festival de Fatias de Natal.** A série seguiu em outubro (10, 17 e 24/10). Em dezembro, a edição natalina (fatia de Natal, panetone de confeiteira local) dá comunidade na porta da loja, sem ingresso. Decisão e convite às confeiteiras são do Max.
 - **Personalização de Natal e Réveillon.** Se o setor faz painel, balão com nome ou "2027", ganha um Reels próprio no lugar de um da Taísa. (Interno: o dado de engajamento que motivou a ideia veio de concorrente que não se cita, ver [PADROES §13](../PADROES.md).)
-- **WhatsApp na BF.** Resposta rápida e etiqueta "Black Friday" no WhatsApp Business antes de a caixa lotar ([PADROES §11](../PADROES.md)). Interno: a reclamação mais recente no Google é "WhatsApp lento". Isso fica fora do PDF.
 
 ## 6. Cuidados que atravessam o bimestre
 
-1. **Preço:** produto, preço e validade enviados pelo Max ([§1](../PADROES.md)). A existência e o período da BF precisam chegar **até 30/10** (o anúncio sai em 02/11). Produtos e preços, **até 10/11**. Desconto "de/por" só com o preço cheio que o Max mandar.
+1. **Preço:** produto, preço e validade enviados pelo Max ([§1](../PADROES.md)). A existência e o período da BF precisam chegar **até 30/10** (o anúncio sai em 03/11). Produtos e preços, **até 10/11**. Desconto "de/por" só com o preço cheio que o Max mandar.
 2. **Argumento da BF:** compra direto da indústria = preço baixo. 🚫 "O preço não muda", "o mesmo preço do ano todo" ([§14](../PADROES.md)).
 3. **"Quanto custa":** cada item com preço do Max, e o total é a soma exata. 🚫 "Kit pronto" ou "a gente monta" ([§15](../PADROES.md)).
 4. **Cesta:** dezembro é o pico das empresas de cesta, que são clientes da Celmapel. Cesta só pelo serviço, nunca pelo preço contra alguém ([§5](../PADROES.md)).
@@ -109,6 +108,11 @@
 ---
 
 ## Histórico
+
+- **2026-10-27 v3.1:** revisão do PH, com três mudanças:
+  - **Finados (seg 02/11) sem post.** O anúncio da BF vai pra terça 03/11. É exceção à grade fixa, e a v2 tinha voltado essa peça de terça pra segunda.
+  - O Reels de 11/11 virou **"Por que a nossa Black Friday vai ser tão barata?"**, porque a BF ainda não aconteceu.
+  - Saiu a ideia "WhatsApp na BF" (resposta rápida e etiqueta no WhatsApp Business). A lista VIP no WhatsApp continua.
 
 - **2026-10-27 v3:** encartes por categoria. PH: *"ele tinha falado de colocar os encartes temáticos pra cada categoria… não tô vendo nada disso no nosso plano"*. Na [transcrição de 02/10](../referencias/2026-10-02-transcricao-reuniao-onboarding.txt) aparecem três pedidos:
   - Carlos (42:21): encarte com os produtos de cada data, com nome de campanha.

@@ -4,6 +4,16 @@ Log datado do trabalho feito pra Celmapel. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-10-27 (2) — Planejamento nov–dez v3.1 (revisão do PH)
+
+- **Finados (seg 02/11) sem post.** O anúncio "27/11 TEM BLACK FRIDAY NA CELMAPEL!" vai pra terça 03/11. É exceção à grade, decidida pelo PH. A v2 tinha trazido essa peça de terça pra segunda.
+- **Reels de 11/11:** o título virou "Por que a nossa Black Friday **vai ser** tão barata?", porque a BF ainda não aconteceu. A regra de tempo verbal entrou no [PADROES §14](PADROES.md).
+- **Saiu a ideia "WhatsApp na Black Friday"** (resposta rápida e etiqueta no WhatsApp Business), tanto do plano quanto do PDF. A lista VIP continua.
+
+[Plano](estrategia/2026-11-a-12-bimestral.md) e [PDF](apresentacoes/2026-10-26-planejamento-nov-dez.pdf) refeitos. O OQ #44 foi ajustado para o anúncio de 03/11.
+
+---
+
 ## 2026-10-27 — Planejamento nov–dez v3: encartes por categoria + Dia D nos stories
 
 PH: *"na celmapel ele tinha falado de colocar os encartes temáticos pra cada categoria… não tô vendo nada disso no nosso plano bimestral"*. A [transcrição de 02/10](referencias/2026-10-02-transcricao-reuniao-onboarding.txt) confirma três pedidos:

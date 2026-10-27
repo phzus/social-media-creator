@@ -64,7 +64,7 @@ Log completo. O que vale ocupar a reunião está curado em [reuniao-mensal/PAUTA
 ## 🔴 2026-10-26 — Planejamento de novembro e dezembro (BF, Natal, Réveillon)
 
 [Planejamento](estrategia/2026-11-a-12-bimestral.md) · [pesquisa](referencias/2026-10-26-concorrencia-e-tendencias-nov-dez.md).
-44. 🔴 **Black Friday:** vai ter, e qual o período? **Até 30/10**, porque o anúncio sai em 02/11 (v2). Produtos, preço cheio e preço de BF **até 10/11** ([PADROES §1](PADROES.md)).
+44. 🔴 **Black Friday:** vai ter, e qual o período? **Até 30/10**, porque o anúncio sai na terça 03/11 (v3.1; Finados sem post). Produtos, preço cheio e preço de BF **até 10/11** ([PADROES §1](PADROES.md)).
 44a. 🟡 **Lista VIP da BF no WhatsApp:** o Max topa? A Lone escreve a mensagem.
 44b. 🟡 **"Quanto custa":** lista de produtos + preço de cada, uma semana antes de cada sexta (06/11, 13/11, 04/12, 18/12).
 45. 🔴 **O que a loja tem de Natal e Réveillon:** decoração, mesa, embalagem de panetone (caixa, cartucho, lata), balão número 2027, itens de "Natal praiano". Trava as sextas de venda e os tours.
