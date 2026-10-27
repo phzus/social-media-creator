@@ -4,6 +4,26 @@ Log datado do trabalho feito pra Araruama Tintas. Topo = mais recente. Entrada p
 
 ---
 
+## 2026-10-27 — Post de sexta 30/10: "Em outubro, os preços saem da tumba!" (estático, campanha "Outubro Espanta Preço") · validado (1 bloqueante, 5 importantes)
+
+[Peça](conteudo/posts/2026-10-30-outubro-espanta-preco-sai-da-tumba.md), a pedido de PH: Halloween explicando a campanha. É a segunda peça da campanha no feed, depois da vitrine de 16/10. Formato de anúncio direto (§2.8), com kicker OUTUBRO ESPANTA PREÇO e apoio de benefício ("Você chama no WhatsApp já sabendo quanto vai gastar"). Na arte entram 2 selos, Acrilux Standard Branco R$ 159,90 (o maior) e massa PVA 21 kg R$ 35,00, e o CTA "CHAMA NO WHATSAPP E FAZ SEU ORÇAMENTO!". No visual, uma lápide sem texto e o selo de preço saindo da terra.
+
+**Por que não "descontos" (a frase do PH):** a campanha é de preço tabelado e não tem margem pra desconto (09/09). A alternativa com "descontos" só entra se a Coral Sol e Chuva com 15% for pra um selo, com a condição confirmada.
+
+**Validador (v1.1), o que foi aplicado:**
+- **B1:** o apoio citava o selador, que não está na arte.
+- **I1:** "preços baixos saem da tumba" insinuava preço que caiu e voltou.
+- **I2:** o apoio institucional virou benefício.
+- **I3:** a legenda não repete mais os 4 bullets de 16/10.
+- **I4:** saiu o "susto", que já tinha sido usado em 16/10 e ecoava a Atlas do mesmo dia.
+- **I5:** a linha de vigência virou obrigatória.
+
+Isolamento com a Bruno conferido: lá não tem Halloween no mês nem peça de 30/10.
+
+**Trava (Wanderson):** conferir os preços ([OQ #11](OPEN-QUESTIONS.md)) e dizer a condição e a vigência ([OQ #12](OPEN-QUESTIONS.md)). Se a campanha seguir em novembro, o "EM OUTUBRO" do título precisa ser refeito. Não reaproveitar a tumba na segunda 02/11 (Finados).
+
+---
+
 ## 2026-10-22 — Post de segunda 26/10: "Vai pintar o teto do banheiro por causa do mofo? A tinta cobre os pontinhos pretos. Sem saída pro vapor do banho, eles voltam." (estático) · validado (0 bloqueantes, 4 importantes)
 
 [Peça](conteudo/posts/2026-10-26-mofo-do-teto-do-banheiro.md): educativo leve, fora da campanha de Halloween (sem preço, sem produto). Mecanismo **pergunta de intenção + giro de causa**: a pessoa já decidiu pintar por causa do mofo, e a headline mostra que a tinta cobre o que se vê, mas não o vapor sem saída que causa. Apoio com a saída prática (janela depois do banho ou exaustor). CTA na arte (v1.1): "Manda uma foto do teto no WhatsApp (22) 99245-8813 e diz se o banheiro tem janela ou exaustor. A gente olha o seu caso e te orienta." Mofo de banheiro nunca tinha sido assunto da conta; é o caso oposto da infiltração de 21/09 (umidade que nasce dentro do cômodo), e a legenda fecha a exceção (volta sempre no mesmo ponto = pode ser vazamento ou infiltração).

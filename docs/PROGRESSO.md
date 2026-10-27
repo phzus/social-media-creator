@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-27 — Araruama Tintas: Halloween "Outubro Espanta Preço" pra sexta 30/10
+
+Pedido de PH: Halloween explicando a campanha, "tipo 'em outubro os descontos saem da tumba'". [Peça](../clients/araruama-tintas/conteudo/posts/2026-10-30-outubro-espanta-preco-sai-da-tumba.md): estático de anúncio direto, "EM OUTUBRO, OS PREÇOS SAEM DA TUMBA!", com selos do Acrilux (R$ 159,90) e da massa PVA (R$ 35,00) e CTA de orçamento no WhatsApp. "Descontos" saiu porque a campanha é de preço tabelado. "Preços baixos" também saiu, porque o validador viu que lia como preço que caiu e voltou. Validador: 1 bloqueante e 5 importantes, aplicados. Wanderson confere preços e vigência.
+
+---
+
 ## 2026-10-27 — Lote de sexta 30/10: 9 peças em 9 clientes + pesquisa de tendências por cliente
 
 PH pediu as peças de 30/10 e pesquisa de trending topics pra cada cliente (*"sempre mantermos os conteúdos mais quentes"*), com VR e WT olhando a sazonalidade de doença pra puxar exame e vacina. Rodaram 7 `analista-tendencias` em paralelo, salvos em `clients/<slug>/referencias/2026-10-27-tendencias-30-10-e-novembro.md`, e 3 `validador-copy` no lote.
