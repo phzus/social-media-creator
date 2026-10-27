@@ -4,6 +4,14 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ---
 
+## 2026-10-27 — Halloween 2 pra sexta 30/10: "...voltar pro estacionamento e encontrar a vaga vazia!"
+
+A [peça de Halloween de 20/10](conteudo/posts/2026-10-30-halloween-filme-de-terror-mais-assustador.md) **já foi publicada antes** (PH: *"a gente acabou usando essa peça antes"*). A [nova](conteudo/posts/2026-10-30-halloween-vaga-vazia-no-estacionamento.md) repete o molde que o PH escreveu, pra virar dupla, e troca o susto: em vez de seguro vencido, carro levado sem seguro. Apoio: *"SEM SEGURO, O PREJUÍZO DO CARRO LEVADO FICA TODO COM VOCÊ."* CTA de cotação no direct. Alternativas no arquivo: oficina sem seguro e chuva forte.
+
+**Validador-copy:** sem bloqueante de copy. A legenda tinha o BO dos dois lados do contraste (a diferença real é a indenização), e o fecho e as hashtags eram iguais aos da anterior. Os dois foram corrigidos. 🟡 Gate leve do corretor no passo a passo de roubo e furto da legenda.
+
+---
+
 ## 2026-10-22 — Post de segunda 26/10: "Instalou alguma coisa no carro depois que fez o seguro?"
 
 [Estático 4:5](conteudo/posts/2026-10-26-o-carro-na-garagem-e-o-carro-na-apolice.md) que abre a semana de **Auto** do [trimestral §6](estrategia/2026-09-a-11-trimestral.md). Arte: pergunta + dois blocos, *"NO SEU CARRO: Kit gás e central multimídia novos."* × *"NA APÓLICE: Pode estar só o carro de quando você contratou."*, apoio com condicional (em geral precisa ser avisado, sem aviso pode ficar de fora da indenização). CTA na faixa: *"Salva pra conferir na sua apólice."*

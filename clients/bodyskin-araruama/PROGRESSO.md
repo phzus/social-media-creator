@@ -4,6 +4,17 @@ Log datado do trabalho feito pra BodySkin. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-10-27 — Checklist do feriadão: o motion virou estático com preço (sexta 30/10)
+
+PH: *"transforma esse motion em um post estático."* [Estático](conteudo/posts/2026-10-30-checklist-feriadao-estatico.md) com o card de notas inteiro (3 itens ticados e o 4º, "Marcar a avaliação do laser", vazio), o fecho *"ESSE ÚLTIMO DÁ PRA MARCAR PELO LINK DO PERFIL!"* e a oferta **áreas pequenas, 10 sessões por R$ 89,00** (§7, item 1). O [motion](conteudo/roteiros/2026-10-30-motion-flyer-checklist-feriadao.md) foi marcado como substituído.
+
+- **§11 aplicado a peça de feriado** (a pergunta estava aberta): o feriado é só cenário, sem condição de data nem urgência. PH confirma.
+- **O fecho "fica pra volta do feriadão" saiu**, porque empurrava a ação pra novembro com o preço de outubro.
+- **Validador-copy:** sem bloqueante de copy. Saíram o "AGORA" (urgência) e a repetição da lista na legenda, entrou âncora no "sábado" e a lista da RT ficou completa.
+- 🔴 A Cintia aprova seg e sex com 1 semana de antecedência, e o próximo dia dela é a própria sexta 30/10. Pedir OK excepcional até qua 28/10.
+
+---
+
 ## 2026-10-23 — Post de segunda 26/10 refeito com preço + regra nova: peça sai com preço
 
 PH: *"Na bodyskin a gente tem que fazer peça com preço mesmo."* [Peça de 26/10](conteudo/posts/2026-10-26-laser-na-faixa-de-barba-nao-tira-a-barba.md) v2: a objeção da barba virou gancho de oferta. Headline *"FAZER LASER NA FAIXA DE BARBA NÃO É FICAR SEM BARBA. / E NO PACOTE MASCULINO ELA VEM DE PRESENTE!"*, oferta masculina do Outubro OFF (10 tórax + 10 abdômen + 10 virilha, ganha 10 faixa de barba + 10 axilas, **16x de R$ 132,00**), CTA de avaliação gratuita pelo link do perfil, disclaimer de avaliação prévia. Foto dominante, diferente da 23/10 (tipográfica) e do anúncio de 19/10 (card de 5 áreas).

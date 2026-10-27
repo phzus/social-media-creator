@@ -4,6 +4,18 @@ Log datado do trabalho feito pra Max Contabilidade. Topo = mais recente. Entrada
 
 ---
 
+## 2026-10-27 — Post de sexta 30/10: escala 5x2 pelo lado do imposto (folha → fator R / INSS)
+
+PH: *"Vai ter escala 5x2 e isso pode mudar algumas coisas."* A pesquisa ([referencias/2026-10-27](referencias/2026-10-27-tendencias-30-10-e-novembro.md)) mostrou que **já é lei**: Emenda Constitucional 141, promulgada em 16/10/2026, com 5x2 e 42h em 60 dias (dezembro), 40h 12 meses depois, sem redução salarial, e lei complementar futura pra MEI/ME/EPP.
+
+[Peça](conteudo/posts/2026-10-30-escala-5x2-folha-e-imposto.md): *"A escala 5x2 começa em dezembro. / Se a folha crescer pra cobrir a folga a mais, o imposto da empresa também pode mudar."* Entra no §0 (só tributário) pelo único ponto em que a escala encosta no imposto: folha maior mexe no **fator R** (anexo do Simples, em algumas atividades de serviço) e na **contribuição patronal ao INSS** fora do Simples. A peça não diz se o imposto sobe ou desce. CTA: comenta 5x2, como em 26/10.
+
+**Validador-copy:** sem bloqueante de copy. Saíram "muitas empresas de serviço" (o fator R vale só em algumas), a hashtag de campanha #Fim6x1 e a data relativa "um ano depois". A lei complementar de ME/EPP saiu da lista e ganhou parágrafo próprio, com a ressalva de que a regra chega diferente nessas empresas.
+
+🔴 Escritório confirma data de início, fator R, INSS e a frase da lei complementar · 🔴 o cliente aprova o recorte (é tema de DP entrando pelo imposto) · 🔴 quem responde o direct.
+
+---
+
 ## 2026-10-22 — Post de segunda 26/10: "Empresa do Simples: o que você vender na Black Friday e no Natal fica 12 meses na conta da alíquota."
 
 [Peça](conteudo/posts/2026-10-26-fim-de-ano-forte-fica-12-meses-na-aliquota.md), estático 4:5, foco tributário ([PADROES §0](PADROES.md)). Linha 2: *"Se isso fizer o acumulado crescer, ela pode ficar mais alta até nos meses fracos de 2027."* Mecanismo novo na conta: **efeito adiado**, em afirmação (a Araruama Tintas do mesmo dia abre em pergunta). Black Friday e Natal entram como contexto. CTA na arte, **primeiro de comentário da conta**, porque não há canal confirmado e a arte não sai com lacuna: *"Comenta ALÍQUOTA pra receber no direct como o fim de ano entra na alíquota da sua empresa."*

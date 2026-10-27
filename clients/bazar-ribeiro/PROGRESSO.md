@@ -4,6 +4,16 @@ Log datado do trabalho feito pro Bazar Ribeiro. Topo = mais recente. Entrada por
 
 ---
 
+## 2026-10-27 — Post de sexta 30/10: lâmpada LED Tramontina 9W a R$ 1,90 (fecha a semana de iluminação)
+
+[Peça](conteudo/posts/2026-10-30-lampada-led-garagem-r-1-90.md), layout diversificado (WD-40). Headline: *"A LÂMPADA DA GARAGEM QUEIMOU E FICOU PRA DEPOIS? / A LED TRAMONTINA 9W SAI POR R$ 1,90 CADA NO BAZAR RIBEIRO!"* A segunda ensinou a cor da luz (6500K = garagem), e a sexta vende essa lâmpada.
+
+- **Pesquisa de tendências** ([referencias/2026-10-27](referencias/2026-10-27-tendencias-30-10-e-novembro.md)) sugeriu protetor de raio (já usado em 20/10) e luminária de emergência (a Kian foi postada em 23/10 nos dois perfis, conferido com `ja-postado.sh`). As duas foram descartadas. O ventilador fica pra semana de verão.
+- **Validador-copy:** sem bloqueante. Entrou "CADA" no preço, a legenda deixou de dizer que a segunda "indicou" o produto, e a foto é do ambiente (garagem), não das duas lâmpadas da segunda.
+- 🔴 R$ 1,90 é média vendida: confirmar a etiqueta com o Junior nas duas lojas. Selo "por tempo limitado" sai se não houver prazo.
+
+---
+
 ## 2026-10-22 — Post de segunda 26/10: "Trocou a lâmpada e a sala ficou com luz de farmácia. / A cor da luz vem escrita na caixa, no número com K."
 
 [Peça](conteudo/posts/2026-10-26-lampada-luz-de-farmacia.md): estático na base da casa (uma das 2 peças de base da semana, [PADROES §8](PADROES.md)), **os dois perfis**, mesma arte. Educativo leve abrindo uma **semana de iluminação** (proposta; a conta nunca teve). Lâmpada LED é o item que mais sai da loja (Tramontina 9 W 6,5K, A7 da curva ABC), e a loja vende as duas cores (Kian em 6,5K e 3,0K).

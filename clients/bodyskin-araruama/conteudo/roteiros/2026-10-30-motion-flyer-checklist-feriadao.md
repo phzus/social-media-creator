@@ -2,7 +2,7 @@
 
 **Cliente:** bodyskin-araruama · **Data:** sexta 30/10/2026, véspera do feriadão de 31/10 a 02/11 (Finados cai na segunda 02/11) · **Plataforma:** Instagram, Reels 9:16 + recorte pros stories · **Formato:** motion flyer (arte animada, sem rosto e sem locução, 15-18s) · **Funil:** TOFU · **Pilar:** P4 Aspiracional, com fecho em avaliação
 **Pedido de PH (20/10):** fazer a nossa versão do post da Espaço Laser "Checklist para o fim de semana perfeito" (referência abaixo) pro feriadão que vem aí.
-**Status:** 🟡 roteiro pronto · envio à Cintia até **sexta 23/10** (ela aprova às segundas e sextas, com 1 semana de antecedência, [PADROES §9](../../PADROES.md))
+**Status:** ⏸️ **substituído pelo [estático com preço](../posts/2026-10-30-checklist-feriadao-estatico.md)** (PH, 27/10: *"transforma esse motion em um post estático"*). O roteiro fica como base caso o motion volte no feriadão de 20/11.
 
 ---
 

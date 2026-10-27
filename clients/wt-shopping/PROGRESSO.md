@@ -4,6 +4,18 @@ Log datado do trabalho feito pra WT Shopping. Topo = mais recente. Entrada por b
 
 ---
 
+## 2026-10-27 — Post de sexta 30/10: carrapato pela clínica ("Tirou o carrapato e ele parece ótimo?")
+
+[Peça](conteudo/posts/2026-10-30-carrapato-pode-levar-semanas-pra-dar-sinal.md), arte única 4:5, frente **clínica**. Headline: *"Tirou o carrapato e ele parece ótimo? / As doenças do carrapato podem levar semanas pra dar sinal."* CTA: agendar consulta pelo WhatsApp.
+
+- **Pedido de PH (27/10):** sazonalidade de doença pra alertar e puxar exame e vacina na WT e na VR. A pesquisa ([referencias/2026-10-27](referencias/2026-10-27-tendencias-30-10-e-novembro.md)) não achou dado local de 2026. A peça é sazonal e não afirma surto.
+- **Antiparasitário fora** (é loja, e misturar quebra o §2). Vira peça de loja em novembro, junto com pulga e V8/V10.
+- **Validador-copy:** sem bloqueante. Os sinais graves (manchas roxas, sangramento) saíram da lista de "sinais discretos" e viraram linha de "vai logo à clínica". A headline foi pro plural.
+- **Isolamento com a VR:** a dirofilariose da VR foi pra 06/11, com outros sinais (tosse e fôlego).
+- 🔴 A clínica confirma que atende consulta por carrapato e como faz o exame.
+
+---
+
 ## 2026-10-23 — Post de segunda 26/10 refeito: "DA RAÇÃO À CONSULTA: NA WT TEM DE TUDO PRO SEU PET!" (vitrine pet, loja + clínica)
 
 PH achou a peça de piscina "meio nada a ver" e pediu o tema de clínica/agropecuária "falando que tem de tudo para os pets". [Peça nova](conteudo/posts/2026-10-26-da-racao-a-consulta-tem-de-tudo.md), arte única, anúncio direto (caixa alta, exclamação no fecho). Etiquetas: rações · coleiras e acessórios · brinquedos · medicamentos · clínica veterinária. CTA "CHAMA NO WHATSAPP E PEDE O QUE SEU PET PRECISA!". Foto de cão **e** gato (as vitrines anteriores eram só cachorro).

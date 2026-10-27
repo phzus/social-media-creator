@@ -4,6 +4,17 @@ Log datado do trabalho feito pra Veterinária Regional. Topo = mais recente. Ent
 
 ---
 
+## 2026-10-27 — Venda direta de Cardiologia (dirofilariose), sugerida pra sex 06/11
+
+[Peça](conteudo/posts/2026-11-06-verme-do-coracao-vem-do-mosquito.md), template Educativo no formato de venda direta (§5). Kicker *"Tosse sem estar resfriado / e para no passeio pra respirar?"* → **TEM ESPECIALISTA PRA ISSO** → *"Pode ser o verme do coração, que o mosquito transmite. A Cardiologia da Regional avalia."*
+
+- **Pedido de PH (27/10):** sazonalidade de doença pra alertar e puxar exame e vacina. A pesquisa ([referencias/2026-10-27](referencias/2026-10-27-tendencias-30-10-e-novembro.md)) confirmou a campanha antirrábica de Araruama (Boa Perna em 31/10, Parque de Exposições até 10/12) e casos de dirofilariose no litoral fluminense em estudos. **Sem dado de Araruama.**
+- **Por que 06/11 e não 30/10:** a sexta 30/10 já tem a [otite](conteudo/posts/2026-10-30-voltou-da-praia-olha-a-orelha.md), que fecha a semana de Dermatologia, e a WT sai no mesmo dia com carrapato.
+- **Validador-copy:** sem bloqueante. O kicker didático virou sintoma (§5), e a lista de sinais foi separada da WT.
+- 🔴 A equipe confirma que a Cardiologia atende a suspeita e se o exame é feito na clínica.
+
+---
+
 ## 2026-10-22 — Post de segunda 26/10: Mito x Verdade "Tosa bem baixinha deixa o cachorro mais fresco" (Dermatologia) · validado (3 bloqueantes, 7 importantes)
 
 [Peça](conteudo/posts/2026-10-26-mito-tosa-baixinha-refresca.md), estático no split Mito x Verdade. Kicker "Antes de pedir pra raspar ele pro verão:" → verdade "O pelo faz sombra na pele. Raspado até a pele, o cachorro pode se queimar, e o de pelo duplo nem sempre sente menos calor. A tosa certa depende da pelagem dele." → âncora **DERMATOLOGIA** → banner "Salva e mostra no dia da tosa" (CTA na arte).

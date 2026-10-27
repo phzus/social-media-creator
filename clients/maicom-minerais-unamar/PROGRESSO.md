@@ -4,6 +4,16 @@ Log datado do trabalho feito pra Maicom. Topo = mais recente. Entrada por bloco 
 
 ---
 
+## 2026-10-27 — Post de sexta 30/10: "Troca o piso da casa em até 10x sem juros!"
+
+[Peça](conteudo/posts/2026-10-30-piso-da-casa-em-10x-sem-juros.md), estático de oferta com a condição de pagamento como argumento: *"TROCA O PISO DA CASA EM ATÉ 10X SEM JUROS! / COM O JURO ALTO, PARCELAR SEM PAGAR A MAIS ALIVIA A CONTA DA OBRA."* CTA: manda a medida do cômodo no WhatsApp.
+
+- **Pesquisa de tendências** ([referencias/2026-10-27](referencias/2026-10-27-tendencias-30-10-e-novembro.md)): o varejo de material está apertado (Selic a 14%, Abramat projeta 0,5% em 2026). O "reforma antes da temporada" já rodou 3x em outubro. A Black Friday (27/11) fica pra novembro, dependendo de preço da loja.
+- **Validador-copy:** sem bloqueante. "Pesa na conta" (sentido invertido) virou "alivia", a legenda ficou com um CTA só e o bloco fixo de contato, e a palavra banida saiu até do brief.
+- 🟡 Valor mínimo do 10x segue sem confirmação ("em até").
+
+---
+
 ## 2026-10-22 — Post de segunda 26/10: "Pra pôr piso novo, nem sempre precisa arrancar o antigo"
 
 [Peça](conteudo/posts/2026-10-26-piso-novo-em-cima-do-velho.md): estático 4:5, mecanismo **desfaz a crença + teste caseiro**. Headline: "Pra pôr piso novo, nem sempre precisa arrancar o antigo. / Bate no chão com o cabo da vassoura: som firme é bom sinal." Linha de apoio: cerâmica firme dentro de casa, limpa e sem cera; o pedreiro assenta o novo por cima com a argamassa certa. Primeira peça da conta (e da carteira) sobre piso sobre piso: tira a objeção da quebradeira de quem adia a troca, sem repetir a temporada como argumento.

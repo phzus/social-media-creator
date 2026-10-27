@@ -6,7 +6,7 @@
 **Formato:** estático 4:5, arte única (sexta é estático por padrão, [PADROES §4](../../PADROES.md))
 **Semana do trimestral:** Auto (26-30/10). A pauta mapeada pra 30/10 era *"5 situações em que o seguro auto não paga"*, e ela continua sendo o conteúdo. O Halloween entra como a moldura, como o [calendário 2025 do cliente](../../referencias/2026-10-13-calendario-editorial-2025-do-cliente.md) pedia ("Não deixe a falta do seguro te assombrar").
 **Funil:** TOFU/MOFU. **CTA:** comentário (16/10 e 19/10 fecharam em direct, [PADROES §5](../../PADROES.md)).
-**Status:** ✅ copy da arte fechada por PH (20/10); falta só a confirmação leve do corretor.
+**Status:** ✅ **já publicada antes de 30/10** (PH, 27/10: *"a gente acabou usando essa peça antes"*). O slot de 30/10 ficou com a [Halloween 2, vaga vazia](2026-10-30-halloween-vaga-vazia-no-estacionamento.md), no mesmo molde. Fica como referência anti-repetição.
 
 ---
 
@@ -71,7 +71,7 @@ A peça não afirma cobertura. Só uma confirmação: alguma seguradora com que 
 
 - A pauta "5 situações em que o seguro auto não paga" saiu do slot. Ela pode voltar em novembro, sem repetir as cenas já usadas.
 
-**Prazo:** brief ao designer até ter 27/10 de manhã · envio ao cliente qua 28/10 até 15h · publicação na sex 30/10.
+**Prazo (original, superado):** a peça foi publicada antes da data planejada.
 
 ---
 

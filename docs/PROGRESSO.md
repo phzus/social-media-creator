@@ -4,6 +4,27 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-27 — Lote de sexta 30/10: 9 peças em 9 clientes + pesquisa de tendências por cliente
+
+PH pediu as peças de 30/10 e pesquisa de trending topics pra cada cliente (*"sempre mantermos os conteúdos mais quentes"*), com VR e WT olhando a sazonalidade de doença pra puxar exame e vacina. Rodaram 7 `analista-tendencias` em paralelo, salvos em `clients/<slug>/referencias/2026-10-27-tendencias-30-10-e-novembro.md`, e 3 `validador-copy` no lote.
+
+| Cliente | Peça | Mecanismo |
+|---|---|---|
+| Atlas | [Halloween 2, vaga vazia](../clients/atlas-corretora/conteudo/posts/2026-10-30-halloween-vaga-vazia-no-estacionamento.md) (a 1ª já foi publicada) | Molde de terror do PH, susto novo |
+| BodySkin | [Checklist do feriadão em estático, com R$ 89](../clients/bodyskin-araruama/conteudo/posts/2026-10-30-checklist-feriadao-estatico.md) | Item pendente na lista |
+| Contele | [Casa cheia e a luz cai](../clients/contele-solar/conteudo/posts/2026-10-30-casa-cheia-no-fim-de-ano-e-a-luz-cai.md) | Cena + o essencial na estação |
+| WT | [Carrapato pela clínica](../clients/wt-shopping/conteudo/posts/2026-10-30-carrapato-pode-levar-semanas-pra-dar-sinal.md) | Sinal atrasado |
+| VR | [Dirofilariose, Cardiologia](../clients/veterinaria-regional/conteudo/posts/2026-11-06-verme-do-coracao-vem-do-mosquito.md), **sugerida pra 06/11** (30/10 segue com a otite) | Sintoma → especialidade |
+| Max | [5x2 pelo lado do imposto](../clients/max-contabilidade/conteudo/posts/2026-10-30-escala-5x2-folha-e-imposto.md) (EC 141 já promulgada em 16/10) | Notícia → efeito que ninguém liga |
+| Bazar | [LED Tramontina 9W a R$ 1,90](../clients/bazar-ribeiro/conteudo/posts/2026-10-30-lampada-led-garagem-r-1-90.md) | Fecha a semana de iluminação |
+| Maicom | [Piso em até 10x sem juros](../clients/maicom-minerais-unamar/conteudo/posts/2026-10-30-piso-da-casa-em-10x-sem-juros.md) | Condição de pagamento |
+| MR | [Montagem pro Natal não para por ferragem](../clients/mr-distribuidora-mdf/conteudo/posts/2026-10-30-movel-pro-natal-nao-para-esperando-ferragem.md) | Antecipação (lista antes do corte) |
+
+**Validação:** 1 bloqueante de copy (a Contele dizia "as luzes seguem ligadas", sugerindo a casa inteira), aplicado, e importantes aplicados nas 9. WT × VR estavam parecidas demais e foram separadas por data e por sinal. A pesquisa sugeriu dois itens já queimados no Bazar (protetor de raio e luminária), cortados ao cruzar com a memória e com `ja-postado.sh`. Nova memória: `pesquisa-de-tendencias-antes-do-lote`.
+
+---
+
+
 ## 2026-10-26 (5) — Celmapel: planejamento nov–dez v2 (revisão do PH)
 
 [Plano v2](../clients/celmapel-festas/estrategia/2026-11-a-12-bimestral.md) + [PDF refeito](../clients/celmapel-festas/apresentacoes/2026-10-26-planejamento-nov-dez.pdf). As mudanças:

@@ -4,6 +4,17 @@ Log datado do trabalho feito pra Contele. Topo = mais recente. Entrada por bloco
 
 ---
 
+## 2026-10-27 — Post de sexta 30/10: "Casa cheia no fim de ano, todo mundo junto na sala, e a luz cai."
+
+[Estático](conteudo/posts/2026-10-30-casa-cheia-no-fim-de-ano-e-a-luz-cai.md) de estação de energia (EcoFlow + BLUETTI no mesmo peso), na direção de PH: fim de ano com visita em casa e a luz caindo. Arte: *"Ligados numa estação de energia, o roteador, um abajur e a TV ficam funcionando enquanto a bateria durar."* · CTA ENERGIA no direct. Fundo Ink como exceção do Pilar 1 (PH confirma).
+
+- **O ar-condicionado ficou fora da peça de estação** porque a estação não segura ar ([§8](PADROES.md)). Vira gancho de energia solar (conta do verão).
+- **Validador-copy:** 1 bloqueante aplicado. A arte dizia "o Wi-Fi, as luzes e a TV seguem ligados", o que sugeria a casa inteira funcionando sozinha. Também saiu "quantas pessoas em casa" do CTA (o tamanho depende da carga).
+- **Pesquisa de tendências** em [referencias/2026-10-27](referencias/2026-10-27-tendencias-30-10-e-novembro.md): bandeira de novembro sai em 30/10, Enel abrindo bases na região, fio B a 75% em 2027.
+- **Pauta de dezembro (PH):** jantar de Natal da família garantido mesmo sem luz. Depende do Vinicius dizer quais estações seguram geladeira e por quanto tempo.
+
+---
+
 ## 2026-10-22 — Post de segunda 26/10: "65%" (o sol que Araruama recebe a mais que Berlim)
 
 [Estático](conteudo/posts/2026-10-26-araruama-tem-mais-sol-que-berlim.md) no Pilar 1, número gigante. Mecanismo **número contraintuitivo + comparação**: Araruama recebe cerca de 65% mais sol por ano que Berlim (≈1.780 × ≈1.070 kWh/m²), e com menos sol a Alemanha foi o 4º maior mercado solar do mundo em 2025. Premissa e fonte na arte (irradiação média anual, Global Solar Atlas). A legenda separa sol de geração: pela estimativa do atlas, o mesmo sistema geraria cerca de 40% mais energia por ano aqui.

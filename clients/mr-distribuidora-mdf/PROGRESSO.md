@@ -4,6 +4,16 @@ Log datado do trabalho feito pra MR Distribuidora. Topo = mais recente. Entrada 
 
 ---
 
+## 2026-10-27 — Post de sexta 30/10: "Montagem de móvel prometido pro Natal não pode parar esperando uma dobradiça."
+
+[Peça](conteudo/posts/2026-10-30-movel-pro-natal-nao-para-esperando-ferragem.md), série "Do projeto para a lista". O mecanismo é a antecipação (lista fechada antes do primeiro corte), e o CTA é de projeto (lista pra orçamento). Direção de PH: fim de ano, muita gente reformando.
+
+- **Pesquisa de tendências** ([referencias/2026-10-27](referencias/2026-10-27-tendencias-30-10-e-novembro.md)): não há dado de pico de dezembro, então a peça não afirma "lotado" nem "vai faltar". Para novembro, com confirmação de estoque: verde-oliva + madeira (Guararapes 2026), Nordic Oak e Berneck Legado.
+- **Validador-copy:** sem bloqueante. A headline diz "montagem" (é ela que para), o apoio ganhou o traço da MR ("chapa, fita e ferragem num pedido só"), o parafuso saiu (não está confirmado no mix) e a última frase não sugere mais estoque.
+- 🟡 **Pergunta pra MR:** quais padrões Guararapes/Berneck 2026 tem em estoque? Vende Tip-On?
+
+---
+
 ## 2026-10-22 — Post de segunda 26/10: "A luz de LED do armário apagou. / Pra chegar na fonte da fita, só desmontando o móvel."
 
 [Peça](conteudo/posts/2026-10-26-fonte-do-led-atras-do-painel.md): estático, **#05 da série "Detalhe que gera indicação"**, e a primeira peça de **iluminação** da conta. O Briefing Estratégico lista "iluminação de móvel" no pilar e na descrição da série. `ja-postado.sh` (led|ilumina|fonte|luz) e o grep em `conteudo/` não acharam nada.
