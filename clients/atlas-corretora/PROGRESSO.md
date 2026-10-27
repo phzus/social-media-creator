@@ -4,9 +4,24 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ---
 
+## 2026-10-27 (2) — Halloween 2 refeito: "Vai de carro pra festa de Halloween? Se beber, a fantasia da noite é de passageiro!"
+
+PH reprovou a vaga vazia: *"tem que mudar o ângulo, ta praticamente copiado kkkkkkkk"*. Ela repetia o molde "Não tem filme de terror mais assustador que…", o kicker, o CTA e o pôster da peça já publicada, e só trocava a cena. O arquivo foi apagado e fica no histórico do git.
+
+A [nova](conteudo/posts/2026-10-30-halloween-festa-fantasia-de-passageiro.md) entra pelo Halloween como ocasião, a festa de sábado 31/10. Usa uma das "5 situações em que o seguro auto não paga", a pauta original do slot: dirigir depois de beber.
+- **Kicker:** SEGURO AUTO | SÁBADO, 31/10.
+- **Apoio:** "Dependendo da apólice, se você dirigir depois de beber, o seguro pode não cobrir o seu carro."
+- **CTA:** conferir a apólice no direct. Cotação não responde o alerta.
+
+**Validador:** 2 bloqueantes (gate de cobertura, piada sem "de carro" na linha 1) e 6 importantes, aplicados (v1.1).
+
+**Trava:** o corretor confirma o claim de embriaguez × danos ao próprio carro. Sem resposta até qua 28/10 de manhã, sobe a **versão B**, sem claim de cobertura. A vaga vazia continua livre pra uma peça futura, fora do molde de filme de terror.
+
+---
+
 ## 2026-10-27 — Halloween 2 pra sexta 30/10: "...voltar pro estacionamento e encontrar a vaga vazia!"
 
-A [peça de Halloween de 20/10](conteudo/posts/2026-10-30-halloween-filme-de-terror-mais-assustador.md) **já foi publicada antes** (PH: *"a gente acabou usando essa peça antes"*). A [nova](conteudo/posts/2026-10-30-halloween-vaga-vazia-no-estacionamento.md) repete o molde que o PH escreveu, pra virar dupla, e troca o susto: em vez de seguro vencido, carro levado sem seguro. Apoio: *"SEM SEGURO, O PREJUÍZO DO CARRO LEVADO FICA TODO COM VOCÊ."* CTA de cotação no direct. Alternativas no arquivo: oficina sem seguro e chuva forte.
+A [peça de Halloween de 20/10](conteudo/posts/2026-10-30-halloween-filme-de-terror-mais-assustador.md) **já foi publicada antes** (PH: *"a gente acabou usando essa peça antes"*). A nova (vaga vazia, reprovada no mesmo dia, ver acima) repete o molde que o PH escreveu, pra virar dupla, e troca o susto: em vez de seguro vencido, carro levado sem seguro. Apoio: *"SEM SEGURO, O PREJUÍZO DO CARRO LEVADO FICA TODO COM VOCÊ."* CTA de cotação no direct. Alternativas no arquivo: oficina sem seguro e chuva forte.
 
 **Validador-copy:** sem bloqueante de copy. A legenda tinha o BO dos dois lados do contraste (a diferença real é a indenização), e o fecho e as hashtags eram iguais aos da anterior. Os dois foram corrigidos. 🟡 Gate leve do corretor no passo a passo de roubo e furto da legenda.
 

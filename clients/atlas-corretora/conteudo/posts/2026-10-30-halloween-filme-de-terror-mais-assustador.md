@@ -6,7 +6,7 @@
 **Formato:** estático 4:5, arte única (sexta é estático por padrão, [PADROES §4](../../PADROES.md))
 **Semana do trimestral:** Auto (26-30/10). A pauta mapeada pra 30/10 era *"5 situações em que o seguro auto não paga"*, e ela continua sendo o conteúdo. O Halloween entra como a moldura, como o [calendário 2025 do cliente](../../referencias/2026-10-13-calendario-editorial-2025-do-cliente.md) pedia ("Não deixe a falta do seguro te assombrar").
 **Funil:** TOFU/MOFU. **CTA:** comentário (16/10 e 19/10 fecharam em direct, [PADROES §5](../../PADROES.md)).
-**Status:** ✅ **já publicada antes de 30/10** (PH, 27/10: *"a gente acabou usando essa peça antes"*). O slot de 30/10 ficou com a [Halloween 2, vaga vazia](2026-10-30-halloween-vaga-vazia-no-estacionamento.md), no mesmo molde. Fica como referência anti-repetição.
+**Status:** ✅ **já publicada antes de 30/10** (PH, 27/10: *"a gente acabou usando essa peça antes"*). O slot de 30/10 ficou com a [Halloween 2, festa de sábado](2026-10-30-halloween-festa-fantasia-de-passageiro.md), com outro ângulo (a vaga vazia no mesmo molde foi reprovada por PH em 27/10: "praticamente copiado"). Fica como referência anti-repetição.
 
 ---
 

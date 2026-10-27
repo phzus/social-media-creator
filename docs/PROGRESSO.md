@@ -16,7 +16,7 @@ PH pediu as peças de 30/10 e pesquisa de trending topics pra cada cliente (*"se
 
 | Cliente | Peça | Mecanismo |
 |---|---|---|
-| Atlas | [Halloween 2, vaga vazia](../clients/atlas-corretora/conteudo/posts/2026-10-30-halloween-vaga-vazia-no-estacionamento.md) (a 1ª já foi publicada) | Molde de terror do PH, susto novo |
+| Atlas | [Halloween 2, festa de sábado](../clients/atlas-corretora/conteudo/posts/2026-10-30-halloween-festa-fantasia-de-passageiro.md) (a 1ª já foi publicada; a vaga vazia foi reprovada por PH em 27/10: "praticamente copiado") | Pergunta + trocadilho (fantasia de passageiro), embriaguez × cobertura |
 | BodySkin | [Checklist do feriadão em estático, com R$ 89](../clients/bodyskin-araruama/conteudo/posts/2026-10-30-checklist-feriadao-estatico.md) | Item pendente na lista |
 | Contele | [Casa cheia e a luz cai](../clients/contele-solar/conteudo/posts/2026-10-30-casa-cheia-no-fim-de-ano-e-a-luz-cai.md) | Cena + o essencial na estação |
 | WT | [Carrapato pela clínica](../clients/wt-shopping/conteudo/posts/2026-10-30-carrapato-pode-levar-semanas-pra-dar-sinal.md) | Sinal atrasado |

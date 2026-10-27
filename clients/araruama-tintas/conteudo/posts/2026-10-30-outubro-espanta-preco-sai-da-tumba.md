@@ -85,7 +85,7 @@
 
 **Repetição dentro da conta:** a palavra "susto", já usada em 16/10 ("o susto fica por conta do Halloween"), não aparece aqui. A legenda lista só os 2 itens da arte, e não os 4 bullets de 16/10.
 
-**Lote do dia 30/10:** a Atlas também sai com Halloween ("Não tem filme de terror mais assustador que..."). Lá o mecanismo é o susto de cena (vaga vazia). Aqui é a piada do preço com tumba, sem "susto". Nenhuma outra peça do lote usa tumba.
+**Lote do dia 30/10:** a Atlas também sai com Halloween (festa de sábado: "se beber, a fantasia da noite é de passageiro"), um aviso de bebida e carona sem susto. Aqui é a piada do preço com tumba. Nenhuma outra peça do lote usa tumba.
 
 **Finados (seg 02/11):** a tumba é piada de Halloween de sexta. Não reaproveitar o tema na segunda.
 

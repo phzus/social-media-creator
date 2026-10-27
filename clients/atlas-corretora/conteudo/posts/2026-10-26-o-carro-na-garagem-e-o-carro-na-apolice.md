@@ -9,7 +9,7 @@
 **CTA:** salvar (23/10 comenta SIMULAR · 28/10 direct/link na bio · 30/10 cotação no direct).
 **Status:** 🟡 **validada (v1.1).** Arte pode ir ao designer com **apoio e faixa de CTA em camadas separadas**. O apoio e a legenda afirmam regra de cobertura com condicional e passam pelo corretor ([PADROES §2](../../PADROES.md)). Fallback do apoio escrito abaixo.
 
-> **Abre a semana de Auto** do [trimestral §6](../../estrategia/2026-09-a-11-trimestral.md) (26-30/10). Quarta 28/10 é o Reel do Dia do Servidor (condição especial, CTA no direct) e sexta 30/10 é o Halloween do seguro vencido (CTA de cotação). A semana fica com um arco de renovação: **conferir o que está na apólice (26) → condição pra servidor (28) → não deixar vencer (30)**. Esta peça não fala de vencimento nem de condição.
+> **Abre a semana de Auto** do [trimestral §6](../../estrategia/2026-09-a-11-trimestral.md) (26-30/10). Quarta 28/10 é o Reel do Dia do Servidor (condição especial, CTA no direct) e sexta 30/10 é o Halloween do seguro vencido (CTA de cotação). A semana fica com um arco de renovação: **conferir o que está na apólice (26) → condição pra servidor (28) → dirigir depois de beber pode tirar a cobertura (30, Halloween; ajustado em 27/10)**. Esta peça não fala de vencimento nem de condição.
 >
 > **Funil:** TOFU/MOFU. Fala com quem já tem seguro auto e vai renovar em algum momento, e entrega uma checagem que essa pessoa consegue fazer sozinha, o que justifica o salvamento.
 
