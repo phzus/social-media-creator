@@ -63,6 +63,7 @@ O problema central da conta é a percepção "Celmapel = loja de festas".
 - **Vídeo:** pessoa real, câmera próxima, fala natural, pouca edição, produto na mão, preço com validade.
 - **Arte:** vitrine organizada (showroom), mais arrumada que o vídeo.
 - **Encarte inteligente:** por categoria, missão de compra, data ou público ("Quarta do Descartável", "Especial Revendedor"). Nunca o feed inteiro de encarte.
+- **Sexta do Encarte (PH, 27/10):** o Max pediu "encarte semanal". No feed sai 1 por semana, toda sexta, com o topo fixo "ENCARTE · [CATEGORIA]" e as categorias em rodízio. O "Quanto custa" conta como o encarte da semana. Se a sexta for feriado, o encarte vai pra segunda. O Dia D (terça da Confeitaria, quarta do Descartável) vai nos stories.
 - **Carrossel fixado (perfil):** cada slide 2 funciona como gancho (o Instagram reapresenta o carrossel pelo slide 2); capa e texto dentro da zona central do grid (3:4); **horário de feriado nunca vai em arte fixada** (o Instagram não troca a imagem de post publicado; vai por story).
 
 ## 10. ⚠️ Dado operacional: de onde vem (BLOQUEANTE em peça com endereço, horário ou telefone)

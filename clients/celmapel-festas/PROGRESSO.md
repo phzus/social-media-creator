@@ -4,6 +4,34 @@ Log datado do trabalho feito pra Celmapel. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-10-27 (3) — Planejamento nov–dez v3.2: Sexta do Encarte (1 por semana)
+
+PH: *"Ele não queria esses encartes por semana? Tipo 4 vezes no mês"*. Ele estava certo: o Max diz "encarte semanal" duas vezes na [transcrição de 02/10](referencias/2026-10-02-transcricao-reuniao-onboarding.txt), e a v3 tinha 6 encartes no bimestre, só 2 em novembro.
+
+PH escolheu a opção **Sexta do Encarte**: 1 encarte por semana, toda sexta, com topo fixo "ENCARTE · [CATEGORIA]". São 9 no bimestre:
+
+| Data | Categoria |
+|---|---|
+| 06/11 | Embalagem |
+| 13/11 | Festa |
+| 20/11 | Descartável |
+| 27/11 | Black Friday |
+| 04/12 | Festa |
+| 11/12 | Embalagem |
+| 18/12 | Festa |
+| seg 21/12 | Confeitaria |
+| seg 28/12 | Descartável |
+
+- Nas 4 sextas em que aparece, o "Quanto custa" é o encarte da semana.
+- Quando a sexta é feriado (Natal, Ano Novo), o encarte sai na segunda.
+- 07/12 e 14/12 voltaram a ser estático. O 23/11 voltou a ser o carrossel da BF.
+- O mix continua em 10 de 27 peças com produto e preço.
+- O Dia D dos stories continua.
+
+[Plano](estrategia/2026-11-a-12-bimestral.md), [PDF](apresentacoes/2026-10-26-planejamento-nov-dez.pdf) e [PADROES §9](PADROES.md) atualizados.
+
+---
+
 ## 2026-10-27 (2) — Planejamento nov–dez v3.1 (revisão do PH)
 
 - **Finados (seg 02/11) sem post.** O anúncio "27/11 TEM BLACK FRIDAY NA CELMAPEL!" vai pra terça 03/11. É exceção à grade, decidida pelo PH. A v2 tinha trazido essa peça de terça pra segunda.

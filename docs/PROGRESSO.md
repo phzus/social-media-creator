@@ -4,6 +4,15 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-27 — Celmapel: plano nov–dez v3.1 e v3.2
+
+- **v3.1:** Finados sem post, com o anúncio da BF na terça 03/11. O Reels de 11/11 virou "vai ser tão barata". Saiu a ideia do WhatsApp na BF.
+- **v3.2:** a Sexta do Encarte, 1 por semana (9 no bimestre), atendendo o "encarte semanal" do Max. O "Quanto custa" conta como encarte da semana.
+
+[Plano](../clients/celmapel-festas/estrategia/2026-11-a-12-bimestral.md) e PDF refeitos.
+
+---
+
 ## 2026-10-27 — Celmapel: planejamento nov–dez v3 com encartes por categoria
 
 PH apontou que os encartes temáticos por categoria, pedidos pelo cliente na reunião de 02/10, não estavam no plano bimestral. Na v3, 6 peças do feed viraram a série "ENCARTE · [CATEGORIA]" e o Dia D semanal (terça Confeitaria, quarta Descartável) entrou nos stories. O HTML e o PDF foram refeitos. [Plano](../clients/celmapel-festas/estrategia/2026-11-a-12-bimestral.md).
