@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-27 — Celmapel: planejamento nov–dez v3 com encartes por categoria
+
+PH apontou que os encartes temáticos por categoria, pedidos pelo cliente na reunião de 02/10, não estavam no plano bimestral. Na v3, 6 peças do feed viraram a série "ENCARTE · [CATEGORIA]" e o Dia D semanal (terça Confeitaria, quarta Descartável) entrou nos stories. O HTML e o PDF foram refeitos. [Plano](../clients/celmapel-festas/estrategia/2026-11-a-12-bimestral.md).
+
+---
+
 ## 2026-10-27 — Araruama Tintas: Halloween "Outubro Espanta Preço" pra sexta 30/10
 
 Pedido de PH: Halloween explicando a campanha, "tipo 'em outubro os descontos saem da tumba'". [Peça](../clients/araruama-tintas/conteudo/posts/2026-10-30-outubro-espanta-preco-sai-da-tumba.md): estático de anúncio direto, "EM OUTUBRO, OS PREÇOS SAEM DA TUMBA!", com selos do Acrilux (R$ 159,90) e da massa PVA (R$ 35,00) e CTA de orçamento no WhatsApp. "Descontos" saiu porque a campanha é de preço tabelado. "Preços baixos" também saiu, porque o validador viu que lia como preço que caiu e voltou. Validador: 1 bloqueante e 5 importantes, aplicados. Wanderson confere preços e vigência.

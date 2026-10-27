@@ -169,6 +169,7 @@
   }
   .receipt-line span:last-child, .receipt-total span:last-child { font-family: "JetBrains Mono", ui-monospace, Menlo, monospace; }
   .receipt-total { border-bottom: 0; border-top: 2px solid var(--ink); margin-top: 0.3rem; padding-top: 0.45rem; color: var(--ink); font-weight: 700; }
+  .receipt-line b { font-weight: 700; color: var(--ink); }
   .receipt-cta { display: block; margin-top: 0.7rem; color: var(--blue); font-weight: 700; font-family: "Archivo", Arial, sans-serif; }
 
   @media (max-width: 620px) {
@@ -389,6 +390,26 @@
   </section>
 
   <section class="block">
+    <div class="block-head"><h2>Encartes por categoria</h2></div>
+    <div class="howmuch">
+      <div class="howmuch-text">
+        <p>Como vocês pediram na reunião de 02/10: um encarte por categoria, com os produtos da época e o preço de cada um. No feed são seis no bimestre, sempre com o mesmo topo e a categoria em destaque, pra quem segue reconhecer a série. Cada encarte puxa o assunto do momento: a Black Friday em novembro, as encomendas de Natal e a virada em dezembro.</p>
+        <p style="margin-top:0.8rem">Nos stories entra o <strong>Dia D</strong>, toda semana: <strong>terça da Confeitaria</strong> e <strong>quarta do Descartável</strong>, com três a cinco produtos e o preço, salvos num destaque de ofertas. Na reta da Black Friday (16 a 27/11), o Dia D dá lugar ao spoiler e à lista VIP.</p>
+      </div>
+      <div class="receipt">
+        <span class="receipt-title">Os encartes do feed</span>
+        <span class="receipt-line"><span><b>Descartável</b> · Especial Revendedor</span><span>20/11</span></span>
+        <span class="receipt-line"><span><b>Black Friday</b> · as quatro categorias</span><span>23/11</span></span>
+        <span class="receipt-line"><span><b>Confeitaria</b> · encomendas de Natal</span><span>07/12</span></span>
+        <span class="receipt-line"><span><b>Embalagem</b> · Natal</span><span>11/12</span></span>
+        <span class="receipt-line"><span><b>Descartável</b> · confraternização</span><span>14/12</span></span>
+        <span class="receipt-line"><span><b>Festa</b> · a virada</span><span>28/12</span></span>
+      </div>
+    </div>
+    <p class="source">Os produtos e os preços de cada encarte saem da lista que vocês mandarem, uma semana antes da publicação.</p>
+  </section>
+
+  <section class="block">
     <div class="block-head"><h2>O que a gente observou</h2></div>
     <div class="seen">
       <div>
@@ -509,12 +530,12 @@
     <div class="row">
       <div class="when"><span class="dow">Sex</span><span class="num mono">20/11</span></div>
       <div class="what">
-        <h3>Especial Revendedor</h3>
-        <p>Embalagem e descartável com preço, organizados pra quem compra pra revender.</p>
+        <h3>Encarte Descartável · Especial Revendedor</h3>
+        <p>Copo, prato, talher, guardanapo e embalagem com preço, organizados pra quem compra pra revender.</p>
         <span class="extraline">Além da festa</span>
         <span class="flagline">Feriado: confirmar se a loja abre</span>
       </div>
-      <span class="fmt sell">venda</span>
+      <span class="fmt sell">encarte</span>
     </div>
   </div>
 
@@ -527,10 +548,10 @@
     <div class="row star">
       <div class="when"><span class="dow">Seg</span><span class="num mono">23/11</span></div>
       <div class="what">
-        <h3>A Black Friday da Celmapel, categoria por categoria</h3>
-        <p>Festa, confeitaria, embalagem e descartável, um slide cada, com preço. O último slide já puxa o Natal.</p>
+        <h3>Encarte Black Friday: as quatro categorias</h3>
+        <p>Festa, confeitaria, embalagem e descartável, um slide cada, com o topo da categoria e o preço. O último slide já puxa o Natal.</p>
       </div>
-      <span class="fmt">carrossel</span>
+      <span class="fmt sell">carrossel · encarte</span>
     </div>
     <div class="row">
       <div class="when"><span class="dow">Qua</span><span class="num mono">25/11</span></div>
@@ -605,11 +626,11 @@
     <div class="row">
       <div class="when"><span class="dow">Seg</span><span class="num mono">07/12</span></div>
       <div class="what">
-        <h3>O que a confeiteira precisa ter pras encomendas de Natal</h3>
-        <p>Insumo e embalagem: caixa, cartucho, forminha e fita.</p>
+        <h3>Encarte Confeitaria · encomendas de Natal</h3>
+        <p>O que a confeiteira precisa ter pras encomendas: chocolate, creme, confeito e forminha, com preço.</p>
         <span class="extraline">Além da festa</span>
       </div>
-      <span class="fmt">estático</span>
+      <span class="fmt sell">encarte</span>
     </div>
     <div class="row star">
       <div class="when"><span class="dow">Qua</span><span class="num mono">09/12</span></div>
@@ -622,10 +643,10 @@
     <div class="row">
       <div class="when"><span class="dow">Sex</span><span class="num mono">11/12</span></div>
       <div class="what">
-        <h3>Especial Embalagem de Natal</h3>
-        <p>Caixa de panetone, sacola, laço e fita, com preço.</p>
+        <h3>Encarte Embalagem · Natal</h3>
+        <p>Caixa de panetone, cartucho, sacola, laço e fita, com preço.</p>
       </div>
-      <span class="fmt sell">venda</span>
+      <span class="fmt sell">encarte</span>
     </div>
   </div>
 
@@ -638,11 +659,11 @@
     <div class="row">
       <div class="when"><span class="dow">Seg</span><span class="num mono">14/12</span></div>
       <div class="what">
-        <h3>A confraternização da sua empresa começa aqui</h3>
-        <p>O Max fala do descartável da confraternização, com nota fiscal.</p>
+        <h3>Encarte Descartável · confraternização</h3>
+        <p>"A confraternização da sua empresa começa aqui": descartável com preço e nota fiscal.</p>
         <span class="extraline">Além da festa</span>
       </div>
-      <span class="fmt">estático</span>
+      <span class="fmt sell">encarte</span>
     </div>
     <div class="row">
       <div class="when"><span class="dow">Qua</span><span class="num mono">16/12</span></div>
@@ -704,10 +725,10 @@
     <div class="row">
       <div class="when"><span class="dow">Seg</span><span class="num mono">28/12</span></div>
       <div class="what">
-        <h3>ÚLTIMA SEMANA PRA DECORAR A VIRADA!</h3>
-        <p>Balão e decoração do Réveillon com preço.</p>
+        <h3>Encarte Festa · ÚLTIMA SEMANA PRA DECORAR A VIRADA!</h3>
+        <p>Balão 2027, metalizado e decoração do Réveillon, com preço.</p>
       </div>
-      <span class="fmt sell">venda</span>
+      <span class="fmt sell">encarte</span>
     </div>
     <div class="row star">
       <div class="when"><span class="dow">Qua</span><span class="num mono">30/12</span></div>
@@ -744,6 +765,7 @@
       <li><b>Black Friday, em duas etapas.</b> Até 30/10: se vai ter e o período, porque o anúncio sai em 02/11. Até 10/11: produtos, preço normal e preço da Black.</li>
       <li><b>Lista VIP no WhatsApp.</b> Topam? A gente deixa a mensagem pronta.</li>
       <li><b>Produtos do "Quanto custa".</b> Pra cada arte, a lista de produtos com o preço de cada um, uma semana antes da sexta. A primeira é a caixinha de doce, em 06/11.</li>
+      <li><b>Produtos dos encartes e do Dia D.</b> Pra cada encarte, os produtos da categoria com o preço, uma semana antes. Pro Dia D dos stories, três a cinco produtos de confeitaria e de descartável até a segunda de cada semana.</li>
       <li><b>O que a loja tem de Natal e Réveillon.</b> Decoração, mesa, embalagem de panetone (caixa, cartucho, lata) e balão número 2027.</li>
       <li><b>Horário dos feriados:</b> 02/11, 20/11, 24 e 25/12, 31/12 e 01/01. Vai pros stories, nunca em arte fixa.</li>
       <li><b>Gravações.</b> Seis Reels com a Taísa, dois com o Max e a retrospectiva com os dois.</li>
