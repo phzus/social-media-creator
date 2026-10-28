@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-28 — Veneza: proposta de novembro analisada (Black November + semana da Black)
+
+O cliente propôs Black November de 01 a 22/11, com 3 produtos novos, e semana da Black de 23 a 29/11, com destaque na sexta 27. É viável. A pergunta que trava o desenho é se a semana da Black tem condição própria. Identidade de campanha estendida até 29/11. [Progresso do cliente](../clients/veneza-estofados/PROGRESSO.md) · OQ #36–40.
+
+---
+
 ## 2026-10-27 — Celmapel: plano nov–dez v3.1 e v3.2
 
 - **v3.1:** Finados sem post, com o anúncio da BF na terça 03/11. O Reels de 11/11 virou "vai ser tão barata". Saiu a ideia do WhatsApp na BF.

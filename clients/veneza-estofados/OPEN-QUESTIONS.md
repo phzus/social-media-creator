@@ -7,6 +7,18 @@ Pendências herdadas da "Fase 0 — Destravar" e do §12 do [documento-fonte](re
 
 ---
 
+## 🔴 2026-10-28 — Proposta de novembro (Black November 01–22 + semana da Black 23–29)
+
+[Referência](referencias/2026-10-28-proposta-novembro-black-november.md). A estrutura é viável. A #36 decide o desenho do mês e foi a pergunta que preparei pro PH mandar.
+
+36. 🔴 **A semana da Black (23–29/11) tem condição diferente do Black November?** Pode ser preço menor, desconto a mais ou um produto só da sexta 27. Se repetir as mesmas ofertas, a semana vira reforço e a sexta 27 vira "último fim de semana", e nenhuma peça de 01–22 pode prometer "espera a sexta". Peça de antecipação não promete condição que ainda não foi confirmada.
+37. 🟡 **Quais são "esses produtos" que continuam?** Só o Combo Cama Nova está registrado. Os sofás de entrada do Esquenta (#17) não chegaram. Perguntar primeiro ao PH, que pode já saber.
+38. 🟡 **O que é o Antonella?** Não aparece no catálogo nem em nenhuma arte registrada. Precisa de categoria, medida e foto.
+39. 🟡 **Essential Pocket é colchão?** Pelo nome parece colchão de molas ensacadas. Se for, é revenda: sem "fabricamos", grafia da marca por escrito e fora de vídeo de fábrica (§8). Casal e queen: o "a partir de" vai na menor medida.
+40. 🟡 **Modelos, medidas, preços e condições das ofertas novas** (o cliente avisou que ainda vai fechar). Preço do Combo Cama Nova em novembro e a dúvida do 5% contra o 5% do PIX (#18) continuam valendo se o combo seguir.
+
+---
+
 ## 🟡 2026-10-22 — Post de segunda 26/10 (Sofá Ipanema 1,50m)
 
 [Peça](conteudo/posts/2026-10-26-cochilo-cabeca-no-braco-ipanema.md). Sai como vitrine sem preço; a pergunta abaixo só destrava a versão B com preço.

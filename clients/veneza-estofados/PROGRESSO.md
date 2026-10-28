@@ -4,6 +4,18 @@ Log datado do trabalho feito pra Veneza Estofados. Topo = mais recente. Entrada 
 
 ---
 
+## 2026-10-28 — Novembro: proposta do cliente (Black November + semana da Black) analisada
+
+O cliente mandou a estrutura de novembro ([referência](referencias/2026-10-28-proposta-novembro-black-november.md)): **Black November de 01 a 22/11**, mantendo os produtos do Esquenta e incluindo Antonella, sofá baú Grécia e Essential Pocket casal/queen, e depois **semana da Black de 23 a 29/11**, com destaque na sexta 27.
+
+- **Veredito: viável.** Bate com o pico do nicho (nov–dez, reunião de 13/10) e com a sexta de venda do playbook: o 27/11 cai no slot de sexta.
+- **Ponto crítico:** se a semana da Black repetir as ofertas do Black November, a sexta 27 não tem novidade e a escada perde o topo. A pergunta que preparei pro cliente é essa (OQ #36).
+- **Calendário:** Finados (seg 02/11) não leva post, então o Black November abre na terça 03/11. São 9 slots de feed até 22/11 e 3 na semana da Black (seg 23, qua 25, sex 27).
+- **Identidade de campanha** vai até 29/11 e sai do ar na segunda 30/11 (PADROES §16 atualizado).
+- **Abertos:** quais são "esses produtos" (só o Combo Cama Nova está registrado), o que é o Antonella, se o Essential Pocket é colchão (revenda, sem "fabricamos") e os preços (OQ #36–40).
+
+---
+
 ## 2026-10-22 — Post de segunda 26/10: "Todo cochilo no sofá acaba com a cabeça no braço" (Sofá Ipanema 1,50m, vitrine)
 
 [Peça](conteudo/posts/2026-10-26-cochilo-cabeca-no-braco-ipanema.md): estático 4:5, **vitrine sem preço** ([PADROES §13](PADROES.md)), mesma arte nos dois perfis com a assinatura de cada um. Segue a pauta da [estratégia do Esquenta](estrategia/2026-10-esquenta-black-combo-cama-nova.md) pra 26/10: sofá fora do combo, modelo ainda não usado em outubro. Mecanismo **cena → produto**: o cochilo que termina com a cabeça no braço, e o Ipanema tem pillow nos braços (está no nome do produto no site). Chamada com seta no braço, CTA de visita "Venha **conferir de perto** na loja" (inédito na conta).

@@ -3,7 +3,7 @@
 > Documento vivo e **curado** — é o que PH abre minutos antes da reunião de alinhamento.
 > O log completo e técnico de pendências continua em [OPEN-QUESTIONS.md](../OPEN-QUESTIONS.md); aqui entra só o que vale ocupar o tempo da reunião.
 
-**Última atualização:** 2026-10-13 · **Próxima reunião:** ❓ a marcar (ritmo mensal → meados de novembro, antes da Black Friday de 27/11) · **Última reunião:** [2026-10-13](resumos/2026-10-13-resumo-reuniao.md)
+**Última atualização:** 2026-10-28 (proposta de novembro: Black November 01–22 + semana da Black 23–29; ver OQ #36–40) · **Próxima reunião:** ❓ a marcar (ritmo mensal → meados de novembro, antes da Black Friday de 27/11) · **Última reunião:** [2026-10-13](resumos/2026-10-13-resumo-reuniao.md)
 
 **Contato do cliente:** Mateus.
 
@@ -46,6 +46,7 @@
 - [ ] Peça dos combos — pronta pra sair assim que os dados chegarem.
 
 **Cobrar do cliente (não esperar a próxima reunião):**
+- [ ] **(28/10) A semana da Black (23–29/11) tem condição diferente do Black November?** Decide o desenho de novembro (OQ #36). Depois: modelos, medidas e preços das ofertas novas (Antonella, sofá baú Grécia, Essential Pocket casal/queen).
 - [ ] Produtos do Esquenta Black, com preço vigente — **trava a campanha**, que precisa começar no fim de outubro.
 - [ ] Dados dos combos (base baú + colchão, com as faixas) — pendente desde setembro.
 - [ ] Vídeo do feirão de Nova Iguaçu + feedback do mês da unidade.
