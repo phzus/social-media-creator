@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-29 (2) — Atlas: motion de ranking vendidos × roubados pra 11/11 (ref. Loovi, montado por PH no Remotion)
+
+Dados refeitos: Fenabrave jan–set/2026 × Ituran com dados da SSP-SP (Grande SP, jan–abr/2026). 4 dos 6 mais roubados saíram de linha. O roteiro traz a direção visual pronta pro agente do Remotion. Validado (v1.1); gate do corretor até 06/11. [Roteiro](../clients/atlas-corretora/conteudo/roteiros/2026-11-11-motion-flyer-mais-vendidos-x-mais-roubados.md).
+
+---
+
 ## 2026-10-29 — Atlas: motion de roleta pra 04/11 (mecânica da BodySkin)
 
 A roleta da BodySkin vira, na Atlas, roleta de imprevistos de loja que para em ARROMBAMENTO (semana Empresarial). Validado (v1.1); falta PH escolher e o corretor confirmar as fatias até 30/10. [Roteiro](../clients/atlas-corretora/conteudo/roteiros/2026-11-04-motion-flyer-roleta-do-lojista.md) · [Progresso do cliente](../clients/atlas-corretora/PROGRESSO.md).

@@ -3,6 +3,7 @@
 **Cliente:** Atlas Corretora · **Data sugerida:** quarta, 02/09/2026 (slot de vídeo) · **Plataforma:** Instagram
 **Formato:** motion flyer (arte animada, sem rosto, funciona no mudo) · **Pilar:** P2 — Mitos / cobre × não cobre · **Funil:** TOFU forte
 **Origem:** referência de formato trazida por PH — carrossel da **Loovi** com "top vendidos" × "top roubados".
+**Status:** ⏸️ **nunca produzido** (faltou fonte do ranking de roubo). **Substituído em 2026-10-29** pelo [roteiro de 11/11](2026-11-11-motion-flyer-mais-vendidos-x-mais-roubados.md), com dados novos e fonte fechada. A explicação do rastreador de fábrica daqui não foi confirmada e não deve ser reaproveitada.
 
 ---
 

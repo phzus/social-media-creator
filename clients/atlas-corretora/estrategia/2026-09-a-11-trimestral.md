@@ -110,7 +110,7 @@ O que o trimestre **não** substitui é o briefing mensal dos dias 22-25 ([playb
 | | | 04/11 | qua | vídeo | Roubaram a loja: o que o seguro pede | Registro, nota, câmera · **29/10: proposta de [motion de roleta](../conteudo/roteiros/2026-11-04-motion-flyer-roleta-do-lojista.md) que para em ARROMBAMENTO (mecânica da roleta da BodySkin)** |
 | | | 06/11 | sex | venda | Faltam três semanas pra Black Friday: 4 checagens | Venda com prazo natural e tempo de agir |
 | **09 → 13** | Auto | 09/11 | seg | estático | O outro carro não tinha seguro. E agora? | Quem foi atingido por quem não tem apólice |
-| | | 11/11 | qua | vídeo | Seu filho tirou a habilitação | Condutor novo em casa, antes das férias |
+| | | 11/11 | qua | vídeo | ~~Seu filho tirou a habilitação~~ → **Os que mais vendem × os que mais somem** | **29/10:** [motion de ranking](../conteudo/roteiros/2026-11-11-motion-flyer-mais-vendidos-x-mais-roubados.md) (ref. Loovi, dado Fenabrave + Ituran/SSP-SP). A pauta da habilitação vai pro banco, perto das férias |
 | | | 13/11 | sex | estático | Guincho, carro reserva e vidro: o que vem junto | Cobertura × adicional contratado |
 | **16 → 20** | Planejamento familiar | 16/11 | seg | estático | Não é só pra quem tem filho | Quem sustenta mãe, irmão ou sócio |
 | | | 18/11 | qua | vídeo | Quanto tempo leva pra sair o pagamento? | O processo por dentro. ⚠️ gate reforçado |

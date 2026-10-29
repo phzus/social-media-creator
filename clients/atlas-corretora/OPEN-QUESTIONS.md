@@ -5,6 +5,10 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🔴 Nova (2026-10-29, 2) — motion de ranking de qua 11/11: corretor até sex 06/11
+
+O [motion vendidos × roubados](conteudo/roteiros/2026-11-11-motion-flyer-mais-vendidos-x-mais-roubados.md) afirma duas coisas sobre cálculo: **"o ano do carro pesa na cotação"** e **"cada seguradora pesa isso de um jeito"**. A legenda acrescenta que "um Onix de 2014 e um de 2024 podem ter cotações bem diferentes". Confere?
+
 ## 🟡 Nova (2026-10-29) — motion de roleta de qua 04/11: corretor até sex 30/10 de manhã
 
 As 8 fatias da [roleta do lojista](conteudo/roteiros/2026-11-04-motion-flyer-roleta-do-lojista.md) têm cobertura contratável em seguro empresarial nas seguradoras da Atlas? VENDAVAL · CURTO-CIRCUITO · VITRINE QUEBRADA · ALAGAMENTO · ARROMBAMENTO · CANO ESTOURADO · INCÊNDIO · CLIENTE ESCORREGOU. Cano estourado (danos por água) e vitrine (quebra de vidros) não estavam no carrossel de 02/10. A que não tiver troca por FURTO.

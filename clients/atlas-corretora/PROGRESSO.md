@@ -4,6 +4,36 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ---
 
+## 2026-10-29 (2) — Motion de ranking pra qua 11/11: "4 dos 6 carros mais roubados da Grande SP nem são mais fabricados"
+
+PH trouxe de novo o carrossel da Loovi (vendidos × roubados) pra virar motion flyer, e vai montar **com IA usando a skill do Remotion**. O roteiro de 02/09 nunca foi produzido porque o ranking de roubo não tinha fonte. O [roteiro novo](conteudo/roteiros/2026-11-11-motion-flyer-mais-vendidos-x-mais-roubados.md) vem com os dados refeitos:
+- **Vendas:** Fenabrave jan–set/2026, top 6: Strada, Polo, Argo, T-Cross, Tera, Onix.
+- **Roubo e furto:** Ituran com dados da SSP-SP, Grande SP, jan–abr/2026, top 6: HB20, Ka, Onix, Gol, Uno, Corsa.
+- **Por idade do carro:** 4 faixas.
+
+Não existe ranking nacional de roubo com fonte pública, por isso a tela diz "Grande SP".
+
+**O achado:** 4 dos 6 mais roubados saíram de linha (Ka, Gol, Uno, Corsa), e só o Onix está nas duas listas. Entra na semana de **Auto** em 11/11; a pauta "Seu filho tirou a habilitação" vai pro banco. ~27s.
+
+**Direção pro Remotion (item 6 do roteiro):**
+- o carro entra dirigindo e puxa uma barra **proporcional ao número**, o que transforma a escada decorativa da Loovi em gráfico de verdade;
+- paleta do `theme.ts` e lista 2 com o fundo invertido (sem vermelho);
+- Montserrat, como no motion de 26/08;
+- silhuetas em SVG por categoria, nunca foto gerada;
+- área segura do IG e still por cena antes de animar;
+- render por PNG + ffmpeg-static;
+- prompt pronto pra colar.
+
+**Validador:** 2 bloqueantes, aplicados (v1.1):
+- "por isso o ano entra no preço" ligava contagem de roubo a cálculo de seguro;
+- a cena de idade mostrava só os extremos e, no mudo, lia como "6× mais risco". Agora tem 4 faixas e rodapé de que é total de casos.
+
+Também aplicados 3 importantes: Brasil × Grande SP na legenda, "continuam no topo" sem série histórica, frota atribuída à fonte.
+
+🔴 **Corretor** confirma "o ano pesa na cotação / cada seguradora pesa de um jeito" até sex 06/11. 🟡 Conferir os 6 números no boletim da Fenabrave (vieram do Webmotors) e atualizar pra jan–out se sair antes do render.
+
+---
+
 ## 2026-10-29 — Motion de roleta pra qua 04/11: "Dono de loja, gira aí: qual imprevisto cai pra você em novembro?"
 
 PH perguntou se dava pra fazer um motion no molde da [roleta da BodySkin](../../../Criador%20de%20vídeos/motion-flyer/src/reel/bodyskin/roleta/content.ts) cruzando o calendário 2025 do cliente com o trimestral. Dá: o componente aceita trocar fatias, vencedora e textos. [Roteiro](conteudo/roteiros/2026-11-04-motion-flyer-roleta-do-lojista.md) de ~15s pro slot de vídeo da semana **Empresarial** (o calendário do cliente põe Empresarial/Patrimonial em novembro e pede humor, que a conta não tem).
