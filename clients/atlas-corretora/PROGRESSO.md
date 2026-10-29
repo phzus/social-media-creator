@@ -4,6 +4,18 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ---
 
+## 2026-10-29 — Motion de roleta pra qua 04/11: "Dono de loja, gira aí: qual imprevisto cai pra você em novembro?"
+
+PH perguntou se dava pra fazer um motion no molde da [roleta da BodySkin](../../../Criador%20de%20vídeos/motion-flyer/src/reel/bodyskin/roleta/content.ts) cruzando o calendário 2025 do cliente com o trimestral. Dá: o componente aceita trocar fatias, vencedora e textos. [Roteiro](conteudo/roteiros/2026-11-04-motion-flyer-roleta-do-lojista.md) de ~15s pro slot de vídeo da semana **Empresarial** (o calendário do cliente põe Empresarial/Patrimonial em novembro e pede humor, que a conta não tem).
+
+**A virada:** na BodySkin a roleta sorteia desconto; na Atlas ela sorteia **imprevisto** (8 fatias: vendaval, curto, vitrine, alagamento, arrombamento, cano estourado, incêndio, cliente escorregou) e para em ARROMBAMENTO, que é a pauta prevista do dia. O acaso é o argumento do seguro. CTA: comenta LOJA. A roleta de condição (versão BodySkin literal, multirramos) ficou como opção B, só com condição real da Atlas e de preferência nos stories da semana da Black.
+
+**Validador:** 2 bloqueantes (combinações de cobertura na legenda sem corretor; "novembro é estoque cheio" como premissa universal) e 4 importantes (legenda reciclava o carrossel de 02/10, fórmula binária no fecho, frase solta, "apólice" sem tradução), aplicados (v1.1).
+
+🟡 **Gate leve do corretor:** as 8 fatias têm cobertura contratável (cano estourado e vitrine não estavam no carrossel de 02/10). PH escolhe e o corretor responde até sex 30/10 de manhã; render à tarde, porque seg 02/11 é Finados.
+
+---
+
 ## 2026-10-27 (2) — Halloween 2 refeito: "Vai de carro pra festa de Halloween? Se beber, a fantasia da noite é de passageiro!"
 
 PH reprovou a vaga vazia: *"tem que mudar o ângulo, ta praticamente copiado kkkkkkkk"*. Ela repetia o molde "Não tem filme de terror mais assustador que…", o kicker, o CTA e o pôster da peça já publicada, e só trocava a cena. O arquivo foi apagado e fica no histórico do git.

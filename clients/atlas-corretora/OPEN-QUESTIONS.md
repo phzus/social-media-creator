@@ -5,6 +5,10 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🟡 Nova (2026-10-29) — motion de roleta de qua 04/11: corretor até sex 30/10 de manhã
+
+As 8 fatias da [roleta do lojista](conteudo/roteiros/2026-11-04-motion-flyer-roleta-do-lojista.md) têm cobertura contratável em seguro empresarial nas seguradoras da Atlas? VENDAVAL · CURTO-CIRCUITO · VITRINE QUEBRADA · ALAGAMENTO · ARROMBAMENTO · CANO ESTOURADO · INCÊNDIO · CLIENTE ESCORREGOU. Cano estourado (danos por água) e vitrine (quebra de vidros) não estavam no carrossel de 02/10. A que não tiver troca por FURTO.
+
 ## 🔴 Nova (2026-10-22) — post de seg 26/10 (equipamento instalado depois): corretor até sex 23/10 12h
 
 A [peça de 26/10](conteudo/posts/2026-10-26-o-carro-na-garagem-e-o-carro-na-apolice.md) afirma, com condicional, regra de cobertura de acessório/equipamento ([PADROES §2](PADROES.md)). Fallback do apoio escrito na peça.

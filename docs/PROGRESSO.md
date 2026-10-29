@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-29 — Atlas: motion de roleta pra 04/11 (mecânica da BodySkin)
+
+A roleta da BodySkin vira, na Atlas, roleta de imprevistos de loja que para em ARROMBAMENTO (semana Empresarial). Validado (v1.1); falta PH escolher e o corretor confirmar as fatias até 30/10. [Roteiro](../clients/atlas-corretora/conteudo/roteiros/2026-11-04-motion-flyer-roleta-do-lojista.md) · [Progresso do cliente](../clients/atlas-corretora/PROGRESSO.md).
+
+---
+
 ## 2026-10-28 — Veneza: proposta de novembro analisada (Black November + semana da Black)
 
 O cliente propôs Black November de 01 a 22/11, com 3 produtos novos, e semana da Black de 23 a 29/11, com destaque na sexta 27. É viável. A pergunta que trava o desenho é se a semana da Black tem condição própria. Identidade de campanha estendida até 29/11. [Progresso do cliente](../clients/veneza-estofados/PROGRESSO.md) · OQ #36–40.
