@@ -4,6 +4,23 @@ Log datado do trabalho feito pra MR Distribuidora. Topo = mais recente. Entrada 
 
 ---
 
+## 2026-10-29 — Post de sexta 06/11: "MDF cortado e fitado nas medidas do seu projeto"
+
+[Peça](conteudo/posts/2026-11-06-mdf-sai-cortado-e-fitado.md): estático 4:5, pilar "Oferta com motivo", molde de anúncio direto (checklist §2.8). É a primeira sexta de venda no **carro-chefe (MDF)**, depois de duas ofertas de ferramenta Sigma. Sem preço de chapa, a peça vende o serviço que vai junto: o MDF sai cortado e fitado nas medidas do projeto. CTA: "Mande as medidas no WhatsApp e peça seu orçamento!"
+
+- **Fonte do serviço:** as placas "CORTE / FITAGEM", "MDF" e "FITAS" aparecem na fachada, na arte da própria MR de 06/07/2026 (`(MR projeto atraso)…png`, ~/Downloads), e o post de 18/06/2025 anunciava "Corte e fitagem sob medida".
+- **Mecanismo:** venda direta com serviço, diferente da antecipação de 30/10. O CTA pede medidas e não "lista".
+- 🔴 **Trava:** a MR confirma que corte e fitagem segue ativo. A pergunta está pronta na peça. Se não fizer mais, a versão alternativa (MDF + fita do mesmo padrão, com CTA de catálogo) também está na peça.
+- **Validador-copy (v1.1):**
+  - A headline virou afirmação: "MDF CORTADO E FITADO / NAS MEDIDAS DO SEU PROJETO". O lote do dia tinha pergunta demais, e o §2.8 pede a notícia dita com todas as letras.
+  - Apoio novo: "Escolha o padrão, mande as medidas e a chapa sai da MR pronta pra montar".
+  - A legenda pede o orçamento uma vez só, com "Pra orçar, a gente precisa de:" antes dos bullets.
+  - Alternativa: "TEM MDF E FITA DE BORDA NA MR!".
+  - WhatsApp e endereço conferidos com o BRIEFING.
+- **Status:** v1.1 · validada · bloqueada até a MR confirmar corte e fitagem (BRIEFING, perguntas 7 e 8). Brief pro designer na terça 03/11 (02/11 é Finados), envio pro cliente na quarta 04/11 até 15h.
+
+---
+
 ## 2026-10-27 — Post de sexta 30/10: "Montagem de móvel prometido pro Natal não pode parar esperando uma dobradiça."
 
 [Peça](conteudo/posts/2026-10-30-movel-pro-natal-nao-para-esperando-ferragem.md), série "Do projeto para a lista". O mecanismo é a antecipação (lista fechada antes do primeiro corte), e o CTA é de projeto (lista pra orçamento). Direção de PH: fim de ano, muita gente reformando.

@@ -4,6 +4,16 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ---
 
+## 2026-10-29 (3) — Post de sex 06/11: "Faltam três semanas. Confere se a sua loja já riscou tudo"
+
+Pedido do PH no lote do dia 6. [Estático 4:5](conteudo/posts/2026-11-06-black-friday-a-lista-que-a-loja-nao-riscou.md) que fecha a semana Empresarial (02-06/11) na pauta do trimestral: 4 checagens antes da Black Friday (27/11).
+- **Mecanismo novo na conta:** lista de preparação do lojista com 4 itens riscados (estoque, vitrine, equipe, promoção) e o seguro em aberto. Não repete os dois blocos de 26/10 nem a roleta de 04/11.
+- **CTA:** chama no direct (a roleta de 04/11 pede comenta LOJA).
+- **Legenda:** valor declarado do estoque, roubo de mercadoria, danos elétricos, lucro cessante. Responsabilidade civil fica fora (é da semana de 23/11).
+- Sem condição comercial: o "novembro multirramos 10%" do calendário 2025 não foi validado. Bloco opcional na faixa de CTA se a Atlas confirmar.
+- **Gate do corretor** aberto (rateio, danos elétricos, lucro cessante à parte, condição de BF) até qua 04/11 12h. Sem resposta até lá, sobe a legenda fallback (três checagens, sem "proporcional", sem danos elétricos), escrita por extenso na peça.
+- **v1.1 validada, com ressalva do corretor (validador-copy, mesmo dia):** faixa de CTA virou "CHAMA NO DIRECT: A GENTE CONFERE A APÓLICE DA SUA LOJA OU COTA UMA NOVA" (abre pra quem não tem seguro); "vale conferir", "costuma ficar de fora dessa lista" e "antes da Black Friday" no lugar de frases que generalizavam ou repetiam a arte; bloco opcional de condição comercial saiu do brief do designer e foi pra nota interna.
+
 ## 2026-10-29 (2) — Motion de ranking pra qua 11/11: "4 dos 6 carros mais roubados da Grande SP nem são mais fabricados"
 
 PH trouxe de novo o carrossel da Loovi (vendidos × roubados) pra virar motion flyer, e vai montar **com IA usando a skill do Remotion**. O roteiro de 02/09 nunca foi produzido porque o ranking de roubo não tinha fonte. O [roteiro novo](conteudo/roteiros/2026-11-11-motion-flyer-mais-vendidos-x-mais-roubados.md) vem com os dados refeitos:

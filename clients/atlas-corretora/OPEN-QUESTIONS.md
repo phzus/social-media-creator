@@ -5,6 +5,15 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🔴 Nova (2026-10-29, 3) — post de sex 06/11 (Black Friday, lista riscada): corretor até qua 04/11 12h
+
+A [peça de 06/11](conteudo/posts/2026-11-06-black-friday-a-lista-que-a-loja-nao-riscou.md) traz 4 checagens de seguro de loja na legenda, com condicional. Fallback escrito na peça.
+
+1. Nas apólices de loja da Atlas, valor de estoque declarado abaixo do real leva a indenização proporcional (rateio)? Ou a maioria é a primeiro risco absoluto?
+2. Danos elétricos tem limite próprio, menor que o total segurado? (pendente desde 02/10)
+3. Lucro cessante costuma ser contratado à parte? (pendente desde 28/09)
+4. Tem condição de Black Friday pra seguro empresarial em 2026? Sem resposta, a peça sai sem.
+
 ## 🔴 Nova (2026-10-29, 2) — motion de ranking de qua 11/11: corretor até sex 06/11
 
 O [motion vendidos × roubados](conteudo/roteiros/2026-11-11-motion-flyer-mais-vendidos-x-mais-roubados.md) afirma duas coisas sobre cálculo: **"o ano do carro pesa na cotação"** e **"cada seguradora pesa isso de um jeito"**. A legenda acrescenta que "um Onix de 2014 e um de 2024 podem ter cotações bem diferentes". Confere?

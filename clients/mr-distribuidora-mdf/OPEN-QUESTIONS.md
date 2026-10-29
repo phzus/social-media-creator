@@ -7,6 +7,13 @@ As 30 perguntas abaixo vieram do próprio Briefing Estratégico (§17), organiza
 
 ---
 
+## 📅 2026-10-29 — Venda de sexta 06/11 (MDF cortado e fitado)
+
+- 🔴 **Corte e fitagem segue ativo?** A fachada (arte da MR de 06/07/2026) tem a placa "CORTE / FITAGEM", e o post de 18/06/2025 anunciava o serviço. A peça de 06/11 depende da confirmação. Mensagem pronta: *"Pessoal, pra arte de sexta (06/11): vocês seguem fazendo corte e fitagem de MDF nas medidas do cliente? Se tiverem uma foto do setor de corte, manda pra gente usar na arte."* Peça: [2026-11-06](conteudo/posts/2026-11-06-mdf-sai-cortado-e-fitado.md).
+- 🟡 **Balcão:** pra orçar corte e fitagem, o que vocês precisam receber? (medida e quantidade de cada peça, padrão, espessura, lados com fita, ou plano de corte em algum formato?) A legenda lista esses itens.
+
+---
+
 ## 📅 2026-10-22 — Série #05 (segunda 26/10, fonte do LED)
 
 - 🔴 **Balcão (mandar hoje, 22/10):** *"Vocês vendem fita de LED e fonte pra móvel? Onde vocês orientam o marceneiro a colocar a fonte, e tem algum lugar que vocês não recomendam (vão fechado, atrás de painel, perto do cooktop)?"* A peça diz "onde dê pra alcançar sem desmontar nada, com espaço livre em volta" e não dá exemplo de lugar. Se a MR **não** trabalha com LED, o CTA "Envie sua lista para orçamento" fica, e a pergunta da arte vira "Tem móvel com LED no próximo projeto?". Peça: [2026-10-26](conteudo/posts/2026-10-26-fonte-do-led-atras-do-painel.md) ([PADROES §1](PADROES.md)).

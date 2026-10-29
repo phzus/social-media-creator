@@ -3,7 +3,7 @@
 > Documento vivo e **curado** — é o que PH abre minutos antes da reunião de alinhamento.
 > O log completo e técnico de pendências continua em [OPEN-QUESTIONS.md](../OPEN-QUESTIONS.md); aqui entra só o que vale ocupar o tempo da reunião.
 
-**Última atualização:** 2026-10-13 · **Próxima reunião:** ❓ a marcar · **Última reunião:** — (nenhuma registrada)
+**Última atualização:** 2026-10-29 · **Próxima reunião:** ❓ a marcar · **Última reunião:** — (nenhuma registrada)
 
 ---
 
@@ -17,6 +17,7 @@
 | 4 | **A paleta e o mascote propostos estão aprovados?** | Vermelho/amarelo/preto/branco + mascote 3D de camisa da loja é proposta da Lone, nunca validada. Sem isso, cada arte reabre a discussão visual. |
 | 5 | **Qual o plano contratado?** O perfil já roda 15-18 posts/mês por conta própria. | Muito acima do padrão Lone (12/mês). Precisa bater com o pacote antes de assumir ritmo. |
 | 6 | **Vocês têm duas lojas?** As artes de julho/agosto mostram Unidade 1 (Av. Itaúna, 20 — Piracema) e Unidade 2 (Lacerda Agostinho — Linha Azul), e um horário (seg-sex 7h30-18h, sáb 7h-14h, dom 7h-13h) que os nossos docs tratam como desconhecido. | Decide rodapé, peça de localização e horário de toda arte. Se confirmar, fecha as perguntas 2 e 3 desta pauta de uma vez ([OQ #15-16](../OPEN-QUESTIONS.md)). |
+| 7 | **Quem da equipe topa aparecer?** Foto no balcão pra arte e, se der, vídeo curto falando de atendimento. | As vendedoras dos Reels são o ponto forte do perfil e a peça de 06/11 depende de foto real da equipe ([OQ #25](../OPEN-QUESTIONS.md)). |
 
 ## 2. 💡 Insights e oportunidades que a Lone observou
 

@@ -4,6 +4,38 @@ Log datado do trabalho feito pra Veterinária Regional. Topo = mais recente. Ent
 
 ---
 
+## 2026-10-29 — Semana de Cardiologia: Mito x Verdade de seg 02/11 + venda direta de sex 06/11 fechada (v1.1)
+
+Pedido de PH: *"VR (Dia 2 de novembro e 6)"*. A semana de 02 a 06/11 fica inteira no verme do coração (linha temática única): a segunda apresenta e a sexta converte.
+
+**[Seg 02/11, peça nova](conteudo/posts/2026-11-02-mito-cachorro-de-dentro-de-casa-nao-pega-verme-do-coracao.md)**
+- Estático Mito x Verdade.
+- Kicker "Calor na Região dos Lagos é época de mosquito:".
+- MITO: "Cachorro que vive dentro de casa não pega verme do coração."
+- VERDADE: o mosquito entra em casa, o risco pode ser menor mas existe, e a prevenção quem indica é o veterinário.
+- Âncora **CARDIOLOGIA**; banner "Marca quem tem cachorro que não sai de casa".
+- Fonte: PetMD (Starkey, DVM, 2025) e fact sheet da AHS; Coimbra pra "risco menor".
+- Sem sintoma, sem produto e sem "vacina". "O vermífugo cobre?" fica como pergunta ao veterinário.
+- ⚠️ 02/11 é Finados. A peça é educativa, sem venda e sem menção à data. Se PH aplicar a exceção que abriu pra Celmapel em 27/10, vai sem mudança pra ter 03/11.
+
+**[Sex 06/11, v1.1](conteudo/posts/2026-11-06-verme-do-coracao-vem-do-mosquito.md)**
+- A data foi confirmada.
+- O apoio virou "Um dos motivos pode ser o verme do coração…". A frase anterior soava como diagnóstico, e tosse tem várias causas.
+- A transmissão saiu da legenda, porque já está na segunda.
+- "O calor pede atenção" virou "No calor o mosquito aparece mais aqui na Região dos Lagos".
+- O brief foi corrigido: pedia CARDIOLOGIA grande, mas a âncora é TEM ESPECIALISTA PRA ISSO.
+- Entrou 🚫 sofá e sala no brief, porque é a cena da segunda.
+
+**Validação (validador-copy, 29/10):** as duas peças estão validadas. Foi 1 bloqueante, aplicado: as legendas se repetiam. Na 02/11 saiu o fecho das 13 especialidades, o que também tira o tom de venda no Finados. Na 06/11 saíram a frase do calor e "Tem prevenção e tem exame", e a legenda agora abre pelos estudos de Niterói, Búzios e Cabo Frio. Também na 06/11:
+- #Cardiologia saiu (limite de 5 hashtags);
+- "Sinais que merecem avaliação:";
+- o banner virou "Marca a Cardiologia pelo WhatsApp" (o anterior repetia o de 16/10);
+- o kicker virou "…pra tomar fôlego?".
+
+**Status:** v1.1 (02/11) e v1.2 (06/11), validadas. Pendências em [OQ #21 e #22](OPEN-QUESTIONS.md). O brief da 02/11 vai pro designer sex 30/10 de manhã, e o envio ao cliente é sex 30/10 até 15h.
+
+---
+
 ## 2026-10-27 — Venda direta de Cardiologia (dirofilariose), sugerida pra sex 06/11
 
 [Peça](conteudo/posts/2026-11-06-verme-do-coracao-vem-do-mosquito.md), template Educativo no formato de venda direta (§5). Kicker *"Tosse sem estar resfriado / e para no passeio pra respirar?"* → **TEM ESPECIALISTA PRA ISSO** → *"Pode ser o verme do coração, que o mosquito transmite. A Cardiologia da Regional avalia."*

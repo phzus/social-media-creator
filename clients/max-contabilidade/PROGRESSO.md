@@ -4,6 +4,32 @@ Log datado do trabalho feito pra Max Contabilidade. Topo = mais recente. Entrada
 
 ---
 
+## 2026-10-29 — Post de sexta 06/11 (venda): a escolha de 2027 no Simples ainda tem volta até 20/12
+
+[Peça](conteudo/posts/2026-11-06-escolha-de-2027-ainda-tem-volta-ate-20-de-dezembro.md), estático 4:5, foco tributário ([PADROES §0](PADROES.md)). Headline (v1.1): **"Escolheu entrar no Simples em 2027, ou pagar IBS e CBS fora do DAS? / Dá pra desistir até 20 de dezembro."** CTA na arte: *"Fez uma dessas escolhas e não tem certeza se foi a certa? Manda REVER no direct que a gente confere com você antes do dia 20."*
+
+**Validador-copy:** 7 correções, todas aplicadas (v1.1).
+- Rodapé sem a citação da Res. CGSN 194, porque o PDF não foi lido.
+- Saiu o "pergunta pro seu contador", que mandava o lead pra outro escritório.
+- Headline reescrita pro leigo.
+- CTA trocado, porque estava igual ao de 23/10. Duas hashtags trocadas.
+- A legenda agora abre pela regra, com os prazos de origem conferidos na Receita.
+- Entrou "Melhor não deixar pro último dia".
+- **Mecanismo novo na conta:** a decisão tomada ainda tem volta, com data. É o oposto do "prazo reaberto" de 23/10, e o leitor também muda: aqui é quem já decidiu.
+- **CTA de direct:** *"Manda REVER no direct contando o que sua empresa vende e pra quem…"*. É mensagem de lead, que é a métrica do cliente. As peças de 26/10 e 30/10 tinham usado "Comenta".
+- **Fonte:** Receita Federal (29/09/2026) e CGIBS (30/09/2026), Res. CGSN 194/2026. O cancelamento das duas opções (entrada no Simples em 2027 e regime regular de IBS/CBS) vai de 03/11 a 20/12/2026.
+- **O que ficou fora da arte:** o "irretratável", que só aparece em fonte secundária, e o efeito de desistir.
+- **13º com encargos não entrou:** é DP, e o 30/10 já foi pela folha.
+
+**Travas:**
+- 🔴 O escritório confirma datas, efeito, irretratabilidade e se existe janela no 2º semestre ([OQ V](OPEN-QUESTIONS.md)).
+- 🔴 Reconferir a data no gov.br em 04/11.
+- 🔴 Definir quem responde o direct (OQ B/J/S).
+
+Status: v1.1 · validada · aguarda o ok do escritório (OQ V) + reconferência no gov.br em 04/11. Brief ao designer qua 04/11, envio ao cliente qui 05/11 até 15h.
+
+---
+
 ## 2026-10-27 — Post de sexta 30/10: escala 5x2 pelo lado do imposto (folha → fator R / INSS)
 
 PH: *"Vai ter escala 5x2 e isso pode mudar algumas coisas."* A pesquisa ([referencias/2026-10-27](referencias/2026-10-27-tendencias-30-10-e-novembro.md)) mostrou que **já é lei**: Emenda Constitucional 141, promulgada em 16/10/2026, com 5x2 e 42h em 60 dias (dezembro), 40h 12 meses depois, sem redução salarial, e lei complementar futura pra MEI/ME/EPP.

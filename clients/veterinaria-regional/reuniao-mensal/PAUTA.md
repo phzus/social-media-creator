@@ -3,7 +3,7 @@
 > Documento vivo e **curado** — é o que PH abre minutos antes da reunião de alinhamento.
 > O log completo e técnico de pendências continua em [OPEN-QUESTIONS.md](../OPEN-QUESTIONS.md); aqui entra só o que vale ocupar o tempo da reunião.
 
-**Última atualização:** 2026-09-18 · **Próxima reunião:** ❓ a marcar · **Última reunião:** — (nenhuma registrada)
+**Última atualização:** 2026-10-29 · **Próxima reunião:** ❓ a marcar · **Última reunião:** — (nenhuma registrada)
 
 ---
 
@@ -15,6 +15,7 @@
 | 2 | **Plano contratado × 5 posts/semana** (Seg a Sex) propostos. | Acima do padrão Lone. Confirmar antes de assumir. |
 | 3 | **O cliente consegue mandar foto/vídeo da clínica com alguma regularidade?** | A conta foi desenhada pra rodar sem depender dele — mas foto real da equipe e da estrutura muda o patamar das 13 especialidades. |
 | 4 | **Quais especialidades têm mais procura hoje?** | 13 especialidades sob o mesmo teto é o diferencial, mas nem todas rendem pauta igual. Priorizar pelo que traz cliente. |
+| 5 | **Quais exames a clínica faz no local?** Ecocardiograma, teste de verme do coração, hemograma. | Toda peça de especialidade (Cardiologia 06/11, Nefrologia 23/10) precisa dizer "tem exame" sem afirmar onde é feito. Com a lista confirmada, a copy pode dizer "faz aqui", que vende mais. Liga com OQ #11 e #21. |
 
 ## 2. 💡 Insights e oportunidades que a Lone observou
 

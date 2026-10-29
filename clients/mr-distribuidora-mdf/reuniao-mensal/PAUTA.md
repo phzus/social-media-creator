@@ -3,7 +3,7 @@
 > Documento vivo e **curado** — é o que PH abre minutos antes da reunião de alinhamento.
 > O log completo e técnico de pendências continua em [OPEN-QUESTIONS.md](../OPEN-QUESTIONS.md); aqui entra só o que vale ocupar o tempo da reunião.
 
-**Última atualização:** 2026-10-20 (pinador saiu, educativo de corrediça entrou) · **Próxima reunião:** ❓ a marcar · **Última reunião:** — (nenhuma registrada)
+**Última atualização:** 2026-10-29 (venda de 06/11 depende do corte e fitagem) · **Próxima reunião:** ❓ a marcar · **Última reunião:** — (nenhuma registrada)
 
 ---
 
@@ -13,7 +13,7 @@
 |---|---|---|
 | 1 | **A MR atende só Araruama ou toda a Região dos Lagos?** | Trava o uso de "Região dos Lagos" no posicionamento e na bio. |
 | 2 | **Existe entrega?** Raio, prazo, custo e pedido mínimo. | Marceneiro compra chapa pesada — entrega é critério de escolha, não detalhe. |
-| 3 | **A MR faz plano de corte, corte de chapa, fita de borda, usinagem/furação?** | É o que define se o posicionamento é "distribuidora" ou "parceira operacional do marceneiro" — muda o eixo inteiro do conteúdo. **Pista (22/10):** post da própria MR de 18/06/2025 anuncia "Corte e fitagem sob medida". Perguntar se segue ativo e se tem plano de corte/usinagem. |
+| 3 | **A MR faz plano de corte, corte de chapa, fita de borda, usinagem/furação?** | É o que define se o posicionamento é "distribuidora" ou "parceira operacional do marceneiro" — muda o eixo inteiro do conteúdo. **Pista (22/10):** post da própria MR de 18/06/2025 anuncia "Corte e fitagem sob medida". Perguntar se segue ativo e se tem plano de corte/usinagem. **29/10:** a fachada da arte da MR de 06/07/2026 também tem a placa "CORTE / FITAGEM", e a venda de sexta 06/11 foi escrita em cima do serviço (confirmação pedida por WhatsApp, sem esperar a reunião). |
 | 4 | **Dias e horários de funcionamento.** | Falta pra qualquer peça de atendimento. |
 | 5 | **Quais dias e horários concentram o movimento de marceneiro?** | Define horário de publicação — o público dessa conta trabalha em horário comercial e olha o celular em horário específico. |
 | 6 | **A MR trabalha componentes de ajuste/nivelamento de móvel (pé regulável, sapata, calço)?** E o balcão concorda que móvel apoiado em piso fora de nível desalinha porta e gaveta? | A série "Detalhe que gera indicação" #03 (05/10) usa esse enquadramento sem nomear produto justamente porque o portfólio não está confirmado. Com a confirmação, o mesmo tema rende peça de oferta com item nomeado. |

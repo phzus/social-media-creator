@@ -4,6 +4,17 @@ Log datado do trabalho feito pro Império. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-10-29 — Dois posts institucionais: sex 30/10 (apresentação da loja) e sex 06/11 (quem atende no balcão) + reserva do domingo
+
+Pedido do PH: "imperio (Bem institucional mesmo dia 30 tbm)". Estáticos 4:5. A v1.0 das duas saiu como cena de dor; o validador-copy e a coordenação puxaram pro molde de anúncio da [voice-quality §2.8](../../shared/voice-quality-checklist.md) (afirmativo, caixa alta, "!" na chamada e no CTA).
+
+- **[30/10](conteudo/posts/2026-10-30-apresentacao-do-alicerce-ao-acabamento.md):** *"DO ALICERCE AO ACABAMENTO, A SUA OBRA SE RESOLVE NA IMPÉRIO!"* · apoio "Material de construção e tinta, com gente de verdade no atendimento." · CTA "MANDE SUA LISTA NO WHATSAPP!". Só fato do context.md. Foto real da fachada que já existe (`~/Downloads/(imperio) carrossel 1.png`) ou frame dos vídeos. **Designer recebe com menos de 1 dia útil** (playbook §7). Sem trava bloqueante.
+- **[06/11](conteudo/posts/2026-11-06-quem-te-atende-no-balcao.md):** kicker "CONHEÇA QUEM ATENDE NA IMPÉRIO!" · *"GENTE DE VERDADE NO BALCÃO PRA EXPLICAR A DIFERENÇA ENTRE UM PRODUTO E OUTRO."* · CTA "TIRE SUA DÚVIDA NO BALCÃO OU NO WHATSAPP!". Primeira peça da Lone que apresenta a equipe. **Trava 🔴:** foto real da equipe com autorização até terça 03/11 ([OQ #25](OPEN-QUESTIONS.md)); sem ela, troca de data.
+- **[Reserva: domingo aberto](conteudo/posts/reserva-domingo-aberto-acabou-o-material.md):** era a 30/10 v1.0 ("ACABOU O CIMENTO NO MEIO DA OBRA DE DOMINGO?"). Saiu da data porque afirma horário de domingo não confirmado ([PADROES §2](PADROES.md)) e cairia na véspera do feriadão. Reescrita com o validador (kicker "AQUI EM MACAÉ, A IMPÉRIO ABRE AOS DOMINGOS!", CTA sem save-bait). Sai quando o cliente confirmar o domingo ([OQ #16 / #24](OPEN-QUESTIONS.md)).
+- **Endereço:** as três peças saem sem Av. Itaúna nº 20 (OQ #15 aberto; o context diz Linha Azul). Arte com "@ · Macaé/RJ" + WhatsApp da bio (OQ #1 pendente); legenda com "Linha Azul, Macaé/RJ".
+
+---
+
 ## 2026-10-22 — Post de segunda 26/10: "Você esvazia o pratinho da planta por causa da dengue."
 
 [Peça](conteudo/posts/2026-10-26-pratinho-da-planta-e-a-caixa-dagua.md): estático 4:5, pilar educativo. Headline: *"VOCÊ ESVAZIA O PRATINHO DA PLANTA POR CAUSA DA DENGUE. / E A TAMPA DA CAIXA D'ÁGUA, LÁ EM CIMA, ALGUÉM JÁ CONFERIU?"*, kicker "DE OUTUBRO A MAIO, OS CASOS DE DENGUE SOBEM MAIS", apoio "Pro mosquito, água limpa e parada também serve…". Mecanismo **ponto cego ao lado do cuidado que a pessoa já tem**. CTA na arte: "TAMPA QUEBRADA OU FALTANDO? PERGUNTA NO WHATSAPP O QUE A IMPÉRIO TEM PRA SUA CAIXA!" (22) 99743-3328. Primeira peça da conta sobre caixa d'água; sem preço, sem mascote.

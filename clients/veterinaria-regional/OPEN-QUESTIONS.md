@@ -2,6 +2,15 @@
 
 Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes de fechar a 1ª estratégia mensal.
 
+## 🟡 2026-10-29 — Semana de Cardiologia (02/11 e 06/11)
+
+[Mito de 02/11](conteudo/posts/2026-11-02-mito-cachorro-de-dentro-de-casa-nao-pega-verme-do-coracao.md) · [Venda direta de 06/11](conteudo/posts/2026-11-06-verme-do-coracao-vem-do-mosquito.md).
+
+21. 🟡 **A Cardiologia da Regional atende a suspeita de verme do coração, e a clínica faz o exame no local (teste rápido ou de sangue)?** A peça de 06/11 diz "A Cardiologia da Regional avalia" e "tem exame", mas não diz que o exame é feito lá. Se a clínica não atende pela Cardiologia, o apoio passa a ser "a equipe da Regional avalia". Perguntar antes do envio de 06/11 (prazo: qui 05/11 até 15h).
+22. 🟢 **A equipe da clínica lê a verdade e os bullets do mito de 02/11?** Os pontos são: o mosquito entra em casa, o risco é menor pra quem fica dentro mas existe, e as 4 perguntas pra consulta (inclusive "o vermífugo que ele já toma cobre esse verme?"). Sem RT identificado, ninguém validou clinicamente. Sem resposta, a peça sai como está.
+
+---
+
 ## 🟢 2026-10-22 — Post de 26/10 (Mito x Verdade, tosa no verão): não bloqueia
 
 [Peça](conteudo/posts/2026-10-26-mito-tosa-baixinha-refresca.md).

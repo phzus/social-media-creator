@@ -4,6 +4,26 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-29 (6) — Lote de feed 30/10–06/11: Atlas, VR, MR, Max e Império (7 peças)
+
+Pedido de PH: posts do dia 6 pra Atlas, VR (2 e 6), MR, Max e Império (institucional, 30/10 também). Produzido com um fork por cliente, validador-copy em todas as peças e o lote cruzado lado a lado.
+
+| Cliente | Data | Peça | Trava |
+|---|---|---|---|
+| Atlas | sex 06/11 | [Black Friday: a lista que a loja não riscou](../clients/atlas-corretora/conteudo/posts/2026-11-06-black-friday-a-lista-que-a-loja-nao-riscou.md) | corretor até qua 04/11 12h; senão sobe a legenda fallback |
+| VR | seg 02/11 | [Mito: cachorro de dentro de casa não pega verme do coração](../clients/veterinaria-regional/conteudo/posts/2026-11-02-mito-cachorro-de-dentro-de-casa-nao-pega-verme-do-coracao.md) | Finados: PH pediu o dia 2; pode ir pra ter 03/11 sem mudança |
+| VR | sex 06/11 | [Verme do coração vem do mosquito](../clients/veterinaria-regional/conteudo/posts/2026-11-06-verme-do-coracao-vem-do-mosquito.md) (peça de 27/10 finalizada) | clínica confirmar a Cardiologia pra suspeita (OQ #21) |
+| MR | sex 06/11 | [MDF cortado e fitado](../clients/mr-distribuidora-mdf/conteudo/posts/2026-11-06-mdf-sai-cortado-e-fitado.md) | 🔴 MR confirmar que faz corte e fitagem; versão alternativa pronta |
+| Max | sex 06/11 | [Escolha de 2027 ainda tem volta até 20/12](../clients/max-contabilidade/conteudo/posts/2026-11-06-escolha-de-2027-ainda-tem-volta-ate-20-de-dezembro.md) | ok do escritório + reconferir gov.br em 04/11 |
+| Império | sex 30/10 | [Apresentação: do alicerce ao acabamento](../clients/imperio-material-de-construcao/conteudo/posts/2026-10-30-apresentacao-do-alicerce-ao-acabamento.md) | designer com menos de 1 dia útil |
+| Império | sex 06/11 | [Quem te atende no balcão](../clients/imperio-material-de-construcao/conteudo/posts/2026-11-06-quem-te-atende-no-balcao.md) | foto real da equipe com autorização até 03/11 |
+
+- **Lote cruzado:** quatro peças do dia 06/11 abriam com pergunta de dor. MR e Império viraram afirmação no molde de anúncio direto (checklist §2.8), e só a VR mantém pergunta, porque é o template dela.
+- **Império:** a 30/10 original (loja aberta no domingo) dependia de horário não confirmado e ia sair na véspera do feriadão. Virou [reserva](../clients/imperio-material-de-construcao/conteudo/posts/reserva-domingo-aberto-acabou-o-material.md). O endereço "Av. Itaúna, nº 20" das artes antigas não entra enquanto o OQ #15 estiver aberto: o rodapé fica só com Macaé/RJ.
+- **Max:** a frase "pergunta pro seu contador" mandava o lead pra outro escritório e saiu.
+
+---
+
 ## 2026-10-29 (5) — GK Pneus: cliente novo, Briefing Estratégico pré-onboarding
 
 - Analisei o Instagram, o Google (4,8 ★, 230 avaliações), a Receita e a concorrência na RJ-106.
