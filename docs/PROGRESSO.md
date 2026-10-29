@@ -4,6 +4,13 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-29 (4) — Roteiro institucional vira padrão da casa + WT refeito nele
+
+- PH reprovou o vídeo da WT em texto na tela. Mandou os roteiros da CIIL (26/10) como modelo e pediu que eles virassem o padrão de estrutura e de copy.
+- **Template criado:** [shared/templates/roteiro-institucional.md](../shared/templates/roteiro-institucional.md). Tem os 5 movimentos (gancho hiperlocal → situação concreta → "Aqui na [empresa]" → "E o melhor:" → CTA com canal), as regras de copy falada, as variações já entregues (CIIL, Celmapel, Atlas, Dijana) e um checklist.
+- **Ponteiros adicionados** no [playbook §6](../shared/playbook-lone-midia.md) e no [roteiro-video.md](../shared/templates/roteiro-video.md).
+- **WT:** roteiro institucional de 04/11 escrito, validado e com PDF ([PROGRESSO WT](../clients/wt-shopping/PROGRESSO.md)).
+
 ## 2026-10-29 (3) — WT: vídeo de 04/11 com o banco de imagens da clínica
 
 Re-edição do `wt.mp4` (consulta do Lup e do Joe) com texto plano a plano: "Seu pet tem medo de consulta?" → etapas → "Lup e Joe aprovaram!". Validado (v1.1). [Roteiro](../clients/wt-shopping/conteudo/roteiros/2026-11-04-video-consulta-etapa-por-etapa.md).

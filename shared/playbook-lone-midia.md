@@ -90,6 +90,8 @@ Toda peça de vídeo segue:
 4. **Benefícios claros** — vantagens, economia, qualidade, resultados.
 5. **CTA** — ação específica: WhatsApp, visita, comentário, seguir.
 
+**Forma padrão da casa (PH, 2026-10-29):** o roteiro institucional falado, uma fala por cena, no molde dos roteiros entregues à CIIL e à Celmapel. Gancho de identificação hiperlocal → situação concreta → "Aqui na [empresa]…" → "E o melhor: [objeção quebrada]" → CTA com canal. Estrutura, regras de copy e exemplos em [shared/templates/roteiro-institucional.md](templates/roteiro-institucional.md).
+
 ### 6.1. Fluência de venda · 3 princípios não negociáveis (✨ NOVO 2026-05-15)
 
 Roteiro de venda direta precisa de **dinâmica humana**, não cadência de bula. 3 regras:

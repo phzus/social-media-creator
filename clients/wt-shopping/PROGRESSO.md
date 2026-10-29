@@ -4,6 +4,19 @@ Log datado do trabalho feito pra WT Shopping. Topo = mais recente. Entrada por b
 
 ---
 
+## 2026-10-29 (2) — Vídeo de qua 04/11 refeito como roteiro institucional
+
+- PH reprovou a montagem "etapa por etapa" (texto na tela). Pediu o roteiro institucional da casa, no molde dos roteiros entregues à CIIL e à Celmapel.
+- **Roteiro novo:** [2026-11-04-institucional-consulta-veterinaria.md](conteudo/roteiros/2026-11-04-institucional-consulta-veterinaria.md), com 5 cenas faladas, ~25-30s e CTA WhatsApp. Ele substitui o arquivo anterior.
+- **PDF pro cliente:** [apresentacoes/2026-11-04-roteiro-consulta-veterinaria.pdf](apresentacoes/2026-11-04-roteiro-consulta-veterinaria.pdf).
+- **Validador:** 0 problemas de compliance e 3 correções importantes, todas aplicadas:
+  - a cena 3 prometia processo;
+  - a cena 2 não batia com a cena 4;
+  - "ficou pra depois" repetia a vitrine de 26/10.
+- **Pendências:**
+  - autorização do tutor do Lup e do Joe;
+  - decidir se o vídeo fica em 04/11 ou vai pra 06/11 (sequência de clínica).
+
 ## 2026-10-29 — Vídeo de qua 04/11: "Seu pet tem medo de consulta?" (re-edição do banco de imagens)
 
 PH pediu roteiro com os vídeos da WT que estão na máquina. O material novo é `~/Downloads/WT video banco de dados/wt.mp4` (19,6s, 21/10). É a filmagem da consulta do Lup e do Joe de maio, já recortada sem legenda e só com o selo "Cuidado em cada etapa", sem mensagem. Os outros vídeos da WT na máquina (abr–jun) são peças finalizadas e postadas, e ficaram de fora.

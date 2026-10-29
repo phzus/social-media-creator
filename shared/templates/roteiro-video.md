@@ -11,6 +11,8 @@
 
 ---
 
+> **Default da casa (PH, 2026-10-29):** roteiro institucional falado, uma fala por cena. Molde, regras de copy e exemplos em [roteiro-institucional.md](roteiro-institucional.md). Este arquivo segue como ficha de trabalho interna (checagem, legenda, produção).
+
 ## Escolha de estrutura (antes de escrever)
 
 Existem **duas estruturas válidas** — escolher conscientemente antes de redigir:
