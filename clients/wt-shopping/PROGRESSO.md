@@ -4,6 +4,18 @@ Log datado do trabalho feito pra WT Shopping. Topo = mais recente. Entrada por b
 
 ---
 
+## 2026-10-29 — Vídeo de qua 04/11: "Seu pet tem medo de consulta?" (re-edição do banco de imagens)
+
+PH pediu roteiro com os vídeos da WT que estão na máquina. O material novo é `~/Downloads/WT video banco de dados/wt.mp4` (19,6s, 21/10). É a filmagem da consulta do Lup e do Joe de maio, já recortada sem legenda e só com o selo "Cuidado em cada etapa", sem mensagem. Os outros vídeos da WT na máquina (abr–jun) são peças finalizadas e postadas, e ficaram de fora.
+
+[Roteiro](conteudo/roteiros/2026-11-04-video-consulta-etapa-por-etapa.md): os 7 planos (cortes medidos no arquivo) viram as etapas da consulta do Lup. Vai de "Seu pet tem medo de consulta?" até "Lup e Joe aprovaram!", com card de 3s "Marca a consulta pelo WhatsApp!". ~22,6s. **Frente clínica**, ângulo do medo (30/10 foi risco, 26/10 foi atraso). O texto conta esta consulta, no passado, e não promete como toda consulta é feita.
+
+**Validador:** 1 bloqueante, aplicado (v1.1): a legenda generalizava o vídeo pra "toda consulta de rotina". Também aplicados 5 importantes: gancho longo com ângulo de atraso, "é assim" virando padrão, promessas de processo nos planos 3 e 6, fecho curto demais e CTA igual ao de 30/10.
+
+🟡 Conferir com a WT se o tutor autoriza repostar com os nomes. ⚠️ É a segunda peça seguida de clínica (30/10 e 04/11, Finados sem post): PH decide se mantém ou empurra pra sexta 06/11.
+
+---
+
 ## 2026-10-27 — Post de sexta 30/10: carrapato pela clínica ("Tirou o carrapato e ele parece ótimo?")
 
 [Peça](conteudo/posts/2026-10-30-carrapato-pode-levar-semanas-pra-dar-sinal.md), arte única 4:5, frente **clínica**. Headline: *"Tirou o carrapato e ele parece ótimo? / As doenças do carrapato podem levar semanas pra dar sinal."* CTA: agendar consulta pelo WhatsApp.

@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-29 (3) — WT: vídeo de 04/11 com o banco de imagens da clínica
+
+Re-edição do `wt.mp4` (consulta do Lup e do Joe) com texto plano a plano: "Seu pet tem medo de consulta?" → etapas → "Lup e Joe aprovaram!". Validado (v1.1). [Roteiro](../clients/wt-shopping/conteudo/roteiros/2026-11-04-video-consulta-etapa-por-etapa.md).
+
+---
+
 ## 2026-10-29 (2) — Atlas: motion de ranking vendidos × roubados pra 11/11 (ref. Loovi, montado por PH no Remotion)
 
 Dados refeitos: Fenabrave jan–set/2026 × Ituran com dados da SSP-SP (Grande SP, jan–abr/2026). 4 dos 6 mais roubados saíram de linha. O roteiro traz a direção visual pronta pro agente do Remotion. Validado (v1.1); gate do corretor até 06/11. [Roteiro](../clients/atlas-corretora/conteudo/roteiros/2026-11-11-motion-flyer-mais-vendidos-x-mais-roubados.md).
