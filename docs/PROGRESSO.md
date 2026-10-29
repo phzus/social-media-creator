@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-29 (5) — GK Pneus: cliente novo, Briefing Estratégico pré-onboarding
+
+- Analisei o Instagram, o Google (4,8 ★, 230 avaliações), a Receita e a concorrência na RJ-106.
+- **A Portuga's Pneus, cliente da Lone, fica a ~250 m.** As duas contas ficam em isolamento total, como Bruno das Tintas × Araruama Tintas.
+- Entreguei o Briefing Estratégico com 12 ideias de vídeo e o roteiro de estreia, a PAUTA da reunião e a pasta do cliente completa. Detalhes no [PROGRESSO da GK](../clients/gk-pneus/PROGRESSO.md).
+
 ## 2026-10-29 (4) — Roteiro institucional vira padrão da casa + WT refeito nele
 
 - PH reprovou o vídeo da WT em texto na tela. Mandou os roteiros da CIIL (26/10) como modelo e pediu que eles virassem o padrão de estrutura e de copy.
