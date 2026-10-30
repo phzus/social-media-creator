@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-10-30 — Atlas 06/11 refeita: porta-chaves de conquistas (ref. Pinterest do PH)
+
+A lista riscada de Black Friday foi trocada por um estático de porta-chaves (casa e carro com chave, moto vazia) com a headline "Sempre tem espaço pra mais uma conquista / E a Atlas protege cada uma delas". Validada (v1.1). Seguro de moto fica pendente de confirmação do corretor, com a versão loja como fallback. Detalhe em [clients/atlas-corretora/PROGRESSO.md](../clients/atlas-corretora/PROGRESSO.md).
+
+---
+
 ## 2026-10-29 (6) — Lote de feed 30/10–06/11: Atlas, VR, MR, Max e Império (7 peças)
 
 Pedido de PH: posts do dia 6 pra Atlas, VR (2 e 6), MR, Max e Império (institucional, 30/10 também). Produzido com um fork por cliente, validador-copy em todas as peças e o lote cruzado lado a lado.

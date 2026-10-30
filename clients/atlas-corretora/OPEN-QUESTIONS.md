@@ -241,7 +241,7 @@ PH confirmou: pode citar "BYD" nominalmente (a Atlas é parceira), dá pra grava
 
 **11. Razão social, CNPJ e cidade-base.** O atendimento é nacional e remoto, mas o negócio tem sede em algum lugar. Vale saber, mesmo que não entre em peça.
 
-**12. Ramos fora da lista.** O PDF cita "entre outros". Saúde, viagem, garantia estendida, seguro de equipamento? Cada ramo novo abre banco de tema.
+**12. Ramos fora da lista.** O PDF cita "entre outros". **Moto (30/10):** PH afirmou que a Atlas faz seguro de moto, e a peça de 06/11 usa isso. Falta só a confirmação do corretor junto do envio (se não fizer, a moto vira loja na arte). Saúde, viagem, garantia estendida, seguro de equipamento? Cada ramo novo abre banco de tema.
 
 **13. Sazonalidade.** Existe época de renovação concentrada, campanha de seguradora ou período de maior procura? Isso ancora o calendário dos próximos meses.
 *Nota (2026-08-27):* o [trimestral](estrategia/2026-09-a-11-trimestral.md) ancorou set–nov no calendário público (trânsito, Dia do Corretor, Black Friday). A sazonalidade **do negócio dele** continua sem resposta — e é ela que diria se novembro deveria ser o mês empresarial ou se isso vale o ano inteiro.

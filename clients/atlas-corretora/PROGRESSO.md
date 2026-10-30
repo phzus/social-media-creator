@@ -4,6 +4,25 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ---
 
+## 2026-10-30 — Post de sex 06/11 refeito: porta-chaves "Sempre tem espaço pra mais uma conquista"
+
+PH achou que a [lista riscada de Black Friday](conteudo/posts/2026-11-06-black-friday-a-lista-que-a-loja-nao-riscou.md) "não faz muito sentido" e mandou uma referência do Pinterest: um post da Unifisa (consórcio) com um porta-chaves de casa, carro e moto. A ideia dele: *"sempre tem espaço para uma nova conquista e a Atlas te ajuda a proteger tudo"*.
+
+[Peça nova](conteudo/posts/2026-11-06-sempre-tem-espaco-pra-mais-uma-conquista.md), estático 4:5.
+- **Cena:** foto de um porta-chaves com placa azul-marinho da Atlas. Casa e carro estão com chave e o gancho da moto está vazio.
+- **Headline:** "Sempre tem espaço pra mais uma conquista. / E a Atlas protege cada uma delas."
+- **CTA:** direct ("a gente cota pra você").
+- **Referência salva:** [referencias/2026-10-30-ref-pinterest-porta-chaves-conquistas.png](referencias/2026-10-30-ref-pinterest-porta-chaves-conquistas.png).
+
+**Validador-copy (v1.1):** a legenda falava da moto como já conquistada, mas na arte o gancho dela está vazio, e isso foi corrigido. Também saíram a repetição entre o apoio e a legenda e o CTA no mesmo molde do Halloween.
+
+**Travas:**
+- 🔴 Seguro de moto não estava registrado (OQ #12). Se o corretor não confirmar até 04/11, sai a versão loja, já escrita.
+- A semana Empresarial (02–06/11) perde a sexta. Está escrita uma variante com 4 ganchos (incluindo a loja) caso PH queira costurar a semana.
+- A lista de Black Friday virou reserva.
+
+---
+
 ## 2026-10-29 (3) — Post de sex 06/11: "Faltam três semanas. Confere se a sua loja já riscou tudo"
 
 Pedido do PH no lote do dia 6. [Estático 4:5](conteudo/posts/2026-11-06-black-friday-a-lista-que-a-loja-nao-riscou.md) que fecha a semana Empresarial (02-06/11) na pauta do trimestral: 4 checagens antes da Black Friday (27/11).
