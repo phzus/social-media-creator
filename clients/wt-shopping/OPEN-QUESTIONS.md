@@ -8,7 +8,7 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 ## 🟡 2026-11-03 — Combos da WT Black: o que confirmar (não trava produção)
 
 [Lista](referencias/2026-11-03-combos-wt-black-cliente.md) · [PADROES §7](PADROES.md)
-1. Período da WT Black (início e fim) e se "WT Black" é o nome oficial.
+1. Período da Black (início e fim) e o nome oficial: a cliente escreveu "wt black" e o rascunho de arte do PH (03/11) usa "BLACK WT".
 2. "6n" no tapete Benetto: são 6 unidades?
 3. Grafia de "Xixi Não Pode" e de "Pet Júnior" (é a marca dos combos 1 e 2?).
 4. Pastilha Genco e Hidroazul: tipo e peso.

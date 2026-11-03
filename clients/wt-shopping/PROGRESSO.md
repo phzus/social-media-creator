@@ -4,6 +4,17 @@ Log datado do trabalho feito pra WT Shopping. Topo = mais recente. Entrada por b
 
 ---
 
+## 2026-11-03 (2) — Black WT: arte do combo tapete Benetto + Xixi Não Pode refeita
+
+PH mandou o rascunho dele e achou que não estava legal. A [arte refeita](conteudo/posts/2026-11-03-black-wt-combo-tapete-e-xixi-nao-pode.png) ([copy e travas](conteudo/posts/2026-11-03-black-wt-combo-tapete-e-xixi-nao-pode.md)) foi montada em HTML e exportada pelo Chrome headless.
+- Headline: *"ONDE PODE E ONDE NÃO PODE, NUM COMBO SÓ!"*. Saiu o "economiza", que afirmava desconto sem base.
+- CTA: WhatsApp no lugar de "Aproveite agora".
+- Visual: fundo preto de Black, sem blobs e sem o cachorro do canto.
+- 🔴 As embalagens são recortes do rascunho e parecem renderizadas: trocar por foto real antes de publicar.
+- O esqueleto serve pra série dos 6 combos de pet.
+
+---
+
 ## 2026-11-03 — Combos da WT Black registrados (fonte de preço de novembro)
 
 PH mandou os 10 combos da WT Black. Ficaram registrados em [referencias/2026-11-03](referencias/2026-11-03-combos-wt-black-cliente.md) e no [PADROES §7](PADROES.md), separados por categoria: 6 pet, 3 piscina, 1 equinos, nenhum de clínica. Travas:
