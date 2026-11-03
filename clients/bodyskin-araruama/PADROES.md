@@ -112,6 +112,16 @@ Ela envia as promoções já diagramadas: modelo de IA, preço gigante em laranj
 | Vocabulário de marca dos selos ("4 lasers em 1", "todos os tons de pele") | As promessas de resultado dos selos |
 | Logo, paleta e o monograma de lótus | O empilhamento de "+" |
 
+**Fonte única de preço — novembro/2026 · Black Friday** (recebida em 03/11, [registro](referencias/2026-11-03-black-friday-novembro-cliente.md)). Vale para novembro/2026. A validade dentro do mês não foi informada.
+
+| # | Oferta | Condição | Observação |
+|---|---|---|---|
+| 1 | Virilha total | **10x de R$ 69,90 no crédito normal** | Sem número de sessões, sem total, sem "sem juros", sem preço cheio. Na peça sai "no crédito" |
+
+⚠️ Não se sabe se a tabela de outubro (R$ 89,00 em áreas pequenas, abaixo) continua em novembro. Até a resposta, a peça de 06/11 depende dela ([OQ de 03/11](OPEN-QUESTIONS.md)).
+
+---
+
 **Fonte única de preço — outubro/2026 · campanha "Outubro OFF"** (registro completo em [referencias/2026-10-02](referencias/2026-10-02-promocoes-outubro-off-cliente.md)). Chegaram **3 artes, e só uma traz preço**.
 
 | # | Oferta | Condição | Observação |
@@ -270,6 +280,8 @@ Peça: [2026-10-12-dia-das-criancas-feriado-nao-e-dia-off.md](conteudo/posts/202
 ---
 
 ## Histórico
+
+- **2026-11-03 (v2.1)** — Tabela de novembro no §7: Black Friday, virilha total em 10x de R$ 69,90 no crédito normal. Sessões, validade e convivência com o R$ 89,00 seguem em aberto.
 
 - **2026-10-23 (v2.0)** — §11 nova: peça da BodySkin sai com preço (PH). Revoga a trava do §1 "preço só no pilar Oferta". Travas de preço do §7 e gate da RT seguem.
 - **2026-10-07 (v1.9)** — Regra do §10: peça de data com tema infantil (Dia das Crianças) leva criança só em texto, nunca em imagem ou objeto, e não imita data dupla.

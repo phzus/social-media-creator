@@ -4,6 +4,13 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-03 (3) — BodySkin: Black Friday, virilha total em 10x de R$ 69,90 (+ WT Black registrada e arte refeita)
+
+- **BodySkin.** A condição de Black Friday virou a tabela de novembro no PADROES §7. A [peça](../clients/bodyskin-araruama/conteudo/posts/2026-11-03-black-friday-virilha-total-10x-69-90.md) é um anúncio direto e foi validada (v1.1). Sugestão de data: sex 13/11. 🔴 Falta saber se o R$ 89,00 (peça de 06/11) continua.
+- **WT Shopping.** Os 10 combos da WT Black foram registrados no PADROES §7. A [arte do combo tapete + Xixi Não Pode](../clients/wt-shopping/conteudo/posts/2026-11-03-black-wt-combo-tapete-e-xixi-nao-pode.png) foi refeita a partir do rascunho do PH. As embalagens precisam virar foto real.
+
+---
+
 ## 2026-11-03 (2) — BodySkin 06/11: cera antes da praia → laser em área pequena por R$ 89,00
 
 Peça de sexta da dezena do laser, sem tabela de novembro (usa o R$ 89,00 do Outubro OFF, 🔴 confirmar vigência, com versão B pronta). Validada (v1.1), com 2 bloqueantes corrigidos: a promessa implícita de cobrir o verão e a dor que não batia com a oferta. Sem 11.11, porque a condição não chegou. [Peça](../clients/bodyskin-araruama/conteudo/posts/2026-11-06-cera-toda-vez-que-vai-pra-praia.md) · [Progresso do cliente](../clients/bodyskin-araruama/PROGRESSO.md).

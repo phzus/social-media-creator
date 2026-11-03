@@ -4,6 +4,14 @@ Legenda: 🔴 bloqueante · 🟡 importante (não trava tudo) · 🟢 calibraç�
 Atualizar assim que PH ou a cliente responderem. Resposta vira registro em [context.md](context.md), [BRIEFING.md](BRIEFING.md) ou [PADROES.md](PADROES.md).
 
 
+## 🟡 2026-11-03 (2) — Black Friday (virilha total 10x R$ 69,90): o que confirmar
+
+[Peça](conteudo/posts/2026-11-03-black-friday-virilha-total-10x-69-90.md) · [registro](referencias/2026-11-03-black-friday-novembro-cliente.md)
+1. 🟡 A condição vale o mês inteiro ou só a semana de 27/11?
+2. 🟡 Quantas sessões entram no pacote?
+3. 🔴 O R$ 89,00 de áreas pequenas continua em novembro? Isso decide a oferta da peça de 06/11 (entrada abaixo, item 1). Se caiu, a de 06/11 pode trocar pela virilha total.
+4. 🟡 Se a Black Friday virou a ação do mês, o 11.11 não acontece. Confirmar com a Cintia.
+
 ## 🔴 2026-11-03 — Post de sexta 06/11 (cera antes da praia): o que confirmar
 
 [Peça](conteudo/posts/2026-11-06-cera-toda-vez-que-vai-pra-praia.md) v1.1, envio à Cintia hoje 03/11 até 15h.

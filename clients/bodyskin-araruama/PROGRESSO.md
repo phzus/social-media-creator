@@ -4,6 +4,24 @@ Log datado do trabalho feito pra BodySkin. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-11-03 (2) — Black Friday: virilha total no laser em 10x de R$ 69,90 (condição de novembro)
+
+PH mandou a condição de Black Friday do mês: *"Virilha total 10x de 69,90 no crédito normal"*. Registrada como tabela de novembro no [PADROES §7](PADROES.md) e em [referencias/](referencias/2026-11-03-black-friday-novembro-cliente.md).
+
+A [peça](conteudo/posts/2026-11-03-black-friday-virilha-total-10x-69-90.md) é um anúncio direto da casa: *"A VIRILHA TOTAL NO LASER / ENTROU NA BLACK FRIDAY!"*, com a oferta "10X DE R$ 69,90 NO CRÉDITO NORMAL" e CTA de avaliação pelo link do perfil. A data recomendada é sex 13/11, com envio à Cintia até 06/11.
+
+**Validador-copy:** 2 bloqueantes, aplicados (v1.1):
+- a legenda afirmava a rotina da avaliação;
+- a tabela de novembro estava faltando.
+
+**Pendências:**
+- 🔴 o R$ 89,00 de 06/11 continua em novembro?
+- 🟡 sessões
+- 🟡 validade dentro do mês
+- 🟡 o 11.11 sai?
+
+---
+
 ## 2026-11-03 — Post de sexta 06/11: "Você de Araruama marca cera toda vez que vai pra praia?"
 
 PH: *"faz a peça do dia 6"*. Não existe estratégia de novembro e a tabela do mês não chegou. Por isso a peça segue a grade da Cintia (dias 1 a 10 = laser, sexta = venda) e o §11 (sai com preço). [Peça](conteudo/posts/2026-11-06-cera-toda-vez-que-vai-pra-praia.md): estático 4:5 + animado de 5s opcional, P5 Oferta. A headline é a dor da cera antes da praia, no molde hiperlocal de PH. A linha de oferta é *"ENTÃO COMECE O LASER POR UMA ÁREA PEQUENA: 10 SESSÕES POR R$ 89,00!"*, com CTA de avaliação gratuita pelo link do perfil. A foto é still de cera, pra não repetir a praia de 30/10.
