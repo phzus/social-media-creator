@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-03 (2) — BodySkin 06/11: cera antes da praia → laser em área pequena por R$ 89,00
+
+Peça de sexta da dezena do laser, sem tabela de novembro (usa o R$ 89,00 do Outubro OFF, 🔴 confirmar vigência, com versão B pronta). Validada (v1.1), com 2 bloqueantes corrigidos: a promessa implícita de cobrir o verão e a dor que não batia com a oferta. Sem 11.11, porque a condição não chegou. [Peça](../clients/bodyskin-araruama/conteudo/posts/2026-11-06-cera-toda-vez-que-vai-pra-praia.md) · [Progresso do cliente](../clients/bodyskin-araruama/PROGRESSO.md).
+
+---
+
 ## 2026-11-03 — Atlas 09/11: banco × corretor, além do preço (pedido do cliente)
 
 A Atlas pediu um conteúdo sobre contratar seguro no banco × com corretor. Saiu um carrossel de 6 slides (PH liberou o formato) com etiqueta de preço em branco: "Dois seguros podem ter o mesmo preço e entregar coisas bem diferentes", mais os 4 diferenciais que o cliente quer comunicar (orientação, coberturas, suporte, acompanhamento) e CTA de conferir o seguro do banco no direct. Validado duas vezes: no estático, o bloqueante era a definição de sinistro; no carrossel v2.1, uma frase que soava como venda casada e o excesso de texto por slide. Entra na seg 09/11 no lugar de "O outro carro não tinha seguro". Detalhe em [clients/atlas-corretora/PROGRESSO.md](../clients/atlas-corretora/PROGRESSO.md).

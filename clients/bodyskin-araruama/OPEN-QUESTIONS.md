@@ -3,6 +3,16 @@
 Legenda: 🔴 bloqueante · 🟡 importante (não trava tudo) · 🟢 calibração.
 Atualizar assim que PH ou a cliente responderem. Resposta vira registro em [context.md](context.md), [BRIEFING.md](BRIEFING.md) ou [PADROES.md](PADROES.md).
 
+
+## 🔴 2026-11-03 — Post de sexta 06/11 (cera antes da praia): o que confirmar
+
+[Peça](conteudo/posts/2026-11-06-cera-toda-vez-que-vai-pra-praia.md) v1.1, envio à Cintia hoje 03/11 até 15h.
+1. 🔴 **O R$ 89,00 (10 sessões, áreas pequenas) vale em novembro?** A tabela de novembro não chegou. Se ela tiver mandado, troca o número (versão B). Sem resposta, sobe a versão B sem preço.
+2. 🔴 **Condição do 11.11** (prazo era 25/10, regra 5 do §8): não chegou. Se chegar uma condição melhor que o R$ 89,00, quem fechar no dia 6 pagou mais caro. Avisar no envio. Esta é a 2ª data dupla seguida sem condição própria, e pela regra 5 isso leva à conversa sobre encerrar o modelo (PAUTA).
+3. 🔴 **OK excepcional por escrito:** a peça sai fora da semana de antecedência (§9).
+4. 🟡 Quais áreas entram em "área pequena" (segue o item 2 de 05/10). A dor da peça é a cera de praia, e o leitor vai perguntar por perna e virilha.
+
+
 ## 🔴 2026-10-22 — Post de segunda 26/10 (faixa de barba não tira a barba): o que confirmar
 
 [Peça](conteudo/posts/2026-10-26-laser-na-faixa-de-barba-nao-tira-a-barba.md) pronta, envio à Cintia sexta 23/10 até 15h. **v2 (23/10): agora vende o pacote masculino 16x R$ 132,00** (PH: peça da BodySkin sai com preço, [PADROES §11](PADROES.md)). Isso deixa mais urgente o item 1 da pendência de 19/10 (2), abaixo: a sexta vende "3 sessões grátis" de faixa de barba e a segunda vende o pacote em que ela vem de presente.

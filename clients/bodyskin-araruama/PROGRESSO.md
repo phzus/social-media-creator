@@ -4,6 +4,22 @@ Log datado do trabalho feito pra BodySkin. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-11-03 — Post de sexta 06/11: "Você de Araruama marca cera toda vez que vai pra praia?"
+
+PH: *"faz a peça do dia 6"*. Não existe estratégia de novembro e a tabela do mês não chegou. Por isso a peça segue a grade da Cintia (dias 1 a 10 = laser, sexta = venda) e o §11 (sai com preço). [Peça](conteudo/posts/2026-11-06-cera-toda-vez-que-vai-pra-praia.md): estático 4:5 + animado de 5s opcional, P5 Oferta. A headline é a dor da cera antes da praia, no molde hiperlocal de PH. A linha de oferta é *"ENTÃO COMECE O LASER POR UMA ÁREA PEQUENA: 10 SESSÕES POR R$ 89,00!"*, com CTA de avaliação gratuita pelo link do perfil. A foto é still de cera, pra não repetir a praia de 30/10.
+
+- **Por que cera e não lâmina:** a peça de 19/10 diz que a lâmina segue liberada durante o tratamento.
+- **Sem 11.11:** a condição não chegou (prazo era 25/10). Pela regra 5 do §8, nada de antecipação.
+- **Validador-copy:** 2 bloqueantes. A conta "17 fins de semana de cera × começar em novembro" prometia que o laser cobre o verão, e a dor (perna/virilha) não batia com a oferta (área pequena). Também saiu a orientação clínica não confirmada ("combina quando parar a cera"). Tudo aplicado (v1.1).
+
+**Travas:**
+- 🔴 O R$ 89,00 do Outubro OFF vale em novembro? Senão, sobe a versão B.
+- 🔴 OK excepcional da Cintia por escrito, porque o envio sai fora da semana de antecedência.
+- 🟡 RT.
+- 🟡 Áreas que entram em "área pequena".
+
+---
+
 ## 2026-10-27 — Checklist do feriadão: o motion virou estático com preço (sexta 30/10)
 
 PH: *"transforma esse motion em um post estático."* [Estático](conteudo/posts/2026-10-30-checklist-feriadao-estatico.md) com o card de notas inteiro (3 itens ticados e o 4º, "Marcar a avaliação do laser", vazio), o fecho *"ESSE ÚLTIMO DÁ PRA MARCAR PELO LINK DO PERFIL!"* e a oferta **áreas pequenas, 10 sessões por R$ 89,00** (§7, item 1). O [motion](conteudo/roteiros/2026-10-30-motion-flyer-checklist-feriadao.md) foi marcado como substituído.
