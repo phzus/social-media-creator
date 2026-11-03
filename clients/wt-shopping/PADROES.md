@@ -55,7 +55,32 @@ Sazonal aqui é o que muda o que o cliente vai comprar: calor chegando (piscina)
 
 ---
 
+## 7. Fonte única de preço — WT Black (combos de novembro/2026, recebidos em 03/11)
+
+**Vale para a campanha WT Black de novembro/2026. Validade não informada pela cliente.** Fora de novembro ou depois que ela mandar uma lista nova, esta tabela deixa de ser regra: conferir antes de reaproveitar qualquer valor. Registro completo e travas em [referencias/2026-11-03](referencias/2026-11-03-combos-wt-black-cliente.md).
+
+| Categoria | Combo / produto | Condição |
+|---|---|---|
+| Pet | Tapete higiênico Benetto (6n) + Xixi Não Pode Pet Júnior | R$ 32,40 |
+| Pet | Shampoo Pet Júnior 500 ml + sabonete | R$ 17,80 |
+| Pet | Comedouro + bebedouro automático 3 L | R$ 81,00 |
+| Pet | Kit comedouro e bebedouro Tutelo | 30% OFF |
+| Pet | Peitoral + guia Tutelo | 30% OFF |
+| Pet | Tapete gelado Lavi Pet | R$ 74,95 |
+| Piscina | Pastilha Genco + flutuador Netuno | R$ 50,40 |
+| Piscina | Pastilha Hidroazul + flutuador Netuno | R$ 38,70 |
+| Piscina | Sulfato de alumínio Genco 2 kg + barrilha Genco 2 kg | R$ 57,40 |
+| Agro (equinos) | Shampoo Matacura Equinos 1 L | R$ 30,40 |
+
+- Uma categoria por peça (§2). Os 3 combos de piscina vão juntos numa peça só, por causa do §6.
+- Sem "de/por" nos itens com R$. O 30% OFF da Tutelo pode ir, mas sem preço final calculado.
+- Nenhuma data de fim, e nenhum benefício que a cliente não escreveu.
+
+---
+
 ## Histórico
+
+- **2026-11-03** — §7 nova: combos da WT Black (10 itens: 6 pet, 3 piscina, 1 equinos), sem validade informada.
 
 - **2026-10-23 (v1.2)** — §2 ganha exceção: vitrine do universo pet junta loja e clínica (PH pediu "tem de tudo para os pets"; a WT já postava assim).
 - **2026-09-30 (v1.1)** — §6 nova: variedade de pauta vem de gancho sazonal, não de rodízio pra cobrir frente zerada; jardinagem passa a frente eventual (direção do PH).

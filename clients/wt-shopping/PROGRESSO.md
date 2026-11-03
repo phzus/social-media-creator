@@ -4,6 +4,19 @@ Log datado do trabalho feito pra WT Shopping. Topo = mais recente. Entrada por b
 
 ---
 
+## 2026-11-03 — Combos da WT Black registrados (fonte de preço de novembro)
+
+PH mandou os 10 combos da WT Black. Ficaram registrados em [referencias/2026-11-03](referencias/2026-11-03-combos-wt-black-cliente.md) e no [PADROES §7](PADROES.md), separados por categoria: 6 pet, 3 piscina, 1 equinos, nenhum de clínica. Travas:
+- valor exato
+- 30% OFF só como percentual
+- sem validade
+- uma categoria por peça
+- piscina numa peça só
+
+Pendências de grafia e quantidade no [OPEN-QUESTIONS](OPEN-QUESTIONS.md).
+
+---
+
 ## 2026-10-29 (2) — Vídeo de qua 04/11 refeito como roteiro institucional
 
 - PH reprovou a montagem "etapa por etapa" (texto na tela). Pediu o roteiro institucional da casa, no molde dos roteiros entregues à CIIL e à Celmapel.
