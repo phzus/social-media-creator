@@ -6,7 +6,7 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ## 2026-11-03 — Atlas 09/11: banco × corretor, além do preço (pedido do cliente)
 
-A Atlas pediu um conteúdo sobre contratar seguro no banco × com corretor. Saiu um estático com etiqueta de preço em branco: "Dois seguros podem ter o mesmo preço e entregar coisas bem diferentes", mais os 4 diferenciais que o cliente quer comunicar (orientação, coberturas, suporte, acompanhamento) e CTA de conferir o seguro do banco no direct. Validado (v1.1; o bloqueante era a definição de sinistro). Entra na seg 09/11 no lugar de "O outro carro não tinha seguro". Detalhe em [clients/atlas-corretora/PROGRESSO.md](../clients/atlas-corretora/PROGRESSO.md).
+A Atlas pediu um conteúdo sobre contratar seguro no banco × com corretor. Saiu um carrossel de 6 slides (PH liberou o formato) com etiqueta de preço em branco: "Dois seguros podem ter o mesmo preço e entregar coisas bem diferentes", mais os 4 diferenciais que o cliente quer comunicar (orientação, coberturas, suporte, acompanhamento) e CTA de conferir o seguro do banco no direct. Validado duas vezes: no estático, o bloqueante era a definição de sinistro; no carrossel v2.1, uma frase que soava como venda casada e o excesso de texto por slide. Entra na seg 09/11 no lugar de "O outro carro não tinha seguro". Detalhe em [clients/atlas-corretora/PROGRESSO.md](../clients/atlas-corretora/PROGRESSO.md).
 
 ---
 

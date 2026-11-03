@@ -4,7 +4,7 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ---
 
-## 2026-11-03 — Post de seg 09/11 (pedido do cliente): "Dois seguros podem ter o mesmo preço e entregar coisas bem diferentes"
+## 2026-11-03 — Carrossel de seg 09/11 (pedido do cliente): "Dois seguros podem ter o mesmo preço e entregar coisas bem diferentes"
 
 A Atlas pediu (via PH) um conteúdo "claro e profissional" sobre contratar seguro no banco × com corretor. O argumento dela: além do preço, avaliar orientação, coberturas, suporte e acompanhamento. Pedido salvo em [referencias/2026-11-03-pedido-banco-x-corretor.md](referencias/2026-11-03-pedido-banco-x-corretor.md), e os 4 diferenciais foram pro [context.md](context.md).
 
@@ -26,6 +26,20 @@ A Atlas pediu (via PH) um conteúdo "claro e profissional" sobre contratar segur
 - "Atende melhor" virou "faz mais sentido" (PADROES §2).
 
 **Corretor bate o olho** (sem gate bloqueante): revisão na renovação, ajuda no acionamento, conferir seguro feito no banco sem prometer troca.
+
+**Virou carrossel (PH, mesmo dia: *"pode ser um carrossel, não tem problema"*).** Agora são 6 slides:
+- capa;
+- um slide por diferencial, com a etiqueta numerada 01–04 como fio;
+- fecho: "Já tem seguro no banco? Vale conferir esses quatro pontos no seu.", com CTA "MANDA O SEU SEGURO NO DIRECT QUE A GENTE OLHA JUNTO".
+
+**Validador (v2.1):** 2 bloqueantes, aplicados.
+- A frase "no banco, o seguro costuma vir junto com conta/cartão" saiu, porque lia como venda casada.
+- Os apoios estavam longos demais pro 4:5.
+
+Também saíram:
+- a lista de 3 em três slides;
+- o "não precisa trocar nada hoje";
+- a legenda que resumia os slides.
 
 ---
 
