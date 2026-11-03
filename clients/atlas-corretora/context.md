@@ -16,6 +16,8 @@ A marca já existe e é boa: **azul-marinho + branco, serifada, monograma "A" e 
 
 **Posicionamento a construir:** o corretor que **explica antes de você precisar**. Seguro é um produto que a pessoa compra sem entender e só descobre como funciona no pior dia da vida dela. Quem explicar primeiro ganha a conta.
 
+**Como a própria Atlas descreve o diferencial (cliente, 2026-11-03):** *"o diferencial não está apenas no preço. Está em entender o que realmente precisa e contar com orientação para avaliar coberturas, condições e dúvidas."* Os quatro pontos que ela quer comunicar são **orientação, coberturas, suporte e acompanhamento**. A Atlas não briga por preço com o banco e também não diz que é mais cara: o argumento é a orientação. O pedido veio pela 2ª vez (1ª: estreia de 27/07), sinal de que "por que não fazer no banco?" é a objeção que ela mais ouve na venda. Fonte: [referencias/2026-11-03-pedido-banco-x-corretor.md](referencias/2026-11-03-pedido-banco-x-corretor.md).
+
 **A frase que resume o pivô:** hoje a Atlas *publica* dúvida; o destino é *responder* dúvida, na frente da câmera.
 
 ---

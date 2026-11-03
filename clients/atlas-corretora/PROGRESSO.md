@@ -4,6 +4,31 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ---
 
+## 2026-11-03 — Post de seg 09/11 (pedido do cliente): "Dois seguros podem ter o mesmo preço e entregar coisas bem diferentes"
+
+A Atlas pediu (via PH) um conteúdo "claro e profissional" sobre contratar seguro no banco × com corretor. O argumento dela: além do preço, avaliar orientação, coberturas, suporte e acompanhamento. Pedido salvo em [referencias/2026-11-03-pedido-banco-x-corretor.md](referencias/2026-11-03-pedido-banco-x-corretor.md), e os 4 diferenciais foram pro [context.md](context.md).
+
+[Estático 4:5](conteudo/posts/2026-11-09-banco-ou-corretor-alem-do-preco.md):
+- **Cena:** foto de uma etiqueta de preço em branco, sem número. Mecanismo novo no lote (26/10 dois blocos, 30/10 pôster, 04/11 roleta, 06/11 porta-chaves).
+- **Kicker + headline:** "SEGURO NO BANCO OU COM CORRETOR?" / "Dois seguros podem ter o mesmo preço / e entregar coisas bem diferentes."
+- **Arte:** "Além do preço, compare:" + os 4 diferenciais do cliente.
+- **CTA:** "TEM SEGURO NO BANCO? MANDA NO DIRECT QUE A GENTE CONFERE O QUE ELE COBRE."
+- **Não ataca quem contratou no banco:** reconhece que é prático e fecha em "não precisa trocar nada hoje, só vale saber o que ele cobre". Nenhum banco citado.
+- **Não repete o foco de 27/07** (app vende uma apólice só / no dia ruim o corretor atende).
+
+**Slot:** seg 09/11, saindo do rodízio de Auto só na segunda. A pauta "O outro carro não tinha seguro. E agora?" vai pro banco de temas ([trimestral](estrategia/2026-09-a-11-trimestral.md) atualizado). PH confirma a data.
+
+**Validador-copy (v1.1):** 1 bloqueante e 4 importantes, todos aplicados.
+- 🔴 A legenda definia sinistro como "pedido de indenização". Sinistro é o evento.
+- "Proteger" virou "entregar" na headline, porque a lista fala também de serviço, e não só de apólice.
+- A arte caiu de ~90 pra ~60 palavras.
+- A abertura da legenda ecoava a de 27/07 e foi trocada.
+- "Atende melhor" virou "faz mais sentido" (PADROES §2).
+
+**Corretor bate o olho** (sem gate bloqueante): revisão na renovação, ajuda no acionamento, conferir seguro feito no banco sem prometer troca.
+
+---
+
 ## 2026-10-30 — Post de sex 06/11 refeito: porta-chaves "Sempre tem espaço pra mais uma conquista"
 
 PH achou que a [lista riscada de Black Friday](conteudo/posts/2026-11-06-black-friday-a-lista-que-a-loja-nao-riscou.md) "não faz muito sentido" e mandou uma referência do Pinterest: um post da Unifisa (consórcio) com um porta-chaves de casa, carro e moto. A ideia dele: *"sempre tem espaço para uma nova conquista e a Atlas te ajuda a proteger tudo"*.

@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-03 — Atlas 09/11: banco × corretor, além do preço (pedido do cliente)
+
+A Atlas pediu um conteúdo sobre contratar seguro no banco × com corretor. Saiu um estático com etiqueta de preço em branco: "Dois seguros podem ter o mesmo preço e entregar coisas bem diferentes", mais os 4 diferenciais que o cliente quer comunicar (orientação, coberturas, suporte, acompanhamento) e CTA de conferir o seguro do banco no direct. Validado (v1.1; o bloqueante era a definição de sinistro). Entra na seg 09/11 no lugar de "O outro carro não tinha seguro". Detalhe em [clients/atlas-corretora/PROGRESSO.md](../clients/atlas-corretora/PROGRESSO.md).
+
+---
+
 ## 2026-10-30 — Atlas 06/11 refeita: porta-chaves de conquistas (ref. Pinterest do PH)
 
 A lista riscada de Black Friday foi trocada por um estático de porta-chaves (casa e carro com chave, moto vazia) com a headline "Sempre tem espaço pra mais uma conquista / E a Atlas protege cada uma delas". Validada (v1.1). Seguro de moto fica pendente de confirmação do corretor, com a versão loja como fallback. Detalhe em [clients/atlas-corretora/PROGRESSO.md](../clients/atlas-corretora/PROGRESSO.md).
