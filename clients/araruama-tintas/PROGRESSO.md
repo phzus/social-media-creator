@@ -4,6 +4,18 @@ Log datado do trabalho feito pra Araruama Tintas. Topo = mais recente. Entrada p
 
 ---
 
+## 2026-11-05 — Post de sexta 06/11: "Os preços de outubro continuam em novembro!" (estático com arte) · validado (0 bloqueantes de texto)
+
+PH informou que a loja mantém os preços do mês passado e pediu arte de anúncio das condições. [Peça](conteudo/posts/2026-11-06-precos-de-outubro-continuam-em-novembro.md) e [arte](conteudo/posts/2026-11-06-precos-de-outubro-continuam-em-novembro.png): template azul da conta, sem Halloween, com 4 produtos, preço e condição de cada um.
+
+**Conferência com o que foi ao ar (coleta de 05/11):** os preços vieram das artes publicadas, porque a lista da reunião de 09/10 estava errada em parte. "Acrilux" era Bri-Lux 16L, e o R$ 59,90 publicado é do Selador F-E 14L. Tabela vigente em [PADROES §7](PADROES.md). A vitrine de 16/10 não aparece na grade (nesse dia saiu o Pinta Piso), e a peça da "tumba" foi ao ar com produtos e copy corrigidos.
+
+**Fora da arte:** Pinta Piso R$ 100,00 (sem condição e sem selo da campanha) e Coral Sol e Chuva 15% (nunca publicado com condição).
+
+**Trava (Wanderson):** embalagem do Selador Rio, que diz "Complemento Acrílico" ([OQ #17](OPEN-QUESTIONS.md)), e sentido da barra "à vista / retirando". As embalagens são recortes das artes de outubro.
+
+---
+
 ## 2026-10-27 — Post de sexta 30/10: "Em outubro, os preços saem da tumba!" (estático, campanha "Outubro Espanta Preço") · validado (1 bloqueante, 5 importantes)
 
 [Peça](conteudo/posts/2026-10-30-outubro-espanta-preco-sai-da-tumba.md), a pedido de PH: Halloween explicando a campanha. É a segunda peça da campanha no feed, depois da vitrine de 16/10. Formato de anúncio direto (§2.8), com kicker OUTUBRO ESPANTA PREÇO e apoio de benefício ("Você chama no WhatsApp já sabendo quanto vai gastar"). Na arte entram 2 selos, Acrilux Standard Branco R$ 159,90 (o maior) e massa PVA 21 kg R$ 35,00, e o CTA "CHAMA NO WHATSAPP E FAZ SEU ORÇAMENTO!". No visual, uma lápide sem texto e o selo de preço saindo da terra.

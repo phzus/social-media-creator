@@ -17,7 +17,7 @@
 | 4 | ~~Quem aprova~~ ✅ Wanderson aprova e confere cada peça (09/10). **Falta: em quanto tempo?** | Calibra a antecedência com o designer (mínimo 1 dia útil). |
 | 5 | Temos **autorização de imagem** de cliente, pintor e obra? | Prova real é o que diferencia de encarte — sem release, o feed fica só em produto. |
 | 6 | Existe acesso ao **Google Analytics/pixel do site**? | O briefing pedia medição em 15 dias. Sem acesso, não há como fechar o ciclo de resultado. |
-| 8 | **Confere a lista de outubro** (selador 15 L?, nome/embalagem do Acrilux, quais itens sem preço entram com valor) e **até quando valem os preços** da campanha? | Preço vai estampado na arte; o resumo de 09/10 avisa que nomes e valores ficaram ambíguos na gravação ([OQ #11-12; inclui confirmar PVA × acrílica de cada massa](../OPEN-QUESTIONS.md)). |
+| 8 | **Até quando valem os preços mantidos em novembro?** E a embalagem do Selador Rio, que diz "Complemento Acrílico", está certa? | Em 05/11 PH informou que os preços de outubro seguem, sem data final. Nomes e condições já estão nas artes publicadas ([PADROES §7](../PADROES.md), [OQ #12 e #17](../OPEN-QUESTIONS.md)). |
 | 7 | Vocês fazem **tintometria**? Vendem **amostra/quarto de galão** pro cliente testar? | Muda o fecho de toda peça de cor: de "manda a foto que a gente orienta" pra "leva uma amostra e olha junto do seu piso". Hoje a gente não pode afirmar que o serviço existe. |
 
 ## 2. 💡 Insights e oportunidades que a Lone observou

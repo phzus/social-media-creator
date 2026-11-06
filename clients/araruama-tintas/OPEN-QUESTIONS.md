@@ -5,6 +5,15 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🆕 2026-11-05 — preços de outubro mantidos em novembro
+
+- **#11 — em boa parte resolvida:** as artes publicadas em outubro definem nome, embalagem e condição de 4 produtos ([PADROES §7](PADROES.md)). "Acrilux" era Bri-Lux 16L e o selador é F-E 14L a R$ 59,90 ou Rio 15L a R$ 74,90.
+- **#12 — atualizada:** PH informou em 05/11 que os preços seguem em novembro. Sem data final.
+- **17. 🟡 Embalagem do Selador Rio:** a arte de 26/10 chama de "Selador acrílico Rio 15L", mas o balde diz "Textura Rio — Complemento Acrílico". Wanderson confere se é o produto certo ou só a imagem errada. A [peça de 06/11](conteudo/posts/2026-11-06-precos-de-outubro-continuam-em-novembro.md) repete a imagem.
+- **18. 🟢 Condição diferente no Selador Rio:** nas artes de outubro, ele tem só "retirando em loja", e os outros têm "pagamento à vista / retirando em loja". A peça mantém como foi publicado.
+
+---
+
 ## 🆕 2026-10-22 — post de segunda 26/10 (mofo do teto do banheiro)
 
 - **16. 🟢 Tinta de área úmida/antimofo pra interno:** a [peça de 26/10](conteudo/posts/2026-10-26-mofo-do-teto-do-banheiro.md) diz só que "tinta própria pra área úmida pode ajudar, mas não substitui a ventilação" (v1.1, depois do validador), sem citar produto nem afirmar que a loja tem. Perguntar ao Wanderson na aprovação: qual linha a loja indica pra banheiro? Se tiver com preço, vira gancho de sexta. Não trava a publicação.

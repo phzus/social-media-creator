@@ -38,10 +38,29 @@ Peça de "transformação" (antes/depois de ambiente ou fachada) usa material re
 
 A arte de Dia das Mães (maio) foi o cartão clássico: stock de mãe e filho com rolo + "um parabéns para elas…". **Peça de data desta conta fala a tese da loja (orientação antes de oferta) com a data como contexto**, como em [Dia das Crianças 12/10](conteudo/posts/2026-10-12-dia-das-criancas-a-mancha-do-canto-da-sala.md) (a casa cheia no feriado e a mancha de parede adiada há um ano, com a foto da mancha no WhatsApp como CTA). **O molde "criança que pergunta" foi descartado nesta peça por colidir com outra peça da carteira no mesmo dia**; peça de data também confere o lote, não só a conta. **Criança não aparece em quadro** (sem autorização de imagem, §4) e **nenhum claim de segurança de tinta para criança** ("atóxica", "lavável", "sem cheiro") sem fonte checada. CTA de WhatsApp é opcional em peça de data; sem preço e sem afirmar que a loja abre no feriado.
 
+## 7. Preço em peça: a regra vigente
+
+**Novembro/2026 (PH, 05/11):** a loja mantém os mesmos preços de outubro. Fonte de nome, embalagem e condição: **as artes publicadas em outubro**, não a lista da reunião de 09/10, que ficou ambígua na gravação.
+
+| Produto | Preço | Condição na arte publicada | Arte |
+|---|---|---|---|
+| Massa Corrida PVA Interior F-E 21kg | R$ 35,00 | Pagamento à vista / retirando em loja | 19/10 e 30/10 |
+| Selador Acrílico F-E 14L | R$ 59,90 | Pagamento à vista / retirando em loja | 23/10 |
+| Selador Acrílico Rio 15L | R$ 74,90 | Retirando em loja | 26/10 |
+| Bri-Lux 16L Standard Branco | R$ 159,90 | Pagamento à vista / retirando em loja | 30/10 |
+| Pinta Piso Acrílico Fosco Coral 3,6L | R$ 100,00 | Nenhuma na arte, sem selo da campanha | 16/10 |
+
+Sem data final informada: usar a ressalva "Condições e validade dos preços: confirmar com a loja." (a mesma da arte de 30/10).
+
+**Correções da lista de 09/10:** "Acrilux Standard Branco" é **Bri-Lux 16L Standard Branco**. O R$ 59,90 que foi ao ar é do **Selador F-E 14L**; a "massa acrílica 25 kg" não aparece nas artes de outubro (em 17/09 esse valor era da massa Qualyvinil 25 kg).
+
+**Outubro/2026 (histórico):** campanha "Outubro Espanta Preço", com identidade de Halloween. Não reaproveitar selo nem tema em novembro.
+
 ---
 
 ## Histórico
 
+- **2026-11-05 (v1.3)** — §7: preços vigentes, com as artes publicadas como fonte, e correção da lista de 09/10.
 - **2026-10-07 (v1.2)** — §6: peça de data comemorativa parte da orientação, sem cartão, sem criança em quadro, sem claim de segurança.
 - **2026-09-22 (v1.1)** — §1 ganhou o "como conferir": isolamento se checa por ângulo e frase-conceito, não por tema nem por data. Veio de um quase-erro real, pego na validação.
 - **2026-09-16 (v1.0)** — criado no onboarding, a partir do Briefing Estratégico da Lone. Regra §1 (isolamento entre os três clientes de tinta) é acréscimo da Lone — o briefing não menciona a concorrência interna da carteira.
