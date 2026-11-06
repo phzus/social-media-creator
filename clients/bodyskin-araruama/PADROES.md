@@ -112,13 +112,56 @@ Ela envia as promoções já diagramadas: modelo de IA, preço gigante em laranj
 | Vocabulário de marca dos selos ("4 lasers em 1", "todos os tons de pele") | As promessas de resultado dos selos |
 | Logo, paleta e o monograma de lótus | O empilhamento de "+" |
 
-**Fonte única de preço — novembro/2026 · Black Friday** (recebida em 03/11, [registro](referencias/2026-11-03-black-friday-novembro-cliente.md)). Vale para novembro/2026. A validade dentro do mês não foi informada.
+**Fonte única de preço — novembro/2026 · campanha "Novembro Black"** (tabela completa recebida em 03/11, mensagem interna da cliente pras atendentes, [registro literal](referencias/2026-11-03-novembro-black-tabela-completa-cliente.md)). Substitui a linha única da manhã de 03/11.
 
-| # | Oferta | Condição | Observação |
+**Validade escrita pela cliente:** *"durante o Novembro Black 2026, enquanto houver vouchers disponíveis"*. **"Vouchers limitados"** também está escrito, então a escassez é real e pode entrar na copy. Data de fim específica não existe: nenhuma peça inventa uma.
+**Pagamento:** cartão de crédito normal, dinheiro, Pix ou débito. **Crédito recorrente fica fora.** "Sem juros" não está escrito em nenhum item, então não se escreve.
+
+**Depilação a laser**
+
+| # | Área | Sessões | Preço cheio → à vista | Parcela |
+|---|---|---|---|---|
+| 1 | Virilha total | 10 | De R$ 5.500 por **R$ 699** ⚠️ | 10x de R$ 69,90 |
+| 2 | Pernas completas | 10 | De R$ 8.999 por **R$ 1.299** | 12x de R$ 108,25 |
+| 3 | Meia perna + joelhos | 10 | De R$ 5.999 por **R$ 799** | 10x de R$ 79,90 |
+| 4 | Glúteos médios | 10 | R$ 504 | 7x de R$ 72,00 |
+| 5 | Glúteos completos | 10 | R$ 699 | 10x de R$ 69,90 |
+| 6 | Rosto | 10 | R$ 699 | 10x de R$ 69,90 |
+| 7 | Coxas | 10 | De R$ 6.999 por **R$ 1.104** | 12x de R$ 92,00 |
+| 8 | Tórax + abdômen | — | — | 12x de R$ 92,00 |
+| 9 | Costas + lombar | — | — | 12x de R$ 89,00 |
+| 10 | Braços | 10 | — | 12x de R$ 79,00 |
+| 11 | Barba completa + nuca | — | — | 12x de R$ 79,00 |
+| 12 | Cabeça masculina | — | — | 12x de R$ 99,00 |
+
+**Harmonização facial** 🔴 (todas no gate da RT, §2)
+
+| # | Procedimento | Preço | Parcela |
 |---|---|---|---|
-| 1 | Virilha total | **10x de R$ 69,90 no crédito normal** | Sem número de sessões, sem total, sem "sem juros", sem preço cheio. Na peça sai "no crédito" |
+| 13 | Toxina botulínica, terço superior · 50 UI | R$ 750 | **a confirmar** (a própria cliente pediu que a equipe não divulgue antes) |
+| 14 | Toxina botulínica full face ("Botox Global") · 60 UI | R$ 899 | 10x de R$ 89,90 |
+| 15 | Preenchimento labial · 1 ml | R$ 699 | 10x de R$ 69,90 |
+| 16 | Preenchimento de bigode chinês · 1 ml | R$ 699 | 10x de R$ 69,90 |
+| 17 | Bioestimulador de colágeno | De R$ 2.599 por R$ 1.500 | 12x de R$ 125,00 |
 
-⚠️ Não se sabe se a tabela de outubro (R$ 89,00 em áreas pequenas, abaixo) continua em novembro. Até a resposta, a peça de 06/11 depende dela ([OQ de 03/11](OPEN-QUESTIONS.md)).
+**Travas de novembro:**
+
+- **Nome da campanha é "Novembro Black"**, como a cliente escreveu. "Black Friday" isolado sugere que a oferta é só do dia 27.
+- **"De/por" só nos 5 itens que têm preço cheio escrito** (1, 2, 3, 7 e 17). Nos outros, sai o preço ou a parcela, nunca percentual calculado em cima de "de" que não existe.
+- ⚠️ **Virilha total: o "de" subiu de R$ 3.999 (setembro, [peça publicada de 11/09](conteudo/posts/2026-09-11-virilha-total-de-3999-por-1299.md)) pra R$ 5.500.** Mesmas 10 sessões. Quem acompanha o perfil compara. **Recomendação: na virilha, a peça usa "10 sessões por R$ 699" ou a parcela, sem o "de R$ 5.500"**, até PH decidir com a Cintia.
+- ⚠️ **Pernas completas e meia perna + joelhos também conflitam com o 9.9 (corrigido em 04/11, a nota anterior dizia que não havia histórico).** As peças do 9.9 previam pernas inteiras a 12x de R$ 99 (R$ 1.188), mais barato que os R$ 1.299 da Black, e meia perna + joelhos a 10x de R$ 79,90 (R$ 799), o mesmo valor de agora. **Até a Cintia confirmar os preços cheios, o "de/por" só sai nas coxas** (item 7), e pernas completas não é vitrine da campanha.
+- **Sessões e total só onde estão escritos.** Itens 8, 9, 11 e 12 saem só com a parcela. O item 10 pode dizer "10 sessões", sem total.
+- **Parcela e à vista são o mesmo valor** (contas conferidas no registro). Pode escrever "R$ 699 ou 10x de R$ 69,90".
+- 🔴 **Harmonização (13 a 17) não entra em peça da Lone** enquanto o gate da RT estiver aberto: preço + desconto em injetável é exatamente o que o §2 trava. E "Botox" não vira nome genérico (ver a arte do "Botox Global", abaixo).
+- ✅ **O R$ 89,00 de áreas pequenas não está na lista.** Como a mensagem é a lista completa do mês pras atendentes, o Outubro OFF é tratado como encerrado. A peça de 06/11 sai pela versão B, com oferta desta tabela.
+- **11.11 não aparece.** Com a campanha valendo o mês todo, não há condição própria do dia, e pela regra 5 do §8 a data não vai ao ar.
+- **Masculino:** o pacote de outubro (16x de R$ 132,00) não está na lista. Em novembro, as ofertas masculinas são as áreas avulsas 8, 9, 11 e 12.
+- 🔴 **"Ofertas em outros procedimentos" também cai no gate da RT.** Em novembro, os únicos outros procedimentos com oferta são os injetáveis 13 a 17, então a menção genérica não contorna o §2 (mesma lógica da arte 03 de outubro). Sem aval escrito, a oferta deles fica na conversa privada.
+- **Selo da campanha (06/11):** a cliente mandou o [selo do Novembro Black](referencias/2026-11-06-selo-novembro-black-cliente.png): fundo preto, letreiro turquesa e prata em itálico, arco e luzes em laranja e turquesa, logo branca e turquesa com "Araruama". Peça da campanha parte dele ([recortes](identidade/novembro-black/)). Exceção à regra de não usar o layout dela: aqui é a marca da campanha, não um encarte.
+- **Hierarquia de preço em anúncio (PH, 06/11):** a parcela é o destaque, e o à vista fica no "ou" ("10x de R$ 69,90 · ou R$ 699 à vista"). Sem "ou" onde a cliente não escreveu total. Com "de/por", o "de" aponta pro total, nunca pra parcela ("De R$ 6.999 por R$ 1.104 · ou 12x de R$ 92,00").
+- **Pessoa gerada com IA:** PH cogitou no [motion de anúncio](conteudo/roteiros/2026-11-13-motion-anuncio-novembro-black-laser.md) e desistiu em 06/11 ("não ficou legal"). A peça sai só com selo, feixe e tipografia, e a regra do §1 e do §7 segue sem exceção.
+- **Verão + laser (06/11):** PH tirou o verão do anúncio e deixou pra outro vídeo. "Começar o laser antes do verão" passa, sujeito à RT. "Deixar você preparada pro verão" e "ainda dá tempo" não: prometem prazo e contradizem a peça de 26/09.
+- **"A partir de" é sobre o valor da parcela:** "parcelas a partir de R$ 69,90", nunca "a partir de 10x".
 
 ---
 
@@ -241,7 +284,7 @@ Nasceu do 10.10. PH confirmou em **05/10** que a BodySkin não ia rodar a data: 
 Reunião completa em [reuniao-mensal/resumos/2026-09-17-resumo-reuniao.md](reuniao-mensal/resumos/2026-09-17-resumo-reuniao.md). ⚠️ **Conta sob risco de cancelamento** (sócio pressionando por ROI ruim, leads classificados como "ruim/péssimo") — ver detalhe no resumo da reunião. Isso não muda as regras de compliance, mas muda a urgência de cumprir o que foi prometido.
 
 - **Paleta oficial confirmada: laranja, turquesa, branco e preto.** Substitui a versão "teal + laranja + creme" inferida em 26/07 a partir do perfil. ✅ **Fonte agora é o kit de marca oficial da franquia BodySkin** (confirmado por PH, 2026-09-17 — ver [referencias/2026-09-17](referencias/2026-09-17-referencias-visuais-espacolaser-e-bodyskin.md)), não mais reconstrução da Lone. Todo criativo com movimento tem que **respeitar estritamente** essa paleta — é cobrança explícita da cliente.
-- **Criativos com movimento entram como padrão**, inspirados em formato (não conteúdo) de Espaço Laser e **BodyLaser** (franquia nacional, referência à parte — sem relação de marca com a BodySkin) — ver análise em [referencias/2026-09-17-referencias-visuais-espacolaser-e-bodyskin.md](referencias/2026-09-17-referencias-visuais-espacolaser-e-bodyskin.md). 🚫 Tom de humor/duplo sentido da Espaço Laser **não entra** — contradiz a voz "acolhedora, técnica, nunca hypada" desta conta.
+- **Criativos com movimento entram como padrão**, inspirados em formato (não conteúdo) de Espaço Laser e **BodyLaser** (franquia nacional, referência à parte — sem relação de marca com a BodySkin) — ver análise em [referencias/2026-09-17-referencias-visuais-espacolaser-e-bodyskin.md](referencias/2026-09-17-referencias-visuais-espacolaser-e-bodyskin.md). 🚫 Tom de humor/duplo sentido da Espaço Laser **não entra** — contradiz a voz "acolhedora, técnica, nunca hypada" desta conta. ✅ **"Passamos laser nos preços" não cai nesse veto (PH aprovou em 06/11):** o trocadilho é com o aparelho e o preço, sem malícia.
 - **Desconto percentual substitui preço fixo na comunicação de oferta**, inclusive percentuais agressivos (a cliente citou 75-80% off, no molde do próprio material da Espaço Laser). ⚠️ **Isso não suspende a regra do §7** ("só a oferta 1 pode comunicar desconto... inventar preço cheio pra criar desconto é o que a casa não faz") — desconto percentual alto só entra em peça com **preço cheio real por trás**, confirmado pela cliente. Percentual bonito sem base real é a mesma mentira de preço inventado, só que disfarçada.
 - **Público 50+ vira frente própria de conteúdo** — harmonização facial e bioestimuladores, protocolo "full face" (bioestimulador de colágeno + toxina botulínica + preenchimento). 🔴 **100% travado pelo gate da RT (§2)** — é injetável, mesma categoria que trava desde 26/07. Nenhum criativo desta frente vai ao ar sem aval da RT.
 - **Campanhas de indicação de amigos + sessões grátis** (3 sessões em axila, faixa de barba, nuca ou buço — depilação a laser, fora do gate da RT) — liberado pra produção, desde que os termos sejam reais (quantas indicações valem o prêmio, prazo, elegibilidade) e não inventados.
@@ -281,6 +324,9 @@ Peça: [2026-10-12-dia-das-criancas-feriado-nao-e-dia-off.md](conteudo/posts/202
 
 ## Histórico
 
+- **2026-11-06 (v2.4)** — §7: menção genérica a "outros procedimentos" entra no gate da RT; regras de verão + laser e de "a partir de" na parcela; selo da campanha Novembro Black; parcela em destaque; pessoa gerada com IA descartada por PH no anúncio. §9: "Passamos laser nos preços" aprovada.
+- **2026-11-04 (v2.3)** — §7: "de/por" de novembro restrito às coxas até a Cintia confirmar os preços cheios. Pernas completas e meia perna conflitam com as peças do 9.9.
+- **2026-11-03 (v2.2)** — §7 trocado pela tabela completa do Novembro Black, recebida em 03/11 (10 sessões na virilha, validade "enquanto houver vouchers", nome da campanha). O R$ 89,00 sai.
 - **2026-11-03 (v2.1)** — Tabela de novembro no §7: Black Friday, virilha total em 10x de R$ 69,90 no crédito normal. Sessões, validade e convivência com o R$ 89,00 seguem em aberto.
 
 - **2026-10-23 (v2.0)** — §11 nova: peça da BodySkin sai com preço (PH). Revoga a trava do §1 "preço só no pilar Oferta". Travas de preço do §7 e gate da RT seguem.

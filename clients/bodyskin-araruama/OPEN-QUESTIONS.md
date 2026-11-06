@@ -4,6 +4,21 @@ Legenda: 🔴 bloqueante · 🟡 importante (não trava tudo) · 🟢 calibraç�
 Atualizar assim que PH ou a cliente responderem. Resposta vira registro em [context.md](context.md), [BRIEFING.md](BRIEFING.md) ou [PADROES.md](PADROES.md).
 
 
+## 🟡 2026-11-06 — Anúncio de Black com todas as promoções num vídeo só (ideia de PH)
+
+PH decidiu: vídeo só de laser, de até 1 minuto, sem verão, com menção a outros procedimentos no fim e sem pessoas (PH desistiu das imagens geradas). [Roteiro v2.2](conteudo/roteiros/2026-11-13-motion-anuncio-novembro-black-laser.md), com as 12 áreas, como anúncio e stories, fora do feed (§7).
+1. 🔴 **RT:** autoriza por escrito a frase "e tem ofertas em outros procedimentos"? Os únicos com oferta são os injetáveis, então a cena fica fora até o aval (§2 e §7). A versão com ela está pronta no roteiro.
+2. 🟡 **Cintia:** as 4 áreas masculinas (tórax + abdômen, costas + lombar, barba completa + nuca, cabeça masculina) têm quantas sessões? A tabela só traz a parcela, então a peça sai sem o número.
+3. 🟡 **Cintia:** precisa saber que pernas completas entra só com a parcela, apesar do conflito com o 9.9 (item 2 da entrada abaixo).
+
+## 🟡 2026-11-04 — Novembro Black (arte de 09/11 + motion de 11/11): o que confirmar
+
+[Arte](conteudo/posts/2026-11-09-novembro-black-ja-comecou.md) · [motion](conteudo/roteiros/2026-11-11-motion-flyer-passamos-laser-nos-precos.md)
+1. 🔴 **OK excepcional por escrito da Cintia** pras duas datas, que ficam fora da semana de antecedência (§9). Sem isso: arte em 16/11 e motion em 18/11.
+2. 🟡 **Os preços cheios são os de tabela?** Pernas completas (R$ 8.999), meia perna + joelhos (R$ 5.999) e virilha total (R$ 5.500). As peças do 9.9 previam pernas por R$ 1.188 (a Black é R$ 1.299) e meia perna pelo mesmo R$ 799. Até a resposta, o "de/por" só sai nas coxas.
+3. ✅ **Resolvida (PH, 06/11):** "Passamos laser nos preços" fica. *"É muito bom, gostei."*
+4. 🟡 **PH:** confirmar se as peças do 9.9 foram mesmo ao ar com esses preços. O repositório só tem o roteiro e a sequência de stories.
+
 ## 🟡 2026-11-03 (2) — Black Friday (virilha total 10x R$ 69,90): o que confirmar
 
 [Peça](conteudo/posts/2026-11-03-black-friday-virilha-total-10x-69-90.md) · [registro](referencias/2026-11-03-black-friday-novembro-cliente.md)

@@ -4,6 +4,39 @@ Log datado do trabalho feito pra BodySkin. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-11-06 — Novembro Black: motion de anúncio com as 12 áreas de laser
+
+PH pediu um vídeo tipo flyer com as promoções, só de laser, sem pressa de tempo. Saiu o [roteiro v2.2 de 54s](conteudo/roteiros/2026-11-13-motion-anuncio-novembro-black-laser.md), com direção pro Remotion, pra rodar como anúncio e stories a partir de 13/11. A versão traz parcela em destaque com à vista no "ou", tabela nova e bloco "E também tem condição pra eles!". As 2 pessoas geradas com IA entraram na v2.1 e saíram na v2.2 porque PH não gostou, então a peça fica só com selo, feixe e tipografia. O motion de 3 áreas de 11/11 continua como Reels.
+
+- **Headline:** "Chegou o" + selo, depois "Passamos laser nos preços". PH tirou o verão e deixou pra outro vídeo.
+- **Validador-copy (2 rodadas):** preços e tempos bateram nas duas. Na segunda, o bloqueante foi "De R$ 6.999 por 12x de R$ 92,00", que comparava o total com a parcela. Só o "12 áreas" ficou como estava, por escolha. A v2.2 só retirou as pessoas e não mudou preço nem frase de oferta, então não passou de novo pelo validador.
+- **Menção a outros procedimentos:** PH pediu, mas os únicos com oferta são os injetáveis, então caiu no gate da RT. A cena está fora, com versão pronta no roteiro pra quando houver aval.
+- **"Passamos laser nos preços":** PH aprovou a frase, que entra nos dois motions.
+- **Visual:** a cliente mandou o [selo da campanha](referencias/2026-11-06-selo-novembro-black-cliente.png), e PH aprovou preto, turquesa e laranja. [Frames de teste](referencias/2026-11-06-frames-teste-motion-anuncio-black.png) refeitos em cima dele, com recortes em [identidade/novembro-black/](identidade/novembro-black/). O motion de 11/11 e a arte de 09/11 receberam o aviso de alinhar ao selo.
+- **Pauta futura:** vídeo de "começar o laser antes do verão".
+
+**Pendências:**
+- 🔴 Envio à Cintia e aval da RT pra frase de outros procedimentos.
+- 🟡 Sessões das 4 áreas masculinas.
+
+---
+
+## 2026-11-04 — Novembro Black: arte "já começou" + motion "Passamos laser nos preços"
+
+PH pediu uma arte "a Black Friday da BodySkin já começou" e uma ideia de motion flyer. Saíram o [estático de 09/11](conteudo/posts/2026-11-09-novembro-black-ja-comecou.md) e o [roteiro do motion de 11/11](conteudo/roteiros/2026-11-11-motion-flyer-passamos-laser-nos-precos.md), com direção visual pro Remotion. O motion ainda não foi montado.
+
+- **A ideia:** fundo preto e um feixe de laser que risca o preço cheio e revela o preço novo.
+- **Nome:** "Novembro Black", como a cliente escreveu (§7).
+- **Validador-copy (v1.1):** os preços bateram com a tabela. "Passamos laser nos preços" foi lido como duplo sentido (§9), e a decisão ficou com PH, com alternativa pronta.
+- **Achado:** as peças do 9.9 previam pernas inteiras a R$ 1.188, mais barato que os R$ 1.299 da Black, e meia perna + joelhos pelo mesmo R$ 799. O PADROES dizia que não havia conflito e foi corrigido. Até a Cintia responder, o "de/por" só sai nas coxas.
+
+**Pendências:**
+- 🔴 OK excepcional da Cintia pras datas de 09/11 e 11/11.
+- 🟡 Confirmar os preços cheios.
+- 🟡 Revisar a peça da virilha de 13/11, que ainda diz "Black Friday".
+
+---
+
 ## 2026-11-03 (2) — Black Friday: virilha total no laser em 10x de R$ 69,90 (condição de novembro)
 
 PH mandou a condição de Black Friday do mês: *"Virilha total 10x de 69,90 no crédito normal"*. Registrada como tabela de novembro no [PADROES §7](PADROES.md) e em [referencias/](referencias/2026-11-03-black-friday-novembro-cliente.md).
