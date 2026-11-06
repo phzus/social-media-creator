@@ -217,8 +217,20 @@ Peça: [2026-10-12-dia-das-criancas-perguntas-do-tratamento.md](conteudo/posts/2
 
 ---
 
+## Regra nova — data de doença é slot no calendário, não nota (cliente, 2026-11-04)
+
+A equipe de São Gonçalo pediu post nas datas específicas das doenças que a CIIL trata ([registro](referencias/2026-11-04-feedback-datas-das-doencas.md)). O 29/10 da psoríase estava anotado na estratégia de setembro e na PAUTA, e mesmo assim passou sem peça.
+
+- ✅ **Toda estratégia mensal consulta o [calendário de datas](estrategia/calendario-datas-doencas.md) antes de fechar**, e cada data do mês vira peça nomeada com slot.
+- ✅ **A data é o motivo, e a doença segue sendo o assunto:** abre pelo sintoma na língua do paciente, e as regras da conta continuam valendo.
+- 🚫 **Só entra data com fonte.** Confiança baixa (Hidradenite 06/06, dia exato da Espondilite) não vai pra arte sem conferência. Dia das Doenças Raras não se aplica às 10.
+- 🚫 **Não se usa "Dia Mundial da Artrite Reumatoide":** o nome é "Dia Mundial da Artrite".
+
+---
+
 ## Histórico de revisões
 
+- **2026-11-04** — Regra nova: data de doença é slot no calendário, a pedido da equipe de São Gonçalo.
 - **2026-10-15** — Reunião com o cliente: vacina infantil confirmada em Araruama (atualiza a regra de 07/10, sem nomear vacina) e padrão de 3 entregas pra todo convênio novo.
 - **2026-10-07** — Regra de peça de data com tema infantil (Dia das Crianças): criança só como espelho do adulto, nunca como serviço; não abre Pediatria nem vacina infantil sem confirmação.
 - **2026-09-17** — Cliente confirmou lista de convênios (substitui a de maio/2026, nunca reconfirmada) e estabeleceu regra permanente: toda peça de convênio leva "*Consulte condições" visível na arte. Resolve [OPEN-QUESTIONS #18](OPEN-QUESTIONS.md).

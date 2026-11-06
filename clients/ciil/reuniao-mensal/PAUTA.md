@@ -32,7 +32,7 @@ Base nova desta pauta: [análise do Instagram de 15/10](../referencias/2026-10-1
 
 ## 2. 💡 Insights e oportunidades que a Lone observou
 
-- **Dia Mundial da Psoríase é 29/10 (quinta).** Encaixa na série sem custo: a Psoríase já foi a 02, então dá pra fazer peça de data que puxa pra ela.
+- **Datas das doenças (pedido da equipe de SG, 04/11):** o 29/10 da psoríase passou sem peça. As datas agora têm [calendário próprio](../estrategia/calendario-datas-doencas.md). A próxima é só em maio/2027. Mostrar o calendário e perguntar se os médicos acompanham outra data.
 - **Os fixados do perfil são de junho** (onde fica, horário, feedbacks, da época da @vivamidia). Proposta: fixar a abertura da série, convênios e "como começar o tratamento", que é o que explica a clínica pra quem chega.
 - **São Gonçalo recebe o mesmo post de Araruama** e engaja metade (2,4 contra 4,7 curtidas de média). Vale ter pelo menos 1 peça local por mês lá.
 - **A série precisa aparecer como série na grade.** Nos recortes, o selo "NN de 10" não aparece. Já aconteceu de o cliente não perceber que era série.

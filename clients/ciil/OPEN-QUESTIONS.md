@@ -2,6 +2,13 @@
 
 Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes de fechar a 1ª estratégia mensal.
 
+## 🟡 Nova (2026-11-04) — calendário de datas das doenças
+
+[Calendário](estrategia/calendario-datas-doencas.md) · [pedido do cliente](referencias/2026-11-04-feedback-datas-das-doencas.md)
+- 🟡 **PH:** data fora de seg/qua/sex sai no próprio dia ou no slot anterior? Recomendação: no próprio dia, porque o cliente pediu "nessas datas". Afeta 04/05, 14/09 e 12/10 (feriado).
+- 🟡 **CIIL/RT:** os médicos acompanham alguma data que não entrou? O RT reconhece o 06/06 da Hidradenite?
+- 🟡 **Março/abril de 2027:** conferir na ASIF se o Dia Mundial da Espondilite é 01/05 ou 08/05.
+
 ## 🟡 Nova (2026-10-22) — Isso Tem Nome 07, Hidradenite (26/10)
 
 [Peça](conteudo/posts/2026-10-26-isso-tem-nome-07-hidradenite-supurativa.md) escrita e retida.

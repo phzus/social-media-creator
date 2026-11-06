@@ -4,6 +4,20 @@ Log datado do trabalho feito pra CIIL. Topo = mais recente. Entrada por bloco de
 
 ---
 
+## 2026-11-04 — Calendário de datas das 10 doenças (pedido da equipe de São Gonçalo)
+
+A equipe de SG pediu post nas datas específicas das doenças, com o exemplo do 29/10 (psoríase), que passou sem peça ([registro](referencias/2026-11-04-feedback-datas-das-doencas.md)). A Lone já tinha a data anotada na estratégia de setembro e na PAUTA, mas ela nunca virou slot.
+
+[Calendário](estrategia/calendario-datas-doencas.md) com data, dia da semana, fonte e confiança, de 05/11/2026 a 31/10/2027. Virou regra no PADROES: data de doença é peça nomeada na estratégia do mês.
+
+- **Não há data das 10 doenças antes de maio/2027.** Maio tem 4 datas + Maio Roxo.
+- **Artrite Psoriásica e Artrite Reumatoide não têm dia próprio.** Usam 29/10, 12/10 e 30/10.
+- **Fora do calendário:** Doenças Raras (não se aplica às 10), 15/09 reumáticas (só projeto de lei).
+
+**Pendências:** ver OPEN-QUESTIONS de 04/11.
+
+---
+
 ## 2026-10-26 (2) — Roteiro de Reels: consultas (Doctoralia + WhatsApp), pra filmagem
 
 PH pediu "roteiro pra ciil" logo depois do pedido do Dr. Felipe. [Roteiro](conteudo/roteiros/2026-10-26-consultas-doctoralia-whatsapp.md): formato institucional validado (enfermeiro + B-roll), ~37s. É o par em vídeo do estático de 30/10. Gancho hiperlocal: *"Você de Araruama ou de São Gonçalo tá precisando marcar consulta?"*. CTA: Doctoralia ou WhatsApp da unidade. Sai na primeira quarta depois da filmagem que o Carlos está marcando.
