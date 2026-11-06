@@ -4,6 +4,78 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-06 — Casa das Telhas: 3 fixados e reunião de onboarding registrada
+
+[Venda com autoridade](../clients/casa-das-telhas-campos/conteudo/posts/2026-11-06-fixado-1-venda-com-autoridade.md), [localização](../clients/casa-das-telhas-campos/conteudo/posts/2026-11-06-fixado-2-localizacao.md) e [horário](../clients/casa-das-telhas-campos/conteudo/posts/2026-11-06-fixado-3-horario.md). O [resumo da reunião de 05/11](../clients/casa-das-telhas-campos/reuniao-mensal/resumos/2026-11-05-resumo-reuniao.md) estava só na Downloads e foi propagado pros docs do cliente.
+
+---
+
+## 2026-11-06 — BodySkin: motion de anúncio do Novembro Black com as 12 áreas de laser
+
+[Roteiro v2.2](../clients/bodyskin-araruama/conteudo/roteiros/2026-11-13-motion-anuncio-novembro-black-laser.md) de 54s pra anúncio e stories, com o selo da campanha e sem pessoas (PH desistiu das imagens geradas com IA). A menção a outros procedimentos caiu no gate da RT e ficou fora até haver aval.
+
+---
+
+## 2026-11-05 (6) — Casa das Telhas: lista de preços e pauta ajustada
+
+Lista de 11 preços registrada como fonte vigente ([PADROES §3](../clients/casa-das-telhas-campos/PADROES.md)). Tráfego confirmado como da Lone. [PAUTA](../clients/casa-das-telhas-campos/reuniao-mensal/PAUTA.md) em linguagem de conversa.
+
+---
+
+## 2026-11-05 (5) — Casa das Telhas Campos: cliente novo e pauta de onboarding
+
+[PAUTA](../clients/casa-das-telhas-campos/reuniao-mensal/PAUTA.md) pronta, com [leitura do Briefing Estratégico contra o perfil](../clients/casa-das-telhas-campos/referencias/2026-11-05-leitura-briefing-e-perfil.md). A auditoria do documento não bate: equipe e humor já são o melhor conteúdo da conta. Telhão a R$ 54,90 há 3 meses pede condição própria na Black. Benchmark fica para depois da reunião.
+
+---
+
+## 2026-11-05 (4) — Mestre da Obra Araruama: 3 fixados
+
+Venda com autoridade, localização e horário ([progresso do cliente](../clients/mestre-da-obra-araruama/PROGRESSO.md)), v1.1 validada, só copy e brief. O perfil até aqui era de outra agência; os posts normais começam depois dos fixados.
+
+---
+
+## 2026-11-05 (3) — Mestre da Obra Araruama: cliente novo e conferência do benchmark
+
+[Conferência](../clients/mestre-da-obra-araruama/referencias/2026-11-05-conferencia-benchmark-e-metricas.md) do benchmark e do Briefing Estratégico de outro setor. Picos de views têm padrão de verba (199 mil views, 29 curtidas; inferência sem Insights), a queda real é de 2,6 vezes, escora está fora do catálogo, e faltavam concorrência local e Google. Painel de métricas e PAUTA criados. Nenhuma peça produzida.
+
+---
+
+## 2026-11-05 (2) — Araruama Tintas: arte "Os preços de outubro continuam em novembro!"
+
+[Peça](../clients/araruama-tintas/conteudo/posts/2026-11-06-precos-de-outubro-continuam-em-novembro.md) de anúncio com 4 preços, sugerida pra sex 06/11. Os preços vieram das artes publicadas, que corrigiram a lista da reunião de 09/10 ([PADROES §7](../clients/araruama-tintas/PADROES.md)). Wanderson confere a embalagem do Selador Rio.
+
+---
+
+## 2026-11-05 — Celmapel: leitura do benchmark semanal e conferência da grade
+
+[Leitura](../clients/celmapel-festas/referencias/2026-11-05-benchmark-semanal-sintese-e-leitura.md) do benchmark de 7 perfis feito por outro setor. Corrige a conclusão de 26/10 de que tutorial não engaja, que vinha só de curtida. A grade de 05/11 não tem nenhum post de BF, e o OQ #44 venceu em 30/10 sem resposta registrada.
+
+---
+
+## 2026-11-04 (4) — Contele: reunião muda o plano pra verão primeiro
+
+[Resumo](../clients/contele-solar/reuniao-mensal/resumos/2026-11-04-resumo-reuniao.md): a Contele não planejou Black, o combo não fechou por causa do aumento no preço dos kits, e a demanda de verão já voltou. [Plano revisado](../clients/contele-solar/estrategia/2026-11-black-friday.md): campanha de verão agora, e Black só com oferta real até 13/11.
+
+---
+
+## 2026-11-04 (3) — Contele: proposta de Black Friday pra reunião
+
+[Proposta](../clients/contele-solar/estrategia/2026-11-black-friday.md) e [PAUTA](../clients/contele-solar/reuniao-mensal/PAUTA.md) com 8 perguntas. Venda primeiro pra base, orçamentos parados e indicação, com combo sistema + estação como oferta. Nada confirmado pela Contele ainda.
+
+---
+
+## 2026-11-04 (2) — CIIL: calendário de datas das 10 doenças
+
+A equipe de SG pediu post nas datas das doenças, depois de o 29/10 da psoríase passar sem peça, apesar de anotado na estratégia e na PAUTA. Saiu o [calendário com fonte e confiança](../clients/ciil/estrategia/calendario-datas-doencas.md), até 31/10/2027, e a data virou slot obrigatório na estratégia mensal. Próxima data: maio/2027.
+
+---
+
+## 2026-11-04 — BodySkin: Novembro Black, arte "já começou" + motion "Passamos laser nos preços"
+
+[Estático de 09/11](../clients/bodyskin-araruama/conteudo/posts/2026-11-09-novembro-black-ja-comecou.md) e [roteiro do motion de 11/11](../clients/bodyskin-araruama/conteudo/roteiros/2026-11-11-motion-flyer-passamos-laser-nos-precos.md), validados (v1.1). O motion ainda não foi montado. As peças do 9.9 conflitam com o "de/por" de pernas e meia perna, então o risco no preço fica só nas coxas até a Cintia confirmar.
+
+---
+
 ## 2026-11-03 (3) — BodySkin: Black Friday, virilha total em 10x de R$ 69,90 (+ WT Black registrada e arte refeita)
 
 - **BodySkin.** A condição de Black Friday virou a tabela de novembro no PADROES §7. A [peça](../clients/bodyskin-araruama/conteudo/posts/2026-11-03-black-friday-virilha-total-10x-69-90.md) é um anúncio direto e foi validada (v1.1). Sugestão de data: sex 13/11. 🔴 Falta saber se o R$ 89,00 (peça de 06/11) continua.
