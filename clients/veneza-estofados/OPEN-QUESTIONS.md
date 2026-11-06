@@ -7,6 +7,19 @@ Pendências herdadas da "Fase 0 — Destravar" e do §12 do [documento-fonte](re
 
 ---
 
+## 🟢 2026-10-30 — Achados nas artes do Esquenta Black (vindas do Criador de vídeos)
+
+PH mandou 3 artes do Esquenta Black feitas pelo cliente (~/Downloads/Veneza videos), pra usar no vídeo de teste da Black. Elas trazem dado que estava em aberto aqui. **Não fechei nenhum item: PH confirma antes.**
+
+- **Nome da campanha de novembro (PH, 30/10):** **"Black Veneza"**, a partir de 01/11, mesmo preço em Araruama e Nova Iguaçu. Mexe na escada de selos do PADROES §16 ("Black November" vira "Black Veneza").
+- **#23/#33 (WhatsApp de Nova Iguaçu):** o rodapé das três artes do cliente traz "Nova Iguaçu: Rua Inês 233 · **21 96901-3856**". É o mesmo número das artes de agosto, agora numa arte de outubro.
+- **#26 (endereço de Nova Iguaçu):** as artes do cliente dizem Rua Inês **233**, não 216. Araruama aparece como "Rodovia Amaral Peixoto km 90,3, Bairro Bananeiras (próximo ao João da Roçadeira)".
+- **#31 (Sofá Master 1,50m):** R$799,99 à vista ou 12x R$76,00, o mesmo de agosto, repetido na arte do Esquenta.
+- **Preços novos:** Base Baú Solteiro R$599,99 à vista ou 12x R$57,24. Colchão King Riviera "Inova Flex" **30% OFF**, R$1.890,00 à vista ou 12x R$180,00. O colchão escreve **"Inovaflex"**: a grafia está divergente.
+- O "30% OFF" do colchão veio do cliente por escrito (está na arte dele), então pode ir na peça (§16).
+
+---
+
 ## 🔴 2026-10-28 — Proposta de novembro (Black November 01–22 + semana da Black 23–29)
 
 [Referência](referencias/2026-10-28-proposta-novembro-black-november.md). A estrutura é viável. A #36 decide o desenho do mês e foi a pergunta que preparei pro PH mandar.
