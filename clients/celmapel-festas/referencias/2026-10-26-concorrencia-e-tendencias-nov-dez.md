@@ -65,7 +65,7 @@
 | Tutoriais e serviço: personalização, calda, kit festa da escola (out.) | 10 a 23 |
 
 - **O Festival de Fatias segue em outubro** (sábados 10, 17 e 24/10). Isso responde em parte a [OPEN-QUESTIONS #31](../OPEN-QUESTIONS.md).
-- **O padrão é o mesmo da Vivian:** a família dos donos e a comunidade (confeiteiras) engajam. Tutorial narrado e serviço explicado ficam abaixo de 25 curtidas.
+- **O padrão é o mesmo da Vivian:** a família dos donos e a comunidade (confeiteiras) engajam. Tutorial narrado e serviço explicado ficam abaixo de 25 curtidas. ⚠️ *Correção de 05/11: curtida não mede utilidade. A festa na escola fez 6,3 mil views segundo o [benchmark de 04/11](2026-11-05-benchmark-semanal-sintese-e-leitura.md).*
 
 ## 4. Tendências e datas (analista-tendencias)
 

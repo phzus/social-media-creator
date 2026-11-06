@@ -4,6 +4,17 @@ Log datado do trabalho feito pra Celmapel. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-11-05 — Leitura do benchmark semanal (outro setor) e conferência da grade
+
+PH recebeu o benchmark de 7 perfis (edição base de 04/11) e pediu síntese, o que dá pra fazer e ideias melhores. [Leitura completa](referencias/2026-11-05-benchmark-semanal-sintese-e-leitura.md) · [PDF](referencias/2026-11-04-benchmark-semanal-edicao-base.pdf).
+
+- **Corrigido:** "tutorial não engaja" (26/10) foi lido só por curtida. A festa na escola teve 6,3 mil views e 28 curtidas, no nível de view do Festival. Nota adicionada no plano e na pesquisa de 26/10.
+- **Achado na grade de 05/11:** nenhum post de BF no ar, nem o anúncio de 03/11 nem a lista VIP de 04/11. O repositório não tem peça de novembro.
+- **Também:** v3 do perfil não aplicada, "atacarejo" já em público apesar do §4, "nossas lojas" na legenda de 28/10 e Festival variando de 58 a 217 curtidas por edição.
+- **Propostas pro PH, nenhuma aprovada e nenhuma mudança na grade:** "Quanto custa só um bolinho", "O Max trouxe", "Taísa cobra o Max", tabela de descartável, "A conta da confeiteira" e um dia de captação.
+
+---
+
 ## 2026-10-27 (3) — Planejamento nov–dez v3.2: Sexta do Encarte (1 por semana)
 
 PH: *"Ele não queria esses encartes por semana? Tipo 4 vezes no mês"*. Ele estava certo: o Max diz "encarte semanal" duas vezes na [transcrição de 02/10](referencias/2026-10-02-transcricao-reuniao-onboarding.txt), e a v3 tinha 6 encartes no bimestre, só 2 em novembro.

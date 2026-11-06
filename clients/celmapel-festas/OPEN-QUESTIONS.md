@@ -61,6 +61,15 @@ Log completo. O que vale ocupar a reunião está curado em [reuniao-mensal/PAUTA
 
 ---
 
+## 🔴 2026-11-05 — Conferência da grade e do benchmark semanal
+
+[Leitura](referencias/2026-11-05-benchmark-semanal-sintese-e-leitura.md).
+
+49. 🔴 **O #44 venceu em 30/10 sem resposta registrada, e nenhum post de BF está no ar (grade de 05/11).** O anúncio de 03/11 e a lista VIP de 04/11 não saíram. O Max confirmou a BF? O plano de novembro continua de pé ou precisa ser reposicionado? PH sabe o status. O encarte "Quanto custa" de sex 06/11 também não tem peça no repositório.
+50. 🟡 **"Atacarejo" já está em público** (arte fixada de 26/10 e legenda de 28/10), e o [PADROES §4](PADROES.md) ainda trava a palavra. O Max liberou? A legenda de 28/10 diz "vem pras nossas lojas", no plural: pista pro #29, não confirmação.
+51. 🟡 **Insights dos últimos 30 dias:** views, salvamentos, compartilhamentos e visitas ao perfil por Reels, e quais foram impulsionados. Fecha três dúvidas: utilidade × gente, o peso da confeiteira convidada no Festival e a linha de base de ~200 mil views, que não fecha com a amostra pública.
+52. 🟢 **Quem fez as artes fixadas de 26/10** ("Posso ajudar?" e "Muito mais que uma loja de festas")? O benchmark critica as duas, e a versão da segunda está na Downloads do PH desde 23/10. Saber antes de levar a crítica pra alguém.
+
 ## 🔴 2026-10-26 — Planejamento de novembro e dezembro (BF, Natal, Réveillon)
 
 [Planejamento](estrategia/2026-11-a-12-bimestral.md) · [pesquisa](referencias/2026-10-26-concorrencia-e-tendencias-nov-dez.md).

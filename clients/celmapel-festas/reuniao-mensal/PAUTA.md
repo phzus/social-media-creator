@@ -3,7 +3,7 @@
 > Documento vivo e **curado** — é o que PH abre minutos antes da reunião de alinhamento.
 > O log completo de pendências continua em [OPEN-QUESTIONS.md](../OPEN-QUESTIONS.md).
 
-**Última atualização:** 2026-10-07 · **Próxima reunião:** ❓ a marcar (mensal ou quinzenal, a definir) · **Última reunião:** 2026-10-02 (onboarding)
+**Última atualização:** 2026-11-05 · **Próxima reunião:** ❓ a marcar (mensal ou quinzenal, a definir) · **Última reunião:** 2026-10-02 (onboarding)
 
 ---
 
@@ -18,7 +18,7 @@
 | 5 | **Mecânicas e preços de outubro, com validade.** E **"estourou o balão" e gamificação: o contador já viu?** | Outubro já começou. Mecânica com sorte ou competição atrelada a compra pode precisar de autorização federal (Lei 5.768/71). |
 | 6 | **Quem atende o WhatsApp, em que horário?** E quantos vídeos por semana Taísa e Max conseguem gravar? | A peça manda mais gente pro WhatsApp, e a avaliação mais recente lida no Google reclama de resposta lenta. Os Reels dependem dos dois. |
 | 7 | **"Personalização" (balões e temas) e o "Festival de Fatias" continuam?** | Os dois existem no perfil e nenhum briefing mencionou. Viram destaque, série ou canal de confeiteiras. |
-| 8 | **Plano contratado, quem aprova e em quanto tempo. O que conta como resultado pra ele?** | O Briefing propõe 6 posts/semana + stories diários, acima do padrão Lone. Cliente fala muito de view: combinar que conversa, visita, venda e lead de comércio entram na régua. |
+| 8 | **Plano contratado, quem aprova e em quanto tempo. O que conta como resultado pra ele?** | O Briefing propõe 6 posts/semana + stories diários, acima do padrão Lone. Cliente fala muito de view: combinar que conversa, visita, venda e lead de comércio entram na régua. **(05/11) Pedir os Insights de 30 dias, com o que foi impulsionado:** os ~200 mil views citados em 02/10 não fecham com a amostra pública (melhor Reels recente: 6,9 mil). |
 
 ## 2. 💡 Insights e oportunidades que a Lone observou
 
@@ -31,6 +31,8 @@
 - **Ponto fraco da Vivian que a Celmapel pode explorar sem citá-la:** condição de atacado opaca, canal de empresa só até 17h e um telefone central pra 11 lojas.
 - **(26/10) A Vivian já está no Natal desde 22/10** (10 dos 12 posts), e o post que mais engajou foi a fundadora contando a história (2.434 curtidas, o dobro do segundo). Na Celmapel também: família dos donos e Festival de Fatias engajam, e tutorial fica abaixo de 25 curtidas. O plano de novembro e dezembro aposta em Max e Taísa e no **Natal de quem vende** (confeiteira e revenda), que a Vivian só alcança pelo evento pago ([planejamento](../estrategia/2026-11-a-12-bimestral.md)).
 - **(26/10) Personalização de Natal e Réveillon pode ganhar Reels próprio**, se o setor fizer painel ou balão com nome/"2027". ⚠️ Não citar de onde veio o dado ([PADROES §13](../PADROES.md)).
+- **(05/11) Utilidade pode ter alcance sem ter curtida.** O Reels da festa na escola fez 6,3 mil views e 28 curtidas, perto do melhor Festival em view. Vale testar tabela de quantidade antes de descartar o formato ([leitura interna do benchmark](../referencias/2026-11-05-benchmark-semanal-sintese-e-leitura.md), não repassar o PDF como está).
+- **(05/11) Novidade trazida pelo Max com a Taísa reagindo** pode virar série própria: o doce coreano tem o melhor sinal recente entre os não fixados, e dupla de donos é coisa que loja grande não copia.
 - **Mensagem pronta no WhatsApp** separa o lead de comércio e permite contar quantos vêm do Instagram, sem CRM.
 
 ## 3. ⚠️ Riscos e alertas

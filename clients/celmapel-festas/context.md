@@ -62,6 +62,8 @@
 - **Serviço de personalização** (balões e temas) com WhatsApp separado, no link da bio.
 - **Google:** 4,5★ com 1.959 avaliações (07/10). Elogio dominante: variedade e atendimento. Reclamação mais recente lida: **WhatsApp lento**.
 
+**Atualização de 05/11 ([leitura](referencias/2026-11-05-benchmark-semanal-sintese-e-leitura.md)):** bio e destaques seguem iguais. Fixados: arte "Posso ajudar?" (personagem de IA), mini chefinho e arte "Muito mais que uma loja de festas", as duas artes de 26/10. Sinais recentes, com views do benchmark de 04/11: Festival de 24/10 com 6,9 mil, doce coreano com 6,5 mil, festa na escola com 6,3 mil. O Festival varia de 58 a 217 curtidas por edição.
+
 ## Duas lojas com o nome Celmapel — ⚠️ relação não confirmada
 
 Além da **Celmapel Festas** (Rua Iza Domingues Eurico, 162, Centro) existe a **Celmapel Atacarejo** (Rua Pedro Luiz Souza, 140, Centro), com Instagram, Facebook e Linktree próprios (Google 4,7★). Um CNPJ antigo "Celmapel Comércio de Embalagens" (baixado) aparece em guias. **A relação entre as duas lojas é inferência** ([OPEN-QUESTIONS #29](OPEN-QUESTIONS.md)) e trava o uso de "atacado/atacarejo" no perfil da Festas.

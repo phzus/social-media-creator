@@ -24,7 +24,7 @@
   - 18/12 Festa (virada)
   - seg 21/12 Confeitaria (ceia)
   - seg 28/12 Descartável (mesa da virada) Nos **stories** entra o **Dia D** semanal, com os dias do próprio Max: **terça da Confeitaria** e **quarta do Descartável**, 3 a 5 produtos com preço e destaque de ofertas. O Dia D pausa de 16 a 27/11, quando o spoiler e a lista VIP fazem esse papel. Com os 9 encartes e o carrossel da BF, são 10 de 27 peças de feed com produto e preço (37%, dentro dos 35% do mix), e o feed não vira encarte ([PADROES §9](../PADROES.md)).
-- **Gente antes de produto:** os Reels são da Taísa (6) e do Max (2), mais a retrospectiva dos dois (30/12). Na grade, família e Festival de Fatias engajam e tutorial não.
+- **Gente antes de produto:** os Reels são da Taísa (6) e do Max (2), mais a retrospectiva dos dois (30/12). Na grade, família e Festival de Fatias engajam e tutorial não. ⚠️ *Correção de 05/11: essa leitura era só de curtida. O Reels da festa na escola fez 6,3 mil views, perto do melhor Festival ([leitura do benchmark](../referencias/2026-11-05-benchmark-semanal-sintese-e-leitura.md)). Utilidade segue em aberto até ver os Insights.*
 - 🚫 **Armazém das Festas fora de qualquer peça ou documento do cliente** ([PADROES §13](../PADROES.md)).
 
 **Cadência:** **seg estático · qua Reels · sex venda**, sem mudar de dia por feriado. **Exceção:** Finados (seg 02/11) fica sem post, e o anúncio da BF sai na terça 03/11 (PH, 27/10). Só um carrossel, no pico da BF, porque carrossel pesa no designer. Feriado em dia de post: a peça sai, e o horário da loja vai em story.
