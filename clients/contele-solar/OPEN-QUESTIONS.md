@@ -4,6 +4,18 @@ Pendências a resolver com PH / com o cliente. Diferente dos outros onboardings,
 
 > ⚠️ **Escalado em 2026-08-10, confirmado em 2026-08-12:** contando o post de sexta 14/08 (produzido), são 4 peças seguidas (03/08, 07/08, 12/08, 14/08) rodando fora do Pilar 2 e do Pilar 3 pelos itens 1 e 1b abaixo. O grid não tem variação de fundo Ink (Pilar 2) nem foto real (Pilar 3) ainda. Vale priorizar a resposta desses dois itens com o cliente antes do feed ficar repetitivo.
 
+## 🔴 2026-11-04 — Campanha de novembro: verão agora, Black só com oferta
+
+[Reunião de 04/11](reuniao-mensal/resumos/2026-11-04-resumo-reuniao.md) · [plano](estrategia/2026-11-black-friday.md) · perguntas na [PAUTA §1](reuniao-mensal/PAUTA.md). A Contele não planejou Black, e o combo não fechou por causa do aumento no preço dos kits. Cristiane vai fechar com o Vinicius, sem prazo registrado.
+1. 🔴 **Black ou verão?** A Lone recomenda abrir o verão já e só somar a Black com oferta real até sex 13/11.
+2. 🔴 **O aumento:** foi no kit, na estação ou nos dois, de quanto, e existe lote comprado antes dele? Até responder, nenhuma peça usa "o preço vai subir", e o ticket de R$ 25-40 mil fica a reconferir.
+3. 🔴 **Oferta real:** combo ou condição, preço e validade. Sem isso, nenhuma peça de oferta sai.
+4. 🔴 **Estoque:** modelos e quantidade de estação. Enquanto não vier, segue a regra do §8.
+5. 🟡 **Cliente:** preço da limpeza, ganho de quem indica, lista de orçamentos e de clientes, financiamento, material real e meta.
+6. 🟡 **Orçamentos antigos:** como responder a quem recebeu proposta antes do aumento?
+7. 🟡 **PH:** não há peça de novembro na pasta da Contele. O que saiu em 02, 04 e 06/11, e qual o ângulo novo de verão a partir de 09/11?
+8. 🟡 **A transcrição de 04/11 ficou parcial.** Houve segunda parte da conversa?
+
 ## 🟡 2026-10-22 — Post de segunda 26/10 ("65%", sol de Araruama × Berlim)
 
 1. 🟡 **Grid parado no Pilar 1.** 16, 19, 23 e 26/10 são Pilar 1 em fundo Sand. A [peça de 26/10](conteudo/posts/2026-10-26-araruama-tem-mais-sol-que-berlim.md) pede **foto real do céu/lagoa de Araruama** (banco com local identificado ou do cliente) pra quebrar a sequência; sem ela, são cinco Sand tipográficas seguidas. O que destrava Pilar 2 e 3 continua sendo caso real de cliente e foto/autorização da equipe, prometidos em 08/09.
@@ -133,11 +145,13 @@ Mesma régua já aplicada à EcoFlow em agosto — o anúncio de 15/09 ([post](c
 Ver detalhe completo em [reuniao-mensal/resumos/2026-09-08-resumo-reuniao.md](reuniao-mensal/resumos/2026-09-08-resumo-reuniao.md).
 
 21. **Preços dos combos EcoFlow** — Vinicius vai enviar por escrito (kit solar + EcoFlow com desconto). Sem isso, nenhum valor de combo entra em peça.
-22. **Nome da campanha de verão** (novembro a março) — a definir.
+   > **Atualização (reunião de 04/11/2026):** o Vinicius não avançou nos combos por causa do aumento no preço dos kits. Os exemplos de 08/09 são de antes do aumento. Cristiane ficou de fechar com ele.
+22. **Nome da campanha de verão** (novembro a março) — a definir. ⚠️ Em 04/11, a Contele voltou a citar o verão como foco, e a campanha já deveria estar abrindo.
 23. **Formato de campanha compatível com a marca** — Natal é favorável a campanhas de data comemorativa, Vinicius tem resistência ("não sente que combina com a marca", ex. Dia dos Pais). Alinhar um formato antes de produzir peça de data pra Contele.
    > **Atualização (2026-10-07):** PH pediu peça de Dia das Crianças pra carteira toda, então a de 12/10 foi produzida sem esperar o alinhamento, no formato sem oferta e sem CTA de conversão ([peça](conteudo/posts/2026-10-12-dia-das-criancas-sol-no-canto-da-folha.md)). O formato definitivo segue aberto; a resposta do cliente a essa peça serve de teste.
 24. **Números de venda da Contele** (maio ~6, junho ~5, agosto ~11, queda de ~15% no mercado) foram citados de memória em reunião — **confirmar com relatório comercial antes de usar em qualquer peça ou argumento**.
 25. **CRM próprio da Lone** — previsão de liberação em ~7 dias (a partir de 08/09/2026), gratuito pros clientes. Não é conteúdo de peça, mas muda o fluxo de atendimento/funil da Contele — acompanhar se afeta o CTA ou a forma de medir resultado do social media.
 26. **"Mateus"** — comercial citado, a verificar se o EcoFlow entra na esteira de produtos dele. **"Cris"** — vai regravar o conteúdo das placas de estoque; confirmar papel dela na operação. Nenhum dos dois é candidato automático a citação em peça sem autorização.
+   > **Atualização (reunião de 04/11/2026):** a **Cristiane Damartini** participou pela Contele e provavelmente é a "Cris", mas isso e o papel dela seguem a confirmar.
 
 27. 🟡 **(2026-10-16) A Contele vende o RIVER 3 Max?** Ele está na [peça de 19/10](conteudo/posts/2026-10-19-quanto-dura-cada-ecoflow.md) (572 Wh), mas não aparece no catálogo do site EcoFlow BR. Se não vender, a arte sai com três colunas. Junto: fotos oficiais dos modelos (kit EcoFlow, pendente desde 31/08) e OK do Vinicius pros tempos estimados.

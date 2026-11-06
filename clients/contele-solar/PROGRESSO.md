@@ -4,6 +4,24 @@ Log datado do trabalho feito pra Contele. Topo = mais recente. Entrada por bloco
 
 ---
 
+## 2026-11-04 (2) — Reunião Carlos × Cristiane: verão primeiro, Black só com oferta
+
+[Resumo](reuniao-mensal/resumos/2026-11-04-resumo-reuniao.md) registrado a partir do PDF (call curta, transcrição parcial). A Contele não planejou Black, o foco é o verão, a demanda já voltou e o combo não fechou por causa do aumento no preço dos kits. Cristiane vai fechar com o Vinicius.
+
+[Plano](estrategia/2026-11-black-friday.md) revisado: a campanha de verão abre sem depender do combo, e a Black só entra com oferta real até sex 13/11. A [PAUTA](reuniao-mensal/PAUTA.md), o [OPEN-QUESTIONS](OPEN-QUESTIONS.md), o [context](context.md) e o [PADROES §8](PADROES.md) foram atualizados. Nova trava: nada de "o preço vai subir" sem o Vinicius confirmar.
+
+Nenhuma peça foi escrita.
+
+---
+
+## 2026-11-04 — Black Friday: proposta de como vender mais e PAUTA da reunião
+
+PH: *"reunião com a contele, temos black friday esse mês, pensa em como a gente pode vender mais"*. [Proposta](estrategia/2026-11-black-friday.md): vender primeiro pra quem já conhece a empresa (orçamentos parados, +700 clientes, indicação), com o combo sistema + estação como carro-chefe e o feed enchendo uma lista no WhatsApp a partir de 13/11. A condição abre em 23/11 pra lista e sai no feed depois. [PAUTA](reuniao-mensal/PAUTA.md) reescrita com 8 perguntas da Black, e as antigas foram pra "se sobrar tempo".
+
+Nada de oferta está confirmado, e nenhuma peça foi escrita.
+
+---
+
 ## 2026-10-27 — Post de sexta 30/10: "Casa cheia no fim de ano, todo mundo junto na sala, e a luz cai."
 
 [Estático](conteudo/posts/2026-10-30-casa-cheia-no-fim-de-ano-e-a-luz-cai.md) de estação de energia (EcoFlow + BLUETTI no mesmo peso), na direção de PH: fim de ano com visita em casa e a luz caindo. Arte: *"Ligados numa estação de energia, o roteador, um abajur e a TV ficam funcionando enquanto a bateria durar."* · CTA ENERGIA no direct. Fundo Ink como exceção do Pilar 1 (PH confirma).

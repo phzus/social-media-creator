@@ -119,10 +119,12 @@ Estrutura fixa e **obrigatória de alternar** (ver estruturas completas em [PADR
 - **Vinicius Melo** — comercial da Contele; virou revendedor EcoFlow, é quem vai passar preços de combo por escrito.
 - **Mateus** — comercial, a confirmar se o EcoFlow entra na esteira de produtos dele.
 - **Cris** — vai regravar o conteúdo das placas de estoque; papel exato na operação a confirmar.
+- **Cristiane Damartini** — falou pela Contele na call de 04/11/2026 e ficou de fechar os combos com o Vinicius. Provavelmente é a "Cris" (a confirmar).
 - Nenhum desses nomes está automaticamente autorizado a ser citado em peça (Pilar 3) — precisa autorização explícita separada. Ver [OQ #1b](OPEN-QUESTIONS.md).
 
 ## Operational Notes
 
+- **Sazonalidade (reunião de 04/11/2026):** a temporada de verão é o foco histórico e tem o maior volume de vendas. Com o calor, a conta sobe e o público volta a perguntar. A Contele não costuma planejar Black Friday.
 - **Plataforma:** Instagram (@contelesolarenergy), canal único hoje.
 - **Frequência (definida no próprio briefing aprovado):** 3 posts estáticos/semana (1 por pilar, alternando) + 2 Reels/semana + stories diários com rotina fixa. **Confirmar com PH se bate com o plano contratado da Lone** (é mais que o padrão de referência 12/mês da Lone).
 - **Grid:** alternar pilares por linha (Educ · Prova · Local · Local · Reel · Educ...) — checar mockup mental 3×3 antes de aprovar peça.
@@ -142,6 +144,7 @@ Estrutura fixa e **obrigatória de alternar** (ver estruturas completas em [PADR
 
 ## Histórico de revisões
 
+- **2026-11-04** — Call Carlos × Cristiane Damartini: verão como foco de vendas, sem Black planejada, e aumento expressivo no preço dos kits travando o combo. Detalhe em [reuniao-mensal/resumos/2026-11-04-resumo-reuniao.md](reuniao-mensal/resumos/2026-11-04-resumo-reuniao.md).
 - **2026-09-08** — Reunião mensal Lone×Contele (Natal Tuão, sócio · Vinicius Melo, comercial). Cliente apontou falta de autenticidade (material de banco de imagens, placa que não batia com a real) e vai passar a mandar fotos/vídeos reais de instalações variadas. Faixa de preço EcoFlow corrigida (R$2.800–54.000, A CONFIRMAR) e nova regra dura: backup EcoFlow não cobre chuveiro elétrico nem ar-condicionado. Surgiram dois nomes reais na operação (Natal, Vinicius) — não são citação automática, precisam autorização. Detalhe em [reuniao-mensal/resumos/2026-09-08-resumo-reuniao.md](reuniao-mensal/resumos/2026-09-08-resumo-reuniao.md) e [PADROES §8](PADROES.md).
 - **2026-08-28** — PH informou a **parceria com a EcoFlow**. Abre um território de conteúdo que a conta não tinha: **energia de reserva**. O argumento que sustenta ele é técnico e verdadeiro — sistema on-grid desliga na queda de energia por exigência de segurança —, e é o que dá motivo pra parceria existir aos olhos de quem já é cliente. Arranjo confirmado no mesmo dia: **revenda, todos os modelos**, faixa de ~R$ 3 mil a ~R$ 50 mil conforme a necessidade. Disponibilidade e prazo **ninguém sabe, nem o dono** — virou regra dura de nunca citar isso em peça. Registrado também que a Contele tem **solução híbrida** no portfólio, que fica em espera como pauta e exige a regra de coerência de [PADROES §5.1](PADROES.md).
 - **2026-08-20** — PH corrigiu fato central: o **kit vem de fornecedor parceiro** agora (Contele não tem kit próprio), mas **projeto, homologação Enel e instalação continuam com a equipe própria da Contele** — confirmado no mesmo dia. O claim "não é revenda de kit" (pleno) está retirado; "quem projeta e instala é a Contele" segue válido. Afeta 5 peças (4 já publicadas) — PH optou por não agir sobre as antigas por ora, só travar daqui pra frente.

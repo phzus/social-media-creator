@@ -109,14 +109,15 @@ Seguidores, alcance, salvamentos por post (proxy de valor educativo), DMs inicia
 | Handle | @contelesolarenergy | Perfil |
 | Sede | Araruama/RJ | Briefing |
 | Área de atuação | Cabo Frio, Búzios, São Pedro da Aldeia, Iguaba, Arraial | Briefing |
-| Ticket médio | R$ 25–40 mil (residencial) | Briefing |
+| Ticket médio | R$ 25–40 mil (residencial). ⚠️ A reconferir depois do aumento no preço dos kits (reunião de 04/11/2026) | Briefing |
+| Aumento no preço dos kits | "Aumento expressivo" citado em 04/11/2026, sem valor e sem dizer se atinge as estações de energia. ⛔ **Nenhuma peça usa "o preço vai subir" ou "compre antes do aumento"** até o Vinicius confirmar o que subiu, quanto e até quando vale o preço atual. | Cristiane Damartini, reunião 2026-11-04 |
 | Prova numérica | +700 sistemas instalados | Briefing |
 | CTA de conversão | DM do Instagram ("manda SOL no direct") | Briefing — ⚠️ confirmar se não há WhatsApp oficial ([OPEN-QUESTIONS](OPEN-QUESTIONS.md)) |
 | Link | Linktree na bio (mantido como está) | Briefing |
 | WhatsApp/telefone/CNPJ/endereço físico/horário | **Não informado no documento** | — |
 | Parceria EcoFlow | **Revenda** — a Contele vende produtos EcoFlow pros clientes dela, **catálogo inteiro** (RIVER, DELTA, painéis portáteis, acessórios). Marca que aparece na peça é **EcoFlow**; **Powersafe** é a distribuidora oficial por trás da loja, só entra se o cliente pedir. ⚠️ Preços da loja EcoFlow **não são** preços da Contele — condição da Contele ainda não informada. Estoque local × encomenda também em aberto. | PH, 2026-08-28 (confirmado no mesmo dia) |
 | Faixa de preço EcoFlow | ⚠️ **Atualizada em 2026-09-08 (reunião Lone×Contele): R$ 2.800 a R$ 54.000**, conforme a necessidade — substitui a faixa aproximada de ~R$3–50 mil usada até aqui. Ainda é amplitude de catálogo, **não preço de modelo**. **A CONFIRMAR** (citada em reunião, não em documento escrito). | Vinicius Melo (comercial, Contele), reunião 2026-09-08 |
-| Preço de revenda / combos EcoFlow | Vinicius é **revendedor EcoFlow** — preço de revenda dele é abaixo do varejo (ex. citado: unidade de ~R$8.000 no varejo sai por ~R$5.000 pra ele). Ideia de **combo kit solar + EcoFlow com desconto** (ex.: EcoFlow de R$8.000 por ~R$6.500 no combo). ⛔ **Nenhum desses valores vai pra peça ainda** — são exemplos internos, Vinicius vai mandar os preços reais por escrito. **A CONFIRMAR.** | Vinicius Melo, reunião 2026-09-08 |
+| Preço de revenda / combos EcoFlow | Vinicius é **revendedor EcoFlow** — preço de revenda dele é abaixo do varejo (ex. citado: unidade de ~R$8.000 no varejo sai por ~R$5.000 pra ele). Ideia de **combo kit solar + EcoFlow com desconto** (ex.: EcoFlow de R$8.000 por ~R$6.500 no combo). ⛔ **Nenhum desses valores vai pra peça ainda** — são exemplos internos, Vinicius vai mandar os preços reais por escrito. **A CONFIRMAR.** ⚠️ Em 04/11/2026, o combo seguia sem fechar por causa do aumento no preço dos kits, e esses exemplos são de antes dele. | Vinicius Melo, reunião 2026-09-08; reunião 2026-11-04 |
 | Garantia / vida útil EcoFlow | Garantia estendida de **5 anos**, vida útil de bateria em torno de **10 anos**. **A CONFIRMAR** (citado em reunião, não em documento). Ainda não resolve o [OQ #11](OPEN-QUESTIONS.md) (garantia do **sistema fotovoltaico** — painel/inversor —, que é uma pergunta diferente e segue sem resposta). | Reunião Lone×Contele, 2026-09-08 |
 | Limite do backup EcoFlow — não confundir com sistema inteiro | ⛔ **Regra de expectativa, vale em toda peça de EcoFlow:** o backup **não mantém a casa inteira** — sem chuveiro elétrico, sem ar-condicionado. Argumento de venda é continuidade de essencial (iluminação, roteador, notebook, geladeira), nunca "sua casa nunca mais fica sem energia" sem essa ressalva. | Reunião Lone×Contele, 2026-09-08 |
 | Disponibilidade / prazo de entrega EcoFlow | **NINGUÉM SABE — nem o dono.** ⛔ Regra dura: **nenhuma peça cita estoque, pronta-entrega, prazo ou disponibilidade**, nem na arte nem na legenda. | PH, 2026-08-28 |
@@ -130,6 +131,8 @@ Seguidores, alcance, salvamentos por post (proxy de valor educativo), DMs inicia
 ---
 
 ## Histórico
+
+- **2026-11-04** — Reunião Carlos × Cristiane: aumento expressivo no preço dos kits entrou em §8, com trava contra usar "o preço vai subir" sem confirmação, e o ticket médio ficou a reconferir. Detalhe em [reuniao-mensal/resumos/2026-11-04-resumo-reuniao.md](reuniao-mensal/resumos/2026-11-04-resumo-reuniao.md).
 
 - **2026-10-16** — PH liberou **tempo de autonomia por modelo** em peça de EcoFlow, desde que venha com **carga de referência escrita na arte** (ex.: "com 100 W ligados: roteador, lâmpadas LED, TV pequena e celular") e palavra de aproximação ("cerca de", "mais de"). Até aqui a Lone evitava qualquer número de autonomia por cautela própria, e isso não era regra do cliente. Continua valendo: sem preço, estoque ou prazo, ressalva de chuveiro e ar-condicionado, e nada de comparar EcoFlow com BLUETTI. Peça: [2026-10-19](conteudo/posts/2026-10-19-quanto-dura-cada-ecoflow.md).
 
