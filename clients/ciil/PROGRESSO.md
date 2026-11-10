@@ -4,6 +4,10 @@ Log datado do trabalho feito pra CIIL. Topo = mais recente. Entrada por bloco de
 
 ---
 
+## 2026-11-10 — Novembro Azul pra sexta 13/11
+
+[Carrossel de 2 slides](conteudo/posts/2026-11-13-novembro-azul-5-sinais.md) a partir da referência da Estação Fitness que PH mandou. A lista de sinais da referência não batia com a do Ministério da Saúde e omitia que, na fase inicial, pode não haver sintoma: isso virou o gancho. Sem WhatsApp da CIIL, porque a clínica não atende próstata. Validado (v1.1). Passa pelo RT, com 4 perguntas na peça.
+
 ## 2026-11-04 — Calendário de datas das 10 doenças (pedido da equipe de São Gonçalo)
 
 A equipe de SG pediu post nas datas específicas das doenças, com o exemplo do 29/10 (psoríase), que passou sem peça ([registro](referencias/2026-11-04-feedback-datas-das-doencas.md)). A Lone já tinha a data anotada na estratégia de setembro e na PAUTA, mas ela nunca virou slot.

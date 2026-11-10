@@ -4,6 +4,10 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-10 (4) — CIIL: Novembro Azul pra sexta 13/11
+
+[Carrossel](../clients/ciil/conteudo/posts/2026-11-13-novembro-azul-5-sinais.md) inspirado na Estação Fitness, com a lista do Ministério da Saúde e o gancho "na fase inicial pode não ter sintoma". Validado, aguarda RT.
+
 ## 2026-11-10 (3) — Casa das Telhas: bio nova do Instagram
 
 [Bio](../clients/casa-das-telhas-campos/conteudo/posts/2026-11-10-bio-instagram.md): ajuste da atual (3 lojas numa linha, frete grátis com consulta, um WhatsApp só) e "em Campos" no nome.
