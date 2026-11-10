@@ -7,6 +7,34 @@ Pendências herdadas da "Fase 0 — Destravar" e do §12 do [documento-fonte](re
 
 ---
 
+## 🔴 2026-11-10 (2) — Saídas da reunião de 10/11
+
+[Resumo](reuniao-mensal/resumos/2026-11-10-resumo-reuniao.md).
+
+**Fechadas ou encaminhadas na reunião:**
+- **#36 → em parte.** O desenho do mês mudou: é **Black Friday da Veneza em tudo**, de 10 a 29/11, sem o Black November. Continua aberto se a **sexta 27** tem algo próprio (ver #47).
+- **#17, #37 → viram a lista** que o Mateus prometeu mandar no grupo em 10/11 (ver #48).
+- **#22 → plano fechado do lado dele:** 2 Reels de Black antes da última semana (um na fábrica) e stories no sábado 28. Falta a data e a divisão dos Reels (#49).
+- **#41 → a campanha entra no feed** com o anúncio na qui 12 ou sex 13.
+- **#46 → vídeo resolvido pela Gabriela.** Vitor só recebe roteiro pra trocar os criativos de Nova Iguaçu (sem prazo).
+- **#28 Unamar → previsão** de 1,5 a 2 semanas (18 a 24/11), sem data fixa (#50).
+
+**Novas ou que seguem abertas:**
+
+47. 🟡 **A sexta 27 tem condição própria?** Como o mês inteiro já é Black Friday, ela pode virar só "o dia". Sem condição nova, nenhuma peça antes de 27 diz "espera a sexta".
+48. 🔴 **Lista completa de produtos e condições** (prometida pra 10/11, no grupo). Trava o anúncio e as peças de produto. Itens citados: **cama completa** e **sofá baú de 2 m** (preço baixado pra oferta). Seguem valendo #38 (Antonella), #39 (Essential Pocket) e #35 (Ipanema).
+49. 🟡 **Divisão dos 2 Reels da Gabriela e a data da gravação.** Proposta da Lone, a confirmar com PH:
+    - **Reel 1:** sofá baú de 2 m. Ela sai de dentro do baú, mostra que é fabricado ali e diz o preço. Junta o gancho do concorrente, a fábrica e o produto isca.
+    - **Reel 2:** cama completa "a partir de" R$ X.
+    - O institucional com várias ofertas cai, porque o que funcionou com ela foi produto específico.
+50. 🟡 **Unamar:** com a previsão de 18 a 24/11, a inauguração cai na semana da Black. Arte de abertura precisa de antecedência. Data com o Roberto.
+51. 🟢 **O que acontece depois de 29/11** e o **briefing de dezembro** não foram tratados.
+52. 🟢 **Capacidade da fábrica e pronta-entrega** não foram tratadas. Regra mantida: nenhuma peça fala de prazo.
+
+Seguem abertas da pauta: **#42** (sábado fecha 12h ou 14h, necessário pra arte do Sábado Black), **#43** (legendas, interno), **#44** (21 96901-3856 é WhatsApp?), **#18** (5% do combo × 5% do PIX) e **#45** (combo até 10%).
+
+---
+
 ## 🔴 2026-11-10 — Análise dos perfis antes da reunião de 10/11
 
 [Análise](referencias/2026-11-10-analise-perfil-instagram.md) · [PAUTA da reunião](reuniao-mensal/PAUTA.md). Fechar tudo na reunião de hoje.

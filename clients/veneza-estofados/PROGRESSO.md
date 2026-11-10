@@ -4,6 +4,54 @@ Log datado do trabalho feito pra Veneza Estofados. Topo = mais recente. Entrada 
 
 ---
 
+## 2026-11-10 (2) — Reunião de 10/11: Black Friday da Veneza em tudo, Sábado Black e Gabriela
+
+PH trouxe o PDF do resumo (Carlos × Mateus, 15 min). [Resumo registrado](reuniao-mensal/resumos/2026-11-10-resumo-reuniao.md).
+
+**Decisões:**
+- **Black Friday da Veneza em tudo**, de 10 a 29/11. O Esquenta acabou, e "Black November" e "Black Veneza" saem.
+- **Identidade preto e verde no perfil inteiro.**
+- **Sábado Black** em 14, 21 e 28/11, nas duas unidades.
+- **Dia avulso** liberado quando tiver mais produto que post.
+- **Gabriela:** 2 Reels de Black antes da última semana (um deles na fábrica: "por que a Black da Veneza é tão barata") e stories no sábado 28.
+- **Criativo de referência:** pessoa saindo de dentro do sofá baú de 2 m, com o preço na tela e a fabricação própria.
+- **Unamar:** fica pronta em ~1,5 a 2 semanas.
+
+**Resultado:** outubro foi melhor que setembro; novembro caiu (conversão e visita).
+
+**Atualizados:**
+- PADROES §16 (bloco "vale a partir de 10/11")
+- context
+- PAUTA (status pós-reunião)
+- OPEN-QUESTIONS (#47–52, fechadas #17/#22/#36/#41/#46 em parte)
+
+**Calendário proposto até 30/11** (depende da lista, OQ #48):
+
+| Dia | Peça |
+|---|---|
+| qui 12 (avulso) | Anúncio "Começou a Black Friday da Veneza", com as condições |
+| sex 13 | Sábado Black de 14/11 (+ stories no sábado) |
+| seg 16 | Produto |
+| qua 18 | Reels da Gabriela; sem gravação, motion com produto e preço |
+| sex 20 | Sábado Black de 21/11 (o feriado não move o post) |
+| seg 23 | Produto |
+| qua 25 | Reels 2 da Gabriela |
+| sex 27 | Black Friday |
+| sáb 28 (avulso) | Sábado Black de 28/11 + stories da Gabriela |
+| seg 30 | Identidade padrão de volta |
+
+- Avulsos de produto na terça ou quinta, se a lista passar das vagas.
+- Plano B: se a lista só chegar na quarta, o anúncio vai pra sex 13 e o Sábado Black de 14 fica só nos stories.
+
+**Texto pra PH colar no grupo:**
+> Pessoal, pra eu fechar as artes da Black dessa semana:
+> • Conseguem mandar hoje a lista dos produtos da Black com preço à vista e parcelado de cada um? Se tiver foto, melhor ainda.
+> • No sábado vocês fecham ao meio-dia ou às 14h? É pra arte do Sábado Black.
+> • Já tem dia marcado com a Gabriela?
+> • O 21 96901-3856 de Nova Iguaçu é WhatsApp?
+
+---
+
 ## 2026-11-10 — Pauta da reunião de hoje: análise dos perfis, Black e briefing de dezembro
 
 PH pediu a preparação da reunião com a Veneza: analisar tudo, ideias de Black, conteúdo pra aproveitar e as criações alinhadas, pra sair sem pendência.

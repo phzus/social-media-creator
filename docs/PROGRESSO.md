@@ -4,6 +4,19 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-10 (2) — Veneza: reunião feita, Black Friday da Veneza em tudo
+
+[Resumo](../clients/veneza-estofados/reuniao-mensal/resumos/2026-11-10-resumo-reuniao.md):
+- Black Friday da Veneza de 10 a 29/11 (o Esquenta acabou), preto e verde no perfil inteiro
+- Sábado Black em 14, 21 e 28/11 nas duas unidades
+- Gabriela com 2 Reels de Black (um na fábrica) e stories no 28
+- dia avulso liberado
+- novembro caiu depois de um outubro melhor que setembro
+
+O anúncio sai qui 12 ou sex 13 e depende da lista de produtos (OQ #48). PADROES §16, context, PAUTA e OQ #47–52 atualizados.
+
+---
+
 ## 2026-11-10 — Veneza: pauta da reunião de hoje (análise dos perfis + Black + dezembro)
 
 [PAUTA](../clients/veneza-estofados/reuniao-mensal/PAUTA.md) refeita pra reunião de hoje. A análise dos dois perfis mostra que **a Black Veneza (desde 01/11) não entrou no feed** e que o Reels está parado desde 14/10. A pauta leva o menu de 7 ideias de Black, o calendário até 30/11 e o briefing de dezembro adiantado. O resumo da reunião de 03/09 foi transcrito do PDF da Downloads. [Progresso do cliente](../clients/veneza-estofados/PROGRESSO.md) · OQ #41–46.

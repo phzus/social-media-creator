@@ -7,6 +7,32 @@
 **Roteiro de condução (ordem + "se responder X, fala Y"):** [2026-11-10-roteiro-conducao.md](2026-11-10-roteiro-conducao.md)
 **Contato do cliente:** Mateus. **Base da análise:** últimos 12 posts de cada perfil, coletados hoje ([análise](../referencias/2026-11-10-analise-perfil-instagram.md)).
 
+
+> ## ✅ Reunião de 10/11 feita: o que fechou e o que sobra
+>
+> **Fechou:**
+> - Black Friday da Veneza em tudo, de 10 a 29/11, preto e verde (#1, #2, #6)
+> - Sábado Black em 14, 21 e 28/11 nas duas unidades (#8, parcial)
+> - Gabriela: 2 Reels antes da última semana, um na fábrica, mais stories no 28 (#7)
+> - Unamar pronta em ~1,5 a 2 semanas
+> - Outubro foi melhor que setembro, novembro caiu
+>
+> **Cobrar no grupo** (texto pronto no PROGRESSO de 10/11):
+> - a lista de produtos (🔴)
+> - o horário de sábado
+> - a data da Gabriela
+> - se o 21 96901-3856 é WhatsApp
+>
+> **Pra próxima reunião:**
+> - sexta 27 com condição própria?
+> - o que acontece depois de 29/11
+> - capacidade da fábrica
+> - 5% do combo × PIX
+> - briefing de dezembro
+> - números
+>
+> O conteúdo abaixo é a pauta como foi preparada pra 10/11 e fica como registro.
+
 ---
 
 ## 0. Por que essa reunião (a frase de abertura)
@@ -152,7 +178,7 @@ Até 22/11 não pode ser tudo campanha: prova (avaliação do Google) e fábrica
 
 | Data | Resumo |
 |---|---|
-| 2026-11-10 | Esta pauta. Black Veneza fora do feed no dia 10, menu de condições pra semana da Black e briefing de dezembro adiantado. |
+| 2026-11-10 | [Black Friday da Veneza](resumos/2026-11-10-resumo-reuniao.md): Black em tudo de 10 a 29/11, preto e verde, Sábado Black 14/21/28, Gabriela com 2 Reels (um na fábrica) e stories no 28, Unamar em ~2 semanas · Carlos conduziu |
 | 2026-10-13 | [Mês recorde e plano de Black Friday](resumos/2026-10-13-resumo-reuniao.md): identidade unificada nos dois perfis, conteúdo de fábrica, Esquenta Black com identidade própria e Gabriela quase certa |
 | 2026-09-03 | [Alinhamento de conteúdo e vídeo](resumos/2026-09-03-resumo-reuniao.md): primeiro mês, mix de venda e fábrica, combo base baú + colchão (5% a 10%), pacote de 4 vídeos com a Gabriela e o gargalo de quem apresenta |
 

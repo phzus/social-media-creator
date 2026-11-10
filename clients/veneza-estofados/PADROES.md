@@ -217,6 +217,14 @@ São **dois perfis ativos** — **@venezaestofados_araruama** (Araruama) e **@ve
 
 ## 16. Esquenta Black e Black Friday — identidade de campanha (reunião de 2026-10-13)
 
+> **⚡ Vale a partir de 10/11/2026** ([reunião de 10/11](reuniao-mensal/resumos/2026-11-10-resumo-reuniao.md)). Onde as linhas abaixo divergem disto, vale isto.
+> - **Nome:** **"Black Friday da Veneza"** desde já. O Esquenta acabou, e "Black November" e "Black Veneza" saem. A escada de selos fica Esquenta (outubro) → Black Friday da Veneza (10 a 29/11).
+> - **Identidade preto e verde no perfil inteiro**, não só nas peças de oferta (pedido do cliente, reforçado no fechamento). A identidade padrão volta na seg 30/11.
+> - **Dosagem suspensa em novembro.** O cliente quer a campanha em tudo. Se tiver mais produto que post, sai em **dia avulso** (terça ou quinta). O mix vem de dentro da campanha: fábrica (por que é barato), prova e Gabriela.
+> - **Sábado Black** nos sábados **14, 21 e 28/11**, nas duas unidades. Substitui o feirão (§12) em novembro e segue a mecânica dele (feed na véspera, stories no sábado). 🚫 O horário de sábado não vai na arte até confirmar se é 12h ou 14h (OQ #42).
+> - **Argumento central:** o preço é baixo porque a Veneza fabrica, e por isso a Black é de verdade. Nunca "o preço é o mesmo o ano todo".
+> - **Ritmo:** anúncio "começou a Black da Veneza" na qui 12 ou sex 13, peças de produto a partir da seg 16 e Black Friday na sex 27/11.
+
 **Exceção ao §5.** Data comemorativa segue o sistema visual da marca; **campanha comercial com começo e fim ganha identidade própria.** Argumento acordado: com a identidade de sempre, o preço atrativo parece a tabela de sempre e não gera urgência.
 
 - **Mecânica:** produtos que **já têm preço muito competitivo** anunciados como itens do Esquenta Black. Não exige desconto novo. Mateus seleciona (sofás de entrada + base baú com colchão).
@@ -233,6 +241,8 @@ São **dois perfis ativos** — **@venezaestofados_araruama** (Araruama) e **@ve
 ---
 
 ## Histórico
+
+- **2026-11-10** — reunião ([resumo](reuniao-mensal/resumos/2026-11-10-resumo-reuniao.md)): §16 recebe o bloco "Black Friday da Veneza" (identidade preto e verde no perfil inteiro até 29/11, Sábado Black 14/21/28, dosagem suspensa em novembro, dia avulso liberado). O Esquenta foi encerrado.
 
 - **2026-10-13** — reunião de alinhamento ([resumo](reuniao-mensal/resumos/2026-10-13-resumo-reuniao.md)). Criadas a §15 (dois perfis com a mesma identidade: estático igual nos dois com assinatura de cada unidade, vídeo por unidade, preço segue no centro) e a §16 (Esquenta Black com identidade própria de campanha, exceção ao §5, sem desconto inventado e com data de fim). Corrigida no mesmo dia por PH: os perfis não foram unificados.
 - **2026-10-07** — peça de Dia das Crianças (12/10). §5 ganha as regras de peça de data com tema infantil (sem claim de uso por criança, sem horário em feriado, sem "senta antes de levar" como giro).
