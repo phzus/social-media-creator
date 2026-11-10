@@ -109,6 +109,7 @@ Rotacionar entre: "Chama no WhatsApp (22) 98811-4216" · "Vem sentir na loja" ·
 | Preço — Sofanete 3 em 1 | R$ 449,90 | Site |
 | Preço — Conjugado (quarto/colchão) | A partir de R$ 649,90 | Feed do perfil (não está no site) |
 | Condições de pagamento | PIX 5% off · até 12x no cartão | Site |
+| **Preços da Black Friday da Veneza (10–29/11/2026)** | 8 itens com à vista e 12x. **"De/por" só no Antonella 2,30 m (de R$ 2.100) e no Grécia baú 2,00 m (de R$ 2.000)**. Nas camas completas, box, base baú e cabeceira são da fábrica, o colchão é Inova (revenda). Fonte única dos números: [lista de 10/11](referencias/2026-11-10-lista-produtos-black-friday.md) | Cliente, 2026-11-10 |
 | Montagem | Inclusa na entrega | Site |
 | Slogan do cliente | "Conforto e qualidade direto da fábrica" | Questionário |
 | Missão declarada | Liderar a consolidação da marca na Região dos Lagos/RJ | Questionário |
@@ -224,6 +225,7 @@ São **dois perfis ativos** — **@venezaestofados_araruama** (Araruama) e **@ve
 > - **Sábado Black** nos sábados **14, 21 e 28/11**, nas duas unidades. Substitui o feirão (§12) em novembro e segue a mecânica dele (feed na véspera, stories no sábado). 🚫 O horário de sábado não vai na arte até confirmar se é 12h ou 14h (OQ #42).
 > - **Argumento central:** o preço é baixo porque a Veneza fabrica, e por isso a Black é de verdade. Nunca "o preço é o mesmo o ano todo".
 > - **Ritmo:** anúncio "começou a Black da Veneza" na qui 12 ou sex 13, peças de produto a partir da seg 16 e Black Friday na sex 27/11.
+> - **(10/11, lista recebida) "De/por" liberado só nos dois sofás**, com o "de" riscado mas legível (pedido do cliente). **Colado no à vista:** o 12x soma mais que o "de" (Antonella 12x = R$ 2.175,48), então o desconto se lê no à vista. Plano do mês: [estrategia/2026-11-black-friday-da-veneza.md](estrategia/2026-11-black-friday-da-veneza.md).
 
 **Exceção ao §5.** Data comemorativa segue o sistema visual da marca; **campanha comercial com começo e fim ganha identidade própria.** Argumento acordado: com a identidade de sempre, o preço atrativo parece a tabela de sempre e não gera urgência.
 
@@ -242,6 +244,7 @@ São **dois perfis ativos** — **@venezaestofados_araruama** (Araruama) e **@ve
 
 ## Histórico
 
+- **2026-11-10 (2)** — lista da Black recebida: §11 ganha a linha de preços da Black (fonte única na referência de 10/11) e §16 ganha a regra do "de/por" só nos sofás, colado no à vista.
 - **2026-11-10** — reunião ([resumo](reuniao-mensal/resumos/2026-11-10-resumo-reuniao.md)): §16 recebe o bloco "Black Friday da Veneza" (identidade preto e verde no perfil inteiro até 29/11, Sábado Black 14/21/28, dosagem suspensa em novembro, dia avulso liberado). O Esquenta foi encerrado.
 
 - **2026-10-13** — reunião de alinhamento ([resumo](reuniao-mensal/resumos/2026-10-13-resumo-reuniao.md)). Criadas a §15 (dois perfis com a mesma identidade: estático igual nos dois com assinatura de cada unidade, vídeo por unidade, preço segue no centro) e a §16 (Esquenta Black com identidade própria de campanha, exceção ao §5, sem desconto inventado e com data de fim). Corrigida no mesmo dia por PH: os perfis não foram unificados.

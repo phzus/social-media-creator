@@ -4,6 +4,10 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-10 (7) — Veneza: lista da Black recebida, plano do mês e roteiros
+
+[Plano](../clients/veneza-estofados/estrategia/2026-11-black-friday-da-veneza.md) com uma linha por semana (abertura, sofás, camas), [anúncio de qui 12](../clients/veneza-estofados/conteudo/posts/2026-11-12-comecou-a-black-friday-da-veneza.md), [Sábado Black de 14/11](../clients/veneza-estofados/conteudo/posts/2026-11-13-sabado-black-14-11.md) e [roteiros](../clients/veneza-estofados/conteudo/roteiros/2026-11-roteiros-black-friday-da-veneza.md) (2 Reels da Gabriela, stories do dia 28, Vitor).
+
 ## 2026-11-10 (6) — Contele: sexta 13 com "13 horas de luz do dia"
 
 Ar-condicionado já usado por PH. [Peça nova](../clients/contele-solar/conteudo/posts/2026-11-13-sexta-13-com-13-horas-de-sol.md) com dado calculado pro dia, validada.

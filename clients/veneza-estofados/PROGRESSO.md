@@ -4,6 +4,31 @@ Log datado do trabalho feito pra Veneza Estofados. Topo = mais recente. Entrada 
 
 ---
 
+## 2026-11-10 (3) — Lista da Black recebida: plano do mês, anúncio, Sábado Black e roteiros
+
+PH colou a lista do Mateus ([referência](referencias/2026-11-10-lista-produtos-black-friday.md)) e pediu os conteúdos, incluindo os vídeos.
+
+**[Plano do mês](estrategia/2026-11-black-friday-da-veneza.md):**
+- uma linha por semana: abertura (12–14), sofás (16–21), camas (23–28)
+- iscas: Antonella (de/por), Grécia baú e cama completa
+- sáb 28 sai do feed: a sexta 27 avisa o Sábado Black e o último dia fica nos stories
+- sistema visual preto e verde, com o "de" riscado colado no à vista
+
+**Peças com copy:**
+- qui 12: [anúncio](conteudo/posts/2026-11-12-comecou-a-black-friday-da-veneza.md), carrossel de 4 slides, pra fixar
+- sex 13: [Sábado Black de 14/11](conteudo/posts/2026-11-13-sabado-black-14-11.md), molde recorrente
+
+**[Roteiros](conteudo/roteiros/2026-11-roteiros-black-friday-da-veneza.md):** Gabriela 1 (Grécia baú na fábrica, "eu tava aqui dentro"), Gabriela 2 (cama completa pra quem vai receber a família), stories do dia 28, e Vitor (Antonella, Nova Iguaçu).
+
+**Achados na lista:**
+- o 12x dos sofás soma mais que o "de" (Antonella R$ 2.175,48)
+- o parcelado das "já divulgadas" mudou em relação às artes no ar
+- o King veio sem o "30% OFF"
+
+**Atualizados:** PADROES §11 e §16 · OPEN-QUESTIONS (fechadas #48, #38, #39, #35; novas #53–56).
+
+---
+
 ## 2026-11-10 (2) — Reunião de 10/11: Black Friday da Veneza em tudo, Sábado Black e Gabriela
 
 PH trouxe o PDF do resumo (Carlos × Mateus, 15 min). [Resumo registrado](reuniao-mensal/resumos/2026-11-10-resumo-reuniao.md).

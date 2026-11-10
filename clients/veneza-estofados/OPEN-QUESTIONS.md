@@ -7,6 +7,25 @@ Pendências herdadas da "Fase 0 — Destravar" e do §12 do [documento-fonte](re
 
 ---
 
+## 🟡 2026-11-10 (3) — Lista da Black recebida
+
+[Lista](referencias/2026-11-10-lista-produtos-black-friday.md) · [plano do mês](estrategia/2026-11-black-friday-da-veneza.md).
+
+**Fechadas:**
+- **#48 → lista recebida:** 8 itens com preço, "de/por" nos dois sofás.
+- **#38 → o Antonella é sofá de 2,30 m.**
+- **#39 e #35:** Essential Pocket e Ipanema ficaram fora da Black.
+- **#49 → proposta da Lone:** Reel 1 é o Grécia baú na fábrica e o Reel 2 é a cama completa ([roteiros](conteudo/roteiros/2026-11-roteiros-black-friday-da-veneza.md)). Falta a data de gravação.
+
+**Novas:**
+
+53. 🟡 **A Black vai até domingo, 29/11?** Sem confirmação, a copy não usa "até 29/11", e a urgência vem dos Sábados Black. Pergunta no texto pro grupo (plano §6).
+54. 🟡 **Fotos do Antonella, do Grécia e das camas completas.** Não estão na Downloads. Sem elas até qua 11 às 12h, a capa de qui 12 usa a foto do site recortada.
+55. 🟡 **Antonella, Grécia e cama completa estão expostos na loja de Araruama?** Os Reels 2, os stories do dia 28 e a rotação do Sábado Black de 21/11 gravam ou citam esses produtos na loja. Até confirmar, a copy fala "vem conhecer a loja" (validador, 10/11).
+56. 🟢 **O parcelado mudou nas "já divulgadas"** (Master 76,00 → 76,33; base baú 57,24 → 57,25; King 180,00 → 180,34). Peça nova usa a lista. Não é pergunta pro cliente; registro pra quando aparecer arte antiga.
+
+---
+
 ## 🔴 2026-11-10 (2) — Saídas da reunião de 10/11
 
 [Resumo](reuniao-mensal/resumos/2026-11-10-resumo-reuniao.md).
