@@ -54,7 +54,7 @@ Caimento, conforto térmico ou acústico e cálculo de telhado: citar só com fo
 ## 8. Datas
 
 - **Só do segmento:** pedreiro, pintor, arquiteto e engenheiro. Dia do Pedreiro leva oferta ou entrega grátis. Sem padroeira nem homenagem genérica.
-- **Halloween não.** Carnaval só de leve, em encarte, com confete e sem fantasia. Festa junina não: usar "Arraiá" e bandeirinhas.
+- **Halloween não. Sexta-feira 13 também não** (PH, 10/11: a família é cristã), nem superstição como gancho (azar, sorte, gato preto, escada, 13). Carnaval só de leve, em encarte, com confete e sem fantasia. Festa junina não: usar "Arraiá" e bandeirinhas.
 - **Feriado:** a loja avisa se abre e em que horário, e a Lone comunica.
 
 ## 9. Horário de postagem
@@ -63,6 +63,7 @@ Humor pode sair em qualquer horário. Oferta sai em horário comercial, ou domin
 
 ## Histórico
 
+- **2026-11-10:** §8 ganha sexta-feira 13 e superstição na lista de datas proibidas (PH, cliente cristão).
 - **2026-11-06 v1.2:** reunião de 05/11 propagada: Black, 21x com selo, frete, WhatsApp, humor, datas e horário de postagem.
 - **2026-11-05 v1.1:** lista de preços do cliente vira fonte vigente (§3).
 - **2026-11-05 v1.0:** criado a partir da leitura do documento e do perfil.

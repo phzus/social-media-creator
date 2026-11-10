@@ -4,7 +4,7 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
-## 2026-11-10 — Lote de sexta 13/11: 11 peças em 11 clientes, 4 com sexta-feira 13
+## 2026-11-10 — Lote de sexta 13/11: 11 peças em 11 clientes, 3 com sexta-feira 13
 
 Pedido de PH: *"fazer os posts de sexta, já é dia 13, dá pra brincar com sexta-feira 13 em alguns nichos"*. A sexta 13 entrou só onde tinha ponte com o produto, como contexto e não como assunto. Um fork por cliente ou por dupla, validador-copy no lote inteiro (nenhuma peça passou sem correção) e lote cruzado lado a lado. Todas em v1.1 (BodySkin v2.1).
 
@@ -13,7 +13,7 @@ Pedido de PH: *"fazer os posts de sexta, já é dia 13, dá pra brincar com sext
 | Atlas | [Amuleto no retrovisor não chama guincho](../clients/atlas-corretora/conteudo/posts/2026-11-13-sexta-13-amuleto-no-retrovisor-nao-chama-guincho.md) | ✅ | corretor até qua 11/11 12h (fallbacks prontos) |
 | Max | [A sexta 13 passa, a que pesa é 18/12](../clients/max-contabilidade/conteudo/posts/2026-11-13-sexta-13-passa-a-que-pesa-e-18-de-dezembro.md) (13º + guia do INSS) | ✅ | 🔴 escritório confere datas (OQ W) + aval do recorte, porque o 13º estava entre os temas sem retorno (plano B: IBS/CBS no Simples) |
 | Bazar | [Escada Alumasa 5 degraus, R$ 214,40](../clients/bazar-ribeiro/conteudo/posts/2026-11-13-sexta-13-escada-alumasa.md) | ✅ | 🔴 Junior confere etiqueta e estoque nas 2 lojas (OQ #24) |
-| WT | [Azar mesmo é o pote vazio](../clients/wt-shopping/conteudo/posts/2026-11-13-sexta-13-azar-e-o-pote-vazio.md) (combo 3, R$ 81,00) | ✅ | 🔴 foto real + modelo serve pra gato (OQ #5); versão com cachorro pronta |
+| WT | [A ração e a água do seu pet, num combo só](../clients/wt-shopping/conteudo/posts/2026-11-13-black-wt-combo-comedouro-e-bebedouro.md) (combo 3, R$ 81,00), v2.0 | ❌ (PH: cliente cristão; a v1.1 com gato preto foi descartada) | 🔴 foto real + porte do modelo (OQ #5) |
 | BodySkin | [Virilha total: R$ 69,90 no pacote de 10 sessões](../clients/bodyskin-araruama/conteudo/posts/2026-11-13-virilha-total-quanto-sai-cada-sessao.md) (substitui a de 03/11) | — | 🔴 OK excepcional da Cintia, senão vai pra 20/11 |
 | VR | [Come mais e emagrece: diabetes dá em pet](../clients/veterinaria-regional/conteudo/posts/2026-11-13-come-mais-e-emagrece-diabetes-tambem-da-em-pet.md) (Dia Mundial do Diabetes 14/11) | — | 🟡 OQ #23 |
 | Araruama Tintas | [Piso da garagem pronto antes das festas](../clients/araruama-tintas/conteudo/posts/2026-11-13-piso-da-garagem-antes-das-festas.md) (Pinta Piso, R$ 100) | — | Wanderson: preço de novembro, estoque, liberação pra carro |
@@ -23,7 +23,8 @@ Pedido de PH: *"fazer os posts de sexta, já é dia 13, dá pra brincar com sext
 | Império | [Se o pedreiro vem no sábado, feche o material na sexta](../clients/imperio-material-de-construcao/conteudo/posts/2026-11-13-pedreiro-vem-no-sabado-material-antes.md) | — | 🟡 frame do pátio, senão sai tipográfico |
 
 - **Validação:** bloqueantes de copy na BodySkin (o "R$ 69,90!" lia como sessão avulsa), no Império (a headline insinuava entrega até sábado e o "pedreiro chega às sete" era horário inventado) e na MR (a série estava sem o "quando faz sentido"). Também: Max universalizava a regra pra empresa sem funcionário; Atlas e Bazar tinham L2 que não decorria da L1.
-- **Lote cruzado:** o gato preto saiu do brief do Bazar (é o mote da WT no mesmo dia) e o "bebe mais água" saiu da VR (colidia com o bebedouro da WT). A pasta da Bruno foi conferida e não tem piso/garagem, então o isolamento com a Araruama Tintas está ok.
+- **Regra nova (PH):** WT e Casa das Telhas são famílias cristãs, sem sexta-feira 13 nem superstição (PADROES §8 de cada uma).
+- **Lote cruzado:** o gato preto saiu do brief do Bazar (era o mote da v1.1 da WT) e o "bebe mais água" saiu da VR (colidia com o bebedouro da WT). A pasta da Bruno foi conferida e não tem piso/garagem, então o isolamento com a Araruama Tintas está ok.
 - **Achados:** Império publicou horário e as 2 unidades em 06/11 (OQ #26–29, a confirmar por PH antes de fechar #3/#15/#16/#24); a peça "MDF cortado e fitado" da MR parece não ter sido publicada (em 06/11 saiu a Serra Mármore).
 
 ---

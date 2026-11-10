@@ -4,9 +4,9 @@ Log datado do trabalho feito pra WT Shopping. Topo = mais recente. Entrada por b
 
 ---
 
-## 2026-11-10 — Sex 13/11: Black WT com sexta-feira 13 (gato preto + comedouro e bebedouro automático)
+## 2026-11-10 — Sex 13/11: Black WT, combo comedouro + bebedouro automático (sem sexta-feira 13)
 
-[Peça](conteudo/posts/2026-11-13-sexta-13-azar-e-o-pote-vazio.md): *"NA SEXTA-FEIRA 13, AZAR MESMO É O POTE VAZIO!"*, combo comedouro + bebedouro automático 3 L por R$ 81,00 (PADROES §7), CTA WhatsApp. Nenhum combo é só de gato; este é o único que serve pra gato de verdade. Sem afirmação sobre adoção ou maus-tratos de gato preto. 🔴 Foto real do produto e confirmar que o modelo serve pra gato; versão B com cachorro preto pronta. **v1.1 validada (validador-copy 10/11):** legenda abre em "O que dá azar de verdade é chegar em casa e encontrar o pote vazio", sem cena de tutor deixando o pote vazio e sem garantia de pote cheio; selo "SEXTA-FEIRA 13" pode sair se apertar.
+[Peça v2.0](conteudo/posts/2026-11-13-black-wt-combo-comedouro-e-bebedouro.md): *"A RAÇÃO E A ÁGUA DO SEU PET, NUM COMBO SÓ!"*, combo comedouro + bebedouro automático 3 L por R$ 81,00 (PADROES §7), CTA WhatsApp, no esqueleto da série Black WT de 03/11. A v1.1 saiu com gato preto e sexta-feira 13 e foi descartada por PH: *"nada de sexta-feira 13 pra WT, eles são cristãos"*. Virou regra no [PADROES §8](PADROES.md). 🔴 Foto real do produto e porte do modelo (OQ #5).
 
 ---
 

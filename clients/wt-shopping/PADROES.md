@@ -78,8 +78,15 @@ Sazonal aqui é o que muda o que o cliente vai comprar: calor chegando (piscina)
 
 ---
 
+## 8. Sem sexta-feira 13 nem superstição (PH, 2026-11-10)
+
+**A família é cristã.** Nada de sexta-feira 13 como gancho, e nada de superstição (azar, sorte, gato preto como mote, ferradura, trevo, escada, número 13) em arte, legenda ou brief. Veio de PH depois que a peça de 13/11 saiu com gato preto: *"nada de sexta-feira 13 pra WT, eles são cristãos"*. Halloween nunca foi usado na conta; antes de usar qualquer data com o mesmo tipo de carga, perguntar a PH.
+
+---
+
 ## Histórico
 
+- **2026-11-10** — §8 nova: sem sexta-feira 13 nem superstição (cliente cristão, PH).
 - **2026-11-03** — §7 nova: combos da WT Black (10 itens: 6 pet, 3 piscina, 1 equinos), sem validade informada.
 
 - **2026-10-23 (v1.2)** — §2 ganha exceção: vitrine do universo pet junta loja e clínica (PH pediu "tem de tudo para os pets"; a WT já postava assim).
