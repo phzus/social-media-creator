@@ -4,6 +4,12 @@ Log datado do trabalho feito pra Contele. Topo = mais recente. Entrada por bloco
 
 ---
 
+## 2026-11-10 (2) — Sexta 13/11: "13 horas de luz do dia em Araruama" (sexta-feira 13)
+
+PH já usou o ar-condicionado e pediu outra peça aproveitando a sexta 13. [Estático](conteudo/posts/2026-11-13-sexta-13-com-13-horas-de-sol.md) no Pilar 1: na sexta-feira 13, Araruama tem 13 horas de luz do dia (cálculo NOAA, conferido em 2 fontes), contra menos de 11 em junho. Sem superstição, que o lote já usa em Atlas, Max e Bazar. Validado (v1.1): saiu "sol batendo no telhado", que vendia geração útil, e o pico de consumo, que repetia o Reels de 07/10.
+
+**Pendência:** conferir se o WhatsApp está na bio e fixar o número no primeiro comentário (o CTA da arte aponta pra lá).
+
 ## 2026-11-10 — Post de sexta 13/11: "≈ 190 kWh por mês, de um ar-condicionado ligado 8 horas por noite" (campanha de verão) · validado v1.1 (0 bloqueantes)
 
 [Estático](conteudo/posts/2026-11-13-ar-condicionado-a-noite-na-conta-do-verao.md) no Pilar 1, número com premissa na arte (12.000 BTUs, média de 800 W, 8 h por noite, 30 noites). O giro: esse consumo precisa entrar no tamanho do projeto solar, ou o sistema dimensionado pela conta de inverno fica pequeno no verão. CTA no WhatsApp sem anexo ("conta quantos ar-condicionados você liga à noite"). É a pauta "conta de luz + calor + ar-condicionado" do [plano](estrategia/2026-11-black-friday.md).

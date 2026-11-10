@@ -3,7 +3,7 @@
 **Cliente:** contele-solar · **Data:** sexta 13/11/2026 (slot de venda) · **Plataforma:** Instagram (feed 1080×1080) · **Pilar:** 1 — Educativo, com CTA de conversão ([PADROES §4](../../PADROES.md)) · **Formato:** estático
 **Mecanismo (conferência de lote):** número de consumo com a premissa escrita na arte. Um número só, o que um ar-condicionado soma por mês ligado só à noite, e o giro: esse consumo tem que entrar no tamanho do projeto solar.
 **Funil:** MOFU. Fala com quem já sente a conta subir no calor e vai ligar o ar em dezembro e janeiro.
-**Status:** ✅ validado (v1.1) · 🟡 aguarda PH
+**Status:** ✅ usada por PH (avisou em 10/11). A sexta 13/11 sai com [13 horas de sol](2026-11-13-sexta-13-com-13-horas-de-sol.md).
 
 > **Campanha:** verão ([plano de novembro](../../estrategia/2026-11-black-friday.md)), que abre sem depender do combo. O calendário prevê, a partir de 09/11, "conta de luz + calor + ar-condicionado", gancho guardado desde 30/10 porque a estação de energia não segura ar ([PADROES §8](../../PADROES.md)).
 >
