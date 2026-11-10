@@ -4,6 +4,7 @@
 > O log completo e técnico de pendências continua em [OPEN-QUESTIONS.md](../OPEN-QUESTIONS.md); aqui entra só o que vale ocupar o tempo da reunião.
 
 **Última atualização:** 2026-11-10 (análise dos dois perfis no ar + Black) · **Reunião:** **hoje, ter 10/11/2026** · **Última reunião:** [2026-10-13](resumos/2026-10-13-resumo-reuniao.md)
+**Roteiro de condução (ordem + "se responder X, fala Y"):** [2026-11-10-roteiro-conducao.md](2026-11-10-roteiro-conducao.md)
 **Contato do cliente:** Mateus. **Base da análise:** últimos 12 posts de cada perfil, coletados hoje ([análise](../referencias/2026-11-10-analise-perfil-instagram.md)).
 
 ---
