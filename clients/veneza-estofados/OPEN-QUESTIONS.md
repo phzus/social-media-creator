@@ -7,6 +7,19 @@ Pendências herdadas da "Fase 0 — Destravar" e do §12 do [documento-fonte](re
 
 ---
 
+## 🔴 2026-11-10 — Análise dos perfis antes da reunião de 10/11
+
+[Análise](referencias/2026-11-10-analise-perfil-instagram.md) · [PAUTA da reunião](reuniao-mensal/PAUTA.md). Fechar tudo na reunião de hoje.
+
+41. 🔴 **A Black Veneza não está no feed.** Ela começou em 01/11, mas o último selo de campanha é de 26/10. Trava: a lista final de produtos com preço (#36–40).
+42. 🟡 **Sábado fecha 12h ou 14h?** O fixado de horário diz 8h–14h; o PADROES §11 e o feirão (§12) trabalham com 8h–12h.
+43. 🟡 **Quem escreve as legendas publicadas?** Não são as da Lone. Saem com PT-PT, emoji em toda frase e "produto de fábrica" no colchão (revenda). **PH confere internamente** antes de levar ao cliente.
+44. 🟢 **#23 na prática:** as artes no ar trazem as duas unidades no rodapé (Nova Iguaçu 21 96901-3856 · Araruama 22 98811-4216). Falta confirmar que o 21 é WhatsApp. Se for, a #23 fecha e o PADROES §15 troca "assinatura por perfil" por "rodapé com as duas unidades".
+45. 🟡 **Combo com até 10%** (reunião de 03/09, só registrada hoje): quais colchões? Pode ser a condição da semana da Black.
+46. 🟡 **Reels parado:** sem Reels em Araruama nos últimos 12 posts; o último de Nova Iguaçu é de 14/10. Quem grava em novembro?
+
+---
+
 ## 🟢 2026-10-30 — Achados nas artes do Esquenta Black (vindas do Criador de vídeos)
 
 PH mandou 3 artes do Esquenta Black feitas pelo cliente (~/Downloads/Veneza videos), pra usar no vídeo de teste da Black. Elas trazem dado que estava em aberto aqui. **Não fechei nenhum item: PH confirma antes.**

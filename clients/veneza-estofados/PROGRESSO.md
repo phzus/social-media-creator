@@ -4,6 +4,29 @@ Log datado do trabalho feito pra Veneza Estofados. Topo = mais recente. Entrada 
 
 ---
 
+## 2026-11-10 — Pauta da reunião de hoje: análise dos perfis, Black e briefing de dezembro
+
+PH pediu a preparação da reunião com a Veneza: analisar tudo, ideias de Black, conteúdo pra aproveitar e as criações alinhadas, pra sair sem pendência.
+
+- **[PAUTA](reuniao-mensal/PAUTA.md) refeita:**
+  - abertura com o porquê da reunião
+  - análise do feed
+  - tabela "o que a Lone criou e por quê"
+  - 8 perguntas e um checklist de uma linha
+  - menu de 7 ideias de Black
+  - conteúdo pra reaproveitar e ideias de dezembro (13º em 18/12, temporada, Natal, Unamar)
+  - calendário até 30/11
+- **[Análise dos perfis](referencias/2026-11-10-analise-perfil-instagram.md):**
+  - **a Black Veneza não entrou no feed** (último selo em 26/10, nada entre 30/10 e 06/11)
+  - Reels parado desde 14/10
+  - fixados de agosto, e o de horário diz que sábado fecha às 14h
+  - as legendas publicadas não são as da Lone (PT-PT, "produto de fábrica" no colchão)
+  - o Master com preço foi o estático de melhor resposta
+- **Resumo de 03/09 registrado** ([resumo](reuniao-mensal/resumos/2026-09-03-resumo-reuniao.md)). Só existia em PDF na Downloads. Trouxe a faixa de **até 10%** no combo base baú + colchão.
+- **OQ #41–46** abertas.
+
+---
+
 ## 2026-10-28 — Novembro: proposta do cliente (Black November + semana da Black) analisada
 
 O cliente mandou a estrutura de novembro ([referência](referencias/2026-10-28-proposta-novembro-black-november.md)): **Black November de 01 a 22/11**, mantendo os produtos do Esquenta e incluindo Antonella, sofá baú Grécia e Essential Pocket casal/queen, e depois **semana da Black de 23 a 29/11**, com destaque na sexta 27.

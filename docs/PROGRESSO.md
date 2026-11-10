@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-10 — Veneza: pauta da reunião de hoje (análise dos perfis + Black + dezembro)
+
+[PAUTA](../clients/veneza-estofados/reuniao-mensal/PAUTA.md) refeita pra reunião de hoje. A análise dos dois perfis mostra que **a Black Veneza (desde 01/11) não entrou no feed** e que o Reels está parado desde 14/10. A pauta leva o menu de 7 ideias de Black, o calendário até 30/11 e o briefing de dezembro adiantado. O resumo da reunião de 03/09 foi transcrito do PDF da Downloads. [Progresso do cliente](../clients/veneza-estofados/PROGRESSO.md) · OQ #41–46.
+
+---
+
 ## 2026-11-10 — Lote de sexta 13/11: 11 peças em 11 clientes, 3 com sexta-feira 13
 
 Pedido de PH: *"fazer os posts de sexta, já é dia 13, dá pra brincar com sexta-feira 13 em alguns nichos"*. A sexta 13 entrou só onde tinha ponte com o produto, como contexto e não como assunto. Um fork por cliente ou por dupla, validador-copy no lote inteiro (nenhuma peça passou sem correção) e lote cruzado lado a lado. Todas em v1.1 (BodySkin v2.1).
