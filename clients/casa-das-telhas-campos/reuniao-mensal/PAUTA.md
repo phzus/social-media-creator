@@ -82,7 +82,7 @@ Marcar o que já saiu nas respostas acima. Sem resposta não trava: vira pendên
 
 - [x] ~~Lista de preços:~~ recebida em 05/11, registrada no [PADROES §3](../PADROES.md).
 - [x] ~~Fixados:~~ escritos em 06/11 ([venda](../conteudo/posts/2026-11-06-fixado-1-venda-com-autoridade.md), [localização](../conteudo/posts/2026-11-06-fixado-2-localizacao.md), [horário](../conteudo/posts/2026-11-06-fixado-3-horario.md)). Faltam arte e aprovação.
-- [ ] Bio e destaques. O perfil já tem nome pesquisável e destaques: ajustar, sem refazer do zero.
+- [ ] Bio e destaques. O perfil já tem nome pesquisável e destaques: ajustar, sem refazer do zero. **Bio escrita em 10/11** ([peça](../conteudo/posts/2026-11-10-bio-instagram.md)); faltam aprovação e destaques.
 - [ ] Confirmar internamente o volume vendido (§0).
 - [ ] Enviar o resumo da reunião à loja, se ainda não foi.
 - [ ] Rodar o benchmark com os concorrentes citados.

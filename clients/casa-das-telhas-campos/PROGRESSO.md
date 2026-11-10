@@ -1,5 +1,9 @@
 # Progresso — Casa das Telhas Campos
 
+## 2026-11-10 — Bio nova do Instagram
+
+[Bio](conteudo/posts/2026-11-10-bio-instagram.md) ajustada, sem refazer: slogan mantido, as 3 lojas numa linha (a atual cortava a 3ª no "mais"), frete grátis com "consulte sua cidade" e um número só, o 99858-4910. Nome ganha "em Campos" pra busca local. 147 caracteres. Sem preço, 21x nem prazo de entrega. Aguarda PH.
+
 ## 2026-11-06 — Fixados e reunião de onboarding registrada
 
 PH pediu os fixados. Ao buscar material, achei na Downloads o [resumo da reunião de 05/11](reuniao-mensal/resumos/2026-11-05-resumo-reuniao.md), que não estava no projeto. Registrado e propagado pra PAUTA, OPEN-QUESTIONS, PADROES, context e BRIEFING.

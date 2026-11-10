@@ -4,6 +4,10 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-10 (3) — Casa das Telhas: bio nova do Instagram
+
+[Bio](../clients/casa-das-telhas-campos/conteudo/posts/2026-11-10-bio-instagram.md): ajuste da atual (3 lojas numa linha, frete grátis com consulta, um WhatsApp só) e "em Campos" no nome.
+
 ## 2026-11-10 (2) — Veneza: reunião feita, Black Friday da Veneza em tudo
 
 [Resumo](../clients/veneza-estofados/reuniao-mensal/resumos/2026-11-10-resumo-reuniao.md):
