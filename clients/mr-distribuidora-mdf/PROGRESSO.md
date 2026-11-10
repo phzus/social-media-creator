@@ -4,6 +4,23 @@ Log datado do trabalho feito pra MR Distribuidora. Topo = mais recente. Entrada 
 
 ---
 
+## 2026-11-10 — Post de sexta 13/11: "Amortecimento na porta e na gaveta: vale pôr no orçamento?"
+
+[Peça](conteudo/posts/2026-11-13-vale-investir-amortecedor-no-orcamento.md): estático 4:5, **estreia da série "Vale investir? · 01"**. Mecanismo de **decisão de orçamento**, que não tinha aparecido na conta, no esqueleto fixo da série: **[item]: vale [ação]? → resposta curta → quando faz sentido**. CTA de ferragem do PADROES §5. Sem preço, porque a MR não mandou tabela.
+
+- **Linha da semana:** a MR publicou por conta própria, na segunda 09/11, um post de atendimento de ferragem ("A ferragem do seu móvel quebrou…"). A sexta fecha a semana na mesma categoria.
+- **Achado (coleta de 10/11):** em 06/11 a MR publicou a Serra Mármore SGT 5200, e não a peça "MDF cortado e fitado". A peça de 06/11 continua sem registro de publicação, provavelmente travada na confirmação de corte e fitagem.
+- 🔴 **Trava:** a MR confirma que vende dobradiça e corrediça com amortecimento. A pergunta está pronta na peça; se não vender, a sexta vira reserva.
+- **Validador-copy (v1.1):**
+  - Esqueleto da série aplicado na arte, com a linha "Na cozinha, que abre e fecha o dia inteiro, e no quarto, pra quem quer silêncio à noite".
+  - Apoio curto: "Vale. Mande o orçamento com as duas opções, comum e com amortecimento, e deixe o cliente escolher."
+  - Um termo só na peça: amortecimento.
+  - Na legenda saíram as afirmações sem fonte ("primeiro item cortado", "muitos marceneiros usam"), "você não perde o serviço", a frase da gaveta de talher e os bullets de banheiro e lavanderia.
+  - O pedido de aplicação ficou em "porta ou gaveta, medida". A espessura do MDF sai até o balcão confirmar.
+- **Status:** v1.1 · validada · 🔴 bloqueada até a MR confirmar o amortecimento.
+
+---
+
 ## 2026-10-29 — Post de sexta 06/11: "MDF cortado e fitado nas medidas do seu projeto"
 
 [Peça](conteudo/posts/2026-11-06-mdf-sai-cortado-e-fitado.md): estático 4:5, pilar "Oferta com motivo", molde de anúncio direto (checklist §2.8). É a primeira sexta de venda no **carro-chefe (MDF)**, depois de duas ofertas de ferramenta Sigma. Sem preço de chapa, a peça vende o serviço que vai junto: o MDF sai cortado e fitado nas medidas do projeto. CTA: "Mande as medidas no WhatsApp e peça seu orçamento!"

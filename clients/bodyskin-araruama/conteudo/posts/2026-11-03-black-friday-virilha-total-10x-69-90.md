@@ -1,3 +1,5 @@
+> ⚠️ **SUBSTITUÍDA em 10/11/2026** por [2026-11-13-virilha-total-quanto-sai-cada-sessao.md](2026-11-13-virilha-total-quanto-sai-cada-sessao.md). Esta versão diz "Black Friday" e foi escrita antes da tabela completa do Novembro Black. Fica só como histórico, não vai ao ar.
+
 # Post de feed — Black Friday BodySkin: virilha total no laser em 10x de R$ 69,90
 
 **Cliente:** bodyskin-araruama · **Data de publicação:** a definir (sugestão abaixo) · **Plataforma:** Instagram, feed 4:5 · **Formato:** estático (+ animado de 5s opcional) · **Funil:** BOFU · **Pilar:** P5 Oferta

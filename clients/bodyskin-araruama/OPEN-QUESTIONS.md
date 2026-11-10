@@ -19,13 +19,20 @@ PH decidiu: vídeo só de laser, de até 1 minuto, sem verão, com menção a ou
 3. ✅ **Resolvida (PH, 06/11):** "Passamos laser nos preços" fica. *"É muito bom, gostei."*
 4. 🟡 **PH:** confirmar se as peças do 9.9 foram mesmo ao ar com esses preços. O repositório só tem o roteiro e a sequência de stories.
 
-## 🟡 2026-11-03 (2) — Black Friday (virilha total 10x R$ 69,90): o que confirmar
+## 🔴 2026-11-10 — Virilha total de sex 13/11 ("quanto sai cada sessão"): o que confirmar
 
-[Peça](conteudo/posts/2026-11-03-black-friday-virilha-total-10x-69-90.md) · [registro](referencias/2026-11-03-black-friday-novembro-cliente.md)
-1. 🟡 A condição vale o mês inteiro ou só a semana de 27/11?
-2. 🟡 Quantas sessões entram no pacote?
-3. 🔴 O R$ 89,00 de áreas pequenas continua em novembro? Isso decide a oferta da peça de 06/11 (entrada abaixo, item 1). Se caiu, a de 06/11 pode trocar pela virilha total.
-4. 🟡 Se a Black Friday virou a ação do mês, o 11.11 não acontece. Confirmar com a Cintia.
+[Peça v2.0](conteudo/posts/2026-11-13-virilha-total-quanto-sai-cada-sessao.md)
+1. 🔴 **OK excepcional por escrito da Cintia** pra 13/11: o envio devia ter saído até 06/11 (§9). Sem isso, a peça vai pra sex 20/11, com envio até 13/11.
+2. 🟡 **Balcão avisado:** "R$ 69,90 no pacote de 10 sessões" é o total dividido pelas 10 sessões, não sessão avulsa.
+3. 🟡 **À vista:** o R$ 699 à vista vale no dinheiro, Pix e débito? Existe crédito à vista? A tabela lista as formas de pagamento sem dizer qual vale pra qual. A peça diz "10x no cartão de crédito normal, ou R$ 699 à vista no dinheiro, Pix ou débito".
+
+## ✅ 2026-11-03 (2) — Black Friday (virilha total 10x R$ 69,90): resolvida pela tabela completa de 03/11
+
+[Peça (substituída)](conteudo/posts/2026-11-03-black-friday-virilha-total-10x-69-90.md) · [registro](referencias/2026-11-03-black-friday-novembro-cliente.md)
+1. ✅ Vale durante o Novembro Black, enquanto houver vouchers (§7).
+2. ✅ 10 sessões (§7).
+3. ✅ O R$ 89,00 não está na tabela de novembro: Outubro OFF tratado como encerrado (§7).
+4. ✅ O 11.11 não acontece (§7 e §8, regra 5).
 
 ## 🔴 2026-11-03 — Post de sexta 06/11 (cera antes da praia): o que confirmar
 

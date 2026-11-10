@@ -53,3 +53,13 @@ Achado ao montar a [peça de sexta 16/10](conteudo/posts/2026-10-16-lona-na-jane
 
 24. 🔴 **A loja abre aos domingos, das 7h às 13h?** (Junto com o #16.) Libera a [peça reserva do domingo aberto](conteudo/posts/reserva-domingo-aberto-acabou-o-material.md), que saiu de 30/10 por afirmar horário sem confirmação (PADROES §2). Com a confirmação, ela entra numa sexta antes de fim de semana comum.
 25. 🔴 **Foto real de alguém da equipe no balcão, com autorização de quem aparece** (ou frame dos Reels do cliente). A [peça de 06/11](conteudo/posts/2026-11-06-quem-te-atende-no-balcao.md) não sai com foto de banco. Pedir até terça 03/11. Junto: a equipe topa gravar um vídeo curto de atendimento (formato institucional falado)?
+
+
+## ⚠️ 2026-11-10 — Achados no feed do cliente (coleta pública de 12 posts, nada sobrescrito)
+
+Achado ao montar a [peça de sexta 13/11](conteudo/posts/2026-11-13-pedreiro-vem-no-sabado-material-antes.md). Os posts abaixo são do próprio perfil do cliente, então provavelmente saíram com aval dele, mas a pasta só fecha as perguntas depois que PH confirmar.
+
+26. 🟡 **Horário (#3, #16, #24):** post de 06/11: *"De segunda a sexta… das 07h30 às 18h. Nos sábados, das 07h às 14h, e nos domingos, das 07h às 13h"*. Bate com a arte de 05/08. Se PH confirmar, fecham o #3, o #16 e o #24 e a [reserva do domingo aberto](conteudo/posts/reserva-domingo-aberto-acabou-o-material.md) fica liberada. **Atenção:** o domingo 15/11/2026 é feriado (Proclamação da República), então a reserva não deve ir na sexta 13/11. Ela entra antes do próximo fim de semana sem feriado.
+27. 🟡 **Duas unidades (#15):** post de 06/11: *"Unidade Piracema: Avenida Itaúna, nº 20, Piracema. Unidade Linha Azul: Avenida Lacerda Agostinho, Linha Azul."* Responde o #15 (são duas). Falta só PH confirmar pra corrigir o context.md, que hoje diz "unidade única".
+28. 🟡 **Entrega (#11):** post de 30/10: *"Com entrega disponível, facilite sua obra"* (e "estaremos abertos até às 14h" no feriado de Finados). Antes de virar diferencial na arte, confirmar raio, custo e prazo.
+29. 🟢 **Português de Portugal na legenda do cliente:** a de 28/10 diz "Está a construir ou a remodelar em Macaé e quer poupar nos acabamentos?". Se essa legenda é da equipe da Lone, vale o checklist §1.8 ([[feedback-portugues-de-portugal-e-erro]]).

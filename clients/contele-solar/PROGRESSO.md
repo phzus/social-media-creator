@@ -4,6 +4,16 @@ Log datado do trabalho feito pra Contele. Topo = mais recente. Entrada por bloco
 
 ---
 
+## 2026-11-10 — Post de sexta 13/11: "≈ 190 kWh por mês, de um ar-condicionado ligado 8 horas por noite" (campanha de verão) · validado v1.1 (0 bloqueantes)
+
+[Estático](conteudo/posts/2026-11-13-ar-condicionado-a-noite-na-conta-do-verao.md) no Pilar 1, número com premissa na arte (12.000 BTUs, média de 800 W, 8 h por noite, 30 noites). O giro: esse consumo precisa entrar no tamanho do projeto solar, ou o sistema dimensionado pela conta de inverno fica pequeno no verão. CTA no WhatsApp sem anexo ("conta quantos ar-condicionados você liga à noite"). É a pauta "conta de luz + calor + ar-condicionado" do [plano](estrategia/2026-11-black-friday.md).
+
+**Sem Black:** não há oferta registrada até 10/11. A abertura da lista ("Sua conta de luz nunca entrou na Black Friday" + "manda BLACK no WhatsApp") ficou como versão B na peça, só com oferta confirmada pelo Vinicius. Sem sexta-feira 13 (a conta já fez humor no Halloween).
+
+**Validador (v1.1), aplicado:** sem o "só" no complemento, premissa como conta aberta (800 W × 8 h × 30 noites = 192 kWh), kicker `DICA · AR-CONDICIONADO NO VERÃO`, Parque Mataruna no rodapé, legenda "calculado só com os meses mais frios fica pequeno quando o calor chega". O crédito na Enel ficou como parágrafo 🟡 opcional, dependendo do Vinicius. Na versão B saiu "quem pedir agora recebe primeiro", que não está confirmado.
+
+---
+
 ## 2026-11-04 (2) — Reunião Carlos × Cristiane: verão primeiro, Black só com oferta
 
 [Resumo](reuniao-mensal/resumos/2026-11-04-resumo-reuniao.md) registrado a partir do PDF (call curta, transcrição parcial). A Contele não planejou Black, o foco é o verão, a demanda já voltou e o combo não fechou por causa do aumento no preço dos kits. Cristiane vai fechar com o Vinicius.

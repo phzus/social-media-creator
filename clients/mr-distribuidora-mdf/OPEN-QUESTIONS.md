@@ -7,6 +7,14 @@ As 30 perguntas abaixo vieram do próprio Briefing Estratégico (§17), organiza
 
 ---
 
+## 📅 2026-11-10 — Sexta 13/11 (Vale investir? · 01, amortecimento)
+
+- 🔴 **Vocês vendem dobradiça e corrediça com amortecimento?** A [peça de 13/11](conteudo/posts/2026-11-13-vale-investir-amortecedor-no-orcamento.md) depende disso. Mensagem pronta: *"Pessoal, pra arte de sexta (13/11): vocês vendem dobradiça e corrediça com amortecimento (as que fecham devagar)? Se tiverem foto de alguma instalada, manda pra gente usar na arte."*
+- 🟡 **Balcão:** pra indicar a ferragem, o que vocês precisam receber? (porta ou gaveta, medida, espessura do MDF, peso da porta?)
+- 🟡 **A peça de 06/11 (MDF cortado e fitado) foi publicada?** Na coleta de 10/11, o post de 06/11 no feed é a Serra Mármore SGT 5200. Se a de corte e fitagem não saiu, ela segue esperando a confirmação do serviço.
+
+---
+
 ## 📅 2026-10-29 — Venda de sexta 06/11 (MDF cortado e fitado)
 
 - 🔴 **Corte e fitagem segue ativo?** A fachada (arte da MR de 06/07/2026) tem a placa "CORTE / FITAGEM", e o post de 18/06/2025 anunciava o serviço. A peça de 06/11 depende da confirmação. Mensagem pronta: *"Pessoal, pra arte de sexta (06/11): vocês seguem fazendo corte e fitagem de MDF nas medidas do cliente? Se tiverem uma foto do setor de corte, manda pra gente usar na arte."* Peça: [2026-11-06](conteudo/posts/2026-11-06-mdf-sai-cortado-e-fitado.md).

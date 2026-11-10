@@ -4,6 +4,18 @@ Log datado do trabalho feito pra Araruama Tintas. Topo = mais recente. Entrada p
 
 ---
 
+## 2026-11-10 — Post de sexta 13/11: "O piso da garagem pronto antes das festas!" (estático, Pinta Piso Coral) · validado v1.1 (0 bloqueantes)
+
+[Peça](conteudo/posts/2026-11-13-piso-da-garagem-antes-das-festas.md): anúncio direto de um produto só, Pinta Piso Coral 3,6L a R$ 100,00 (arte de 16/10, [PADROES §7](PADROES.md)), sem condição na arte porque a de 16/10 não tinha. O motivo de agir é o tempo: piso pintado precisa de uns dias antes de receber carro, então a garagem das festas se pinta agora. Saiu de tabela de preço porque 30/10 e 06/11 já foram tabela. Sem sexta-feira 13 (Halloween acabou de sair nesta conta).
+
+**Uso e liberação** conferidos em páginas de varejo do produto (garagem, varanda, calçada; ~48 h pessoas, ~72 h veículos). Não é boletim oficial, por isso a peça não traz horas. **Isolamento:** escrita sem abrir a pasta da Bruno; o orquestrador conferiu por ângulo em 10/11 e a Bruno não tem peça de piso nem de garagem.
+
+**Validador (v1.1), aplicado:** "PRONTO" no título, apoio de antecedência e secagem, CTA "Manda uma foto do piso no WhatsApp que a gente te orienta!" ("orçamento" brigava com o preço fechado), legenda sem claim de resistência ("aguenta o passo de gente e de carro"), travessão no rodapé.
+
+**Trava (Wanderson):** preço e condição do Pinta Piso em novembro, cores em estoque, orientação pra piso de cerâmica ou já pintado, e se suporta carro e com quantos dias de liberação.
+
+---
+
 ## 2026-11-05 — Post de sexta 06/11: "Os preços de outubro continuam em novembro!" (estático com arte) · validado (0 bloqueantes de texto)
 
 PH informou que a loja mantém os preços do mês passado e pediu arte de anúncio das condições. [Peça](conteudo/posts/2026-11-06-precos-de-outubro-continuam-em-novembro.md) e [arte](conteudo/posts/2026-11-06-precos-de-outubro-continuam-em-novembro.png): template azul da conta, sem Halloween, com 4 produtos, preço e condição de cada um.

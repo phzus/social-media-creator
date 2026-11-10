@@ -4,6 +4,12 @@ Log datado do trabalho feito pra WT Shopping. Topo = mais recente. Entrada por b
 
 ---
 
+## 2026-11-10 — Sex 13/11: Black WT com sexta-feira 13 (gato preto + comedouro e bebedouro automático)
+
+[Peça](conteudo/posts/2026-11-13-sexta-13-azar-e-o-pote-vazio.md): *"NA SEXTA-FEIRA 13, AZAR MESMO É O POTE VAZIO!"*, combo comedouro + bebedouro automático 3 L por R$ 81,00 (PADROES §7), CTA WhatsApp. Nenhum combo é só de gato; este é o único que serve pra gato de verdade. Sem afirmação sobre adoção ou maus-tratos de gato preto. 🔴 Foto real do produto e confirmar que o modelo serve pra gato; versão B com cachorro preto pronta. **v1.1 validada (validador-copy 10/11):** legenda abre em "O que dá azar de verdade é chegar em casa e encontrar o pote vazio", sem cena de tutor deixando o pote vazio e sem garantia de pote cheio; selo "SEXTA-FEIRA 13" pode sair se apertar.
+
+---
+
 ## 2026-11-03 (2) — Black WT: arte do combo tapete Benetto + Xixi Não Pode refeita
 
 PH mandou o rascunho dele e achou que não estava legal. A [arte refeita](conteudo/posts/2026-11-03-black-wt-combo-tapete-e-xixi-nao-pode.png) ([copy e travas](conteudo/posts/2026-11-03-black-wt-combo-tapete-e-xixi-nao-pode.md)) foi montada em HTML e exportada pelo Chrome headless.

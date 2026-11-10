@@ -4,6 +4,17 @@ Log datado do trabalho feito pro Bazar Ribeiro. Topo = mais recente. Entrada por
 
 ---
 
+## 2026-11-10 — Post de sexta 13/11: sexta-feira 13 com a escada Alumasa 5 degraus a R$ 214,40 (v1.1)
+
+[Peça](conteudo/posts/2026-11-13-sexta-13-escada-alumasa.md), layout diversificado (WD-40), os dois perfis. Headline: *"SEXTA-FEIRA 13 NINGUÉM PASSA DEBAIXO DA ESCADA. / MAS TODO MUNDO SOBE NA CADEIRA PRA TROCAR A LÂMPADA."* + bloco *"ESCADA ALUMASA 5 DEGRAUS · R$ 214,40 · BAZAR RIBEIRO"*. Pedido de PH: brincar com a sexta-feira 13 nos nichos que permitem. A graça é o contraste entre a superstição e o hábito da cadeira, sem cena de queda.
+
+- **Produto:** cód. 002234 da curva ABC (A37, 2 unidades em 30 dias). `ja-postado.sh` nos dois perfis em 10/11: escada nunca apareceu.
+- **Validador-copy (v1.1):** a L2 virou o contraste, com o produto num bloco próprio. O selo "SEXTA-FEIRA 13" saiu (repetia a headline) e o gato preto saiu do brief (colidia com a WT no mesmo dia). A legenda trocou "está saindo por" por "custa" e o 📍 por "Maricá:" / "Saquarema:".
+- 🔴 R$ 214,40 é média vendida e fica na peça. O Junior confere etiqueta e estoque nas duas lojas (OQ #24). Se só uma tiver, sai só naquele perfil.
+- 🟡 A peça só vale no dia 13.
+
+---
+
 ## 2026-10-27 — Post de sexta 30/10: lâmpada LED Tramontina 9W a R$ 1,90 (fecha a semana de iluminação)
 
 [Peça](conteudo/posts/2026-10-30-lampada-led-garagem-r-1-90.md), layout diversificado (WD-40). Headline: *"A LÂMPADA DA GARAGEM QUEIMOU E FICOU PRA DEPOIS? / A LED TRAMONTINA 9W SAI POR R$ 1,90 CADA NO BAZAR RIBEIRO!"* A segunda ensinou a cor da luz (6500K = garagem), e a sexta vende essa lâmpada.

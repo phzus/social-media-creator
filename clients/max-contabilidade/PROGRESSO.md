@@ -4,6 +4,26 @@ Log datado do trabalho feito pra Max Contabilidade. Topo = mais recente. Entrada
 
 ---
 
+## 2026-11-10 — Post de sexta 13/11 (venda): a sexta-feira 13 passa, a que pesa é 18/12
+
+[Peça](conteudo/posts/2026-11-13-sexta-13-passa-a-que-pesa-e-18-de-dezembro.md), estático 4:5, v1.1 validada. Pedido de PH: lote de sexta 13/11 brincando com sexta-feira 13. Headline: **"A sexta-feira 13 passa. / A que pesa no caixa de quem tem funcionário é 18 de dezembro."** Apoio: *"O dia 20 de dezembro cai num domingo, então a 2ª parcela do 13º e a guia do INSS vencem na sexta 18."* CTA: *"Manda 13º no direct que a gente confere com você o que vence em 18 de dezembro."*
+
+**Validador-copy (v1.1):** a headline foi recortada pra quem tem funcionário (MEI sem folha não paga parcela nem guia) e o apoio ficou mais enxuto. Na legenda, a antecipação passou a aparecer como regra da guia (Lei 8.212), e a da parcela ficou pro escritório confirmar. O CTA "Manda 18" era obscuro e voltou ao molde de 06/11 e 30/10.
+
+- **Mecanismo novo na conta:** troca de sexta (a data do dia é a porta, a data que importa é outra). Sexta 13 fica só no kicker e na 1ª linha, sem susto (§5).
+- **Diferença pra 02/10:** aquela era reserva ("o 13º custa mais que uma folha"); esta é a data da guia, que vence junto com a parcela.
+- **Fontes:** Lei 4.749/65 e Lei 8.212/91, art. 30, §2º (Planalto); IN RFB 2.237/2024 (DCTFWeb anual até 20/12 ou dia útil anterior); prazo de 20/12 do INSS sobre o 13º (Decreto 3.048, art. 216, §1º) só em fonte secundária.
+- **Fora:** IRRF (fontes divergem sobre o vencimento) e FGTS (não é imposto, prazo não conferido).
+
+**Travas:**
+- 🔴 Escritório confirma datas e a leitura do Simples ([OQ W](OPEN-QUESTIONS.md)).
+- 🔴 Recorte: em 16/10 o cliente pôs o 13º entre os temas sem retorno. Se vetar, o slot vai pra IBS/CBS em 2027 visto pelo Simples.
+- 🔴 Quem responde o direct (OQ B/J/S).
+
+Prazo: brief ao designer qua 11/11, envio ao cliente qui 12/11 até 15h.
+
+---
+
 ## 2026-10-29 — Post de sexta 06/11 (venda): a escolha de 2027 no Simples ainda tem volta até 20/12
 
 [Peça](conteudo/posts/2026-11-06-escolha-de-2027-ainda-tem-volta-ate-20-de-dezembro.md), estático 4:5, foco tributário ([PADROES §0](PADROES.md)). Headline (v1.1): **"Escolheu entrar no Simples em 2027, ou pagar IBS e CBS fora do DAS? / Dá pra desistir até 20 de dezembro."** CTA na arte: *"Fez uma dessas escolhas e não tem certeza se foi a certa? Manda REVER no direct que a gente confere com você antes do dia 20."*

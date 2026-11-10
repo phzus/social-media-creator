@@ -12,7 +12,7 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 2. "6n" no tapete Benetto: são 6 unidades?
 3. Grafia de "Xixi Não Pode" e de "Pet Júnior" (é a marca dos combos 1 e 2?).
 4. Pastilha Genco e Hidroazul: tipo e peso.
-5. Marca do comedouro + bebedouro automático 3 L.
+5. Marca do comedouro + bebedouro automático 3 L. **Agora trava a peça de sex 13/11** ([sexta 13](conteudo/posts/2026-11-13-sexta-13-azar-e-o-pote-vazio.md)): precisa de foto real e de saber se o modelo serve pra gato.
 6. Preço final dos dois itens Tutelo com 30% OFF (opcional; sem ele, sai só o percentual).
 
 ---

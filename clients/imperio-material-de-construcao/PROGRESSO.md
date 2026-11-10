@@ -4,6 +4,24 @@ Log datado do trabalho feito pro Império. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-11-10 — Post de sexta 13/11: "Se o pedreiro vem no sábado, feche o material na sexta!"
+
+[Peça](conteudo/posts/2026-11-13-pedreiro-vem-no-sabado-material-antes.md): estático 4:5, **primeira peça de Prova/Bastidor da Lone na conta**. Nas 7 peças anteriores (14/10 a 06/11) havia oferta, educativo e institucional, e nenhuma de bastidor. Mecanismo **cena de calendário + prova de bastidor**: a sexta, véspera do sábado de obra, com a foto do pátio (frame da empilhadeira em `imperio material 9.mp4`) como prova de que o básico está na loja. CTA: "MANDE A LISTA NO WHATSAPP!". Sem preço, sem horário, sem unidade, sem entrega.
+
+- **Por que o básico e não piso:** o cliente postou piso em 23/10, 28/10 e 04/11 (`ja-postado.sh`).
+- **Achados no feed do cliente (coleta de 10/11, 12 posts), registrados no [OQ 2026-11-10](OPEN-QUESTIONS.md):**
+  - Em 06/11 o cliente publicou o **horário** (seg-sex 07h30-18h, sáb 07h-14h, dom 07h-13h) e as **duas unidades** (Piracema, Av. Itaúna nº 20, e Linha Azul).
+  - Em 30/10, publicou "entrega disponível" e "aberto até às 14h" no feriado de Finados.
+  - A legenda de 28/10 está em português de Portugal ("está a construir", "poupar").
+- **Validador-copy (v1.1):**
+  - A headline da v1.0 ("O CIMENTO TEM QUE ESTAR NA OBRA ANTES DELE") insinuava entrega e virou "SE O PEDREIRO VEM NO SÁBADO, / FECHE O MATERIAL NA SEXTA!".
+  - Kicker cortado. "Sai do pátio" saiu do apoio.
+  - Na legenda saíram "às sete", a frase de entrega e "fica no pátio da loja". O 📍 ficou só Macaé/RJ.
+- 🟡 **Pilar:** sem frame com material à vista, a peça sai no fallback tipográfico e conta como Oferta, não como Prova/Bastidor.
+- **Status:** v1.1 · validada.
+
+---
+
 ## 2026-10-29 — Dois posts institucionais: sex 30/10 (apresentação da loja) e sex 06/11 (quem atende no balcão) + reserva do domingo
 
 Pedido do PH: "imperio (Bem institucional mesmo dia 30 tbm)". Estáticos 4:5. A v1.0 das duas saiu como cena de dor; o validador-copy e a coordenação puxaram pro molde de anúncio da [voice-quality §2.8](../../shared/voice-quality-checklist.md) (afirmativo, caixa alta, "!" na chamada e no CTA).

@@ -5,6 +5,16 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🔴 Nova (2026-11-10) — post de sex 13/11 (sexta-feira 13, guincho): corretor até qua 11/11 12h
+
+A [peça de 13/11](conteudo/posts/2026-11-13-sexta-13-amuleto-no-retrovisor-nao-chama-guincho.md) diz que guincho, carro reserva e vidro "podem vir no seguro ou ser contratados à parte" e que "os limites mudam de uma apólice pra outra". Fallback sem afirmação escrito na peça.
+
+1. Nas seguradoras da carteira, algum dos três (guincho, carro reserva, vidro) é **sempre** padrão ou **sempre** adicional? Se for, a frase muda.
+2. A Atlas confere pelo direct uma apólice feita em outra corretora ou no banco ("a gente vê o que vem no seu")?
+3. A cotação já sai com a assistência (guincho, carro reserva, vidro) discriminada ("a cotação já sai com isso na conversa")?
+
+---
+
 ## 🔴 Nova (2026-10-29, 3) — post de sex 06/11 (Black Friday, lista riscada): corretor até qua 04/11 12h
 
 A [peça de 06/11](conteudo/posts/2026-11-06-black-friday-a-lista-que-a-loja-nao-riscou.md) traz 4 checagens de seguro de loja na legenda, com condicional. Fallback escrito na peça.

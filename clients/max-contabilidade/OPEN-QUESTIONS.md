@@ -7,6 +7,18 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🔴 Nova (2026-11-10) — post de sexta 13/11 (2ª parcela do 13º e guia do INSS em 18/12)
+
+**W. O escritório confirma o que a [peça de 13/11](conteudo/posts/2026-11-13-sexta-13-passa-a-que-pesa-e-18-de-dezembro.md) afirma?**
+- **(a)** Com 20/12/2026 num domingo, a 2ª parcela do 13º vence na sex 18/12? A Lei 4.749/65 só diz "até 20 de dezembro"; a antecipação escrita em lei (Lei 8.212, art. 30, §2º) é a da guia, e o 18/12 da parcela vem da leitura corrente.
+- **(b)** A guia do INSS sobre o 13º também vence em 18/12 (Decreto 3.048, art. 216, §1º + Lei 8.212, art. 30, §2º). O texto do decreto não abriu aqui; o prazo veio de fontes secundárias concordantes.
+- **(c)** No Simples (fora o Anexo IV), a guia do 13º continua existindo pela parte descontada do funcionário, então "a guia do INSS sobre ele" vale pra todo cliente.
+- **(d)** A 1ª parcela (até 30/11) sai sem desconto do INSS.
+
+Junto: o cliente aceita o 13º pelo lado da guia? Em 16/10 ele pôs o 13º entre os temas sem retorno. E quem responde as mensagens "13º" no direct. — *(a), (b) e o recorte travam a publicação.*
+
+---
+
 ## 🔴 Nova (2026-10-29) — post de sexta 06/11 (desistência das escolhas de 2027)
 
 **V. O escritório confirma o que a [peça de 06/11](conteudo/posts/2026-11-06-escolha-de-2027-ainda-tem-volta-ate-20-de-dezembro.md) afirma?**

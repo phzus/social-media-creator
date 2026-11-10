@@ -4,6 +4,12 @@ Log datado do trabalho feito pra Veterinária Regional. Topo = mais recente. Ent
 
 ---
 
+## 2026-11-10 — Sex 13/11: Nutrição & Endocrinologia pelo Dia Mundial do Diabetes
+
+[Peça](conteudo/posts/2026-11-13-come-mais-e-emagrece-diabetes-tambem-da-em-pet.md) de venda direta: kicker *"Seu pet come mais do que comia e mesmo assim está emagrecendo?"*, âncora **DIABETES DÁ EM PET TAMBÉM**, CTA WhatsApp. A data (sáb 14/11) fica só na legenda. Sem sexta-feira 13, que ficou com a WT no mesmo dia. Apoio "Diabetes é um dos motivos possíveis. A Nutrição & Endocrinologia da Regional avalia." Sede e xixi ficaram fora (já abriram 19/10 e 23/10 e colidiriam com o bebedouro da WT no mesmo dia). **v1.1 validada (validador-copy 10/11).** OQ #23.
+
+---
+
 ## 2026-10-29 — Semana de Cardiologia: Mito x Verdade de seg 02/11 + venda direta de sex 06/11 fechada (v1.1)
 
 Pedido de PH: *"VR (Dia 2 de novembro e 6)"*. A semana de 02 a 06/11 fica inteira no verme do coração (linha temática única): a segunda apresenta e a sexta converte.

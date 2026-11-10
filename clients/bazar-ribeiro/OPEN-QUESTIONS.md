@@ -2,6 +2,10 @@
 
 Pendências a resolver com PH / com o dono do Bazar Ribeiro. Resolver as **bloqueantes** antes de produzir qualquer peça da campanha de agosto.
 
+## 📅 2026-11-10 — Post de sexta 13/11 (sexta-feira 13, escada Alumasa)
+
+24. 🔴 **Preço de etiqueta e estoque da Escada Alumasa 5 degraus residencial (cód. 002234) nas duas lojas, até qui 12/11.** A curva ABC dá média de R$ 214,40 (2 unidades em 30 dias, bate com Saquarema), que não fecha em ,90. Se Maricá tiver outro preço, sai uma arte por cidade. Se uma loja não tiver, a peça sai só no perfil da outra. Peça: [2026-11-13](conteudo/posts/2026-11-13-sexta-13-escada-alumasa.md).
+
 ## 📅 2026-10-22 — Post de segunda 26/10 (lâmpada, luz de farmácia) + achados no perfil público
 
 21. 🟡 **Como a caixa da lâmpada 3000K vem rotulada na loja ("branca quente", "amarela", "quente")?** A arte diz "luz amarelada, mais quente" e manda olhar o número com K. Se a caixa usar outro nome, troca só o rótulo. Peça: [2026-10-26](conteudo/posts/2026-10-26-lampada-luz-de-farmacia.md).

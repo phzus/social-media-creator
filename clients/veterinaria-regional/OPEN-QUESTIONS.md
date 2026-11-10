@@ -2,6 +2,14 @@
 
 Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes de fechar a 1ª estratégia mensal.
 
+## 🟡 2026-11-10 — Venda direta de sex 13/11 (Nutrição & Endocrinologia, diabetes)
+
+[Peça](conteudo/posts/2026-11-13-come-mais-e-emagrece-diabetes-tambem-da-em-pet.md).
+
+23. 🟡 **A Nutrição & Endocrinologia da Regional atende suspeita de diabetes, e a equipe lê o sinal da legenda (apetite maior com perda de peso)?** O briefing põe diabetes no miolo da especialidade, então não trava. A peça não diz que a glicemia é feita na clínica. Mandar junto com a arte na qui 12/11 até 15h.
+
+---
+
 ## 🟡 2026-10-29 — Semana de Cardiologia (02/11 e 06/11)
 
 [Mito de 02/11](conteudo/posts/2026-11-02-mito-cachorro-de-dentro-de-casa-nao-pega-verme-do-coracao.md) · [Venda direta de 06/11](conteudo/posts/2026-11-06-verme-do-coracao-vem-do-mosquito.md).

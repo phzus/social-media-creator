@@ -4,6 +4,32 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ---
 
+## 2026-11-10 — Estático de sex 13/11: sexta-feira 13, "Amuleto no retrovisor não chama guincho."
+
+PH pediu as peças de sexta brincando com a sexta-feira 13 (*"a atlas dá pra fazer falando que não pode deixar a sorte pro azar"*). A pauta do [trimestral](estrategia/2026-09-a-11-trimestral.md) pra 13/11 (guincho, carro reserva e vidro: o que vem junto) foi mantida, e a data entrou como contexto.
+
+[Estático 4:5](conteudo/posts/2026-11-13-sexta-13-amuleto-no-retrovisor-nao-chama-guincho.md):
+- **Cena:** trevo de quatro folhas pendurado no retrovisor, estrada vazia ao fundo. Mecanismo novo na conta: superstição × fato.
+- **Headline:** "AMULETO NO RETROVISOR NÃO CHAMA GUINCHO. / CONFERE SE O GUINCHO VEM NO SEU SEGURO. NÃO DEIXA PRA SORTE!"
+- **Apoio:** guincho, carro reserva e vidro podem vir no seguro ou ser contratados à parte.
+- **CTA:** "CHAMA A ATLAS NO DIRECT", numa frase diferente da de 09/11.
+- Versão B sem a piada, pra PH escolher.
+
+**Validador-copy (v1.1):**
+- A linha 2 da headline não dizia o quê. Agora nomeia o guincho e fecha com o "não deixa pra sorte" do PH.
+- A arte caiu de ~55 pra ~45 palavras.
+- Na legenda, saíram o "às dez da noite" e o "bata na madeira", que não é superstição da sexta 13.
+- Duas frases do CTA da legenda entraram no gate.
+
+**Trava:** 🔴 o corretor confirma até qua 11/11 12h ([OQ](OPEN-QUESTIONS.md)):
+- se "vem junto ou à parte" vale pra carteira;
+- se a Atlas confere apólice feita em outra corretora;
+- se a cotação já sai com a assistência.
+
+Sem o OK, sobem os fallbacks já escritos na peça.
+
+---
+
 ## 2026-11-03 — Carrossel de seg 09/11 (pedido do cliente): "Dois seguros podem ter o mesmo preço e entregar coisas bem diferentes"
 
 A Atlas pediu (via PH) um conteúdo "claro e profissional" sobre contratar seguro no banco × com corretor. O argumento dela: além do preço, avaliar orientação, coberturas, suporte e acompanhamento. Pedido salvo em [referencias/2026-11-03-pedido-banco-x-corretor.md](referencias/2026-11-03-pedido-banco-x-corretor.md), e os 4 diferenciais foram pro [context.md](context.md).

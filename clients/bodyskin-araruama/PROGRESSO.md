@@ -4,6 +4,21 @@ Log datado do trabalho feito pra BodySkin. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-11-10 — Sexta 13/11: virilha total refeita pro Novembro Black ("quanto sai cada sessão")
+
+Lote de sexta 13/11. A peça da virilha de 03/11 dizia "Black Friday" e era anterior à tabela completa, então virou a [v2.0](conteudo/posts/2026-11-13-virilha-total-quanto-sai-cada-sessao.md) e a antiga ficou marcada como substituída. Sem sexta-feira 13 nesta conta.
+
+- **Mecanismo novo:** "QUANTO SAI CADA SESSÃO DE VIRILHA TOTAL NO LASER?" → "R$ 69,90 NO PACOTE DE 10 SESSÕES!" (R$ 699 ÷ 10 sessões). A seg 09/11 já é o anúncio e a qua 11/11 é o preço riscado, então a sexta faz a conta.
+- **Alinhada à tabela de novembro:** selo da cliente, 10 sessões, "10x de R$ 69,90 · ou R$ 699 à vista", vouchers limitados. Sem o "de R$ 5.500" e sem "Black Friday".
+- **Validador-copy → v2.1:** o bloqueante foi a resposta "R$ 69,90!" sozinha, que lia como sessão avulsa. Ela passou a carregar "no pacote de 10 sessões", e a headline sem pergunta ("VIRILHA TOTAL NO LASER: 10 SESSÕES EM 10X DE R$ 69,90!") ficou como versão B. A legenda passou a abrir pela parcela, e o pagamento separa "10x no crédito normal" de "R$ 699 à vista no dinheiro, Pix ou débito". Se a arte apertar, "vouchers limitados" fica só na legenda.
+
+**Pendências:**
+- 🔴 Aprovação da Cintia atrasada: pra 13/11, o envio devia ter saído até 06/11. Sem OK excepcional, a data vira sex 20/11 (envio até 13/11).
+- 🟡 Se a arte de 09/11 escorregar pra 16/11, esta sai antes do "já começou!".
+- 🟡 Confirmar com a Cintia que o R$ 699 à vista vale no dinheiro, Pix e débito (a tabela lista as formas, mas não diz qual vale pra qual).
+
+---
+
 ## 2026-11-06 — Novembro Black: motion de anúncio com as 12 áreas de laser
 
 PH pediu um vídeo tipo flyer com as promoções, só de laser, sem pressa de tempo. Saiu o [roteiro v2.2 de 54s](conteudo/roteiros/2026-11-13-motion-anuncio-novembro-black-laser.md), com direção pro Remotion, pra rodar como anúncio e stories a partir de 13/11. A versão traz parcela em destaque com à vista no "ou", tabela nova e bloco "E também tem condição pra eles!". As 2 pessoas geradas com IA entraram na v2.1 e saíram na v2.2 porque PH não gostou, então a peça fica só com selo, feixe e tipografia. O motion de 3 áreas de 11/11 continua como Reels.
