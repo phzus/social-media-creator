@@ -4,6 +4,12 @@ Log datado do trabalho feito pra BodySkin. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-11-10 (2) — Sexta 13/11 trocada: coxas no lugar da virilha
+
+PH: a promoção da virilha já foi anunciada no feed. A [peça da virilha](conteudo/posts/2026-11-13-virilha-total-quanto-sai-cada-sessao.md) ficou descartada, e a sexta passou pra [coxas no laser, de R$ 6.999 por R$ 1.104](conteudo/posts/2026-11-13-coxas-no-laser-de-6999-por-1104.md), único "de/por" liberado no §7. Validada (v1.1). As coxas também estão no Reels de 11/11 e no motion de anúncio, e a alternativa sem repetição é rosto ou glúteos completos.
+
+**Pendências:** OK da Cintia pra 13/11 (senão vai pra 20/11) · confirmar R$ 6.999 como preço de tabela das coxas (em setembro, virilha + coxas saía a R$ 1.598,94 no combo) · RT.
+
 ## 2026-11-10 — Sexta 13/11: virilha total refeita pro Novembro Black ("quanto sai cada sessão")
 
 Lote de sexta 13/11. A peça da virilha de 03/11 dizia "Black Friday" e era anterior à tabela completa, então virou a [v2.0](conteudo/posts/2026-11-13-virilha-total-quanto-sai-cada-sessao.md) e a antiga ficou marcada como substituída. Sem sexta-feira 13 nesta conta.

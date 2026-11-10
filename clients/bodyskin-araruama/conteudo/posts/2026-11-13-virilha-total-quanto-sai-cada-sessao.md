@@ -3,7 +3,7 @@
 **Cliente:** bodyskin-araruama · **Data sugerida:** sexta 13/11/2026 · **Plataforma:** Instagram, feed 4:5 · **Formato:** estático (+ animado de 5s opcional) · **Funil:** BOFU · **Pilar:** P5 Oferta
 **Substitui:** [peça de 03/11, "entrou na Black Friday"](2026-11-03-black-friday-virilha-total-10x-69-90.md), escrita antes da tabela completa do mês.
 **Condição:** [PADROES §7](../../PADROES.md), tabela de novembro · [registro literal](../../referencias/2026-11-03-novembro-black-tabela-completa-cliente.md)
-**Status:** 🟡 v2.1 validada (validador-copy, 10/11), aguarda PH. Sem sexta-feira 13 nesta conta.
+**Status:** ⛔ **Descartada (PH, 10/11):** a promoção da virilha já foi anunciada no feed. A sexta 13/11 sai com as [coxas](2026-11-13-coxas-no-laser-de-6999-por-1104.md). Fica como referência. Antes: v2.1 validada (validador-copy, 10/11). Sem sexta-feira 13 nesta conta.
 
 ---
 

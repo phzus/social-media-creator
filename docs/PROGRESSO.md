@@ -4,6 +4,10 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-10 (5) — BodySkin: sexta 13/11 trocada pras coxas
+
+Virilha já anunciada no feed (PH). [Coxas no laser, de R$ 6.999 por R$ 1.104](../clients/bodyskin-araruama/conteudo/posts/2026-11-13-coxas-no-laser-de-6999-por-1104.md), validada.
+
 ## 2026-11-10 (4) — CIIL: Novembro Azul pra sexta 13/11
 
 [Carrossel](../clients/ciil/conteudo/posts/2026-11-13-novembro-azul-5-sinais.md) inspirado na Estação Fitness, com a lista do Ministério da Saúde e o gancho "na fase inicial pode não ter sintoma". Validado, aguarda RT.
