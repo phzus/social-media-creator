@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-11 (5) — Veneza: avulso do Sofá Baú Grécia na Black
+
+[Peça](../clients/veneza-estofados/conteudo/posts/2026-11-11-black-sofa-bau-grecia.md), de R$ 2.000,00 por R$ 1.799,99, validada v1.1. O Master tinha sido descartado porque já tinha sido divulgado.
+
+---
+
 ## 2026-11-11 (4) — WT: 2 posts de clínica sobre viagem com pet (enjoo 16/11, atestado 30/11)
 
 O pedido veio da Luziane. Os dois posts foram validados (v1.1): as headlines absolutas viraram proibição e "pode exigir", e o validador também tirou a repetição de molde com a VR. [Enjoo](../clients/wt-shopping/conteudo/posts/2026-11-16-remedio-de-enjoo-de-gente-nao-e-pro-pet.md) · [atestado](../clients/wt-shopping/conteudo/posts/2026-11-30-viagem-com-pet-pede-atestado-de-saude.md).

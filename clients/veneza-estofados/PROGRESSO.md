@@ -4,6 +4,17 @@ Log datado do trabalho feito pra Veneza Estofados. Topo = mais recente. Entrada 
 
 ---
 
+
+## 2026-11-11 — Avulso: Sofá Baú Grécia na Black (de R$ 2.000,00 por R$ 1.799,99) · validado v1.1
+
+PH pediu "um produto pra divulgar já". A primeira versão foi com o Master, mas ele já tinha sido divulgado (PH), e foi descartada. [Peça](conteudo/posts/2026-11-11-black-sofa-bau-grecia.md): "SOFÁ BAÚ DE 2 METROS NA BLACK DA VENEZA!", com "de/por" colado no à vista e CTA sem número na arte (o número fica na assinatura). A qui 19 (Grécia, opcional) fica livre, e o Antonella continua na seg 16.
+
+**Validador:** como o baú abre não está confirmado, a peça diz só "tem baú". A frase "fábrica = preço" saiu, porque já está no carrossel e no Reel da Gabriela.
+
+**Pendências:** foto do Grécia (a do cliente ou a do site, recortada) e o botão de WhatsApp do @venezaestofados (OQ #44).
+
+---
+
 ## 2026-11-10 (3) — Lista da Black recebida: plano do mês, anúncio, Sábado Black e roteiros
 
 PH colou a lista do Mateus ([referência](referencias/2026-11-10-lista-produtos-black-friday.md)) e pediu os conteúdos, incluindo os vídeos.
