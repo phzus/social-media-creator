@@ -4,6 +4,14 @@ Log datado do trabalho feito pra Araruama Tintas. Topo = mais recente. Entrada p
 
 ---
 
+## 2026-11-11 — Lista da Black Friday recebida (23 a 28/11, à vista / retirando em loja)
+
+Wanderson mandou no WhatsApp 10 produtos com "de/por" ([transcrição](referencias/2026-11-11-lista-black-friday-wanderson.md)): 5 tintas brancas de 18L/20L (Qualyvinil Rende Muito, Econômica e Premium, Coral Rende Muito, Suvinil Rende e Cobre Muito), 3 massas corridas, a Textura F-E M10 e a Resina Sol e Chuva Coral. Tabela fixada em [PADROES §7](PADROES.md). Os descontos ficam entre 16% e 23%, e os "De" que dá pra conferir batem com a tabela de 17/09.
+
+**Trava:** preço da Qualyvinil Econômica ([OQ #18](OPEN-QUESTIONS.md)). O "Por 159,9" veio solto no fim da mensagem. Nenhuma peça produzida ainda.
+
+---
+
 ## 2026-11-10 — Post de sexta 13/11: "O piso da garagem pronto antes das festas!" (estático, Pinta Piso Coral) · validado v1.1 (0 bloqueantes)
 
 [Peça](conteudo/posts/2026-11-13-piso-da-garagem-antes-das-festas.md): anúncio direto de um produto só, Pinta Piso Coral 3,6L a R$ 100,00 (arte de 16/10, [PADROES §7](PADROES.md)), sem condição na arte porque a de 16/10 não tinha. O motivo de agir é o tempo: piso pintado precisa de uns dias antes de receber carro, então a garagem das festas se pinta agora. Saiu de tabela de preço porque 30/10 e 06/11 já foram tabela. Sem sexta-feira 13 (Halloween acabou de sair nesta conta).

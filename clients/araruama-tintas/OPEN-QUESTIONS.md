@@ -5,6 +5,11 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🆕 2026-11-11 — lista da Black Friday (23 a 28/11)
+
+- **#18 — 🔴 preço "Por" da Qualyvinil Econômica Branco 18L.** A linha veio só com "De R$ 197,00", e a mensagem termina com um "Por 159,9" solto depois da Resina, que já tinha o seu "Por R$ 439,90". Leitura da Lone: R$ 159,90 é da Econômica (~19%, mesma faixa do resto). Só entra em arte depois de confirmar. Pergunta pronta pro WhatsApp: *"Wanderson, a Qualyvinil Econômica Branco 18L sai por R$ 159,90 na Black? O 159,90 veio no fim da lista, depois da Resina."*
+- **#12 — atualizada:** os preços de novembro valem até 22/11. De 23 a 28/11 vale a tabela da Black ([PADROES §7](PADROES.md)). Depois de 28/11, ainda não se sabe o que volta.
+
 ## 🆕 2026-11-05 — preços de outubro mantidos em novembro
 
 - **#11 — em boa parte resolvida:** as artes publicadas em outubro definem nome, embalagem e condição de 4 produtos ([PADROES §7](PADROES.md)). "Acrilux" era Bri-Lux 16L e o selador é F-E 14L a R$ 59,90 ou Rio 15L a R$ 74,90.

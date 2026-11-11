@@ -40,6 +40,23 @@ A arte de Dia das Mães (maio) foi o cartão clássico: stock de mãe e filho co
 
 ## 7. Preço em peça: a regra vigente
 
+**Black Friday — seg 23/11 a sáb 28/11/2026 (Wanderson, WhatsApp de 11/11).** Condição: **pagamento à vista / retirando em loja**. Fonte: [lista recebida](referencias/2026-11-11-lista-black-friday-wanderson.md). Vale **só nesse período**; antes de 23/11 segue a tabela de novembro abaixo, e depois de 28/11 a tabela da Black não pode ser reaproveitada.
+
+| Produto | De | Por |
+|---|---|---|
+| Qualyvinil Rende Muito Branca 18L | R$ 379,00 | R$ 314,90 |
+| Qualyvinil Econômica Branco 18L | R$ 197,00 | ⚠️ R$ 159,90 **a confirmar** (OQ #18) |
+| Qualyvinil Premium Branco 18L | R$ 489,00 | R$ 409,00 |
+| Coral Rende Muito Branco 20L | R$ 479,00 | R$ 399,00 |
+| Suvinil Rende e Cobre Muito Branco 20L | R$ 479,00 | R$ 399,00 |
+| Massa Corrida Qualyvinil Klasse 25kg | R$ 66,90 | R$ 55,90 |
+| Massa Corrida Coral 20kg | R$ 99,00 | R$ 82,90 |
+| Massa Corrida F-E 21kg (barrica) | R$ 38,90 | R$ 29,90 |
+| Textura F-E M10 21kg | R$ 59,90 | R$ 48,90 |
+| Resina Acrílica Sol e Chuva Coral 18L | R$ 525,00 | R$ 439,90 |
+
+Aqui o "de/por" está liberado: o cliente mandou o preço cheio, e os dois "De" que dá pra conferir batem com a tabela de 17/09. Coral e Suvinil saem com o mesmo preço; em peça que mostre as duas, as duas aparecem lado a lado, sem eleger uma.
+
 **Novembro/2026 (PH, 05/11):** a loja mantém os mesmos preços de outubro. Fonte de nome, embalagem e condição: **as artes publicadas em outubro**, não a lista da reunião de 09/10, que ficou ambígua na gravação.
 
 | Produto | Preço | Condição na arte publicada | Arte |
@@ -60,6 +77,7 @@ Sem data final informada: usar a ressalva "Condições e validade dos preços: c
 
 ## Histórico
 
+- **2026-11-11 (v1.4)** — §7: tabela da Black Friday (23 a 28/11), com 10 produtos e "de/por" liberado.
 - **2026-11-05 (v1.3)** — §7: preços vigentes, com as artes publicadas como fonte, e correção da lista de 09/10.
 - **2026-10-07 (v1.2)** — §6: peça de data comemorativa parte da orientação, sem cartão, sem criança em quadro, sem claim de segurança.
 - **2026-09-22 (v1.1)** — §1 ganhou o "como conferir": isolamento se checa por ângulo e frase-conceito, não por tema nem por data. Veio de um quase-erro real, pego na validação.
