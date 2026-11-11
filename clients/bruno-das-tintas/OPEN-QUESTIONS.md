@@ -2,6 +2,14 @@
 
 Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes de fechar a 1ª estratégia mensal formal (o calendário de 12 semanas do [BRIEFING.md](BRIEFING.md) é proposta, ainda não validada com o cliente).
 
+## 🆕 Aberto em 2026-11-11 — Black Friday (condições recebidas)
+
+[Registro](referencias/2026-11-11-black-friday-condicoes-cliente.md) · [aquecimento de 13/11](conteudo/posts/2026-11-13-aquecimento-black-friday.md) · [PADROES §10](PADROES.md)
+
+1. 🔴 **Período da Black (início e fim).** Não trava o aquecimento, mas trava a peça de abertura. Mesma pergunta: vale nas duas unidades?
+2. 🟡 **O 12x sem juros tem desconto ou é sem desconto?** A peça trata como opção separada, sem desconto. Não precisa perguntar, a não ser que o cliente queira destacar.
+3. ✅ **"Sem juros" no 12x resolvido:** o cliente escreveu em 11/11 (antes era claim proibido, §7).
+
 ## 🆕 Aberto em 2026-10-22 — semana de 26 a 30/10 (fachada antes do verão)
 
 - **A semana fecha em fachada?** Segunda 26/10 abre com [pintar na sombra](conteudo/posts/2026-10-26-fachada-se-pinta-na-sombra.md). Proposta: quarta 28/10 em vídeo sem fala (a sombra andando na parede, captação ou motion flyer) e sexta 30/10 de venda com tinta de fachada. **Pra sexta ter preço, o cliente precisa mandar produto e valor**; sem isso sai sem preço ([PADROES §9](PADROES.md)).

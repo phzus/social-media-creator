@@ -69,6 +69,21 @@ A Lone atende **duas lojas de tinta em Araruama** — **Bruno das Tintas** e **A
 | **Qualyvinil Emborrachada 6 em 1** | 18L → **80 m²**, 3-4 demãos | 6 funções do fabricante: cobre fissuras, impermeabiliza, elimina infiltrações, combate fungos/mofo, **resiste à maresia**, alta refletância UV |
 | **Maza Superflex Parede** | 18kg → **até 175 m²/demão** | Veda fissuras até 0,3mm · **proteção contra maresia** · cores: Branco, Inox, Elefante, Gelo, Nanquim |
 
+## 10. Condições comerciais — Black Friday 2026 (cliente, 11/11) · ⚠️ período a confirmar
+
+Registro literal: [referencias/2026-11-11-black-friday-condicoes-cliente.md](referencias/2026-11-11-black-friday-condicoes-cliente.md).
+
+| Forma de pagamento | Condição |
+|---|---|
+| À vista | **15% de desconto** |
+| Crédito parcelado | **10% de desconto em até 6x** ("sem juros" **não** veio nessa linha, não escrever) |
+| Parcelamento | **até 12x sem juros** (desconto no 12x não afirmado) |
+
+- **Período: não informado.** Peça que anuncia a condição como vigente leva data de início e fim (regra de §9). Até lá, só aquecimento ("vem aí"), sem afirmar que já vale.
+- **Abrangência:** como em setembro, não afirmar "toda a loja", "todas as marcas" nem as duas unidades.
+- **Isolamento (§0):** a Araruama Tintas também tem Black, com mecânica diferente. Nada de tabela "de/por" por produto nesta conta, e nenhum nome de campanha, selo ou frase pode cruzar.
+- **Mesma mecânica da Semana do Cliente (15% / 10% em 6x):** a arte não pode repetir o layout de 14/09 (os dois números empilhados como título). Na Black, a manchete é o gancho, e os números entram como oferta.
+
 ## 9. ⛔ Condições comerciais — Semana do Cliente (14-19/09/2026) · **VENCIDA em 19/09/2026**
 
 > ⛔ **Esta condição não vale mais.** Fica como registro histórico e como molde de como escrever condição com data. Nenhuma peça nova usa esses percentuais. Enquanto o cliente não mandar condição nova, peça de venda desta conta sai **sem preço**.
@@ -89,7 +104,7 @@ A Lone atende **duas lojas de tinta em Araruama** — **Bruno das Tintas** e **A
 ## 7. Claims proibidos até confirmação por escrito
 
 - ❌ **"Rende até 50% mais"** do Recubriplast — não consta na ficha técnica da Sinteplast. Só volta pra arte com confirmação por escrito do fabricante.
-- ❌ **"Sem juros"** no parcelamento 12x — não confirmado com a maquininha de cartão.
+- ~~❌ **"Sem juros"** no parcelamento 12x — não confirmado com a maquininha de cartão.~~ ✅ **Liberado em 11/11/2026:** o cliente escreveu "parcelamentos em até 12x sem juros" na mensagem da Black ([registro](referencias/2026-11-11-black-friday-condicoes-cliente.md)). O texto fala "temos", que soa como condição permanente; se houver dúvida, vale pelo menos durante a Black.
 - ❌ **Qualquer prazo de entrega** — não confirmado pela operação.
 - ❌ **Qualquer rendimento diferente do declarado pelo fabricante** — nunca usar números "que soam plausíveis" (varejistas do setor anunciam 188/207/500 m², todos inconsistentes e juridicamente arriscados).
 
@@ -102,7 +117,7 @@ A Lone atende **duas lojas de tinta em Araruama** — **Bruno das Tintas** e **A
 | Loja Iguaba | R. Capitão Jorge Soares, 102, Loja A, Estação | Confirmado (endereço); **CNPJ da unidade não localizado** |
 | Tempo de mercado | 11 anos (aberta 23/01/2015) | Confirmado |
 | WhatsApp oficial | — | ⚠️ **Não confirmado** — 4 números circulam, ver [OPEN-QUESTIONS #1](OPEN-QUESTIONS.md) |
-| Parcelamento | Até 12x | Confirmado o "até 12x"; **"sem juros" não confirmado** |
+| Parcelamento | Até 12x sem juros | ✅ "Sem juros" confirmado pelo cliente por escrito em 11/11/2026 (mensagem da Black) |
 | Tintometria | — | ⚠️ **Não confirmado** se a loja faz/quantas cores/cobra |
 | Horário | Seg-sex 7h30-18h · sáb 8h-14h | Fonte: diretório, **não confirmado com a loja** |
 | Site | brunotintas.com.br | Fora do ar |

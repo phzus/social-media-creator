@@ -1,5 +1,17 @@
 # Progresso — Bruno das Tintas
 
+## 2026-11-11 — Black Friday: condições recebidas + aquecimento de sexta 13/11 · validado v1.1
+
+O cliente mandou: 15% à vista, ou 10% no crédito em até 6x, e "temos também até 12x sem juros" ([registro](referencias/2026-11-11-black-friday-condicoes-cliente.md), [PADROES §10](PADROES.md)). **Pela primeira vez, "12x sem juros" veio por escrito**, e §7 e §8 foram liberados. O período não veio.
+
+[Aquecimento](conteudo/posts/2026-11-13-aquecimento-black-friday.md): kicker "PRA PINTURA DA CASA DE VERÃO", manchete "A BLACK FRIDAY DA BRUNO DAS TINTAS VEM AÍ!", selo "NA BLACK: 15% DE DESCONTO À VISTA" e CTA de seguir o perfil pra saber a data (sem WhatsApp, OQ #1). Não repete o layout da Semana do Cliente de 14/09, que tinha a mesma mecânica. Ficou sem sexta-feira 13 (susto/preço é território da Araruama, e 4 clientes já usaram sexta 13 no lote).
+
+**Validador:** o selo solto lia como condição já valendo, e o "OU… E…" somava o 10% ao 12x. A pergunta "Vai pintar a casa antes do verão?" repetia 05/10 e colidia com a Araruama de 13/11 ("…antes das festas"). Tudo aplicado.
+
+**Pendência:** período da Black e se vale nas duas unidades. Trava a peça de abertura, não esta.
+
+---
+
 ## 2026-10-22 — Post de segunda 26/10: "Com o sol batendo na parede, a tinta seca antes de você voltar com o rolo."
 
 [Peça](conteudo/posts/2026-10-26-fachada-se-pinta-na-sombra.md): **estático único** 4:5, Pilar 2 (beira de lagoa, pelo lado do **sol**), metade "calor" do educativo da semana 10 do briefing. Mecanismo **cena → regra**: a faixa que seca antes da próxima encostar fica marcada; a regra é pintar primeiro a parede que está na sombra e trocar de parede quando o sol chegar, com o teste da mão (parede ainda bem quente, espera). CTA na arte: "Salva pra quando for pintar a fachada." Sem preço, sem WhatsApp, sem número técnico.

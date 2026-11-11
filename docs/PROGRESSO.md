@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-11 (3) — Bruno das Tintas: condições da Black + aquecimento de sexta 13/11
+
+[Aquecimento](../clients/bruno-das-tintas/conteudo/posts/2026-11-13-aquecimento-black-friday.md) validado v1.1. Condições em [PADROES §10](../clients/bruno-das-tintas/PADROES.md). "12x sem juros" foi confirmado por escrito, e o período continua pendente. O validador pegou colisão com a Araruama na mesma sexta ("antes de [data]").
+
+---
+
 ## 2026-11-11 (2) — BodySkin: cartaz "Passamos laser nos preços" no formato da Mais Laser
 
 [Peça](../clients/bodyskin-araruama/conteudo/posts/2026-11-20-cartaz-passamos-laser-nos-precos.md) pra sex 20/11, validada v1.1. A referência é de concorrente de categoria: o formato veio de lá, o copy não, e "laser" saiu da caixa da manchete porque lia "mais laser".
