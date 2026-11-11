@@ -4,6 +4,18 @@ Log datado do trabalho feito pra Celmapel. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-11-11 — Esquenta Black (12 a 21/11): registro + stories do dia 01
+
+O cliente mandou o calendário do **Esquenta Black · Celmapel Festas + Loja do Confeiteiro** (9 blocos de 12 a 21/11, 3 produtos por dia), o bloco 01 com preço e 30 fotos reais de produto na mão, no corredor da loja. [Registro literal e mapa de fotos](referencias/2026-11-11-esquenta-black-calendario-e-bloco-01.md).
+
+- **[Stories de qui 12/11](conteudo/stories/2026-11-12-esquenta-black-dia-01.md):** abertura, 3 produtos com "de/por" e limite por CPF, e o teaser de sexta 13/11 sem preço.
+  - O Esquenta vai pra stories porque o preço vale 1 dia e quinta não tem feed.
+  - O esqueleto é fixo nas 9 edições, pra ser lido como série.
+- **Responde em parte o #44 e o #49:** a BF existe e começa com o Esquenta. O período da BF em si continua em aberto.
+- **Novas dúvidas:** #53 ("1cx" do Italac), #54 (o que é a "Loja do Confeiteiro"), #55 (blocos 02 a 09 na véspera, até 15h) e #56 (o que muda no plano de 13 a 20/11).
+
+---
+
 ## 2026-11-05 — Leitura do benchmark semanal (outro setor) e conferência da grade
 
 PH recebeu o benchmark de 7 perfis (edição base de 04/11) e pediu síntese, o que dá pra fazer e ideias melhores. [Leitura completa](referencias/2026-11-05-benchmark-semanal-sintese-e-leitura.md) · [PDF](referencias/2026-11-04-benchmark-semanal-edicao-base.pdf).

@@ -61,6 +61,15 @@ Log completo. O que vale ocupar a reunião está curado em [reuniao-mensal/PAUTA
 
 ---
 
+## 🟡 2026-11-11 — Esquenta Black (12 a 21/11)
+
+[Calendário e bloco 01](referencias/2026-11-11-esquenta-black-calendario-e-bloco-01.md). Responde em parte o #44 e o #49: a campanha de BF existe, com o Esquenta começando em 12/11. Falta o período da BF em si.
+
+53. 🟡 **Leite condensado Italac, "limite 1cx por CPF":** é 1 caixinha (a unidade) ou 1 caixa fechada? A arte repete "1 caixa", como o cliente escreveu.
+54. 🟡 **"Loja do Confeiteiro"** (no PDF: "Celmapel Festas + Loja do Confeiteiro"): é a própria Celmapel, um setor dela ou outra unidade? A oferta vale nas duas? Liga com o #29 (Celmapel Atacarejo).
+55. 🟡 **Blocos 02 a 09:** preço, "de", limite por CPF e validade de cada dia. O bloco tem que chegar na véspera, até 15h, pra o story sair de manhã.
+56. 🟡 **Plano de 13 a 20/11:** a decisão sobre o encarte de 13/11 e de 20/11, o "Faltam 11 dias" de 16/11 e o Reels "Spoiler" de 18/11 é do PH (ver §4 da referência).
+
 ## 🔴 2026-11-05 — Conferência da grade e do benchmark semanal
 
 [Leitura](referencias/2026-11-05-benchmark-semanal-sintese-e-leitura.md).

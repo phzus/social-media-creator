@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-11 (6) — Celmapel: Esquenta Black (12 a 21/11), stories do dia 01
+
+[Referência](../clients/celmapel-festas/referencias/2026-11-11-esquenta-black-calendario-e-bloco-01.md) com o calendário e o bloco 01 em registro literal, e o mapa das 30 fotos por dia. [Stories do dia 01](../clients/celmapel-festas/conteudo/stories/2026-11-12-esquenta-black-dia-01.md): 5 telas, foto real, "de/por" e limite por CPF. Como o plano nov–dez não previa o Esquenta, a decisão sobre 13 a 20/11 ficou com o PH.
+
+---
+
 ## 2026-11-11 (5) — Veneza: avulso do Sofá Baú Grécia na Black
 
 [Peça](../clients/veneza-estofados/conteudo/posts/2026-11-11-black-sofa-bau-grecia.md), de R$ 2.000,00 por R$ 1.799,99, validada v1.1. O Master tinha sido descartado porque já tinha sido divulgado.
