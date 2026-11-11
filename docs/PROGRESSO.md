@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-11 (4) — WT: 2 posts de clínica sobre viagem com pet (enjoo 16/11, atestado 30/11)
+
+O pedido veio da Luziane. Os dois posts foram validados (v1.1): as headlines absolutas viraram proibição e "pode exigir", e o validador também tirou a repetição de molde com a VR. [Enjoo](../clients/wt-shopping/conteudo/posts/2026-11-16-remedio-de-enjoo-de-gente-nao-e-pro-pet.md) · [atestado](../clients/wt-shopping/conteudo/posts/2026-11-30-viagem-com-pet-pede-atestado-de-saude.md).
+
+---
+
 ## 2026-11-11 (3) — Bruno das Tintas: condições da Black + aquecimento de sexta 13/11
 
 [Aquecimento](../clients/bruno-das-tintas/conteudo/posts/2026-11-13-aquecimento-black-friday.md) validado v1.1. Condições em [PADROES §10](../clients/bruno-das-tintas/PADROES.md). "12x sem juros" foi confirmado por escrito, e o período continua pendente. O validador pegou colisão com a Araruama na mesma sexta ("antes de [data]").

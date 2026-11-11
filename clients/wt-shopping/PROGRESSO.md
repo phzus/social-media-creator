@@ -4,6 +4,18 @@ Log datado do trabalho feito pra WT Shopping. Topo = mais recente. Entrada por b
 
 ---
 
+## 2026-11-11 — Clínica: 2 posts de viagem com pet (enjoo 16/11 + atestado 30/11), pedido da Luziane · validados v1.1
+
+A Luziane pediu no WhatsApp, em 09/11, posts separados sobre atestado de saúde e remédio de enjoo ([registro](referencias/2026-11-09-pedido-luziane-atestado-e-enjoo.md)).
+- [Seg 16/11](conteudo/posts/2026-11-16-remedio-de-enjoo-de-gente-nao-e-pro-pet.md): "NÃO DÊ AO SEU PET O REMÉDIO DE ENJOO QUE VOCÊ TOMA!", sem nome de remédio nem dose, vendendo a avaliação antes da viagem.
+- [Seg 30/11](conteudo/posts/2026-11-30-viagem-com-pet-pede-atestado-de-saude.md): "VIAJAR DE ÔNIBUS OU AVIÃO COM O PET PODE EXIGIR ATESTADO DE SAÚDE". Fica perto das viagens de dezembro, porque o atestado tem validade curta. Não traz número de dias, porque as fontes divergem (10, 15 ou 30).
+
+**Validador:** as duas headlines eram absolutas ("não é pro seu pet", "pede atestado") e viraram proibição e "pode exigir". Faltava a identificação da clínica (kicker e endereço). As duas peças e a VR de 30/10 abriam no mesmo molde "Vai viajar…?", e o CTA de 30/11 copiava o de 30/10.
+
+**Pendências:** se a clínica emite atestado e faz consulta pré-viagem; o que era o "Ótimo" de 09/11; quem é a Luziane.
+
+---
+
 ## 2026-11-10 — Sex 13/11: Black WT, combo comedouro + bebedouro automático (sem sexta-feira 13)
 
 [Peça v2.0](conteudo/posts/2026-11-13-black-wt-combo-comedouro-e-bebedouro.md): *"A RAÇÃO E A ÁGUA DO SEU PET, NUM COMBO SÓ!"*, combo comedouro + bebedouro automático 3 L por R$ 81,00 (PADROES §7), CTA WhatsApp, no esqueleto da série Black WT de 03/11. A v1.1 saiu com gato preto e sexta-feira 13 e foi descartada por PH: *"nada de sexta-feira 13 pra WT, eles são cristãos"*. Virou regra no [PADROES §8](PADROES.md). 🔴 Foto real do produto e porte do modelo (OQ #5).

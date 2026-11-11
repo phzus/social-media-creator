@@ -5,6 +5,14 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🟡 2026-11-11 — Posts de clínica de viagem (enjoo 16/11 + atestado 30/11), pedido da Luziane
+
+[Registro](referencias/2026-11-09-pedido-luziane-atestado-e-enjoo.md)
+
+1. 🟡 **A clínica emite atestado de saúde pra viagem?** E faz consulta pré-viagem pra enjoo? As duas peças assumem que sim, porque o tema veio da própria Luziane. Não trava.
+2. 🟡 **O que era o "Ótimo" de 09/11?** Não há peça desse dia na pasta. Se for uma peça de viagem que PH fez fora do repositório, vale salvar aqui pra conferir a repetição.
+3. 🟡 **Quem é a Luziane na WT?** Ela aprova peça? Registrar em context.md quando PH confirmar.
+
 ## 🟡 2026-11-03 — Combos da WT Black: o que confirmar (não trava produção)
 
 [Lista](referencias/2026-11-03-combos-wt-black-cliente.md) · [PADROES §7](PADROES.md)
