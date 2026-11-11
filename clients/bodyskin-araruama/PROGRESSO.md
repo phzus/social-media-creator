@@ -4,6 +4,16 @@ Log datado do trabalho feito pra BodySkin. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-11-11 — Novembro Black: cartaz "Passamos laser nos preços" (formato da Mais Laser) · validado v1.1
+
+PH mandou o cartaz "A Black mais Black" da Mais Laser ([print](referencias/2026-11-11-ref-formato-cartaz-mais-laser.png)) e pediu um igual. Na [peça](conteudo/posts/2026-11-20-cartaz-passamos-laser-nos-precos.md), só o formato veio da referência: pessoa segurando um cartaz de jornal, com a manchete em tipografia misturada. O copy usa a frase da campanha e "parcelas a partir de R$ 69,90". Sugerida pra sex 20/11 (envio até 13/11) ou sex 27/11. A versão B, "NOVEMBRO sem CERA", depende da RT.
+
+**Validador:** "laser" na caixa da manchete lia "mais laser", o nome da concorrente, então a caixa passou a ser "nos" em laranja. A legenda prometia que a avaliação define as sessões, contra o pacote fixo de 10, e "pernas" saiu.
+
+**Pendências:** envio à Cintia até sex 13/11, 15h · quem da equipe posa com o cartaz na fachada (senão, mockup de foto real) · RT.
+
+---
+
 ## 2026-11-10 (2) — Sexta 13/11 trocada: coxas no lugar da virilha
 
 PH: a promoção da virilha já foi anunciada no feed. A [peça da virilha](conteudo/posts/2026-11-13-virilha-total-quanto-sai-cada-sessao.md) ficou descartada, e a sexta passou pra [coxas no laser, de R$ 6.999 por R$ 1.104](conteudo/posts/2026-11-13-coxas-no-laser-de-6999-por-1104.md), único "de/por" liberado no §7. Validada (v1.1). As coxas também estão no Reels de 11/11 e no motion de anúncio, e a alternativa sem repetição é rosto ou glúteos completos.

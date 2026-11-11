@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-11 (2) — BodySkin: cartaz "Passamos laser nos preços" no formato da Mais Laser
+
+[Peça](../clients/bodyskin-araruama/conteudo/posts/2026-11-20-cartaz-passamos-laser-nos-precos.md) pra sex 20/11, validada v1.1. A referência é de concorrente de categoria: o formato veio de lá, o copy não, e "laser" saiu da caixa da manchete porque lia "mais laser".
+
+---
+
 ## 2026-11-11 — Araruama Tintas: lista da Black recebida (23 a 28/11)
 
 10 produtos com "de/por", condição à vista / retirando em loja, tabela em [PADROES §7](../clients/araruama-tintas/PADROES.md). Trava: o "Por" da Qualyvinil Econômica veio solto no fim da mensagem ([OQ #18](../clients/araruama-tintas/OPEN-QUESTIONS.md)).
