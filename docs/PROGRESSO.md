@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-12 — CIIL: roteiros "A médica explica" (psoríase e dermatite atópica)
+
+A dona da CIIL propôs vídeos com os médicos, gravados pela equipe de SG no celular. A 1ª gravação é sexta 13/11. [Roteiro](../clients/ciil/conteudo/roteiros/2026-11-12-medica-psoriase-e-dermatite-atopica.md) com 2 vídeos de ~38s e box "Como gravar", validado v1.1. Publicar depende do nome, CRM e RQE da médica e do OK do RT.
+
+---
+
 ## 2026-11-11 (6) — Celmapel: Esquenta Black (12 a 21/11), stories do dia 01
 
 [Referência](../clients/celmapel-festas/referencias/2026-11-11-esquenta-black-calendario-e-bloco-01.md) com o calendário e o bloco 01 em registro literal, e o mapa das 30 fotos por dia. [Stories do dia 01](../clients/celmapel-festas/conteudo/stories/2026-11-12-esquenta-black-dia-01.md): 5 telas, foto real, "de/por" e limite por CPF. Como o plano nov–dez não previa o Esquenta, a decisão sobre 13 a 20/11 ficou com o PH.

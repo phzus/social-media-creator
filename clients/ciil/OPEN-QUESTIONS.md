@@ -2,6 +2,14 @@
 
 Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes de fechar a 1ª estratégia mensal.
 
+## 🔴 Nova (2026-11-12) — vídeos com os médicos (gravação em SG, sexta 13/11)
+
+[Roteiros](conteudo/roteiros/2026-11-12-medica-psoriase-e-dermatite-atopica.md) · [pedido da dona](referencias/2026-11-12-pedido-videos-com-medicos.md)
+- 🔴 **Nome, especialidade, CRM e RQE da médica.** Vão na tela. A gravação não depende disso, mas a publicação depende.
+- 🔴 **Ela é dermatologista?** Os dois roteiros assumem que sim. Se não for, o tema é revisto antes de publicar.
+- 🟡 **Quais outros médicos vão gravar, e de que especialidade?** Define a sequência: dermato fala das 3 de pele, reumato das 4 articulares. Crohn, Retocolite e Asma seguem sem especialista na casa.
+- 🟡 **O formato vira linha fixa de quarta?** Recomendação: sim, um médico por quarta, fora da numeração da série.
+
 ## 🟡 Nova (2026-11-04) — calendário de datas das doenças
 
 [Calendário](estrategia/calendario-datas-doencas.md) · [pedido do cliente](referencias/2026-11-04-feedback-datas-das-doencas.md)

@@ -4,6 +4,16 @@ Log datado do trabalho feito pra CIIL. Topo = mais recente. Entrada por bloco de
 
 ---
 
+## 2026-11-12 — Roteiros "A médica explica": psoríase e dermatite atópica (gravação em SG, sexta 13/11)
+
+A dona propôs vídeos com os médicos, gravados no celular pela equipe de São Gonçalo e editados pela Lone ([pedido](referencias/2026-11-12-pedido-videos-com-medicos.md)). É o formato @imunovitta que PH queria desde julho, e a conta está sem Reels desde setembro. [Roteiro](conteudo/roteiros/2026-11-12-medica-psoriase-e-dermatite-atopica.md) com 2 vídeos de ~38s e 6 cenas cada, fora da série (sem selo nem numeração). Leva o box "Como gravar", porque quem grava é o cliente. PDF: `~/Downloads/Roteiros - Lone Midia x CIIL - A medica explica.pdf`.
+
+- **Ângulos novos:** psoríase abre no mito do contágio ("é se ela pega. Não pega."), e dermatite atópica abre em "anos achando que é só pele seca". Não repetem a roupa escura (14/09), as dobras (05/10) nem os gatilhos (09/10).
+- **Validador-copy (v1.1):** 5 bloqueantes corrigidos. As falas caíram de ~45-50s pra ~38s. "A pergunta que eu mais escuto" saiu, porque a médica é nova. "Que controla" voltou pra "pra controlar". A legenda deixou de sugerir que hidratante às vezes resolve. Saiu a lista de cuidados ainda sem OK do RT.
+- **Publicação sugerida:** quartas 18/11 e 25/11, depois do nome, CRM, RQE e autorização de imagem da médica, e do OK do RT ([OPEN-QUESTIONS 12/11](OPEN-QUESTIONS.md)).
+
+---
+
 ## 2026-11-10 — Novembro Azul pra sexta 13/11
 
 [Carrossel de 2 slides](conteudo/posts/2026-11-13-novembro-azul-5-sinais.md) a partir da referência da Estação Fitness que PH mandou. A lista de sinais da referência não batia com a do Ministério da Saúde e omitia que, na fase inicial, pode não haver sintoma: isso virou o gancho. Sem WhatsApp da CIIL, porque a clínica não atende próstata. Validado (v1.1). Passa pelo RT, com 4 perguntas na peça.
