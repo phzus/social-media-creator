@@ -6,7 +6,7 @@ Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes
 
 [Registro](referencias/2026-11-11-black-friday-condicoes-cliente.md) · [aquecimento de 13/11](conteudo/posts/2026-11-13-aquecimento-black-friday.md) · [PADROES §10](PADROES.md)
 
-1. 🔴 **Período da Black (início e fim).** Não trava o aquecimento, mas trava a peça de abertura. Mesma pergunta: vale nas duas unidades?
+1. 🔴 **Período da Black (início e fim).** Mesma pergunta: vale nas duas unidades? *(13/11: não trava mais a produção. A série conta até a sexta 27/11 e cada peça tem a versão "começou" pronta. Com a data, troca a manchete de 23/11 e a cena 1 do Reels de 25/11.)*
 2. 🟡 **O 12x sem juros tem desconto ou é sem desconto?** A peça trata como opção separada, sem desconto. Não precisa perguntar, a não ser que o cliente queira destacar.
 3. ✅ **"Sem juros" no 12x resolvido:** o cliente escreveu em 11/11 (antes era claim proibido, §7).
 

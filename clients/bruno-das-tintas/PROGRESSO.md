@@ -1,5 +1,21 @@
 # Progresso — Bruno das Tintas
 
+## 2026-11-13 — Black Friday: plano de 23 a 27/11 + abertura, Reels e sexta 27 · validado v1.1
+
+PH pediu a Black da Bruno. Não tinha material novo na Downloads, e o período continua sem resposta, então a série conta até a sexta 27/11 (a única data certa) e nenhuma peça afirma início ou fim. [Plano](estrategia/2026-11-black-friday.md):
+- 13/11 "VEM AÍ!" (já feito)
+- seg 23 ["FALTAM 4 DIAS PRA BLACK FRIDAY DA BRUNO DAS TINTAS!"](conteudo/posts/2026-11-23-black-friday-abertura.md)
+- qua 25 [Reels "uma condição pra cada jeito de pagar"](conteudo/roteiros/2026-11-25-black-friday-condicoes.md) (à vista 15%, até 6x com 10%, até 12x sem juros)
+- sex 27 ["HOJE É BLACK FRIDAY NA BRUNO DAS TINTAS!"](conteudo/posts/2026-11-27-hoje-e-black-friday.md)
+
+Cada peça tem a versão "começou" pronta, pra quando o cliente mandar a data. Seg 16 a sex 20 seguem a linha normal da conta (a escrever).
+
+**Validador:** 2 bloqueantes da v1. O "COMEÇOU!" na seg 23 inventava o início, e o Reels ligava Qualyvinil Emborrachada 6 em 1 e Maza Superflex ao desconto (abrangência não informada), além de repetir a maresia de 13/08. Abertura virou contagem e o Reels trocou de ângulo. Também saiu do plano o nome da concorrente.
+
+**Pendências:** período da Black e se vale nas duas lojas (OQ Black #1). Os produtos que entram no desconto só importam se quiserem citar produto.
+
+---
+
 ## 2026-11-11 — Black Friday: condições recebidas + aquecimento de sexta 13/11 · validado v1.1
 
 O cliente mandou: 15% à vista, ou 10% no crédito em até 6x, e "temos também até 12x sem juros" ([registro](referencias/2026-11-11-black-friday-condicoes-cliente.md), [PADROES §10](PADROES.md)). **Pela primeira vez, "12x sem juros" veio por escrito**, e §7 e §8 foram liberados. O período não veio.

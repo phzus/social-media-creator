@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-13 (2) — Bruno das Tintas: Black Friday (plano 23–27/11 + 3 peças)
+
+[Plano](../clients/bruno-das-tintas/estrategia/2026-11-black-friday.md) com contagem até a sexta 27/11, porque o período não veio: abertura seg 23 "FALTAM 4 DIAS!", Reels qua 25 com as três condições de pagamento e sexta 27 "HOJE É BLACK FRIDAY!". Validado v1.1 (2 bloqueantes da v1 resolvidos).
+
+---
+
 ## 2026-11-13 — Veneza: vídeo da fábrica "por que a Black tá tão barata" (v2 do Reel 1 da Gabriela)
 
 PH pediu o vídeo da fábrica centrado no porquê do preço (fabricação própria). [Roteiro](../clients/veneza-estofados/conteudo/roteiros/2026-11-roteiros-black-friday-da-veneza.md) reescrito, 5 cenas, validado. Sem data de fim na copy até o OQ #53 fechar.
