@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-13 (3) — Mestre da Obra: 3 roteiros de vídeo
+
+[Roteiros](../clients/mestre-da-obra-araruama/conteudo/roteiros/2026-11-13-roteiros-mestre-da-obra.md) no molde institucional falado: apresentação da loja, casa de praia (limpeza) e andaime × escada (regravação como teste de formato). Validado v1.1.
+
+---
+
 ## 2026-11-13 (2) — Bruno das Tintas: Black Friday (plano 23–27/11 + 3 peças)
 
 [Plano](../clients/bruno-das-tintas/estrategia/2026-11-black-friday.md) com contagem até a sexta 27/11, porque o período não veio: abertura seg 23 "FALTAM 4 DIAS!", Reels qua 25 com as três condições de pagamento e sexta 27 "HOJE É BLACK FRIDAY!". Validado v1.1 (2 bloqueantes da v1 resolvidos).

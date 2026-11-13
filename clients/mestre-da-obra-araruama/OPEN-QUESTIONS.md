@@ -20,3 +20,4 @@ Log completo. As prioritárias estão na [PAUTA](reuniao-mensal/PAUTA.md). O doc
 | 14 | Pode citar a marca do equipamento (Bosch, Karcher, Menegotti, Branco)? A franqueadora tem regra? | 2026-11-05 | 🟡 aberta |
 | 15 | **(Interna, Lone)** Por que os números de 6 Reels no benchmark (63,5 mil, 47,3 mil etc.) são maiores que os da coleta sem login (19,7 mil, 22,5 mil etc.)? Conferir com uma conta logada | 2026-11-05 | 🟡 aberta |
 | 16 | Os 35 comentários do Reel de 08/05 são de clientes ou conhecidos? | 2026-11-05 | 🟢 baixa |
+| 17 | A loja monta o andaime na obra ou dimensiona pela altura da parede? Orienta o uso na retirada (texto da rede)? Destrava o Vídeo 3 falar disso | 2026-11-13 | 🟡 aberta |
