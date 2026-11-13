@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-13 (4) — Mestre da Obra: reunião de 06/11 registrada
+
+[Resumo](../clients/mestre-da-obra-araruama/reuniao-mensal/resumos/2026-11-06-resumo-reuniao.md): carro-chefe betoneira, andaime e compactador. Sem gancho em pergunta e sem preço. A Ingrid grava.
+
+---
+
 ## 2026-11-13 (3) — Mestre da Obra: 3 roteiros de vídeo
 
 [Roteiros](../clients/mestre-da-obra-araruama/conteudo/roteiros/2026-11-13-roteiros-mestre-da-obra.md) no molde institucional falado: apresentação da loja, casa de praia (limpeza) e andaime × escada (regravação como teste de formato). Validado v1.1.

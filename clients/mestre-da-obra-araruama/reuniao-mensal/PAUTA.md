@@ -3,7 +3,7 @@
 > Documento vivo e **curado** — é o que PH abre minutos antes da reunião de alinhamento.
 > O log completo continua em [OPEN-QUESTIONS.md](../OPEN-QUESTIONS.md); aqui entra só o que vale ocupar o tempo da reunião.
 
-**Última atualização:** 2026-11-05 · **Próxima reunião:** ❓ a marcar · **Última reunião:** —
+**Última atualização:** 2026-11-13 · **Próxima reunião:** ❓ a marcar · **Última reunião:** 06/11/2026 ([resumo](resumos/2026-11-06-resumo-reuniao.md))
 
 ---
 
@@ -13,12 +13,12 @@
 |---|---|---|
 | 1 | Vocês rodaram anúncio ou impulsionamento nos vídeos até setembro? Quem fazia e por que parou? | Reels de 199 mil views têm 29 curtidas. Sem essa resposta, ninguém sabe qual vídeo foi bom de verdade. |
 | 2 | Podem liberar acesso ao Meta Business Suite, ao Gerenciador e ao Perfil no Google? | Sem isso não dá pra separar pago de orgânico nem ver busca e ligação. |
-| 3 | Quais equipamentos mais saem e quais vocês querem alugar mais? | Define as primeiras peças e o anúncio. Hoje não temos esse dado. |
-| 4 | Vocês têm escora, roçadeira, soprador, aspirador e furadeira? | Estão citados em posts ou no site, mas fora do catálogo local. Não dá pra anunciar sem saber. |
-| 5 | Quem da loja pode gravar? As pessoas dos vídeos até julho seguem aí? | Os vídeos com gente da loja tiveram mais curtida e comentário. É a base do próximo teste. |
-| 6 | Vão fazer Black Week? Tem campanha da rede? Que condição dá pra anunciar? | 27/11 está perto. A Mestre Resende fez em 2025, com até 20%. |
+| 3 | ✅ ~~Quais equipamentos mais saem?~~ Betoneira, andaime e compactador (06/11). | Define as primeiras peças e o anúncio. Hoje não temos esse dado. |
+| 4 | 🟡 Escora e máquina de solda: tem (06/11). Roçadeira, soprador, aspirador e furadeira: vem na planilha da atendente. | Estão citados em posts ou no site, mas fora do catálogo local. Não dá pra anunciar sem saber. |
+| 5 | ✅ ~~Quem grava?~~ A Ingrid aparece e o marido grava (06/11). | Os vídeos com gente da loja tiveram mais curtida e comentário. É a base do próximo teste. |
+| 6 | 🟡 Black Week: a Ingrid vai ver com o marido (fim de semana ou locação casada). Cobrar no grupo. | 27/11 está perto. A Mestre Resende fez em 2025, com até 20%. |
 | 7 | Quais meses têm mais e menos procura? Dezembro cai? Limpeza e casa de praia pesam? | Decide se o foco de dezembro é obra ou limpeza. |
-| 8 | Como vocês sabem hoje de onde vem o orçamento? Topam perguntar "como nos achou"? | É a única métrica que liga post a locação. |
+| 8 | 🟡 Origem: misturada (base antiga, passagem, Google). Planilha da atendente a caminho. | É a única métrica que liga post a locação. |
 
 ## 2. 💡 Insights e oportunidades que a Lone observou
 
@@ -51,7 +51,7 @@ Sem dado de resultado. Linha de base pública de 05/11: 262 views, 7,5 curtidas 
 
 | Data | Resumo |
 |---|---|
-| — | Nenhuma reunião registrada. |
+| 06/11/2026 | Onboarding com a Ingrid: carro-chefe, gancho sem pergunta, sem preço, "cobrimos orçamento" local, Ingrid grava. [Resumo](resumos/2026-11-06-resumo-reuniao.md) |
 
 ---
 

@@ -44,6 +44,17 @@ Os canais divergem (206 ou mais de 400 lojas; 27 ou mais de 30 anos). Não usar 
 
 Já foram ao ar: escada × andaime (29/10), lixar na mão (09/10, 23/10), alisadora (07/09), escora (10/08), comprar × alugar (21/10), dúvidas de locação (16/10), 20% na Semana do Cliente (19/09). Voltar ao tema só com formato diferente e dizendo o que está sendo testado.
 
+## 8. Decisões da reunião de 06/11 (Ingrid)
+
+- 🚫 **Gancho em pergunta**, no vídeo e no post. Ela reclamou disso na equipe anterior. Abrir com afirmação, cena ou a máquina funcionando. Isso vale aqui acima do molde "Você de [cidade] tá…?" da casa.
+- 🚫 **Preço**, por decisão do cliente (preço publicado entrega o orçamento pra concorrência). Lacuna vira "orçamento no WhatsApp".
+- **"Cobrimos orçamento"** liberado, sempre com a condição: concorrente local e orçamento real. Na arte, em aviso pequeno.
+- **Locação de fim de semana:** sexta → segunda, paga uma diária e fica três dias. Já praticam. Na peça, "consulte no WhatsApp" (não disseram se vale pra todo equipamento).
+- **Escora e máquina de solda existem** (reunião). A §1 deixa de valer pra esses dois.
+- **Vídeo bom pra ela:** máquina funcionando na frente da loja, rápido, como funciona e o que precisa (ref.: compactador).
+- **Quem grava é o cliente** (marido grava a Ingrid). Roteiro leva o box "Como gravar".
+
 ## Histórico
 
+- **2026-11-13 v1.1:** §8 com as decisões da reunião de 06/11.
 - **2026-11-05 v1.0:** criado a partir da conferência do benchmark.

@@ -1,5 +1,16 @@
 # Progresso — Mestre da Obra Araruama
 
+## 2026-11-13 (2) — Reunião de onboarding de 06/11 registrada
+
+PH passou a transcrição (Carlos × Ingrid, 06/11). [Resumo](reuniao-mensal/resumos/2026-11-06-resumo-reuniao.md):
+- Carro-chefe: betoneira, andaime e compactador.
+- Sem gancho em pergunta e sem preço.
+- "Cobrimos orçamento" de concorrente local.
+- Locação de fim de semana (sexta → segunda).
+- A Ingrid aparece e o marido grava.
+
+Propagado pra PAUTA, OPEN-QUESTIONS (#2, #4, #7, #8, #10 e #14 atualizadas, #18–20 novas), context e PADROES §8. **Os 3 roteiros de hoje ficaram com gancho em pergunta e precisam ser refeitos.**
+
 ## 2026-11-13 — 3 roteiros de vídeo (institucional falado) · validado v1.1
 
 PH pediu 3 roteiros. [Arquivo](conteudo/roteiros/2026-11-13-roteiros-mestre-da-obra.md), com alguém da loja falando:

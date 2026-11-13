@@ -1,6 +1,6 @@
 # Contexto — Mestre da Obra Araruama
 
-**Atualizado:** 2026-11-05. **Situação:** pré-reunião, nada validado pelo cliente. Fatos em [BRIEFING.md](BRIEFING.md). Provas e correções na [conferência](referencias/2026-11-05-conferencia-benchmark-e-metricas.md).
+**Atualizado:** 2026-11-13. **Situação:** onboarding feito com a Ingrid em 06/11 ([resumo](reuniao-mensal/resumos/2026-11-06-resumo-reuniao.md)). O que veio da reunião é confirmado, e o resto continua hipótese. Fatos em [BRIEFING.md](BRIEFING.md). Provas e correções na [conferência](referencias/2026-11-05-conferencia-benchmark-e-metricas.md).
 
 ## Identidade
 
@@ -18,11 +18,21 @@ Unidade franqueada de locação de equipamentos em Araruama. Slogan da rede: "Al
 
 Qual deles dá mais faturamento: não sabemos.
 
+## Quem é o cliente
+
+Ingrid Narciso, sócia com o marido (Leonardo), que também é dona da GK Pneus. A Ingrid aparece nos vídeos e o marido grava. Aprova pelo grupo de marketing.
+
+## Carro-chefe (06/11)
+
+Betoneira, andaime e compactador ("sapinho"). Também tem escora e máquina de solda. A alisadora ("bailarina") nunca foi alugada.
+
 ## Voz
 
 Direta, prática e próxima, de especialista local. Começa pela situação da obra, termina com uma ação só.
 
-**Evitar:** introdução institucional, número de rede, jargão sem tradução, afirmação absoluta, risco banalizado.
+**Pedido da Ingrid (06/11):** vídeo direto, **sem gancho em pergunta**, mistura de explicar e vender, mostrando o que a loja tem. Muito educativo não. Diferencial: **"cobrimos orçamento"** de concorrente local (orçamento real).
+
+**Evitar:** gancho em pergunta, introdução institucional, número de rede, jargão sem tradução, afirmação absoluta, risco banalizado.
 
 ## Pilares (hipótese, pesos ainda sem validar)
 

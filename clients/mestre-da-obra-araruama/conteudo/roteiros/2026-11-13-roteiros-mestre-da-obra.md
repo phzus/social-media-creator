@@ -110,6 +110,10 @@ Os três começam diferente: o 1 pela cidade, o 2 pela Região dos Lagos e o 3 p
 - **Bloqueante (Vídeo 3, aplicado):** "montado do tamanho da sua parede" e "manda a altura" prometiam montagem e dimensionamento sem confirmação (PADROES §1). Saíram.
 - **Ajustes aplicados:** "a gente diz qual equipamento serve" virou "te mostra as opções"; martelete "pra furar e quebrar"; legenda do 2 sem "desde o verão passado" e sem "deixar tudo limpo"; "só pela diária" virou "por um dia só"; "sempre longe" virou "longe"; endereço igual nos três; cena 3 do Vídeo 2 e CTA do Vídeo 3 com molde diferente; nota do teste reescrita como indício.
 
+## ⚠️ Conflito com a reunião de 06/11 (lida depois de escrever)
+
+Os três ganchos são pergunta, e a Ingrid pediu vídeo sem gancho em pergunta (PADROES §8). Quem grava é ela com o marido, então o PDF precisa do box "Como gravar". **Refazer os ganchos antes de mandar.**
+
 ## Pendências
 
 - Quem aparece e grava ([OQ #4](../../OPEN-QUESTIONS.md)).
