@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-13 — Veneza: vídeo da fábrica "por que a Black tá tão barata" (v2 do Reel 1 da Gabriela)
+
+PH pediu o vídeo da fábrica centrado no porquê do preço (fabricação própria). [Roteiro](../clients/veneza-estofados/conteudo/roteiros/2026-11-roteiros-black-friday-da-veneza.md) reescrito, 5 cenas, validado. Sem data de fim na copy até o OQ #53 fechar.
+
+---
+
 ## 2026-11-12 — CIIL: roteiros "A médica explica" (psoríase e dermatite atópica)
 
 A dona da CIIL propôs vídeos com os médicos, gravados pela equipe de SG no celular. A 1ª gravação é sexta 13/11. [Roteiro](../clients/ciil/conteudo/roteiros/2026-11-12-medica-psoriase-e-dermatite-atopica.md) com 2 vídeos de ~38s e box "Como gravar", validado v1.1. Publicar depende do nome, CRM e RQE da médica e do OK do RT.

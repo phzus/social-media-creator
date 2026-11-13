@@ -5,6 +5,16 @@ Log datado do trabalho feito pra Veneza Estofados. Topo = mais recente. Entrada 
 ---
 
 
+## 2026-11-13 — Vídeo da fábrica (Gabriela): "por que a Black da Veneza tá tão barata" · validado v2
+
+PH: o vídeo na fábrica mostra por que a Black é tão barata, porque a Veneza fabrica. O [Vídeo 1](conteudo/roteiros/2026-11-roteiros-black-friday-da-veneza.md) foi reescrito com o porquê como fio: Gabriela sai do baú, preço do Grécia (de 2.000 por 1.799,99 à vista), "a Veneza não compra pra revender, fabrica aqui", "ninguém no meio cobrando a parte dele", CTA de loja. 5 cenas, ~35-40s, feed qua 18/11.
+
+**Validador:** "vai até 29/11" saiu (OQ #53 aberto e a loja fecha domingo), cenas que repetiam a ideia foram juntadas, 12x em linha própria na legenda.
+
+**Pendências:** OQ #53 (fim da Black) e OQ #55 (Grécia exposto em Araruama). Gravação até seg 16/11.
+
+---
+
 ## 2026-11-11 — Avulso: Sofá Baú Grécia na Black (de R$ 2.000,00 por R$ 1.799,99) · validado v1.1
 
 PH pediu "um produto pra divulgar já". A primeira versão foi com o Master, mas ele já tinha sido divulgado (PH), e foi descartada. [Peça](conteudo/posts/2026-11-11-black-sofa-bau-grecia.md): "SOFÁ BAÚ DE 2 METROS NA BLACK DA VENEZA!", com "de/por" colado no à vista e CTA sem número na arte (o número fica na assinatura). A qui 19 (Grécia, opcional) fica livre, e o Antonella continua na seg 16.

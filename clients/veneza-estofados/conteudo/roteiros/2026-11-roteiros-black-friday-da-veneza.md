@@ -6,7 +6,7 @@
 
 | # | Vídeo | Quem fala | Onde | Perfil | Feed |
 |---|---|---|---|---|---|
-| 1 | Sofá Baú Grécia: "eu tava aqui dentro" | Gabriela | Fábrica de Araruama | @venezaestofados_araruama + tráfego | qua 18/11 |
+| 1 | Sofá Baú Grécia: por que a Black tá tão barata (v2, 13/11) | Gabriela | Fábrica de Araruama | @venezaestofados_araruama + tráfego | qua 18/11 |
 | 2 | Cama box completa pra quem vai receber a família | Gabriela | Loja de Araruama | @venezaestofados_araruama + tráfego | qua 25/11 |
 | 3 | Stories do último Sábado Black | Gabriela | Loja de Araruama | stories Araruama | sáb 28/11 |
 | 4 | Sofá Antonella | Vitor (ou quem a Veneza escolher) | Loja de Nova Iguaçu | @venezaestofados + tráfego | quando chegar |
@@ -17,36 +17,41 @@
 
 ---
 
-## Vídeo 1 — Sofá Baú Grécia 2,00 m: "eu tava aqui dentro"
+## Vídeo 1 — Sofá Baú Grécia 2,00 m: por que a Black da Veneza tá tão barata (v2, 13/11)
 
-**Duração:** ~40-45s · 6 cenas · **na fábrica de Araruama**
-**Ação do gancho (combinada na reunião):** a Gabriela sai de dentro do baú do sofá. É ela que prova o tamanho do baú, sem precisar de número.
+**Duração:** ~35-40s · 5 cenas · **na fábrica de Araruama**
+**Pedido do PH (13/11):** o vídeo da fábrica mostra por que a Black é tão barata: porque a Veneza fabrica. Na v1 o porquê ocupava 2 das 6 cenas e o Grécia era o assunto. Agora o porquê é o fio do vídeo e o Grécia é a prova com preço.
+**Ação do gancho (combinada na reunião):** a Gabriela sai de dentro do baú do sofá.
 
 | Cena | Fala |
 |---|---|
-| 1 | *(Gabriela sai de dentro do baú)* Gente de Araruama, eu tava aqui dentro desse sofá. |
-| 2 | Esse é o sofá baú Grécia, de 2 metros. Se coube eu, cabe a roupa de cama que não cabe mais no armário. |
-| 3 | Na Black Friday da Veneza, ele tá de R$ 2.000 por R$ 1.799,99 à vista. |
-| 4 | E se você acha que sofá com esse preço deve ser ruim, olha onde eu tô: na fábrica da Veneza, onde ele é feito. |
-| 5 | E o melhor: ele sai daqui direto pra loja, sem atravessador. É por isso que o preço da Black é esse. |
-| 6 | Vem conhecer a loja da Veneza, no KM 90 da Amaral Peixoto, em Bananeiras. |
+| 1 | *(Gabriela sai de dentro do baú)* Gente de Araruama, eu tava aqui dentro desse sofá e saí pra mostrar por que a Black da Veneza tá tão barata. |
+| 2 | Esse é o sofá baú Grécia, de 2 metros, e na Black ele tá de R$ 2.000 por R$ 1.799,99 à vista. |
+| 3 | E a resposta tá aqui em volta: a Veneza não compra sofá de ninguém pra revender, ela fabrica aqui mesmo. |
+| 4 | Daqui ele vai direto pra loja, sem ninguém no meio cobrando a parte dele. É por isso que ele tá barato assim, e não porque é ruim. |
+| 5 | Vem conhecer a loja da Veneza no KM 90 da Amaral Peixoto, em Bananeiras, enquanto a Black Friday tá rolando. |
 
-*Se o Mateus confirmar o Grécia em exposição em Araruama (OQ #55), a cena 6 vira "Vem abrir esse baú você mesmo na loja da Veneza, no KM 90 da Amaral Peixoto".*
+*Se o Mateus confirmar o Grécia em exposição em Araruama (OQ #55), a cena 5 vira "Vem abrir esse baú você mesmo na loja da Veneza, no KM 90 da Amaral Peixoto". Se confirmar que a Black vai até 29/11 (OQ #53), dá pra trocar "enquanto a Black Friday tá rolando" pela data, mas sem convidar pra loja no domingo.*
 
-**Texto na tela (edição):** "Sofá Baú Grécia 2,00 m" · ~~De R$ 2.000,00~~ por **R$ 1.799,99 à vista** · 12x de R$ 171,75 · tarja BLACK FRIDAY DA VENEZA.
+**Texto na tela (edição):** "Sofá Baú Grécia 2,00 m" · ~~De R$ 2.000,00~~ por **R$ 1.799,99 à vista** · 12x de R$ 171,75 · tarja BLACK FRIDAY DA VENEZA · nas cenas 3–4: "FEITO NA FÁBRICA DA VENEZA".
 
 **Legenda:**
-> Coube a Gabriela, cabe a roupa de cama que não cabe mais no armário.
+> Por que a Black Friday da Veneza tá tão barata? A Gabriela saiu de dentro do sofá pra mostrar.
 >
-> O sofá baú Grécia, de 2 metros, é feito na fábrica da Veneza, e na Black Friday da Veneza ele tá de R$ 2.000,00 por R$ 1.799,99 à vista ou 12x de R$ 171,75.
+> A Veneza fabrica os sofás que vende. O sofá baú Grécia, de 2 metros, sai da fábrica direto pra loja, sem ninguém no meio cobrando a parte dele, e por isso na Black ele tá de R$ 2.000,00 por R$ 1.799,99 à vista.
 >
-> Vem conhecer a loja: Rod. Amaral Peixoto, KM 90, Bananeiras.
+> No cartão: 12x de R$ 171,75.
+>
+> Vem conhecer a loja enquanto a Black tá rolando: Rod. Amaral Peixoto, KM 90, nº 3, Bananeiras, Araruama.
 
 **Notas:**
 - Segurança: o assento não fecha com ninguém dentro.
-- O 12x fica fora da fala: ele soma R$ 2.061,00, mais que o "de", e só aparece na tela e na legenda, embaixo do à vista.
-- 🚫 Não falar de prazo, entrega nem garantia. Também não dar número de capacidade ou peso do baú: quem mostra o tamanho é a Gabriela.
+- O 12x fica fora da fala: ele soma R$ 2.061,00, mais que o "de", e só aparece na tela e na legenda, em linha própria embaixo do à vista.
+- O argumento é a causa do preço (fábrica, ninguém no meio). 🚫 "O preço é esse o ano todo" ou "o preço não muda": mata a Black.
+- 🚫 Data de fim da Black na fala e na legenda até fechar o OQ #53 (a loja fecha no domingo 29).
+- 🚫 Não falar de prazo, entrega nem garantia. Também não dar número de capacidade ou peso do baú.
 - Sem D28, eucalipto e etapas de produção: a ficha do Grécia não está registrada.
+- **Validador-copy (13/11):** 1 bloqueante (data 29/11 com o OQ #53 aberto, retirada) e 4 ajustes aplicados: gancho que leva à resposta, cenas 4 e 5 da primeira versão juntas (repetiam a mesma ideia), 12x em linha própria e endereço completo na legenda.
 
 ---
 
@@ -136,6 +141,11 @@
 - [x] Fábrica só em sofá, box, base baú e cabeceira. Colchão separado.
 - [x] Um preço falado por vídeo nos Reels, e sem 12x falado nos sofás.
 - [x] Nenhuma fala sobre prazo, entrega, garantia ou troca.
-- [x] O "E o melhor" quebra uma objeção diferente em cada vídeo: o porquê do preço baixo, a cama inteira de uma vez e a loja ao lado da fábrica.
+- [x] Cada vídeo quebra uma objeção diferente: o porquê do preço baixo (Vídeo 1, o fio inteiro desde a v2), a cama inteira de uma vez e a loja ao lado da fábrica.
 - [x] Validador-copy rodado em 10/11: 3 bloqueantes (produto em exposição sem registro, duração, 12x colado no "de") e 8 ajustes, todos aplicados.
 - [ ] Produtos em exposição em Araruama (OQ #55) e canal de Nova Iguaçu (OQ #44) antes de gravar.
+
+## Histórico
+
+- **2026-11-13 v2 do Vídeo 1:** PH pediu o vídeo da fábrica centrado em "por que a Black é tão barata: porque fabricam". O porquê virou o fio (5 cenas), o Grécia ficou como prova com preço. Validado.
+- **2026-11-10 v1.1:** roteiros dos 4 vídeos, validados.
