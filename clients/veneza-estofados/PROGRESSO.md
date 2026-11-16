@@ -5,6 +5,19 @@ Log datado do trabalho feito pra Veneza Estofados. Topo = mais recente. Entrada 
 ---
 
 
+## 2026-11-16 — Seg 16/11: Sofá Antonella 2,30 m na Black · copy validada v1.1, 🔴 falta a foto
+
+PH pediu "produto pra Veneza". O plano da Black já marcava o Antonella pra seg 16. A [peça](conteudo/posts/2026-11-16-black-sofa-antonella-2-30.md) segue o template da arte real do Grécia (`~/Downloads/Black Friday do Sofá Borgonha.png`): "SOFÁ DE 2,30 METROS NA BLACK DA VENEZA!", com o apoio "É o maior sofá da Black, pra sala que pede sofá grande." e "de R$ 2.100,00 por R$ 1.899,99 à vista, ou 12x de R$ 181,29".
+
+- **Validador:**
+  - Saiu a cena "família sem cadeira da cozinha", porque prometia lugares.
+  - "O maior sofá da Veneza" virou "o maior sofá da Black", porque o catálogo tem o Thaisa de 2,90 m.
+  - A legenda de Nova Iguaçu ficou sem número (OQ #44).
+- 🔴 **A peça não sai sem a foto do Antonella** (OQ #54). Ele não está no site, então não existe fallback.
+- 🟡 **Rodapé com as duas unidades** (como na arte do Grécia) × §15 "nada de cidade na arte". PH decide se isso vira padrão da Black.
+
+---
+
 ## 2026-11-13 — Vídeo da fábrica (Gabriela): "por que a Black da Veneza tá tão barata" · validado v2
 
 PH: o vídeo na fábrica mostra por que a Black é tão barata, porque a Veneza fabrica. O [Vídeo 1](conteudo/roteiros/2026-11-roteiros-black-friday-da-veneza.md) foi reescrito com o porquê como fio: Gabriela sai do baú, preço do Grécia (de 2.000 por 1.799,99 à vista), "a Veneza não compra pra revender, fabrica aqui", "ninguém no meio cobrando a parte dele", CTA de loja. 5 cenas, ~35-40s, feed qua 18/11.

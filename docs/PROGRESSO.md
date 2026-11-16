@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-16 (4) — Veneza: Sofá Antonella 2,30 m (seg 16/11)
+
+A [peça do plano da Black](../clients/veneza-estofados/conteudo/posts/2026-11-16-black-sofa-antonella-2-30.md) segue o template da arte do Grécia. A copy está validada (v1.1), mas a peça ainda espera a foto do produto (OQ #54).
+
+---
+
 ## 2026-11-16 (3) — Maicom: campanha do Super Feirão de Ponta de Estoque (sáb 28/11)
 
 O cliente mandou áudio com "pisos a partir de R$ 1,00" e chope, refrigerante e churrasco liberados. [Plano](../clients/maicom-minerais-unamar/estrategia/2026-11-feirao-ponta-de-estoque.md) de qua 18 a sáb 28/11, com [motion flyer](../clients/maicom-minerais-unamar/conteudo/roteiros/2026-11-18-motion-flyer-feirao-28-11.md) e direção Remotion, mais o [post fixado](../clients/maicom-minerais-unamar/conteudo/posts/2026-11-20-feirao-28-11-anuncio.md). Validado v1.1.
