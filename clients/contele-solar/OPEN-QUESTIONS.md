@@ -4,6 +4,12 @@ Pendências a resolver com PH / com o cliente. Diferente dos outros onboardings,
 
 > ⚠️ **Escalado em 2026-08-10, confirmado em 2026-08-12:** contando o post de sexta 14/08 (produzido), são 4 peças seguidas (03/08, 07/08, 12/08, 14/08) rodando fora do Pilar 2 e do Pilar 3 pelos itens 1 e 1b abaixo. O grid não tem variação de fundo Ink (Pilar 2) nem foto real (Pilar 3) ainda. Vale priorizar a resposta desses dois itens com o cliente antes do feed ficar repetitivo.
 
+## 🔴 2026-11-16 — Indique e Ganhe ([peça](conteudo/posts/2026-11-16-indique-e-ganhe-vizinho-da-conta-alta.md))
+
+1. 🔴 **O que ganha quem indica, e quando** (na indicação ou quando o indicado fecha). Sem isso, sai a versão C (sem "ganhe"). Pergunta pronta no arquivo da peça.
+2. 🟡 **Quem pode indicar** (só cliente ou qualquer pessoa), **o indicado ganha algo** e **até quando vale**.
+3. 🟡 **Quem atende a indicação no WhatsApp.** Indicação sem resposta queima quem indicou.
+
 ## 🔴 2026-11-04 — Campanha de novembro: verão agora, Black só com oferta
 
 [Reunião de 04/11](reuniao-mensal/resumos/2026-11-04-resumo-reuniao.md) · [plano](estrategia/2026-11-black-friday.md) · perguntas na [PAUTA §1](reuniao-mensal/PAUTA.md). A Contele não planejou Black, e o combo não fechou por causa do aumento no preço dos kits. Cristiane vai fechar com o Vinicius, sem prazo registrado.

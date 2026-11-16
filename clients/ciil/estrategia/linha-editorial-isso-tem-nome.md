@@ -78,7 +78,7 @@ O problema que o cliente apontou não se resolve escrevendo melhor. Resolve-se c
 | 04 | Seg 28/09 | **Lúpus** | Reumatologia | ✅ no ar |
 | 05 | Seg 05/10 | **Dermatite Atópica** | Dermatologia | ✅ no ar |
 | — | Seg 12/10 | *(feriado, Dia das Crianças: peça de data não foi ao ar, e a Espondilite também não)* | — | buraco, sem número |
-| 06 | Seg 19/10 | **Retocolite Ulcerativa** | Gastro ⚠️ não nomear especialista | ✅ [escrita](../conteudo/posts/2026-10-19-isso-tem-nome-07-retocolite-ulcerativa.md), selo `06 de 10` |
+| 06 | Seg 19/10 | **Retocolite Ulcerativa** | Gastro ⚠️ não nomear especialista | ✅ [escrita](../conteudo/posts/2026-10-19-isso-tem-nome-06-retocolite-ulcerativa.md), selo `06 de 10` |
 | 07 | Seg 26/10 | **Hidradenite Supurativa** | Dermatologia | ✅ [escrita em 22/10](../conteudo/posts/2026-10-26-isso-tem-nome-07-hidradenite-supurativa.md), retida pelo RT. Primeira da série com CTA na arte |
 | 08 | Seg 02/11 *(Finados, feriado: PH decide se sai ou pula pra 09/11)* | **Espondilite Anquilosante** (proposta) | Reumatologia | 🟡 não depende da PAUTA #4. A [peça de venda de 23/10](../conteudo/posts/2026-10-23-espondilite-piora-parada-melhora-mexendo.md) queimou colchão, madrugada e "piora parada": o gancho da série precisa de outro eixo |
 | 09 | Seg 09/11 | **Doença de Crohn** (proposta) | Gastro ⚠️ não nomear especialista | 🔴 depende da [PAUTA #4](../reuniao-mensal/PAUTA.md) (avaliação sem gastro). Não repetir o banheiro da 06; o Reel de 08/07 tem outro caminho |

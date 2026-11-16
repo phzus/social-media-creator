@@ -4,6 +4,28 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-16 — Lote de segunda 16/11: 12 peças em 11 clientes, com a lente Hormozi
+
+PH pediu o lote com o [framework Hormozi](../core/frameworks/hormozi-offer.md) e o @claudinho. Cada peça tem um campo "Lente Hormozi" que diz qual variável da Equação de Valor ela move. Garantia, stack e escassez só entram se forem reais, então nenhuma peça usou. Todas passaram pelo validador-copy e estão em v1.1.
+
+| Cliente | Peça | Status |
+|---|---|---|
+| CIIL | [Isso Tem Nome 08 · Espondilite](../clients/ciil/conteudo/posts/2026-11-16-isso-tem-nome-08-espondilite-anquilosante.md) | 🔴 gate do RT |
+| Contele | [Indique e ganhe](../clients/contele-solar/conteudo/posts/2026-11-16-indique-e-ganhe-vizinho-da-conta-alta.md) | A precisa do ganho; sem ele, sai a C (sem "ganhe") |
+| Bruno das Tintas | [É oficial](../clients/bruno-das-tintas/conteudo/posts/2026-11-16-black-friday-e-oficial.md) · [R$ 15 a cada R$ 100](../clients/bruno-das-tintas/conteudo/posts/2026-11-16-black-friday-15-reais-a-cada-100.md) | ok; sem data (período não veio) |
+| Atlas | [Pix agendado pra mãe](../clients/atlas-corretora/conteudo/posts/2026-11-16-pix-agendado-pra-mae.md) | ok, sem sócio até o corretor confirmar |
+| BodySkin | [Pele morena e depilação a laser no rosto](../clients/bodyskin-araruama/conteudo/posts/2026-11-16-pele-morena-pode-fazer-laser-no-rosto.md) | 🔴 Cintia + RT |
+| WT | [Remédio de enjoo](../clients/wt-shopping/conteudo/posts/2026-11-16-remedio-de-enjoo-de-gente-nao-e-pro-pet.md) | já existia; tema pet no mesmo dia da VR, PH decide |
+| VR | [Mito: não aparece no cocô](../clients/veterinaria-regional/conteudo/posts/2026-11-16-mito-se-nao-aparece-no-coco-nao-tem-verme.md) | ok |
+| MR | [Padrão aprovado no 3D](../clients/mr-distribuidora-mdf/conteudo/posts/2026-11-16-padrao-aprovado-no-3d.md) | ok, CTA provisório |
+| Max | [Nota do Simples e crédito do cliente](../clients/max-contabilidade/conteudo/posts/2026-11-16-sua-nota-do-simples-e-o-credito-do-seu-cliente.md) | 🔴 escritório confirma a regra |
+| Império | [Saco de cimento no chão](../clients/imperio-material-de-construcao/conteudo/posts/2026-11-16-saco-de-cimento-no-chao-empedra.md) | ok |
+| Mestre da Obra | [Dia da laje não tem segunda chance](../clients/mestre-da-obra-araruama/conteudo/posts/2026-11-16-dia-da-laje-nao-tem-segunda-chance.md) | ok; "revisada" depende da loja |
+
+O validador barrou o "TÁ CONFIRMADO, É SEXTA 27" da Bruno, porque o período não foi confirmado, e o "quem indica também ganha" da Contele, porque o ganho não existe ainda. O arquivo da Retocolite da CIIL estava nomeado como 07 e virou 06.
+
+---
+
 ## 2026-11-13 (4) — Mestre da Obra: reunião de 06/11 registrada
 
 [Resumo](../clients/mestre-da-obra-araruama/reuniao-mensal/resumos/2026-11-06-resumo-reuniao.md): carro-chefe betoneira, andaime e compactador. Sem gancho em pergunta e sem preço. A Ingrid grava.

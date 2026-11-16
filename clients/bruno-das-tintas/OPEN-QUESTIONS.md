@@ -6,7 +6,8 @@ Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes
 
 [Registro](referencias/2026-11-11-black-friday-condicoes-cliente.md) · [aquecimento de 13/11](conteudo/posts/2026-11-13-aquecimento-black-friday.md) · [PADROES §10](PADROES.md)
 
-1. 🔴 **Período da Black (início e fim).** Mesma pergunta: vale nas duas unidades? *(13/11: não trava mais a produção. A série conta até a sexta 27/11 e cada peça tem a versão "começou" pronta. Com a data, troca a manchete de 23/11 e a cena 1 do Reels de 25/11.)*
+1. 🔴 **Período da Black (início e fim).** Mesma pergunta: vale nas duas unidades? *(13/11: não trava mais a produção. A série conta até a sexta 27/11 e cada peça tem a versão "começou" pronta. Com a data, troca a manchete de 23/11 e a cena 1 do Reels de 25/11.)* *(16/11: o anúncio "É OFICIAL!" saiu sem data. ⚠️ A contagem "FALTAM 4 DIAS" de 23/11 depende deste período: sem resposta até o brief de sex 20/11, PH decide entre a contagem e uma peça sem data.)*
+1b. 🟡 **(16/11) Duas peças de feed no mesmo dia** ([data](conteudo/posts/2026-11-16-black-friday-e-oficial.md) e [condições](conteudo/posts/2026-11-16-black-friday-15-reais-a-cada-100.md)). PH decide horário e se a de condições fica fixada até o fim da Black.
 2. 🟡 **O 12x sem juros tem desconto ou é sem desconto?** A peça trata como opção separada, sem desconto. Não precisa perguntar, a não ser que o cliente queira destacar.
 3. ✅ **"Sem juros" no 12x resolvido:** o cliente escreveu em 11/11 (antes era claim proibido, §7).
 

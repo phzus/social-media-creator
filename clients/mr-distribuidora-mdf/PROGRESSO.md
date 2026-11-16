@@ -4,6 +4,17 @@ Log datado do trabalho feito pra MR Distribuidora. Topo = mais recente. Entrada 
 
 ---
 
+## 2026-11-16 — Post de segunda 16/11: "O cliente aprovou o padrão no 3D."
+
+[Peça](conteudo/posts/2026-11-16-padrao-aprovado-no-3d.md): estático 4:5, série "Do projeto para a lista", lote de segunda com a lente Hormozi (probabilidade percebida: o móvel entregue é o que o cliente aprovou). Mecanismo **ordem invertida do projeto**: o 3D vai pro cliente antes de conferir os padrões disponíveis. A semana abre no MDF, porque a anterior foi de ferragem. CTA provisório: "Pergunte no WhatsApp quais padrões a MR tem em estoque". O CTA de MDF do PADROES §5 ("Peça o catálogo de padrões disponíveis") entra depois que a MR confirmar o catálogo.
+
+- Sem afirmação técnica (fora do gate §1), sem nome de padrão nem de programa.
+- 🟡 **Trava:** a MR confirma que manda catálogo/lista de padrões em estoque pelo WhatsApp ([OQ 2026-11-16](OPEN-QUESTIONS.md)). Até lá, vale o CTA provisório.
+- **Validador-copy (v1.1):** headline linha 2 "Na hora de comprar, o padrão não estava disponível."; "A ordem que diminui esse risco"; o CTA aparecia 3 vezes e o bullet 1 deixou de repeti-lo.
+- **Status:** v1.1 · validada.
+
+---
+
 ## 2026-11-10 — Post de sexta 13/11: "Amortecimento na porta e na gaveta: vale pôr no orçamento?"
 
 [Peça](conteudo/posts/2026-11-13-vale-investir-amortecedor-no-orcamento.md): estático 4:5, **estreia da série "Vale investir? · 01"**. Mecanismo de **decisão de orçamento**, que não tinha aparecido na conta, no esqueleto fixo da série: **[item]: vale [ação]? → resposta curta → quando faz sentido**. CTA de ferragem do PADROES §5. Sem preço, porque a MR não mandou tabela.

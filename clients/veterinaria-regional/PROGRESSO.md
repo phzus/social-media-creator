@@ -4,6 +4,18 @@ Log datado do trabalho feito pra Veterinária Regional. Topo = mais recente. Ent
 
 ---
 
+## 2026-11-16 (2) — Mito x Verdade de 16/11: v1.1
+
+Correções do validador aplicadas: kicker "Região dos Lagos, temporada chegando: / olhar o cocô não basta pra saber.", a linha do bicho geográfico (os ovos saem nas fezes e viram larva na areia quente e úmida), "no cocô" no lugar de "no quintal" e o bullet 4 perguntando ao veterinário. A nota Hormozi e o isolamento com a WT ficaram marcados como internos.
+
+---
+
+## 2026-11-16 — Seg 16/11: Mito x Verdade "se não aparece verme no cocô, ele não tem verme"
+
+[Peça](conteudo/posts/2026-11-16-mito-se-nao-aparece-no-coco-nao-tem-verme.md) do lote de segunda com a lente Hormozi. Kicker *"A temporada tá chegando na Região dos Lagos: hora de conferir o vermífugo."*, âncora **EXAME DE FEZES**, banner "Salva pra quando o veterinário pedir a amostra". A legenda entrega a coleta pronta (esforço ↓) e cita o bicho geográfico numa linha, primeira vez que a sazonalidade de praia do PADROES §8 entra. Sem afirmar que o exame é feito na clínica ([OQ #24](OPEN-QUESTIONS.md)). Cena na calçada pra não colidir com o carro da WT no mesmo dia. **v1, aguardando validador-copy.**
+
+---
+
 ## 2026-11-10 — Sex 13/11: Nutrição & Endocrinologia pelo Dia Mundial do Diabetes
 
 [Peça](conteudo/posts/2026-11-13-come-mais-e-emagrece-diabetes-tambem-da-em-pet.md) de venda direta: kicker *"Seu pet come mais do que comia e mesmo assim está emagrecendo?"*, âncora **DIABETES DÁ EM PET TAMBÉM**, CTA WhatsApp. A data (sáb 14/11) fica só na legenda. Sem sexta-feira 13, que ficou com a WT no mesmo dia. Apoio "Diabetes é um dos motivos possíveis. A Nutrição & Endocrinologia da Regional avalia." Sede e xixi ficaram fora (já abriram 19/10 e 23/10 e colidiriam com o bebedouro da WT no mesmo dia). **v1.1 validada (validador-copy 10/11).** OQ #23.

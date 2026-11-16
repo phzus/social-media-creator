@@ -7,6 +7,18 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🔴 Nova (2026-11-16) — post de segunda 16/11 (crédito do cliente em 2027)
+
+**X. O escritório confirma o que a [peça de 16/11](conteudo/posts/2026-11-16-sua-nota-do-simples-e-o-credito-do-seu-cliente.md) afirma?**
+- **(a)** Com IBS e CBS no DAS, o crédito do comprador fica limitado ao que o fornecedor recolheu no Simples (LC 214/2025, art. 47, §9º, lido só em fonte secundária).
+- **(b)** Comprador que também recolhe pelo DAS não aproveita crédito.
+- **(c)** "Em 2027 a CBS passa a valer de verdade" está certo como frase pro leigo.
+- **(d)** Existe janela de opção pelo regime regular pro 2º semestre de 2027? Uma fonte cita março de 2027 e a Res. CGSN 186/2026 só fala do 1º semestre. A peça não afirma nenhuma das duas.
+
+Junto: o escritório quer receber lead de quem vende pra outra empresa (o CTA pede "o que você vende e pra quem")? — *(a) e (b) travam a publicação.*
+
+---
+
 ## 🔴 Nova (2026-11-10) — post de sexta 13/11 (2ª parcela do 13º e guia do INSS em 18/12)
 
 **W. O escritório confirma o que a [peça de 13/11](conteudo/posts/2026-11-13-sexta-13-passa-a-que-pesa-e-18-de-dezembro.md) afirma?**

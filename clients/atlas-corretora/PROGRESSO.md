@@ -4,6 +4,20 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ---
 
+## 2026-11-16 — Estático de seg 16/11: "Tem um Pix pra sua mãe agendado todo mês?"
+
+Abre a semana de planejamento familiar do [trimestral](estrategia/2026-09-a-11-trimestral.md) (tema reservado: quem sustenta mãe, irmão ou sócio). [Peça](conteudo/posts/2026-11-16-pix-agendado-pra-mae.md), v1, com a lente da Equação de Valor (Hormozi): resultado desejado concreto (a ajuda pra mãe não para) e CTA de esforço baixo.
+
+- **Cena:** linha de extrato recriada em tipografia, "Pix agendado · Mãe · todo dia 5". Mecanismo novo no lote.
+- **Headline:** "Tem um Pix pra sua mãe agendado todo mês? / Se a sua renda deixar de entrar, ele deixa de sair." §8 respeitado: renda, não evento.
+- **CTA:** comenta FAMÍLIA (peça de topo, depois de dois direct seguidos).
+
+**Validador-copy (v1.1):** a versão sem sócio virou o texto principal, e a livre indicação de beneficiário saiu da legenda. As duas ficam como versão pós-confirmação no arquivo. "Serve pra isso" virou "é uma das formas de organizar isso, dentro do que a apólice contratada prevê".
+
+**Trava:** 🔴 o corretor confirma a livre indicação de beneficiário e o caso do sócio ([OQ](OPEN-QUESTIONS.md)). Só então entra a versão com sócio.
+
+---
+
 ## 2026-11-10 — Estático de sex 13/11: sexta-feira 13, "Amuleto no retrovisor não chama guincho."
 
 PH pediu as peças de sexta brincando com a sexta-feira 13 (*"a atlas dá pra fazer falando que não pode deixar a sorte pro azar"*). A pauta do [trimestral](estrategia/2026-09-a-11-trimestral.md) pra 13/11 (guincho, carro reserva e vidro: o que vem junto) foi mantida, e a data entrou como contexto.
@@ -506,7 +520,7 @@ Reunião de acompanhamento (Carlos, pela Lone · Laís, pela Atlas). Resumo comp
 - Confirmado fluxo de **Stories com caixinha de perguntas** → dúvidas relevantes viram post de feed (não depende de gravação formal, roda em paralelo ao gargalo do corretor).
 - Surgiu candidata a rosto dos vídeos: **Mayara**, consultora nova — ainda não confirmada, [OQ #1](OPEN-QUESTIONS.md) atualizada.
 - **Consciência Negra (20/11)** ganhou formato definido: homenagem estática, sem venda — falta só o conteúdo específico ([OQ #16](OPEN-QUESTIONS.md)).
-- Cliente vai passar a indicar um **"destaque do mês"** (tema principal de seguro), estruturado com a Mayara — resolve operacionalmente a pergunta obrigatória #1 do briefing mensal da Lone daqui pra frente ([OQ #18](OPEN-QUESTIONS.md)).
+- Cliente vai passar a indicar um **"destaque do mês"** (tema principal de seguro), estruturado com a Mayara — resolve operacionalmente a pergunta obrigatória #1 do briefing mensal da Lone daqui pra frente ([OQ](OPEN-QUESTIONS.md)).
 - Cadência de reuniões fechada: mensal rápida com Carlos, mais aprofundada com Roberto quando precisar.
 
 **O que ficou pendente:** disponibilidade da Mayara, motivo do atraso na gravação do roteiro de carros elétricos, conteúdo da homenagem de 20/11, e o primeiro "destaque do mês" (setembro).

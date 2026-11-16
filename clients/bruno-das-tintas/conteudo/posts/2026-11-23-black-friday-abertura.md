@@ -4,6 +4,8 @@
 **Plano:** [Black Friday 2026](../../estrategia/2026-11-black-friday.md) · **Condição:** [PADROES §10](../../PADROES.md)
 **Status:** ✅ v1.1 validada (validador-copy, 13/11) · 🟡 aguarda PH
 
+> **Revisão 16/11:** a condição já foi anunciada em [16/11](2026-11-16-black-friday-e-oficial.md) ("É OFICIAL!", sem data). ⚠️ **Esta contagem depende do período confirmado** (OQ Black #1): só sobe se o cliente confirmar que a Black é na sexta 27/11. Se começar antes de 23/11, sobe a versão "COMEÇOU!" do fim deste arquivo, com "POR TEMPO LIMITADO" no lugar do período.
+
 ## Estratégia
 
 - O cliente não mandou o início da Black. A única data certa é a sexta 27/11, então a abertura conta os dias até ela e não afirma que a condição já vale na segunda. Mesmo cuidado do aquecimento: o selo começa com "NA BLACK:".

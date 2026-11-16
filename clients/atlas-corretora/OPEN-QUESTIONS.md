@@ -5,6 +5,17 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🔴 Nova (2026-11-16) — post de seg 16/11 (Pix agendado pra mãe): corretor antes de publicar
+
+[Peça](conteudo/posts/2026-11-16-pix-agendado-pra-mae.md).
+- **(a)** "Na maioria das apólices, você escolhe quem recebe, e não precisa ser filho nem cônjuge" vale pra carteira da Atlas?
+- **(b)** Sócio entra como beneficiário, ou a Atlas trabalha produto específico pra sociedade? Se nenhum dos dois, o apoio da arte troca o sócio por "avó que mora com você".
+- **(c)** Quem responde os comentários FAMÍLIA no direct.
+
+Sem resposta até a véspera, sobe o fallback escrito na peça.
+
+---
+
 ## 🔴 Nova (2026-11-10) — post de sex 13/11 (sexta-feira 13, guincho): corretor até qua 11/11 12h
 
 A [peça de 13/11](conteudo/posts/2026-11-13-sexta-13-amuleto-no-retrovisor-nao-chama-guincho.md) diz que guincho, carro reserva e vidro "podem vir no seguro ou ser contratados à parte" e que "os limites mudam de uma apólice pra outra". Fallback sem afirmação escrito na peça.

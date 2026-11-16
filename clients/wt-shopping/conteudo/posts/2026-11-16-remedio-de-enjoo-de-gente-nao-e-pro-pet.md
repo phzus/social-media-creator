@@ -53,6 +53,12 @@ Dúvida sobre a viagem? Fala com a clínica da WT no WhatsApp (22) 99789-8072.
 
 #ViagemComPet #ClínicaVeterinária #SaúdePet #Araruama #Itatiquara #WTShopping
 
+## Lente Hormozi (releitura de 16/11, sem mudança de copy)
+
+- **Variáveis que a peça já move:** probabilidade percebida e tempo. A headline proíbe, e o apoio traz a ressalva de orientação (a decisão vem do veterinário, não da bolsa); a avaliação acontece "alguns dias antes da viagem", antes do problema no carro.
+- **Por que não mexi:** o ganho óbvio seria um CTA de "consulta pré-viagem", mas o validador de 11/11 tirou de propósito a moldura "Agenda/Marca… pelo WhatsApp" e o kicker em pergunta, e a consulta pré-viagem ainda está em aberto (Pendências). Prometer resultado ("viagem sem enjoo") violaria o gate da clínica. Sem ganho claro, a v1.1 fica.
+- **Mesmo dia da VR:** a Vet Regional sai em 16/11 com Mito x Verdade de verme e exame de fezes, cena na calçada e CTA de salvar. Aqui é proibição em caixa alta, cena no carro e CTA de WhatsApp. **Sem colisão de molde, com sobreposição de frente e público** (clínica veterinária, tutor de Araruama, mesmo dia). **PH decide** se mantém as duas na segunda; a data não muda sem ele.
+
 ## Pendências
 
 - 🟡 A clínica atende consulta pré-viagem? Foi assumido que sim, porque o tema veio da Luziane ([OQ](../../OPEN-QUESTIONS.md)).
@@ -67,3 +73,8 @@ Dúvida sobre a viagem? Fala com a clínica da WT no WhatsApp (22) 99789-8072.
   - Entraram as hashtags.
   - O kicker em pergunta ("Vai viajar…?") foi trocado, porque repetia o molde da peça de 30/11 e da VR de 30/10.
   - O CTA deixou de usar a moldura "Agenda/Marca… pelo WhatsApp".
+
+## Histórico de revisões
+
+- **2026-11-16:** releitura com a lente Hormozi, sem mudança de copy (v1.1 mantida). Nota corrigida: a headline proíbe e o apoio traz a ressalva de orientação; registrada a sobreposição de frente e público com a VR no mesmo dia, decisão de PH. Data mantida em 16/11.
+- **2026-11-11 v1.1:** validada pelo validador-copy (ver seção Validação).

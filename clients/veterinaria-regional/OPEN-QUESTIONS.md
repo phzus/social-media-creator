@@ -2,6 +2,15 @@
 
 Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes de fechar a 1ª estratégia mensal.
 
+## 🟡 2026-11-16 — Mito x Verdade de seg 16/11 (verme no cocô / exame de fezes)
+
+[Peça](conteudo/posts/2026-11-16-mito-se-nao-aparece-no-coco-nao-tem-verme.md).
+
+24. 🟡 **A clínica faz o exame de fezes no local ou manda pra laboratório?** A peça não afirma nenhum dos dois, só que "o veterinário pode pedir". A equipe também lê a lista de coleta da legenda (fresco, potinho limpo e fechado, sem areia, mais de uma amostra). Não trava.
+25. 🟡 **Sexta 20/11 fecha a semana no mesmo tema?** Sugestão: check-up de verão pela clínica geral (a segunda apresenta e a sexta converte). PH decide.
+
+---
+
 ## 🟡 2026-11-10 — Venda direta de sex 13/11 (Nutrição & Endocrinologia, diabetes)
 
 [Peça](conteudo/posts/2026-11-13-come-mais-e-emagrece-diabetes-tambem-da-em-pet.md).

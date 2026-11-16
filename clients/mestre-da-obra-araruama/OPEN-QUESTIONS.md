@@ -24,3 +24,4 @@ Log completo. As prioritárias estão na [PAUTA](reuniao-mensal/PAUTA.md). O doc
 | 18 | Planilha de equipamentos com foto (atendente do balcão) | 2026-11-13 | 🔴 aguardando cliente |
 | 19 | Acesso ao portal do franqueado (imagens da rede) | 2026-11-13 | 🔴 aguardando cliente |
 | 20 | Indique e ganhe: a Ingrid gostou. Qual benefício a loja topa dar? | 2026-11-13 | 🟡 proposta da Lone |
+| 21 | Post de 16/11 (dia da laje): "sai revisada" e "orientação de uso na retirada" são a rotina da loja (sem isso, a arte usa o fallback)? Tem foto da betoneira na frente da loja? A locação de fim de semana vale pra betoneira (saiu da peça, serve pra uma peça própria)? | 2026-11-16 | 🟡 aberta, perguntar no grupo do marketing |

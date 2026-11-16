@@ -4,6 +4,13 @@ Legenda: 🔴 bloqueante · 🟡 importante (não trava tudo) · 🟢 calibraç�
 Atualizar assim que PH ou a cliente responderem. Resposta vira registro em [context.md](context.md), [BRIEFING.md](BRIEFING.md) ou [PADROES.md](PADROES.md).
 
 
+## 🟡 2026-11-16 — Segunda 16/11: laser no rosto ("pele morena pode fazer laser no rosto?")
+
+[Peça](conteudo/posts/2026-11-16-pele-morena-pode-fazer-laser-no-rosto.md).
+1. 🔴 **RT:** a pergunta "pele morena pode fazer laser no rosto?" respondida com "4 tecnologias de laser pra todos os tons de pele" passa? A legenda deixa a decisão pra avaliação.
+2. 🟡 **Cintia:** quais áreas o "rosto" da tabela inclui (buço, queixo, costeletas)? A peça não lista nenhuma.
+3. 🔴 **Cintia:** aprova pra 16/11 fora do prazo de 1 semana? Senão desliza pra 23/11 ou 27/11.
+
 ## 🟡 2026-11-06 — Anúncio de Black com todas as promoções num vídeo só (ideia de PH)
 
 PH decidiu: vídeo só de laser, de até 1 minuto, sem verão, com menção a outros procedimentos no fim e sem pessoas (PH desistiu das imagens geradas). [Roteiro v2.2](conteudo/roteiros/2026-11-13-motion-anuncio-novembro-black-laser.md), com as 12 áreas, como anúncio e stories, fora do feed (§7).

@@ -7,6 +7,12 @@ As 30 perguntas abaixo vieram do próprio Briefing Estratégico (§17), organiza
 
 ---
 
+## 📅 2026-11-16 — Segunda 16/11 (Do projeto para a lista, padrão aprovado no 3D)
+
+- 🟡 **Vocês mandam pro marceneiro a lista ou o catálogo dos padrões de MDF que têm em estoque?** A [peça de 16/11](conteudo/posts/2026-11-16-padrao-aprovado-no-3d.md) usa o CTA "Peça o catálogo de padrões disponíveis". Mensagem pronta: *"Pessoal, pra arte de segunda (16/11): quando o marceneiro pede, vocês mandam pelo WhatsApp a lista ou o catálogo dos padrões de MDF que têm pra pronta entrega? Se tiverem foto das chapas no estoque, manda pra gente usar na arte."* Até a resposta, a peça sai com "Pergunte no WhatsApp quais padrões a MR tem em estoque"; confirmado, troca por "Peça o catálogo de padrões disponíveis".
+
+---
+
 ## 📅 2026-11-10 — Sexta 13/11 (Vale investir? · 01, amortecimento)
 
 - 🔴 **Vocês vendem dobradiça e corrediça com amortecimento?** A [peça de 13/11](conteudo/posts/2026-11-13-vale-investir-amortecedor-no-orcamento.md) depende disso. Mensagem pronta: *"Pessoal, pra arte de sexta (13/11): vocês vendem dobradiça e corrediça com amortecimento (as que fecham devagar)? Se tiverem foto de alguma instalada, manda pra gente usar na arte."*

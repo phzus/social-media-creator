@@ -4,6 +4,22 @@ Log datado do trabalho feito pra Contele. Topo = mais recente. Entrada por bloco
 
 ---
 
+## 2026-11-16 (2) — Indique e Ganhe: revisão v1.1 (validador-copy)
+
+- **Bloqueante (aplicado):** a versão de fallback da v1 ("quem indica também ganha") prometia ganho sem definição. Saiu e foi trocada pela **versão C**: kicker "INDICA A CONTELE", o vizinho da conta alta como display, CTA "Chama no WhatsApp e manda o contato de quem você quer indicar.", sem bullet de ganho e sem #IndiqueEGanhe.
+- **Aplicado:** "+700 sistemas instalados" sem "na Região dos Lagos".
+- **Regra no topo da [peça](conteudo/posts/2026-11-16-indique-e-ganhe-vizinho-da-conta-alta.md):** a versão A precisa do ganho. Sem resposta da Contele, sai a C.
+
+---
+
+## 2026-11-16 — Indique e Ganhe: "Aquele vizinho que reclama da conta de luz todo verão" · v1, aguarda validador
+
+PH pediu o Indique e Ganhe pra segunda 16/11, com a lente Hormozi. [Estático](conteudo/posts/2026-11-16-indique-e-ganhe-vizinho-da-conta-alta.md) no sistema do Pilar 1 (Sand, elemento gigante em Sun itálico). Cena do vizinho que reclama da conta no verão → quem indica manda só nome e WhatsApp (avisando a pessoa antes) → visita, cálculo e homologação com a equipe própria → ganho. É a frente 3 do [plano de novembro](estrategia/2026-11-black-friday.md), que não depende do combo.
+
+**O ganho de quem indica não foi definido** (PAUTA #5). A versão A tem o ganho, o gatilho e a regra em slots marcados. O fallback da v1 foi trocado pela versão C, sem "ganhe", na v1.1 (entrada acima). Pergunta pronta pro WhatsApp do cliente no arquivo.
+
+---
+
 ## 2026-11-10 (2) — Sexta 13/11: "13 horas de luz do dia em Araruama" (sexta-feira 13)
 
 PH já usou o ar-condicionado e pediu outra peça aproveitando a sexta 13. [Estático](conteudo/posts/2026-11-13-sexta-13-com-13-horas-de-sol.md) no Pilar 1: na sexta-feira 13, Araruama tem 13 horas de luz do dia (cálculo NOAA, conferido em 2 fontes), contra menos de 11 em junho. Sem superstição, que o lote já usa em Atlas, Max e Bazar. Validado (v1.1): saiu "sol batendo no telhado", que vendia geração útil, e o pico de consumo, que repetia o Reels de 07/10.

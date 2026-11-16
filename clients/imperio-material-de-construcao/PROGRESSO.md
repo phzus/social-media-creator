@@ -4,6 +4,17 @@ Log datado do trabalho feito pro Império. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-11-16 — Post de segunda 16/11: "Saco de cimento encostado no chão puxa umidade e pode empedrar."
+
+[Peça](conteudo/posts/2026-11-16-saco-de-cimento-no-chao-empedra.md): estático 4:5, educativo, no lote de segunda com a lente Hormozi (esforço/sacrifício: não perder o material já pago). Mecanismo **regra de bolso com número**: "30 CM do chão e da parede", pilha de até 10 sacos, sobre estrado e em lugar coberto. Continua a linha do básico de 13/11 com outra função (a sexta vendeu, a segunda ensina a guardar). CTA: "MANDE A LISTA DO MATERIAL NO WHATSAPP!".
+
+- **Fonte:** DNIT 050/2004-EM (estrado seco, máx. 10 sacos, ≥30 cm do chão e das paredes) + guia de construções rurais da ESALQ/USP. A FISPQ da Votorantim com "30 cm" era de argamassa (Votomassa Cola Tudo) e foi descartada. A validade do saco ficou fora.
+- **Reserva do domingo aberto:** não usada. Ela é peça de sexta, e o horário publicado pelo cliente em 06/11 ainda espera o OK de PH (OQ 2026-11-10 #26).
+- **Validador-copy (v1.1):** headline com "pode empedrar" (a v1.0 dava como certo), apoio da arte como "Recomendação técnica: …", legenda aberta pela fonte (DNIT), "30 cm" igual na arte e na legenda, CTA sem pergunta.
+- **Status:** v1.1 · validada. Brief no dia da publicação (abaixo de 1 dia útil); a copy não tem data.
+
+---
+
 ## 2026-11-10 — Post de sexta 13/11: "Se o pedreiro vem no sábado, feche o material na sexta!"
 
 [Peça](conteudo/posts/2026-11-13-pedreiro-vem-no-sabado-material-antes.md): estático 4:5, **primeira peça de Prova/Bastidor da Lone na conta**. Nas 7 peças anteriores (14/10 a 06/11) havia oferta, educativo e institucional, e nenhuma de bastidor. Mecanismo **cena de calendário + prova de bastidor**: a sexta, véspera do sábado de obra, com a foto do pátio (frame da empilhadeira em `imperio material 9.mp4`) como prova de que o básico está na loja. CTA: "MANDE A LISTA NO WHATSAPP!". Sem preço, sem horário, sem unidade, sem entrega.

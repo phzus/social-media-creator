@@ -142,6 +142,6 @@ Esta é a sexta de dez. **Toda segunda, uma doença que tem tratamento na CIIL.*
 
 ## Histórico de revisões
 
-- **2026-10-19 v1.2:** selo trocado pra `06 de 10` e legenda pra "a sexta de dez" (decisão já registrada no OPEN-QUESTIONS e na PAUTA #3: a 06 de Espondilite nunca foi ao ar). Nome do arquivo mantido com `07` pra não quebrar links.
+- **2026-10-19 v1.2:** selo trocado pra `06 de 10` e legenda pra "a sexta de dez" (decisão já registrada no OPEN-QUESTIONS e na PAUTA #3: a 06 de Espondilite nunca foi ao ar). Nome do arquivo mantido com `07` pra não quebrar links (renomeado pra `06` em 16/11, links atualizados).
 - **2026-10-14 v1.1:** ajustes do validador-copy: giro da headline reescrito ("contar como" era decalque), bloco 5 sem o "ele" ambíguo (lia como se a CIIL fabricasse a medicação, mesmo erro da 16/10), promessa de resultado da legenda virou condicional, "tem nome" virou "pode ser" na legenda (o bloco 4 mantém a assinatura), lista de hábitos cortada pra dois, sinal 4 encurtado.
 - **2026-10-14 v1:** escrita para o slot de segunda 19/10, sétima peça da temporada pelo calendário. Primeira doença intestinal da conta. CTA com "a gente te orienta" no lugar de "a gente avalia" por falta de gastro na casa. **Retida até o OK do RT.**

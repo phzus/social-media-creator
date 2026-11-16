@@ -4,6 +4,20 @@ Log datado do trabalho feito pra Max Contabilidade. Topo = mais recente. Entrada
 
 ---
 
+## 2026-11-16 — Post de segunda 16/11: a nota do Simples e o crédito do cliente em 2027
+
+[Peça](conteudo/posts/2026-11-16-sua-nota-do-simples-e-o-credito-do-seu-cliente.md), estático 4:5, v1.1, foco tributário. Era a pauta reserva (IBS/CBS em 2027 visto pelo Simples). Headline: **"Em 2027, a nota do Simples pode gerar menos crédito pro seu cliente."** CTA: *"Manda no direct o que a sua empresa vende e pra quem. A gente olha o seu caso."*
+
+- **Mecanismo novo na conta:** o cliente do cliente. Não abre em prazo, depois de duas peças seguidas de data (06/11 e 13/11).
+- **Lente Hormozi:** resultado desejado (não perder o cliente empresa na negociação de 2027). Sem promessa de economia e sem número.
+- **Fonte:** LC 214/2025, art. 47, §9º, lida só em fontes secundárias concordantes. Percentual de crédito e janela do 2º semestre de 2027 ficaram fora (fontes divergem).
+
+**Validador-copy (v1.1):** a headline virou afirmação. O apoio ganhou "em regra" e o CTA perdeu a palavra-chave. A LC 214 saiu da arte, a legenda passou a falar em regra geral, e o IBS de 2027 aparece como alíquota de teste. O parágrafo da desistência até 20/12 foi cortado.
+
+**Travas:** 🔴 **não vai pro designer até o escritório confirmar a regra do crédito** ([OQ X](OPEN-QUESTIONS.md) a e b) · 🔴 quem responde o direct (OQ B/J/S).
+
+---
+
 ## 2026-11-10 — Post de sexta 13/11 (venda): a sexta-feira 13 passa, a que pesa é 18/12
 
 [Peça](conteudo/posts/2026-11-13-sexta-13-passa-a-que-pesa-e-18-de-dezembro.md), estático 4:5, v1.1 validada. Pedido de PH: lote de sexta 13/11 brincando com sexta-feira 13. Headline: **"A sexta-feira 13 passa. / A que pesa no caixa de quem tem funcionário é 18 de dezembro."** Apoio: *"O dia 20 de dezembro cai num domingo, então a 2ª parcela do 13º e a guia do INSS vencem na sexta 18."* CTA: *"Manda 13º no direct que a gente confere com você o que vence em 18 de dezembro."*

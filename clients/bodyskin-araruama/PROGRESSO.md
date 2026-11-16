@@ -4,6 +4,20 @@ Log datado do trabalho feito pra BodySkin. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-11-16 — Segunda 16/11: "Pele morena pode fazer laser no rosto?" (Novembro Black, rosto)
+
+Lote de segunda 16/11 com a lente da Equação de Valor (Hormozi, [core/frameworks/hormozi-offer.md](../../core/frameworks/hormozi-offer.md)). [Peça](conteudo/posts/2026-11-16-pele-morena-pode-fazer-laser-no-rosto.md), estático 4:5, v1.
+
+- **Área nova no feed:** o rosto (10 sessões, R$ 699 ou 10x de R$ 69,90, item 6 do §7). Virilha, coxas e cartaz já ocupam o mês.
+- **Mecanismo novo no mês:** objeção do tom de pele respondida pelo diferencial (4 tecnologias, todos os tons de pele). Lente Hormozi: probabilidade percebida. A decisão de quem pode fazer fica na avaliação gratuita.
+- Sem "de/por" (o rosto não tem preço cheio), sem pessoa gerada com IA.
+
+**Validador-copy (v1.1):** headline nova, "PELE MORENA PODE FAZER DEPILAÇÃO A LASER NO ROSTO? / SÃO 4 TECNOLOGIAS DE LASER, E A AVALIAÇÃO GRATUITA DEFINE A SUA.", que deixa de liberar todo mundo. "Laser no rosto" virou "depilação a laser no rosto" na oferta e na legenda. Saíram "do mais claro ao mais escuro" e a abertura que dizia que o público desiste.
+
+**Pendências:** aprovação da Cintia (o envio pra 16/11 devia ter saído em 09/11) · RT (3 itens no gate da peça) · quais áreas o "rosto" inclui.
+
+---
+
 ## 2026-11-11 — Novembro Black: cartaz "Passamos laser nos preços" (formato da Mais Laser) · validado v1.1
 
 PH mandou o cartaz "A Black mais Black" da Mais Laser ([print](referencias/2026-11-11-ref-formato-cartaz-mais-laser.png)) e pediu um igual. Na [peça](conteudo/posts/2026-11-20-cartaz-passamos-laser-nos-precos.md), só o formato veio da referência: pessoa segurando um cartaz de jornal, com a manchete em tipografia misturada. O copy usa a frase da campanha e "parcelas a partir de R$ 69,90". Sugerida pra sex 20/11 (envio até 13/11) ou sex 27/11. A versão B, "NOVEMBRO sem CERA", depende da RT.

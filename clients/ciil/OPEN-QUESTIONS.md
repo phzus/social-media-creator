@@ -2,6 +2,13 @@
 
 Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes de fechar a 1ª estratégia mensal.
 
+## 🔴 Nova (2026-11-16) — Isso Tem Nome 08, Espondilite (seg 16/11)
+
+[Peça](conteudo/posts/2026-11-16-isso-tem-nome-08-espondilite-anquilosante.md) escrita, retida até o RT.
+- 🔴 **RT:** 7 itens no fim da peça. O principal segue o de 23/10: a CIIL faz o imunobiológico pra espondilite, quando indicado?
+- 🟡 **A 08 não saiu por fora em 02/11 ou 09/11?** Nada no repositório indica. Se saiu, esta vira 09.
+- 🟡 **Semana com duas doenças**, se o vídeo de psoríase sair na quarta 18/11. PH decide se aceita ou empurra o vídeo pra 25/11.
+
 ## 🔴 Nova (2026-11-12) — vídeos com os médicos (gravação em SG, sexta 13/11)
 
 [Roteiros](conteudo/roteiros/2026-11-12-medica-psoriase-e-dermatite-atopica.md) · [pedido da dona](referencias/2026-11-12-pedido-videos-com-medicos.md)
@@ -60,7 +67,7 @@ Fonte: [análise de 15/10](referencias/2026-10-15-analise-instagram-ciil.md).
 
 ## 🔴 Nova (2026-10-14) — Isso Tem Nome 07, Retocolite Ulcerativa (19/10)
 
-[Peça](conteudo/posts/2026-10-19-isso-tem-nome-07-retocolite-ulcerativa.md) escrita e retida. **Oitava peça clínica na fila do RT** (8 itens no arquivo).
+[Peça](conteudo/posts/2026-10-19-isso-tem-nome-06-retocolite-ulcerativa.md) escrita e retida. **Oitava peça clínica na fila do RT** (8 itens no arquivo).
 - 🔴 **Selo `07 de 10` ou `06 de 10`?** Depende de a peça 06 (Espondilite) ter ido ao ar em 12/10. Se não foi, esta vira 06 e as seguintes descem uma casa. Decidir antes do brief ao designer.
 - 🔴 **PAUTA #5 vira bloqueante pra esta peça.** Quem chega com suspeita de Retocolite e sem diagnóstico é avaliado na CIIL, ou a clínica só recebe paciente já encaminhado? Se for só encaminhado, o CTA ("a gente te orienta") precisa orientar a procurar um médico, o que quebra o CTA único de 14/09.
 - 🟡 **Doença de Crohn está sem slot.** A 03 saiu como Artrite Psoriásica (que no calendário era a 10). Sugestão: Crohn em 09/11.

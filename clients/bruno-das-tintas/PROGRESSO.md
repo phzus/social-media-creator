@@ -1,5 +1,25 @@
 # Progresso — Bruno das Tintas
 
+## 2026-11-16 (2) — Revisão v1.1 das peças de 16/11 (validador-copy)
+
+- **Bloqueante (aplicado):** o anúncio dizia "TÁ CONFIRMADO! … É SEXTA, 27 DE NOVEMBRO!", e o período da Black não foi informado (OQ #1). A peça foi renomeada pra [2026-11-16-black-friday-e-oficial.md](conteudo/posts/2026-11-16-black-friday-e-oficial.md): chamada "É OFICIAL!", manchete "A BLACK FRIDAY DA BRUNO DAS TINTAS / TEM 15% DE DESCONTO À VISTA!", selo "10% NO CRÉDITO EM ATÉ 6X" e 12x em linha própria. A legenda abre com "A Black Friday da Bruno das Tintas já tem as condições.", fala das condições em frase corrida (os bullets ficam só na peça de condições) e fecha com "já dá pra ir fazendo a conta pra ela sair do papel".
+- **Importantes (aplicados) na [peça de condições](conteudo/posts/2026-11-16-black-friday-15-reais-a-cada-100.md):** a data saiu do CTA e da legenda ("PASSA NA LOJA!"), e "a cada R$ 100 da sua compra" virou "pagando à vista, a cada R$ 100".
+- **Propagado:** série no [plano](estrategia/2026-11-black-friday.md) VEM AÍ! → É OFICIAL! → FALTAM 4 DIAS! → HOJE É!. A contagem de 23/11 agora depende do período confirmado (nota no arquivo de 23/11 e no OQ #1).
+
+---
+
+## 2026-11-16 — Black Friday: anúncio + condições em real (2 estáticos de 16/11) · v1
+
+PH pediu pra segunda 16/11 o anúncio da Black e o anúncio das condições, com a lente da Equação de Valor (Hormozi). O período segue sem resposta, então as duas peças anunciam data e condição sem afirmar que o desconto já vale, e cada uma tem a versão "COMEÇOU!" pronta, sem data de fim.
+- [Anúncio](conteudo/posts/2026-11-16-black-friday-e-oficial.md): a v1 era "TÁ CONFIRMADO! … É SEXTA, 27 DE NOVEMBRO!" (corrigida na v1.1, entrada acima). CTA "MARCA QUEM ESTÁ ADIANDO A PINTURA DA CASA!".
+- [Condições](conteudo/posts/2026-11-16-black-friday-15-reais-a-cada-100.md): "À VISTA, A CADA R$ 100, VOCÊ PAGA R$ 15 A MENOS!", com tabela de três caminhos (R$ 15 / R$ 10 a menos a cada R$ 100 / 12x sem juros sem desconto). Sugestão: fixar no perfil até o fim da Black.
+
+[Plano](estrategia/2026-11-black-friday.md) revisado: 23/11 continua como contagem (vira "COMEÇOU!" se a Black começar antes), e o Reels de 25/11 não pode usar "a cada R$ 100" nem "faz a conta". Ressalva "*Consulte as condições na loja" entrou nas duas peças, porque a abrangência não foi informada. Isolamento conferido com a Black da Araruama Tintas (de/por por produto, 23 a 28/11).
+
+**Pendências:** período e duas lojas (OQ Black #1). Pedido feito no próprio dia, abaixo do prazo de 1 dia útil do designer.
+
+---
+
 ## 2026-11-13 — Black Friday: plano de 23 a 27/11 + abertura, Reels e sexta 27 · validado v1.1
 
 PH pediu a Black da Bruno. Não tinha material novo na Downloads, e o período continua sem resposta, então a série conta até a sexta 27/11 (a única data certa) e nenhuma peça afirma início ou fim. [Plano](estrategia/2026-11-black-friday.md):

@@ -1,5 +1,15 @@
 # Progresso — Mestre da Obra Araruama
 
+## 2026-11-16 — Post de segunda 16/11: "No dia da laje, não tem segunda chance: a equipe e o material já estão pagos!"
+
+PH pediu peça de autoridade com foco na dor, sem ser muito educativa. [Peça](conteudo/posts/2026-11-16-dia-da-laje-nao-tem-segunda-chance.md): estático 3:4, betoneira (carro-chefe), lente Hormozi (tempo e esforço: obra não para). Mecanismo **momento sem segunda chance**: no dia da laje, equipe e material já estão pagos, e máquina parada é dia perdido. A autoridade vem de conhecer esse prejuízo. Gancho em afirmação, sem preço, aviso pequeno "Cobrimos orçamento real de concorrente local. Consulte as condições.", CTA "PEÇA O ORÇAMENTO DA BETONEIRA!".
+
+- **Validador-copy (v1.1):** a headline da v1.0 ("a betoneira não pode parar no meio") era truísmo, com autoridade fraca, e virou a cena da dor na arte. Saíram da legenda a promessa implícita ("máquina pronta pro serviço"), o parágrafo da locação de fim de semana (CTA único, não confirmado pra betoneira) e a pergunta do orçamento. Arquivo renomeado.
+- **A confirmar no grupo ([OQ #21](OPEN-QUESTIONS.md)):** "revisada" e "orientação na retirada" são rotina da loja (sem isso, fallback "Aluga betoneira na Mestre da Obra Araruama. Peça o orçamento antes de marcar a laje."). Foto real da betoneira ([OQ #18](OPEN-QUESTIONS.md)).
+- **Status:** v1.1 · validada. Brief no dia da publicação; a copy não tem data.
+
+---
+
 ## 2026-11-13 (2) — Reunião de onboarding de 06/11 registrada
 
 PH passou a transcrição (Carlos × Ingrid, 06/11). [Resumo](reuniao-mensal/resumos/2026-11-06-resumo-reuniao.md):

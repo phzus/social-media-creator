@@ -4,6 +4,24 @@ Log datado do trabalho feito pra CIIL. Topo = mais recente. Entrada por bloco de
 
 ---
 
+## 2026-11-16 (2) — Isso Tem Nome 08: v1.1 + numeração conferida
+
+O fechamento passou pra versão de segurança: *"Tem tratamento, e quando há indicação de imunobiológico, ele é feito aqui na CIIL."* Assim a peça não depende do RT nesse ponto, mas o gate continua. Outras correções:
+- o bloco 3 ganhou "Às vezes vem junto:";
+- a legenda virou "vale investigar", com os critérios (meses, antes dos 45, sinais junto);
+- saiu #Imunobiológicos;
+- o plano B do gancho (piora parado) foi pra lista do RT.
+
+**Numeração:** a Retocolite de 19/10 é a 06, com selo e legenda já em 06. Só o arquivo dizia 07, e ele foi renomeado pra `2026-10-19-isso-tem-nome-06-retocolite-ulcerativa.md`, com links atualizados no OPEN-QUESTIONS, no PROGRESSO e na linha editorial. A Hidradenite é a 07, e a Espondilite é a 08.
+
+---
+
+## 2026-11-16 — Isso Tem Nome 08: Espondilite Anquilosante (seg 16/11)
+
+[Peça](conteudo/posts/2026-11-16-isso-tem-nome-08-espondilite-anquilosante.md), estático, selo `08 de 10`. Gancho novo, longe do colchão e da madrugada de 23/10: *"Um mês a dor é na nádega direita, no outro ela muda pra esquerda. / E pra olhar pra trás no carro, você já vira o corpo inteiro."* Dois sinais (calcanhar, olho vermelho que volta). Lente Hormozi: esforço ↓, com o CTA *"Com diagnóstico ou só com os sinais, a reumatologia da CIIL avalia."* **v1, retida até o RT** ([OPEN-QUESTIONS 16/11](OPEN-QUESTIONS.md)). Crohn e Asma (09 e 10) seguem presas na PAUTA #4.
+
+---
+
 ## 2026-11-12 — Roteiros "A médica explica": psoríase e dermatite atópica (gravação em SG, sexta 13/11)
 
 A dona propôs vídeos com os médicos, gravados no celular pela equipe de São Gonçalo e editados pela Lone ([pedido](referencias/2026-11-12-pedido-videos-com-medicos.md)). É o formato @imunovitta que PH queria desde julho, e a conta está sem Reels desde setembro. [Roteiro](conteudo/roteiros/2026-11-12-medica-psoriase-e-dermatite-atopica.md) com 2 vídeos de ~38s e 6 cenas cada, fora da série (sem selo nem numeração). Leva o box "Como gravar", porque quem grava é o cliente. PDF: `~/Downloads/Roteiros - Lone Midia x CIIL - A medica explica.pdf`.
@@ -172,7 +190,7 @@ Coleta com Playwright de @ciilagos, @ciil.sg, @imunovidavacinas e @imunovitta. [
 
 ## 2026-10-14 — Post de segunda 19/10: "Isso Tem Nome · 07 de 10 — Retocolite Ulcerativa"
 
-PH pediu "post pro dia 19". O [calendário da temporada](estrategia/linha-editorial-isso-tem-nome.md) já reservava o slot 07 pra Retocolite Ulcerativa, então segui o previsto. [Peça](conteudo/posts/2026-10-19-isso-tem-nome-07-retocolite-ulcerativa.md): estático 4:5, esqueleto fixo de 5 blocos, **primeira doença intestinal da conta** (até aqui foi só pele e articulação).
+PH pediu "post pro dia 19". O [calendário da temporada](estrategia/linha-editorial-isso-tem-nome.md) já reservava o slot 07 pra Retocolite Ulcerativa, então segui o previsto. [Peça](conteudo/posts/2026-10-19-isso-tem-nome-06-retocolite-ulcerativa.md): estático 4:5, esqueleto fixo de 5 blocos, **primeira doença intestinal da conta** (até aqui foi só pele e articulação).
 
 **Gancho:** *"Viagem, fila, reunião: você só relaxa depois de saber onde fica o banheiro. / Já faz tanto tempo assim que você nem pensa mais nisso como sintoma."* O mecanismo é a rotina organizada em volta do banheiro, que a pessoa trata como jeito de ser. Isso evita descrever o sintoma na abertura de um tema que o público tem vergonha de comentar. Na arte vão 4 sinais, e as peças anteriores tinham 3.
 
