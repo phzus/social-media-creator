@@ -25,7 +25,7 @@ PH pediu o lote com o [framework Hormozi](../core/frameworks/hormozi-offer.md) e
 | CIIL | [Isso Tem Nome 08 · Espondilite](../clients/ciil/conteudo/posts/2026-11-16-isso-tem-nome-08-espondilite-anquilosante.md) | 🔴 gate do RT |
 | Contele | [Indique e ganhe](../clients/contele-solar/conteudo/posts/2026-11-16-indique-e-ganhe-vizinho-da-conta-alta.md) | A precisa do ganho; sem ele, sai a C (sem "ganhe") |
 | Bruno das Tintas | [É oficial](../clients/bruno-das-tintas/conteudo/posts/2026-11-16-black-friday-e-oficial.md) · [R$ 15 a cada R$ 100](../clients/bruno-das-tintas/conteudo/posts/2026-11-16-black-friday-15-reais-a-cada-100.md) | ok; sem data (período não veio) |
-| Atlas | [Pix agendado pra mãe](../clients/atlas-corretora/conteudo/posts/2026-11-16-pix-agendado-pra-mae.md) | ok, sem sócio até o corretor confirmar |
+| Atlas | [Quem ajuda seus pais se a renda parar](../clients/atlas-corretora/conteudo/posts/2026-11-16-quem-ajuda-seus-pais-se-a-renda-parar.md) | v2: PH reprovou o Pix agendado (metáfora); dor dita direto |
 | BodySkin | [Pele morena e depilação a laser no rosto](../clients/bodyskin-araruama/conteudo/posts/2026-11-16-pele-morena-pode-fazer-laser-no-rosto.md) | 🔴 Cintia + RT |
 | WT | [Remédio de enjoo](../clients/wt-shopping/conteudo/posts/2026-11-16-remedio-de-enjoo-de-gente-nao-e-pro-pet.md) | já existia; tema pet no mesmo dia da VR, PH decide |
 | VR | [Mito: não aparece no cocô](../clients/veterinaria-regional/conteudo/posts/2026-11-16-mito-se-nao-aparece-no-coco-nao-tem-verme.md) | ok |

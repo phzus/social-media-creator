@@ -4,9 +4,17 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ---
 
+## 2026-11-16 (2) — Seg 16/11 refeita: "Se a sua renda parar, quem ajuda seus pais com as contas do mês?"
+
+PH reprovou o Pix agendado: *"Não gostei do ângulo do post da Atlas, sem sentido. Pega o calendário de lá e mostra a dor do lead em relação ao serviço."* O tema do trimestral continua ("Não é só pra quem tem filho"), mas a dor agora é dita sem metáfora: a ajuda aos pais que depende da renda de quem não tem filho (o "remédio" da v2 caiu no validador, porque punha os pais como doentes). O CTA passou a ser "comenta PLANEJAR". [Peça v2](conteudo/posts/2026-11-16-quem-ajuda-seus-pais-se-a-renda-parar.md). O arquivo foi renomeado, e a v1 fica no git.
+
+É a 2ª segunda de planejamento familiar reprovada (19/10 cirurgia, 16/11 Pix). Nas duas, a dor estava atrás de uma cena que o leitor precisava decifrar.
+
+---
+
 ## 2026-11-16 — Estático de seg 16/11: "Tem um Pix pra sua mãe agendado todo mês?"
 
-Abre a semana de planejamento familiar do [trimestral](estrategia/2026-09-a-11-trimestral.md) (tema reservado: quem sustenta mãe, irmão ou sócio). [Peça](conteudo/posts/2026-11-16-pix-agendado-pra-mae.md), v1, com a lente da Equação de Valor (Hormozi): resultado desejado concreto (a ajuda pra mãe não para) e CTA de esforço baixo.
+Abre a semana de planejamento familiar do [trimestral](estrategia/2026-09-a-11-trimestral.md) (tema reservado: quem sustenta mãe, irmão ou sócio). [Peça](conteudo/posts/2026-11-16-quem-ajuda-seus-pais-se-a-renda-parar.md), v1, com a lente da Equação de Valor (Hormozi): resultado desejado concreto (a ajuda pra mãe não para) e CTA de esforço baixo.
 
 - **Cena:** linha de extrato recriada em tipografia, "Pix agendado · Mãe · todo dia 5". Mecanismo novo no lote.
 - **Headline:** "Tem um Pix pra sua mãe agendado todo mês? / Se a sua renda deixar de entrar, ele deixa de sair." §8 respeitado: renda, não evento.

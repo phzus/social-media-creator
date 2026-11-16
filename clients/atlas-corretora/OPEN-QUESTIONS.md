@@ -5,14 +5,11 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
-## 🔴 Nova (2026-11-16) — post de seg 16/11 (Pix agendado pra mãe): corretor antes de publicar
+## 🟡 Nova (2026-11-16) — post de seg 16/11 (quem ajuda seus pais), v2
 
-[Peça](conteudo/posts/2026-11-16-pix-agendado-pra-mae.md).
-- **(a)** "Na maioria das apólices, você escolhe quem recebe, e não precisa ser filho nem cônjuge" vale pra carteira da Atlas?
-- **(b)** Sócio entra como beneficiário, ou a Atlas trabalha produto específico pra sociedade? Se nenhum dos dois, o apoio da arte troca o sócio por "avó que mora com você".
-- **(c)** Quem responde os comentários FAMÍLIA no direct.
-
-Sem resposta até a véspera, sobe o fallback escrito na peça.
+[Peça](conteudo/posts/2026-11-16-quem-ajuda-seus-pais-se-a-renda-parar.md). A v2 não afirma beneficiário nem cobertura, então não trava no corretor. Ficam abertas:
+- **(a)** Na carteira da Atlas, vale "na maioria das apólices, você escolhe quem recebe, e não precisa ser filho nem cônjuge"? Serve pra peças futuras.
+- **(b)** Quem responde os comentários PLANEJAR no direct?
 
 ---
 
