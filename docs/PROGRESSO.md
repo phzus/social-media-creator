@@ -4,6 +4,14 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-16 (6) — ROP Para-brisas: cliente novo, onboarding pelos fixados
+
+- **Cliente:** vidros automotivos com 3 lojas (Rio das Ostras, Macaé, Campos) e atendimento móvel. Entrou pelo Benchmark (13/11) e pelo Briefing Estratégico (16/11) de outro setor, que são hipótese até a reunião.
+- **Entregue:** pasta completa, PADROES v1.0, 17 perguntas abertas e PAUTA de 8.
+- **Fixados v1.1, validados:** móvel (Reels), quem é a ROP (carrossel com fotos do feed, que pode subir primeiro) e como pedir orçamento (estático).
+- **O que trava:** regras do móvel, WhatsApp, 21×22 anos e captação.
+- Detalhes no [PROGRESSO da ROP](../clients/rop-parabrisas/PROGRESSO.md).
+
 ## 2026-11-16 (5) — 7 clientes encerrados e apagados (pedido de PH)
 
 PH: *"esses clientes não são mais meus"*. Saíram Quero Tintas, GK Pneus, Arte em Manipulação, Engetec, Nova União Glass, Dumar e Tindaro Solar.
