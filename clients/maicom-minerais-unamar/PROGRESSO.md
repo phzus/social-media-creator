@@ -4,6 +4,19 @@ Log datado do trabalho feito pra Maicom. Topo = mais recente. Entrada por bloco 
 
 ---
 
+## 2026-11-16 — Campanha do Super Feirão de Ponta de Estoque (sáb 28/11)
+
+O cliente pediu por áudio ([registro literal](referencias/2026-11-16-audio-feirao-28-11.md)): pisos a partir de R$ 1,00, sem m² e sem peça, com chope, refrigerante e churrasco liberados, começando às 9h. O tom pedido foi "porra louca, esquece o mundo". PH quis uma campanha com motion flyer além do post.
+
+- [Plano](estrategia/2026-11-feirao-ponta-de-estoque.md): motion na qua 18/11 · post fixado na sex 20/11 · motion "FALTAM 3 DIAS." na qua 25/11 · "É AMANHÃ." nos stories da sex 27/11 · stories ao vivo no sáb 28/11.
+- [Motion flyer](conteudo/roteiros/2026-11-18-motion-flyer-feirao-28-11.md), 19s, com o gancho "ESQUECE O MUNDO." (frase do cliente) e a direção pro Remotion. A paleta foi amostrada das artes da loja e o tema `maicom/theme.ts` é novo.
+- [Post](conteudo/posts/2026-11-20-feirao-28-11-anuncio.md) com o R$ 1,00 como maior elemento e "ESQUECE O MUNDO E VEM PRA MAICOM!" como CTA.
+- A Lone acrescentou o rodapé "Chope só para maiores de 18 anos. Se beber, não dirija.", porque a loja fica na rodovia.
+- **Validador → v1.1:** o gancho "Rei do 1 Real" foi descartado, porque somado ao R$ 1,00 sem unidade sugeria "tudo a 1 real". No motion, a tarja de bebida passou a entrar junto com o CHOPE. Na legenda, "por conta da casa" virou "liberados" e o "mede o cômodo" saiu.
+- 🟡 O fim do evento não foi informado e nenhuma peça diz. É preciso alguém respondendo o WhatsApp de 18 a 28/11.
+
+---
+
 ## 2026-11-10 — Post de sexta 13/11: "Trocar o piso não precisa ser da casa toda!" (v1.1)
 
 [Peça](conteudo/posts/2026-11-13-comeca-pela-sala.md), estático de venda em afirmação direta: *"TROCAR O PISO NÃO PRECISA SER DA CASA TODA! / COMEÇA PELA SALA."*, com o apoio *"Mais de 1.000 modelos de piso pra escolher."* e um selo pequeno de "em até 10x sem juros". CTA: traz a medida da sala e vem escolher na Amaral Peixoto, KM 131.

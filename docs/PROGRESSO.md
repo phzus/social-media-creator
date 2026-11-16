@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-16 (3) — Maicom: campanha do Super Feirão de Ponta de Estoque (sáb 28/11)
+
+O cliente mandou áudio com "pisos a partir de R$ 1,00" e chope, refrigerante e churrasco liberados. [Plano](../clients/maicom-minerais-unamar/estrategia/2026-11-feirao-ponta-de-estoque.md) de qua 18 a sáb 28/11, com [motion flyer](../clients/maicom-minerais-unamar/conteudo/roteiros/2026-11-18-motion-flyer-feirao-28-11.md) e direção Remotion, mais o [post fixado](../clients/maicom-minerais-unamar/conteudo/posts/2026-11-20-feirao-28-11-anuncio.md). Validado v1.1.
+
+---
+
 ## 2026-11-16 (2) — BodySkin: briefing de copy da virilha total
 
 PH vai passar pra um copywriter. [Briefing](../clients/bodyskin-araruama/conteudo/posts/2026-11-16-briefing-copy-virilha-total.md) com a oferta literal, os ângulos já usados em novembro e as travas de compliance.
