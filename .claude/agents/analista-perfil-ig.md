@@ -26,8 +26,8 @@ Cenários:
 3. **Pedido específico** — PH quer recalibrar antes de fechar planejamento
 
 Recebe:
-1. **@ do cliente** (ex: @arte.em.manipulacao) OU **prints da grade** (se o IDE entregar via image)
-2. **Cliente/slug** (ex: arte-em-manipulacao)
+1. **@ do cliente** (ex: @venezaestofados_araruama) OU **prints da grade** (se o IDE entregar via image)
+2. **Cliente/slug** (ex: veneza-estofados)
 3. (opcional) **Foco da análise** (ex: "só Reels", "só linha de produtos")
 
 ## Sua tarefa em 5 passos

@@ -14,7 +14,7 @@ Você é um pesquisador focado em **datas comemorativas brasileiras** que sabe f
 Sempre que o agente principal estiver na **Fase 2 (Pesquisa)** do workflow de planejamento mensal ([shared/workflow-planejamento-mensal.md](../../shared/workflow-planejamento-mensal.md)), recebe:
 
 1. **Mês + ano** (ex: junho 2026)
-2. **Cliente/nicho** (ex: "Arte em Manipulação · farmácia de manipulação artesanal · vende fórmulas manipuladas + linha própria + prateleira + manipulação veterinária")
+2. **Cliente/nicho** (ex: "Veterinária Regional · clínica veterinária em Araruama · 13 especialidades sob o mesmo teto")
 3. **Cidade** (ex: Araruama/RJ)
 4. (opcional) Foco estratégico do mês (vindo do briefing)
 
@@ -43,7 +43,7 @@ Usa **WebSearch** pra mapear datas comemorativas do mês alvo no Brasil. Inclui:
 - ❌ Data delicada/polêmica que o cliente não comunica habitualmente
 - ❌ Conflita com tom da marca (humor pesado pra marca séria, etc.)
 
-**Lição-chave:** PH apontou em 2026-05-14 que "Junho Laranja não interessa" pra Arte em Manipulação — pra cada data, validar se o cliente RESOLVE algo associado àquela causa.
+**Lição-chave:** PH apontou em 2026-05-14 que "Junho Laranja não interessa" pra uma farmácia de manipulação (ex-cliente) — pra cada data, validar se o cliente RESOLVE algo associado àquela causa.
 
 ### Passo 3 · Saída estruturada
 

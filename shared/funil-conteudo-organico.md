@@ -135,4 +135,4 @@ Documentar o mapeamento como anexo da estratégia mensal (`clients/<slug>/refere
 
 ## Histórico
 
-- **2026-05-14** — Documento criado a partir da instalação do MSE-Funnel-Labs-V2 como referência. Aplicação inicial no plano de conteúdo da Arte em Manipulação (ver [clients/arte-em-manipulacao/referencias/2026-05-14-mapeamento-funil-conteudo.md](../clients/arte-em-manipulacao/referencias/2026-05-14-mapeamento-funil-conteudo.md)).
+- **2026-05-14** — Documento criado a partir da instalação do MSE-Funnel-Labs-V2 como referência. Aplicação inicial no plano de conteúdo da Arte em Manipulação (ver clients/arte-em-manipulacao/referencias/2026-05-14-mapeamento-funil-conteudo.md (pasta excluída em 16/11, no git até `e69bc1c`)).

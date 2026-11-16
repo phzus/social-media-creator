@@ -51,7 +51,7 @@ Se Claude concluir um prompt sem ter atualizado nenhum doc apesar de PH ter comp
 
 ## Multi-cliente — como funciona
 
-Cada cliente tem sua pasta isolada em [clients/&lt;slug&gt;/](clients/). O slug é o nome da empresa em kebab-case (ex.: `arte-em-manipulacao`).
+Cada cliente tem sua pasta isolada em [clients/&lt;slug&gt;/](clients/). O slug é o nome da empresa em kebab-case (ex.: `veneza-estofados`).
 
 Estrutura padrão por cliente:
 

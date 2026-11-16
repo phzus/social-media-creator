@@ -26,7 +26,6 @@
 | **Veneza Estofados** | Rod. Amaral Peixoto, KM 90, nº 3 — Bananeiras, Araruama/RJ | (22) 98811-4216 | ⚠️ não veio na lista de PH. Divergência conhecida: site usa **DDD 21**, artes usam **DDD 22** |
 | **Império Material de Construção** | Av./Rod. Lacerda Agostinho — Linha Azul, Macaé/RJ | (22) 99743-3328 (bio) · (22) 99932-7201 (posts) | ⚠️ não veio na lista. **Falta número e CEP** do endereço + qual dos 2 é o oficial |
 | **Atlas Corretora** | — (100% digital, sem loja física, atende o Brasil todo) | 🔴 **não temos** | 🔴 não veio na lista. Canal de CTA segue como bloqueante |
-| **Engetec** | Estrada Araruama Rio Bonito, Lot. 11A — Paracatu, Araruama/RJ (BRIEFING de 11/05) | (22) 99715-7096 (BRIEFING de 11/05) | 🟡 onboarding parado desde 11/05 (pasta tem BRIEFING, context e referências); dados de maio, reconfirmar antes de usar |
 
 ## 2. Clientes na lista de PH que **não têm pasta no repositório**
 

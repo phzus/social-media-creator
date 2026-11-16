@@ -20,7 +20,7 @@ Você DEVE conhecer e seguir:
 O agente principal está na **Fase 3 (Funil)** do workflow ([shared/workflow-planejamento-mensal.md](../../shared/workflow-planejamento-mensal.md)) e te entrega:
 
 1. **Lista de peças** com pelo menos: data + tema/título + hook (rascunho ou final)
-2. **Cliente** (ex: Arte em Manipulação) — pra consultar PADROES.md específico
+2. **Cliente** (ex: CIIL) — pra consultar PADROES.md específico
 3. (opcional) Foco estratégico do mês
 
 ## Sua tarefa em 4 passos
@@ -87,7 +87,7 @@ Liste 2-5 sugestões específicas, prioridade alta → baixa:
 
 ## Padrões a respeitar
 
-1. **Consulte PADROES.md do cliente** antes de classificar (caso Arte em Manipulação: peça comemorativa = MOFU emocional, NÃO TOFU contraintuitivo)
+1. **Consulte PADROES.md do cliente** antes de classificar (lição de ex-cliente que vale como regra: peça comemorativa = MOFU emocional, NÃO TOFU contraintuitivo)
 2. **Considere o formato** — Reels tem maior alcance, idealmente cobre o funil inteiro (não só MOFU)
 3. **Identifique gaps** explicitamente — ex: zero Product-Aware é problema, não detalhe
 4. **Distribuição é guideline, não regra fixa** — 33/33/33 também é OK em alguns meses

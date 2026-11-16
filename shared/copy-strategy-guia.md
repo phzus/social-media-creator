@@ -2,7 +2,7 @@
 
 > Guia operacional pra escrever copy que **persuade**, não só comunica. Complementa o [voice-quality-checklist](voice-quality-checklist.md) (que filtra forma) com o que importa primeiro: **estratégia**. Vale pra todos os clientes da Lone.
 >
-> **Origem:** feedback do Gabriel (copywriter) em 2026-06-01 sobre as Peças 8 e 9 da campanha-ponte da Dumar — registro completo em [clients/dumar/referencias/2026-06-01-feedback-gabriel-copywriter-strategy-vs-form.md](../clients/dumar/referencias/2026-06-01-feedback-gabriel-copywriter-strategy-vs-form.md).
+> **Origem:** feedback do Gabriel (copywriter) em 2026-06-01 sobre as Peças 8 e 9 da campanha-ponte da Dumar — registro completo em clients/dumar/referencias/2026-06-01-feedback-gabriel-copywriter-strategy-vs-form.md (pasta da Dumar excluída em 16/11, o registro está no git até o commit `e69bc1c`).
 
 ---
 
