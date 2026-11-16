@@ -4,6 +4,29 @@ Log datado do trabalho feito pro Império. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-11-16 — Post de sexta 20/11: "Pensou em sofisticação? Porta sanfonada Duda, linha amadeirada"
+
+[Peça](conteudo/posts/2026-11-20-novidade-porta-sanfonada-amadeirada-duda.md): estático 4:5, lançamento de produto sem preço.
+- **Pedido do cliente por WhatsApp** ([referência](referencias/2026-11-16-pedido-porta-sanfonada-duda.md)): *"Novidades / Pensou em sofisticação / Marca duda / Elegância / Favor fazer a arte"*, com a p. 46 do catálogo (Imbuia e Cerejeira; 2,10 m; 62, 72, 84 e 94 cm).
+- **Mecanismo:** anúncio direto, com o gancho nas palavras do cliente.
+- **Lente Hormozi:** a sanfonada dobra pro lado e não precisa do espaço de abertura de uma porta comum.
+
+**Validador-copy (v1.1):** 0 bloqueantes e 3 importantes aplicados.
+- A faixa virou "MEDIDAS DA LINHA", porque o estoque não foi informado.
+- "Agora tem" virou "chegou na Império".
+- "Elegância" entrou na legenda.
+
+**Pendências:**
+- PDF do catálogo ou foto da porta exposta na loja. O print é de tela de celular, em baixa resolução.
+- Confirmar que a linha é da Duda: o nome está só na mensagem do cliente.
+- Medidas e cores em estoque.
+
+**Mix:** chegou ao limite de 2 ofertas em 5 posts, então a próxima peça não pode ser oferta pura.
+
+**Prazo:** brief ao designer até qua 18/11. Sexta 20/11 é feriado (Consciência Negra), e a peça não fala de abertura.
+
+---
+
 ## 2026-11-16 — Post de segunda 16/11: "Saco de cimento encostado no chão puxa umidade e pode empedrar."
 
 [Peça](conteudo/posts/2026-11-16-saco-de-cimento-no-chao-empedra.md): estático 4:5, educativo, no lote de segunda com a lente Hormozi (esforço/sacrifício: não perder o material já pago). Mecanismo **regra de bolso com número**: "30 CM do chão e da parede", pilha de até 10 sacos, sobre estrado e em lugar coberto. Continua a linha do básico de 13/11 com outra função (a sexta vendeu, a segunda ensina a guardar). CTA: "MANDE A LISTA DO MATERIAL NO WHATSAPP!".

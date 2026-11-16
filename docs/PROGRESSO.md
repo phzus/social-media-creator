@@ -4,6 +4,14 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-16 (7) — Império: porta sanfonada Duda, linha amadeirada (sex 20/11)
+
+- **Pedido do cliente:** "Novidades / Pensou em sofisticação / Marca duda / Elegância / Favor fazer a arte", com uma página do catálogo. O contato "Deus na frente" não estava no repo, e PH confirmou que é a Império.
+- **Peça:** estático "PENSOU EM SOFISTICAÇÃO? PORTA SANFONADA DUDA, LINHA AMADEIRADA", com Imbuia e Cerejeira e o CTA "CHAMA NO WHATSAPP E CONFIRA A SUA MEDIDA!".
+- **Validador:** v1.1, 0 bloqueantes.
+- **Pendência:** o catálogo em alta resolução.
+- Detalhes no [PROGRESSO da Império](../clients/imperio-material-de-construcao/PROGRESSO.md).
+
 ## 2026-11-16 (6) — ROP Para-brisas: cliente novo, onboarding pelos fixados
 
 - **Cliente:** vidros automotivos com 3 lojas (Rio das Ostras, Macaé, Campos) e atendimento móvel. Entrou pelo Benchmark (13/11) e pelo Briefing Estratégico (16/11) de outro setor, que são hipótese até a reunião.
