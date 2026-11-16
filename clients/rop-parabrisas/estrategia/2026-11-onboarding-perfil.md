@@ -2,20 +2,24 @@
 
 **Ordem:** primeiro o perfil pronto pra converter, depois os posts do rodízio. É o mesmo caminho da Mestre da Obra e a semana 1 do plano do benchmark.
 
-## 1. Fixados
+## 1. Fixados: três estáticos de arte única (PH, 16/11)
 
-| # | Peça | Formato | Pode subir quando |
-|---|---|---|---|
-| 1 | [A ROP vai até você](../conteudo/roteiros/2026-11-16-fixado-1-rop-vai-ate-voce.md) | Reels falado | Depois da captação de um atendimento móvel real e das regras do móvel. Até lá fica fixado o Reel de 3.464 views, se a curtida confirmar |
-| 2 | [Para-brisa trincado ou quebrado? A ROP troca](../conteudo/posts/2026-11-16-fixado-2-quem-e-a-rop.md) | Carrossel de 5 slides | **Primeiro a subir.** Usa fotos do feed. Falta só confirmar os anos (sem confirmação, o slide 5 vira "três lojas e atendimento móvel") e os endereços (só na legenda) |
-| 3 | [Pra orçar seu para-brisa, manda isso](../conteudo/posts/2026-11-16-fixado-3-como-pedir-orcamento.md) | Estático | Assim que o WhatsApp estiver definido |
+PH: *"Não sou fã dos fixados da ROP como carrossel, além de dar trabalho ninguém lê. Vamos fazer únicos: horário, localização e venda."* É o mesmo trio da Mestre da Obra.
 
-**Ordem no grid:**
-- Visualmente, o ideal é 1 móvel · 2 quem é · 3 orçamento.
-- O Instagram mostra primeiro o último fixado. Na prática, fixar na ordem inversa (3, 2, 1) e conferir no app ([regras de perfil 2026](../../celmapel-festas/referencias/2026-10-07-regras-instagram-perfil-2026.md)).
-- Enquanto o 1 não existe, o lugar dele fica com o Reel de serviço real.
+| # | Peça | Pode subir quando |
+|---|---|---|
+| 1 | [Venda: "Para-brisa trincado? A ROP troca!"](../conteudo/posts/2026-11-16-fixado-1-venda.md) | Assim que o cliente confirmar os WhatsApps, sobretudo o de Campos (OQ #2), porque os três números vão no rodapé |
+| 2 | [Localização: "A ROP tem loja em 3 cidades!"](../conteudo/posts/2026-11-16-fixado-2-localizacao.md) | Com os endereços do site confirmados, principalmente o bairro de Campos |
+| 3 | [Horário](../conteudo/posts/2026-11-16-fixado-3-horario.md) | Com o horário do cliente (OQ #19), que não está em lugar nenhum |
 
-**Saem dos fixados:** as três fachadas. Elas viram o slide 2 do fixado 2 e o destaque Lojas.
+**Ordem no grid:** o Instagram mostra primeiro o último fixado. Fixar na ordem inversa (3, 2, 1) e conferir no app ([regras de perfil 2026](../../celmapel-festas/referencias/2026-10-07-regras-instagram-perfil-2026.md)).
+
+**Saem dos fixados:** as três fachadas, que viram a arte de localização e o destaque Lojas.
+
+**O que saiu da primeira versão:**
+- O carrossel "quem é a ROP" foi apagado.
+- O Reels do móvel virou o [primeiro da série ROP Vai Até Você](../conteudo/roteiros/reels-rop-vai-ate-voce-01-atendimento-movel.md).
+- O estático "como pedir orçamento" virou [reserva de sexta](../conteudo/posts/reserva-como-pedir-orcamento.md). A lista de orçamento foi pra legenda do fixado de venda.
 
 ## 2. Bio (proposta do benchmark, publicar só depois das OQ #1, #3, #4 e #6)
 

@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-16 (8) — ROP: fixados refeitos como estáticos únicos (venda, localização, horário)
+
+- PH não quer carrossel nem Reels em fixado: *"ninguém lê"*. Virou memória (feedback-fixados-sao-estaticos-unicos).
+- O site oficial deu os endereços e WhatsApps das 3 lojas (a confirmar), e o horário não existe em lugar nenhum.
+- Detalhes no [PROGRESSO da ROP](../clients/rop-parabrisas/PROGRESSO.md).
+
 ## 2026-11-16 (7) — Império: porta sanfonada Duda, linha amadeirada (sex 20/11)
 
 - **Pedido do cliente:** "Novidades / Pensou em sofisticação / Marca duda / Elegância / Favor fazer a arte", com uma página do catálogo. O contato "Deus na frente" não estava no repo, e PH confirmou que é a Império.

@@ -4,7 +4,7 @@
 
 ## Identidade
 
-Empresa regional de para-brisas e vidros automotivos, com três lojas (Rio das Ostras, Macaé e Campos) e atendimento móvel. Instagram: @ro_parabrisas. O nome de exibição hoje é "RIO DAS OSTRAS PARABRISAS!".
+Empresa regional de para-brisas e vidros automotivos, com três lojas (Rio das Ostras, Macaé e Campos) e atendimento móvel. Instagram: @ro_parabrisas. ROP = Rio das Ostras Parabrisas (Facebook e site oficial). Endereços e WhatsApp por loja no [BRIEFING](BRIEFING.md#site-oficial-riodasostrasparabrisascom), ainda a confirmar.
 
 **Posicionamento proposto (hipótese):** especialista regional em para-brisas e vidros automotivos, com três lojas e atendimento móvel para leves, pesados e equipamentos.
 

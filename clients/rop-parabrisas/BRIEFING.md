@@ -18,13 +18,13 @@ Os dois são **hipótese** até a reunião com o cliente (regra da casa: o resum
 | Produto prioritário | Para-brisa: maior venda e maior margem | Respostas do cliente | Informado |
 | Diferencial | Disponibilidade e atendimento móvel | Respostas do cliente | Informado, sem regras (cidades, raio, taxa, agenda) |
 | Tempo de mercado | 22 anos | Respostas do cliente | 🟡 O perfil ainda diz 21. Confirmar ([OQ #1](OPEN-QUESTIONS.md)) |
-| Unidades | 3: Rio das Ostras, Macaé e Campos | Perfil (fachadas fixadas e destaques) | Observado. Endereços e horários não levantados ([OQ #5](OPEN-QUESTIONS.md)) |
+| Unidades | 3: Rio das Ostras, Macaé e Campos | Perfil e site oficial | Endereços achados no site (abaixo). Horário não encontrado ([OQ #19](OPEN-QUESTIONS.md)) |
 | Abrangência | Macaé, Rio das Ostras, Campos e vizinhas | Respostas do cliente | Informado, sem limite definido |
 | Veículos | Leves, pesados, máquinas e guindastes | Perfil e respostas | Observado. Escopo a confirmar ([OQ #6](OPEN-QUESTIONS.md)) |
 | Acervo visual | Sem fotos profissionais nem banco organizado | Respostas do cliente | Informado |
 | Objetivo | Atrair mais clientes e expor o atendimento móvel | Respostas do cliente | Informado |
-| Telefone de Campos | Dois números diferentes no perfil | Benchmark p. 2 | 🔴 Conflito ([OQ #2](OPEN-QUESTIONS.md)) |
-| Nome de exibição no Instagram | "RIO DAS OSTRAS PARABRISAS!" | Título da página pública, 16/11 | Observado. Os documentos chamam de "ROP Para-brisas" ([OQ #9](OPEN-QUESTIONS.md)) |
+| Telefone de Campos | Dois celulares: (22) 99945-4082 (página da loja no site) × (22) 99745-7568 (página de contatos) | Benchmark p. 2 + site | 🔴 Conflito ([OQ #2](OPEN-QUESTIONS.md)) |
+| Nome | Rio das Ostras Parabrisas, sigla ROP. O Facebook se chama "Rio Das Ostras Parabrisas - ROP" e o site é riodasostrasparabrisas.com | Facebook + site + título do Instagram, 16/11 | ✅ Sigla confirmada em fonte pública. Grafia oficial ("Para-brisas" ou "Parabrisas") a confirmar ([OQ #9](OPEN-QUESTIONS.md)) |
 
 ## Perfil em 13/11 (fotografia do benchmark)
 
@@ -51,4 +51,33 @@ Os dois são **hipótese** até a reunião com o cliente (regra da casa: o resum
 
 ## Busca pública (16/11)
 
-A busca aberta por endereço, telefone e CNPJ não achou nada. A página do Instagram aberta sem login só mostra o nome de exibição. A coleta logada fica pra quando PH decidir, por causa do risco de bloqueio da conta.
+**Primeira busca:** pelo nome "ROP Para-brisas", sem resultado. **Segunda busca:** pelo nome do perfil, "Rio das Ostras Parabrisas", que achou o site oficial e três CNPJs, um por cidade (Econodata).
+
+### Site oficial: riodasostrasparabrisas.com
+
+O site é antigo:
+- ainda cita "Radio ID" (Nextel, serviço encerrado);
+- tem links de spam de réplica de relógio injetados no rodapé, sinal de invasão (OQ #18);
+- o HTTPS está com o certificado vencido.
+
+Os dados abaixo são **achado, não confirmado**.
+
+| Loja | Endereço | Fixo | Celular / WhatsApp | E-mail |
+|---|---|---|---|---|
+| Rio das Ostras | Rua Jorge Ulrick, 239, Costazul, CEP 28.895-262 | (22) 2771-9044 | (22) 99996-8991 (WhatsApp) | ropostras@riodasostrasparabrisas.com |
+| Macaé | Rua José de Aguiar Franco, 2026, Costa do Sol, CEP 27.923-320 | (22) 2770-5205 | (22) 99945-1806 | ropmacae@riodasostrasparabrisas.com |
+| Campos | Rua Rocha Leão, 207, Caju, CEP 28.051-170 | (22) 2732-2453 | (22) 99945-4082 (página da loja) × (22) 99745-7568 (contatos) | ropcampos@riodasostrasparabrisas.com |
+
+**Campos:** um guia público dá o bairro Parque Leopoldina para a mesma rua. O cadastro de CNPJ de uma das empresas de Campos dá a Av. 15 de Novembro, 209.
+
+**Serviços listados no site:**
+- troca de para-brisa;
+- restauração de para-brisa;
+- troca de lanternas;
+- troca de retrovisor;
+- conserto de elevadores (de vidro);
+- insulfilm.
+
+**Seguradoras listadas no site:** Itaú, Mapfre, Bradesco, BB, Zurich, Caixa, Porto Seguro e Alfa. Não usar sem confirmação (OQ #7).
+
+**Horário:** não aparece no site, no perfil nem nos guias.

@@ -12,19 +12,20 @@
 | # | Pergunta | Por que importa (o que destrava) |
 |---|---|---|
 | 1 | Como funciona o atendimento móvel: quais cidades, raio, taxa e agenda? A troca é feita no local, ou lá só acontece a avaliação? Atende caminhão? | É o diferencial que vocês mais querem mostrar. Sem essas regras, só dá pra anunciar "sob consulta" |
-| 2 | Um WhatsApp central ou um por loja? Quem responde? E qual é o número certo de Campos (aparecem dois)? | Todo CTA leva pra esse número. O fixado de orçamento só sobe com ele definido |
-| 3 | São 22 anos? O perfil ainda diz 21. | Vai pra bio e pro fixado de apresentação |
+| 2 | Um WhatsApp central ou um por loja? Quem responde? E qual é o celular de Campos: 99945-4082 ou 99745-7568? | Todo CTA leva pra esse número. Os fixados mandam pro WhatsApp de cada loja |
+| 3 | São 22 anos? O perfil ainda diz 21. | Vai pra bio e pro fixado de venda |
 | 4 | Quem pode gravar nas lojas e nos atendimentos? Dá pra separar uma manhã de captação? | O que mais funcionou no perfil foi serviço real em vídeo. O próximo passo depende de material novo |
 | 5 | Troca vidro de máquina e de guindaste? Faz lateral e traseiro? Faz reparo ou só troca? | Decide o que entra nas peças de pesados e o que fica de fora |
 | 6 | Atende pelo seguro? Com quais seguradoras? Dá garantia? | São dúvidas comuns de quem pede orçamento. O concorrente de Rio das Ostras usa isso na bio |
 | 7 | Rodaram anúncio antes? Podem liberar o acesso ao Insights? | Pra saber qual vídeo funcionou de verdade e medir conversa, e não só view |
-| 8 | Endereço e horário das três lojas, e logo em vetor | Bio, destaque Lojas e fixado de apresentação |
+| 8 | Horário das três lojas, e os endereços do site estão certos (Campos: Caju ou Parque Leopoldina)? Logo em vetor | Fixados de horário e localização. O horário não está em lugar nenhum |
 
 ## 2. 💡 Insights e oportunidades que a Lone observou
 
 - **O vídeo de serviço real é o que mais roda no perfil.** O Reel de vidro quebrado com remoção e instalação teve cerca de 5 vezes a mediana (3.464 contra 605, número público e sem conferir curtida).
-- **O móvel está escondido num destaque.** É o que tira a maior dificuldade de quem tem o vidro quebrado, e merece um fixado e uma série própria.
-- **Os três fixados de hoje são fachadas.** A proposta é juntar as fachadas num carrossel e usar os outros dois fixados pro móvel e pro orçamento.
+- **O móvel está escondido num destaque.** É o que tira a maior dificuldade de quem tem o vidro quebrado, e merece uma série própria (ROP Vai Até Você) e lugar no fixado de venda.
+- **Os três fixados de hoje são fachadas.** A proposta é juntar as três numa arte de localização e usar os outros dois pra venda e horário.
+- **O site está com spam injetado e dados antigos (Nextel).** É o primeiro resultado pra quem busca o nome no Google. Vale atualizar ou tirar do ar.
 - **Pedir orçamento pode ficar mais simples:** foto do vidro, modelo e ano, cidade. Com isso, o atendimento também começa a registrar de onde vem cada cliente.
 
 ## 3. ⚠️ Riscos e alertas
@@ -36,7 +37,8 @@
 ## 4. 📋 Falta fazer do nosso lado
 
 - [x] Pasta do cliente, BRIEFING, context e PADROES (16/11).
-- [x] Copy dos 3 fixados (16/11), aguardando PH.
+- [x] Copy dos 3 fixados (16/11), refeitos como estáticos de arte única: venda, localização e horário.
+- [x] Endereços e WhatsApps achados no site oficial (16/11), a confirmar.
 - [ ] Conferir curtida por view dos 12 Reels (abrir o perfil logado ou pedir print do Insights).
 - [ ] Bio e destaques novos, depois das respostas 1, 2, 3 e 8.
 - [ ] Brief da captação (lista de cenas) depois da resposta 4.

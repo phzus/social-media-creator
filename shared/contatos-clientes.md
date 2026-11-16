@@ -26,7 +26,7 @@
 | **Veneza Estofados** | Rod. Amaral Peixoto, KM 90, nº 3 — Bananeiras, Araruama/RJ | (22) 98811-4216 | ⚠️ não veio na lista de PH. Divergência conhecida: site usa **DDD 21**, artes usam **DDD 22** |
 | **Império Material de Construção** | Av./Rod. Lacerda Agostinho — Linha Azul, Macaé/RJ | (22) 99743-3328 (bio) · (22) 99932-7201 (posts) | ⚠️ não veio na lista. **Falta número e CEP** do endereço + qual dos 2 é o oficial |
 | **Atlas Corretora** | — (100% digital, sem loja física, atende o Brasil todo) | 🔴 **não temos** | 🔴 não veio na lista. Canal de CTA segue como bloqueante |
-| **ROP Para-brisas** (Rio das Ostras, Macaé, Campos) | ❓ não levantado (busca pública de 16/11 sem resultado) | ❓ central ou por loja a definir; Campos tem 2 números divergentes no perfil | 🔴 OQ #2, #3 e #5 da ROP |
+| **ROP Para-brisas** — Rio das Ostras / Macaé / Campos | R. Jorge Ulrick, 239, Costazul (RO) · R. José de Aguiar Franco, 2026, Costa do Sol (Macaé) · R. Rocha Leão, 207 (Campos, bairro Caju × Parque Leopoldina) | RO (22) 99996-8991 · Macaé (22) 99945-1806 · Campos (22) 99945-4082 × (22) 99745-7568 | 🟡 Site oficial antigo (16/11), a confirmar. Campos 🔴 (OQ #2/#5 da ROP). Horário não encontrado |
 
 ## 2. Clientes na lista de PH que **não têm pasta no repositório**
 

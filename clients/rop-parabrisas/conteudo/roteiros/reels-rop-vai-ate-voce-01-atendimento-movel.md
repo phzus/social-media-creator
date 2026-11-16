@@ -1,11 +1,13 @@
-# Fixado 1 — "A ROP vai até você" (Reels, atendimento móvel)
+# Reels — ROP Vai Até Você #01: atendimento móvel
 
-**Cliente:** rop-parabrisas · **Plataforma:** Instagram · **Formato:** Reels falado ([roteiro institucional da casa](../../../../shared/templates/roteiro-institucional.md)), 25 a 35s, capa 3:4 · **Função:** post fixado, fora do rodízio · **Funil:** MOFU, conversão · **Público:** B2C
-**Série:** abre a ROP Vai Até Você · **Status:** 🟡 v1.1, validada em 16/11, aguarda PH. 🔴 **Depende da captação de um atendimento móvel real** (OQ #11)
+**Cliente:** rop-parabrisas · **Plataforma:** Instagram · **Formato:** Reels falado ([roteiro institucional da casa](../../../../shared/templates/roteiro-institucional.md)), 25 a 35s, capa 3:4 · **Função:** Reels de quarta, abre a série ROP Vai Até Você · **Funil:** MOFU, conversão · **Público:** B2C
+**Série:** ROP Vai Até Você · **Data:** sem data, entra na primeira quarta depois da captação · **Status:** 🟡 v1.1, validada em 16/11, aguarda PH.
+
+> **Deixou de ser fixado em 16/11.** PH: *"Não sou fã dos fixados da ROP como carrossel, além de dar trabalho ninguém lê. Vamos fazer únicos: horário, localização e venda."* O roteiro continua valendo como o primeiro Reels da série do móvel. 🔴 **Depende da captação de um atendimento móvel real** (OQ #11)
 
 ---
 
-## Por que esse fixado
+## Por que esse Reels
 
 - **O móvel é o diferencial que o cliente informou.** É o que tira a maior fricção: levar até a loja um veículo com o vidro quebrado. Hoje ele só aparece num destaque.
 - **É Reels porque o móvel se prova em movimento.** A equipe aparece chegando e trabalhando no endereço. Arte dizendo "vamos até você" é promessa, e o vídeo é prova.
@@ -49,12 +51,12 @@ Quem fala: técnico ou atendente da ROP, no local do atendimento.
 
 Um atendimento móvel real, do começo ao fim: vidro danificado, chegada da equipe, o serviço no local e o veículo pronto. Pela regra do briefing (3 vídeos de 5 a 10s por etapa), um serviço basta. Placa e rosto de cliente só com autorização.
 
-**Até ter a captação:** manter fixado o Reel atual de 3.464 views ("vidro quebrado + remoção + instalação"), **depois de conferir a curtida** (PADROES §8). Ele mostra serviço real, mesmo que não seja móvel.
+
 
 ## Validações
 
 - **Cidades do móvel:** a fala 1 cita as três cidades das lojas. Se o móvel não atender as três, a fala vira só as cidades atendidas (OQ #4).
-- **Pesados:** fora deste fixado até a OQ #6. Quando confirmar, entram em peça B2B própria.
+- **Pesados:** fora deste Reels até a OQ #6. Quando confirmar, entram em peça B2B própria.
 - **WhatsApp:** central ou por unidade (OQ #3).
 - **Quem grava:** equipe da Lone ou o próprio cliente (OQ #11). Se for o cliente, o PDF leva o box "Como gravar".
 

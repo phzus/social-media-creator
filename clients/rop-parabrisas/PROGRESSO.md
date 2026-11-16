@@ -4,6 +4,38 @@ Log datado, mais recente no topo.
 
 ---
 
+## 2026-11-16 (2) — Fixados refeitos como estáticos únicos (PH) + dados do site oficial
+
+PH: *"Não sou fã dos fixados da ROP como carrossel, além de dar trabalho ninguém lê. Vamos fazer únicos: horário, localização e venda."* A regra ficou registrada na memória (feedback-fixados-sao-estaticos-unicos).
+
+**Fixados novos (v1.1, validados):**
+
+| # | Peça | Trava |
+|---|---|---|
+| 1 | [Venda: "PARA-BRISA TRINCADO? A ROP TROCA!"](conteudo/posts/2026-11-16-fixado-1-venda.md) | WhatsApp de Campos (vai no rodapé com os outros dois) |
+| 2 | [Localização: "A ROP TEM LOJA EM 3 CIDADES!"](conteudo/posts/2026-11-16-fixado-2-localizacao.md), três cards com fachada, endereço e WhatsApp | Endereço e WhatsApp de Campos. RO e Macaé, confirmar |
+| 3 | [Horário](conteudo/posts/2026-11-16-fixado-3-horario.md) | Sem dado em lugar nenhum (OQ #19) |
+
+**O que saiu da primeira versão:**
+- o carrossel foi apagado;
+- o Reels do móvel virou [ROP Vai Até Você #01](conteudo/roteiros/reels-rop-vai-ate-voce-01-atendimento-movel.md);
+- o estático de orçamento virou [reserva de sexta](conteudo/posts/reserva-como-pedir-orcamento.md).
+
+**Validador:** os bloqueantes foram:
+- rodapé "link da bio", que obrigava a sair da arte. Os números entraram na arte;
+- [22] como slot na arte, que saiu;
+- bairro de Campos em conflito, que saiu.
+
+**Site oficial achado** (busca por "Rio das Ostras Parabrisas"; a busca por "ROP" não achava nada). Dados no [BRIEFING](BRIEFING.md#site-oficial-riodasostrasparabrisascom):
+- endereços e WhatsApp das 3 lojas;
+- 8 seguradoras listadas;
+- os dois celulares de Campos (é a divergência que o benchmark tinha visto);
+- ROP = Rio das Ostras Parabrisas.
+
+O site está com spam injetado e dados da época da Nextel, o que virou a OQ #18 (avisar o cliente).
+
+---
+
 ## 2026-11-16 — Onboarding: pasta do cliente + 3 fixados
 
 **Origem:** PH repassou dois documentos de outro setor da Lone: o [Benchmark Estratégico de 13/11](referencias/2026-11-13-benchmark-edicao-base.pdf) e o [Briefing Estratégico para a IA de 16/11](referencias/2026-11-16-briefing-estrategico.pdf). Pedido: *"já vamos pensando nos fixados e onboarding"*.
