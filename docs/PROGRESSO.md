@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-16 (2) — BodySkin: briefing de copy da virilha total
+
+PH vai passar pra um copywriter. [Briefing](../clients/bodyskin-araruama/conteudo/posts/2026-11-16-briefing-copy-virilha-total.md) com a oferta literal, os ângulos já usados em novembro e as travas de compliance.
+
+---
+
 ## 2026-11-16 — Lote de segunda 16/11: 12 peças em 11 clientes, com a lente Hormozi
 
 PH pediu o lote com o [framework Hormozi](../core/frameworks/hormozi-offer.md) e o @claudinho. Cada peça tem um campo "Lente Hormozi" que diz qual variável da Equação de Valor ela move. Garantia, stack e escassez só entram se forem reais, então nenhuma peça usou. Todas passaram pelo validador-copy e estão em v1.1.

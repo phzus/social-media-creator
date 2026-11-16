@@ -4,6 +4,15 @@ Log datado do trabalho feito pra BodySkin. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-11-16 (2) — Briefing de copy da virilha total pra copywriter
+
+PH: *"A gente pode colocar a oferta de virilha completa. Cria esse briefing só pra eu passar pra um copywriter."* O [briefing](conteudo/posts/2026-11-16-briefing-copy-virilha-total.md) é autossuficiente, escrito pra quem não conhece a conta. Traz a oferta literal do §7 (10 sessões, 10x de R$ 69,90 ou R$ 699 à vista, vouchers limitados), os 5 ângulos de novembro que não podem voltar, as alavancas reais da Equação de Valor (a confiança é a principal) e as proibições (sem "de R$ 5.500", sem promessa, sem duplo sentido).
+
+- **Termo:** "virilha total", como está na tabela da cliente, e não "completa", pra bater com a fala da atendente.
+- **Slot:** assumi que a virilha entra no lugar do rosto na segunda 16/11, e a peça do rosto fica de reserva. PH confirma.
+
+---
+
 ## 2026-11-16 — Segunda 16/11: "Pele morena pode fazer laser no rosto?" (Novembro Black, rosto)
 
 Lote de segunda 16/11 com a lente da Equação de Valor (Hormozi, [core/frameworks/hormozi-offer.md](../../core/frameworks/hormozi-offer.md)). [Peça](conteudo/posts/2026-11-16-pele-morena-pode-fazer-laser-no-rosto.md), estático 4:5, v1.
