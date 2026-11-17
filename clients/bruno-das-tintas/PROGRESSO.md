@@ -1,5 +1,9 @@
 # Progresso — Bruno das Tintas
 
+## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
+
+- [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH. Isolada da Araruama Tintas: Bruno = quem foi Zumbi; Araruama = compromisso da loja.
+
 ## 2026-11-17 — Reels da Black (qua 25/11) v2.1 no padrão novo de roteiro · validado
 
 PH pediu o roteiro da Black no padrão da casa. A [v2.1](conteudo/roteiros/2026-11-25-black-friday-condicoes.md), com [PDF](apresentacoes/2026-11-17-roteiro-black-friday.pdf), tem 6 cenas:

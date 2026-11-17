@@ -4,6 +4,10 @@ Log datado do trabalho feito pra MR Distribuidora. Topo = mais recente. Entrada 
 
 ---
 
+## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
+
+- [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH.
+
 ## 2026-11-16 — Post de segunda 16/11: "O cliente aprovou o padrão no 3D."
 
 [Peça](conteudo/posts/2026-11-16-padrao-aprovado-no-3d.md): estático 4:5, série "Do projeto para a lista", lote de segunda com a lente Hormozi (probabilidade percebida: o móvel entregue é o que o cliente aprovou). Mecanismo **ordem invertida do projeto**: o 3D vai pro cliente antes de conferir os padrões disponíveis. A semana abre no MDF, porque a anterior foi de ferragem. CTA provisório: "Pergunte no WhatsApp quais padrões a MR tem em estoque". O CTA de MDF do PADROES §5 ("Peça o catálogo de padrões disponíveis") entra depois que a MR confirmar o catálogo.

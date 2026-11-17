@@ -4,6 +4,10 @@ Log datado do trabalho feito pra Celmapel. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
+
+- [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH. 🟡 Recomendação: encarte pra seg 23/11 (§9) e bloco 09 do Esquenta Black fora da sexta (OQ #56).
+
 ## 2026-11-11 — Esquenta Black (12 a 21/11): registro + stories do dia 01
 
 O cliente mandou o calendário do **Esquenta Black · Celmapel Festas + Loja do Confeiteiro** (9 blocos de 12 a 21/11, 3 produtos por dia), o bloco 01 com preço e 30 fotos reais de produto na mão, no corredor da loja. [Registro literal e mapa de fotos](referencias/2026-11-11-esquenta-black-calendario-e-bloco-01.md).

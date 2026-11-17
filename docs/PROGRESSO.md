@@ -4,6 +4,54 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-17 (2) — Dia da Consciência Negra (sex 20/11): homenagem pra 18 contas
+
+- **Pedido de PH:** post de homenagem pra toda a carteira, menos os onboardings recentes (Casa das Telhas, Mestre da Obra e ROP).
+- **Arquivos:** um por conta, em `clients/<slug>/conteudo/posts/2026-11-20-consciencia-negra-homenagem.md`.
+- **Modelo:** homenagem direta do [checklist §2.8](../shared/voice-quality-checklist.md): kicker com a data, título, apoio, fecho "Nossa homenagem…" e assinatura. Atlas, Contele, CRB e Max ficam sem exclamação, como pede a PADROES de cada uma.
+- **Ângulos:** cada conta tem uma mensagem central diferente, pra o lote não repetir frase.
+  - Bruno: quem foi Zumbi.
+  - Araruama Tintas: compromisso da loja.
+  - Atlas: feriado nacional desde 2024.
+  - Bazar: Censo 2022, 55,5% pretos ou pardos.
+  - BodySkin: mulheres negras.
+  - CRB: sociedade justa (a única metáfora de construção do lote).
+  - Celmapel: samba de roda e acarajé.
+  - CIIL: saúde sem racismo.
+  - Contele: quilombos da Região dos Lagos (Rasa e Preto Forro).
+  - Dijana: Disque 100.
+  - Império: último país das Américas a abolir a escravidão.
+  - Lagos e Max: cartão sóbrio.
+  - Maicom: a luta que não acabou.
+  - MR: Mestre Valentim.
+  - Veneza: cafuné e caçula.
+  - Vet Regional: ouvir e aprender.
+  - WT: combater o racismo começa em casa.
+- **Regras do lote**, escritas em cada brief:
+  - nada de Black na peça;
+  - sem trocadilho de cor, tom ou pele;
+  - sem pessoa de banco de imagem ou de IA;
+  - sem imagem de escravidão;
+  - sem "mãos que construíram";
+  - sem cores pan-africanas pintando o card;
+  - sem oferta nem horário;
+  - sem animal e sem agro (Vet e WT);
+  - "escravizado", nunca "escravo".
+- **Validação:** 2 validador-copy com o lote lado a lado + fact-check na web. Foram 4 bloqueantes, todos aplicados:
+  - Bazar: o apoio tratava a população negra como clientela.
+  - Max: a v1 entrava em DP, que o §0 da conta proíbe.
+  - WT: "família WT" não tinha fonte.
+  - BodySkin: precisa do OK da Cintia.
+- **Fact-check:** dengo saiu (origem contestada); Valentim ficou "Rio colonial / um dos principais"; Preto Forro ficou "reconhecida", sem "titulada"; Palmares ficou "principalmente" fugidos; o ano da morte de Zumbi saiu.
+- **Pendências pro PH:**
+  - 🔴 BodySkin precisa do OK da Cintia, e o cartaz Black sai de 20/11.
+  - 🔴 Max só sai com OK do escritório (§0).
+  - 🟡 Celmapel: encarte pra 23/11 e Esquenta Black fora da sexta.
+  - 🟡 Veneza: a Black sai do feed na sexta.
+  - 🟡 Maicom e Império: duas peças no feed na sexta.
+  - 🟡 Vet: o check-up vai pra 27/11.
+- **Lição:** data racial não divide o dia com campanha chamada "Black", e peça de pet ou agro não leva bicho ao lado do tema. Virou memória.
+
 ## 2026-11-17 — Padrão de roteiro em PDF + 4 roteiros (Maicom, Contele, Bruno, Araruama Tintas)
 
 - PH pediu um padrão de roteiro tirado dos PDFs que já estão na máquina. O mais recente é o da Veneza Black (13/11), e virou a base: capa escura e, em cada cena, uma linha CENA (ação curta, sem direção de câmera) e uma linha FALA.

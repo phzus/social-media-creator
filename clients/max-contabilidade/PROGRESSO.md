@@ -4,6 +4,10 @@ Log datado do trabalho feito pra Max Contabilidade. Topo = mais recente. Entrada
 
 ---
 
+## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
+
+- [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH. 🔴 Só sai com OK do escritório (§0). Sem resposta até 19/11, fica arquivada.
+
 ## 2026-11-16 — Post de segunda 16/11: a nota do Simples e o crédito do cliente em 2027
 
 [Peça](conteudo/posts/2026-11-16-sua-nota-do-simples-e-o-credito-do-seu-cliente.md), estático 4:5, v1.1, foco tributário. Era a pauta reserva (IBS/CBS em 2027 visto pelo Simples). Headline: **"Em 2027, a nota do Simples pode gerar menos crédito pro seu cliente."** CTA: *"Manda no direct o que a sua empresa vende e pra quem. A gente olha o seu caso."*

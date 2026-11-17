@@ -4,6 +4,10 @@ Log datado do trabalho feito pra Veterinária Regional. Topo = mais recente. Ent
 
 ---
 
+## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
+
+- [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH. 🟡 Ocupa o slot de sexta. Check-up de verão (OQ #25) vai pra 27/11.
+
 ## 2026-11-16 (2) — Mito x Verdade de 16/11: v1.1
 
 Correções do validador aplicadas: kicker "Região dos Lagos, temporada chegando: / olhar o cocô não basta pra saber.", a linha do bicho geográfico (os ovos saem nas fezes e viram larva na areia quente e úmida), "no cocô" no lugar de "no quintal" e o bullet 4 perguntando ao veterinário. A nota Hormozi e o isolamento com a WT ficaram marcados como internos.

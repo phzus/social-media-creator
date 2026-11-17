@@ -4,6 +4,10 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ---
 
+## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
+
+- [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH. Fecha a OQ #16 (pauta do 20/11) quando PH aprovar.
+
 ## 2026-11-16 (2) — Seg 16/11 refeita: "Se a sua renda parar, quem ajuda seus pais com as contas do mês?"
 
 PH reprovou o Pix agendado: *"Não gostei do ângulo do post da Atlas, sem sentido. Pega o calendário de lá e mostra a dor do lead em relação ao serviço."* O tema do trimestral continua ("Não é só pra quem tem filho"), mas a dor agora é dita sem metáfora: a ajuda aos pais que depende da renda de quem não tem filho (o "remédio" da v2 caiu no validador, porque punha os pais como doentes). O CTA passou a ser "comenta PLANEJAR". [Peça v2](conteudo/posts/2026-11-16-quem-ajuda-seus-pais-se-a-renda-parar.md). O arquivo foi renomeado, e a v1 fica no git.

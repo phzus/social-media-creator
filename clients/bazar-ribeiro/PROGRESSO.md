@@ -4,6 +4,10 @@ Log datado do trabalho feito pro Bazar Ribeiro. Topo = mais recente. Entrada por
 
 ---
 
+## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
+
+- [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH.
+
 ## 2026-11-10 — Post de sexta 13/11: sexta-feira 13 com a escada Alumasa 5 degraus a R$ 214,40 (v1.1)
 
 [Peça](conteudo/posts/2026-11-13-sexta-13-escada-alumasa.md), layout diversificado (WD-40), os dois perfis. Headline: *"SEXTA-FEIRA 13 NINGUÉM PASSA DEBAIXO DA ESCADA. / MAS TODO MUNDO SOBE NA CADEIRA PRA TROCAR A LÂMPADA."* + bloco *"ESCADA ALUMASA 5 DEGRAUS · R$ 214,40 · BAZAR RIBEIRO"*. Pedido de PH: brincar com a sexta-feira 13 nos nichos que permitem. A graça é o contraste entre a superstição e o hábito da cadeira, sem cena de queda.

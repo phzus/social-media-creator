@@ -4,6 +4,10 @@ Log datado do trabalho feito pra Araruama Tintas. Topo = mais recente. Entrada p
 
 ---
 
+## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
+
+- [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH. Isolada da Bruno: Araruama = compromisso da loja; Bruno = quem foi Zumbi.
+
 ## 2026-11-17 — Roteiro da Black: "O que pesa na pintura" (qua 25/11) · v1.1 validado
 
 [Roteiro](conteudo/roteiros/2026-11-25-black-friday-o-que-pesa-na-pintura.md) com [PDF](apresentacoes/2026-11-17-roteiro-black-friday.pdf), 7 cenas.

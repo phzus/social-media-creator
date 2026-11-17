@@ -4,6 +4,10 @@ Log datado do trabalho feito pra Maicom. Topo = mais recente. Entrada por bloco 
 
 ---
 
+## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
+
+- [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH. 🟡 Convive com o anúncio do feirão: homenagem de manhã, feirão à tarde (opção: feirão pra 23/11).
+
 ## 2026-11-17 — Roteiro "O patrão enlouqueceu" (Super Feirão 28/11) · v1.1 validado
 
 PH pediu um roteiro no padrão novo da casa. Saiu um [esquete](conteudo/roteiros/2026-11-25-o-patrao-enlouqueceu-feirao-28-11.md) (6 cenas) com [PDF](apresentacoes/2026-11-17-roteiro-o-patrao-enlouqueceu.pdf). O patrão anuncia o feirão aos gritos e o vendedor tenta segurar. Slot: qua 25/11 no lugar do motion v2, se gravarem até seg 23/11.

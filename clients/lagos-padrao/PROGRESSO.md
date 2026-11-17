@@ -4,6 +4,10 @@ Log datado do trabalho feito pra Lagos Padrão. Topo = mais recente. Entrada por
 
 ---
 
+## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
+
+- [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH. Peça opcional, pro cliente postar se quiser.
+
 ## 2026-10-22 — Post de segunda 26/10: "O vizinho da frente prendeu o fio na fachada"
 
 [Estático 4:5](conteudo/posts/2026-10-26-vizinho-da-frente-rede-do-outro-lado.md), slot de segunda (leve/educativo como mecanismo de venda). Mecanismo novo na conta: **comparação** (vizinho da frente × você). A rede passa do lado do vizinho, então ele prende o fio na fachada; do teu lado, o fio atravessa a rua e o padrão precisa de poste particular. Vende o poste padrão sem preço. CTA na arte e na legenda, inédito: foto da frente do terreno com o poste da rua aparecendo.

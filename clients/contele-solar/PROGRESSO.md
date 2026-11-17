@@ -4,6 +4,10 @@ Log datado do trabalho feito pra Contele. Topo = mais recente. Entrada por bloco
 
 ---
 
+## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
+
+- [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH.
+
 ## 2026-11-17 — Roteiro Indique e Ganhe: "E aí, compensa mesmo?" · v1.1 validado
 
 [Roteiro](conteudo/roteiros/2026-12-02-indique-e-ganhe-quem-te-pergunta-se-compensa.md) com [PDF](apresentacoes/2026-11-17-roteiro-indique-e-ganhe.pdf), 6 cenas.

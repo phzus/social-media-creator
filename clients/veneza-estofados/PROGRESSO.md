@@ -5,6 +5,10 @@ Log datado do trabalho feito pra Veneza Estofados. Topo = mais recente. Entrada 
 ---
 
 
+## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
+
+- [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH. 🟡 A Black sai do feed na sexta. O teaser do Sábado Black vai pros stories, e a peça de venda de 20/11 (PAUTA :157) precisa de outro slot.
+
 ## 2026-11-16 — Seg 16/11: Sofá Antonella 2,30 m na Black · copy validada v1.1, 🔴 falta a foto
 
 PH pediu "produto pra Veneza". O plano da Black já marcava o Antonella pra seg 16. A [peça](conteudo/posts/2026-11-16-black-sofa-antonella-2-30.md) segue o template da arte real do Grécia (`~/Downloads/Black Friday do Sofá Borgonha.png`): "SOFÁ DE 2,30 METROS NA BLACK DA VENEZA!", com o apoio "É o maior sofá da Black, pra sala que pede sofá grande." e "de R$ 2.100,00 por R$ 1.899,99 à vista, ou 12x de R$ 181,29".

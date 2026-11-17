@@ -4,6 +4,10 @@ Log datado do trabalho feito pro Império. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
+
+- [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH. 🟡 Convive com a porta Duda: homenagem de manhã, Duda à tarde (ou homenagem nos stories).
+
 ## 2026-11-16 — Post de sexta 20/11: "Pensou em sofisticação? Porta sanfonada Duda, linha amadeirada"
 
 [Peça](conteudo/posts/2026-11-20-novidade-porta-sanfonada-amadeirada-duda.md): estático 4:5, lançamento de produto sem preço.

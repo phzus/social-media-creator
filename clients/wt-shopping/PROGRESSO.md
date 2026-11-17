@@ -4,6 +4,10 @@ Log datado do trabalho feito pra WT Shopping. Topo = mais recente. Entrada por b
 
 ---
 
+## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
+
+- [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH.
+
 ## 2026-11-16 — Post de 16/11 (enjoo) relido com a lente Hormozi, sem mudança
 
 O [post](conteudo/posts/2026-11-16-remedio-de-enjoo-de-gente-nao-e-pro-pet.md) já move probabilidade percebida e tempo (avaliação dias antes da viagem). A v1.1 fica: o CTA de "consulta pré-viagem" esbarraria na moldura que o validador tirou em 11/11 e na pendência sobre esse atendimento. Conferido contra a VR do mesmo dia: molde, cena e CTA diferentes, mas frente e público se sobrepõem (clínica veterinária, tutor de Araruama). PH decide; a data não muda sem ele. Nota corrigida: a headline proíbe e o apoio traz a ressalva de orientação.

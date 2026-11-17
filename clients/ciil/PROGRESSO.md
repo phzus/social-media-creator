@@ -4,6 +4,10 @@ Log datado do trabalho feito pra CIIL. Topo = mais recente. Entrada por bloco de
 
 ---
 
+## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
+
+- [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH.
+
 ## 2026-11-16 (2) — Isso Tem Nome 08: v1.1 + numeração conferida
 
 O fechamento passou pra versão de segurança: *"Tem tratamento, e quando há indicação de imunobiológico, ele é feito aqui na CIIL."* Assim a peça não depende do RT nesse ponto, mas o gate continua. Outras correções:

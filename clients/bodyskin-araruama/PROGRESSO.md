@@ -4,6 +4,10 @@ Log datado do trabalho feito pra BodySkin. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
+
+- [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH. 🔴 Precisa do OK excepcional da Cintia (aprova com 1 semana). Recomendação: o cartaz Black de 20/11 vai pra 23/11 ou 27/11.
+
 ## 2026-11-16 (2) — Briefing de copy da virilha total pra copywriter
 
 PH: *"A gente pode colocar a oferta de virilha completa. Cria esse briefing só pra eu passar pra um copywriter."* O [briefing](conteudo/posts/2026-11-16-briefing-copy-virilha-total.md) é autossuficiente, escrito pra quem não conhece a conta. Traz a oferta literal do §7 (10 sessões, 10x de R$ 69,90 ou R$ 699 à vista, vouchers limitados), os 5 ângulos de novembro que não podem voltar, as alavancas reais da Equação de Valor (a confiança é a principal) e as proibições (sem "de R$ 5.500", sem promessa, sem duplo sentido).
