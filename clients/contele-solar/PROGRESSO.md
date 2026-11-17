@@ -4,6 +4,24 @@ Log datado do trabalho feito pra Contele. Topo = mais recente. Entrada por bloco
 
 ---
 
+## 2026-11-17 — Roteiro Indique e Ganhe: "E aí, compensa mesmo?" · v1.1 validado
+
+[Roteiro](conteudo/roteiros/2026-12-02-indique-e-ganhe-quem-te-pergunta-se-compensa.md) com [PDF](apresentacoes/2026-11-17-roteiro-indique-e-ganhe.pdf), 6 cenas.
+- **Ângulo:** é diferente do post de 16/11. Fala com quem já é cliente e ouve "compensa?" de todo mundo. O vídeo não responde se compensa, e a Contele calcula pela conta de luz.
+- **O ganho:** fica em slot azul no PDF, pro cliente preencher. Sem ganho, sai a versão C (5 cenas, sem "ganhe").
+- **Slot sugerido:** qua 02/12. A 25/11 é da estação de energia.
+
+**Validador (1 bloqueante, aplicado):** a fala da versão C afirmava que "a mesma equipe que cuidou da sua casa" atende a indicação. Isso não está confirmado.
+
+**Ajustes aplicados:**
+- Saiu o "quanto você paga de luz agora", que insinuava economia.
+- O pronome passou a combinar entre as cenas.
+- O CTA aparece uma vez só.
+- O roteiro foi reescrito onde copiava o post.
+
+**Pendências:** ganho, gatilho e regra (OQ 16/11 #1-3).
+
+
 ## 2026-11-16 (2) — Indique e Ganhe: revisão v1.1 (validador-copy)
 
 - **Bloqueante (aplicado):** a versão de fallback da v1 ("quem indica também ganha") prometia ganho sem definição. Saiu e foi trocada pela **versão C**: kicker "INDICA A CONTELE", o vizinho da conta alta como display, CTA "Chama no WhatsApp e manda o contato de quem você quer indicar.", sem bullet de ganho e sem #IndiqueEGanhe.

@@ -4,6 +4,20 @@ Log datado do trabalho feito pra Maicom. Topo = mais recente. Entrada por bloco 
 
 ---
 
+## 2026-11-17 — Roteiro "O patrão enlouqueceu" (Super Feirão 28/11) · v1.1 validado
+
+PH pediu um roteiro no padrão novo da casa. Saiu um [esquete](conteudo/roteiros/2026-11-25-o-patrao-enlouqueceu-feirao-28-11.md) (6 cenas) com [PDF](apresentacoes/2026-11-17-roteiro-o-patrao-enlouqueceu.pdf). O patrão anuncia o feirão aos gritos e o vendedor tenta segurar. Slot: qua 25/11 no lugar do motion v2, se gravarem até seg 23/11.
+
+**Validador (1 bloqueante, aplicado):** o "UM REAL!" gritado saía sem o "a partir de" e lia "tudo a 1 real".
+
+**Ajustes aplicados:**
+- A v1 repetia o esqueleto de 25/09 (vendedor sozinho, chefe interrompendo no fim). Agora a loucura é do patrão e aparece em quadro.
+- Saiu o "antes que o patrão volte ao normal", que sugeria que o feirão podia ser cancelado.
+- A legenda deixou de ser cópia da legenda do motion.
+
+**Pendência:** quem faz o patrão e quem faz o vendedor (§6).
+
+
 ## 2026-11-16 — Campanha do Super Feirão de Ponta de Estoque (sáb 28/11)
 
 O cliente pediu por áudio ([registro literal](referencias/2026-11-16-audio-feirao-28-11.md)): pisos a partir de R$ 1,00, sem m² e sem peça, com chope, refrigerante e churrasco liberados, começando às 9h. O tom pedido foi "porra louca, esquece o mundo". PH quis uma campanha com motion flyer além do post.

@@ -4,6 +4,25 @@ Log datado do trabalho feito pra Araruama Tintas. Topo = mais recente. Entrada p
 
 ---
 
+## 2026-11-17 — Roteiro da Black: "O que pesa na pintura" (qua 25/11) · v1.1 validado
+
+[Roteiro](conteudo/roteiros/2026-11-25-black-friday-o-que-pesa-na-pintura.md) com [PDF](apresentacoes/2026-11-17-roteiro-black-friday.pdf), 7 cenas.
+- **Gancho:** o que pesa na pintura é o básico (branco, massa e resina), e é nisso que a lista da Black se concentra.
+- **Preços falados com "de/por":**
+  - Qualyvinil Rende Muito
+  - Coral e Suvinil, lado a lado
+  - Massa Klasse
+- **Condição:** fica colada no primeiro preço.
+
+**Validador (2 bloqueantes, aplicados):** "nesses produtos" e "tem mais massa, textura e resina" sugeriam que a loja toda, ou a categoria inteira, entrava na Black. A fala agora diz "numa lista".
+
+**Ajustes aplicados:**
+- O gancho saiu do molde "Você de Araruama…", que é o da Bruno no mesmo dia.
+- A massa F-E foi trocada pela Klasse. O feed mostrou a F-E a R$ 35,00 até 22/11, e o "de R$ 38,90" ia ser comparado com isso.
+
+**Pendência:** Econômica (OQ #18) segue fora.
+
+
 ## 2026-11-11 — Lista da Black Friday recebida (23 a 28/11, à vista / retirando em loja)
 
 Wanderson mandou no WhatsApp 10 produtos com "de/por" ([transcrição](referencias/2026-11-11-lista-black-friday-wanderson.md)): 5 tintas brancas de 18L/20L (Qualyvinil Rende Muito, Econômica e Premium, Coral Rende Muito, Suvinil Rende e Cobre Muito), 3 massas corridas, a Textura F-E M10 e a Resina Sol e Chuva Coral. Tabela fixada em [PADROES §7](PADROES.md). Os descontos ficam entre 16% e 23%, e os "De" que dá pra conferir batem com a tabela de 17/09.

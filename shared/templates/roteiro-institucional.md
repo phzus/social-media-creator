@@ -11,7 +11,14 @@ Entrega ao cliente: PDF a partir de [roteiro-video-entrega-cliente.html](roteiro
 - Vídeo **falado**: apresentador, atendente, dono ou locução, por cima de imagem real do cliente (B-roll da loja ou da clínica, equipe, produto).
 - **Uma fala por cena.** Cada cena é uma frase (ou duas curtas) que se diz num fôlego só, com até ~25 palavras.
 - **4 a 6 cenas, 25 a 45s.**
-- O PDF do cliente traz **só a fala de cada cena**. Não leva tempo de cena, take, ângulo nem texto de tela. A exceção é o box "Como gravar", quando quem grava é o próprio cliente (ver roteiro da Atlas Servidor Público, 22/10).
+- **PDF do cliente, padrão de 2026-11-17** (base: o PDF da Veneza Black que PH entregou em 13/11). Capa escura e, em cada cena, duas linhas:
+  - **CENA**: o que acontece, numa frase curta ("Gabriela caminhando pela fábrica", "O patrão no meio da loja, anunciando aos gritos"). É a ação e o lugar, nunca ângulo, plano ou enquadramento, que continuam com a equipe de produção.
+  - **FALA**: o que a pessoa diz. Em diálogo, o nome de quem fala vem antes ("Patrão:", "Vendedor:").
+  - Opcionais: o box "Na edição" (tarja legal, selo de preço, contato no fecho) e a página "Como gravar", quando quem grava é o próprio cliente.
+  - Fica fora: legenda, hashtags, checagem e notas internas, que ficam no `.md`.
+  - **Como gerar:** spec JSON → `python3 shared/templates/gerar-roteiro-pdf.py spec.json saida.html saida.pdf`. O CSS sai do [template HTML](roteiro-video-entrega-cliente.html).
+  - A página é A4 fixa. Com 7 cenas, o box "Na edição" pode não caber. Se não couber, ele sai do PDF e fica só no `.md`.
+  - Nome na Downloads: "Roteiro - Lone Midia x <Cliente> (<tema>).pdf".
 
 ## 2. Estrutura (5 movimentos)
 
@@ -53,6 +60,11 @@ Dá pra quebrar um movimento em duas cenas (a Celmapel PJ separa "fala com a Cel
 | Venda consumidor | Celmapel 03, 15/10 | Gancho pela ocasião (aniversário, confraternização) · fecha com assinatura |
 | Oferta com data, gravada pelo cliente | Atlas Servidor Público, 22/10 | Mais energia, caixa alta e "!" · cena de urgência · box "Como gravar" no PDF |
 | Evento na loja | Dijana Café da Manhã, 06/10 | Data absoluta numa cena própria ("É quarta-feira, 7 de outubro.") · "Vem pra Dijana." |
+| Black com causa do preço | Veneza 01, 13/11 | O porquê do preço baixo é o fio do vídeo (fábrica, ninguém no meio). 🚫 "O preço é o mesmo o ano todo" |
+| Black com ofertas de/por | Veneza 02 (13/11), Araruama Tintas (17/11) | Um produto por cena com "de X por Y" falado, e a condição colada no primeiro preço. Só em conta que mandou o preço cheio |
+| Black por forma de pagamento | Bruno das Tintas, 17/11 | Uma fala por condição (à vista, crédito, parcelado) e data no futuro enquanto o período não vier |
+| Esquete de humor com oferta | Maicom 25/09 e 17/11 | Diálogo com nome de quem fala, um preço só e CTA na boca do personagem. A cada peça, a situação muda ([PADROES §6 da Maicom](../../clients/maicom-minerais-unamar/PADROES.md)) |
+| Indique e ganhe | Contele, 17/11 | O ganho fica em slot azul no PDF até o cliente definir, e existe uma versão sem a cena do ganho |
 
 ## 5. Checklist antes do PDF
 
@@ -64,4 +76,5 @@ Dá pra quebrar um movimento em duas cenas (a Celmapel PJ separa "fala com a Cel
 - [ ] Os fatos operacionais (serviço, unidade, canal, telefone) estão no BRIEFING/context do cliente.
 - [ ] O gate do PADROES do cliente passou.
 - [ ] O validador-copy rodou.
-- [ ] O PDF tem só as falas. A legenda vai no `.md` e só entra no PDF se PH pedir.
+- [ ] O PDF tem CENA + FALA por cena (padrão de 17/11). A legenda vai no `.md` e só entra no PDF se PH pedir.
+- [ ] Lote com duas contas concorrentes (Bruno × Araruama Tintas): gancho e frase-conceito conferidos lado a lado.

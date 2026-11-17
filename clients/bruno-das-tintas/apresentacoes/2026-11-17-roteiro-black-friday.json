@@ -1,0 +1,67 @@
+{
+ "cliente": "BRUNO DAS TINTAS",
+ "rodape": "BRUNO DAS TINTAS · BLACK FRIDAY",
+ "capa": {
+  "linha1": "Black Friday",
+  "linha2": "da Bruno das Tintas",
+  "lede": "Roteiro para Reel: uma condição pra cada jeito de pagar, na sexta, 27/11."
+ },
+ "roteiros": [
+  {
+   "eyebrow": "ROTEIRO 01 · BLACK FRIDAY · NA LOJA",
+   "titulo": "Uma condição pra cada jeito de pagar",
+   "meta": [
+    [
+     "Cenas",
+     "06"
+    ],
+    [
+     "Duração",
+     "~30s"
+    ],
+    [
+     "Formato",
+     "Reels"
+    ],
+    [
+     "CTA",
+     "Visita à loja"
+    ]
+   ],
+   "cenas": [
+    {
+     "acao": "Na loja, entre as prateleiras de tinta.",
+     "fala": "Você de Araruama ou de Iguaba que ainda vai pintar a casa pro verão: a Black Friday da Bruno das Tintas tá chegando."
+    },
+    {
+     "acao": "Na loja.",
+     "fala": "É na sexta, dia 27."
+    },
+    {
+     "acao": "No caixa.",
+     "fala": "Pagando à vista, você leva 15% de desconto."
+    },
+    {
+     "acao": "No caixa.",
+     "fala": "Se preferir o crédito, são 10% de desconto em até 6x."
+    },
+    {
+     "acao": "No balcão.",
+     "fala": "E se precisar de mais prazo, dá pra parcelar em até 12x sem juros."
+    },
+    {
+     "acao": "Na frente da loja.",
+     "fala": "Vem na sexta, dia 27, na Bruno das Tintas: na Amaral Peixoto, em Vila Capri, ou na Estação, em Iguaba."
+    }
+   ],
+   "notas": [
+    {
+     "titulo": "Na tela",
+     "paragrafos": [
+      "Tarja BLACK FRIDAY DA BRUNO DAS TINTAS · cena 3: 15% À VISTA · cena 4: 10% DE DESCONTO NO CRÉDITO, ATÉ 6X · cena 5: ATÉ 12X SEM JUROS · cena 6: SEXTA, 27/11."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "cliente": "ARARUAMA TINTAS",
+ "rodape": "ARARUAMA TINTAS · BLACK FRIDAY",
+ "capa": {
+  "linha1": "Black Friday",
+  "linha2": "da Araruama Tintas",
+  "lede": "Roteiro para Reel: preço de Black no básico da pintura, de 23 a 28/11, à vista e retirando na loja."
+ },
+ "roteiros": [
+  {
+   "eyebrow": "ROTEIRO 01 · BLACK FRIDAY · NA LOJA",
+   "titulo": "O que pesa na pintura",
+   "meta": [
+    [
+     "Cenas",
+     "07"
+    ],
+    [
+     "Duração",
+     "~40s"
+    ],
+    [
+     "Formato",
+     "Reels"
+    ],
+    [
+     "CTA",
+     "WhatsApp / loja"
+    ]
+   ],
+   "cenas": [
+    {
+     "acao": "Na loja, ao lado dos baldes de tinta branca.",
+     "fala": "Quem vai pintar a casa em Araruama gasta primeiro no balde de tinta branca, na massa e na resina."
+    },
+    {
+     "acao": "Na loja.",
+     "fala": "Por isso a Black Friday da Araruama Tintas, de segunda, 23, a sábado, 28, tem preço de Black numa lista de tinta branca, massa e resina."
+    },
+    {
+     "acao": "Com a Qualyvinil Rende Muito.",
+     "fala": "Pagando à vista e retirando na loja, a Qualyvinil Rende Muito branca, de 18 litros, sai de R$ 379 por R$ 314,90."
+    },
+    {
+     "acao": "Com a Coral e a Suvinil lado a lado.",
+     "fala": "A Coral Rende Muito e a Suvinil Rende e Cobre Muito, as duas brancas de 20 litros, estão por R$ 399, de R$ 479."
+    },
+    {
+     "acao": "Com a massa Qualyvinil Klasse.",
+     "fala": "A massa corrida Qualyvinil Klasse, de 25 quilos, sai de R$ 66,90 por R$ 55,90."
+    },
+    {
+     "acao": "No balcão.",
+     "fala": "E a lista tem mais massa, a textura F-E e a resina Sol e Chuva, da Coral. Ficou na dúvida? A gente te ajuda a escolher."
+    },
+    {
+     "acao": "Na frente da loja.",
+     "fala": "Chama a Araruama Tintas no WhatsApp pra tirar dúvida da lista ou vem direto na loja, na Rodovia Araruama–Rio Bonito, no Rio do Limão."
+    }
+   ],
+   "notas": []
+  }
+ ]
+}

@@ -1,5 +1,20 @@
 # Progresso — Bruno das Tintas
 
+## 2026-11-17 — Reels da Black (qua 25/11) v2.1 no padrão novo de roteiro · validado
+
+PH pediu o roteiro da Black no padrão da casa. A [v2.1](conteudo/roteiros/2026-11-25-black-friday-condicoes.md), com [PDF](apresentacoes/2026-11-17-roteiro-black-friday.pdf), tem 6 cenas:
+- gancho de verão ("ainda vai pintar a casa pro verão"), que o plano da série reservou pra este Reels;
+- data;
+- três condições;
+- as duas lojas.
+
+**Validador (1 bloqueante, aplicado):** a v2 abria com "esperando o preço ajudar". Era a mesma frase-conceito do roteiro da Araruama Tintas do mesmo dia ("o que pesa no bolso").
+
+**Ajustes aplicados:**
+- Saiu o "a hora é essa", que vinha antes da data.
+- A cena 6 foi encurtada.
+- Saiu o "separa a lista" (queimado em 13/11).
+
 ## 2026-11-16 (2) — Revisão v1.1 das peças de 16/11 (validador-copy)
 
 - **Bloqueante (aplicado):** o anúncio dizia "TÁ CONFIRMADO! … É SEXTA, 27 DE NOVEMBRO!", e o período da Black não foi informado (OQ #1). A peça foi renomeada pra [2026-11-16-black-friday-e-oficial.md](conteudo/posts/2026-11-16-black-friday-e-oficial.md): chamada "É OFICIAL!", manchete "A BLACK FRIDAY DA BRUNO DAS TINTAS / TEM 15% DE DESCONTO À VISTA!", selo "10% NO CRÉDITO EM ATÉ 6X" e 12x em linha própria. A legenda abre com "A Black Friday da Bruno das Tintas já tem as condições.", fala das condições em frase corrida (os bullets ficam só na peça de condições) e fecha com "já dá pra ir fazendo a conta pra ela sair do papel".

@@ -1,0 +1,68 @@
+{
+ "cliente": "CONTELE SOLAR",
+ "rodape": "CONTELE SOLAR · INDIQUE E GANHE",
+ "capa": {
+  "linha1": "Indique",
+  "linha2": "e ganhe",
+  "lede": "Roteiro para Reel: quem já tem energia solar da Contele indica quem vive perguntando se compensa."
+ },
+ "roteiros": [
+  {
+   "eyebrow": "ROTEIRO 01 · INDIQUE E GANHE · COM A EQUIPE CONTELE",
+   "titulo": "E aí, compensa mesmo?",
+   "meta": [
+    [
+     "Cenas",
+     "06"
+    ],
+    [
+     "Duração",
+     "~40s"
+    ],
+    [
+     "Formato",
+     "Reels"
+    ],
+    [
+     "CTA",
+     "WhatsApp"
+    ]
+   ],
+   "cenas": [
+    {
+     "acao": "Alguém da equipe da Contele.",
+     "fala": "Você da Região dos Lagos que tem energia solar da Contele em casa: alguém já te perguntou se compensa mesmo?"
+    },
+    {
+     "acao": "Mesma pessoa.",
+     "fala": "Vem do cunhado, do colega de trabalho, de quem viu as placas no seu telhado e ficou curioso."
+    },
+    {
+     "acao": "Mesma pessoa.",
+     "fala": "Da próxima vez, indica a Contele: é só mandar o nome e o número da pessoa, avisando antes que a gente vai chamar."
+    },
+    {
+     "acao": "A equipe em visita ou instalação.",
+     "fala": "A gente vai até lá, dimensiona o sistema pela conta de luz da pessoa e cuida da homologação na Enel."
+    },
+    {
+     "acao": "Mesma pessoa da cena 1.",
+     "fala": "E você ganha <span class=\"fill\">[o que quem indica ganha]</span>, <span class=\"fill\">[quando vale: ex. quando a pessoa fechar o projeto]</span>."
+    },
+    {
+     "acao": "Mesma pessoa.",
+     "fala": "Chama a Contele no WhatsApp e manda o contato de quem te perguntou."
+    }
+   ],
+   "notas": [
+    {
+     "titulo": "Pra fechar o roteiro",
+     "paragrafos": [
+      "Os trechos em azul da cena 5 são definidos pela Contele: o que quem indica ganha e quando ganha (na indicação ou quando a pessoa fecha o projeto). Se tiver regra, como quem pode indicar e até quando vale, ela entra escrita na tela.",
+      "Se ainda não houver ganho definido, a cena 5 sai e o vídeo fica com 5 cenas, como convite pra indicar."
+     ]
+    }
+   ]
+  }
+ ]
+}

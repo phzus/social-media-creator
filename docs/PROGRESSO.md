@@ -4,6 +4,21 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-17 — Padrão de roteiro em PDF + 4 roteiros (Maicom, Contele, Bruno, Araruama Tintas)
+
+- PH pediu um padrão de roteiro tirado dos PDFs que já estão na máquina. O mais recente é o da Veneza Black (13/11), e virou a base: capa escura e, em cada cena, uma linha CENA (ação curta, sem direção de câmera) e uma linha FALA.
+- Arquivos alterados:
+  - [template HTML](../shared/templates/roteiro-video-entrega-cliente.html) refeito;
+  - gerador novo [gerar-roteiro-pdf.py](../shared/templates/gerar-roteiro-pdf.py) (JSON → HTML → PDF);
+  - [roteiro-institucional.md](../shared/templates/roteiro-institucional.md) com o padrão do PDF e 5 variações novas.
+- Os 4 roteiros passaram no validador-copy. Foram 5 bloqueantes, todos aplicados. Os PDFs ficam em `clients/<slug>/apresentacoes/` e na Downloads.
+  - **Maicom:** "O patrão enlouqueceu", feirão de 28/11.
+  - **Contele:** Indique e Ganhe, com o ganho em slot.
+  - **Bruno:** v2.1 do Reels de 25/11.
+  - **Araruama Tintas:** Black com de/por.
+- **Lição:** o validador da Bruno pegou a colisão com a Araruama ("esperando o preço ajudar" × "o que pesa no bolso", no mesmo dia). Roteiro de Black das duas lojas se escreve e se confere lado a lado.
+
+
 ## 2026-11-16 (8) — ROP: fixados refeitos como estáticos únicos (venda, localização, horário)
 
 - PH não quer carrossel nem Reels em fixado: *"ninguém lê"*. Virou memória (feedback-fixados-sao-estaticos-unicos).
