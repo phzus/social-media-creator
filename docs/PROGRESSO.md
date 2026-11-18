@@ -4,6 +4,18 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-18 (4) — Regra nova: pesquisar datas antes de criar qualquer peça
+
+- **Origem:** PH cobrou a data de 20/11 da Max.
+- **O que a pesquisa achou pro dia 20/11:**
+  - Dia do Técnico em Contabilidade (o Dia do Contador é 22/09);
+  - Dia do Esteticista, que conversa com a BodySkin;
+  - Dia do Biomédico.
+- **Onde a regra foi registrada:**
+  - [CLAUDE.md](../CLAUDE.md), em "Antes de criar conteúdo";
+  - [WORKFLOW §4](WORKFLOW.md);
+  - memória `feedback-pesquisar-datas-antes-de-criar`.
+
 ## 2026-11-18 (3) — BodySkin: post de avaliações de clientes (modelo CIIL)
 
 Copy validada v1.1, com critérios de escolha das 4 avaliações dos prints. [Peça](../clients/bodyskin-araruama/conteudo/posts/2026-11-xx-avaliacoes-de-clientes.md).

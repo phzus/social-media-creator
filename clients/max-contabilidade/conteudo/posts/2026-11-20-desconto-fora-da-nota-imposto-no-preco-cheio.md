@@ -4,6 +4,13 @@
 **Pedido de PH (18/11):** a Max sai com post normal no dia 20, e não com a homenagem da Consciência Negra ([peça arquivada](2026-11-20-consciencia-negra-homenagem.md)).
 **Status:** 🔴 v1.1, validada em 18/11. **Travada até o escritório confirmar ([OQ Y](../../OPEN-QUESTIONS.md)) até qui 19/11 de manhã.** Sem o ok, a peça não sai no dia 20.
 
+> **📅 Data do dia (pesquisa de 18/11, depois do toque do PH):** 20/11 é o **Dia do Técnico em Contabilidade**, segundo blogs e portais do setor (não achei lei ou decreto, confiança média). Não é o Dia do Contador, que cai em 22/09 e passou sem peça na conta. A data **não entrou** nesta versão, porque a peça foi escrita antes da pesquisa. **PH decide se:**
+> - **(a)** fica assim;
+> - **(b)** a data entra como kicker ("20/11 · DIA DO TÉCNICO EM CONTABILIDADE");
+> - **(c)** vira uma homenagem à categoria com gancho tributário (§0).
+>
+> A (c) tem uma vantagem: não depende da confirmação técnica da OQ Y.
+
 ---
 
 ## Por que esse tema

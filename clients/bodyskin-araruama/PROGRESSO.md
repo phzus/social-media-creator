@@ -4,6 +4,17 @@ Log datado do trabalho feito pra BodySkin. Topo = mais recente. Entrada por bloc
 
 ---
 
+
+## 2026-11-18 (2) — 📅 20/11 também é Dia do Esteticista
+
+A pesquisa de datas (regra nova de PH) achou o **Dia do Esteticista em 20/11**. Fonte: listas de datas, como a Info Escola. Não há lei confirmada, então a confiança é média.
+
+A conta já tem duas peças no dia 20, o [cartaz](conteudo/posts/2026-11-20-cartaz-passamos-laser-nos-precos.md) e a homenagem da Consciência Negra. A data ainda não foi usada.
+
+PH decide se entra, por exemplo:
+- nos stories, homenageando a equipe;
+- ou fica anotada pra 2027.
+
 ## 2026-11-18 — Post de avaliações de clientes (modelo CIIL) · copy validada v1.1
 
 A cliente pediu um post "tipo o da CIIL" de feedback e mandou os prints de avaliação pro PH. PH pediu só a copy.

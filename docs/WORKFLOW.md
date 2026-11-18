@@ -45,6 +45,8 @@ A Lone trabalha com dois tipos de documento distintos, e a diferença importa pr
 
 ## 4. Criação de conteúdo
 
+**Antes de cada peça: pesquisa de datas (regra de PH, 2026-11-18).** Antes de escrever, pesquisar as datas comemorativas do dia de publicação e da semana (WebSearch ou `pesquisador-datas`), incluindo as datas de profissão ligadas ao nicho do cliente. Vale também pra peça avulsa ou troca de última hora, que não passa pelo calendário mensal. Registrar na peça o que entrou e o que foi descartado (e por quê). Data que PH ou o cliente afirma se confere com fonte.
+
 Para cada item do calendário:
 
 - **Roteiro de vídeo** (Reels/TikTok/Shorts) → `clients/<slug>/conteudo/roteiros/YYYY-MM-DD-tema.md`. Estrutura: gancho (3s), desenvolvimento, CTA, descrição/legenda, hashtags, sugestão de trilha.

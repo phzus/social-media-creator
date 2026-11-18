@@ -4,6 +4,14 @@ Log datado do trabalho feito pra Max Contabilidade. Topo = mais recente. Entrada
 
 ---
 
+## 2026-11-18 (2) — 20/11 é Dia do Técnico em Contabilidade · regra nova: pesquisar datas antes de criar
+
+- **O que aconteceu:** PH cobrou que a peça de sex 20/11 foi escrita sem pesquisar a data ("dia 20 é dia do contador eu acho").
+- **Pesquisa:** 20/11 = **Dia do Técnico em Contabilidade**, segundo blogs do setor. O **Dia do Contador é 22/09**, e passou sem peça em 2026: o post de 21/09 era sobre pró-labore. **25/04** aparece como Dia do Contabilista / da Contabilidade, mas as fontes divergem.
+- **Decisão pendente:** PH escolhe entre 3 opções pro dia 20 (ver nota na [peça](conteudo/posts/2026-11-20-desconto-fora-da-nota-imposto-no-preco-cheio.md)).
+- **Pro calendário de 2027:** marcar 25/04 e 22/09 como slots da conta, conferindo a fonte antes.
+- **Regra nova da casa:** pesquisar as datas antes de cada peça (CLAUDE.md, WORKFLOW §4, memória).
+
 ## 2026-11-18 — Sex 20/11: post normal no lugar da homenagem · desconto de promoção e a nota · v1.1, 🔴 trava do escritório
 
 PH (18/11): a Max sai com post normal no dia 20. A homenagem foi arquivada.

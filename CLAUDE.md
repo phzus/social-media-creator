@@ -174,6 +174,7 @@ Catálogo completo em [.claude/skills/](.claude/skills/). Resumo:
 ## Antes de criar conteúdo
 
 - **Antes de escrever roteiro/post para um cliente novo**, garantir que `clients/<slug>/context.md` existe e está completo. Se faltar, rodar a skill `social-media-context-sms` primeiro.
+- **Antes de criar qualquer peça (inclusive post avulso ou troca de última hora), pesquisar as datas comemorativas do dia de publicação e da semana** (WebSearch ou `pesquisador-datas`), com atenção às datas de profissão do nicho do cliente. A data entra na peça ou é descartada com motivo registrado. Data que PH ou o cliente afirma se confere com fonte (regra de PH, 2026-11-18).
 - **Antes de fazer suposição sobre o cliente** (público, ofertas, preços, restrições legais, sazonalidade), checar `BRIEFING.md` e `context.md`. Se a info não estiver lá, perguntar a PH e registrar a resposta no lugar certo.
 - **Conteúdo de saúde, estética e conselho profissional** (CIIL, BodySkin, Veterinária Regional, Max Contabilidade e afins): seguir o gate de compliance do `PADROES.md` de cada cliente — sem promessa terapêutica ou de resultado, sem substituir orientação profissional, sem copy hype de "cura", sem nome de profissional/registro não confirmado.
 - **Erros recorrentes a evitar**: copy genérico ("transforme sua vida"), promessas absolutas, jargão sem tradução, CTAs vagos ("saiba mais"), datas relativas ("amanhã", "essa semana") sem âncora absoluta.
