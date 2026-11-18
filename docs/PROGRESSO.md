@@ -4,6 +4,16 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-18 — Padrão de roteiro de venda (PH) + Veneza Nova Iguaçu
+
+- **PH reescreveu os roteiros de Black da Veneza** e pediu que a estrutura dele virasse referência pra todos os clientes. Ela está no [template §2B](../shared/templates/roteiro-institucional.md), com dois esqueletos: A, ofertas em sequência, e B, a causa do preço. Pontos principais:
+  - várias ofertas por vídeo, com "!";
+  - ponte de necessidade entre as ofertas;
+  - benefício mostrado na mão;
+  - "só algumas das ofertas" antes do CTA;
+  - CTA duplo, WhatsApp ou loja.
+- **Veneza Nova Iguaçu:** [roteiro de venda](../clients/veneza-estofados/conteudo/roteiros/2026-11-18-roteiro-black-nova-iguacu-sala-e-quarto.md) no esqueleto A, validado v1.1.
+
 ## 2026-11-17 (2) — Dia da Consciência Negra (sex 20/11): homenagem pra 18 contas
 
 - **Pedido de PH:** post de homenagem pra toda a carteira, menos os onboardings recentes (Casa das Telhas, Mestre da Obra e ROP).

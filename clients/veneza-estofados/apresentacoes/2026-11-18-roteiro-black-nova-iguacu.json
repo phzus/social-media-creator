@@ -1,0 +1,67 @@
+{
+ "cliente": "VENEZA ESTOFADOS",
+ "rodape": "VENEZA ESTOFADOS · NOVA IGUAÇU · BLACK FRIDAY",
+ "capa": {
+  "linha1": "Black da Veneza",
+  "linha2": "Nova Iguaçu",
+  "lede": "Roteiro de venda na loja de Nova Iguaçu — a sala e o quarto com os preços da Black Friday."
+ },
+ "roteiros": [
+  {
+   "eyebrow": "ROTEIRO 01 · OFERTAS · NOVA IGUAÇU · COM VITOR",
+   "titulo": "A sala e o quarto na Black da Veneza",
+   "meta": [
+    [
+     "Cenas",
+     "08"
+    ],
+    [
+     "Formato",
+     "Reels · Meta Ads"
+    ],
+    [
+     "Tema",
+     "Ofertas"
+    ],
+    [
+     "CTA",
+     "WhatsApp / loja"
+    ]
+   ],
+   "cenas": [
+    {
+     "acao": "Vitor na porta da loja de Nova Iguaçu, chamando pra dentro.",
+     "fala": "Você de Nova Iguaçu quer trocar o sofá ou a cama? Vem comigo que eu te mostro a sala e o quarto da Black da Veneza!"
+    },
+    {
+     "acao": "Vitor sentado no sofá Antonella.",
+     "fala": "Começando pela sala: o sofá Antonella, de 2 metros e 30, caiu de R$ 2.100 pra R$ 1.899,99 à vista na Black!"
+    },
+    {
+     "acao": "Vitor levanta o assento do sofá baú Grécia e mostra o baú.",
+     "fala": "Falta lugar pra guardar coberta? O sofá baú Grécia, de 2 metros, tem espaço aqui dentro, e sai de R$ 2.000 por R$ 1.799,99 à vista!"
+    },
+    {
+     "acao": "Vitor caminha até a cama box completa de casal.",
+     "fala": "Agora o quarto: a cama box completa de casal já vem com colchão, box e cabeceira, por R$ 1.471,53 à vista!"
+    },
+    {
+     "acao": "Vitor mostra a cama box completa de solteiro.",
+     "fala": "E pro quarto de solteiro, a cama box completa sai por R$ 759,98 à vista!"
+    },
+    {
+     "acao": "Vitor sentado na cama de casal.",
+     "fala": "Quer levar o sofá Antonella e a cama de casal? Um mais o outro dá R$ 3.371,52 à vista!"
+    },
+    {
+     "acao": "Vitor caminhando da loja pra fábrica, que fica ao lado.",
+     "fala": "E o preço é bom porque a fábrica fica aqui do lado: sofá, box e cabeceira saem direto pra loja!"
+    },
+    {
+     "acao": "Vitor olhando para a câmera, na frente da loja.",
+     "fala": "E essas são só algumas das ofertas! Chama no WhatsApp e garante a sua, ou vem na loja da Rua Inês!"
+    }
+   ]
+  }
+ ]
+}

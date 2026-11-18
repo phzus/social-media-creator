@@ -7,6 +7,10 @@ Pendências herdadas da "Fase 0 — Destravar" e do §12 do [documento-fonte](re
 
 ---
 
+## 🟡 2026-11-18 — Roteiro de Nova Iguaçu
+
+57. 🟡 **Os 4 produtos estão expostos na loja de Nova Iguaçu?** Antonella, Grécia e as camas completas de casal e de solteiro. O [roteiro do Vitor](conteudo/roteiros/2026-11-18-roteiro-black-nova-iguacu-sala-e-quarto.md) grava os quatro. Se faltar algum, entra a cama box baú de casal. Junto com a #44 (WhatsApp de NI), vai pro Mateus com o roteiro.
+
 ## 🟡 2026-11-10 (3) — Lista da Black recebida
 
 [Lista](referencias/2026-11-10-lista-produtos-black-friday.md) · [plano do mês](estrategia/2026-11-black-friday-da-veneza.md).

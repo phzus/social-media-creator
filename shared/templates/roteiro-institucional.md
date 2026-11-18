@@ -10,7 +10,7 @@ Entrega ao cliente: PDF a partir de [roteiro-video-entrega-cliente.html](roteiro
 
 - Vídeo **falado**: apresentador, atendente, dono ou locução, por cima de imagem real do cliente (B-roll da loja ou da clínica, equipe, produto).
 - **Uma fala por cena.** Cada cena é uma frase (ou duas curtas) que se diz num fôlego só, com até ~25 palavras.
-- **4 a 6 cenas, 25 a 45s.**
+- **4 a 6 cenas, 25 a 45s** no institucional. **Roteiro de venda: 6 a 8 cenas, até ~45s** ([§2B](#2b-roteiro-de-venda-padrão-de-ph-2026-11-18-vale-pra-todos-os-clientes)).
 - **PDF do cliente, padrão de 2026-11-17** (base: o PDF da Veneza Black que PH entregou em 13/11). Capa escura e, em cada cena, duas linhas:
   - **CENA**: o que acontece, numa frase curta ("Gabriela caminhando pela fábrica", "O patrão no meio da loja, anunciando aos gritos"). É a ação e o lugar, nunca ângulo, plano ou enquadramento, que continuam com a equipe de produção.
   - **FALA**: o que a pessoa diz. Em diálogo, o nome de quem fala vem antes ("Patrão:", "Vendedor:").
@@ -33,6 +33,55 @@ Entrega ao cliente: PDF a partir de [roteiro-video-entrega-cliente.html](roteiro
 | 5 | **CTA com canal e ação** | O canal concreto e o que a pessoa faz nele. Assinatura de marca opcional numa cena curta no fim. | "Clique no WhatsApp da CIIL e converse com nossa equipe sobre agendamento e condições de atendimento." · "Chama no WhatsApp, manda sua lista e consulte as opções disponíveis." · "Celmapel Festas. Aqui sua festa acontece." |
 
 Dá pra quebrar um movimento em duas cenas (a Celmapel PJ separa "fala com a Celmapel" de "chama no WhatsApp, manda sua lista") ou juntar dois numa cena. A ordem não muda.
+
+## 2B. Roteiro de venda: padrão de PH (2026-11-18), vale pra todos os clientes
+
+**Origem:** PH reprovou os dois roteiros de Black que a Lone escreveu pra Veneza ("não achei interessantes e efetivos") e reescreveu a estrutura de copy e o esqueleto. A versão dele ([PDF final](../../clients/veneza-estofados/referencias/2026-11-18-roteiros-black-friday-versao-final-ph.pdf)) é o padrão de **roteiro de venda** pra qualquer cliente da Lone: campanha, Black, oferta com preço. A §2 continua valendo pro institucional sem oferta (apresentação, serviço, saúde).
+
+### O que mudou em relação ao que a Lone vinha escrevendo
+
+| A Lone escrevia | PH escreveu |
+|---|---|
+| Um produto e um preço por vídeo | **Várias ofertas no mesmo vídeo**, uma por cena, cada uma com preço |
+| Tom medido, ponto final, quase sem exclamação | **Energia de anúncio:** "!" no fim de quase toda cena, "apenas", "caiu de… pra…", "olha esse preço" |
+| Fórmula "E o melhor: [objeção]" | **Ponte pela necessidade do cliente** entre uma oferta e outra: "E não é só ele, não!" · "Quer renovar o quarto também?" · "E pra quem quer mais espaço…" |
+| Objeção dita com a palavra negativa ("e não porque é ruim") | A causa do preço é dita **em positivo**: "ela fabrica", "sem nenhum intermediário", "é por isso que o nosso preço é tão barato assim" |
+| 4 a 6 cenas | **6 a 8 cenas**, uma ação + uma fala cada |
+| Benefício só falado | **Benefício mostrado na mão:** a Gabriela levanta o assento e mostra o baú enquanto fala |
+| CTA com um canal | **CTA duplo:** WhatsApp **ou** loja com referência curta que o público reconhece ("a loja do KM 90 da Amaral Peixoto"), com verbo de posse ("garante sua oferta") |
+| Fechava na oferta | Antes do CTA, **abre o catálogo:** "E essas são só algumas das ofertas! … tem muito mais esperando por você!" |
+
+### Esqueleto A — Ofertas em sequência (Veneza Roteiro 02)
+
+| # | Movimento | Molde de PH |
+|---|---|---|
+| 1 | **Gancho de ação** com o produto-âncora e a campanha | "Gente, olha onde eu vim parar! Esse é o [produto], de [medida], e ele tá na Black da [empresa]!" |
+| 2 | **Benefício mostrado** | Ação física com o produto + o uso no dia a dia ("pra guardar cobertas e travesseiros sem ocupar o seu armário!") |
+| 3 | **Preço do âncora** | "E olha esse preço: de R$ X por apenas R$ Y à vista na Black Friday!" |
+| 4–6 | **Mais ofertas**, uma por cena, cada uma aberta por uma ponte de necessidade | "E não é só ele, não! O [produto] caiu de R$ X pra R$ Y à vista!" · "Quer renovar o quarto também? Tem [produto], com [composição], por R$ Y à vista!" · "E pra quem quer mais espaço, tem [produto] por R$ Y à vista!" |
+| 7 | **Abre o catálogo** | "E essas são só algumas das ofertas! Na Black da [empresa] tem muito mais esperando por você!" |
+| 8 | **CTA duplo** | "Chama a [empresa] no WhatsApp e garante sua oferta, ou vem direto na loja [referência curta]!" |
+
+### Esqueleto B — Causa do preço (Veneza Roteiro 01)
+
+| # | Movimento | Molde de PH |
+|---|---|---|
+| 1 | **Gancho-pergunta com promessa de resposta**, hiperlocal | "Você de [cidade] quer saber por que a Black da [empresa] tá tão barata? A resposta tá aqui dentro." |
+| 2 | **O lugar + o diferencial** | "Essa é a [fábrica/estrutura] da [empresa], aqui em [bairro]. A [empresa] não [o que o concorrente faz], ela [o que ela faz]." |
+| 3 | **Prova** do que sai dali, nomeado | "Daqui sai o [produto], o [produto]…" |
+| 4 | **Consequência no preço** | "E vai tudo direto pra loja, sem nenhum intermediário. É por isso que o nosso preço é tão barato assim." |
+| 5 | **Virada pra campanha** | "Então aproveita as promoções da Black [empresa]! É a oportunidade de [ganho] e economizar de verdade!" |
+| 6 | **CTA duplo** | "Chama a [empresa] no WhatsApp, ou vem na loja [referência curta]." |
+
+### Regras do roteiro de venda
+
+- **Linha CENA:** quem faz o quê, onde ("Gabriela sai de dentro do sofá baú Grécia", "Gabriela caminhando pela loja"). Nunca ângulo ou plano.
+- **Metadados no PDF:** Cenas · Formato (ex.: "Reels · Meta Ads") · Tema · CTA ("WhatsApp / loja").
+- Preço falado sempre com a condição ("à vista"). Parcelado que soma mais que o "de" fica fora da fala e entra só na tela.
+- O nome da campanha na fala pode ser o coloquial ("Black da Veneza"), mesmo que a arte use o nome oficial.
+- A exclamação de anúncio é o padrão do roteiro de venda ([checklist §2.8](../voice-quality-checklist.md), estilo Lone). O limite de "!" do anti-IA vale pra legenda e texto longo, não pra fala de oferta.
+- O gate do cliente continua valendo por cima do esqueleto: "tudo que você encontra na loja" não passa em cliente com item de revenda, prazo não entra em cliente com reputação de atraso, etc.
+- **Premissa nova a cada vídeo** do mesmo cliente (o esqueleto se repete, a ideia de abertura não): sair de dentro do produto, o porquê do preço, tour por cômodo, soma "Quanto custa".
 
 ## 3. Regras de copy
 
@@ -60,8 +109,9 @@ Dá pra quebrar um movimento em duas cenas (a Celmapel PJ separa "fala com a Cel
 | Venda consumidor | Celmapel 03, 15/10 | Gancho pela ocasião (aniversário, confraternização) · fecha com assinatura |
 | Oferta com data, gravada pelo cliente | Atlas Servidor Público, 22/10 | Mais energia, caixa alta e "!" · cena de urgência · box "Como gravar" no PDF |
 | Evento na loja | Dijana Café da Manhã, 06/10 | Data absoluta numa cena própria ("É quarta-feira, 7 de outubro.") · "Vem pra Dijana." |
-| Black com causa do preço | Veneza 01, 13/11 | O porquê do preço baixo é o fio do vídeo (fábrica, ninguém no meio). 🚫 "O preço é o mesmo o ano todo" |
-| Black com ofertas de/por | Veneza 02 (13/11), Araruama Tintas (17/11) | Um produto por cena com "de X por Y" falado, e a condição colada no primeiro preço. Só em conta que mandou o preço cheio |
+| Black com causa do preço | Veneza 01, versão final de PH (18/11) | Esqueleto B da §2B. O porquê do preço baixo é o fio do vídeo (fábrica, sem intermediário), dito em positivo. 🚫 "O preço é o mesmo o ano todo" |
+| Black com ofertas de/por | Veneza 02, versão final de PH (18/11) · Araruama Tintas (17/11) | Esqueleto A da §2B. Um produto por cena com "de X por apenas Y à vista" falado e ponte de necessidade entre as ofertas. "De/por" só em conta que mandou o preço cheio |
+| Tour por cômodo + soma | Veneza Nova Iguaçu, 18/11 | Esqueleto A com premissa de tour (sala → quarto) e uma cena de soma ("Quanto custa") antes da causa do preço e do CTA |
 | Black por forma de pagamento | Bruno das Tintas, 17/11 | Uma fala por condição (à vista, crédito, parcelado) e data no futuro enquanto o período não vier |
 | Esquete de humor com oferta | Maicom 25/09 e 17/11 | Diálogo com nome de quem fala, um preço só e CTA na boca do personagem. A cada peça, a situação muda ([PADROES §6 da Maicom](../../clients/maicom-minerais-unamar/PADROES.md)) |
 | Indique e ganhe | Contele, 17/11 | O ganho fica em slot azul no PDF até o cliente definir, e existe uma versão sem a cena do ganho |

@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Roteiro · Veneza Estofados</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700;800&family=Source+Sans+3:wght@400;600;700&display=swap">
+<style>
+  :root {
+    --night: #060816;
+    --ink: #0d1626;
+    --ink-soft: #45516b;
+    --muted: #7b869c;
+    --blue: #1f3bff;
+    --blue-soft: #5b6cff;
+    --blue-deep: #1a2fd6;
+    --blue-wash: #eef1ff;
+    --line: #e2e6f0;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: #e9ecf5; }
+  body {
+    color: var(--ink);
+    font-family: "Source Sans 3", -apple-system, "Segoe UI", system-ui, sans-serif;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  h1, h2, .pill, .stamp strong, .eyebrow, .field b, .meta b, .meta span, .chip, .row-label, .footer {
+    font-family: "Archivo", "Helvetica Neue", Arial, sans-serif;
+  }
+
+  @page { size: A4; margin: 0; }
+
+  .page {
+    position: relative;
+    width: 210mm;
+    height: 297mm;
+    margin: 0 auto;
+    background: #ffffff;
+    break-after: page;
+    page-break-after: always;
+    overflow: hidden;
+  }
+  .page:last-child { break-after: auto; page-break-after: auto; }
+  .top-bar { position: absolute; top: 0; left: 0; width: 100%; height: 7mm; background: var(--blue); }
+  .inner { padding: 16mm 22mm 22mm; }
+  .logo { height: 34px; width: auto; display: block; }
+
+  /* ---------- capa escura ---------- */
+  .cover { background: var(--night); color: #fff; }
+  .cover::before {
+    content: "";
+    position: absolute;
+    top: -60mm; right: -70mm;
+    width: 190mm; height: 190mm;
+    background: radial-gradient(closest-side, rgba(40, 62, 255, 0.42), rgba(40, 62, 255, 0.12) 55%, rgba(6, 8, 22, 0) 100%);
+  }
+  .cover .inner { position: relative; padding-top: 40mm; }
+  .cover .logo { height: 54px; }
+  .pill {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 18px;
+    background: var(--blue);
+    color: #fff;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    border-radius: 6px;
+  }
+  .cover h1 {
+    margin: 36px 0 0;
+    font-size: 50px;
+    font-weight: 800;
+    letter-spacing: -0.025em;
+    line-height: 1.06;
+    color: #fff;
+  }
+  .cover h1 .accent { display: block; color: var(--blue-soft); }
+  .cover .lede { max-width: 31rem; margin: 26px 0 0; font-size: 16px; color: #a9b0c6; }
+  .cover .rule { position: relative; height: 1px; background: #232a45; margin: 40px 0 34px; }
+  .cover .rule::before { content: ""; position: absolute; left: 0; top: -2px; height: 5px; width: 30mm; background: var(--blue); border-radius: 3px; }
+  .fields { display: flex; justify-content: space-between; }
+  .field b { display: block; font-size: 10.5px; letter-spacing: 0.16em; text-transform: uppercase; color: #8a91a8; font-weight: 600; margin-bottom: 6px; }
+  .field span { font-size: 14px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; }
+
+  /* ---------- página de roteiro ---------- */
+  .masthead-row { display: flex; align-items: flex-start; justify-content: space-between; }
+  .stamp { text-align: right; font-size: 10px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--muted); line-height: 1.9; }
+  .stamp strong { display: block; color: var(--ink); font-size: 11px; letter-spacing: 0.12em; }
+  .eyebrow { display: block; margin-top: 22px; font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--blue-deep); font-weight: 700; }
+  h2.title { margin: 10px 0 0; font-size: 27px; font-weight: 800; letter-spacing: -0.015em; line-height: 1.2; color: var(--ink); }
+  .meta {
+    display: flex;
+    gap: 44px;
+    margin: 14px 0 0;
+    padding: 10px 0;
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+  }
+  .meta b { display: block; font-size: 9.5px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--muted); font-weight: 600; margin-bottom: 4px; }
+  .meta span { font-size: 14px; font-weight: 700; }
+
+  .cena { padding: 7px 0 8px; border-bottom: 1px solid var(--line); break-inside: avoid; page-break-inside: avoid; }
+  .chip { display: inline-block; padding: 3px 10px; background: var(--blue-wash); color: var(--blue-deep); font-size: 11px; font-weight: 800; letter-spacing: 0.12em; border-radius: 5px; margin-bottom: 4px; }
+  .row { display: grid; grid-template-columns: 70px 1fr; gap: 10px; align-items: baseline; }
+  .row + .row { margin-top: 3px; }
+  .row-label { font-size: 9.5px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
+  .row .acao { margin: 0; font-size: 12.5px; color: var(--muted); }
+  .row .fala { margin: 0; font-size: 13.5px; font-weight: 600; color: var(--ink); line-height: 1.45; }
+  .fala .quem { color: var(--blue-deep); font-weight: 700; }
+  .fill { color: var(--blue-deep); font-weight: 700; background: var(--blue-wash); padding: 0 4px; border-radius: 3px; }
+
+  .note { margin-top: 12px; padding: 10px 14px; background: var(--blue-wash); border-left: 3px solid var(--blue); border-radius: 4px; break-inside: avoid; }
+  .note b { display: block; font-family: "Archivo", sans-serif; font-size: 9.5px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--blue-deep); font-weight: 700; margin-bottom: 4px; }
+  .note p { margin: 0; font-size: 12.5px; color: var(--ink-soft); }
+  .note p + p { margin-top: 4px; }
+
+  .lista { margin: 14px 0 0; padding: 0; list-style: none; border-top: 1px solid var(--line); }
+  .lista li { position: relative; padding: 10px 0 10px 22px; border-bottom: 1px solid var(--line); font-size: 13px; color: var(--ink); }
+  .lista li::before { content: ""; position: absolute; left: 2px; top: 17px; width: 7px; height: 7px; background: var(--blue); }
+
+  .footer {
+    position: absolute;
+    bottom: 9mm; left: 22mm; right: 22mm;
+    display: flex;
+    justify-content: space-between;
+    font-size: 9.5px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  .footer strong { color: var(--ink); font-weight: 700; }
+</style>
+</head>
+<body>
+  <section class="page cover">
+    <div class="top-bar"></div>
+    <div class="inner">
+      <img class="logo" src="../../../shared/identidade-lone/lone-midia-logo-azul-branco.png" alt="Lone Mídia">
+      <span class="pill">Roteiro de vídeo</span>
+      <h1>Black da Veneza<span class="accent">Nova Iguaçu</span></h1>
+      <p class="lede">Roteiro de venda na loja de Nova Iguaçu — a sala e o quarto com os preços da Black Friday.</p>
+      <div class="rule"></div>
+      <div class="fields">
+        <div class="field"><b>Cliente</b><span>VENEZA ESTOFADOS</span></div>
+        <div class="field" style="text-align:right"><b>Produção</b><span>Lone Mídia</span></div>
+      </div>
+    </div>
+  </section>
+  <section class="page">
+    <div class="top-bar"></div>
+    <div class="inner">
+      <div class="masthead-row">
+        <img class="logo" src="../../../shared/identidade-lone/lone-midia-logo-azul-preto.png" alt="Lone Mídia">
+        <div class="stamp">Cliente<strong>VENEZA ESTOFADOS</strong>Roteiro de vídeo</div>
+      </div>
+      <span class="eyebrow">ROTEIRO 01 · OFERTAS · NOVA IGUAÇU · COM VITOR</span>
+      <h2 class="title">A sala e o quarto na Black da Veneza</h2>
+      <div class="meta"><div><b>Cenas</b><span>08</span></div><div><b>Formato</b><span>Reels · Meta Ads</span></div><div><b>Tema</b><span>Ofertas</span></div><div><b>CTA</b><span>WhatsApp / loja</span></div></div>
+      
+      <div class="cena">
+        <span class="chip">CENA 01</span>
+        <div class="row"><span class="row-label">Cena</span><p class="acao">Vitor na porta da loja de Nova Iguaçu, chamando pra dentro.</p></div>
+        <div class="row"><span class="row-label">Fala</span><p class="fala">Você de Nova Iguaçu quer trocar o sofá ou a cama? Vem comigo que eu te mostro a sala e o quarto da Black da Veneza!</p></div>
+      </div>
+      <div class="cena">
+        <span class="chip">CENA 02</span>
+        <div class="row"><span class="row-label">Cena</span><p class="acao">Vitor sentado no sofá Antonella.</p></div>
+        <div class="row"><span class="row-label">Fala</span><p class="fala">Começando pela sala: o sofá Antonella, de 2 metros e 30, caiu de R$ 2.100 pra R$ 1.899,99 à vista na Black!</p></div>
+      </div>
+      <div class="cena">
+        <span class="chip">CENA 03</span>
+        <div class="row"><span class="row-label">Cena</span><p class="acao">Vitor levanta o assento do sofá baú Grécia e mostra o baú.</p></div>
+        <div class="row"><span class="row-label">Fala</span><p class="fala">Falta lugar pra guardar coberta? O sofá baú Grécia, de 2 metros, tem espaço aqui dentro, e sai de R$ 2.000 por R$ 1.799,99 à vista!</p></div>
+      </div>
+      <div class="cena">
+        <span class="chip">CENA 04</span>
+        <div class="row"><span class="row-label">Cena</span><p class="acao">Vitor caminha até a cama box completa de casal.</p></div>
+        <div class="row"><span class="row-label">Fala</span><p class="fala">Agora o quarto: a cama box completa de casal já vem com colchão, box e cabeceira, por R$ 1.471,53 à vista!</p></div>
+      </div>
+      <div class="cena">
+        <span class="chip">CENA 05</span>
+        <div class="row"><span class="row-label">Cena</span><p class="acao">Vitor mostra a cama box completa de solteiro.</p></div>
+        <div class="row"><span class="row-label">Fala</span><p class="fala">E pro quarto de solteiro, a cama box completa sai por R$ 759,98 à vista!</p></div>
+      </div>
+      <div class="cena">
+        <span class="chip">CENA 06</span>
+        <div class="row"><span class="row-label">Cena</span><p class="acao">Vitor sentado na cama de casal.</p></div>
+        <div class="row"><span class="row-label">Fala</span><p class="fala">Quer levar o sofá Antonella e a cama de casal? Um mais o outro dá R$ 3.371,52 à vista!</p></div>
+      </div>
+      <div class="cena">
+        <span class="chip">CENA 07</span>
+        <div class="row"><span class="row-label">Cena</span><p class="acao">Vitor caminhando da loja pra fábrica, que fica ao lado.</p></div>
+        <div class="row"><span class="row-label">Fala</span><p class="fala">E o preço é bom porque a fábrica fica aqui do lado: sofá, box e cabeceira saem direto pra loja!</p></div>
+      </div>
+      <div class="cena">
+        <span class="chip">CENA 08</span>
+        <div class="row"><span class="row-label">Cena</span><p class="acao">Vitor olhando para a câmera, na frente da loja.</p></div>
+        <div class="row"><span class="row-label">Fala</span><p class="fala">E essas são só algumas das ofertas! Chama no WhatsApp e garante a sua, ou vem na loja da Rua Inês!</p></div>
+      </div>
+      
+      <div class="footer">
+        <span><strong>Lone Mídia</strong> · Marketing &amp; Performance</span>
+        <span>VENEZA ESTOFADOS · NOVA IGUAÇU · BLACK FRIDAY</span>
+      </div>
+    </div>
+  </section>
+</body>
+</html>

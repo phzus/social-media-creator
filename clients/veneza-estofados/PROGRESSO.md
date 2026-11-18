@@ -5,6 +5,22 @@ Log datado do trabalho feito pra Veneza Estofados. Topo = mais recente. Entrada 
 ---
 
 
+## 2026-11-18 — Roteiros da Black: versão final de PH + roteiro de Nova Iguaçu · validado v1.1
+
+- **PH reescreveu os roteiros de Black da Lone** (copy e esqueleto), porque não achou os nossos "interessantes e efetivos". O [PDF final](referencias/2026-11-18-roteiros-black-friday-versao-final-ph.pdf) está transcrito no topo do [arquivo de roteiros](conteudo/roteiros/2026-11-roteiros-black-friday-da-veneza.md) e vale sobre os Vídeos 1 e 2:
+  - Roteiro 01: fábrica, "por que a Black tá tão barata".
+  - Roteiro 02: a Gabriela sai do baú e apresenta 4 ofertas.
+- **A estrutura dele virou padrão de roteiro de venda pra todos os clientes** ([template §2B](../../shared/templates/roteiro-institucional.md)).
+- **[Roteiro de Nova Iguaçu](conteudo/roteiros/2026-11-18-roteiro-black-nova-iguacu-sala-e-quarto.md)** (substitui o Vídeo 4):
+  - Vitor faz um tour pela loja, sala e depois quarto.
+  - 4 ofertas: Antonella e Grécia com de/por, cama completa de casal e de solteiro.
+  - Soma "um mais o outro", fábrica ao lado da loja, CTA WhatsApp ou loja da Rua Inês.
+  - 8 cenas, ~50s. PDF em `apresentacoes/` e na Downloads.
+- **Validador:** 0 bloqueante; a soma deixou de parecer combo, "guarda tudo" saiu, 12x em linha própria na legenda.
+- 🟡 Antes de gravar: os 4 produtos expostos em Nova Iguaçu (OQ #57) e o WhatsApp (OQ #44).
+- ⚠️ No Roteiro 01 de PH, a cena 3 diz "tudo que você encontra na loja", e o colchão é revenda (PADROES §8). Avisado a PH.
+
+
 ## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
 
 - [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH. 🟡 A Black sai do feed na sexta. O teaser do Sábado Black vai pros stories, e a peça de venda de 20/11 (PAUTA :157) precisa de outro slot.
