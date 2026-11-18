@@ -1,5 +1,7 @@
 # Post de feed — Dia da Consciência Negra (sex 20/11): "Igualdade também se pratica dentro da empresa"
 
+> **🗄️ ARQUIVADA (PH, 18/11):** essa conta sai com post normal no dia 20, e não com a homenagem. O post do dia é [o de 20/11](2026-11-20-desconto-fora-da-nota-imposto-no-preco-cheio.md). O arquivo fica como referência do lote.
+
 **Cliente:** max-contabilidade · **Data:** sexta, 20/11/2026, Dia Nacional de Zumbi e da Consciência Negra (feriado nacional, Lei 14.759/2023) · **Plataforma:** Instagram (o @ ainda não foi confirmado) · **Formato:** estático 4:5 · **Pilar:** data / institucional · **Funil:** TOFU
 **Pedido:** PH, 17/11, homenagem pra toda a carteira, menos os onboardings recentes (Casa das Telhas, Mestre da Obra e ROP). Modelo: [checklist §2.8](../../../../shared/voice-quality-checklist.md), homenagem direta.
 

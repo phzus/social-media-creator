@@ -4,6 +4,20 @@ Log datado do trabalho feito pra Max Contabilidade. Topo = mais recente. Entrada
 
 ---
 
+## 2026-11-18 — Sex 20/11: post normal no lugar da homenagem · desconto de promoção e a nota · v1.1, 🔴 trava do escritório
+
+PH (18/11): a Max sai com post normal no dia 20. A homenagem foi arquivada.
+
+- **[Peça](conteudo/posts/2026-11-20-desconto-fora-da-nota-imposto-no-preco-cheio.md):** "Vai dar desconto na promoção? Ele só reduz o imposto do Simples se estiver na nota."
+  - **Base:** LC 123, art. 3º, §1º (descontos incondicionais).
+  - **Sem a palavra "Black",** porque o post sai no Dia da Consciência Negra.
+- **Validador:** 3 bloqueantes corrigidos.
+  - O apoio dizia que "estar na nota basta". Agora ele separa o incondicional do condicional.
+  - Saiu o bullet da venda cancelada.
+  - O MEI fica fora, com valor fixo.
+  - Além disso, a headline deixou de soar acusatória.
+- 🔴 **[OQ Y](OPEN-QUESTIONS.md):** o escritório confirma até qui 19/11 de manhã. Sem isso, o dia 20 fica sem post.
+
 ## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
 
 - [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH. 🔴 Só sai com OK do escritório (§0). Sem resposta até 19/11, fica arquivada.

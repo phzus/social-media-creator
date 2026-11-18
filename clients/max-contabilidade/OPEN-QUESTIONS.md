@@ -7,6 +7,19 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🔴 Nova (2026-11-18) — post de sexta 20/11 (desconto de promoção e a nota)
+
+**Y. O escritório confirma o que a [peça de 20/11](conteudo/posts/2026-11-20-desconto-fora-da-nota-imposto-no-preco-cheio.md) afirma?** Prazo: **qui 19/11 de manhã**. A sexta 20 é feriado, e o designer precisa de 1 dia útil.
+- **(a)** A receita bruta do Simples exclui os descontos incondicionais (LC 123, art. 3º, §1º). Incondicional = vale na hora da venda, não depende de evento posterior e consta da nota.
+- **(b)** O desconto condicional ("pagando até tal dia") continua na receita, mesmo impresso na nota.
+- **(c)** Desconto dado só no caixa, com a nota no preço de tabela: na prática, fica registrado o valor da nota.
+- **(d)** Onde fica o "10% no Pix" dado na hora da venda (é a promoção mais comum e vai gerar pergunta)?
+- **(e)** A frase do MEI ("fica fora dessa conta, paga valor fixo") está certa pro leigo.
+
+*(a), (b) e (c) travam a publicação. Sem resposta, o slot de 20/11 fica sem post.*
+
+---
+
 ## 🔴 Nova (2026-11-16) — post de segunda 16/11 (crédito do cliente em 2027)
 
 **X. O escritório confirma o que a [peça de 16/11](conteudo/posts/2026-11-16-sua-nota-do-simples-e-o-credito-do-seu-cliente.md) afirma?**

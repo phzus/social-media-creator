@@ -7,7 +7,7 @@ Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes
 [Peça](conteudo/posts/2026-11-16-mito-se-nao-aparece-no-coco-nao-tem-verme.md).
 
 24. 🟡 **A clínica faz o exame de fezes no local ou manda pra laboratório?** A peça não afirma nenhum dos dois, só que "o veterinário pode pedir". A equipe também lê a lista de coleta da legenda (fresco, potinho limpo e fechado, sem areia, mais de uma amostra). Não trava.
-25. 🟡 **Sexta 20/11 fecha a semana no mesmo tema?** Sugestão: check-up de verão pela clínica geral (a segunda apresenta e a sexta converte). PH decide.
+25. ~~Sexta 20/11 fecha a semana no mesmo tema?~~ ✅ **PH, 18/11:** a sexta 20 sai com post normal, no lugar da homenagem da Consciência Negra, e vira a [consulta antes da temporada](conteudo/posts/2026-11-20-deixa-ele-em-dia-antes-do-verao.md), fechando a semana do verme.
 
 ---
 

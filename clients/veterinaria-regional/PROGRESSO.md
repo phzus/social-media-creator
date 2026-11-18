@@ -4,6 +4,16 @@ Log datado do trabalho feito pra Veterinária Regional. Topo = mais recente. Ent
 
 ---
 
+## 2026-11-18 — Sex 20/11: post normal no lugar da homenagem · venda direta "Tudo no mesmo lugar" · validado v1.1
+
+PH (18/11): a VR sai com post normal no dia 20. A homenagem da Consciência Negra foi arquivada.
+
+- **[Peça](conteudo/posts/2026-11-20-deixa-ele-em-dia-antes-do-verao.md):** consulta antes do verão, fechando a semana do verme (seg 16). A OQ #25 está fechada.
+  - **Kicker:** "Vermífugo, vacina, aquele exame que ficou pra depois: o seu pet tem alguma coisa pendente?"
+  - **Âncora:** "TUDO NO MESMO LUGAR".
+  - **CTA:** WhatsApp.
+- **Validador:** a âncora virou resolução. A legenda deixou de sugerir exame de fezes no local (OQ #24).
+
 ## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
 
 - [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH. 🟡 Ocupa o slot de sexta. Check-up de verão (OQ #25) vai pra 27/11.
