@@ -5,6 +5,15 @@ Log datado do trabalho feito pra Veneza Estofados. Topo = mais recente. Entrada 
 ---
 
 
+## 2026-11-18 (2) — Seg 23/11: Cama Box Completa Solteiro na Black · copy validada v1.1, 🔴 falta a foto
+
+PH pediu "outro produto pra fazer arte". Dos 8 itens da Black, era o próximo sem peça, e o cliente tinha pedido destaque pra cama completa.
+- A [peça](conteudo/posts/2026-11-23-black-cama-box-completa-solteiro.md) abre a semana das camas e usa o template do Grécia.
+- Headline: "CAMA COMPLETA DE SOLTEIRO NA BLACK DA VENEZA!". Em cima da foto vão 3 tags: colchão, box e cabeceira.
+- Preço: R$ 759,98 à vista ou 12x de R$ 72,51, sem "de".
+- Validador: 0 bloqueante, 3 ajustes aplicados. 🔴 Falta a foto (OQ #54).
+
+
 ## 2026-11-18 — Roteiros da Black: versão final de PH + roteiro de Nova Iguaçu · validado v1.1
 
 - **PH reescreveu os roteiros de Black da Lone** (copy e esqueleto), porque não achou os nossos "interessantes e efetivos". O [PDF final](referencias/2026-11-18-roteiros-black-friday-versao-final-ph.pdf) está transcrito no topo do [arquivo de roteiros](conteudo/roteiros/2026-11-roteiros-black-friday-da-veneza.md) e vale sobre os Vídeos 1 e 2:
