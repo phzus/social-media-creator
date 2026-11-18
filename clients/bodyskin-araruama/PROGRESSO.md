@@ -4,6 +4,16 @@ Log datado do trabalho feito pra BodySkin. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-11-18 — Post de avaliações de clientes (modelo CIIL) · copy validada v1.1
+
+A cliente pediu um post "tipo o da CIIL" de feedback e mandou os prints de avaliação pro PH. PH pediu só a copy.
+
+- **[Peça](conteudo/posts/2026-11-xx-avaliacoes-de-clientes.md):** grade 2×2 com trechos recortados dos prints.
+  - Headline: "Antes de marcar laser, você procura o que os outros falaram. Tá aqui o que falaram da BodySkin."
+  - Faixa do Novembro Black (virilha total, 10x de R$ 69,90) e CTA da avaliação gratuita.
+  - Critérios de escolha das 4 avaliações, pelo gate da RT e pelo §7.
+- 🟡 Falta o ok de uso das avaliações (§2) e PH definir o slot.
+
 ## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
 
 - [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH. 🔴 Precisa do OK excepcional da Cintia (aprova com 1 semana). Recomendação: o cartaz Black de 20/11 vai pra 23/11 ou 27/11.

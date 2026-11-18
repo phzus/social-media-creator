@@ -4,6 +4,10 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-18 (3) — BodySkin: post de avaliações de clientes (modelo CIIL)
+
+Copy validada v1.1, com critérios de escolha das 4 avaliações dos prints. [Peça](../clients/bodyskin-araruama/conteudo/posts/2026-11-xx-avaliacoes-de-clientes.md).
+
 ## 2026-11-18 (2) — VR e Max: post normal na sex 20/11, no lugar da homenagem
 
 - PH liberou post normal na Consciência Negra pra Veterinária Regional e pra Max. As duas homenagens foram arquivadas.
