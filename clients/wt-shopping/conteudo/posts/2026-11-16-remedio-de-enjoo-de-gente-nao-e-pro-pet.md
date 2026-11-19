@@ -13,7 +13,25 @@
 - **Fonte:** blogs de pet e de veterinária concordam que remédio humano de enjoo só se dá com orientação do veterinário (pode causar alergia ou intoxicação) e que a dose depende do peso ([Petz, "Dramin para cachorro"](https://www.petz.com.br/blog/cachorros/dramin-para-cachorro/), [Folha PE, Folha Pet](https://www.folhape.com.br/colunistas/folha-pet/caes-e-gatos-tambem-enjoam-em-viagens-veja-dicas-praticas-para-o-conforto-do-seu-pet/44662/)). Por isso a headline proíbe dar "por conta própria", em vez de dizer que o remédio "não é pro pet".
 - **Não mistura com a loja:** caixa de transporte e cinto pet ficam pra uma peça de pet shop.
 
-## Copy da arte
+## Copy da arte — versão modelo Benestar (PH, 19/11) ⭐
+
+> ⚠️ **Data:** o post que foi ao ar em 16/11 foi o do **atestado** (com a copy reescrita: "Vai viajar de ônibus ou avião com seu pet?"), e não este. Esta peça ainda não foi publicada. A sugestão é ela ocupar o slot de **seg 30/11**, que era do atestado. PH confirma.
+
+Layout novo ([WT PADROES §9](../../PADROES.md)): creme liso (clínica pede fundo claro), blob laranja atrás do pet, serif azul na headline, marca-texto laranja no apoio e rodapé em linha fina. São ~30 palavras, mais a ressalva.
+
+- **Tag (pequena, topo):** Clínica veterinária WT
+- **Headline (serif azul, 3 linhas):** Não dê ao seu pet o remédio de **enjoo que você toma**.
+- **Apoio (marca-texto laranja):** Pet que passa mal no carro precisa de avaliação antes da viagem.
+- **CTA (1 linha, ícone de WhatsApp):** Fala com a clínica da WT: (22) 99789-8072
+- **Ressalva (linha pequena, obrigatória):** Medicação somente com prescrição do médico-veterinário.
+- **Rodapé (linha fina):** Estrada do Morro Grande, s/n · Itatiquara, Araruama
+- **Foto:** cachorro recortado com o cinto pet ou na caixa de transporte, centralizado embaixo. Fica sem o carro inteiro e sem cartela de remédio.
+
+**O que saiu da arte e foi pra legenda:** "Sem orientação do veterinário, a dose de gente pode fazer mal a cachorro e gato" e a pergunta do CTA. A proibição na headline e a ressalva da v1.1 validada continuam iguais.
+
+---
+
+## Copy da arte — versão template atual (v1.1)
 
 **Kicker (pequeno, topo, obrigatório):** Clínica veterinária WT · viagem de carro com o pet
 

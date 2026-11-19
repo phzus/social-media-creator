@@ -4,6 +4,16 @@ Log datado do trabalho feito pra Veterinária Regional. Topo = mais recente. Ent
 
 ---
 
+## 2026-11-19 — Nova direção visual: modelo Benestar (PH)
+
+PH trouxe [@benestar.pet](https://www.instagram.com/benestar.pet/) como referência e pediu pra comparar com as artes recentes da VR. [Análise com prints](referencias/2026-11-19-referencia-visual-benestar.md) (12 posts da Benestar e as últimas da VR e da WT).
+- **O que pesa na comparação:** cada arte da VR tem de 6 a 9 elementos e de 45 a 70 palavras, quase tudo em caixa alta. A Benestar tem 3 elementos e menos de 30 palavras.
+- **Na prática:** o esqueleto do §2 já pedia fundo creme e serif no destaque. O que mudou foi a execução, que foi acumulando pílula, card e barra.
+- **Regra nova:** [PADROES §2.1](PADROES.md), com fundo liso, um blob, serif vinho em caixa normal, pet recortado, rodapé em linha fina e ~30 palavras.
+- **Peça de sex 20/11:** ganhou a [versão no modelo Benestar](conteudo/posts/2026-11-20-deixa-ele-em-dia-antes-do-verao.md), com a mesma copy validada, enxugada. Usar esta se a arte ainda não saiu.
+- **Ideias de conteúdo filtradas:** Gastro em pergunta → resposta curta, Dermatologia com dor que volta e prova social com avaliação real.
+- PAUTA: PH decide se mostra pro cliente antes.
+
 ## 2026-11-18 — Sex 20/11: post normal no lugar da homenagem · venda direta "Tudo no mesmo lugar" · validado v1.1
 
 PH (18/11): a VR sai com post normal no dia 20. A homenagem da Consciência Negra foi arquivada.

@@ -43,6 +43,7 @@
 
 ## 4. 📋 Falta fazer do nosso lado
 
+- [ ] **Mostrar o layout novo (modelo Benestar, 19/11)?** PH decide se apresenta antes: azul liso, laranja como marca-texto, caixa normal e ~30 palavras na arte. [Referência](../../veterinaria-regional/referencias/2026-11-19-referencia-visual-benestar.md).
 - [ ] Pedir a separação de métricas por categoria antes do próximo planejamento.
 
 ## 5. 📊 O que levar de resultado

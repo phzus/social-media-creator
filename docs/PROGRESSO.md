@@ -4,6 +4,10 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-19 (2) — Referência visual @benestar.pet pra VR e WT
+
+PH trouxe o perfil como modelo de layout (fundo liso, serif em caixa normal, marca-texto, pet recortado, ~30 palavras na arte). A análise compara 12 posts com as grades atuais da VR e da WT: [referência](../clients/veterinaria-regional/referencias/2026-11-19-referencia-visual-benestar.md). A regra entrou no [VR PADROES §2.1](../clients/veterinaria-regional/PADROES.md) e no [WT PADROES §9](../clients/wt-shopping/PADROES.md). Peças adaptadas: VR 20/11, WT 23/11 (piscina) e WT enjoo (sugestão de 30/11).
+
 ## 2026-11-19 — WT: Black de piscina na seg 23/11
 
 Os 3 combos de piscina da WT Black (PADROES §7) estão numa peça só, com headline de dor ("A PISCINA FICA VERDE BEM QUANDO O CALOR CHEGA?") e "preço de Black". Validada v1.1. [Peça](../clients/wt-shopping/conteudo/posts/2026-11-23-black-wt-combos-de-piscina.md) · [log](../clients/wt-shopping/PROGRESSO.md).

@@ -30,6 +30,7 @@
 
 ## 4. 📋 Falta fazer do nosso lado
 
+- [ ] **Mostrar a nova direção visual (modelo Benestar, 19/11)?** PH decide se apresenta antes de virar padrão: mesmo esqueleto, execução mais limpa (fundo liso, serif vinho, ~30 palavras). [Referência](../referencias/2026-11-19-referencia-visual-benestar.md).
 - [ ] Definir a fonte/curadoria do banco de fotos de pet.
 
 ## 5. 📊 O que levar de resultado

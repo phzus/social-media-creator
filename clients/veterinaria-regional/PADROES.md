@@ -23,6 +23,19 @@ Referência completa (arte + legenda) em [referencias/2026-07-30-post-real-odont
 - **Elemento gráfico de apoio:** mancha/blob vermelho com patinhas atrás da foto — mantém contexto pet sem infantilizar.
 - **Rodapé (barra fixa vinho-escura):** dividido em 2 blocos com ícone — 📍 endereço à esquerda, 📱 WhatsApp à direita.
 
+### 2.1 ⭐ Execução no modelo Benestar (PH, 2026-11-19), vale a partir das próximas artes
+
+PH trouxe [@benestar.pet](https://www.instagram.com/benestar.pet/) como o visual que a VR deve ter: *"olha que fundo clean e bonito, compara com o da veterinária recente e vê a diferença"*. Análise, prints e comparação em [referencias/2026-11-19](referencias/2026-11-19-referencia-visual-benestar.md).
+
+O esqueleto do §2 continua (fundo creme, logo, kicker, palavra-âncora, foto real, rodapé). **Muda a execução:**
+- **Fundo:** creme liso, sem degradê. Vinho chapado só em alerta ou venda forte.
+- **Uma forma de apoio:** um blob rosa-vinho claro ou cinza atrás do pet. Saem as patinhas, os cards com borda, as pílulas com ícone, o botão e o marcador "salve este post".
+- **Tipografia:** palavra-âncora em serif display vinho (o §4 já pedia serif no destaque), em **caixa normal**. O resto vai em sans leve, e o apoio leva marca-texto rosa-vinho claro.
+- **Foto:** pet real **recortado** de estúdio, centralizado na metade de baixo.
+- **Logo pequeno**, sem caixa branca. **Rodapé em linha fina** de texto, sem barra nem pílula.
+- **Orçamento de texto: ~30 palavras na arte.** Contexto até 12 palavras, âncora de 4 a 10, apoio de 1 frase até 15 e CTA de 1 linha. A ressalva de saúde vem a mais, em linha pequena, e nunca sai. O que não couber vai pra legenda.
+- **Mito x Verdade:** rótulos pequenos "Mito" (vermelho) e "Verdade" (verde) com uma frase curta cada, sobre creme, sem card e sem parágrafo.
+
 ## 3. Regra de ferro: só 4 templates-mãe
 
 Nenhum post fora destes quatro (o template validado acima é a aplicação prática do **Educativo**, com foto real no lugar de ilustração):

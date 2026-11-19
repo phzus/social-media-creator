@@ -2,7 +2,7 @@
 
 **Cliente:** veterinaria-regional · **Data:** **sex 20/11/2026** · **Plataforma:** Instagram (@vetregionalofc) · **Pilar:** venda direta ([PADROES §5](../../PADROES.md)) · **Formato:** estático 4:5, template Educativo · **Funil:** MOFU → BOFU
 **Pedido de PH (18/11):** a VR sai com post normal no dia 20, e não com a homenagem da Consciência Negra ([peça arquivada](2026-11-20-consciencia-negra-homenagem.md)).
-**Status:** v1.1, validada em 18/11.
+**Status:** v1.1, validada em 18/11 · v1.2 (19/11): versão no modelo Benestar adicionada, mesma copy enxugada.
 
 > **Por que esse tema:** fecha a semana aberta na seg 16 ([mito do verme no cocô](2026-11-16-mito-se-nao-aparece-no-coco-nao-tem-verme.md)). A segunda apresenta o problema e a sexta converte, como em 02→06/11. É a sugestão que estava na OQ #25: **consulta antes da temporada** pela clínica geral. O vermífugo da segunda vira um dos itens da consulta, junto com o que o tutor costuma deixar pra depois.
 >
@@ -17,7 +17,23 @@
 
 ---
 
-## Copy da arte
+## Copy da arte — versão modelo Benestar (PH, 19/11) ⭐ usar esta se a arte ainda não foi feita
+
+Layout novo ([referência](../../referencias/2026-11-19-referencia-visual-benestar.md)): fundo creme liso, um blob rosa-vinho claro atrás do pet, serif vinho na âncora, sem pílula nem barra. Fica com **~30 palavras**, contra ~50 da versão abaixo. O que saiu da arte já está na legenda.
+
+- **Logo:** pequeno, no topo, sem caixa em volta.
+- **Linha de contexto (sans, pequena):** O vermífugo, a vacina ou aquele exame do seu pet ficou pra depois?
+- **Âncora (serif vinho, grande, 2 linhas):** Tudo no **mesmo lugar**
+- **Apoio (marca-texto rosa-vinho claro):** Consulta, vacina e exame na Regional, antes do verão.
+- **CTA (1 linha, ícone de WhatsApp):** Marque pelo WhatsApp (22) 99793-2384
+- **Rodapé (linha fina vinho):** R. Bernardo Vasconcelos, 680 · Centro, Araruama
+- **Foto:** a mesma do brief abaixo (cachorro adulto, luz de janela), só que **recortada** do fundo e centralizada na metade de baixo.
+
+**O que mudou de palavra:** saiu "Antes do verão, o veterinário vê o que o seu pet precisa", porque a ideia fica em "antes do verão" e na legenda. O CTA ficou mais curto. A âncora, os fatos e o kicker com sujeito ("do seu pet") são os da v1.1 validada.
+
+---
+
+## Copy da arte — versão template atual (v1.1)
 
 **Kicker (2 linhas, vermelho):**
 > Vermífugo, vacina, aquele exame que ficou pra depois:

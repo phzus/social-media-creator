@@ -84,8 +84,23 @@ Sazonal aqui é o que muda o que o cliente vai comprar: calor chegando (piscina)
 
 ---
 
+## 9. Layout no modelo Benestar (PH, 2026-11-19)
+
+PH trouxe [@benestar.pet](https://www.instagram.com/benestar.pet/) como referência visual pra WT e, principalmente, pra Veterinária Regional, *"colocando as cores deles"*. Análise completa em [VR referencias/2026-11-19](../veterinaria-regional/referencias/2026-11-19-referencia-visual-benestar.md).
+
+- **Fundo:** azul royal da WT **liso** (quase o mesmo azul da Benestar) ou creme, este pra clínica. Saem a textura de chevron e o degradê.
+- **Acento:** laranja WT no marca-texto do apoio, num único blob e na palavra de destaque.
+- **Tipografia:** serif display arredondada (branca no azul, azul no creme) + sans leve, em **caixa normal**. Sai a faixa laranja atrás da headline em caixa alta.
+- **Produto ou pet recortado**, com sombra suave e centralizado. Em combo, o preço vai numa etiqueta pequena junto de cada produto.
+- **Selo Black WT e logo pequenos.** Rodapé em linha fina (endereço · WhatsApp), sem a barra de 3 blocos.
+- **Orçamento de texto: ~30 palavras na arte**, fora preços, ressalva e rodapé. O que não couber vai pra legenda. A ressalva da clínica (§1) nunca sai.
+- **Série Black WT:** a arte de 13/11 foi ao ar em **azul**, não no fundo preto que o brief de 03/11 pedia. A série segue em azul liso.
+
+---
+
 ## Histórico
 
+- **2026-11-19** — §9 nova: layout no modelo Benestar (PH), com caixa normal, fundo liso, marca-texto e ~30 palavras na arte.
 - **2026-11-10** — §8 nova: sem sexta-feira 13 nem superstição (cliente cristão, PH).
 - **2026-11-03** — §7 nova: combos da WT Black (10 itens: 6 pet, 3 piscina, 1 equinos), sem validade informada.
 

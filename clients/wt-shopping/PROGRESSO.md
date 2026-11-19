@@ -4,6 +4,14 @@ Log datado do trabalho feito pra WT Shopping. Topo = mais recente. Entrada por b
 
 ---
 
+## 2026-11-19 (2) — Layout no modelo Benestar (PH) + peças adaptadas
+
+PH quer o visual da [@benestar.pet](https://www.instagram.com/benestar.pet/) na WT, com as cores da WT. Regra no [PADROES §9](PADROES.md); análise em [VR referencias/2026-11-19](../veterinaria-regional/referencias/2026-11-19-referencia-visual-benestar.md).
+- **[Piscina de 23/11](conteudo/posts/2026-11-23-black-wt-combos-de-piscina.md) v1.2:** caixa normal, marca-texto laranja e azul liso. Saiu a faixa de água verde.
+- **Correção no brief:** a série Black foi ao ar em **azul** (13/11), não em preto como os briefs diziam.
+- **[Enjoo](conteudo/posts/2026-11-16-remedio-de-enjoo-de-gente-nao-e-pro-pet.md):** versão no modelo Benestar, com a ressalva mantida.
+- ⚠️ **O que foi ao ar em 16/11 foi o atestado** (com a copy reescrita), não o enjoo. O enjoo ainda não saiu, e a sugestão é ocupar seg 30/11. PH confirma.
+
 ## 2026-11-19 — Seg 23/11: Black WT, os 3 combos de piscina numa peça só · validada v1.1
 
 PH pediu pra divulgar o combo de piscina da promoção na segunda 23, com headline de dor e "preço de Black". [Peça](conteudo/posts/2026-11-23-black-wt-combos-de-piscina.md): *"A PISCINA FICA VERDE BEM QUANDO O CALOR CHEGA? / OS COMBOS DE PISCINA DA WT ESTÃO COM PREÇO DE BLACK!"*. Traz os 3 combos do PADROES §7 (R$ 50,40 · R$ 38,70 · R$ 57,40) e o CTA "ESCOLHA O SEU COMBO PELO WHATSAPP!". Há uma alternativa de dor de bolso.

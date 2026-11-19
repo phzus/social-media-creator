@@ -1,6 +1,6 @@
 # Post de feed — Black WT: os 3 combos de piscina
 
-**Cliente:** wt-shopping · **Data:** **seg 23/11/2026** (pedido de PH em 19/11: "bora fazer logo de segunda 23") · **Status:** v1.1, validada (validador-copy) · **Plataforma:** Instagram, feed 4:5 · **Formato:** estático · **Funil:** BOFU · **Categoria:** piscina ([PADROES §2](../../PADROES.md)), uma frente só
+**Cliente:** wt-shopping · **Data:** **seg 23/11/2026** (pedido de PH em 19/11: "bora fazer logo de segunda 23") · **Status:** v1.2, validada (copy v1.1 no layout Benestar) · **Plataforma:** Instagram, feed 4:5 · **Formato:** estático · **Funil:** BOFU · **Categoria:** piscina ([PADROES §2](../../PADROES.md)), uma frente só
 **Preço:** [PADROES §7](../../PADROES.md), combos 7, 8 e 9 (os três juntos, numa peça só, como manda o §7).
 
 > **Pedido de PH (19/11):** divulgar o combo de piscina da promoção, com a headline tocando na dor e dizendo que o produto está com preço de Black.
@@ -17,24 +17,26 @@
 
 ---
 
-## Copy da arte
+## Copy da arte (modelo Benestar, PH 19/11)
 
-- **Selo:** BLACK WT
-- **Kicker (categoria em 1 segundo):** PRODUTOS PRA PISCINA
-- **Headline (2 linhas, maior texto):**
-  > **A PISCINA FICA VERDE BEM QUANDO O CALOR CHEGA?**
-  > **OS COMBOS DE PISCINA DA WT ESTÃO COM PREÇO DE BLACK!**
-- **Combos (um por linha, preço em destaque):**
+Layout novo da conta ([WT PADROES §9](../../PADROES.md)). A copy é em caixa normal, com destaque só nas palavras em negrito e menos de 30 palavras fora dos preços.
+
+- **Selo (pequeno, topo):** Black WT
+- **Headline (serif, branca, 2 linhas):**
+  > A piscina fica **verde**
+  > bem quando o calor chega?
+- **Apoio (marca-texto laranja):** Os combos de piscina da WT estão com **preço de Black**.
+- **Combos (produto recortado + etiqueta de preço pequena em cada um):**
   - Pastilha Genco + flutuador Netuno · **R$ 50,40**
   - Pastilha Hidroazul + flutuador Netuno · **R$ 38,70**
   - Sulfato de alumínio Genco 2 kg + barrilha Genco 2 kg · **R$ 57,40**
-- **CTA:** ESCOLHA O SEU COMBO PELO WHATSAPP! (22) 99789-8072
-  - *Opção com palavra-chave, se a WT avisar quem atende o WhatsApp ([OQ M](../../OPEN-QUESTIONS.md)):* MANDA "PISCINA" NO WHATSAPP E ESCOLHE O SEU COMBO!
-- **Rodapé:** @_wtshopping · Estrada do Morro Grande, s/n · Itatiquara, Araruama/RJ
+- **CTA (1 linha, ícone de WhatsApp):** Escolha o seu combo pelo WhatsApp (22) 99789-8072
+  - *Opção com palavra-chave, se a WT avisar quem atende o WhatsApp ([OQ M](../../OPEN-QUESTIONS.md)):* Manda "PISCINA" no WhatsApp e escolhe o seu combo
+- **Rodapé (linha fina):** Estrada do Morro Grande, s/n · Itatiquara, Araruama · @_wtshopping
 
 **Alternativa de headline (dor de bolso, sem falar de água verde):**
-> **CUIDAR DA PISCINA NO VERÃO PESA NO BOLSO?**
-> **OS COMBOS DE PISCINA DA WT ESTÃO COM PREÇO DE BLACK!**
+> Cuidar da piscina no verão **pesa no bolso**?
+> (apoio igual: Os combos de piscina da WT estão com **preço de Black**.)
 
 ## Legenda
 
@@ -50,13 +52,17 @@
 
 ---
 
-## Brief para designer
+## Brief para designer (modelo Benestar)
 
-- **Base:** o esqueleto das artes da Black WT (fundo preto, acento laranja e amarelo da WT, headline como o maior texto, faixa de WhatsApp embaixo). Pra marcar a frente, entra o azul de piscina no lugar de parte do laranja.
-- **Dor na imagem:** faixa no topo com água de piscina esverdeada (foto real, borda de piscina residencial comum, não resort), bem escurecida pra casar com o preto da Black. Ela ilustra a pergunta da headline e fica **separada dos produtos**, sem encostar nos combos, pra não virar promessa de que o combo resolve o verde.
-- **Produtos em destaque:** foto real das embalagens (pastilha Genco, pastilha Hidroazul, flutuador Netuno, sulfato e barrilha Genco), tirada na prateleira da WT ou foto oficial do fabricante. Cada preço fica colado no seu combo.
-- **Hierarquia:** headline → os 3 preços → WhatsApp. O selo BLACK WT fica menor, no topo.
-- 🚫 Antes/depois (água verde virando azul), porque promete resultado que a cliente não escreveu · "água cristalina" ou brilho de água perfeita · pessoa ou criança dentro da água · pet perto da piscina (mistura de frente, PADROES §2) · gota, molécula ou sol com rosto · selo de desconto, "de/por" ou percentual · embalagem gerada por IA · superstição (PADROES §8).
+Referência: [@benestar.pet](https://www.instagram.com/benestar.pet/), em especial o post "Semana do cliente: combos" (azul chapado, produtos no centro, pílula embaixo). Análise e prints em [VR referencias/2026-11-19](../../../veterinaria-regional/referencias/2026-11-19-referencia-visual-benestar.md).
+
+- **Fundo:** azul royal da WT, **liso**. Sem textura de chevron e sem degradê. (A arte de 13/11 foi ao ar em azul, não em preto como dizia o brief da série, então fica azul.)
+- **Uma forma de apoio:** um blob laranja WT num canto ou atrás dos produtos. Só um.
+- **Tipografia:** serif display arredondada branca na headline, com "verde" em destaque (peso ou cor). A linha de apoio vai em sans, com marca-texto laranja atrás.
+- **Produtos:** foto real recortada das embalagens que a loja vende, lado a lado no centro, com sombra suave e uma etiqueta pequena de preço colada em cada combo.
+- **Selo Black WT** pequeno no topo e logo pequeno. Sem barra de rodapé: endereço e @ numa linha fina.
+- **Sem foto de água verde:** a dor fica na headline. Uma segunda imagem polui o layout e daria a entender que o combo resolve o verde.
+- 🚫 Antes/depois, "água cristalina" ou brilho de água perfeita · pessoa ou criança na água · pet perto da piscina (PADROES §2) · gota, molécula ou sol com rosto · selo de desconto, "de/por" ou percentual · embalagem gerada por IA · superstição (PADROES §8) · caixa alta na headline · mais de um blob.
 
 ---
 
@@ -70,5 +76,6 @@
 
 ## Histórico de revisões
 
+- **2026-11-19 v1.2:** passada pro modelo Benestar (PH): caixa normal, apoio com marca-texto, fundo azul liso, sem a faixa de água verde. As palavras são as da v1.1 validada. O brief deixa de pedir fundo preto, porque a série foi ao ar em azul.
 - **2026-11-19 v1.1, validada (validador-copy):** 1 bloqueante e 3 importantes, aplicados. Bloqueante: o CTA "CHAMA NO WHATSAPP E GARANTE O SEU!" usava o CTA de pet/loja (§3), insinuava prazo e ficava no singular pra três combos, e virou "ESCOLHA O SEU COMBO PELO WHATSAPP!". Importantes: "OS COMBOS PRA CUIDAR DELA" ligava o produto à água verde e virou "OS COMBOS DE PISCINA DA WT". A legenda afirmava "quase todo fim de semana" e repetia Black, e foi refeita. A alternativa do bolso repetia Black. Também: "TÃO" → "ESTÃO" em caixa alta e a faixa de água verde separada dos produtos no brief.
 - **2026-11-19 v1.0:** criada a pedido de PH.
