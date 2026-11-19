@@ -13,7 +13,7 @@
    "meta": [
     [
      "Cenas",
-     "08"
+     "09"
     ],
     [
      "Formato",
@@ -40,6 +40,10 @@
     {
      "acao": "Vitor levanta o assento do sofá baú Grécia e mostra o baú.",
      "fala": "Falta lugar pra guardar coberta? O sofá baú Grécia, de 2 metros, tem espaço aqui dentro, e sai de R$ 2.000 por R$ 1.799,99 à vista!"
+    },
+    {
+     "acao": "Vitor puxa o assento do sofá Master.",
+     "fala": "Sala pequena? O sofá Master, de 1 metro e 50, puxa o assento pra você esticar as pernas, e sai por R$ 799,99 à vista!"
     },
     {
      "acao": "Vitor caminha até a cama box completa de casal.",

@@ -4,6 +4,10 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-19 (3) — Veneza: Sofá Master no roteiro de Nova Iguaçu
+
+Pedido do cliente: entrou como cena 04 (R$ 799,99 à vista, sem "de"), e o PDF foi regerado. [Log](../clients/veneza-estofados/PROGRESSO.md).
+
 ## 2026-11-19 (2) — Referência visual @benestar.pet pra VR e WT
 
 PH trouxe o perfil como modelo de layout (fundo liso, serif em caixa normal, marca-texto, pet recortado, ~30 palavras na arte). A análise compara 12 posts com as grades atuais da VR e da WT: [referência](../clients/veterinaria-regional/referencias/2026-11-19-referencia-visual-benestar.md). A regra entrou no [VR PADROES §2.1](../clients/veterinaria-regional/PADROES.md) e no [WT PADROES §9](../clients/wt-shopping/PADROES.md). Peças adaptadas: VR 20/11, WT 23/11 (piscina) e WT enjoo (sugestão de 30/11).

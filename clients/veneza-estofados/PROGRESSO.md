@@ -5,6 +5,14 @@ Log datado do trabalho feito pra Veneza Estofados. Topo = mais recente. Entrada 
 ---
 
 
+## 2026-11-19 — Roteiro de Nova Iguaçu ganha o Sofá Master (pedido do cliente)
+
+O cliente pediu, via PH, *"pro roteiro ter um sofá tipo o master"*. No [roteiro do Vitor](conteudo/roteiros/2026-11-18-roteiro-black-nova-iguacu-sala-e-quarto.md) (v1.2) entrou o próprio **Sofá Master 1,50 m** da lista da Black, como cena 04: *"Sala pequena? O sofá Master, de 1 metro e 50, puxa o assento pra você esticar as pernas, e sai por R$ 799,99 à vista!"*.
+- O preço não tem "de" (o riscado só vale pros dois sofás grandes). A fala usa só a ficha do cliente (80 cm fechado e 155 cm aberto) e não diz "retrátil" nem número de lugares.
+- Agora são 9 cenas e ~55-60s. Se precisar encurtar, sai a cama de solteiro (cena 06).
+- O PDF foi regerado em layout compacto, numa página só, e copiado pra Downloads.
+- 🟡 OQ #57: o Master também precisa estar exposto em Nova Iguaçu.
+
 ## 2026-11-18 (2) — Seg 23/11: Cama Box Completa Solteiro na Black · copy validada v1.1, 🔴 falta a foto
 
 PH pediu "outro produto pra fazer arte". Dos 8 itens da Black, era o próximo sem peça, e o cliente tinha pedido destaque pra cama completa.
