@@ -5,7 +5,12 @@ Log datado do trabalho feito pra Veneza Estofados. Topo = mais recente. Entrada 
 ---
 
 
-## 2026-11-19 — Roteiro de Nova Iguaçu ganha o Sofá Master (pedido do cliente)
+## 2026-11-19 (2) — Roteiro de Nova Iguaçu: versão final de PH + Master
+
+PH reescreveu o roteiro do Vitor ([original](referencias/2026-11-19-roteiro-nova-iguacu-versao-ph.md)) e pediu "exatamente assim, mas agora com um Master". O [roteiro v1.3](conteudo/roteiros/2026-11-18-roteiro-black-nova-iguacu-sala-e-quarto.md) traz as 8 cenas dele sem mudança de palavra. A cena 04 é nova, no tom dele: *"E se a sua sala é pequena, olha esse sofá Master! São 1 metro e 50, e ele ainda puxa o assento pra você esticar as pernas. Tá saindo por apenas R$ 799,99 à vista!"*. São 9 cenas, ~65-70s.
+- O PDF agora tem 2 páginas, com título por cena e o rótulo "Imagem". O gerador (`shared/templates/gerar-roteiro-pdf.py`) ganhou `titulo` por cena, `quebra_apos` e `rotulo_acao`, todos opcionais, e os PDFs antigos continuam iguais. O arquivo foi copiado pra Downloads.
+
+ o Sofá Master (pedido do cliente)
 
 O cliente pediu, via PH, *"pro roteiro ter um sofá tipo o master"*. No [roteiro do Vitor](conteudo/roteiros/2026-11-18-roteiro-black-nova-iguacu-sala-e-quarto.md) (v1.2) entrou o próprio **Sofá Master 1,50 m** da lista da Black, como cena 04: *"Sala pequena? O sofá Master, de 1 metro e 50, puxa o assento pra você esticar as pernas, e sai por R$ 799,99 à vista!"*.
 - O preço não tem "de" (o riscado só vale pros dois sofás grandes). A fala usa só a ficha do cliente (80 cm fechado e 155 cm aberto) e não diz "retrátil" nem número de lugares.

@@ -11,6 +11,7 @@ Formato do JSON (texto das falas aceita HTML simples: <span class="quem">, <span
 {
   "cliente": "MAICOM MINERAIS",
   "rodape": "MAICOM MINERAIS · SUPER FEIRÃO",
+  "rotulo_acao": "Imagem",                  # opcional: rótulo da linha de ação (padrão "Cena")
   "capa": {"linha1": "O patrão", "linha2": "enlouqueceu", "lede": "..."},
   "como_gravar": ["...", "..."],            # opcional: página de instrução antes dos roteiros
   "roteiros": [
@@ -18,7 +19,8 @@ Formato do JSON (texto das falas aceita HTML simples: <span class="quem">, <span
       "eyebrow": "ROTEIRO 01 · FEIRÃO · COM VENDEDOR E PATRÃO",
       "titulo": "...",
       "meta": [["Cenas", "07"], ["Duração", "~35s"], ["Formato", "Reels"], ["CTA", "Visita à loja"]],
-      "cenas": [{"acao": "...", "fala": "..."}],
+      "cenas": [{"titulo": "GANCHO | IDENTIFICAÇÃO", "acao": "...", "fala": "..."}],  # titulo opcional
+      "quebra_apos": 5,                      # opcional: divide as cenas em 2 páginas
       "notas": [{"titulo": "Na edição", "paragrafos": ["..."]}]
     }
   ]
@@ -101,17 +103,19 @@ def montar(spec, saida_html):
       <ul class="lista">{itens}</ul>{rodape(spec["rodape"])}
   </section>""")
 
+    rotulo_acao = spec.get("rotulo_acao", "Cena")
     for r in spec["roteiros"]:
         meta = "".join(f"<div><b>{esc(k)}</b><span>{esc(v)}</span></div>" for k, v in r["meta"])
         cenas = []
         for i, c in enumerate(r["cenas"], 1):
             linha_acao = (
-                f'<div class="row"><span class="row-label">Cena</span><p class="acao">{esc(c["acao"])}</p></div>'
+                f'<div class="row"><span class="row-label">{esc(rotulo_acao)}</span><p class="acao">{esc(c["acao"])}</p></div>'
                 if c.get("acao") else ""
             )
+            chip = f"CENA {i:02d}" + (f" · {esc(c['titulo'])}" if c.get("titulo") else "")
             cenas.append(f"""
       <div class="cena">
-        <span class="chip">CENA {i:02d}</span>
+        <span class="chip">{chip}</span>
         {linha_acao}
         <div class="row"><span class="row-label">Fala</span><p class="fala">{c["fala"]}</p></div>
       </div>""")
@@ -120,13 +124,20 @@ def montar(spec, saida_html):
             + "".join(f"<p>{p}</p>" for p in n["paragrafos"]) + "</div>"
             for n in r.get("notas", [])
         )
-        partes.append(f"""
+        # "quebra_apos": N divide as cenas em duas páginas (a 2ª repete o título, sem a faixa de meta)
+        n = r.get("quebra_apos")
+        blocos = [cenas[:n], cenas[n:]] if n else [cenas]
+        for k, bloco in enumerate(blocos):
+            ultimo = k == len(blocos) - 1
+            cabeca = f'<div class="meta">{meta}</div>' if k == 0 else ""
+            sufixo = "" if k == 0 else " (continuação)"
+            partes.append(f"""
   <section class="page">{topo(logo_preto, cliente, "Roteiro de vídeo")}
       <span class="eyebrow">{esc(r["eyebrow"])}</span>
-      <h2 class="title">{esc(r["titulo"])}</h2>
-      <div class="meta">{meta}</div>
-      {"".join(cenas)}
-      {notas}{rodape(spec["rodape"])}
+      <h2 class="title">{esc(r["titulo"])}{sufixo}</h2>
+      {cabeca}
+      {"".join(bloco)}
+      {notas if ultimo else ""}{rodape(spec["rodape"])}
   </section>""")
 
     doc = f"""<!doctype html>

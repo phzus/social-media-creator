@@ -30,42 +30,53 @@
    ],
    "cenas": [
     {
-     "acao": "Vitor na porta da loja de Nova Iguaçu, chamando pra dentro.",
-     "fala": "Você de Nova Iguaçu quer trocar o sofá ou a cama? Vem comigo que eu te mostro a sala e o quarto da Black da Veneza!"
+     "titulo": "GANCHO | IDENTIFICAÇÃO",
+     "acao": "Vitor sentado no sofá Antonella, olhando diretamente para a câmera. Começa com energia, como se estivesse conversando com um cliente.",
+     "fala": "Você é de Nova Iguaçu e tá esperando a Black Friday pra trocar os móveis? Então olha esses preços que a Veneza separou!"
     },
     {
-     "acao": "Vitor sentado no sofá Antonella.",
-     "fala": "Começando pela sala: o sofá Antonella, de 2 metros e 30, caiu de R$ 2.100 pra R$ 1.899,99 à vista na Black!"
+     "titulo": "SOFÁ ANTONELLA | PRIMEIRA OFERTA",
+     "acao": "Vitor levanta do sofá e mostra o produto. Alternar imagens do sofá inteiro com detalhes do acabamento.",
+     "fala": "Pra começar, sofá Antonella de 2 metros e 30! Ele era R$ 2.100 e nessa Black Friday tá saindo por apenas R$ 1.899,99 à vista!"
     },
     {
-     "acao": "Vitor levanta o assento do sofá baú Grécia e mostra o baú.",
-     "fala": "Falta lugar pra guardar coberta? O sofá baú Grécia, de 2 metros, tem espaço aqui dentro, e sai de R$ 2.000 por R$ 1.799,99 à vista!"
+     "titulo": "SOFÁ BAÚ GRÉCIA | DOR + SOLUÇÃO",
+     "acao": "Vitor se aproxima do sofá Grécia e abre o baú enquanto fala, mostrando o espaço interno.",
+     "fala": "E se tá faltando espaço pra guardar as coisas, olha esse sofá baú Grécia! São 2 metros de sofá, com esse espaço aqui dentro, por R$ 1.799,99 à vista!"
     },
     {
-     "acao": "Vitor puxa o assento do sofá Master.",
-     "fala": "Sala pequena? O sofá Master, de 1 metro e 50, puxa o assento pra você esticar as pernas, e sai por R$ 799,99 à vista!"
+     "titulo": "SOFÁ MASTER | SALA PEQUENA",
+     "acao": "Vitor vai até o sofá Master e puxa o assento enquanto fala, mostrando ele fechado e depois aberto.",
+     "fala": "E se a sua sala é pequena, olha esse sofá Master! São 1 metro e 50, e ele ainda puxa o assento pra você esticar as pernas. Tá saindo por apenas R$ 799,99 à vista!"
     },
     {
-     "acao": "Vitor caminha até a cama box completa de casal.",
-     "fala": "Agora o quarto: a cama box completa de casal já vem com colchão, box e cabeceira, por R$ 1.471,53 à vista!"
+     "titulo": "CAMA BOX CASAL | OPORTUNIDADE",
+     "acao": "Vitor caminha até o setor de camas, senta na cama de casal e apresenta o conjunto.",
+     "fala": "Agora, se você também tá querendo renovar o quarto, presta atenção! Essa cama box completa de casal, com colchão, box e cabeceira, tá saindo por R$ 1.471,53 à vista!"
     },
     {
-     "acao": "Vitor mostra a cama box completa de solteiro.",
-     "fala": "E pro quarto de solteiro, a cama box completa sai por R$ 759,98 à vista!"
+     "titulo": "CAMA BOX SOLTEIRO | SEGUNDA OPÇÃO",
+     "acao": "Vitor mostra a cama de solteiro, com um plano aberto para visualizar o conjunto completo.",
+     "fala": "E tem oferta pro solteiro também! A cama box completa, com colchão, box e cabeceira, tá por apenas R$ 759,98 à vista!"
     },
     {
-     "acao": "Vitor sentado na cama de casal.",
-     "fala": "Quer levar o sofá Antonella e a cama de casal? Um mais o outro dá R$ 3.371,52 à vista!"
+     "titulo": "SOMA DOS PREÇOS | DESEJO DE COMPRA",
+     "acao": "Cortes rápidos mostrando o sofá Antonella e a cama box de casal. Vitor aparece novamente olhando para a câmera.",
+     "fala": "Imagina renovar sua sala com o Antonella e ainda levar essa cama completa de casal! Por apenas R$ 3.371,52 à vista. É a oportunidade de renovar dois ambientes da sua casa de uma vez só!"
     },
     {
-     "acao": "Vitor caminhando da loja pra fábrica, que fica ao lado.",
-     "fala": "E o preço é bom porque a fábrica fica aqui do lado: sofá, box e cabeceira saem direto pra loja!"
+     "titulo": "DIFERENCIAL | FÁBRICA PRÓPRIA",
+     "acao": "Vitor caminha da loja até a fábrica ao lado. Mostrar rapidamente a produção de sofás, boxes e cabeceiras.",
+     "fala": "E sabe o melhor? Nossa fábrica fica aqui do lado da loja! A gente fabrica nossos próprios sofás, boxes e cabeceiras, sem intermediário!"
     },
     {
-     "acao": "Vitor olhando para a câmera, na frente da loja.",
-     "fala": "E essas são só algumas das ofertas! Chama no WhatsApp e garante a sua, ou vem na loja da Rua Inês!"
+     "titulo": "CTA | CONVERSÃO",
+     "acao": "Vitor na entrada da loja, olhando diretamente para a câmera. Finalizar com imagens das ofertas e identidade visual da Black Friday.",
+     "fala": "Mas corre, porque essas são só algumas das ofertas da Black Friday da Veneza! Chama agora no WhatsApp ou vem pra nossa loja na Rua Inês, em Nova Iguaçu!"
     }
-   ]
+   ],
+   "quebra_apos": 5
   }
- ]
+ ],
+ "rotulo_acao": "Imagem"
 }

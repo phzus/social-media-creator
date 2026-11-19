@@ -8,20 +8,22 @@
 
 **Premissa:** um tour pela loja, primeiro a sala e depois o quarto. Os vídeos de Araruama fazem outra coisa: o Roteiro 01 explica o preço pela fábrica e o 02 começa com a Gabriela saindo de dentro do baú. A virada daqui é a soma (sala + quarto num número só, formato "Quanto custa") e a fábrica, que em Nova Iguaçu fica do lado da loja.
 
-**Formato:** Reels · Meta Ads · 9 cenas · ~55-60s (preço falado por extenso alonga; se precisar encurtar, corta a cena 06, a cama de solteiro) · CTA WhatsApp / loja
+**Formato:** Reels · Meta Ads · 9 cenas · ~65-70s com as falas de PH (se precisar encurtar, corta a cena 06, a cama de solteiro) · CTA WhatsApp / loja
 **Pedido do cliente (19/11, via PH):** *"pro roteiro ter um sofá tipo o master"*. Entrou o próprio **Sofá Master 1,50 m**, que está na lista da Black (R$ 799,99 à vista) e é o sofá de entrada da loja, na cena 04.
 
-| Cena | CENA | FALA |
+> **Versão final de PH (19/11) + Master.** PH reescreveu o roteiro ([original colado](../../referencias/2026-11-19-roteiro-nova-iguacu-versao-ph.md)) e pediu *"exatamente assim, mas agora com um Master"*. As 8 cenas dele estão **sem mudança de palavra**. A cena 04 (Master) foi escrita no tom dele, e as cenas seguintes foram renumeradas. A tabela anterior (v1.2) foi substituída.
+
+| Cena | IMAGEM | FALA |
 |---|---|---|
-| 01 | Vitor na porta da loja de Nova Iguaçu, chamando pra dentro. | Você de Nova Iguaçu quer trocar o sofá ou a cama? Vem comigo que eu te mostro a sala e o quarto da Black da Veneza! |
-| 02 | Vitor sentado no sofá Antonella. | Começando pela sala: o sofá Antonella, de 2 metros e 30, caiu de R$ 2.100 pra R$ 1.899,99 à vista na Black! |
-| 03 | Vitor levanta o assento do sofá baú Grécia e mostra o baú. | Falta lugar pra guardar coberta? O sofá baú Grécia, de 2 metros, tem espaço aqui dentro, e sai de R$ 2.000 por R$ 1.799,99 à vista! |
-| 04 | Vitor puxa o assento do sofá Master. | Sala pequena? O sofá Master, de 1 metro e 50, puxa o assento pra você esticar as pernas, e sai por R$ 799,99 à vista! |
-| 05 | Vitor caminha até a cama box completa de casal. | Agora o quarto: a cama box completa de casal já vem com colchão, box e cabeceira, por R$ 1.471,53 à vista! |
-| 06 | Vitor mostra a cama box completa de solteiro. | E pro quarto de solteiro, a cama box completa sai por R$ 759,98 à vista! |
-| 07 | Vitor sentado na cama de casal. | Quer levar o sofá Antonella e a cama de casal? Um mais o outro dá R$ 3.371,52 à vista! |
-| 08 | Vitor caminhando da loja pra fábrica, que fica ao lado. | E o preço é bom porque a fábrica fica aqui do lado: sofá, box e cabeceira saem direto pra loja! |
-| 09 | Vitor olhando para a câmera, na frente da loja. | E essas são só algumas das ofertas! Chama no WhatsApp e garante a sua, ou vem na loja da Rua Inês! |
+| 01 · GANCHO | IDENTIFICAÇÃO | Vitor sentado no sofá Antonella, olhando diretamente para a câmera. Começa com energia, como se estivesse conversando com um cliente. | Você é de Nova Iguaçu e tá esperando a Black Friday pra trocar os móveis? Então olha esses preços que a Veneza separou! |
+| 02 · SOFÁ ANTONELLA | PRIMEIRA OFERTA | Vitor levanta do sofá e mostra o produto. Alternar imagens do sofá inteiro com detalhes do acabamento. | Pra começar, sofá Antonella de 2 metros e 30! Ele era R$ 2.100 e nessa Black Friday tá saindo por apenas R$ 1.899,99 à vista! |
+| 03 · SOFÁ BAÚ GRÉCIA | DOR + SOLUÇÃO | Vitor se aproxima do sofá Grécia e abre o baú enquanto fala, mostrando o espaço interno. | E se tá faltando espaço pra guardar as coisas, olha esse sofá baú Grécia! São 2 metros de sofá, com esse espaço aqui dentro, por R$ 1.799,99 à vista! |
+| 04 · SOFÁ MASTER | SALA PEQUENA | Vitor vai até o sofá Master e puxa o assento enquanto fala, mostrando ele fechado e depois aberto. | E se a sua sala é pequena, olha esse sofá Master! São 1 metro e 50, e ele ainda puxa o assento pra você esticar as pernas. Tá saindo por apenas R$ 799,99 à vista! |
+| 05 · CAMA BOX CASAL | OPORTUNIDADE | Vitor caminha até o setor de camas, senta na cama de casal e apresenta o conjunto. | Agora, se você também tá querendo renovar o quarto, presta atenção! Essa cama box completa de casal, com colchão, box e cabeceira, tá saindo por R$ 1.471,53 à vista! |
+| 06 · CAMA BOX SOLTEIRO | SEGUNDA OPÇÃO | Vitor mostra a cama de solteiro, com um plano aberto para visualizar o conjunto completo. | E tem oferta pro solteiro também! A cama box completa, com colchão, box e cabeceira, tá por apenas R$ 759,98 à vista! |
+| 07 · SOMA DOS PREÇOS | DESEJO DE COMPRA | Cortes rápidos mostrando o sofá Antonella e a cama box de casal. Vitor aparece novamente olhando para a câmera. | Imagina renovar sua sala com o Antonella e ainda levar essa cama completa de casal! Por apenas R$ 3.371,52 à vista. É a oportunidade de renovar dois ambientes da sua casa de uma vez só! |
+| 08 · DIFERENCIAL | FÁBRICA PRÓPRIA | Vitor caminha da loja até a fábrica ao lado. Mostrar rapidamente a produção de sofás, boxes e cabeceiras. | E sabe o melhor? Nossa fábrica fica aqui do lado da loja! A gente fabrica nossos próprios sofás, boxes e cabeceiras, sem intermediário! |
+| 09 · CTA | CONVERSÃO | Vitor na entrada da loja, olhando diretamente para a câmera. Finalizar com imagens das ofertas e identidade visual da Black Friday. | Mas corre, porque essas são só algumas das ofertas da Black Friday da Veneza! Chama agora no WhatsApp ou vem pra nossa loja na Rua Inês, em Nova Iguaçu! |
 
 ## Na edição (fica fora do PDF: com 8 cenas, o box não cabe na A4)
 
@@ -68,5 +70,6 @@
 
 - [x] **Validador-copy (18/11): 0 bloqueante.** Preços, 12x, medidas e soma batem com a lista de 10/11. Ajustes aplicados: cena 06 sem cara de combo ("um mais o outro dá"), cena 03 sem "guarda tudo" (capacidade), cena 07 mais curta e sem colchão no quadro, cena 08 com 21 palavras, duração revista e 12x da legenda em linha própria (no sofá, ele soma mais que o "de"). A cena 01 ficou com 26 palavras pra manter a premissa da sala e do quarto.
 - [x] PDF renderizado conferido.
+- [x] **19/11 (v1.3):** versão final de PH aplicada inteira, com o Master na cena 04 no tom dele. PDF em 2 páginas, com o título de cada cena e o rótulo "Imagem".
 - [x] **19/11 (v1.2):** Master incluído a pedido do cliente (cena 04). Preço conferido na lista de 10/11, sem "de/por".
 - [ ] Antes de gravar: os 5 produtos expostos em Nova Iguaçu (Mateus/Vitor) e o WhatsApp (OQ #44).
