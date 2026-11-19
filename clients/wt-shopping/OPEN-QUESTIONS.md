@@ -79,6 +79,8 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 **I. A WT vende produtos de tratamento de piscina ou só presta o serviço de manutenção?** O [BRIEFING](BRIEFING.md) registra "manutenção de piscinas" e nada além disso. Se houver venda de produto, o fechamento da [peça de 02/10](conteudo/posts/2026-10-02-piscina-que-passou-o-inverno-tampada.md) passa a oferecer as duas coisas e a frente ganha conteúdo de produto, não só de serviço. — *não trava a peça; enquanto não vier resposta, a copy fala só do serviço.*
 
+> ✅ **Respondida pelos combos da Black (03/11):** vende produto. A cliente mandou pastilha Genco/Hidroazul, flutuador Netuno, sulfato de alumínio e barrilha Genco com preço ([PADROES §7](PADROES.md)). Usado no [post de 23/11](conteudo/posts/2026-11-23-black-wt-combos-de-piscina.md). Segue em aberto se o serviço de manutenção também existe e como funciona (J, N).
+
 **J. 🟢 A manutenção de piscina é avulsa, mensal ou as duas?** Muda o CTA e o tipo de oferta possível nessa frente (visita única × contrato recorrente).
 
 **K. ✅ RESPONDIDA (PH, 2026-09-30) — a frente jardinagem segue zerada.** Não é foco de comunicação. Entra eventualmente, quando houver gancho real ("às vezes a gente pode chegar e falar"), nunca pra fechar buraco de cobertura. E o critério de variedade da conta passa a ser **sazonal**, não rodízio de categoria. → registrado em [PADROES §6](PADROES.md) e [context.md](context.md).

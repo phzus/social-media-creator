@@ -4,6 +4,14 @@ Log datado do trabalho feito pra WT Shopping. Topo = mais recente. Entrada por b
 
 ---
 
+## 2026-11-19 — Seg 23/11: Black WT, os 3 combos de piscina numa peça só · validada v1.1
+
+PH pediu pra divulgar o combo de piscina da promoção na segunda 23, com headline de dor e "preço de Black". [Peça](conteudo/posts/2026-11-23-black-wt-combos-de-piscina.md): *"A PISCINA FICA VERDE BEM QUANDO O CALOR CHEGA? / OS COMBOS DE PISCINA DA WT ESTÃO COM PREÇO DE BLACK!"*. Traz os 3 combos do PADROES §7 (R$ 50,40 · R$ 38,70 · R$ 57,40) e o CTA "ESCOLHA O SEU COMBO PELO WHATSAPP!". Há uma alternativa de dor de bolso.
+- **Validador:** 1 bloqueante, que era o CTA de pet/loja com "garante o seu", e 3 importantes: a 2ª linha ligava o combo à água verde, a legenda afirmava "quase todo fim de semana" e "Black" aparecia repetido. Todos aplicados.
+- **Datas de 23/11:** Engenheiro Eletricista e Combate ao Câncer Infantil, as duas descartadas por não terem ponte com piscina.
+- **OQ I respondida:** a WT vende produto de piscina.
+- 🔴 Falta a foto real das embalagens. 🟡 Tipo e peso das pastilhas (OQ #4) e período da Black.
+
 ## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
 
 - [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH.

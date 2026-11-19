@@ -4,6 +4,10 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-19 — WT: Black de piscina na seg 23/11
+
+Os 3 combos de piscina da WT Black (PADROES §7) estão numa peça só, com headline de dor ("A PISCINA FICA VERDE BEM QUANDO O CALOR CHEGA?") e "preço de Black". Validada v1.1. [Peça](../clients/wt-shopping/conteudo/posts/2026-11-23-black-wt-combos-de-piscina.md) · [log](../clients/wt-shopping/PROGRESSO.md).
+
 ## 2026-11-18 (4) — Regra nova: pesquisar datas antes de criar qualquer peça
 
 - **Origem:** PH cobrou a data de 20/11 da Max.
