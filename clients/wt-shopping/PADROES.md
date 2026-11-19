@@ -72,7 +72,7 @@ Sazonal aqui é o que muda o que o cliente vai comprar: calor chegando (piscina)
 | Piscina | Sulfato de alumínio Genco 2 kg + barrilha Genco 2 kg | R$ 57,40 |
 | Agro (equinos) | Shampoo Matacura Equinos 1 L | R$ 30,40 |
 
-- Uma categoria por peça (§2). Os 3 combos de piscina vão juntos numa peça só, por causa do §6.
+- Uma categoria por peça (§2). **Piscina: um combo por arte, cada uma com a sua headline (PH, 19/11).** Isso substitui a regra antiga de juntar os 3 combos numa peça só. As datas ainda seguem o peso de pet primeiro (§6).
 - Sem "de/por" nos itens com R$. O 30% OFF da Tutelo pode ir, mas sem preço final calculado.
 - Nenhuma data de fim, e nenhum benefício que a cliente não escreveu.
 
@@ -100,6 +100,7 @@ PH trouxe [@benestar.pet](https://www.instagram.com/benestar.pet/) como referên
 
 ## Histórico
 
+- **2026-11-19 (2)** — §7: piscina passa a ter um combo por arte, com headlines diferentes (PH).
 - **2026-11-19** — §9 nova: layout no modelo Benestar (PH), com caixa normal, fundo liso, marca-texto e ~30 palavras na arte.
 - **2026-11-10** — §8 nova: sem sexta-feira 13 nem superstição (cliente cristão, PH).
 - **2026-11-03** — §7 nova: combos da WT Black (10 itens: 6 pet, 3 piscina, 1 equinos), sem validade informada.

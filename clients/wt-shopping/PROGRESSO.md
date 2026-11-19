@@ -4,6 +4,15 @@ Log datado do trabalho feito pra WT Shopping. Topo = mais recente. Entrada por b
 
 ---
 
+## 2026-11-19 (3) — Piscina: um combo por arte, 3 headlines · validada v2.1
+
+PH: *"pode ser um combo por arte e a headline diferentes"*. O [post de piscina](conteudo/posts/2026-11-23-black-wt-combos-de-piscina.md) virou 3 artes no modelo Benestar:
+- **Arte 1:** Genco + Netuno, R$ 50,40, "A piscina fica verde bem quando o calor chega?". Sai na seg 23/11.
+- **Arte 2:** Hidroazul + Netuno, R$ 38,70, "Cuidar da piscina no verão pesa no bolso?".
+- **Arte 3:** sulfato + barrilha Genco, R$ 57,40, "Água turva estraga o dia de sol na piscina.".
+- **Validador:** o bloqueante era o PADROES §7, que ainda mandava juntar tudo numa peça; foi atualizado, junto com a referência de 03/11. As artes 2 e 3 foram refeitas e os apoios variam.
+- 🟡 As datas das artes 2 e 3 ficam com PH.
+
 ## 2026-11-19 (2) — Layout no modelo Benestar (PH) + peças adaptadas
 
 PH quer o visual da [@benestar.pet](https://www.instagram.com/benestar.pet/) na WT, com as cores da WT. Regra no [PADROES §9](PADROES.md); análise em [VR referencias/2026-11-19](../veterinaria-regional/referencias/2026-11-19-referencia-visual-benestar.md).

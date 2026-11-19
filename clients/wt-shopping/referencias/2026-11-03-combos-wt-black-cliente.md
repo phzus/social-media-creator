@@ -60,6 +60,7 @@ Clínica: nenhum item.
 - **Validade não informada.** Nenhuma peça afirma até quando vale nem fala em "só hoje".
 - **Não misturar categorias** (§2). Combo pet com combo pet. Piscina e equinos ficam em peças próprias. Vitrine pet (loja + clínica) é a única exceção, e aqui não há item de clínica.
 - **Piscina com moderação** (§6): PH reprovou excesso de piscina em outubro. Os 3 combos de piscina cabem numa peça só, não em três.
+  - **Atualizado em 19/11 (PH):** um combo por arte, com headlines diferentes ([post de 23/11](../conteudo/posts/2026-11-23-black-wt-combos-de-piscina.md)). A moderação continua valendo nas datas.
 - **Nada de benefício que a cliente não escreveu:** temperatura do tapete gelado, ação antipulgas ou carrapaticida do Matacura, "água cristalina" no sulfato, "educa em X dias" no Xixi Não Pode.
 
 ## A confirmar (não trava a produção)
