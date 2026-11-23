@@ -4,7 +4,11 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ---
 
-## 2026-11-23 — Semana 23–27/11: Empresarial · v1, aguarda validador
+## 2026-11-23 (2) — "Qual proteção você deseja ter?" (dobradura com os 4 seguros)
+
+Pedido do PH com referência de dobradura da ComuniArte. [Peça](conteudo/posts/2026-11-25-qual-protecao-voce-deseja-ter.md) pra qua 25/11 (slot sem vídeo): Auto, Residencial, Planejamento Familiar e Empresarial, uma por aba, fecho "Pra qualquer uma delas, o lugar é na Atlas!". Decisão em aberto: etiqueta "Planejamento familiar" ou "Vida".
+
+## 2026-11-23 — Semana 23–27/11: Empresarial · v1.1 validada
 
 - **Seg 23:** [estoque novo, seguro antigo](conteudo/posts/2026-11-23-estoque-novo-seguro-antigo.md). Dor dita direto, CTA "comenta ESTOQUE". Arte sem afirmação de cobertura.
 - **Sex 27:** [curto-circuito pode fechar a loja em dezembro](conteudo/posts/2026-11-27-loja-fechada-em-dezembro-perde-o-natal.md). Anúncio de cotação, versão A sem gate e B com lucro cessante, pós-corretor.

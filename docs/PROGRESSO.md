@@ -4,6 +4,10 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-23 (2) — Atlas: dobradura "Qual proteção você deseja ter?"
+
+Pedido do PH com referência. Os 4 seguros numa dobradura, sugerida pra qua 25/11, validada v1.1. [Peça](../clients/atlas-corretora/conteudo/posts/2026-11-25-qual-protecao-voce-deseja-ter.md).
+
 ## 2026-11-23 — Posts da semana (23 a 27/11): 34 peças novas, 20 clientes cobertos
 
 PH pediu os posts da semana. Um fork por grupo de clientes, 3 validador-copy no lote inteiro e correções aplicadas (v1.1). Datas pesquisadas: Engenheiro Eletricista (23/11, usada na Contele, Lagos e Bazar), Segurança do Trabalho (27/11, Mestre da Obra) e Black Friday. As outras foram descartadas com motivo em cada peça.
