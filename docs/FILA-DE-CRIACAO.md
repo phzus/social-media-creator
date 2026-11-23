@@ -70,12 +70,14 @@
 | Casa das Telhas | Portuguesa/romana 1,69 · Wave branca 2,99 · fibrocimento 49,90 · Plan 77,90 | 28 ou 30/11 | ✍️ sex 27 junta · ⬜ unitárias |
 | Casa das Telhas | 30% à vista, 10% em até 10x, 21x | 28 ou 30/11 | ✍️ seg 23 |
 | Bazar | Fio 1,5 a 184,90 e 2,5 a 254,90 | sem data | ✍️ seg 23 e sex 27 |
+| Bazar | Fio 4,0 mm, rolo 100 m, a partir de 449,90 | sem data | 🎨 arte de PH por loja (23/11) |
 | Atlas | Tokio: Auto até 10% | 29/11 | ✍️ feed qua 25, stories hoje e sáb 28 |
 | Atlas | Tokio: Residencial até 50% (06/12), Viagem 60%, Empresarial até 15% | 06/12 ou sem data | ✍️ |
 | Atlas | Tokio: placas solares e RC obras até 30% | sem data | ⬜ só na legenda |
-| Veneza | Antonella 2,30, 2.100 → 1.899,99 | 29/11 🟡 | ✍️ 🔒 foto |
+| Veneza | Antonella 2,30, 2.100 → 1.899,99 | 29/11 🟡 | ✅ 16/11 (@venezaestofados) |
 | Veneza | Grécia, 2.000 → 1.799,99 | 29/11 🟡 | 🎨 + ✍️ sex 27 |
-| Veneza | Cama solteiro com box, 759,98 | 29/11 🟡 | 🎨 (falta "à vista") |
+| Veneza | Cama solteiro com box, 759,98 | 29/11 🟡 | ✅ 20/11 (@venezaestofados) |
+| Veneza | **Sofá Master 1,50, 799,99** | 29/11 🟡 | ✍️ [seg 23](../clients/veneza-estofados/conteudo/posts/2026-11-23-black-sofa-master-1-50.md) |
 | Veneza | Cama casal com box, 1.471,53 | 29/11 🟡 | ⬜ 🔒 foto |
 | Veneza | Cama casal com baú, 1.899,98 | 29/11 🟡 | ⬜ 🔒 foto |
 | Veneza | Base baú solteiro, 599,99 | 29/11 🟡 | ⬜ |

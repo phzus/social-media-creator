@@ -4,6 +4,10 @@ Log datado do trabalho feito pra Veterinária Regional. Topo = mais recente. Ent
 
 ---
 
+## 2026-11-23 (2) — Calor: focinho curto (qua 25), dor e venda
+
+[Peça](conteudo/posts/2026-11-25-focinho-curto-sofre-mais-no-calor.md) pedida por PH, avulsa dentro da semana da leptospirose.
+
 ## 2026-11-23 — Semana da leptospirose: Mito x Verdade (seg 23) + venda direta (sex 27)
 
 - **[Seg 23](conteudo/posts/2026-11-23-mito-vacina-de-filhote-protege-pra-sempre.md):** mito "tomou a vacina quando filhote, tá protegido pra sempre", âncora "Reforço anual".

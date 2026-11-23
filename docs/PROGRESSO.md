@@ -4,6 +4,10 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-23 (5) — Veneza: Sofá Master na Black · VR: focinho curto no calor
+
+Duas peças pedidas por PH, validadas v1.1. [Master, seg 23](../clients/veneza-estofados/conteudo/posts/2026-11-23-black-sofa-master-1-50.md) · [focinho curto, qua 25](../clients/veterinaria-regional/conteudo/posts/2026-11-25-focinho-curto-sofre-mais-no-calor.md).
+
 ## 2026-11-23 (4) — Fila de criação + calor (BodySkin e Bazar)
 
 - PH cobrou feedback como prioridade e lembrete das artes de oferta. Criada a [fila](FILA-DE-CRIACAO.md), com regra no [WORKFLOW §9](WORKFLOW.md) e no CLAUDE.md.

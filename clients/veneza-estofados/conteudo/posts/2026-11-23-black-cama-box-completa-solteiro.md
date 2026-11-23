@@ -2,7 +2,7 @@
 
 **Cliente:** veneza-estofados · **Data:** segunda 23/11/2026, abre a semana das camas ([plano da Black](../../estrategia/2026-11-black-friday-da-veneza.md)) · **Plataforma:** Instagram, feed 4:5, nos dois perfis (o estático é igual e só muda a assinatura, §15) · **Formato:** estático, ficha + preço · **Funil:** BOFU
 **Preço:** [lista da Black de 10/11](../../referencias/2026-11-10-lista-produtos-black-friday.md) · [PADROES §16](../../PADROES.md)
-**Status:** 🟢 v1.1, copy validada em 18/11. **Arte pronta** (`~/Downloads/carrossel complexo/1795104171299_0.png`), foto da OQ #54 resolvida.
+**Status:** ✅ no ar em 20/11 (@venezaestofados, conferido em 23/11). 🟢 v1.1, copy validada em 18/11. **Arte pronta** (`~/Downloads/carrossel complexo/1795104171299_0.png`), foto da OQ #54 resolvida.
 
 > **Conferência da arte (23/11):** R$ 759,98, 12x de R$ 72,51, composição e rodapé batem com a lista.
 > - 🟡 **Falta "à vista" no preço** (a arte diz só "Por R$ 759,98"; a do Grécia tem). Sem ele, o preço lê como valor de qualquer pagamento.

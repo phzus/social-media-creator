@@ -5,6 +5,10 @@ Log datado do trabalho feito pra Veneza Estofados. Topo = mais recente. Entrada 
 ---
 
 
+## 2026-11-23 (2) — Sofá Master 1,50 m na Black (seg 23)
+
+PH pediu um produto. A cama de solteiro já estava no feed (@venezaestofados, 20/11), então a segunda ficou com o [Master](conteudo/posts/2026-11-23-black-sofa-master-1-50.md), R$ 799,99 à vista. Antonella no feed em 16/11.
+
 ## 2026-11-23 — Semana da Black Friday: sex 27 escrita, legenda do Reel de qua 25, arte de seg 23 conferida
 
 - **Seg 23:** a [cama de solteiro](conteudo/posts/2026-11-23-black-cama-box-completa-solteiro.md) tem arte. Preço confere; falta "à vista" no selo. Foto da OQ #54 resolvida pra essa cama.
