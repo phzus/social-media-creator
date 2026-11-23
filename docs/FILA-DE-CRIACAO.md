@@ -17,6 +17,7 @@
 
 | Cliente | Pediu | Fonte | Status | Falta |
 |---|---|---|---|---|
+| **BodySkin** | **Mais conteúdo de enzima, botox, laser e toxina** | [dona, 23/11](../clients/bodyskin-araruama/referencias/2026-11-23-feedback-dona-mais-conteudo.md) | ✍️ 🔒 RT (versão B sobe sem ela) | Laser já pode: [costas + lombar](../clients/bodyskin-araruama/conteudo/posts/2026-11-27-pelo-nas-costas-voce-nem-alcanca.md). Toxina e enzima prontas pra 02 a 14/12 |
 | Atlas 🟡 | "Faz preto, bem limpa (...) tudo nosso está azul, cansa" | [áudio 23/11](../clients/atlas-corretora/referencias/2026-11-23-audio-feedback-arte-preta.md) | ✍️ | Arte preta da [Black Week](../clients/atlas-corretora/conteudo/posts/2026-11-25-black-week-tokio-marine.md). PH confirma que o áudio é da Atlas |
 | Veneza | Sábado Black com arte própria em 28/11 | [reunião 10/11](../clients/veneza-estofados/reuniao-mensal/resumos/2026-11-10-resumo-reuniao.md) | ⬜ | Arte 9:16 pros 2 perfis. 🔒 horário (OQ #42) |
 | Veneza | Arte de todos os produtos da Black | reunião 10/11 | parcial | Ver bloco 2 |
@@ -86,7 +87,8 @@
 | BodySkin | Virilha ou glúteos completos, 10x 69,90 | Novembro Black | ✍️ [qua 25](../clients/bodyskin-araruama/conteudo/posts/2026-11-25-calor-danado-e-voce-recusou-a-piscina.md) |
 | BodySkin | Meia perna + joelhos, 10x 79,90 | Novembro Black | ✍️ [seg 30](../clients/bodyskin-araruama/conteudo/posts/2026-11-30-banheiro-abafado-e-a-gilete-na-primeira-perna.md) |
 | BodySkin | Rosto, 10x 69,90 | Novembro Black | ✍️ reserva |
-| BodySkin | **Masculino:** costas 12x 89 · tórax + abdômen 12x 92 · barba + nuca 12x 79 · cabeça 12x 99 | Novembro Black | ⬜ |
+| BodySkin | **Masculino:** costas + lombar 12x 89 | Novembro Black | ✍️ [anúncio/stories 25 a 30](../clients/bodyskin-araruama/conteudo/posts/2026-11-27-pelo-nas-costas-voce-nem-alcanca.md) |
+| BodySkin | **Masculino:** tórax + abdômen 12x 92 · barba + nuca 12x 79 · cabeça 12x 99 | Novembro Black | ⬜ |
 | BodySkin | Braços 12x 79 · glúteos médios 7x 72 | Novembro Black | ⬜ |
 | Império | Black sem preço | sem data | ✍️ 25 e 27 |
 | Celmapel | Black 27/11 | 27/11 | 🔒 lista do Max |
@@ -101,6 +103,8 @@
 | Dijana | Telha 2,44×0,50 a 24,90 · coluna 1/4 a 45,00 | ✍️ seg 23 e sex 27 |
 | Dijana | Telha 2,44×1,10 a 59,00 · tubo 25 mm a 18,90 · tubo 100 mm a 79,90 · Colonial PVC a 98,90 | 🎨 só no cartaz, ⬜ unitária |
 | Mestre da Obra | **Fim de semana: retira sexta, devolve segunda, paga 1 diária** (sem preço) | ⬜ a única oferta real da conta |
+| CRB | Brita 1, m³ a 179,99 à vista | 🎨 arte de 23/11 na Downloads |
+| MR | Tico-tico Sigma 500 W, 206,40 à vista · 229,42 em até 6x | 🎨 arte de 23/11 na Downloads |
 | CRB | Bloco da parede de 10 m², a partir de 393,75 | ✍️ 🔒 preço até qua 25 |
 | Bazar | Ventilador 339,90 · encarte do calor | ✍️ 🔒 Junior confirma |
 | Contele | Indique e Ganhe, comissão em dinheiro | 🎨 arte do PH · ✍️ roteiro 02/12 |
@@ -110,4 +114,5 @@
 
 ## 3. Histórico
 
+- **2026-11-23 (2):** pedido da dona da BodySkin entrou no topo. Artes da CRB (brita) e da MR (tico-tico) achadas na Downloads.
 - **2026-11-23:** fila criada a pedido de PH.

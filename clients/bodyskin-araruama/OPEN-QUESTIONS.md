@@ -4,6 +4,19 @@ Legenda: 🔴 bloqueante · 🟡 importante (não trava tudo) · 🟢 calibraç�
 Atualizar assim que PH ou a cliente responderem. Resposta vira registro em [context.md](context.md), [BRIEFING.md](BRIEFING.md) ou [PADROES.md](PADROES.md).
 
 
+## 🔴 2026-11-23 (2) — Pedido da dona (enzima, toxina, laser): o que libera
+
+[Feedback](referencias/2026-11-23-feedback-dona-mais-conteudo.md). Seis peças de injetável prontas, esperando a RT. É a lista que vale (substitui a de 24/09 pro que for educativo).
+
+1. 🔴 **Quem aplica** toxina e enzima, e qual o conselho? Quem é a responsável técnica?
+2. 🔴 **A RT lê e dá OK por escrito** nas 6 peças: pode citar "toxina botulínica" e "aplicação de enzimas para gordura localizada" em post? As frases "não é tratamento pra emagrecer" e "a aplicação é local" estão certas?
+2b. 🔴 **Citar a toxina pelo nome num post pro público** é liberado pelo conselho e pela lei (6.360/76, art. 58 §1º)? O nome e o registro de quem aplica precisam aparecer na arte? Sem resposta, sobe a versão B, que não cita o injetável.
+3. 🔴 **Enzima:** a clínica faz hoje? Em quais áreas? O produto tem registro na Anvisa como injetável, e é de venda sob prescrição?
+4. 🟡 A avaliação de toxina e de enzima é gratuita? (fora da copy até a resposta)
+5. 🟡 "Botox" no pedido é a toxina, ou é botox capilar?
+6. 🟡 Quem da equipe grava os 2 vídeos, e quando? (até 30/11)
+7. 🔴 **PH:** por que só 2 posts entraram no feed entre 05/10 e 23/11, e nenhum do Novembro Black? (mesma pergunta de 15/10)
+
 ## 🟡 2026-11-23 — Semana da Black (seg 23 e sex 27/11)
 
 1. 🔴 **Cintia:** OK do [cartaz](conteudo/posts/2026-11-27-cartaz-passamos-laser-nos-precos.md) até qua 25/11, fora do prazo de 1 semana (§9).

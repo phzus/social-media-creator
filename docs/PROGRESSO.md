@@ -4,6 +4,10 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-23 (6) — BodySkin: feedback da dona (enzima, toxina e laser)
+
+7 peças (4 estáticos e 2 roteiros de injetável, travados na RT, + laser masculino liberado). Achado: só 2 posts no feed desde 05/10. [Detalhe](../clients/bodyskin-araruama/PROGRESSO.md).
+
 ## 2026-11-23 (5) — Veneza: Sofá Master na Black · VR: focinho curto no calor
 
 Duas peças pedidas por PH, validadas v1.1. [Master, seg 23](../clients/veneza-estofados/conteudo/posts/2026-11-23-black-sofa-master-1-50.md) · [focinho curto, qua 25](../clients/veterinaria-regional/conteudo/posts/2026-11-25-focinho-curto-sofre-mais-no-calor.md).

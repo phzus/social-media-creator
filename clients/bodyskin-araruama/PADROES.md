@@ -322,8 +322,23 @@ Peça: [2026-10-12-dia-das-criancas-feriado-nao-e-dia-off.md](conteudo/posts/202
 
 ---
 
+## 12. Enzima, toxina e laser: o pedido da dona (2026-11-23)
+
+*"Preciso de mais conteúdos sobre aplicação de enzima, botox, depilacao a laser e toxina butolinica"* ([registro](referencias/2026-11-23-feedback-dona-mais-conteudo.md)).
+
+- **Os três temas se revezam no calendário** (proposta da Lone, PH confirma): em dezembro, seg/qua/sex alternam toxina, enzima e laser.
+- **A Lone escreve e deixa pronto; injetável publica com o OK da RT** (§2). A copy nasce sem preço, sem "Botox", sem prazo, duração, promessa, antes e depois, agulha em quadro nem nome de profissional.
+- **Por que toxina não leva preço nem marca:** toxina é medicamento de prescrição, e a [Lei 6.360/76, art. 58 §1º](https://www2.camara.leg.br/legin/fed/lei/1970-1979/lei-6360-23-setembro-1976-357079-normaatualizada-pl.html) restringe a propaganda desses produtos a publicações pra médicos, dentistas e farmacêuticos (lido em 23/11). Oferta de toxina na arte, que o perfil já teve em 11/09, é o risco maior. Quem decide é a RT.
+- **Versão B em toda peça de injetável:** a dor fica e o procedimento sai (chamada pra avaliação). Sobe com o OK da Cintia se a RT não responder.
+- **"Avaliação gratuita" em injetável:** só "avaliação" até a cliente confirmar.
+- **Enzima nunca é emagrecimento** e a cena da peça é roupa, objeto ou rotina, nunca corpo em close nem julgamento.
+- **Uma dor por peça, sem repetir cena:** calça e pneuzinho, "tá brava?", base na testa, perder peso, testa franzida no sol, um ponto só que não muda.
+
+---
+
 ## Histórico
 
+- **2026-11-23 (v2.5)** — §12 nova: pedido da dona de mais conteúdo de enzima, toxina e laser, com o que a copy de injetável pode ter.
 - **2026-11-06 (v2.4)** — §7: menção genérica a "outros procedimentos" entra no gate da RT; regras de verão + laser e de "a partir de" na parcela; selo da campanha Novembro Black; parcela em destaque; pessoa gerada com IA descartada por PH no anúncio. §9: "Passamos laser nos preços" aprovada.
 - **2026-11-04 (v2.3)** — §7: "de/por" de novembro restrito às coxas até a Cintia confirmar os preços cheios. Pernas completas e meia perna conflitam com as peças do 9.9.
 - **2026-11-03 (v2.2)** — §7 trocado pela tabela completa do Novembro Black, recebida em 03/11 (10 sessões na virilha, validade "enquanto houver vouchers", nome da campanha). O R$ 89,00 sai.

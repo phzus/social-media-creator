@@ -5,6 +5,24 @@ Log datado do trabalho feito pra BodySkin. Topo = mais recente. Entrada por bloc
 ---
 
 
+## 2026-11-23 (3) — Feedback da dona: mais enzima, toxina e laser (7 peças)
+
+[Feedback](referencias/2026-11-23-feedback-dona-mais-conteudo.md). Regras no [PADROES §12](PADROES.md), o que libera no [OQ 23/11 (2)](OPEN-QUESTIONS.md).
+
+| Data | Tema | Peça |
+|---|---|---|
+| 25 a 30/11 | Laser masculino (sem trava) | [Pelo nas costas](conteudo/posts/2026-11-27-pelo-nas-costas-voce-nem-alcanca.md), 12x de R$ 89,00 |
+| Qua 02/12 | Toxina, Reels | [O dia inteiro franzindo](conteudo/roteiros/2026-12-02-reels-o-dia-inteiro-franzindo.md) |
+| Sex 04/12 | Enzima | [A calça fecha](conteudo/posts/2026-12-04-a-calca-fecha-mas-o-pneuzinho-pula.md) |
+| Seg 07/12 | Toxina | [Tá brava?](conteudo/posts/2026-12-07-todo-mundo-pergunta-se-voce-ta-brava.md) |
+| Qua 09/12 | Enzima, Reels | [Um ponto só que não muda](conteudo/roteiros/2026-12-09-reels-um-ponto-so-que-nao-muda.md) |
+| Sex 11/12 | Toxina | [Base na linha da testa](conteudo/posts/2026-12-11-a-base-ja-marcou-a-linha-da-testa.md) |
+| Seg 14/12 | Enzima | [Perder peso](conteudo/posts/2026-12-14-enzima-nao-e-pra-emagrecer.md) |
+
+**Validador (v1.1):** 5 das 6 peças de injetável ganharam **versão B, sem citar o procedimento** (a 14/12 não tem), que sobe só com o OK da Cintia. Mantidas, contra a sugestão, as headlines "pula pra fora" e "todo mundo pergunta" (fala de quem procura) e a peça de 14/12 (a frase saiu do Reels de 09/12).
+
+⚠️ **Feed:** de 05/10 a 23/11 entraram 2 posts (roleta 28/10, Consciência Negra 20/11) e nada do Novembro Black. Laser de dezembro espera a tabela (pedida pra 25/11). Datas conferidas: Dezembro Laranja (câncer de pele) não casa com injetável, fica pra uma peça de laser e sol.
+
 ## 2026-11-23 (2) — Calor: 2 peças de dor e venda (PH)
 
 [Piscina recusada, qua 25](conteudo/posts/2026-11-25-calor-danado-e-voce-recusou-a-piscina.md) (virilha ou glúteos, 10x R$ 69,90) e [gilete no banheiro abafado, seg 30 ou reserva da sex 27](conteudo/posts/2026-11-30-banheiro-abafado-e-a-gilete-na-primeira-perna.md) (meia perna + joelhos, 10x R$ 79,90).

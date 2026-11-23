@@ -3,7 +3,7 @@
 > Documento vivo e **curado** — é o que PH abre minutos antes da reunião de alinhamento.
 > O log completo e técnico de pendências continua em [OPEN-QUESTIONS.md](../OPEN-QUESTIONS.md); aqui entra só o que vale ocupar o tempo da reunião.
 
-**Última atualização:** 2026-10-19 · **Próxima reunião:** ❓ a marcar · **Última reunião:** 2026-09-17
+**Última atualização:** 2026-11-23 · **Próxima reunião:** ❓ a marcar · **Última reunião:** 2026-09-17
 
 ---
 
@@ -11,6 +11,7 @@
 
 | # | Pergunta | Por que importa (o que destrava) |
 |---|---|---|
+| 00 | 🔴🔴 **A dona pediu mais enzima, toxina e laser (23/11). Quem é a RT e quando ela lê as 6 peças prontas?** | Sem esse OK, o pedido dela não vai ao ar. De 05/10 a 23/11 só 2 posts entraram no feed, então o item 0 pesa ainda mais. |
 | 0 | 🔴🔴 **Quem publica no perfil e por que parte das peças aprovadas não foi ao ar?** A [análise de 15/10](../referencias/2026-10-15-analise-instagram-bodyskin-x-espacolaser.md) achou 8 peças da Lone fora da grade (incluindo 01, 02, 09 e 12/10) e 3 datas com outro tema no lugar. Último post de feed: 05/10. | A cliente cobra resultado de um feed que a Lone não controla. Sem resolver isso, nenhum número de outubro mede o trabalho da Lone. |
 | 1 | 🔴 **Quando sai o aval da RT pra injetável?** Aberto desde 26/07, mais de 8 semanas. Agora vai como **lista de 7 perguntas de sim ou não** ([estratégia de outubro §4](../estrategia/2026-10.md)). E a Cintia é a RT? | É o gate que trava as duas campanhas fechadas na reunião de 17/09 (público 50+ full face e sorteio com toxina). Se a RT responder até 05/10, as peças 50+ entram na dezena 11-20 de outubro. |
 | 1b | 🔴 **A condição do 11.11 e as promoções de novembro até 25/10.** Em outubro a condição do dia nunca veio, e **o 10.10 foi cancelado** por isso. | Dois meses seguidos sem condição própria encerram o modelo de data dupla na prática — não por decisão nossa, por falta de oferta que sustente o dia ([PADROES §8, regra 5](../PADROES.md)). E promoção que chega no dia 2 não cabe num arco de três peças. |
