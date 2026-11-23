@@ -200,3 +200,22 @@ Peça: [2026-10-12-dia-das-criancas-mesma-brincadeira-nomes-diferentes.md](conte
 - **2026-08-24 (2)** — Registrada a §9 (nomenclatura da casa: **planejamento familiar** no lugar de seguro de vida, com uma menção-ponte por peça). As três peças da semana temática foram atualizadas e duas renomeadas.
 - **2026-08-24** — Registrada a §8 (tom em seguro de vida: falar de renda, não do evento) — PH reprovou peça que citava "morrer", mesmo negando a premissa. As duas peças da semana temática de Vida (24 e 28/08) foram reescritas.
 - **2026-07-27 (v1.0)** — criado no onboarding, a partir do PDF de diagnóstico da Lone. As regras 1 (pivô), 4, 5, 6 e 7 vêm do material de entrada; a **regra 2 (gate técnico do corretor, com os cinco ajustes de linguagem nos roteiros)** e a **regra 3 (prova e dado de cliente)** são acréscimo da Lone — o PDF só registrava a ressalva nas limitações, sem virar processo.
+
+---
+
+## 12. Condição vigente — Black Week da Tokio Marine (23/11 a 06/12/2026)
+
+Fonte: [mensagem da seguradora, 23/11](referencias/2026-11-23-black-week-tokio-marine.md). **Expira em 06/12/2026. Depois disso, esta seção é histórico.**
+
+| Seguro | Condição | Prazo |
+|---|---|---|
+| Auto | até 10% OFF | 23 a 29/11 |
+| Residencial | até 50% OFF | 23/11 a 06/12 |
+| Viagem | 60% OFF | sem data |
+| Empresarial | até 15% OFF | sem data |
+| Placas solares e equipamentos · Riscos de engenharia · RC obras | até 30% OFF | sem data |
+| Cyber · Responsabilidade profissional (demais atividades) | 25% OFF | sem data |
+| Responsabilidade profissional saúde · RC operações, eventos, serviços, ambiental e transportes | 15% OFF | sem data |
+
+- O "até" e o nome da Tokio Marine acompanham sempre o número. Ressalva: "Descontos e condições variam conforme o perfil e a apólice."
+- 🚫 Renovação, cupom, "de/por" em reais e data pros ramos sem prazo.

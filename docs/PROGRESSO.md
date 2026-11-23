@@ -4,9 +4,13 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-23 (3) — Atlas: Black Week da Tokio Marine
+
+Anúncio pra qua 25/11 + stories, e versão com oferta da sexta 27. [Peça](../clients/atlas-corretora/conteudo/posts/2026-11-25-black-week-tokio-marine.md).
+
 ## 2026-11-23 (2) — Atlas: dobradura "Qual proteção você deseja ter?"
 
-Pedido do PH com referência. Os 4 seguros numa dobradura, sugerida pra qua 25/11, validada v1.1. [Peça](../clients/atlas-corretora/conteudo/posts/2026-11-25-qual-protecao-voce-deseja-ter.md).
+Pedido do PH com referência. Os 4 seguros numa dobradura, sugerida pra seg 30/11 (era qua 25), validada v1.1. [Peça](../clients/atlas-corretora/conteudo/posts/2026-11-30-qual-protecao-voce-deseja-ter.md).
 
 ## 2026-11-23 — Posts da semana (23 a 27/11): 34 peças novas, 20 clientes cobertos
 

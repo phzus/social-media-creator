@@ -4,9 +4,13 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ---
 
+## 2026-11-23 (3) — Black Week da Tokio Marine (23/11 a 06/12)
+
+[Condições](referencias/2026-11-23-black-week-tokio-marine.md) repassadas por PH. [Anúncio](conteudo/posts/2026-11-25-black-week-tokio-marine.md) pra qua 25/11 + stories, e a [sexta 27](conteudo/posts/2026-11-27-loja-fechada-em-dezembro-perde-o-natal.md) ganhou versão com o Empresarial até 15% OFF. A dobradura foi pra seg 30/11.
+
 ## 2026-11-23 (2) — "Qual proteção você deseja ter?" (dobradura com os 4 seguros)
 
-Pedido do PH com referência de dobradura da ComuniArte. [Peça](conteudo/posts/2026-11-25-qual-protecao-voce-deseja-ter.md) pra qua 25/11 (slot sem vídeo): Auto, Residencial, Planejamento Familiar e Empresarial, uma por aba, fecho "Pra qualquer uma delas, o lugar é na Atlas!". Decisão em aberto: etiqueta "Planejamento familiar" ou "Vida".
+Pedido do PH com referência de dobradura da ComuniArte. [Peça](conteudo/posts/2026-11-30-qual-protecao-voce-deseja-ter.md) pra seg 30/11 (era qua 25): Auto, Residencial, Planejamento Familiar e Empresarial, uma por aba, fecho "Pra qualquer uma delas, o lugar é na Atlas!". Decisão em aberto: etiqueta "Planejamento familiar" ou "Vida".
 
 ## 2026-11-23 — Semana 23–27/11: Empresarial · v1.1 validada
 

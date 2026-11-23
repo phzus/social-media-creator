@@ -5,6 +5,16 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🟡 Nova (2026-11-23) — Black Week da Tokio Marine
+
+- **(a)** O desconto vale pra quem já é cliente e vai renovar, ou só pra seguro novo e quem vem de outra seguradora? (Em 2025 era o segundo caso.)
+- **(b)** O 60% do Viagem usa cupom?
+- **(c)** Até quando valem os ramos sem data (Viagem, Empresarial, Cyber e os demais)?
+- **(d)** A Atlas manda o logo oficial da Tokio Marine?
+- **(e)** Viagem, Cyber e responsabilidade profissional entram na lista fixa de ramos da Atlas? (amplia a #12)
+
+---
+
 ## 🟡 Nova (2026-11-23) — arte do PH "seguro de vida em vida" + semana Empresarial
 
 - **(a)** PH montou em 16/11 a arte *"Sabia que seu seguro de vida pode ser usado em vida?"*, com apoio *"pode oferecer coberturas para situações como doenças graves, invalidez e outros imprevistos, dependendo do plano contratado"*. Foi no lugar de "quem ajuda seus pais"? Se foi ao ar, o ângulo "usar em vida" conta como usado.

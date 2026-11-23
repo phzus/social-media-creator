@@ -3,15 +3,35 @@
 **Cliente:** atlas-corretora · **Data:** sexta 27/11/2026 (Black Friday) · **Plataforma:** Instagram (@__atlas.corretora, dois underscores) · **Formato:** estático 4:5, arte única
 **Objetivo:** venda, fecha a semana **Empresarial**. BOFU, dono de loja.
 **Mecanismo:** causa concreta (curto-circuito) + mês que pesa + anúncio direto de cotação ([checklist §2.8](../../../../shared/voice-quality-checklist.md)). A segunda é pergunta, esta não.
-**Status:** v1.1, validada em 23/11 (validador-copy)
+**Status:** v1.2, validada em 23/11 (validador-copy, com a versão Black Week)
 
 ## Por que essa peça
 
 - **Tema do trimestral:** "Movimento alto hoje. E amanhã?", convite de cotação na Black Friday. Virou a perda dita com todas as letras: loja parada em dezembro não vende Natal.
 - **Não repete** o molde de 16/11 ("Se a sua renda parar, quem…"), nem "as contas continuam chegando" (já usado 4 vezes), nem a conta da loja parada 15 dias (30/09).
-- **Data:** é Black Friday, e o lojista está ocupado. A peça olha pro mês seguinte e não usa selo nem desconto (sem condição registrada). Engenheiro/Técnico de Segurança do Trabalho e Combate ao Câncer descartados: forçar a ponte seria oportunismo.
+- **Data:** é Black Friday, e o lojista está ocupado. A peça olha pro mês seguinte. A versão que sobe usa o até 15% OFF da Black Week da Tokio Marine ([PADROES §12](../../PADROES.md)), e a reserva fica sem oferta. Engenheiro/Técnico de Segurança do Trabalho e Combate ao Câncer descartados: forçar a ponte seria oportunismo.
 
-## Arte
+## Arte · versão Black Week (a que sobe, 23/11)
+
+A [Black Week da Tokio Marine](../../referencias/2026-11-23-black-week-tokio-marine.md) deu condição pro Empresarial, então a sexta ganha oferta real. A versão sem oferta, abaixo, fica de reserva.
+
+**Kicker:** BLACK WEEK DA TOKIO MARINE · EMPRESARIAL
+
+**Headline (2 linhas):**
+> **UM CURTO-CIRCUITO PODE FECHAR A SUA LOJA BEM EM DEZEMBRO.**
+> **COTE O SEGURO EMPRESARIAL COM ATÉ 15% OFF!**
+
+**Apoio:**
+> Desconto da Tokio Marine, por tempo limitado. A cotação é toda por mensagem.
+
+**CTA (faixa):**
+> CHAMA NO DIRECT E PEDE A COTAÇÃO DA SUA LOJA!
+
+**Pequeno:** Promoção da Tokio Marine. Descontos e condições variam conforme o perfil e a apólice. · @__atlas.corretora
+
+**Legenda:** a mesma de baixo, com o último parágrafo trocado por: "Na Black Week da Tokio Marine, o empresarial está com até 15% OFF, por tempo limitado. Passou o movimento de hoje, chama no direct e pede a cotação. É tudo por mensagem, de qualquer lugar do Brasil." E a ressalva final vira "Promoção da Tokio Marine. Descontos e condições variam conforme o perfil e a apólice."
+
+## Arte · reserva sem oferta
 
 **Kicker:** SEGURO EMPRESARIAL
 
