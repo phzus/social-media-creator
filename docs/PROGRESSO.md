@@ -4,6 +4,12 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-23 (4) — Fila de criação + calor (BodySkin e Bazar)
+
+- PH cobrou feedback como prioridade e lembrete das artes de oferta. Criada a [fila](FILA-DE-CRIACAO.md), com regra no [WORKFLOW §9](WORKFLOW.md) e no CLAUDE.md.
+- Áudio de cliente achado na Downloads e transcrito: arte preta e clean, "tudo nosso está azul" (Atlas, 🟡 a confirmar). Black Week, sexta 27 e dobradura ajustadas.
+- Calor: 2 peças da BodySkin (piscina, gilete no banheiro) e 2 do Bazar (ventilador, encarte).
+
 ## 2026-11-23 (3) — Atlas: Black Week da Tokio Marine
 
 Anúncio pra qua 25/11 + stories, e versão com oferta da sexta 27. [Peça](../clients/atlas-corretora/conteudo/posts/2026-11-25-black-week-tokio-marine.md).

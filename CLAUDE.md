@@ -20,6 +20,7 @@ Esta é a regra mais importante do projeto. Se PH menciona qualquer fato, decis�
 |---|---|
 | Bloco de trabalho concluído (estratégia, lote de roteiros, análise) | Topo de [docs/PROGRESSO.md](docs/PROGRESSO.md) **e** `clients/<slug>/PROGRESSO.md` (entrada datada YYYY-MM-DD) |
 | Novo cliente / mudança de status | [docs/CLIENTES-INDEX.md](docs/CLIENTES-INDEX.md) |
+| **Feedback/pedido de cliente ou oferta nova** (além do `referencias/` e do PADROES) | [docs/FILA-DE-CRIACAO.md](docs/FILA-DE-CRIACAO.md) |
 | Pergunta sem resposta (geral) | [docs/OPEN-QUESTIONS.md](docs/OPEN-QUESTIONS.md) |
 | Pergunta sem resposta (de cliente) | `clients/<slug>/OPEN-QUESTIONS.md` (log completo) |
 | **Pergunta/insight/risco pra levar na reunião de alinhamento** | `clients/<slug>/reuniao-mensal/PAUTA.md` (curado) |
@@ -173,6 +174,7 @@ Catálogo completo em [.claude/skills/](.claude/skills/). Resumo:
 
 ## Antes de criar conteúdo
 
+- **Ler a [fila de criação](docs/FILA-DE-CRIACAO.md) antes de qualquer lote.** Feedback de cliente vem primeiro, depois oferta com prazo, depois calendário. Toda entrega de lote termina lembrando PH dos feedbacks abertos e das ofertas sem arte que vencem em até 7 dias (regra de PH, 2026-11-23, [WORKFLOW §9](docs/WORKFLOW.md)).
 - **Antes de escrever roteiro/post para um cliente novo**, garantir que `clients/<slug>/context.md` existe e está completo. Se faltar, rodar a skill `social-media-context-sms` primeiro.
 - **Antes de criar qualquer peça (inclusive post avulso ou troca de última hora), pesquisar as datas comemorativas do dia de publicação e da semana** (WebSearch ou `pesquisador-datas`), com atenção às datas de profissão do nicho do cliente. A data entra na peça ou é descartada com motivo registrado. Data que PH ou o cliente afirma se confere com fonte (regra de PH, 2026-11-18).
 - **Antes de fazer suposição sobre o cliente** (público, ofertas, preços, restrições legais, sazonalidade), checar `BRIEFING.md` e `context.md`. Se a info não estiver lá, perguntar a PH e registrar a resposta no lugar certo.

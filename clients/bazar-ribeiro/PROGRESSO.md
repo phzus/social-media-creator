@@ -4,6 +4,10 @@ Log datado do trabalho feito pro Bazar Ribeiro. Topo = mais recente. Entrada por
 
 ---
 
+## 2026-11-23 (2) — Calor: ventilador (qua 25) e encarte (seg 30)
+
+[Ventilador de parede, R$ 339,90](conteudo/posts/2026-11-25-ninguem-fica-na-varanda-com-esse-calor.md) no layout WD-40 e [encarte do calor](conteudo/posts/2026-11-30-lista-do-calor-encarte.md). Preços de outubro, Junior confirma por loja.
+
 ## 2026-11-23 — Semana de elétrica na Black: seg 23 e sex 27 (v1, aguarda validador)
 
 - **Achado no feed (12 posts de cada perfil):** a Black Friday do Bazar está no ar desde 06/11, só com fio cabinho (1,5 mm a partir de R$ 184,90; 2,5 mm a partir de R$ 254,90, rolo de 100 m, mesmos preços nas duas lojas). A escada de 13/11 não foi publicada e segue livre.

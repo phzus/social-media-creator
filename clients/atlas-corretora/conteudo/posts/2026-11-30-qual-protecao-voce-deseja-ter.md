@@ -53,7 +53,7 @@ Condições variam por seguradora e por apólice.
 
 - **1080×1350.** Referência: [dobradura](../../referencias/2026-11-23-ref-dobradura-qual-servico.png). Vem dela a ideia (mãos segurando a dobradura aberta, uma opção por aba). O resto é Atlas.
 - **Foto:** mãos de adulto segurando uma dobradura branca de verdade, vista de frente. Fotografar a dobradura no celular ou usar stock. Cada aba com espaço liso pro texto.
-- **Cor e letra ([§7](../../PADROES.md)):** azul-marinho e branco. Headline em serifada da marca, "PROTEÇÃO" com mais peso. Etiquetas azul-marinho com texto branco. Monograma "A" + escudo no topo.
+- **Cor e letra:** fundo claro (a cliente reclamou em 23/11 que o feed todo azul cansa), com azul-marinho só na letra e nas etiquetas. Headline em serifada da marca, "PROTEÇÃO" com mais peso. Etiquetas azul-marinho com texto branco. Monograma "A" + escudo no topo.
 - **Ícones de linha, mesmo traço:** carro · casa · família (duas figuras adultas e uma criança) · loja com toldo.
 - **Faixa do fecho** cheia, azul-marinho, logo abaixo das mãos. É o segundo texto mais lido, depois da headline.
 - "PLANEJAMENTO FAMILIAR" é o texto mais longo: quebra em duas linhas na etiqueta, e essa aba vai embaixo à esquerda. Conferir a leitura no tamanho do celular.

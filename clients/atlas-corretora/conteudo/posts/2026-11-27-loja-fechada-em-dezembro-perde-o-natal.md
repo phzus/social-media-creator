@@ -63,8 +63,8 @@ Condições variam por seguradora e por apólice.
 
 ## Brief pro designer
 
-- **1080×1350, tipográfica**, fundo branco ou off-white com texto azul-marinho, pra alternar com a de segunda.
-- A linha 1 domina e a linha 2 vem em faixa azul. CTA no rodapé, serifada da marca, escudo.
+- **1080×1350, tipográfica, fundo preto clean**, igual ao anúncio de quarta ([áudio de 23/11](../../referencias/2026-11-23-audio-feedback-arte-preta.md)). A reserva sem oferta vai em branco ou off-white.
+- A linha 1 domina e a linha 2 vem em faixa branca. CTA no rodapé, serifada da marca, escudo.
 - 🚫 Loja em chamas, porta de aço abaixada com cara de falência, árvore de Natal, selo Black, cifrão.
 
 ## Gate do corretor (§2)

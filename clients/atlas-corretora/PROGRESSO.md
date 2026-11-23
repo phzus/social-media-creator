@@ -4,6 +4,10 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ---
 
+## 2026-11-23 (4) — Feedback em áudio: arte preta e clean, "tudo nosso está azul"
+
+[Transcrição](referencias/2026-11-23-audio-feedback-arte-preta.md) (🟡 autoria por inferência). Black Week e sexta 27 viraram preto; dobradura em fundo claro; regra no PADROES §7; lista inteira da Tokio na legenda, como a cliente pediu.
+
 ## 2026-11-23 (3) — Black Week da Tokio Marine (23/11 a 06/12)
 
 [Condições](referencias/2026-11-23-black-week-tokio-marine.md) repassadas por PH. [Anúncio](conteudo/posts/2026-11-25-black-week-tokio-marine.md) pra qua 25/11 + stories, e a [sexta 27](conteudo/posts/2026-11-27-loja-fechada-em-dezembro-perde-o-natal.md) ganhou versão com o Empresarial até 15% OFF. A dobradura foi pra seg 30/11.

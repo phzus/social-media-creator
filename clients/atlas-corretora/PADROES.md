@@ -107,6 +107,7 @@ A Atlas chega com marca pronta e coesa, o que é raro. **Não há kit a criar aq
 - ✅ **Azul-marinho + branco**, tipografia serifada, monograma "A" e escudo.
 - ✅ **Levar a marca pro vídeo:** tarja azul no gancho de tela e no fecho, pra o Reel ter cara de Atlas mesmo quando o rosto do corretor ocupa a tela inteira.
 - ✅ **Gancho de tela padronizado** — mesma fonte, mesma posição, sempre. Depois de 8 Reels, o público reconhece a peça antes de ler.
+- ⚠️ **Feedback da cliente (áudio, 23/11/2026, 🟡 autoria a confirmar):** *"tudo nosso está azul, cansa um pouco (...) toda hora parece que está escrita a mesma coisa"*. **Fundo azul-marinho não sai em duas peças seguidas.** Alternar: branco/off-white, preto (campanha), foto. O azul vira cor de letra, etiqueta e logo. Variar também a composição, não só a cor. [Registro](referencias/2026-11-23-audio-feedback-arte-preta.md)
 - 🚫 Inventar paleta nova, fonte nova ou submarca. O problema da conta nunca foi visual.
 
 ---

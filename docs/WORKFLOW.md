@@ -108,6 +108,17 @@ Resumo de reunião é **fonte confirmada**, diferente de Briefing Estratégico, 
 
 Template: [../shared/templates/pauta-reuniao-mensal.md](../shared/templates/pauta-reuniao-mensal.md).
 
+## 9. Fila de criação — feedback primeiro, oferta lembrada (PH, 2026-11-23)
+
+PH: *"você olha os nossos feedbacks? eles precisam ser colocados como prioridade de criação além de me lembrar das artes de oferta que temos que criar."* A fila vive em [FILA-DE-CRIACAO.md](FILA-DE-CRIACAO.md).
+
+1. **Antes de qualquer lote:** ler a fila e conferir a `~/Downloads` (áudio, print ou lista de cliente que chegou depois do último commit). Áudio se transcreve na máquina, com o `faster-whisper` do cache do `uv` (modelo small, offline, sem mandar pra fora).
+2. **Ordem:** feedback e pedido de cliente → oferta com prazo, a que vence primeiro → calendário. Se o pedido do PH pular a ordem, atender e avisar o que ficou atrás.
+3. **Pedido ou oferta nova entra na fila no mesmo prompt**, além do `referencias/` e do PADROES. Cliente que mandou lista de preço vira uma linha por produto.
+4. **Feedback que muda o jeito de criar** (cor, formato, tom) vai pro PADROES e se aplica nas peças que ainda não saíram.
+5. **Lembrete:** toda entrega de lote, e a primeira resposta de cada semana, termina com as ofertas que vencem em até 7 dias sem arte e os feedbacks abertos. Curto, com o que falta.
+6. **Status:** copy pronta não é peça pronta. A linha só fecha com ✅ no ar.
+
 ## Convenções de nome
 
 - Arquivos de conteúdo: `YYYY-MM-DD-descricao-kebab.md` (data = data planejada de publicação).

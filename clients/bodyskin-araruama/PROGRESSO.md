@@ -5,6 +5,10 @@ Log datado do trabalho feito pra BodySkin. Topo = mais recente. Entrada por bloc
 ---
 
 
+## 2026-11-23 (2) — Calor: 2 peças de dor e venda (PH)
+
+[Piscina recusada, qua 25](conteudo/posts/2026-11-25-calor-danado-e-voce-recusou-a-piscina.md) (virilha ou glúteos, 10x R$ 69,90) e [gilete no banheiro abafado, seg 30 ou reserva da sex 27](conteudo/posts/2026-11-30-banheiro-abafado-e-a-gilete-na-primeira-perna.md) (meia perna + joelhos, 10x R$ 79,90).
+
 ## 2026-11-23 — Semana da Black: avaliações (seg 23) + cartaz "Passamos laser nos preços" (sex 27)
 
 - **[Seg 23, avaliações](conteudo/posts/2026-11-23-avaliacoes-de-clientes.md):** arquivo datado (era `2026-11-xx`), copy v1.1 igual. Os prints estão com PH. Reserva: [laser no rosto](conteudo/posts/2026-11-16-pele-morena-pode-fazer-laser-no-rosto.md).
