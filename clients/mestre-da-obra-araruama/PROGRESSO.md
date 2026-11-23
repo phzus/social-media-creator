@@ -1,5 +1,13 @@
 # Progresso — Mestre da Obra Araruama
 
+## 2026-11-23 (2) — Benchmark do Triunfo Lagos: ferramentas testadas, planejamento em debate
+
+PH pediu benchmark do @triunfolagos, adaptação ao nosso briefing e planejamento mensal em documento com prévia (imagem de protótipo) de cada peça. Combinado: debater, coletar, gerar. [Teste e primeira leitura](referencias/2026-11-23-triunfo-teste-de-coleta.md).
+- Perfil, Reels, carrossel e fala dos vídeos: coleta funciona. Anúncios do Triunfo: fontes divergem, criativo não visto.
+- Nossa conta de anúncios da Mestre está acessível e nunca rodou campanha (OQ #1 e #3 atualizadas, #23 e #24 novas).
+- **Erro no ar:** "Aruaruama" em 2 fixados. Post da laje não estava no feed.
+- Planejamento ainda não começou.
+
 ## 2026-11-23 — Semana de 23 a 27/11: laje repautada (seg) e homenagem da segurança do trabalho (sex)
 
 - **Seg 23/11:** [dia da laje](conteudo/posts/2026-11-16-dia-da-laje-nao-tem-segunda-chance.md) não saiu em 16/11. Volta com foto real (frame da betoneira no vídeo de 18/11), apoio no fallback e legenda v1.2 sem "revisada" e "orientação" (OQ #21 aberta).

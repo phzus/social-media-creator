@@ -27,6 +27,7 @@
 | Casa das Telhas | Encarte "fecha mês" e artes unitárias | reunião 05/11 | ⬜ | Ver bloco 2 |
 | BodySkin | Post de avaliações tipo o da CIIL | PH, 18/11 | ✍️ | Arte com os prints, [copy](../clients/bodyskin-araruama/conteudo/posts/2026-11-23-avaliacoes-de-clientes.md) |
 | CIIL | Uma arte por convênio novo (Marinha) + trocar o carrossel | [reunião 15/10](../clients/ciil/reuniao-mensal/resumos/2026-10-15-resumo-reuniao.md) | ✍️ | Arte da [Marinha](../clients/ciil/conteudo/posts/2026-11-23-novo-convenio-marinha-do-brasil.md) e slide novo no carrossel de 18/09 |
+| Mestre da Obra | **Erro no ar:** "Aruaruama/RJ" nos fixados de localização e horário (achado da Lone, 23/11) | [coleta](../clients/mestre-da-obra-araruama/referencias/2026-11-23-triunfo-teste-de-coleta.md) | ⬜ | Corrigir a arte e trocar os 2 fixados |
 | Mestre da Obra | Vídeo sem gancho em pergunta | [reunião 06/11](../clients/mestre-da-obra-araruama/reuniao-mensal/resumos/2026-11-06-resumo-reuniao.md) | ⬜ | Refazer os [3 roteiros de 13/11](../clients/mestre-da-obra-araruama/conteudo/roteiros/2026-11-13-roteiros-mestre-da-obra.md) em afirmação |
 | Maicom | Feirão "esquece o mundo" | [áudio 16/11](../clients/maicom-minerais-unamar/referencias/2026-11-16-audio-feirao-28-11.md) | parcial | Motion v2 (qua 25) e v3 (sex 27). Corrigir a arte sem o aviso +18 e o vídeo com "Maicon" |
 | Celmapel | Encarte por semana | [plano](../clients/celmapel-festas/estrategia/2026-11-a-12-bimestral.md), reunião 02/10 | ✍️ | Só a de 27/11 tem copy. 🔒 preços do Max até qua 25, 12h |

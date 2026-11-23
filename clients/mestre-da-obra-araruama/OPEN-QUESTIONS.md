@@ -4,9 +4,9 @@ Log completo. As prioritárias estão na [PAUTA](reuniao-mensal/PAUTA.md). O doc
 
 | # | Pergunta | Aberta em | Status |
 |---|---|---|---|
-| 1 | Houve tráfego pago ou impulsionamento nos Reels de abr a set (199 mil, 102 mil, 71,9 mil, 67,9 mil, 22,5 mil, 19,7 mil)? Quem rodava, qual objetivo e por que parou? | 2026-11-05 | 🔴 aberta |
+| 1 | Houve tráfego pago ou impulsionamento nos Reels de abr a set (199 mil, 102 mil, 71,9 mil, 67,9 mil, 22,5 mil, 19,7 mil)? Quem rodava, qual objetivo e por que parou? **23/11:** a conta `[CA] Mestre da Obra Araruama`, acessível no nosso Gerenciador, nunca teve campanha. Se houve verba, foi em outra conta ou pelo botão de impulsionar | 2026-11-05 | 🟡 aberta em parte |
 | 2 | A loja tem escora metálica, roçadeira, soprador, aspirador e furadeira? O catálogo está atualizado? **06/11: escora e máquina de solda, sim.** O resto vem na planilha da atendente | 2026-11-05 | 🟡 aberta em parte |
-| 3 | Acessos: Meta Business Suite, Gerenciador de Anúncios, Perfil da Empresa no Google | 2026-11-05 | 🔴 aberta |
+| 3 | Acessos: Meta Business Suite, Gerenciador de Anúncios, Perfil da Empresa no Google. **23/11:** a conta de anúncios já está acessível (sem forma de pagamento). Insights e Google seguem faltando | 2026-11-05 | 🟡 aberta em parte |
 | 4 | ~~Quem aparece em vídeo?~~ ✅ A Ingrid aparece e o marido grava, com celular próprio (reunião 06/11) | 2026-11-05 | ✅ fechada |
 | 5 | ~~Quem produziu o perfil desde setembro?~~ ✅ Outra agência (PH, 05/11). A queda de views não é da fase da Lone | 2026-11-05 | ✅ fechada |
 | 6 | ~~Já é conta nossa?~~ ✅ Ainda não: primeiro os 3 fixados, depois os posts normais (PH, 05/11). **Segue aberto:** plano contratado (posts/mês, vídeo, tráfego) e quem aprova | 2026-11-05 | 🟡 aberta em parte |
@@ -26,3 +26,5 @@ Log completo. As prioritárias estão na [PAUTA](reuniao-mensal/PAUTA.md). O doc
 | 20 | Indique e ganhe: a Ingrid gostou. Qual benefício a loja topa dar? | 2026-11-13 | 🟡 proposta da Lone |
 | 21 | Post de 16/11 (dia da laje): "sai revisada" e "orientação de uso na retirada" são a rotina da loja (sem isso, a arte usa o fallback)? Tem foto da betoneira na frente da loja? A locação de fim de semana vale pra betoneira (saiu da peça, serve pra uma peça própria)? | 2026-11-16 | 🟡 aberta, perguntar no grupo do marketing |
 | 22 | A loja também **vende** equipamento? A fachada diz "Locação e venda de equipamentos para construção civil" e a legenda do Reels de 18/11 repete. O que vende e pode divulgar? | 2026-11-23 | 🟡 aberta |
+| 23 | A loja cobre os preços que o Triunfo publicou na Black (23/11 a 23/12: martelo 80 a diária, betoneira 450 **mensal**, placa 90 kg 90 a diária)? Vira promessa se a peça apoiar no "cobrimos orçamento" durante a Black deles | 2026-11-23 | 🔴 aberta |
+| 24 | **(Interna, Lone)** O planejamento com prévia é da Mestre (assumido) e de dezembro? Quem vê a versão final, cliente ou interno? | 2026-11-23 | 🟡 aguardando PH |
