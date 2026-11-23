@@ -38,6 +38,19 @@
 
 Headline "A BLACK FRIDAY DA BRUNO / DAS TINTAS COMEÇOU!", kicker com o período ("DE XX A XX/11"), selo sem o "NA BLACK:" e CTA "PASSA NA LOJA!". O resto fica igual.
 
+### Versão sem data (23/11, se o período não tiver sido confirmado) — recomendada pra hoje
+
+O período seguiu sem resposta até o dia 23. Esta não conta dias nem diz que a Black já vale. Destaca o 12x sem juros, que foi confirmado por escrito e ainda não abriu nenhuma peça.
+
+- **Kicker:** BLACK FRIDAY
+- **Headline:** **A BLACK DA BRUNO DAS TINTAS / VEM COM PARCELAMENTO EM ATÉ 12X SEM JUROS!**
+- **Selo:** E 15% DE DESCONTO PRA QUEM PAGA À VISTA
+- **Apoio:** OU 10% DE DESCONTO NO CRÉDITO EM ATÉ 6X
+- **CTA:** PERGUNTA NA LOJA A SUA CONDIÇÃO!
+- **Legenda:** A Black Friday da Bruno das Tintas vem com parcelamento em até 12x sem juros. Quem paga à vista tem 15% de desconto, e no crédito em até 6x são 10%. Vê com a loja qual fica melhor pra sua pintura. 📍 Amaral Peixoto, Vila Capri — Araruama · Estação — Iguaba Grande
+
+⚠️ O desconto e o 12x são condições separadas: o selo não pode encostar na headline de um jeito que leia "12x com 15%".
+
 ## Direção de arte
 
 - **Foto real da loja** (fachada ou corredor de tintas), do banco do cliente. A cor das prateleiras ocupa a maior parte da arte e o azul-marinho fica na moldura e no rodapé (§1).

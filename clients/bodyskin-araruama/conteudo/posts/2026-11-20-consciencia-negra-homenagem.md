@@ -5,7 +5,7 @@
 
 > **Ângulo desta conta:** as mulheres negras que abriram caminho na história do Brasil. O público da clínica é majoritariamente feminino, e a homenagem fala de história, não de aparência.
 >
-> **Convivência no dia:** o [cartaz "Passamos laser nos preços"](2026-11-20-cartaz-passamos-laser-nos-precos.md) (Novembro Black) está sugerido pra sex 20/11. **Recomendação:** a Black não divide o feed com esta peça no mesmo dia, porque uma campanha chamada Black colada no Dia da Consciência Negra é exatamente a leitura que a gente quer evitar. O cartaz vai pra seg 23/11 ou pra sex 27/11 (a troca já prevista com a peça de coxas). PH decide. A Cintia aprova com uma semana de antecedência, então a peça precisa ir pra ela agora.
+> **Convivência no dia:** o [cartaz "Passamos laser nos preços"](2026-11-27-cartaz-passamos-laser-nos-precos.md) (Novembro Black) está sugerido pra sex 20/11. **Recomendação:** a Black não divide o feed com esta peça no mesmo dia, porque uma campanha chamada Black colada no Dia da Consciência Negra é exatamente a leitura que a gente quer evitar. O cartaz vai pra seg 23/11 ou pra sex 27/11 (a troca já prevista com a peça de coxas). PH decide. A Cintia aprova com uma semana de antecedência, então a peça precisa ir pra ela agora.
 
 ---
 

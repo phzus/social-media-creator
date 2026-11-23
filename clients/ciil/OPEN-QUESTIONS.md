@@ -2,6 +2,15 @@
 
 Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes de fechar a 1ª estratégia mensal.
 
+## 🟡 Nova (2026-11-23) — convênio da Marinha e semana de 23 a 27/11
+
+- 🟡 **PH:** a Marinha já teve post, ou saiu só a imagem do destaque (17/11)?
+- 🟡 **CIIL:** a Marinha vale nas duas unidades? Pra consulta, tratamento e vacina? Pode usar a marca oficial em anúncio?
+- 🔴 **PAUTA #4 (Crohn e Asma):** sem resposta, a série parou na 08, com duas doenças faltando.
+- 🔴 **RT:** 3 itens da [peça de 27/11](conteudo/posts/2026-11-27-viagem-de-fim-de-ano-e-a-proxima-dose.md), até qua 25/11.
+- 🟡 **CIIL:** dias fechados entre Natal e Ano-Novo, e se aplica medicação de quem trata em outra cidade e passa o verão na região.
+- 🟡 **PH:** o `ciil perguntas.mp4` (Downloads, 18/11) é qual vídeo? Se for pra quarta 25, o da dermatite anda pra 02/12.
+
 ## 🔴 Nova (2026-11-16) — Isso Tem Nome 08, Espondilite (seg 16/11)
 
 [Peça](conteudo/posts/2026-11-16-isso-tem-nome-08-espondilite-anquilosante.md) escrita, retida até o RT.

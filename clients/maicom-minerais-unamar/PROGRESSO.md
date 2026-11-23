@@ -4,6 +4,14 @@ Log datado do trabalho feito pra Maicom. Topo = mais recente. Entrada por bloco 
 
 ---
 
+## 2026-11-23 — Semana do Super Feirão: seg 23 e sex 27 escritas (v1)
+
+- **Seg 23:** [Anota a sua medida antes do feirão](conteudo/posts/2026-11-23-anota-a-medida-antes-do-feirao.md), leve e sem preço. Se o anúncio do feirão não foi pro feed na sexta 20, ele sobe hoje no lugar.
+- **Qua 25:** "O patrão enlouqueceu" se gravaram até hoje; senão, motion v2.
+- **Sex 27:** [Bota o despertador](conteudo/posts/2026-11-27-bota-o-despertador-feirao-amanha.md), véspera, com o R$ 1,00 e o bônus.
+- **Conferência da arte do feirão** (Downloads/carrossel complexo): a oferta bate com o áudio. 🟡 Saiu **sem** "Chope só para maiores de 18 anos. Se beber, não dirija." e com foto de copo de chope. Dá pra cobrir na legenda.
+- **Vídeo `maicon .mp4`** (18/11): a legenda queimada diz "**Maicon** Minerais". O certo é Maicom, com M (PADROES §4). Corrigir antes de publicar.
+
 ## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
 
 - [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH. 🟡 Convive com o anúncio do feirão: homenagem de manhã, feirão à tarde (opção: feirão pra 23/11).

@@ -4,6 +4,13 @@ Log datado do trabalho feito pra Araruama Tintas. Topo = mais recente. Entrada p
 
 ---
 
+## 2026-11-23 — Black: estáticos de seg 23 e sex 27/11
+
+- [Seg 23/11](conteudo/posts/2026-11-23-black-resina-sol-e-chuva.md): abre a lista com a Resina Sol e Chuva Coral 18L (de R$ 525,00 por R$ 439,90), com imagem que a loja já tem.
+- [Sex 27/11](conteudo/posts/2026-11-27-black-qualyvinil-premium-ate-sabado.md): Qualyvinil Premium (de R$ 489,00 por R$ 409,00) e Massa Coral 20kg, com prazo até sábado 28.
+- Produtos diferentes dos heróis do Reels de 25/11. Econômica (OQ #18) e Massa F-E seguem fora. v1, aguardam validador.
+- Isolamento com a Bruno conferido por mecânica, frase e CTA: aqui é produto com "de/por" e prazo até sábado; lá é condição de pagamento, sem produto, e "hoje".
+
 ## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
 
 - [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH. Isolada da Bruno: Araruama = compromisso da loja; Bruno = quem foi Zumbi.

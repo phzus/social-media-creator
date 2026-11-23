@@ -21,9 +21,9 @@ Nenhuma peça inventa garantia, horário de fim, desconto ou "menor preço da re
 |---|---|---|
 | **Qua 18/11** | [Motion flyer](../conteudo/roteiros/2026-11-18-motion-flyer-feirao-28-11.md) (Reels) | Anúncio barulhento. O Reels alcança quem ainda não segue |
 | **Sex 20/11** | [Post estático](../conteudo/posts/2026-11-20-feirao-28-11-anuncio.md) | O anúncio que fica. **Fixar no perfil até 28/11** |
-| Seg 23/11 | *(sugestão, não escrita)* post leve: "ponta de estoque: leva a metragem toda de uma vez" | Educa sem sair do tema. Conversa com a peça de 31/08 (mesmo modelo, lote diferente) |
+| Seg 23/11 | [Anota a sua medida antes do feirão](../conteudo/posts/2026-11-23-anota-a-medida-antes-do-feirao.md) (post leve) | Educa sem sair do tema. Conversa com a peça de 31/08 (mesmo modelo, lote diferente) |
 | **Qua 25/11** | Motion v2: mesma montagem, gancho "FALTAM 3 DIAS." | Contagem. Só troca a cena 1 |
-| **Sex 27/11** | Motion v3 ("É AMANHÃ.") nos stories, ou post curto de véspera | A sexta é Black Friday no feed da cidade inteira. O feirão é sábado e não se chama Black |
+| **Sex 27/11** | [Bota o despertador](../conteudo/posts/2026-11-27-bota-o-despertador-feirao-amanha.md) no feed + motion v3 ("É AMANHÃ.") nos stories | A sexta é Black Friday no feed da cidade inteira. O feirão é sábado e não se chama Black |
 | **Sáb 28/11** | Stories ao vivo: churrasco, loja cheia, piso saindo | Prova social sem número. O movimento é a prova |
 
 A semana de 23 a 27/11 fica inteira no feirão (linha temática única por semana).

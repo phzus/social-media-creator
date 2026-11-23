@@ -4,6 +4,12 @@ Log datado do trabalho feito pra Max Contabilidade. Topo = mais recente. Entrada
 
 ---
 
+## 2026-11-23 — Semana 23–27/11: imposto do ano + Presumido × Real · v1, aguarda validador
+
+- **Seg 23:** [quanto a empresa pagou de imposto](conteudo/posts/2026-11-23-quanto-a-empresa-pagou-de-imposto-em-2026.md). Sem regra nem prazo, então pode sair sem trava técnica.
+- **Sex 27:** [fora do Simples em 2027](conteudo/posts/2026-11-27-fora-do-simples-em-2027-presumido-ou-real.md). Versão A com a regra (OQ Z), versão B sem regra.
+- **Checado na web em 23/11:** resultado definitivo do Simples 2027 em 20/11 (CRCMA citando a Receita), cancelamento até 20/12 segue aberto, Lei 9.430 art. 26 e Lei 9.718 art. 13 lidas no Planalto. As fontes divergem no número de pedidos negados, que ficou fora.
+
 ## 2026-11-18 (2) — 20/11 é Dia do Técnico em Contabilidade · regra nova: pesquisar datas antes de criar
 
 - **O que aconteceu:** PH cobrou que a peça de sex 20/11 foi escrita sem pesquisar a data ("dia 20 é dia do contador eu acho").

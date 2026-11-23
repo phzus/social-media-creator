@@ -1,6 +1,9 @@
 # Post de feed — Clínica: viajar de ônibus ou avião com o pet pode exigir atestado de saúde
 
 **Cliente:** wt-shopping · **Data sugerida:** segunda 30/11/2026 · **Plataforma:** Instagram, feed 4:5 · **Formato:** estático · **Funil:** BOFU · **Frente:** clínica (uma só, PADROES §2)
+
+> ⚠️ **Já publicado em 16/11**, com a copy reescrita. Não repetir em 30/11. O slot de seg 30/11 fica com o [enjoo](2026-11-16-remedio-de-enjoo-de-gente-nao-e-pro-pet.md), na versão Benestar (PH confirma).
+
 **Origem:** pedido da Luziane no WhatsApp, 09/11 ([registro](../../referencias/2026-11-09-pedido-luziane-atestado-e-enjoo.md)). Par: [remédio de enjoo](2026-11-16-remedio-de-enjoo-de-gente-nao-e-pro-pet.md).
 **Status:** 🟡 v1.1 validada (validador-copy, 11/11: 3 bloqueantes e 3 importantes aplicados), aguarda PH
 

@@ -8,6 +8,7 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 ## 🆕 2026-11-11 — lista da Black Friday (23 a 28/11)
 
 - **#18 — 🔴 preço "Por" da Qualyvinil Econômica Branco 18L.** A linha veio só com "De R$ 197,00", e a mensagem termina com um "Por 159,9" solto depois da Resina, que já tinha o seu "Por R$ 439,90". Leitura da Lone: R$ 159,90 é da Econômica (~19%, mesma faixa do resto). Só entra em arte depois de confirmar. Pergunta pronta pro WhatsApp: *"Wanderson, a Qualyvinil Econômica Branco 18L sai por R$ 159,90 na Black? O 159,90 veio no fim da lista, depois da Resina."*
+- **#19 — 🟡 (23/11) Embalagem da Qualyvinil Premium Branco 18L.** Não há imagem dela na Downloads, e "Premium" aparece em mais de uma linha da marca. Wanderson manda foto do balde; sem ela, a [peça de 27/11](conteudo/posts/2026-11-27-black-qualyvinil-premium-ate-sabado.md) sai tipográfica. Na mesma conferência: a resina da lista é a da lata "Resina Impermeabilizante", e o preço vale pra incolor e colorida?
 - **#12 — atualizada:** os preços de novembro valem até 22/11. De 23 a 28/11 vale a tabela da Black ([PADROES §7](PADROES.md)). Depois de 28/11, ainda não se sabe o que volta.
 
 ## 🆕 2026-11-05 — preços de outubro mantidos em novembro

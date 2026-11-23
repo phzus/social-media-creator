@@ -5,10 +5,10 @@ Log completo. O que vai para a reunião está curado na [PAUTA](reuniao-mensal/P
 | # | Pergunta | Por que importa | Aberta em | Status |
 |---|---|---|---|---|
 | 1 | São 22 anos? O perfil ainda diz 21. | Entra no fixado de venda e na bio. Número errado em fixado fica meses no ar | 16/11 | 🔴 Aberta |
-| 2 | Qual é o celular certo de Campos: (22) 99945-4082 ou (22) 99745-7568? Os dois estão no site. | Lead que liga pro número errado se perde | 16/11 | 🔴 Aberta |
+| 2 | Qual é o celular certo de Campos: (22) 99945-4082 ou (22) 99745-7568? Os dois estão no site. **23/11:** a legenda da ROP de 23/09/2026 usa o 99945-4082. | Lead que liga pro número errado se perde | 16/11 | 🔴 Aberta |
 | 3 | WhatsApp: um número central ou um por loja? Quem responde e em quanto tempo? | Define o rodapé dos fixados e o link da bio | 16/11 | 🔴 Aberta |
 | 4 | Atendimento móvel: quais cidades, que raio, se tem taxa, como funciona a agenda e que serviços faz no local (troca completa ou só avaliação)? | É o diferencial central. Sem regra, toda peça diz "conforme cidade e agenda" | 16/11 | 🔴 Aberta |
-| 5 | Os endereços do site estão certos? Campos: Rua Rocha Leão, 207, no Caju ou no Parque Leopoldina? | Fixado de localização. O site é antigo | 16/11 | 🟡 Achado no site, confirmar |
+| 5 | Os endereços do site estão certos? Campos: Rua Rocha Leão, 207, no Caju ou no Parque Leopoldina? **23/11:** o fixado de Campos (2024) diz Av. XV de Novembro, 209, Centro. | Fixado de localização. O site é antigo | 16/11 | 🟡 Achado no site, confirmar |
 | 6 | Escopo: o móvel atende caminhão? Troca vidro de máquina e de guindaste? Faz vidro lateral e traseiro? Faz reparo de trinca ou só troca? | Lista do fixado de venda, Reels do móvel e as séries B2B | 16/11 | 🔴 Aberta |
 | 7 | Atende pelo seguro? O site lista Itaú, Mapfre, Bradesco, BB, Zurich, Caixa, Porto Seguro e Alfa. A lista vale hoje, e como funciona? | O concorrente Ruan usa isso na bio. Entra na triagem só se for verdade | 16/11 | 🔴 Aberta |
 | 8 | Dá garantia do serviço? Qual? | Não dá pra falar de garantia sem isso | 16/11 | 🔴 Aberta |

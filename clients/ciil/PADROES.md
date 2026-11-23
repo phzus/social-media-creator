@@ -191,6 +191,7 @@ Além da chamada visual, a legenda reforça o convite a confirmar a condição p
 | Vale | ✅ Confirmado | Idem |
 | Health Med | ✅ Confirmado — **novo em relação à lista de maio/2026** | Idem |
 | OMINT Saúde | ✅ Confirmado — cliente pediu inclusão explícita (não estava na imagem interna); logo já está no site ciil.com.br. **2026-10-15 (PH): aceito nas duas unidades, pra consultas e tratamentos.** Vacina não foi citada. | Cliente, 2026-09-17 · PH, 2026-10-15 |
+| Marinha do Brasil | 🟡 **Na arte de convênios de 17/11** ([imagem](referencias/2026-11-17-arte-convenios-com-marinha.png)), única mudança em relação à de 20/10. Unidade e serviços não informados: a peça não afirma nenhum dos dois | Arte na Downloads do PH, 2026-11-17 |
 | Care Plus (Araruama) | ⚠️ **Não reconfirmado** — estava na lista antiga (maio/2026), não aparece na imagem nova, cliente não disse se saiu. Não incluir nem excluir sem perguntar. | — |
 | Amil / SulAmérica / Porto Seguro (reembolso) | ⚠️ **Não reconfirmado** — mesma situação do Care Plus. | — |
 

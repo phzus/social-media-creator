@@ -4,6 +4,37 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-23 — Posts da semana (23 a 27/11): 34 peças novas, 20 clientes cobertos
+
+PH pediu os posts da semana. Um fork por grupo de clientes, 3 validador-copy no lote inteiro e correções aplicadas (v1.1). Datas pesquisadas: Engenheiro Eletricista (23/11, usada na Contele, Lagos e Bazar), Segurança do Trabalho (27/11, Mestre da Obra) e Black Friday. As outras foram descartadas com motivo em cada peça.
+
+| Cliente | Seg 23 | Qua 25 | Sex 27 |
+|---|---|---|---|
+| Araruama Tintas | [Resina Sol e Chuva](../clients/araruama-tintas/conteudo/posts/2026-11-23-black-resina-sol-e-chuva.md) | Reels já escrito | [Qualyvinil Premium](../clients/araruama-tintas/conteudo/posts/2026-11-27-black-qualyvinil-premium-ate-sabado.md) |
+| Bruno das Tintas | [Abertura, versão sem data](../clients/bruno-das-tintas/conteudo/posts/2026-11-23-black-friday-abertura.md) | Reels já escrito | [Hoje é Black](../clients/bruno-das-tintas/conteudo/posts/2026-11-27-hoje-e-black-friday.md) |
+| Dijana | [Telha 2,44 x 0,50](../clients/dijana-materiais-construcao/conteudo/posts/2026-11-23-black-dijana-telha-2-44-x-0-50.md) | — | [Coluna 1/4](../clients/dijana-materiais-construcao/conteudo/posts/2026-11-27-black-dijana-coluna-a-partir-de-45.md) |
+| Veneza | arte da cama pronta | Reel da Gabriela, legenda nova | [A Black é hoje](../clients/veneza-estofados/conteudo/posts/2026-11-27-black-friday-e-hoje.md) |
+| WT | [Piscina, arte 1](../clients/wt-shopping/conteudo/posts/2026-11-23-black-wt-combos-de-piscina.md) | [Tapete gelado](../clients/wt-shopping/conteudo/posts/2026-11-25-black-wt-tapete-gelado-lavi-pet.md) | [Tutelo 30%](../clients/wt-shopping/conteudo/posts/2026-11-27-black-wt-tutelo-30-off.md) |
+| Maicom | [Anota a medida](../clients/maicom-minerais-unamar/conteudo/posts/2026-11-23-anota-a-medida-antes-do-feirao.md) | Patrão enlouqueceu / motion v2 | [Despertador](../clients/maicom-minerais-unamar/conteudo/posts/2026-11-27-bota-o-despertador-feirao-amanha.md) |
+| Contele | [Engenheiro Eletricista](../clients/contele-solar/conteudo/posts/2026-11-23-dia-do-engenheiro-eletricista.md) | Reels da estação | [Casa de temporada](../clients/contele-solar/conteudo/posts/2026-11-27-casa-de-temporada-a-conta-chega-no-seu-nome.md) |
+| Lagos Padrão | [Engenheiro Eletricista](../clients/lagos-padrao/conteudo/posts/2026-11-23-dia-do-engenheiro-eletricista.md) (opcional) | — | — |
+| Atlas | [Estoque novo, seguro antigo](../clients/atlas-corretora/conteudo/posts/2026-11-23-estoque-novo-seguro-antigo.md) | — | [Curto-circuito em dezembro](../clients/atlas-corretora/conteudo/posts/2026-11-27-loja-fechada-em-dezembro-perde-o-natal.md) |
+| Max | [Total de imposto do ano](../clients/max-contabilidade/conteudo/posts/2026-11-23-quanto-a-empresa-pagou-de-imposto-em-2026.md) | — | [Fora do Simples](../clients/max-contabilidade/conteudo/posts/2026-11-27-fora-do-simples-em-2027-presumido-ou-real.md) |
+| CIIL | [Convênio Marinha](../clients/ciil/conteudo/posts/2026-11-23-novo-convenio-marinha-do-brasil.md) | vídeo da dermatite | [Viagem e próxima dose](../clients/ciil/conteudo/posts/2026-11-27-viagem-de-fim-de-ano-e-a-proxima-dose.md) |
+| BodySkin | [Avaliações](../clients/bodyskin-araruama/conteudo/posts/2026-11-23-avaliacoes-de-clientes.md) | — | [Cartaz laser nos preços](../clients/bodyskin-araruama/conteudo/posts/2026-11-27-cartaz-passamos-laser-nos-precos.md) |
+| VR | [Mito: vacina de filhote](../clients/veterinaria-regional/conteudo/posts/2026-11-23-mito-vacina-de-filhote-protege-pra-sempre.md) | — | [Leptospirose](../clients/veterinaria-regional/conteudo/posts/2026-11-27-vacina-da-leptospirose-antes-das-chuvas.md) |
+| MR | [Puxador](../clients/mr-distribuidora-mdf/conteudo/posts/2026-11-23-puxador-depois-da-porta-furada.md) | — | [Preço antes de cotar](../clients/mr-distribuidora-mdf/conteudo/posts/2026-11-27-preco-do-movel-antes-de-cotar-mdf.md) |
+| Império | [Plugue de 20 A](../clients/imperio-material-de-construcao/conteudo/posts/2026-11-23-plugue-de-20-na-tomada-de-10.md) | [Legenda do Reels](../clients/imperio-material-de-construcao/conteudo/posts/2026-11-25-legenda-reels-black-tinta.md) | [Reforma adiada](../clients/imperio-material-de-construcao/conteudo/posts/2026-11-27-a-reforma-adiada-entrou-na-black.md) |
+| Mestre da Obra | [Dia da laje](../clients/mestre-da-obra-araruama/conteudo/posts/2026-11-16-dia-da-laje-nao-tem-segunda-chance.md) (não saiu em 16/11) | — | [Segurança do Trabalho](../clients/mestre-da-obra-araruama/conteudo/posts/2026-11-27-dia-da-seguranca-do-trabalho-andaime.md) |
+| CRB | [125 blocos](../clients/casas-rio-bahia/conteudo/posts/2026-11-23-parede-de-10-metros-125-blocos.md) | — | [Quanto custa o bloco](../clients/casas-rio-bahia/conteudo/posts/2026-11-27-quanto-custa-o-bloco-da-parede.md) |
+| Celmapel | [Confere o estoque](../clients/celmapel-festas/conteudo/posts/2026-11-23-confere-o-estoque-sexta-e-black.md) | Reels da Taísa | [Encarte Black](../clients/celmapel-festas/conteudo/posts/2026-11-27-e-hoje-black-friday-celmapel.md) |
+| Casa das Telhas | [Três condições](../clients/casa-das-telhas-campos/conteudo/posts/2026-11-23-black-do-apocalipse-tres-condicoes.md) | 5 vídeos prontos | [Telha a R$ 1,69](../clients/casa-das-telhas-campos/conteudo/posts/2026-11-27-black-do-apocalipse-telha-a-1-69.md) |
+| Bazar | [Fio 1,5 e 2,5](../clients/bazar-ribeiro/conteudo/posts/2026-11-23-fio-da-luz-1-5-fio-da-tomada-2-5.md) | — | [R$ 1,85 o metro](../clients/bazar-ribeiro/conteudo/posts/2026-11-27-fio-no-rolo-sai-1-85-o-metro.md) |
+| ROP | fixado 1 falta o WhatsApp de Campos | 3 vídeos prontos | — |
+
+- **Validação:** bloqueantes resolvidos na Atlas (a headline insinuava cobertura da venda perdida), na Bruno (molde igual ao da Araruama no mesmo dia) e no Bazar (bitola afirmada como regra, sem "mínimo"). Descartei uma correção que punha "sexta, 27/11" na abertura da Bruno, porque o período segue sem confirmação.
+- **Achados:** a Casa das Telhas abriu sozinha a "Black Friday do Apocalipse", com prazo divergente; cimento Campeão da Dijana está R$ 1,00 acima de outubro; o Bazar repete na Black preço já vendido em outubro; a Contele paga comissão em dinheiro no Indique e Ganhe (arte do PH); Império e Bazar já têm Black no ar; fixados do Mestre e da Casa das Telhas publicados.
+
 ## 2026-11-19 (3) — Veneza: Sofá Master no roteiro de Nova Iguaçu
 
 Pedido do cliente: entrou como cena 04 (R$ 799,99 à vista, sem "de"), e o PDF foi regerado. [Log](../clients/veneza-estofados/PROGRESSO.md).
@@ -30,7 +61,7 @@ Os 3 combos de piscina da WT Black (PADROES §7) estão numa peça só, com head
 
 ## 2026-11-18 (3) — BodySkin: post de avaliações de clientes (modelo CIIL)
 
-Copy validada v1.1, com critérios de escolha das 4 avaliações dos prints. [Peça](../clients/bodyskin-araruama/conteudo/posts/2026-11-xx-avaliacoes-de-clientes.md).
+Copy validada v1.1, com critérios de escolha das 4 avaliações dos prints. [Peça](../clients/bodyskin-araruama/conteudo/posts/2026-11-23-avaliacoes-de-clientes.md).
 
 ## 2026-11-18 (2) — VR e Max: post normal na sex 20/11, no lugar da homenagem
 
@@ -248,7 +279,7 @@ O pedido veio da Luziane. Os dois posts foram validados (v1.1): as headlines abs
 
 ## 2026-11-11 (2) — BodySkin: cartaz "Passamos laser nos preços" no formato da Mais Laser
 
-[Peça](../clients/bodyskin-araruama/conteudo/posts/2026-11-20-cartaz-passamos-laser-nos-precos.md) pra sex 20/11, validada v1.1. A referência é de concorrente de categoria: o formato veio de lá, o copy não, e "laser" saiu da caixa da manchete porque lia "mais laser".
+[Peça](../clients/bodyskin-araruama/conteudo/posts/2026-11-27-cartaz-passamos-laser-nos-precos.md) pra sex 20/11, validada v1.1. A referência é de concorrente de categoria: o formato veio de lá, o copy não, e "laser" saiu da caixa da manchete porque lia "mais laser".
 
 ---
 

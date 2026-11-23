@@ -8,6 +8,8 @@
 
 ---
 
+> **Atualização 23/11:** a arte do PH de 16/11 diz *"ganhe uma comissão em dinheiro pelo projeto fechado"*. A cena 5 fica: **"E você ganha uma comissão em dinheiro quando o projeto da pessoa fechar."** Na legenda, o 4º bullet vira *"Fechou o projeto, você ganha uma comissão em dinheiro"*. Sem valor e sem prazo (OQ 16/11 #1). O PDF ainda está com o slot azul: regerar depois que PH confirmar.
+
 ## Por que assim
 
 - **O ângulo é outro que o do post de 16/11.** O post fala com quem conhece alguém que reclama da conta. O vídeo fala com quem **já é cliente** e vive ouvindo a mesma pergunta: "e aí, compensa?". Quem tem placa no telhado já faz propaganda da Contele sem perceber, e o vídeo mostra o que fazer com essa pergunta.

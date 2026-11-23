@@ -41,6 +41,13 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 **61.** 🟡 **As peças da Lone estão indo ao ar?** Na coleta do perfil em 22/10 ([referência](referencias/2026-10-22-posts-publicados-perfil.md)), os 12 posts mais recentes (05/09 a 19/10) não mostram nenhuma peça da Lone de 28/09 em diante (bloco 10 × 15, material que chega cedo, Dia das Crianças, arame, tubo 100/40). Aparecem posts de cimento Campeão, argamassa AC1, Extrafilito e elétrica/hidráulica, com emoji e "do início ao acabamento". Ou as peças não foram publicadas, ou o cliente posta uma grade própria em paralelo. Vale PH conferir antes de seguir a numeração da série.
 **62.** 🟢 **Mix fora do encarte:** cimento (Campeão CP III, R$ 32,99 em 16/10), argamassa AC1 Ipumix (R$ 10,99 em 09/10), aditivos e setor de elétrica/hidráulica aparecem no perfil. Entram na tabela liberada da [PADROES §6](PADROES.md) ou ficam fora das peças da Lone?
 
+## 🟡 2026-11-23 — Semana do bloco (23 e 27/11)
+
+**63.** 🔴 **Bloco 10 a R$ 3,15 e bloco 15 a R$ 4,19 continuam?** A [venda de 27/11](conteudo/posts/2026-11-27-quanto-custa-o-bloco-da-parede.md) usa os dois. Sem resposta até qua 25/11, sai a versão sem preço. Mensagem pronta: *"Pessoal, pra arte de sexta (27/11): o bloco 10 segue a R$ 3,15 e o bloco 15 a R$ 4,19, em dinheiro ou Pix? E o bloco de vocês é o de 19 x 39 cm?"*
+**64.** 🟡 **O bloco da loja é 19 x 39 cm?** A conta de 12,5 por m² depende disso (as artes já dizem a medida).
+**65.** 🟢 **Unidade da areia e da areola (atualiza a #48):** o perfil publicou **areola a R$ 109,99 o m³** (13/11) e **areia lavada a R$ 119,99 o m³**, "promoção especial" (16/11; encarte: R$ 134,39). A unidade é metro cúbico e a tabela do encarte **já não vale inteira**. Brita e barra do tubo seguem sem unidade.
+**66.** 🟡 **Reforça a #61:** na coleta de 23/11 (12 posts, 25/09 a 20/11) o feed é só produto com preço (tábua, massa corrida, argamassa, areola, areia) mais a homenagem de 20/11. Nenhum educativo da série da Lone saiu. A numeração 05 de 23/11 segue a nossa lista, e PH decide se publica.
+
 ---
 
 ## 🔴 Bloqueantes — A. Negócio e posicionamento

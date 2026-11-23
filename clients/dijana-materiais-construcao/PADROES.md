@@ -50,7 +50,28 @@ Pedido explícito do Igor: oferta comunica **preço no dinheiro/Pix, com retirad
 
 ---
 
+## 8. Black Dijana 2026 — preços vigentes (cartazes de 18/11)
+
+Fonte: 2 cartazes feitos por PH ([registro com comparação](referencias/2026-11-18-cartazes-black-dijana-precos.md)). Condição: à vista, dinheiro/Pix. Sem data de fim informada. **Vale só na Black; não reaproveitar em dezembro sem confirmar.**
+
+| Produto | Preço |
+|---|---|
+| Telha Fibrocimento 2,44 × 0,50 m | R$ 24,90 |
+| Telha Fibrocimento 2,44 × 1,10 m, 5 mm | R$ 59,00 |
+| Coluna 1/4 | R$ 45,00 |
+| Coluna 5/16 | R$ 75,00 |
+| Cimento Campeão CP III | R$ 34,00 ⚠️ (R$ 33,00 em 16/10: não usar como herói da Black) |
+| Tubo Soldável 25 mm × 6 m Krona | R$ 18,90 |
+| Tubo 100 mm Fortlev 6 m | R$ 79,90 |
+| Telha Colonial PVC terracota 2,39 × 0,88 m | R$ 98,90 |
+
+🚫 "De/por", percentual e "menor preço": o cliente não mandou preço cheio, e 3 dos 8 itens repetem preço já publicado.
+
+---
+
 ## Histórico
+
+- **2026-11-23 (v1.3)** — §8: preços da Black Dijana.
 
 - **2026-10-13 (v1.2)** — §6 atualizado (Saquarema confirmada pela reunião de 02/09) e §7 criado, a partir do resumo de reunião achado em `~/Downloads`.
 

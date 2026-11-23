@@ -1,9 +1,18 @@
 # Post de feed — Novembro Black: cartaz "Passamos laser nos preços"
 
-**Cliente:** bodyskin-araruama · **Data sugerida:** sexta 20/11/2026 (envio à Cintia até sex 13/11, 15h) · **Plataforma:** Instagram, feed 4:5 · **Formato:** estático (foto + cartaz) · **Funil:** BOFU · **Pilar:** P5 Oferta
+**Cliente:** bodyskin-araruama · **Data:** sexta 27/11/2026, dia da Black Friday (era 20/11, que ficou com a homenagem) · **Plataforma:** Instagram, feed 4:5 · **Formato:** estático (foto + cartaz) · **Funil:** BOFU · **Pilar:** P5 Oferta
 **Referência de formato:** cartaz "A Black mais Black" da Mais Laser (enviado por PH em 11/11, [print](../../referencias/2026-11-11-ref-formato-cartaz-mais-laser.png))
 **Condição:** [PADROES §7](../../PADROES.md), tabela de novembro
-**Status:** 🟡 v1.1 validada (validador-copy, 11/11: 1 bloqueante e 4 importantes aplicados), aguarda PH
+**Status:** v1.2, validada em 23/11 (validador-copy). A v1.1 foi validada em 11/11
+
+> **O que mudou na v1.2 (23/11), pra sair na sexta da Black:**
+> - Faixa pequena no topo da foto: "HOJE É BLACK FRIDAY". O nome da campanha continua **Novembro Black**, porque "Black Friday" sozinha diria que a oferta só vale no dia 27 (§7).
+> - CTA do cartaz: "HOJE" puxa a ação, sem inventar fim de campanha.
+> - Legenda abre na Black Friday.
+> - **Não entra:** "últimos dias", "última chance", "só hoje", "até 30/11", "ainda restam vouchers". A cliente não escreveu data de fim nem contou vouchers.
+> - **Preço conferido:** R$ 69,90 segue sendo a menor parcela da tabela (§7), vigente "durante o Novembro Black 2026, enquanto houver vouchers". Nenhuma tabela nova no repositório.
+>
+> **Datas de 27/11:** a Black Friday entra. Combate ao Câncer e Técnico de Segurança do Trabalho ficam fora, sem ponte com depilação.
 
 ---
 
@@ -38,7 +47,7 @@ A Mais Laser também é rede de depilação a laser, ou seja, concorrente de cat
 
 **Rodapé do cartaz:** [selo do Novembro Black](../../referencias/2026-11-06-selo-novembro-black-cliente.png) no lugar onde a referência tem a logo.
 
-**Topo da foto:** logo BodySkin branca.
+**Topo da foto:** logo BodySkin branca + faixa fina: HOJE É BLACK FRIDAY
 
 **Rodapé legal da arte (pequeno, fora do cartaz, na calçada ou numa faixa):** *Oferta válida durante o Novembro Black 2026, enquanto houver vouchers disponíveis. Parcelas a partir de R$ 69,90 em áreas selecionadas. Pagamento no cartão de crédito normal, dinheiro, Pix ou débito. Crédito recorrente fora da promoção. Condição sujeita a avaliação profissional prévia.*
 
@@ -73,11 +82,11 @@ Apoio igual. Puxa a dor que esta conta já trabalha (cera entre as sessões, cer
 
 ## Legenda
 
-Passamos laser nos preços. No Novembro Black da BodySkin, a depilação a laser sai em parcelas a partir de R$ 69,90.
+Hoje é Black Friday, e na BodySkin a gente passou laser nos preços: no Novembro Black, a depilação a laser sai em parcelas a partir de R$ 69,90.
 
 São 12 áreas na promoção, de virilha e rosto até coxas, costas e barba. Os vouchers são limitados e valem durante o Novembro Black, enquanto durarem.
 
-O primeiro passo é a avaliação gratuita: a gente vê a sua pele e tira as suas dúvidas antes de você decidir. Marque pelo link do perfil.
+O primeiro passo é a avaliação gratuita: a gente vê a sua pele e tira as suas dúvidas antes de você decidir. Marque hoje pelo link do perfil.
 
 📍 Av. John Kennedy, 300 — Loja 3, Centro, Araruama
 
@@ -87,7 +96,8 @@ O primeiro passo é a avaliação gratuita: a gente vê a sua pele e tira as sua
 
 ## Pendências
 
-- 🔴 **Envio à Cintia até sex 13/11, 15h** (aprovação com 1 semana de antecedência, §9). Se a peça das coxas não ganhar OK excepcional e escorregar pra 20/11, este cartaz vai pra **sex 27/11**, o dia da Black Friday.
+- 🔴 **OK da Cintia até qua 25/11.** O prazo de 1 semana (§9) já passou. A v1.1 era pra ter ido pra ela em 13/11; se ela já aprovou, só muda a faixa da Black Friday e a legenda.
+- 🟡 **PH:** o cartaz subiu em algum dia entre 18 e 21/11? Se subiu, a sexta vira a peça do [rosto](2026-11-16-pele-morena-pode-fazer-laser-no-rosto.md).
 - 🟡 **Foto real ou mockup:** perguntar à Cintia se alguém da equipe pode posar com o cartaz na frente da clínica. Sem resposta até a produção, vai o mockup.
 - 🟡 RT: preço de depilação a laser também passa pela RT (§2), como nas outras peças do Novembro Black. A versão B ("sem cera") só sai com aval escrito.
 

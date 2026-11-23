@@ -17,7 +17,7 @@
 | 2 | **Vocês têm kit ou estação comprados antes do aumento? Quantos?** | Se tiver, esse lote é a melhor oferta possível, com motivo e escassez reais. |
 | 3 | **Vão querer fazer Black Friday, ou ir direto pro verão?** | A Lone recomenda abrir o verão já, e a Black só com oferta confirmada até sex 13/11. |
 | 4 | **Se houver combo ou condição, qual é o preço e até quando vale?** | Sem isso, não há peça de oferta. Preços por escrito pendentes desde 08/09. |
-| 5 | **Quanto custa a limpeza de painéis pra quem já é cliente, e o que ganha quem indica?** | Não depende do preço do kit e abre conversa com os +700 clientes. **16/11:** o post do Indique e Ganhe já está escrito e espera só o ganho, o gatilho (indicou ou fechou?) e quem pode indicar. |
+| 5 | **Quanto custa a limpeza de painéis pra quem já é cliente, e o que ganha quem indica?** | Não depende do preço do kit e abre conversa com os +700 clientes. **16/11:** a arte do PH saiu com "comissão em dinheiro pelo projeto fechado". Falta saber de quanto é, quando paga e quem pode indicar. |
 | 6 | **Vocês têm a lista de quem pediu orçamento e não fechou, e dos +700 clientes? Quem manda a mensagem e quem atende?** | É o caminho mais rápido pra venda. Vale saber também se o CRM está em uso. |
 | 7 | **Dá pra receber até 13/11 o vídeo das placas no estoque, a demonstração da estação e fotos reais de instalação?** | Tudo combinado em 08/09, sem registro de entrega. A queixa de vocês foi falta de autenticidade. |
 | 8 | **Qual é o nome da campanha de verão, e qual a meta de vendas? Quantas vendas fecharam em outubro?** | O nome está pendente desde 08/09. Sem meta, a Lone não mede a campanha. |

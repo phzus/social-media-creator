@@ -5,11 +5,16 @@ Log datado do trabalho feito pra BodySkin. Topo = mais recente. Entrada por bloc
 ---
 
 
+## 2026-11-23 — Semana da Black: avaliações (seg 23) + cartaz "Passamos laser nos preços" (sex 27)
+
+- **[Seg 23, avaliações](conteudo/posts/2026-11-23-avaliacoes-de-clientes.md):** arquivo datado (era `2026-11-xx`), copy v1.1 igual. Os prints estão com PH. Reserva: [laser no rosto](conteudo/posts/2026-11-16-pele-morena-pode-fazer-laser-no-rosto.md).
+- **[Sex 27, cartaz](conteudo/posts/2026-11-27-cartaz-passamos-laser-nos-precos.md) v1.2:** remarcado de 20/11, com a faixa "HOJE É BLACK FRIDAY" e a legenda abrindo na data. Sem "últimos dias" nem "só hoje", porque a cliente não deu data de fim (§7). Preço conferido. Aguarda validador e OK da Cintia até qua 25.
+
 ## 2026-11-18 (2) — 📅 20/11 também é Dia do Esteticista
 
 A pesquisa de datas (regra nova de PH) achou o **Dia do Esteticista em 20/11**. Fonte: listas de datas, como a Info Escola. Não há lei confirmada, então a confiança é média.
 
-A conta já tem duas peças no dia 20, o [cartaz](conteudo/posts/2026-11-20-cartaz-passamos-laser-nos-precos.md) e a homenagem da Consciência Negra. A data ainda não foi usada.
+A conta já tem duas peças no dia 20, o [cartaz](conteudo/posts/2026-11-27-cartaz-passamos-laser-nos-precos.md) e a homenagem da Consciência Negra. A data ainda não foi usada.
 
 PH decide se entra, por exemplo:
 - nos stories, homenageando a equipe;
@@ -19,7 +24,7 @@ PH decide se entra, por exemplo:
 
 A cliente pediu um post "tipo o da CIIL" de feedback e mandou os prints de avaliação pro PH. PH pediu só a copy.
 
-- **[Peça](conteudo/posts/2026-11-xx-avaliacoes-de-clientes.md):** grade 2×2 com trechos recortados dos prints.
+- **[Peça](conteudo/posts/2026-11-23-avaliacoes-de-clientes.md):** grade 2×2 com trechos recortados dos prints.
   - Headline: "Antes de marcar laser, você procura o que os outros falaram. Tá aqui o que falaram da BodySkin."
   - Faixa do Novembro Black (virilha total, 10x de R$ 69,90) e CTA da avaliação gratuita.
   - Critérios de escolha das 4 avaliações, pelo gate da RT e pelo §7.
@@ -54,7 +59,7 @@ Lote de segunda 16/11 com a lente da Equação de Valor (Hormozi, [core/framewor
 
 ## 2026-11-11 — Novembro Black: cartaz "Passamos laser nos preços" (formato da Mais Laser) · validado v1.1
 
-PH mandou o cartaz "A Black mais Black" da Mais Laser ([print](referencias/2026-11-11-ref-formato-cartaz-mais-laser.png)) e pediu um igual. Na [peça](conteudo/posts/2026-11-20-cartaz-passamos-laser-nos-precos.md), só o formato veio da referência: pessoa segurando um cartaz de jornal, com a manchete em tipografia misturada. O copy usa a frase da campanha e "parcelas a partir de R$ 69,90". Sugerida pra sex 20/11 (envio até 13/11) ou sex 27/11. A versão B, "NOVEMBRO sem CERA", depende da RT.
+PH mandou o cartaz "A Black mais Black" da Mais Laser ([print](referencias/2026-11-11-ref-formato-cartaz-mais-laser.png)) e pediu um igual. Na [peça](conteudo/posts/2026-11-27-cartaz-passamos-laser-nos-precos.md), só o formato veio da referência: pessoa segurando um cartaz de jornal, com a manchete em tipografia misturada. O copy usa a frase da campanha e "parcelas a partir de R$ 69,90". Sugerida pra sex 20/11 (envio até 13/11) ou sex 27/11. A versão B, "NOVEMBRO sem CERA", depende da RT.
 
 **Validador:** "laser" na caixa da manchete lia "mais laser", o nome da concorrente, então a caixa passou a ser "nos" em laranja. A legenda prometia que a avaliação define as sessões, contra o pacote fixo de 10, e "pernas" saiu.
 

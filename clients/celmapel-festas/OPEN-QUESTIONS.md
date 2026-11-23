@@ -5,6 +5,11 @@ Log completo. O que vale ocupar a reunião está curado em [reuniao-mensal/PAUTA
 
 ---
 
+## 🔴 2026-11-23 — Black Friday de sexta 27/11
+
+57. 🔴 **A Black da loja é na sexta 27/11? Só o dia ou até quando?** E a lista: produto, preço cheio, preço de Black, validade e limite por CPF, **até qua 25/11, 12h**. Sem a lista, sobe a versão sem preço do [encarte](conteudo/posts/2026-11-27-e-hoje-black-friday-celmapel.md).
+58. 🟡 **Aveia Barano:** a arte do Esquenta diz "de R$ 5,69" e a legenda de 19/11 diz "de R$ 5,89". A oferta venceu em 21/11, mas o post segue no ar.
+
 ## 🔴 Dados básicos (travam bio, destaques e qualquer CTA)
 
 > **Atualizado em 07/10:** a maior parte foi **achada em fonte pública** (Google Maps, cadastro da loja virtual, Receita) — ver [análise de presença pública](referencias/2026-10-07-analise-perfil-instagram-e-presenca-publica.md). **Achado não é confirmado:** nada vai pro ar sem o OK do Max. Guia de empresa (Apontador, GuiaFácil, Solutudo) **não é fonte** (misturam três "Celmapel").

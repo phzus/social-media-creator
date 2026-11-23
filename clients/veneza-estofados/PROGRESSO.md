@@ -5,6 +5,13 @@ Log datado do trabalho feito pra Veneza Estofados. Topo = mais recente. Entrada 
 ---
 
 
+## 2026-11-23 — Semana da Black Friday: sex 27 escrita, legenda do Reel de qua 25, arte de seg 23 conferida
+
+- **Seg 23:** a [cama de solteiro](conteudo/posts/2026-11-23-black-cama-box-completa-solteiro.md) tem arte. Preço confere; falta "à vista" no selo. Foto da OQ #54 resolvida pra essa cama.
+- **Qua 25:** o vídeo da Gabriela na fábrica está editado (31 s). Legenda escrita no [arquivo de roteiros](conteudo/roteiros/2026-11-roteiros-black-friday-da-veneza.md), logo abaixo do Roteiro 01.
+- **Sex 27:** [a peça do dia](conteudo/posts/2026-11-27-black-friday-e-hoje.md), v1: "A BLACK FRIDAY QUE VOCÊ ESPEROU É HOJE NA VENEZA!", com Grécia, Master e cama de solteiro, e a faixa do último Sábado Black (28/11).
+- **Ter 24 (avulso, casal com box × com baú):** não escrita, falta foto.
+
 ## 2026-11-19 (2) — Roteiro de Nova Iguaçu: versão final de PH + Master
 
 PH reescreveu o roteiro do Vitor ([original](referencias/2026-11-19-roteiro-nova-iguacu-versao-ph.md)) e pediu "exatamente assim, mas agora com um Master". O [roteiro v1.3](conteudo/roteiros/2026-11-18-roteiro-black-nova-iguacu-sala-e-quarto.md) traz as 8 cenas dele sem mudança de palavra. A cena 04 é nova, no tom dele: *"E se a sua sala é pequena, olha esse sofá Master! São 1 metro e 50, e ele ainda puxa o assento pra você esticar as pernas. Tá saindo por apenas R$ 799,99 à vista!"*. São 9 cenas, ~65-70s.

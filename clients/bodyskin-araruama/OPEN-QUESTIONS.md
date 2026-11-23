@@ -4,6 +4,13 @@ Legenda: 🔴 bloqueante · 🟡 importante (não trava tudo) · 🟢 calibraç�
 Atualizar assim que PH ou a cliente responderem. Resposta vira registro em [context.md](context.md), [BRIEFING.md](BRIEFING.md) ou [PADROES.md](PADROES.md).
 
 
+## 🟡 2026-11-23 — Semana da Black (seg 23 e sex 27/11)
+
+1. 🔴 **Cintia:** OK do [cartaz](conteudo/posts/2026-11-27-cartaz-passamos-laser-nos-precos.md) até qua 25/11, fora do prazo de 1 semana (§9).
+2. 🟡 **PH:** o cartaz ou as avaliações já subiram entre 18 e 21/11?
+3. 🟡 **Cintia:** o Novembro Black acaba quando, e quantos vouchers restam? Com resposta até qua 25, a sexta pode dizer "últimos dias" ou "últimos vouchers".
+4. 🟡 **Cintia (prazo 25/11):** tabela de dezembro e condição do 12.12. Sem condição própria, a data não vai ao ar (§8, regra 5).
+
 ## 🟡 2026-11-16 — Segunda 16/11: laser no rosto ("pele morena pode fazer laser no rosto?")
 
 [Peça](conteudo/posts/2026-11-16-pele-morena-pode-fazer-laser-no-rosto.md).

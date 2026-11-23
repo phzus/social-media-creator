@@ -1,5 +1,13 @@
 # Progresso — Casa das Telhas Campos
 
+## 2026-11-23 — A Black começou hoje (Black Friday do Apocalipse) + seg 23 e sex 27 (v1, aguarda validador)
+
+- **Achado no feed:** a loja abriu a Black hoje, com nome próprio, preços e condições ([registro](referencias/2026-11-23-black-friday-do-apocalipse-publicada.md)). Isso muda o combinado de 05/11 (27 e 28/11, preço só na véspera). Os 3 fixados estão no ar desde 11/11.
+- **[Seg 23](conteudo/posts/2026-11-23-black-do-apocalipse-tres-condicoes.md):** as três condições lado a lado. Como a loja já postou 3 vezes hoje, pode ir pra terça.
+- **[Sex 27](conteudo/posts/2026-11-27-black-do-apocalipse-telha-a-1-69.md):** "TEM TELHA A R$ 1,69 À VISTA", com versão sem preço.
+- Qua 25: 5 vídeos prontos em `~/Downloads/(Casa das telhas) Vídeos` (13 a 38 s: telha Casalit, apresentação, caixa d'água, piscina, variedade). O "casa das telhas 3" ou o "1" parecem ter saído em 18/11 (conferir). Vídeo que cite preço fora da Black não sobe nesta semana.
+- 🔴 Avisar a loja: "tijolo de vidro" está com a medida da telha, e a capa diz 23 a 30/11 enquanto a legenda diz 23 a 28/11 (OQ #30 e #31).
+
 ## 2026-11-10 — Bio nova do Instagram
 
 [Bio](conteudo/posts/2026-11-10-bio-instagram.md) ajustada, sem refazer: slogan mantido, as 3 lojas numa linha (a atual cortava a 3ª no "mais"), frete grátis com "consulte sua cidade" e um número só, o 99858-4910. Nome ganha "em Campos" pra busca local. 147 caracteres. Sem preço, 21x nem prazo de entrega. Aguarda PH.

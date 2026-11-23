@@ -4,6 +4,12 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ---
 
+## 2026-11-23 — Semana 23–27/11: Empresarial · v1, aguarda validador
+
+- **Seg 23:** [estoque novo, seguro antigo](conteudo/posts/2026-11-23-estoque-novo-seguro-antigo.md). Dor dita direto, CTA "comenta ESTOQUE". Arte sem afirmação de cobertura.
+- **Sex 27:** [curto-circuito pode fechar a loja em dezembro](conteudo/posts/2026-11-27-loja-fechada-em-dezembro-perde-o-natal.md). Anúncio de cotação, versão A sem gate e B com lucro cessante, pós-corretor.
+- **Arte do PH (16/11):** "Sabia que seu seguro de vida pode ser usado em vida?" (Downloads, "Seguro de Vida em Vida.png"). Registrada no OQ. Não sei se foi ao ar.
+
 ## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
 
 - [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH. Fecha a OQ #16 (pauta do 20/11) quando PH aprovar.

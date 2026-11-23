@@ -4,6 +4,13 @@ Log datado do trabalho feito pra Celmapel. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-11-23 — Semana da Black: seg 23 e sex 27 (v1, aguarda validador)
+
+- **[Seg 23](conteudo/posts/2026-11-23-confere-o-estoque-sexta-e-black.md):** "CONFERE O ESTOQUE HOJE, QUE SEXTA É BLACK FRIDAY NA CELMAPEL FESTAS!", lista por categoria, sem preço. Substitui o carrossel com preço do plano (preço não chegou).
+- **[Sex 27](conteudo/posts/2026-11-27-e-hoje-black-friday-celmapel.md):** encarte da Black, versão A com slots e B sem preço.
+- Qua 25 segue no plano: Reels da Taísa, "Achadinho de Black Friday".
+- [Preços do Esquenta 17–21/11](referencias/2026-11-23-esquenta-black-precos-publicados.md) registrados como vencidos. O encarte Descartável (empurrado de 20/11) ficou sem data, por falta de preço. OQ #57 e #58.
+
 ## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
 
 - [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH. 🟡 Recomendação: encarte pra seg 23/11 (§9) e bloco 09 do Esquenta Black fora da sexta (OQ #56).

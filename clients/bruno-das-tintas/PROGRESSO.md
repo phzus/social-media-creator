@@ -1,5 +1,12 @@
 # Progresso — Bruno das Tintas
 
+## 2026-11-23 — Conferência das 3 peças da Black (23, 25 e 27/11)
+
+- **23/11:** ganhou uma [versão sem data](conteudo/posts/2026-11-23-black-friday-abertura.md), porque o período não foi confirmado até o dia. v1, aguarda validador.
+- **25/11:** sem mudança. A fala "é na sexta, dia 27" segue dependendo do período; se a Black começar antes, a nota do roteiro já traz a troca.
+- **27/11:** sem mudança. 27/11 é a data da Black Friday e a peça não diz que acaba no dia.
+- **Isolamento com a Araruama Tintas:** sem colisão de mecânica, frase ou CTA com as peças novas dela.
+
 ## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
 
 - [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH. Isolada da Araruama Tintas: Bruno = quem foi Zumbi; Araruama = compromisso da loja.

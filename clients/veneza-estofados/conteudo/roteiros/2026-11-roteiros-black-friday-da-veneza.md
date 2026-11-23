@@ -14,6 +14,24 @@
 > 5. *Gabriela mostrando os produtos / as ofertas.* Então aproveita as promoções da Black Veneza! É a oportunidade de renovar sua casa com preço direto de fábrica e economizar de verdade!
 > 6. *Gabriela olhando para a câmera.* Chama a Veneza no WhatsApp, ou vem na loja do KM 90 da Amaral Peixoto.
 >
+> **✅ Gravado e editado** (`~/Downloads/(Veneza) Vídeos/gabriela black friday.mov`, 31 s, 23/11). Pelo quadro conferido, é este Roteiro 01 (fábrica). **Publica qua 25/11 no @venezaestofados_araruama.** O Roteiro 02 (ofertas) ainda não está na pasta.
+>
+> **Legenda (23/11, v1, aguarda validador):**
+>
+> Por que a Black Friday da Veneza tá tão barata? A Gabriela entrou na fábrica, em Bananeiras, pra mostrar.
+>
+> O sofá, o box e a base baú são feitos aqui e vão direto pra loja, sem intermediário no meio. É daí que vem o preço:
+>
+> • Sofá Antonella 2,30 m: de R$ 2.100,00 por R$ 1.899,99 à vista
+> • Sofá baú Grécia 2,00 m: de R$ 2.000,00 por R$ 1.799,99 à vista
+> • Sofá Master 1,50 m: R$ 799,99 à vista
+>
+> Chama no WhatsApp (22) 98811-4216.
+>
+> #BlackFridayDaVeneza #VenezaEstofados #DiretoDaFábrica #Araruama #RegiãoDosLagos
+>
+> Só sofá na lista de preço, porque o colchão das camas é revenda (PADROES §8). Sem 12x, pra não encostar no "de".
+>
 > **Roteiro 02 · As ofertas da Black Veneza** (loja, 8 cenas, Reels · Meta Ads, CTA WhatsApp / loja)
 > 1. *Gabriela sai de dentro do sofá baú Grécia.* Gente, olha onde eu vim parar! Esse é o sofá baú Grécia, de 2 metros, e ele tá na Black da Veneza!
 > 2. *Gabriela levanta o assento e mostra o baú.* Além de lindo e confortável, ele tem esse espaço aqui pra guardar cobertas e travesseiros sem ocupar o seu armário!

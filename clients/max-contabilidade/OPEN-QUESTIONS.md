@@ -7,6 +7,17 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🔴 Nova (2026-11-23) — post de sexta 27/11 (Presumido × Real)
+
+**Z. O escritório confirma a versão A da [peça de 27/11](conteudo/posts/2026-11-27-fora-do-simples-em-2027-presumido-ou-real.md)?** Prazo: **qui 26/11 de manhã**. Sem resposta, sai a versão B.
+- **(a)** A opção pelo Lucro Presumido é feita no primeiro pagamento do ano (Lei 9.430, art. 26, §1º) e é definitiva pro ano (Lei 9.718, art. 13, §1º).
+- **(b)** "Margem definida em lei por atividade" × "lucro que a contabilidade apurou" está certo pro leigo, falando de IRPJ e CSLL.
+- **(c)** Quem teve o Simples negado ainda pode contestar? (fontes secundárias citam 20 dias úteis; a peça não afirma)
+
+Texto pra mandar: *"Pessoal, pra eu fazer o post de sexta: a escolha do Lucro Presumido acontece no primeiro pagamento do ano e vale o ano inteiro, certo? Posso dizer assim?"*
+
+---
+
 ## 🔴 Nova (2026-11-18) — post de sexta 20/11 (desconto de promoção e a nota)
 
 **Y. O escritório confirma o que a [peça de 20/11](conteudo/posts/2026-11-20-desconto-fora-da-nota-imposto-no-preco-cheio.md) afirma?** Prazo: **qui 19/11 de manhã**. A sexta 20 é feriado, e o designer precisa de 1 dia útil.

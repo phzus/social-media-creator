@@ -2,6 +2,13 @@
 
 Pendências a resolver com PH / com o dono do Bazar Ribeiro. Resolver as **bloqueantes** antes de produzir qualquer peça da campanha de agosto.
 
+## 📅 2026-11-23 — Black Friday no ar (achados no perfil público)
+
+25. 🔴 **O preço da Black do fio é menor que o normal?** Publicado: 1,5 mm a partir de R$ 184,90 e 2,5 mm a partir de R$ 254,90 (rolo 100 m). Na curva ABC de 19/09 a 19/10, o Cobrecom 1,5 saiu a R$ 179,90 e o 2,5 azul/verde a R$ 254,90. Marca e cor podem explicar, mas legenda da casa diz "preço que só a Black Friday pode trazer" (09/11). Confirmar com o Junior antes de falar em desconto, e se os dois preços valem na sexta 27/11.
+26. 🟡 **Outros produtos com preço de Black pra sexta 27/11?** Até 4, com etiqueta, até qui 26/11, 12h.
+27. 🟡 **Legendas trocadas entre as lojas:** em Saquarema, 20/11 convida a "visitar em Maricá" e 09/11 traz o endereço de Maricá; em Maricá, 30/10 traz o telefone de Saquarema. O PADROES §1 pede a loja certa. Passar pra quem publica. (PT-PT também apareceu no Reels de 28/10: "encontra", "a procurar".)
+28. ✅ **Horário de feriado da loja (20/11):** Maricá 8h–14h · Saquarema 8h–13h30, publicado em 19/11. Serve de referência pros próximos feriados, a confirmar.
+
 ## 📅 2026-11-10 — Post de sexta 13/11 (sexta-feira 13, escada Alumasa)
 
 24. 🔴 **Preço de etiqueta e estoque da Escada Alumasa 5 degraus residencial (cód. 002234) nas duas lojas, até qui 12/11.** A curva ABC dá média de R$ 214,40 (2 unidades em 30 dias, bate com Saquarema), que não fecha em ,90. Se Maricá tiver outro preço, sai uma arte por cidade. Se uma loja não tiver, a peça sai só no perfil da outra. Peça: [2026-11-13](conteudo/posts/2026-11-13-sexta-13-escada-alumasa.md).

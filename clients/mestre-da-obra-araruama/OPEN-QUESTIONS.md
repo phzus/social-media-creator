@@ -25,3 +25,4 @@ Log completo. As prioritárias estão na [PAUTA](reuniao-mensal/PAUTA.md). O doc
 | 19 | Acesso ao portal do franqueado (imagens da rede) | 2026-11-13 | 🔴 aguardando cliente |
 | 20 | Indique e ganhe: a Ingrid gostou. Qual benefício a loja topa dar? | 2026-11-13 | 🟡 proposta da Lone |
 | 21 | Post de 16/11 (dia da laje): "sai revisada" e "orientação de uso na retirada" são a rotina da loja (sem isso, a arte usa o fallback)? Tem foto da betoneira na frente da loja? A locação de fim de semana vale pra betoneira (saiu da peça, serve pra uma peça própria)? | 2026-11-16 | 🟡 aberta, perguntar no grupo do marketing |
+| 22 | A loja também **vende** equipamento? A fachada diz "Locação e venda de equipamentos para construção civil" e a legenda do Reels de 18/11 repete. O que vende e pode divulgar? | 2026-11-23 | 🟡 aberta |

@@ -4,6 +4,14 @@ Log datado, mais recente no topo.
 
 ---
 
+## 2026-11-23 — Conferência dos fixados e do feed
+
+- **No perfil:** os 3 fixados seguem os antigos (fachadas). Nenhum dos novos subiu. Um Reels da Lone saiu em 18/11 ("Precisa trocar o para-brisa em Rio das Ostras?").
+- **Prontos pra usar na quarta:** 3 vídeos em `~/Downloads/(ROP) Vídeos` (25 a 32 s), com legenda e logo. Um apresenta a ROP, um fala de vidro elétrico e um de equipe. Um deles pode ser o já publicado em 18/11.
+- **Pista pra OQ #2:** legenda pública da própria ROP (23/09/2026) lista Campos como (22) 99945-4082, um dos dois números em conflito. Confirmar em uma mensagem.
+- **Pista pra OQ #5:** o fixado de Campos (2024) dá Av. XV de Novembro, 209, Centro, endereço diferente do site (Rua Rocha Leão, 207).
+- **O que dá pra subir:** o fixado 1 (venda) com a confirmação do WhatsApp. O 2 depende do endereço de Campos, e o 3, do horário.
+
 ## 2026-11-16 (2) — Fixados refeitos como estáticos únicos (PH) + dados do site oficial
 
 PH: *"Não sou fã dos fixados da ROP como carrossel, além de dar trabalho ninguém lê. Vamos fazer únicos: horário, localização e venda."* A regra ficou registrada na memória (feedback-fixados-sao-estaticos-unicos).

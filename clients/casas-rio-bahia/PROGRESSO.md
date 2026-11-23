@@ -4,6 +4,13 @@ Log datado do trabalho feito pra Casas Rio Bahia. Topo = mais recente. Entrada p
 
 ---
 
+## 2026-11-23 — Semana do bloco: seg 23/11 (125 blocos) e sex 27/11 (quanto custa) · v1, aguarda validador
+
+- **Seg 23/11:** ["Uma parede de 10 m² leva 125 blocos. / E a quebra ainda não entrou na conta."](conteudo/posts/2026-11-23-parede-de-10-metros-125-blocos.md), série 05, sem captação.
+- **Sex 27/11:** ["O bloco de uma parede de 10 m² sai a partir de R$ 393,75!"](conteudo/posts/2026-11-27-quanto-custa-o-bloco-da-parede.md), formato "Quanto custa", com versão sem preço se a loja não confirmar até qua 25/11 (OQ #63).
+- Black Friday descartada: a CRB não mandou condição.
+- **Achado no feed (coleta 23/11):** areola R$ 109,99/m³ (13/11) e areia lavada R$ 119,99/m³ (16/11). A unidade é m³, e a tabela do encarte já mudou (OQ #65).
+
 ## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
 
 - [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH.

@@ -1,5 +1,13 @@
 # Progresso — Mestre da Obra Araruama
 
+## 2026-11-23 — Semana de 23 a 27/11: laje repautada (seg) e homenagem da segurança do trabalho (sex)
+
+- **Seg 23/11:** [dia da laje](conteudo/posts/2026-11-16-dia-da-laje-nao-tem-segunda-chance.md) não saiu em 16/11. Volta com foto real (frame da betoneira no vídeo de 18/11), apoio no fallback e legenda v1.2 sem "revisada" e "orientação" (OQ #21 aberta).
+- **Sex 27/11:** ["Ninguém gosta de ouvir 'desce daí'. / Muita gente voltou pra casa por causa disso."](conteudo/posts/2026-11-27-dia-da-seguranca-do-trabalho-andaime.md), homenagem ao técnico e ao engenheiro de segurança do trabalho (Lei 7.410/1985), com andaime no rodapé. v1, aguarda validador.
+- **Qua 25/11:** não há vídeo novo. O `mestre da obra.mp4` da Downloads é o Reels publicado em 18/11.
+- **Conferido no feed (23/11):** os 3 fixados e o Reels de apresentação saíram em 18/11, então os posts normais estão liberados. Quem apresenta o vídeo é um homem com a camisa da loja, não a Ingrid.
+- **Fato novo:** a fachada e a legenda de 18/11 dizem "locação **e venda** de equipamentos" (OQ #22).
+
 ## 2026-11-16 — Post de segunda 16/11: "No dia da laje, não tem segunda chance: a equipe e o material já estão pagos!"
 
 PH pediu peça de autoridade com foco na dor, sem ser muito educativa. [Peça](conteudo/posts/2026-11-16-dia-da-laje-nao-tem-segunda-chance.md): estático 3:4, betoneira (carro-chefe), lente Hormozi (tempo e esforço: obra não para). Mecanismo **momento sem segunda chance**: no dia da laje, equipe e material já estão pagos, e máquina parada é dia perdido. A autoridade vem de conhecer esse prejuízo. Gancho em afirmação, sem preço, aviso pequeno "Cobrimos orçamento real de concorrente local. Consulte as condições.", CTA "PEÇA O ORÇAMENTO DA BETONEIRA!".

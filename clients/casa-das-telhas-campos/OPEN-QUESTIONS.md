@@ -6,7 +6,7 @@ Log completo. As prioritárias e o checklist estão na [PAUTA](reuniao-mensal/PA
 |---|---|---|---|
 | 1 | ~~Quem grava~~ ✅ Grazi no dia a dia; rosto são vendedores e funcionários. Falta: quem edita | 2026-11-05 | 🟡 aberta em parte |
 | 2 | ~~Humor segue?~~ ✅ Sim, sem duplo sentido. Falta: combinar "como nos achou?" para medir | 2026-11-05 | 🟡 aberta em parte |
-| 3 | ~~Os 11 preços são de Black?~~ ✅ São do mês vigente; Black costuma ser mais agressiva e o preço sai na véspera. Falta: lista da Black, decisão de prorrogar até 30/11 e meta | 2026-11-05 | 🔴 aberta, data 27/11 |
+| 3 | ~~Os 11 preços são de Black?~~ ✅ São do mês vigente; Black costuma ser mais agressiva e o preço sai na véspera. Falta: lista da Black, decisão de prorrogar até 30/11 e meta | 2026-11-05 | 🟡 a Black saiu em 23/11 por conta da loja, com preço ([registro](referencias/2026-11-23-black-friday-do-apocalipse-publicada.md)); fim em aberto (#30) |
 | 4 | ~~Lista de preços e heróis~~ ✅ Lista recebida; os que mais giram são Telhão, telhas montadas brancas e madeira. Falta: validade, vale nas 3 lojas, estoque por loja, quem aprova | 2026-11-05 | 🟡 aberta em parte |
 | 5 | ~~WhatsApp oficial~~ ✅ (22) 99858-4910, a confirmar no grupo. Falta: horário e tempo de resposta | 2026-11-05 | 🟡 aberta em parte |
 | 6 | ~~Quem roda anúncios~~ ✅ a Lone (PH, 05/11). Falta: quem rodou antes, verba, acesso à conta e histórico | 2026-11-05 | 🟡 aberta em parte |
@@ -31,5 +31,9 @@ Log completo. As prioritárias e o checklist estão na [PAUTA](reuniao-mensal/PA
 | 25 | Piscina feijão (R$ 889,00) e deck de oticica (R$ 21,99/m) seguem valendo? Estão fora da lista | 2026-11-05 | 🟡 aberta |
 | 26 | Cerâmica São José (fabricante) vende direto ao consumidor? Conta como concorrente? | 2026-11-05 | 🟢 baixa |
 | 27 | Frete grátis tem valor mínimo de nota? Trecho truncado na transcrição | 2026-11-06 | 🟡 aberta |
-| 28 | O horário é igual nas 3 lojas? Muda em dezembro? O fixado de horário depende disso | 2026-11-06 | 🟡 aberta |
+| 28 | O horário é igual nas 3 lojas? (publicado em 11/11: seg a sex 8h–18h, sáb 8h–13h, nas 3) Muda em dezembro? O fixado de horário depende disso | 2026-11-06 | 🟡 aberta |
 | 29 | Entrega é rápida mesmo? Qual o prazo real? PDF e transcrição não batem | 2026-11-06 | 🟡 aberta |
+| 30 | A Black do Apocalipse termina em 28 ou 30/11? Capa do carrossel × legendas de 23/11 | 2026-11-23 | 🔴 aberta, antes de sexta |
+| 31 | Corrigir a arte do tijolo de vidro (R$ 21,90), que traz a medida da telha de fibrocimento | 2026-11-23 | 🔴 avisar a loja |
+| 32 | Preços parcelados dos itens da Black, e se "10% em até 10x" é até 10% ou fechado | 2026-11-23 | 🟡 aberta |
+| 33 | "Entrega GRÁTIS" sem ressalva nas legendas da Black e "Entrega rápida" na bio: vale pra toda cidade? | 2026-11-23 | 🟡 aberta, liga com #7, #27 e #29 |

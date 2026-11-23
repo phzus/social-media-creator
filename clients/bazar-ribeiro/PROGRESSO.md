@@ -4,6 +4,13 @@ Log datado do trabalho feito pro Bazar Ribeiro. Topo = mais recente. Entrada por
 
 ---
 
+## 2026-11-23 — Semana de elétrica na Black: seg 23 e sex 27 (v1, aguarda validador)
+
+- **Achado no feed (12 posts de cada perfil):** a Black Friday do Bazar está no ar desde 06/11, só com fio cabinho (1,5 mm a partir de R$ 184,90; 2,5 mm a partir de R$ 254,90, rolo de 100 m, mesmos preços nas duas lojas). A escada de 13/11 não foi publicada e segue livre.
+- **[Seg 23](conteudo/posts/2026-11-23-fio-da-luz-1-5-fio-da-tomada-2-5.md):** "FIO DA LUZ, NO MÍNIMO 1,5. FIO DA TOMADA, NO MÍNIMO 2,5.", com o Dia do Engenheiro Eletricista na legenda.
+- **[Sex 27](conteudo/posts/2026-11-27-fio-no-rolo-sai-1-85-o-metro.md):** preço por metro (R$ 1,85), com versão encarte se vier lista.
+- 🔴 Preço de "Black" igual ou acima do vendido em outubro (OQ #25). Peças sem "de/por" e sem falar em desconto.
+
 ## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
 
 - [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH.

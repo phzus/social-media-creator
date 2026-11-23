@@ -4,6 +4,14 @@ Log datado do trabalho feito pra WT Shopping. Topo = mais recente. Entrada por b
 
 ---
 
+## 2026-11-23 — Semana da Black: qua 25 e sex 27 escritas, piscina 2 e 3 nos stories
+
+- **Seg 23:** piscina, arte 1 (já validada).
+- **Qua 25:** [tapete gelado Lavi Pet, R$ 74,95](conteudo/posts/2026-11-25-black-wt-tapete-gelado-lavi-pet.md): "No calor, o seu pet procura o piso frio da casa.", v1.
+- **Sex 27:** [Tutelo, 30% OFF](conteudo/posts/2026-11-27-black-wt-tutelo-30-off.md): "30% OFF no peitoral com guia e no kit de comedouro e bebedouro!", v1. São os dois únicos itens com desconto por escrito.
+- **Piscina, artes 2 e 3:** stories de ter 24 e qui 26, pra não pesar o feed.
+- **Seg 30/11:** enjoo (o atestado saiu em 16/11; marcado no arquivo). Combos de pet ainda sem peça: shampoo Pet Júnior + sabonete (R$ 17,80).
+
 ## 2026-11-19 (3) — Piscina: um combo por arte, 3 headlines · validada v2.1
 
 PH: *"pode ser um combo por arte e a headline diferentes"*. O [post de piscina](conteudo/posts/2026-11-23-black-wt-combos-de-piscina.md) virou 3 artes no modelo Benestar:

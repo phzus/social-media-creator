@@ -1,10 +1,16 @@
 # Post — "No dia da laje, não tem segunda chance: a equipe e o material já estão pagos!" (autoridade pela dor)
 
-**Cliente:** mestre-da-obra-araruama · **Data:** 2026-11-16 (segunda) · **Plataforma:** Instagram (grid 3:4) · **Formato:** estático, arte única · **Público:** pedreiro, pequeno empreiteiro e morador que vai bater laje
+**Cliente:** mestre-da-obra-araruama · **Data:** repautada pra 2026-11-23 (segunda; era 16/11) · **Plataforma:** Instagram (grid 3:4) · **Formato:** estático, arte única · **Público:** pedreiro, pequeno empreiteiro e morador que vai bater laje
 **Pedido de PH (16/11):** *"Mestre da obra vamos fazer uma peça de autoridade e focando na dor do cliente, nada muito educativo."*
 **Mecanismo:** **momento que não tem segunda chance.** A headline leva a cena da dor pra arte (no dia da laje, equipe e material já estão pagos) e o apoio põe a loja como quem conhece esse prejuízo. Nenhuma promessa de que a máquina não para ou não quebra. Autoridade vem de conhecer o prejuízo, não de tempo de mercado nem de número da rede ([PADROES §4](../../PADROES.md)).
 **Lente Hormozi:** **Tempo de espera ↓ e Esforço/Sacrifício ↓.** A dor é a obra parada com a equipe paga. A betoneira revisada e a orientação na retirada reduzem o risco de parar, e o "cobrimos orçamento" (condição real, [PADROES §8](../../PADROES.md)) tira a objeção de preço sem publicar preço.
 **Status:** v1.1 · validada · apoio depende de confirmação da loja (fallback pronto)
+
+> 🔁 **Repautada pra seg 23/11 (2026-11-23).** Não saiu em 16/11 (coleta do perfil em 23/11: de 29/10 pula pros 3 fixados e o Reels de 18/11). A trava de foto caiu: há **betoneira real na frente da loja** no vídeo publicado em 18/11.
+> - **Foto:** frame de ~23,5s de `~/Downloads/(Mestre da obra) Vídeos/mestre da obra.mp4` (betoneira Menegotti amarela na calçada da loja); alternativa em ~32s (fila de betoneiras no galpão). Tirar a legenda queimada e a logo do rodapé.
+> - **Texto de hoje:** usar o **fallback** do apoio ("Aluga a betoneira na Mestre da Obra Araruama antes de marcar a laje."), e na legenda sai o parágrafo "a betoneira sai revisada…", porque a OQ #21 segue aberta. A versão da legenda de 23/11 está logo abaixo da original.
+> - **Datas:** 23/11 (Engenheiro Eletricista, câncer infantojuvenil) descartadas, sem ponte com betoneira e laje.
+> - **Status:** v1.2, validada em 23/11 (validador-copy).
 
 > **Por que betoneira e laje:** é carro-chefe confirmado na reunião de 06/11, consta no catálogo local (Menegotti 400 L, [BRIEFING](../../BRIEFING.md)) e não está na lista do que já foi ao ar ([PADROES §7](../../PADROES.md): escada × andaime, lixar, alisadora, escora, comprar × alugar, dúvidas de locação). Os roteiros de 13/11 cobrem apresentação, casa de praia e andaime, e os fixados cobrem venda geral, localização e horário.
 >
@@ -39,7 +45,7 @@
 
 **Apoio:** Com a equipe toda na obra, máquina parada é dia perdido. Na Mestre da Obra Araruama, a betoneira sai revisada e com orientação de uso na retirada.
 
-> 🟡 "Revisada" e "orientação de uso na retirada" vêm da página da unidade e dependem de a loja confirmar que é a rotina dela ([OQ #21](../../OPEN-QUESTIONS.md)). **Fallback, se não confirmar:** "Aluga betoneira na Mestre da Obra Araruama. Peça o orçamento antes de marcar a laje."
+> 🟡 "Revisada" e "orientação de uso na retirada" vêm da página da unidade e dependem de a loja confirmar que é a rotina dela ([OQ #21](../../OPEN-QUESTIONS.md)). **Fallback, se não confirmar:** "Aluga a betoneira na Mestre da Obra Araruama antes de marcar a laje."
 
 **CTA:** PEÇA O ORÇAMENTO DA BETONEIRA!
 
@@ -52,6 +58,18 @@
 > Dia de laje junta pedreiro, ajudante e às vezes metade da família na obra, todo mundo esperando a massa sair. Se a betoneira emprestada trava no meio, a equipe fica parada, o dia já está pago e a laje não espera.
 >
 > Na Mestre da Obra Araruama, a betoneira sai revisada e a gente orienta o uso na retirada.
+>
+> Se achou orçamento menor aqui na região, a gente cobre. Vale pra orçamento real de concorrente local. Manda o seu no WhatsApp (22) 99768-8956 e peça o orçamento da betoneira.
+>
+> Aluga que fica + fácil.
+>
+> #MestreDaObra #LocaçãoDeEquipamentos #Betoneira #AluguelDeBetoneira #Araruama #Obra #Laje
+
+### Legenda de 23/11 (v1.2, sem o que depende da loja)
+
+> Dia de laje junta pedreiro, ajudante e às vezes metade da família na obra, todo mundo esperando a massa sair. Se a betoneira emprestada trava no meio, a equipe fica parada, o dia já está pago e a laje não espera.
+>
+> Aluga a betoneira na Mestre da Obra Araruama e deixa isso resolvido antes de marcar a data com o pedreiro.
 >
 > Se achou orçamento menor aqui na região, a gente cobre. Vale pra orçamento real de concorrente local. Manda o seu no WhatsApp (22) 99768-8956 e peça o orçamento da betoneira.
 >

@@ -7,6 +7,8 @@ Pendências a resolver com PH / com o cliente. Diferente dos outros onboardings,
 ## 🔴 2026-11-16 — Indique e Ganhe ([peça](conteudo/posts/2026-11-16-indique-e-ganhe-vizinho-da-conta-alta.md))
 
 1. 🔴 **O que ganha quem indica, e quando** (na indicação ou quando o indicado fecha). Sem isso, sai a versão C (sem "ganhe"). Pergunta pronta no arquivo da peça.
+   - 🟡 **23/11, atualizada pela arte do PH:** a arte "Indique e Ganhe com Energia Solar" (Downloads, 16/11) diz *"ganhe uma comissão em dinheiro pelo projeto fechado"*. Então o ganho é comissão em dinheiro, e vale quando o projeto fecha. Veio da arte, não de mensagem da Contele. **Falta o valor ou percentual e o prazo de pagamento.** Sem isso, as peças dizem só "comissão em dinheiro".
+   - 🟡 **A arte do PH sai do sistema do PADROES** (laranja, headline em CAPS, telefone e "Araruama | RJ" na arte, pessoas). PH decide se isso vira o padrão novo da conta ou foi exceção. Até lá, as peças seguem o PADROES §1-§4.
 2. 🟡 **Quem pode indicar** (só cliente ou qualquer pessoa), **o indicado ganha algo** e **até quando vale**.
 3. 🟡 **Quem atende a indicação no WhatsApp.** Indicação sem resposta queima quem indicou.
 

@@ -1,6 +1,6 @@
 # Posts de feed — Black WT piscina: um combo por arte (3 artes)
 
-**Cliente:** wt-shopping · **Data:** arte 1 na **seg 23/11/2026**. As artes 2 e 3 estão sem data (PH decide) · **Status:** v2.1, validada (validador-copy) · **Plataforma:** Instagram, feed 4:5 · **Formato:** 3 estáticos separados · **Funil:** BOFU · **Categoria:** piscina ([PADROES §2](../../PADROES.md)), uma frente só
+**Cliente:** wt-shopping · **Data:** arte 1 na **seg 23/11/2026**. **Artes 2 e 3 nos stories: ter 24/11 e qui 26/11** (sugestão de 23/11, PH pode trocar) · **Status:** v2.1, validada (validador-copy) · **Plataforma:** Instagram, feed 4:5 · **Formato:** 3 estáticos separados · **Funil:** BOFU · **Categoria:** piscina ([PADROES §2](../../PADROES.md)), uma frente só
 **Preço:** [PADROES §7](../../PADROES.md), combos 7, 8 e 9.
 
 > **Pedido de PH (19/11, 2º):** *"Na WT pode ser um combo por arte e a headline diferentes"*. A v1.2 juntava os 3 combos numa arte. Agora cada combo tem a sua arte e a sua headline de dor. Isso substitui a regra antiga do §7 ("piscina numa peça só").
@@ -39,7 +39,7 @@
 
 ---
 
-## Arte 2 — Pastilha Hidroazul + flutuador Netuno · data a definir
+## Arte 2 — Pastilha Hidroazul + flutuador Netuno · stories, ter 24/11
 
 - **Selo (pequeno):** Black WT · **Tag:** Produtos pra piscina
 - **Headline (serif, 2 linhas):**
@@ -59,7 +59,7 @@
 
 ---
 
-## Arte 3 — Sulfato de alumínio + barrilha Genco · data a definir
+## Arte 3 — Sulfato de alumínio + barrilha Genco · stories, qui 26/11
 
 - **Selo (pequeno):** Black WT · **Tag:** Produtos pra piscina
 - **Headline (serif, 2 linhas):**
@@ -99,7 +99,7 @@ Referência: [@benestar.pet](https://www.instagram.com/benestar.pet/). Análise 
 - 🟡 **Pastilhas Genco e Hidroazul:** o tipo e o peso não vieram ([OQ #4](../../OPEN-QUESTIONS.md)). A arte diz "pastilha" e não diz "cloro".
 - 🟡 **"Preço de Black":** é a moldura da campanha pedida por PH, com base na lista que a cliente chamou de "combos promocionais da wt black". As artes não dizem quanto baixou, de quanto era nem até quando vale.
 - 🟡 **Dor × promessa:** as headlines perguntam ou afirmam a dor. O apoio só nomeia o produto e o preço, sem dizer que ele deixa a água limpa, azul ou clara.
-- 🟡 **Datas das artes 2 e 3:** PH decide.
+- ✅ **Datas das artes 2 e 3 (23/11):** stories de ter 24 e qui 26, com figurinha de link do WhatsApp. O feed de qua 25 e sex 27 fica com pet ([tapete gelado](2026-11-25-black-wt-tapete-gelado-lavi-pet.md) e [Tutelo](2026-11-27-black-wt-tutelo-30-off.md)), pra não dar 3 peças de piscina na semana. Na versão 9:16, mantém o mesmo texto.
 
 ## Histórico de revisões
 

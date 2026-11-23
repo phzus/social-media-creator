@@ -5,6 +5,14 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🟡 2026-11-23 — Black Dijana
+
+[Preços dos cartazes](referencias/2026-11-18-cartazes-black-dijana-precos.md) · peças de [23/11](conteudo/posts/2026-11-23-black-dijana-telha-2-44-x-0-50.md) e [27/11](conteudo/posts/2026-11-27-black-dijana-coluna-a-partir-de-45.md).
+
+1. 🟡 **Cimento Campeão CP III: R$ 34,00 na Black e R$ 33,00 em 16/10.** Está certo? O cartaz já está pronto (ou no ar) com R$ 34,00.
+2. 🟡 **A Black vai até quando, e é retirando na loja?** Os cartazes não dizem nenhuma das duas.
+3. 🟢 Medida das colunas (a arte de agosto diz 7×20 cm, 6 m).
+
 ## 🟡 2026-10-22 — Post de segunda 26/10 ("cimento que empedrou não volta a ser pó") + o que vem depois da queima
 
 [Peça](conteudo/posts/2026-10-26-cimento-empedrado-nao-tem-conserto.md).

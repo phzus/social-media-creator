@@ -4,6 +4,15 @@ Log datado do trabalho feito pro Império. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-11-23 — Semana da Black: plugue 20 A (seg), legenda do Reels de tinta (qua) e Black (sex) · v1, aguarda validador
+
+- **Seg 23/11:** ["O aparelho novo veio com plugue de 20 A. / Na tomada de 10 A, ele não entra."](conteudo/posts/2026-11-23-plugue-de-20-na-tomada-de-10.md), educativo de elétrica (o mix pedia não oferta).
+- **Qua 25/11:** [legenda do Reels de tinta](conteudo/posts/2026-11-25-legenda-reels-black-tinta.md), vídeo pronto `imperio material 2_1.mp4`.
+- **Sex 27/11:** ["A reforma que você vem adiando / entrou na Black Friday!"](conteudo/posts/2026-11-27-a-reforma-adiada-entrou-na-black.md), piso e tinta, "ofertas especiais", sem preço.
+- **Fato novo:** a Império tem Black Friday (faixa na fachada e vídeos de 18/11). Preço e período não vieram (OQ #30).
+- **Conferido no feed (23/11):** martelete em 13/11, porta Duda antecipada pra 16/11, Reels de piso Black em 18/11, horário em 19/11 e homenagem em 20/11. **Não saíram** a peça do pedreiro no sábado (13/11) nem a do saco de cimento (16/11), que ficam de reserva (o cimento depende só de chuva no tema).
+- **Vídeo vencido:** `imperio material 2 3.mp4` fala em "começou a Esquenta Black".
+
 ## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
 
 - [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH. 🟡 Convive com a porta Duda: homenagem de manhã, Duda à tarde (ou homenagem nos stories).

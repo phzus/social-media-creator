@@ -4,6 +4,13 @@ Log datado do trabalho feito pra CIIL. Topo = mais recente. Entrada por bloco de
 
 ---
 
+## 2026-11-23 — Seg 23: convênio da Marinha · sex 27: próxima dose antes das festas
+
+- **[Seg 23](conteudo/posts/2026-11-23-novo-convenio-marinha-do-brasil.md):** anúncio direto no molde do OMINT. A imagem de convênios de 17/11 tem a Marinha como única novidade em relação à de 20/10. Feed + 9:16, sem gate do RT.
+- **[Sex 27](conteudo/posts/2026-11-27-viagem-de-fim-de-ano-e-a-proxima-dose.md):** "A viagem de fim de ano já tem data. A próxima dose do seu imunobiológico também.". Tratamento sem doença nomeada, RT até qua 25.
+- **Série Isso Tem Nome:** a 09 (Crohn) e a 10 (Asma) seguem presas na PAUTA #4, então a segunda saiu da série esta semana. A quarta 25 continua reservada pro vídeo da dermatite atópica. Dermatite, Doador de Sangue e Combate ao Câncer não entram no estático.
+- As duas em v1, aguardando validador.
+
 ## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
 
 - [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH.

@@ -2,7 +2,13 @@
 
 **Cliente:** veneza-estofados · **Data:** segunda 23/11/2026, abre a semana das camas ([plano da Black](../../estrategia/2026-11-black-friday-da-veneza.md)) · **Plataforma:** Instagram, feed 4:5, nos dois perfis (o estático é igual e só muda a assinatura, §15) · **Formato:** estático, ficha + preço · **Funil:** BOFU
 **Preço:** [lista da Black de 10/11](../../referencias/2026-11-10-lista-produtos-black-friday.md) · [PADROES §16](../../PADROES.md)
-**Status:** 🟡 v1.1, copy validada em 18/11. 🔴 Só sai com a foto da cama completa (OQ #54).
+**Status:** 🟢 v1.1, copy validada em 18/11. **Arte pronta** (`~/Downloads/carrossel complexo/1795104171299_0.png`), foto da OQ #54 resolvida.
+
+> **Conferência da arte (23/11):** R$ 759,98, 12x de R$ 72,51, composição e rodapé batem com a lista.
+> - 🟡 **Falta "à vista" no preço** (a arte diz só "Por R$ 759,98"; a do Grécia tem). Sem ele, o preço lê como valor de qualquer pagamento.
+> - 🟡 **"COMPLETA" não aparece** (pedido do cliente). "COLCHÃO + BOX + CABECEIRA" cobre a ideia. Se der tempo, o título vira "CAMA SOLTEIRO COMPLETA".
+> - 🟡 A foto parece ambiente gerado e a etiqueta do colchão traz "InovaFlex" (a lista diz "Inova"). Se a cama da foto for outra, o cliente avisa.
+> - Sem headline e sem CTA na arte. A legenda leva o WhatsApp.
 
 ---
 
@@ -56,7 +62,7 @@ O rodapé é copiado da arte do Grécia, que o cliente fez, pra série manter a 
   - A headline sobe pro topo, como no Antonella.
   - O quadro do baú aberto do Grécia sai. No lugar dele, **3 tags verdes apontando pra cada parte da cama** (colchão, box, cabeceira). É o que mostra o "completa" sem texto a mais.
   - Sem "de" riscado no card, porque o card fica com uma linha a menos. Dá pra aumentar o à vista.
-- 🔴 **Foto (OQ #54):** a cama completa (colchão + box + cabeceira Paris) não está no material que temos. Pedir a foto ao cliente. Se a cama aparecer no site, a foto do site recortada serve de fallback. 🚫 Foto gerada por IA ou de outra cama.
+- ✅ **Foto resolvida na arte (23/11).** Histórico da OQ #54: a cama completa (colchão + box + cabeceira Paris) não está no material que temos. Pedir a foto ao cliente. Se a cama aparecer no site, a foto do site recortada serve de fallback. 🚫 Foto gerada por IA ou de outra cama.
 
 ## Legenda
 

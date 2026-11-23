@@ -2,6 +2,10 @@
 
 Pendências a resolver com PH / com o cliente. Resolver as **bloqueantes** antes de fechar a 1ª estratégia mensal.
 
+## 🟡 2026-11-23 — Semana da leptospirose (seg 23 e sex 27/11)
+
+26. 🟡 **A clínica aplica a vacina que cobre leptospirose e tem em estoque na semana de 27/11?** Mandar com a arte até qui 26/11, 15h. Não trava: a peça manda marcar pelo WhatsApp.
+
 ## 🟡 2026-11-16 — Mito x Verdade de seg 16/11 (verme no cocô / exame de fezes)
 
 [Peça](conteudo/posts/2026-11-16-mito-se-nao-aparece-no-coco-nao-tem-verme.md).

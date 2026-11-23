@@ -4,6 +4,11 @@ Log datado do trabalho feito pra Dijana. Topo = mais recente. Entrada por bloco 
 
 ---
 
+## 2026-11-23 — Black Dijana: 2 estáticos da semana + preços registrados
+
+- [Seg 23/11](conteudo/posts/2026-11-23-black-dijana-telha-2-44-x-0-50.md), telha 2,44 × 0,50 a R$ 24,90, e [sex 27/11](conteudo/posts/2026-11-27-black-dijana-coluna-a-partir-de-45.md), coluna 1/4 a R$ 45,00. Um produto por peça, na identidade dos cartazes de PH. v1, aguardam validador.
+- Os 8 preços foram pro [PADROES §8](PADROES.md). Na comparação com artes antigas, o cimento está R$ 1,00 acima de outubro (OQ).
+
 ## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
 
 - [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH.

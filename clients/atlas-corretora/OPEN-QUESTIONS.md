@@ -5,6 +5,15 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🟡 Nova (2026-11-23) — arte do PH "seguro de vida em vida" + semana Empresarial
+
+- **(a)** PH montou em 16/11 a arte *"Sabia que seu seguro de vida pode ser usado em vida?"*, com apoio *"pode oferecer coberturas para situações como doenças graves, invalidez e outros imprevistos, dependendo do plano contratado"*. Foi no lugar de "quem ajuda seus pais"? Se foi ao ar, o ângulo "usar em vida" conta como usado.
+- **(b)** A arte usa "seguro de vida" na headline. A regra da casa ([PADROES §9](PADROES.md)) pede "planejamento familiar". Continua valendo ou PH liberou o termo?
+- **(c)** Corretor: o valor de estoque da apólice fica o informado na contratação até o cliente pedir pra atualizar? ([23/11](conteudo/posts/2026-11-23-estoque-novo-seguro-antigo.md), com fallback escrito)
+- **(d)** Corretor: vale dizer que o seguro empresarial, dependendo da apólice, ajuda no conserto e no que a loja deixa de faturar? ([27/11](conteudo/posts/2026-11-27-loja-fechada-em-dezembro-perde-o-natal.md), versão B)
+
+---
+
 ## 🟡 Nova (2026-11-16) — post de seg 16/11 (quem ajuda seus pais), v2
 
 [Peça](conteudo/posts/2026-11-16-quem-ajuda-seus-pais-se-a-renda-parar.md). A v2 não afirma beneficiário nem cobertura, então não trava no corretor. Ficam abertas:

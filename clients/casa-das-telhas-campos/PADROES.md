@@ -15,6 +15,8 @@ Telhão a R$ 54,90 em setembro, outubro e novembro; 21x e 20% à vista rodaram e
 - **Preço da Black só na véspera** (quinta à noite ou sexta de manhã), porque os concorrentes copiam em tempo real. Antes, aquecimento sem preço.
 - **Esquenta não repete o preço da Black.**
 - **Vídeo da Black:** duas versões, com e sem preço.
+- **Vigente em nov/2026 (publicado pela loja em 23/11):** Black Friday do Apocalipse, com preços e condições no [registro](referencias/2026-11-23-black-friday-do-apocalipse-publicada.md). A loja soltou preço na segunda, então o "só na véspera" não valeu nesta edição. Fim em 28 ou 30/11, a confirmar (OQ #30). Vence com a campanha.
+- **Versículo:** a loja fechou o carrossel com Apocalipse 5:13. A Lone não acrescenta versículo por conta própria (§7).
 
 ## 3. Preço
 
@@ -63,6 +65,7 @@ Humor pode sair em qualquer horário. Oferta sai em horário comercial, ou domin
 
 ## Histórico
 
+- **2026-11-23:** §2 ganha a Black vigente, publicada pela loja.
 - **2026-11-10:** §8 ganha sexta-feira 13 e superstição na lista de datas proibidas (PH, cliente cristão).
 - **2026-11-06 v1.2:** reunião de 05/11 propagada: Black, 21x com selo, frete, WhatsApp, humor, datas e horário de postagem.
 - **2026-11-05 v1.1:** lista de preços do cliente vira fonte vigente (§3).

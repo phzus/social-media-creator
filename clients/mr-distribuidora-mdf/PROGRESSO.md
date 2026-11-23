@@ -4,6 +4,12 @@ Log datado do trabalho feito pra MR Distribuidora. Topo = mais recente. Entrada 
 
 ---
 
+## 2026-11-23 — Semana de 23 a 27/11: puxador (seg) e venda de MDF (sex) · v1, aguarda validador
+
+- **Seg 23/11:** ["O cliente trocou o puxador depois que a porta já estava furada. / O furo antigo continua lá."](conteudo/posts/2026-11-23-puxador-depois-da-porta-furada.md), série "Do projeto para a lista", sem gate técnico e sem depender da MR.
+- **Sex 27/11:** ["Fechou o preço do móvel sem cotar o MDF? Se a chapa subiu, a diferença sai do seu lucro!"](conteudo/posts/2026-11-27-preco-do-movel-antes-de-cotar-mdf.md), venda do carro-chefe sem preço. Black descartada (sem condição).
+- **Conferido no feed (23/11):** o padrão no 3D saiu em 16/11 (legenda reescrita). Na sexta 13/11 foi a pistola Sigma SGT9925, então o "Vale investir? · 01" (amortecimento) não saiu. Quarta 25/11: sem vídeo novo da MR na Downloads.
+
 ## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
 
 - [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH.

@@ -1,8 +1,10 @@
 # Post de feed — Avaliações de clientes (prova social, modelo CIIL)
 
-**Cliente:** bodyskin-araruama · **Data:** a definir com PH (sugestão: o próximo slot de venda livre) · **Plataforma:** Instagram, feed 4:5 · **Formato:** estático único, grade 2×2 de avaliações · **Pilar:** prova social · **Funil:** MOFU → BOFU
+**Cliente:** bodyskin-araruama · **Data:** segunda 23/11/2026 · **Plataforma:** Instagram, feed 4:5 · **Formato:** estático único, grade 2×2 de avaliações · **Pilar:** prova social · **Funil:** MOFU → BOFU
 **Pedido (18/11):** a cliente quer um post "tipo o da CIIL de feedback dos clientes" e mandou os prints de avaliação pro PH. Modelo: [CIIL, depoimentos do Doctoralia (28/08)](../../../ciil/conteudo/posts/2026-08-28-depoimentos-doctoralia.md). PH pediu só a copy: as avaliações entram direto dos prints, na arte.
-**Status:** v1.1, validada em 18/11. 🟡 Falta o ok de uso das avaliações (ver Travas).
+**Status:** v1.1, validada em 18/11 (a copy não mudou), datada em 23/11. Dá pra fazer hoje: os prints já estão com PH e a oferta segue vigente (Novembro Black, enquanto houver vouchers). 🟡 Falta o ok de uso das avaliações (ver Travas).
+**Reserva pra hoje**, se os prints não servirem: [pele morena e laser no rosto](2026-11-16-pele-morena-pode-fazer-laser-no-rosto.md), v1.1 validada, com preço, que não foi usada em 16/11. Precisa do OK da Cintia e da RT.
+**Data comemorativa:** 23/11 (Engenheiro Eletricista, câncer infantojuvenil) descartada, sem ponte. O Dia do Esteticista foi em 20/11.
 
 ---
 
@@ -98,10 +100,12 @@
 
 - 🟡 **Ok de uso das avaliações.** O PADROES §2 pede consentimento assinado pra depoimento. Aqui foi a própria clínica que mandou os prints e pediu o post, e a avaliação do Google e do Instagram é pública. Mesmo assim, vale a Cintia confirmar por escrito que a clínica assume o uso. Print de **WhatsApp ou direct** só entra com o ok de cada cliente. PH decide se isso trava a peça.
 - 🟢 **Origem dos prints:** confirmar pra preencher o selo do rodapé.
-- 🟢 **Data:** PH define o slot.
+- ✅ **Data:** seg 23/11, depois que PH conferir que ela não saiu entre 18 e 20/11.
+- 🟡 **Aprovação da Cintia (§9):** o post é pedido dela, mas a arte com os prints passa por ela antes de subir. Segunda é um dos dias em que ela aprova.
 
 ## Histórico
 
+- **2026-11-23:** datada pra seg 23/11 (o arquivo era `2026-11-xx`). Copy igual.
 - **2026-11-18 v1.1 (validador-copy):**
   - Critérios de escolha:
     - saem as avaliações que citam preço ou parcelamento;

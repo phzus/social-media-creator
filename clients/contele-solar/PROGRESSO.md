@@ -4,6 +4,13 @@ Log datado do trabalho feito pra Contele. Topo = mais recente. Entrada por bloco
 
 ---
 
+## 2026-11-23 — Semana 23–27/11: Dia do Engenheiro Eletricista + casa de temporada · v1, aguarda validador
+
+- **Seg 23:** [homenagem](conteudo/posts/2026-11-23-dia-do-engenheiro-eletricista.md) (Lei 12.074/2009). Fala da profissão, porque não há engenheiro confirmado na equipe.
+- **Qua 25:** Reels da estação de energia (já no plano).
+- **Sex 27:** [casa de temporada](conteudo/posts/2026-11-27-casa-de-temporada-a-conta-chega-no-seu-nome.md), público novo: dono que aluga na temporada e recebe a conta do hóspede. Sem Black.
+- **Indique e Ganhe:** a arte que PH montou em 16/11 diz que o ganho é "uma comissão em dinheiro pelo projeto fechado". Registrado no PADROES §8, no OQ, na PAUTA e no roteiro de 02/12.
+
 ## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
 
 - [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH.

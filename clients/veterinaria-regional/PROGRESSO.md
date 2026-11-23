@@ -4,6 +4,12 @@ Log datado do trabalho feito pra Veterinária Regional. Topo = mais recente. Ent
 
 ---
 
+## 2026-11-23 — Semana da leptospirose: Mito x Verdade (seg 23) + venda direta (sex 27)
+
+- **[Seg 23](conteudo/posts/2026-11-23-mito-vacina-de-filhote-protege-pra-sempre.md):** mito "tomou a vacina quando filhote, tá protegido pra sempre", âncora "Reforço anual".
+- **[Sex 27](conteudo/posts/2026-11-27-vacina-da-leptospirose-antes-das-chuvas.md):** "O rato passa no quintal de noite, e você nem vê. Vacine contra a leptospirose". Substitui o check-up que estava anotado pra 27/11, porque ele já saiu em 20/11.
+- Tema novo na conta (sazonalidade do §8 nunca usada), as duas no modelo Benestar, com ~33 palavras. Sem "surto" nem alagamento. v1, aguardando validador.
+
 ## 2026-11-19 — Nova direção visual: modelo Benestar (PH)
 
 PH trouxe [@benestar.pet](https://www.instagram.com/benestar.pet/) como referência e pediu pra comparar com as artes recentes da VR. [Análise com prints](referencias/2026-11-19-referencia-visual-benestar.md) (12 posts da Benestar e as últimas da VR e da WT).

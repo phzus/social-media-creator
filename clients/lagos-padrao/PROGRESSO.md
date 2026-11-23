@@ -4,6 +4,10 @@ Log datado do trabalho feito pra Lagos Padrão. Topo = mais recente. Entrada por
 
 ---
 
+## 2026-11-23 — Seg 23/11: Dia do Engenheiro Eletricista · v1, aguarda validador
+
+[Homenagem curta](conteudo/posts/2026-11-23-dia-do-engenheiro-eletricista.md), ângulo da assinatura do projeto, sem oferta. Opcional (a conta posta por necessidade) e vence no dia.
+
 ## 2026-11-17 — Dia da Consciência Negra (sex 20/11): post de homenagem
 
 - [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH. Peça opcional, pro cliente postar se quiser.
