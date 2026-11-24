@@ -73,19 +73,17 @@ h2{font-size:clamp(34px,4.6vw,52px);color:var(--azul);margin-bottom:10px}.sub{fo
 <div><b>Frase curta, com a última linha em laranja</b><p>Dá pra entender passando o dedo no celular. Sempre em afirmação.</p></div>
 <div><b>Mesmo lugar pra tudo</b><p>Logo em cima, equipamento no meio, botão e WhatsApp embaixo.</p></div>
 <div><b>O hexágono da marca</b><p>O desenho da logo vira a moldura do equipamento.</p></div></div>
-<p class="nota">As imagens são protótipos pra aprovação. O designer finaliza cada arte, com as fotos da loja quando chegarem.</p></div></div></div></section>
+<p class="nota">As imagens são protótipos pra aprovação. O designer finaliza cada arte, com as fotos da loja.</p></div></div></div></section>
 <section class="pecas"><div class="in"><div class="head"><h2>As 12 peças</h2><p class="sub">Arte, objetivo e legenda de cada post.</p></div><div class="cards">${cards}</div></div></section>
 <section><div class="in"><h2>As mesmas artes como anúncio</h2><p class="sub" style="max-width:56em">Todo anúncio abre o WhatsApp da loja com a mensagem já escrita, por exemplo “Oi! Quero orçamento de betoneira”. Quem atende sabe de onde veio o pedido.</p>
 <div class="tres etapa"><div><h3><i>Chamar</i></h3><p>Pra quem é da região e ainda não falou com a loja.</p><div class="mini">${por('chamar')}</div></div><div><h3><i>Mostrar</i></h3><p>Pra quem já tem um serviço e precisa de um equipamento.</p><div class="mini">${por('mostrar')}</div></div><div><h3><i>Fechar</i></h3><p>Pra quem já viu os posts, visitou o perfil ou mandou mensagem.</p><div class="mini">${por('fechar')}</div></div></div>
 <div class="med"><h3 style="font-size:20px;color:var(--azul);margin-bottom:6px">Como vamos medir</h3><p>Conversas por equipamento e quanto custou cada uma, pelo gerenciador. Orçamentos e locações fechadas, pela planilha do balcão. A arte que traz mais locação ganha mais espaço.</p></div></div></section>
 <section><div class="in"><h2>O que precisamos de vocês</h2><p class="sub">Com isso, dezembro começa no dia 2.</p><ul class="lista">
 <li><span>Aprovação do padrão visual e dos textos.</span></li>
-<li><span>Fotos no celular, na vertical e de dia: andaime montado, sapinho, lavadora, extratora e os quatro marteletes juntos. Se a planilha do balcão com as fotos estiver pronta, já ajuda.</span></li>
 <li><span>Quais equipamentos entram na locação de sexta a segunda.</span></li>
 <li><span>Se o “cobrimos orçamento” vale o mês inteiro, inclusive quando a outra loja está em promoção, e se tem algum limite.</span></li>
 <li><span>Horário da loja de 24/12 a 02/01.</span></li>
-<li><span>Até onde vocês entregam, pra definir a região dos anúncios.</span></li>
-<li><span>Verba dos anúncios em dezembro e forma de pagamento cadastrada na conta.</span></li></ul>
+<li><span>Até onde vocês entregam, pra definir a região dos anúncios.</span></li></ul>
 <p class="nota">Nos stories: 11/12 (Dia do Engenheiro), 13/12 (Dia do Pedreiro) e 30/12 (horário da virada).</p></div></section>`;
 const base='2026-11-24-planejamento-dezembro';
 fs.writeFileSync(`${SAIDA}/${base}.html`,html);

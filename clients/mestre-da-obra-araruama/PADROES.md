@@ -56,7 +56,9 @@ Já foram ao ar: escada × andaime (29/10), lixar na mão (09/10, 23/10), alisad
 
 ## 9. Regras de dezembro/2026 (PH, 24/11)
 
-- Conversão em toda peça. Sem post de alcance puro, sem Reels por views ou humor.
+- Conversão em toda peça. Sem post de alcance puro, sem Reels por views ou humor. **Vídeo com a Ingrid existe e vai pra anúncio** (PH, 24/11).
+- Descoberta pela dor entra no mês (máquina que a pessoa não sabia que dava pra alugar), com pedido de orçamento. Uns 3 carrosséis. Nem tudo vira anúncio.
+- "Sem comprar" pode como argumento, não como tema (21/10). "Sem pagar mão de obra" só em máquina de casa.
 - Um equipamento ou uma oferta por arte. Arte única, com recorte 4:5 e 9:16 pra anúncio: nada de "hoje" na legenda de peça que vira anúncio.
 - Verbo no imperativo de "você" (mande, traga, reserve, peça).
 - Não usar o ângulo do piso rachado nem frase do Triunfo.

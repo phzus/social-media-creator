@@ -4,6 +4,10 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-24 (4) — Mestre da Obra: feedback de PH sobre dezembro, em debate
+
+[Feedback e conferência da auditoria](../clients/mestre-da-obra-araruama/referencias/2026-11-24-feedback-ph-planejamento-dezembro.md). Próximo passo: PH fechar a nova composição do mês, depois copy.
+
 ## 2026-11-24 (3) — Mestre da Obra: visual aprovado, copy volta
 
 PH aprovou o visual do planejamento e vai reescrever as 12 copies no plugin dele. [Contexto](../clients/mestre-da-obra-araruama/estrategia/2026-12-contexto-para-copy.md) pronto. Próximo passo: avaliar a copy que ele mandar e regerar artes, lote e PDF.

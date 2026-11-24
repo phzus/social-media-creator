@@ -30,5 +30,7 @@ Log completo. As prioritárias estão na [PAUTA](reuniao-mensal/PAUTA.md). O doc
 | 24 | ~~O planejamento com prévia é da Mestre, de dezembro, e quem vê?~~ ✅ Mestre, dezembro, vai pro cliente também (PH, 24/11) | 2026-11-23 | ✅ fechada |
 | 25 | Quais equipamentos entram na locação de sexta a segunda? | 2026-11-24 | 🟡 no documento do cliente |
 | 26 | Horário de 24/12 a 02/01 | 2026-11-24 | 🟡 no documento do cliente |
-| 27 | Verba e raio dos anúncios de dezembro. **(Interna)** tráfego está no plano contratado? | 2026-11-24 | 🔴 PH + cliente |
-| 28 | Fotos: andaime montado (trava a arte de 02/12), sapinho, lavadora, extratora, 4 marteletes | 2026-11-24 | 🔴 no documento do cliente |
+| 27 | Raio dos anúncios de dezembro. Verba: já obtida, e é pequena (PH, 24/11); valor não registrado | 2026-11-24 | 🟡 aberta em parte |
+| 28 | ~~Fotos pras artes~~ Já obtidas (PH, 24/11). **(Interna)** Em que pasta estão? Não achei na Downloads | 2026-11-24 | 🟡 PH |
+| 29 | **(Interna)** Quantos vídeos da Ingrid em dezembro, sobre o quê, e ocupam a quarta ou entram além das 12 peças? | 2026-11-24 | 🔴 PH |
+| 30 | **(Interna)** Qual foi o relato do cliente sobre Deep Clean citado na auditoria? | 2026-11-24 | 🟡 PH |

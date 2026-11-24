@@ -1,5 +1,9 @@
 # Progresso — Mestre da Obra Araruama
 
+## 2026-11-24 (4) — Auditoria do plugin e feedback de PH: debate antes da copy
+
+[Feedback e conferência](referencias/2026-11-24-feedback-ph-planejamento-dezembro.md). PH pede descoberta/educativo, uns 3 carrosséis, vídeos da Ingrid contados, poucos anúncios e o argumento "aluga a diária em vez de comprar ou contratar". Verba e fotos saíram do documento. Copy não mudou.
+
 ## 2026-11-24 (3) — Visual aprovado por PH, copy reprovada
 
 PH: "ficou muito foda", mas "as nossas copys estão ruins". Ele reescreve as 12 no plugin de copy dele e manda pra avaliação. [Contexto pronto pra colar no plugin](estrategia/2026-12-contexto-para-copy.md): o que a dona quer e não quer, fatos, travas, limites da arte e as 12 peças. **Não mandar o PDF v1 ao cliente:** as copies vão mudar.
