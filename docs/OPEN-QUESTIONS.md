@@ -49,4 +49,4 @@ Formato: `### Tópico\n- Pergunta\n- Status: aberta / respondida em YYYY-MM-DD /
 - Status: aberta — itens (1) e (4). Atlas é o primeiro caso executado.
 - Decisão: Atlas confirmado e em execução a partir de 24/08; demais clientes seguem pendentes.
 
-- **(24/11/2026) Planejamento mensal padrão:** 5 decisões em aberto com PH no fim do [workflow v2](../shared/workflow-planejamento-mensal.md) (carrosséis por cliente, quem recebe documento, quarta sem vídeo, quem escreve a copy, planos bimestral e trimestral).
+- **(24/11/2026) Planejamento mensal padrão:** 2 decisões em aberto no fim do [workflow v2](../shared/workflow-planejamento-mensal.md): carrosséis por cliente e quarta de cliente que não grava.

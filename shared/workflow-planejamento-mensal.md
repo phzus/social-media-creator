@@ -4,12 +4,14 @@
 
 **Resumo:** material antes da direção, direção antes da copy, copy antes da arte. **PH aprova em três portões.** Nada vai pro cliente sem o terceiro.
 
+> 🛑 **Só começa quando PH pede, cliente por cliente** (PH, 24/11/2026). Claude não inicia, não escolhe cliente e não adianta fase, nem quando o calendário abaixo diz que está na hora. No máximo lembra.
+
 ```
 1 MATERIAL → 2 PESQUISA → 3 DIREÇÃO ▣ → 4 COPY E ROTEIROS ▣ → 5 CONFERÊNCIA → 6 DOCUMENTO ▣ → cliente → designer
                               portão 1          portão 2                          portão 3
 ```
 
-## Calendário
+## Calendário (referência, depois que PH pediu)
 
 | Quando | O quê |
 |---|---|
@@ -52,7 +54,7 @@ Uma página de [direção](templates/planejamento-mensal/direcao-do-mes.md) pra 
 | Dia | Função | Formato |
 |---|---|---|
 | Segunda | **Descobre:** entra por uma dor e revela o produto | Carrossel ou arte |
-| Quarta | **Vê funcionando** | Vídeo |
+| Quarta | **Vê funcionando** | Vídeo. **Sem vídeo, não tem post, em todos os clientes** (PH, 24/11) |
 | Sexta | **Fecha:** oferta ou diferencial | Arte única |
 
 - Explicar sempre com venda: mostra o produto e termina em ação.
@@ -67,8 +69,8 @@ Uma página de [direção](templates/planejamento-mensal/direcao-do-mes.md) pra 
 **Só começa com a composição fechada.** No piloto, a copy veio na lista antiga e precisou ser remapeada.
 
 1. Gerar o [contexto de copy](templates/planejamento-mensal/contexto-para-copy.md) a partir da direção: fatos, quer, não quer, limites do layout, peças e formato da resposta.
-2. Escreve PH (plugin) ou Claude. **No mesmo pacote:** artes, legendas, slides de carrossel e roteiros.
-3. Guardar o texto de PH como veio em `referencias/YYYY-MM-DD-copies-<mes>-versao-ph.md`.
+2. **Claude escreve a copy e entrega junto o briefing do plugin** (o contexto acima, já preenchido). PH passa no plugin e revisa (PH, 24/11). **No mesmo pacote:** artes, legendas, slides de carrossel e roteiros.
+3. O que voltar de PH é a versão final. Guardar o texto como veio em `referencias/YYYY-MM-DD-copies-<mes>-versao-ph.md`.
 
 O [Guia de Copywriting](guia-copywriting-lone.md) está em teste e não é filtro.
 
@@ -137,15 +139,14 @@ O **processo** vale pra todos. A **composição** muda aqui:
 | Max Contabilidade | Só tributário, regras do CFC |
 | Veneza | 2 perfis: estático igual, vídeo por unidade |
 | Bazar Ribeiro | 2 lojas, encartes semanais e cota WD-40 |
-| Celmapel | Plano bimestral e stories diários já existem |
-| Atlas | Calendário trimestral, gate do corretor, pouco carrossel |
+| Celmapel | Plano bimestral e stories diários já existem. **Entra no padrão mais pra frente** (PH, 24/11) |
+| Atlas | Calendário trimestral, gate do corretor, pouco carrossel. **Entra no padrão mais pra frente** (PH, 24/11) |
 | Casa das Telhas | Vídeo de humor com a equipe é o ativo: não cortar |
 | Bruno × Araruama Tintas | Concorrentes: direções feitas em separado, sem cruzar ângulo |
 
 ## Em aberto, PH decide
 
-1. **Carrosséis por cliente.** Com 3 em cada uma das 22 pastas seriam 66 por mês, cerca de 330 slides pra um designer. Proposta: 3 pra quem precisa de descoberta, 1 pro resto.
-2. **Quem recebe documento com protótipo.** Proposta: todos que têm grade mensal, começando por 2 ou 3 em dezembro.
-3. **Quarta sem vídeo não tem post** vale só na Mestre ou em todos que gravam?
-4. **Quem escreve a copy:** plugin de PH em todos, ou Claude com revisão de PH?
-5. Plano bimestral (Celmapel) e trimestral (Atlas) entram no padrão ou seguem à parte?
+1. **Carrosséis por cliente.** Com 3 em cada uma das 22 pastas seriam 66 por mês, cerca de 330 slides pra um designer. Sem resposta ainda.
+2. **Cliente que não grava:** motion conta como vídeo na quarta, ou fica sem post? A regra acima vale pra planejamento novo; peça de quarta que já estava pronta não mudou.
+
+**Decidido em 24/11:** clientes de dezembro só quando PH pedir · quarta sem vídeo não tem post, em todos · Claude escreve e manda o briefing do plugin junto · Celmapel e Atlas entram mais pra frente.
