@@ -120,6 +120,12 @@ PH, 26/10: *"Eles não montam caixas nem kits."*
 
 ---
 
+## 16. Sazonalidade forte (PH, 2026-11-24)
+
+Conteúdo sazonal funciona muito bem pra Celmapel: no planejamento, a data manda no mês (Natal, Réveillon, Carnaval, volta às aulas, Páscoa e afins), em vez de ser uma peça só. Vale quando ela entrar no [processo padrão](../../shared/workflow-planejamento-mensal.md).
+
+---
+
 ## Histórico
 
 - **2026-10-26 (v1.3)** — novos §13 (Armazém nunca citado), §14 (argumento da BF) e §15 ("Quanto custa", a loja não monta kit), da revisão do PH no planejamento nov–dez.

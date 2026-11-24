@@ -6,7 +6,7 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ## 2026-11-24 (8) — Processo padrão de planejamento mensal (v2)
 
-PH pediu pra analisar e padronizar o que foi feito na Mestre da Obra pros outros clientes. [Workflow v2](../shared/workflow-planejamento-mensal.md) reescrito (6 fases, 3 portões, calendário, documento, lições, exceções por cliente) e [templates](../shared/templates/planejamento-mensal/). PH respondeu no mesmo dia: só começa quando ele pedir, quarta sem vídeo não tem post em todos, Claude escreve e manda o briefing do plugin, Celmapel e Atlas depois. Aberto: carga de carrossel e quarta de quem não grava. Nenhum outro cliente foi planejado ainda.
+PH pediu pra analisar e padronizar o que foi feito na Mestre da Obra pros outros clientes. [Workflow v2](../shared/workflow-planejamento-mensal.md) reescrito (6 fases, 3 portões, calendário, documento, lições, exceções por cliente) e [templates](../shared/templates/planejamento-mensal/). PH respondeu no mesmo dia: só começa quando ele pedir, quarta sem vídeo não tem post em todos, Claude escreve e manda o briefing do plugin, Celmapel e Atlas depois. Depois, PH acrescentou: carrossel por cliente (perguntar com motivo), raio-x do Instagram obrigatório, identidade nova do feed e peso sazonal. Processo em desenvolvimento. Aberto: quarta de quem não grava. Nenhum outro cliente foi planejado ainda.
 
 ## 2026-11-24 (7) — Mestre da Obra: planejamento v4
 

@@ -1,5 +1,7 @@
 # Planejamento mensal da Lone — processo padrão (v2)
 
+**Status: em desenvolvimento** (PH, 24/11/2026: "vamos adaptando e registrando"). Mudanças no [histórico](#histórico).
+
 **Desde 24/11/2026 (PH):** padrão pra todos os clientes, tirado do [piloto da Mestre da Obra](../clients/mestre-da-obra-araruama/apresentacoes/2026-11-24-planejamento-dezembro.pdf). Substitui a v1 de 15/05/2026 (no git). As 6 fases e os subagents continuam. Mudaram os portões, a ordem e o documento final.
 
 **Resumo:** material antes da direção, direção antes da copy, copy antes da arte. **PH aprova em três portões.** Nada vai pro cliente sem o terceiro.
@@ -32,8 +34,26 @@ Material: `~/Downloads`, **Google Drive da Lone (pasta do cliente)**, catálogo 
 
 ## Fase 2 · Pesquisa
 
+- **Momento e sazonalidade do cliente (PH, 24/11):** definir o peso do mês no negócio antes de montar.
+
+  | Peso | Como entra | Exemplo |
+  |---|---|---|
+  | **Alto** | A data manda no mês: semanas e temas inteiros | Celmapel no Natal e Réveillon |
+  | **Médio** | A data dá contexto a algumas peças | Faxina pro Natal na Mestre |
+  | **Baixo** | Só a homenagem, quando couber | Nicho em que a data não muda a compra |
+
+  Perguntar também o momento da loja (lançamento, alta ou baixa, obra, troca de ponto).
 - **Datas:** 🤖 `pesquisador-datas`. Cada data é usada ou descartada com motivo.
-- **Perfil do cliente:** print do feed. 🤖 `analista-perfil-ig` se passou de 30 dias.
+- **Raio-x do Instagram do cliente (obrigatório, PH 24/11):** antes da direção, salvo em `referencias/YYYY-MM-DD-raio-x-instagram.md`. Coleta com `scripts/instagram/coletar-perfil.mjs` e `ja-postado.sh`, checklist em [visual-reference §1](visual-reference-checklist.md).
+
+  | Olhar | Pra decidir |
+  |---|---|
+  | Conteúdos que deram certo | O que repetir ou evoluir. Com Insights, por alcance, salvamento e conversa. Sem Insights, é sinal, não prova: conferir curtida por view, comentário de cliente e se parece pago |
+  | Temas já abordados | O que não volta, ou volta com ângulo novo |
+  | Perfil | Bio, link, destaques, fixados, erro no ar |
+  | Identidade visual | O que manter da marca, o que está solto e o que muda |
+
+- **Identidade nova do feed:** levar o que funcionou na Mestre (regra de cor por dia, posições fixas, produto real em destaque, último trecho da headline destacado, grid pensado como conjunto) **com a cara de cada cliente**. O sistema se repete; cor, fonte, elemento e foto não. Cuidado com Bruno × Araruama Tintas (não podem parecer) e com VR e WT (layout Benestar). Vai pra PH no portão 1 em palavras e no portão 3 desenhada.
 - **Tendência do nicho:** 🤖 `analista-tendencias`, quando fizer sentido.
 - **Concorrente:** um só, e quando PH pedir. Traduzir em arte, oferta e argumento. View não é prova ([regras de leitura](../clients/mestre-da-obra-araruama/PADROES.md)).
 - **Referência visual de PH:** comparar com a paleta do concorrente antes de adotar. Aproveita-se o sistema, com a cor da marca.
@@ -44,10 +64,12 @@ Uma página de [direção](templates/planejamento-mensal/direcao-do-mes.md) pra 
 
 1. **Foco do mês** e o que mais vende.
 2. **Público por peça**, contado (profissional × consumidor, ou o corte do cliente). Se pender, decidir de propósito.
-3. **Composição:** quantos carrosséis, vídeos e artes, e em que dia.
+3. **Composição:** quantos carrosséis, vídeos e artes, e em que dia. **Carrossel não tem número fixo:** propor a quantidade com o motivo e perguntar a PH. Serve quando o cliente tem muito serviço, produto que ninguém conhece ou assunto que precisa de passos. Ex. de PH: Atlas, um por carro-chefe (auto, residencial, vida e empresarial). Somar com os outros clientes do mês, porque o designer é um só.
 4. **Tema de cada semana**, ligado ao produto.
 5. **Argumento de cada peça:** dor, descoberta, oferta, "sem precisar comprar".
-6. **O que fica fora** e por quê.
+6. **Peso sazonal** e quais peças são da data.
+7. **Identidade do feed:** o que fica, o que muda.
+8. **O que fica fora** e por quê.
 
 **Composição padrão** (ajustada por cliente):
 
@@ -139,14 +161,18 @@ O **processo** vale pra todos. A **composição** muda aqui:
 | Max Contabilidade | Só tributário, regras do CFC |
 | Veneza | 2 perfis: estático igual, vídeo por unidade |
 | Bazar Ribeiro | 2 lojas, encartes semanais e cota WD-40 |
-| Celmapel | Plano bimestral e stories diários já existem. **Entra no padrão mais pra frente** (PH, 24/11) |
-| Atlas | Calendário trimestral, gate do corretor, pouco carrossel. **Entra no padrão mais pra frente** (PH, 24/11) |
+| Celmapel | **Sazonal forte:** a data manda no mês. Plano bimestral e stories diários já existem. **Entra no padrão mais pra frente** (PH, 24/11) |
+| Atlas | Calendário trimestral, gate do corretor. **Carrossel: um por carro-chefe** (auto, residencial, vida, empresarial), ideia de PH em 24/11, sem passar do que o designer aguenta. **Entra no padrão mais pra frente** (PH, 24/11) |
 | Casa das Telhas | Vídeo de humor com a equipe é o ativo: não cortar |
 | Bruno × Araruama Tintas | Concorrentes: direções feitas em separado, sem cruzar ângulo |
 
 ## Em aberto, PH decide
 
-1. **Carrosséis por cliente.** Com 3 em cada uma das 22 pastas seriam 66 por mês, cerca de 330 slides pra um designer. Sem resposta ainda.
-2. **Cliente que não grava:** motion conta como vídeo na quarta, ou fica sem post? A regra acima vale pra planejamento novo; peça de quarta que já estava pronta não mudou.
+- **Cliente que não grava:** motion conta como vídeo na quarta, ou fica sem post? A regra vale pra planejamento novo; peça de quarta já pronta não mudou.
 
-**Decidido em 24/11:** clientes de dezembro só quando PH pedir · quarta sem vídeo não tem post, em todos · Claude escreve e manda o briefing do plugin junto · Celmapel e Atlas entram mais pra frente.
+## Histórico
+
+- **24/11/2026 (3):** carrossel por cliente, com motivo e pergunta; raio-x do Instagram obrigatório; identidade nova do feed; peso sazonal. Pedidos de PH.
+- **24/11/2026 (2):** só começa a pedido de PH; quarta sem vídeo não tem post, em todos; Claude escreve e manda o briefing do plugin junto; Celmapel e Atlas entram mais pra frente.
+- **24/11/2026 (1):** v2, a partir do piloto da Mestre da Obra.
+- **15/05/2026:** v1.

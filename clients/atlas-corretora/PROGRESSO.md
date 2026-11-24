@@ -4,6 +4,10 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ---
 
+## 2026-11-24 — Orientação de PH registrada, sem peça criada
+
+PH definiu um carrossel por carro-chefe no planejamento futuro. Nada a produzir agora: o cliente entra no processo padrão mais pra frente.
+
 ## 2026-11-23 (4) — Feedback em áudio: arte preta e clean, "tudo nosso está azul"
 
 [Transcrição](referencias/2026-11-23-audio-feedback-arte-preta.md) (🟡 autoria por inferência). Black Week e sexta 27 viraram preto; dobradura em fundo claro; regra no PADROES §7; lista inteira da Tokio na legenda, como a cliente pediu.

@@ -4,6 +4,10 @@ Log datado do trabalho feito pra Celmapel. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-11-24 — Orientação de PH registrada, sem peça criada
+
+PH definiu sazonalidade forte no planejamento futuro (PADROES §16). Nada a produzir agora: o cliente entra no processo padrão mais pra frente.
+
 ## 2026-11-23 — Semana da Black: seg 23 e sex 27 (v1, aguarda validador)
 
 - **[Seg 23](conteudo/posts/2026-11-23-confere-o-estoque-sexta-e-black.md):** "CONFERE O ESTOQUE HOJE, QUE SEXTA É BLACK FRIDAY NA CELMAPEL FESTAS!", lista por categoria, sem preço. Substitui o carrossel com preço do plano (preço não chegou).
