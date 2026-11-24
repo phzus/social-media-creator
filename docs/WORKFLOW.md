@@ -35,6 +35,8 @@ A Lone trabalha com dois tipos de documento distintos, e a diferença importa pr
 
 ## 3. Estratégia mensal
 
+> **Processo padrão desde 24/11/2026 (PH):** [planejamento mensal v2](../shared/workflow-planejamento-mensal.md), com três aprovações de PH (direção, copy, documento) e documento com prévia do feed. O que segue é apoio.
+
 - Rodar `content-strategy-sms` para revisar/ajustar pilares e ângulos do mês.
 - Rodar `content-calendar-sms` para definir cadência, temas e datas (incluindo datas comemorativas relevantes ao nicho).
 - Output: `clients/<slug>/estrategia/YYYY-MM.md` com:

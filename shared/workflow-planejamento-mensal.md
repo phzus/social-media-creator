@@ -1,245 +1,151 @@
-# Workflow · Planejamento mensal de conteúdo (Lone Mídia)
+# Planejamento mensal da Lone — processo padrão (v2)
 
-**O que é:** receita repetível pra fechar planejamento de 1 mês de conteúdo pra qualquer cliente da Lone. Cada fase tem entradas, saídas e quando invocar subagent.
+**Desde 24/11/2026 (PH):** padrão pra todos os clientes, tirado do [piloto da Mestre da Obra](../clients/mestre-da-obra-araruama/apresentacoes/2026-11-24-planejamento-dezembro.pdf). Substitui a v1 de 15/05/2026 (no git). As 6 fases e os subagents continuam. Mudaram os portões, a ordem e o documento final.
 
-**Quando usar:** todo início de mês (idealmente entre dias 22-25 do mês anterior, conforme [§3 do playbook](playbook-lone-midia.md) — briefing mensal).
-
-**Padrão de entregas:** plano contratado da Lone = 12 posts/mês (segunda · quarta · sexta). Quarta = Reels obrigatório.
-
----
-
-## Visão macro · 6 fases
+**Resumo:** material antes da direção, direção antes da copy, copy antes da arte. **PH aprova em três portões.** Nada vai pro cliente sem o terceiro.
 
 ```
-1. CONTEXTO    →   2. PESQUISA    →   3. FUNIL    →   4. PRODUÇÃO    →   5. VALIDAÇÃO    →   6. ENTREGA
-   (briefing,        (datas + ref          (mapeamento     (copy + brief        (anti-IA +           (HTML +
-    análise IG,       Pinterest +          + pilar         de design)           compliance +         estratégia
-    padrões do        padrão setor)         mensal)                              padrões cliente)     mensal)
-    cliente)
+1 MATERIAL → 2 PESQUISA → 3 DIREÇÃO ▣ → 4 COPY E ROTEIROS ▣ → 5 CONFERÊNCIA → 6 DOCUMENTO ▣ → cliente → designer
+                              portão 1          portão 2                          portão 3
 ```
 
-Cada fase é detalhada abaixo. Idealmente o ciclo todo leva 2-3 dias úteis.
+## Calendário
 
----
+| Quando | O quê |
+|---|---|
+| 22 a 25 | Briefing do mês com as 5 perguntas do [playbook §3.1](playbook-lone-midia.md), mais material e horário especial |
+| até 25 | Fases 1 a 3, portão 1 |
+| até 26 | **Roteiros com o cliente**, porque ele precisa de tempo pra gravar |
+| até 27 | Copy conferida, portão 2 |
+| até 28 | Documento revisado por PH, portão 3, e envio |
+| fim do mês | Aprovação, correções e artes finais da 1ª semana |
 
-## Fase 1 · Contexto
+## Fase 1 · Material e fatos
 
-**Objetivo:** garantir que o que vou criar bate com o cliente.
+Ler, nesta ordem: [fila](../docs/FILA-DE-CRIACAO.md), último resumo de reunião, `PADROES`, `context`, `BRIEFING`, `OPEN-QUESTIONS`, briefing do mês.
 
-**Entradas:**
-- `clients/<slug>/BRIEFING.md` (briefing histórico)
-- `clients/<slug>/context.md` (contexto vivo)
-- `clients/<slug>/PADROES.md` (se existir — específico do cliente)
-- `clients/<slug>/PROGRESSO.md` (últimas decisões)
-- Briefing mensal do cliente (resposta do cliente entre dias 22-25 do mês anterior)
+Material: `~/Downloads`, **Google Drive da Lone (pasta do cliente)**, catálogo ou site oficial (foto recortada e logo em vetor) e os vídeos já editados. Só depois disso dizer que falta foto.
 
-**Saídas:**
-- Análise do perfil Instagram atual (se faltar) → salvar em `clients/<slug>/referencias/YYYY-MM-DD-analise-perfil-instagram.md`
-- Frases-âncora do feed coletadas (pra herdar tom)
-- Foco estratégico do mês (deduzido do briefing)
-
-**Quando invocar subagent:**
-- 🤖 **[analista-perfil-ig](../.claude/agents/analista-perfil-ig.md)** se o perfil ainda não foi analisado ou a última análise tem mais de 30 dias
-
-**Checklist:**
-- [ ] BRIEFING e context.md lidos
-- [ ] PADROES.md específico do cliente lido (se existir)
-- [ ] Frases-âncora do feed identificadas
-- [ ] Foco estratégico do mês claro
-
----
+**Saída:** a ficha do mês, no começo da [direção](templates/planejamento-mensal/direcao-do-mes.md): o que mais sai, ofertas reais com condição, o que o dono quer e não quer (com a fala dele), o que não está confirmado, quem grava e quantos vídeos, fotos que existem.
 
 ## Fase 2 · Pesquisa
 
-**Objetivo:** ancorar o planejamento em datas reais + referências validadas + padrão do setor.
+- **Datas:** 🤖 `pesquisador-datas`. Cada data é usada ou descartada com motivo.
+- **Perfil do cliente:** print do feed. 🤖 `analista-perfil-ig` se passou de 30 dias.
+- **Tendência do nicho:** 🤖 `analista-tendencias`, quando fizer sentido.
+- **Concorrente:** um só, e quando PH pedir. Traduzir em arte, oferta e argumento. View não é prova ([regras de leitura](../clients/mestre-da-obra-araruama/PADROES.md)).
+- **Referência visual de PH:** comparar com a paleta do concorrente antes de adotar. Aproveita-se o sistema, com a cor da marca.
 
-**Entradas:**
-- Mês + ano alvo
-- Nicho do cliente (saúde, gastronomia, construção, etc.)
+## Fase 3 · Direção, sem copy e sem arte ▣ portão 1
 
-**Saídas:**
-- Lista de datas comemorativas relevantes do mês (filtradas pelo que conecta com o negócio)
-- 2-3 referências Pinterest pra cada peça do plano
-- Padrão do setor pesquisado quando houver afirmação técnica
+Uma página de [direção](templates/planejamento-mensal/direcao-do-mes.md) pra debater com PH:
 
-**Quando invocar subagent:**
-- 🤖 **[pesquisador-datas](../.claude/agents/pesquisador-datas.md)** — recebe mês + nicho, retorna datas filtradas
-- WebSearch direta quando precisar validar afirmação técnica específica (ex: padrão de farmácia magistral veterinária)
+1. **Foco do mês** e o que mais vende.
+2. **Público por peça**, contado (profissional × consumidor, ou o corte do cliente). Se pender, decidir de propósito.
+3. **Composição:** quantos carrosséis, vídeos e artes, e em que dia.
+4. **Tema de cada semana**, ligado ao produto.
+5. **Argumento de cada peça:** dor, descoberta, oferta, "sem precisar comprar".
+6. **O que fica fora** e por quê.
 
-**Critérios pra incluir uma data:**
-- ✅ Data tem conexão clara com o negócio (não inventar)
-- ✅ Existe ângulo positivo, não só "lembrar da data"
-- ✅ Cliente tem oferta/serviço alinhado
-- ❌ Causa social desconectada (ex: Junho Laranja pra farmácia magistral — não cabe)
-- ❌ Data muito nichada que público não reconhece
+**Composição padrão** (ajustada por cliente):
 
-**Checklist:**
-- [ ] Datas do mês pesquisadas
-- [ ] Datas irrelevantes filtradas (com justificativa)
-- [ ] Banco de referências Pinterest consultado
-- [ ] Padrão do setor pesquisado quando aplicável
+| Dia | Função | Formato |
+|---|---|---|
+| Segunda | **Descobre:** entra por uma dor e revela o produto | Carrossel ou arte |
+| Quarta | **Vê funcionando** | Vídeo |
+| Sexta | **Fecha:** oferta ou diferencial | Arte única |
 
----
+- Explicar sempre com venda: mostra o produto e termina em ação.
+- Nem tudo vira anúncio. Anúncio é decisão do time e **não entra no documento**.
+- Semana em uma linha de produto, função variando por dia.
+- Feriado não empurra post pra terça.
 
-## Fase 3 · Funil
+🤖 `mapeador-funil` é opcional. A meta de 35/40/25 da v1 não reprova mês de conversão.
 
-**Objetivo:** organizar as 12 peças do mês num funil lógico (não 12 posts soltos).
+## Fase 4 · Copy e roteiros ▣ portão 2
 
-**Entradas:**
-- Datas comemorativas filtradas (Fase 2)
-- Foco estratégico do mês (Fase 1)
-- Distribuição-alvo: ~35-40% TOFU / ~35-40% MOFU / ~20-25% BOFU
-- Framework: [shared/funil-conteudo-organico.md](funil-conteudo-organico.md)
+**Só começa com a composição fechada.** No piloto, a copy veio na lista antiga e precisou ser remapeada.
 
-**Saídas:**
-- Calendário mensal mapeado: data + tema + fase do funil + nível Schwartz + função
-- 1 pilar mensal definido (1 peça forte que vira 4-6 derivativos)
-- Distribuição validada (se desbalanceada, ajustar antes de seguir)
+1. Gerar o [contexto de copy](templates/planejamento-mensal/contexto-para-copy.md) a partir da direção: fatos, quer, não quer, limites do layout, peças e formato da resposta.
+2. Escreve PH (plugin) ou Claude. **No mesmo pacote:** artes, legendas, slides de carrossel e roteiros.
+3. Guardar o texto de PH como veio em `referencias/YYYY-MM-DD-copies-<mes>-versao-ph.md`.
 
-**Quando invocar subagent:**
-- 🤖 **[mapeador-funil](../.claude/agents/mapeador-funil.md)** — recebe lista de peças, classifica cada uma + valida distribuição + sugere ajustes
+O [Guia de Copywriting](guia-copywriting-lone.md) está em teste e não é filtro.
 
-**Padrão semanal Lone (seg / qua / sex):**
-- Segunda: TOFU (post estático educativo/contraintuitivo)
-- Quarta: MOFU (Reels — bastidores, processo, autoridade)
-- Sexta: BOFU (venda ou prova social)
+## Fase 5 · Conferência
 
-**Checklist:**
-- [ ] 12 peças mapeadas (data + tema + funil + awareness)
-- [ ] Distribuição dentro do target
-- [ ] Pilar mensal definido
-- [ ] Datas comemorativas encaixadas onde fizer sentido
+Sem puxar o estilo. Em texto de PH, só se mexe no que fere fato ou pedido do dono, **avisando o que mudou**. O resto é sugestão.
 
----
+- [ ] Fato e oferta com fonte, condição presente na arte e na legenda
+- [ ] Nada que o dono vetou (pergunta, preço, tema)
+- [ ] Caracteres por linha, apoio e CTA (conferir por script)
+- [ ] Todo campo da copy chegou na arte (apoio, CTA, aviso)
+- [ ] Data, formato e produto batem com a composição
+- [ ] Argumento que PH pediu aparece
+- [ ] Aberturas, fechos e frases repetidas no lote
+- [ ] Sem "hoje" em peça que pode virar anúncio
+- [ ] 🤖 `validador-copy` no lote, sem confiar na autochecagem. Setor regulado: gate do PADROES
 
-## Fase 4 · Produção
+## Fase 6 · Protótipos e documento ▣ portão 3
 
-**Objetivo:** escrever copy + brief de cada peça.
+**Sistema visual do cliente:** posições fixas, uma regra de cor por dia, produto real em destaque e um elemento da marca. Uma quarta sem vídeo não pode estragar o grid.
 
-**Entradas:**
-- Calendário mapeado (Fase 3)
-- PADROES.md do cliente (Fase 1)
-- Referências Pinterest (Fase 2)
+**Documento do cliente** (PDF A4 deitado e link privado), nesta ordem:
+1. Capa com foto real: mês e quantidade de cada formato
+2. Como o mês funciona e calendário com miniaturas
+3. **Prévia do feed**
+4. Peças, 2 por página: arte, formato, objetivo, slides ou tema do vídeo, legenda
+5. O que precisamos de vocês (só o que está em aberto)
 
-**Saídas:**
-- Por peça: hook + legenda + CTA + hashtags (post estático/carrossel) OU timeline com timestamps (Reels)
-- Por peça: brief de design com referência Pinterest específica
+**Não entra:** anúncio, verba, funil, hipótese, concorrente, métrica interna, pedido de material que já temos, aviso repetido. O nome do dono só onde ajuda.
 
-**Princípios de produção:**
-- **Hook:** variar entre os 9 padrões do `hook-writer-sms` na mesma campanha
-- **Estrutura:** clássica OU "convite por identificação" — escolher conscientemente
-- **Pilar mensal:** identificar peça pilar + planejar 4-6 derivativos como bônus
-- **Bloco "Pendência (validar)"** quando peça contém afirmação não confirmada
-- **Voz do cliente:** herdar do PADROES.md + frases-âncora
-- **Fluência de venda em roteiro** ([voice-checklist § 4.5](voice-quality-checklist.md)):
-  - Dor concreta SEMPRE antes da sigla/nome técnico (não anunciar lista de mecanismos antes da pessoa se conectar)
-  - Apresentação do produto com verbo de contextualização ("Lançamos", "Conheça", "Chegou") — nunca palavra solta + ponto
-  - Marca + endereço vão no CTA final, não no meio do roteiro ("Por isso a [marca] chegou com..." mata o feeling)
-- **Estrutura validada de Reels de venda direta:** Hook + promessa → Produto direto → Benefícios (cada um com dor antes) → Diferencial → Identificação → CTA com marca no fim ([playbook § 6.1](playbook-lone-midia.md))
+**Gerador:** copiar `clients/mestre-da-obra-araruama/apresentacoes/2026-12-planejamento/` e seguir o [passo a passo](templates/planejamento-mensal/README.md).
 
-**Quando invocar subagent:**
-- (produção é feita pelo Claude principal — agents validam depois)
+**Antes de mostrar a PH:** olhar o PDF renderizado, procurar texto cortado e conferir se a página fechou.
 
-**Checklist:**
-- [ ] Toda peça com hook + copy + CTA + hashtags
-- [ ] Reels com roteiro timeline
-- [ ] Referência Pinterest anotada por peça
-- [ ] Pendências pra cliente listadas em blocos visíveis
-- [ ] Pilar mensal com derivativos sugeridos
+## Depois da aprovação
 
----
+1. Peças aprovadas viram brief pro designer (mínimo de 1 dia útil), com foto final.
+2. Atualizar FILA, PROGRESSO (cliente e geral), OPEN-QUESTIONS, PAUTA e `estrategia/YYYY-MM.md`.
+3. Commit do lote.
+4. No fim do mês: o que foi postado, o que o cliente mudou e os números que chegarem. Entra na Fase 1 do mês seguinte.
 
-## Fase 5 · Validação
+## O que o piloto ensinou
 
-**Objetivo:** filtrar a copy contra vícios antes de entregar.
+| Aconteceu na Mestre da Obra | Por quê | Onde o processo evita |
+|---|---|---|
+| v1 só com estático, sem descoberta | Copy e arte antes da composição | Portão 1 |
+| 10 de 12 peças como anúncio | Não perguntei verba nem vídeo | Fase 1, ficha do mês |
+| Fotos "faltando" que estavam no Drive | Só olhei a Downloads | Fase 1 |
+| Copy de PH na lista antiga | O contexto mudou no meio | Fase 4 só com composição fechada |
+| 7 de 11 peças pro consumidor, sem querer | Público não foi contado | Portão 1, item 2 |
+| Apoios sumiram das capas de vídeo | Formato mudou sem conferir campos | Fase 5 |
+| Verba, anúncio e aviso repetido no documento | Bastidor no texto do cliente | Fase 6, "não entra" |
+| Roteiro em cima da data | Roteiro ficou por último | Calendário: até dia 26 |
+| Paleta da referência igual à do concorrente | | Fase 2 |
 
-**Entradas:**
-- Copy completa (Fase 4)
-- [shared/voice-quality-checklist.md](voice-quality-checklist.md) (regras gerais)
-- `clients/<slug>/PADROES.md` (regras específicas do cliente)
-- Setor regulado? → checklist de compliance
+## Clientes em que o padrão muda
 
-**Saídas:**
-- Copy validada peça por peça
-- Lista de correções aplicadas (se houver)
-- Pendências pra cliente que ainda travam alguma peça
+O **processo** vale pra todos. A **composição** muda aqui:
 
-**Quando invocar subagent:**
-- 🤖 **[validador-copy](../.claude/agents/validador-copy.md)** — recebe copy + cliente, roda voice-checklist + padrões + compliance, retorna lista de correções
+| Cliente | Diferença |
+|---|---|
+| Lagos Padrão | Posta quando precisa, mix 100% venda. Sem grade mensal |
+| CIIL | Séries próprias por doença e gate de compliance |
+| BodySkin | Toda peça com preço, menos injetável, que passa pela RT |
+| Veterinária Regional e WT | Layout Benestar; pauta por sazonalidade de doença |
+| Max Contabilidade | Só tributário, regras do CFC |
+| Veneza | 2 perfis: estático igual, vídeo por unidade |
+| Bazar Ribeiro | 2 lojas, encartes semanais e cota WD-40 |
+| Celmapel | Plano bimestral e stories diários já existem |
+| Atlas | Calendário trimestral, gate do corretor, pouco carrossel |
+| Casa das Telhas | Vídeo de humor com a equipe é o ativo: não cortar |
+| Bruno × Araruama Tintas | Concorrentes: direções feitas em separado, sem cruzar ângulo |
 
-**O que filtra:**
-- Antropomorfização, jargão publicitário, save-bait com julgamento, jargão técnico, analogia forçada
-- Padrões anti-IA (12 pecados do MSE)
-- Padrões específicos do cliente (PADROES.md)
-- Compliance regulatório (Anvisa/CFF pra saúde, CRECI pra imobiliária, etc.)
+## Em aberto, PH decide
 
-**Checklist:**
-- [ ] Validador rodou em todas as peças
-- [ ] Correções aplicadas
-- [ ] Pendências bloqueantes resolvidas OU peça marcada com "Pendência (validar)"
-
----
-
-## Fase 6 · Entrega
-
-**Objetivo:** materializar o plano em HTML/PDF + estratégia mensal documentada.
-
-**Entradas:**
-- Copy validada (Fase 5)
-- Calendário mapeado (Fase 3)
-
-**Saídas:**
-- `clients/<slug>/apresentacoes/YYYY-MM-DD-plano-de-conteudo-MM-YYYY.html` (HTML do plano · 1 cover + 1 página por peça)
-- `clients/<slug>/estrategia/YYYY-MM.md` (estratégia mensal com mapeamento de funil incorporado)
-- `clients/<slug>/referencias/YYYY-MM-DD-mapeamento-funil.md` (rastreabilidade do funil)
-- Atualização do `PROGRESSO.md` com entrada datada
-
-**Formato do plano HTML:**
-- Cover: janela + total de peças + Reels + reservadas
-- Página por peça: kicker · h1 · meta · Copy + Roteiro (sem "Brief de arte" e sem "Estratégia" — decisão padrão Lone)
-- Page-nums sequenciais (cover sem · 02/N a N/N)
-
-**Como exportar PDF:** abrir HTML no navegador → Ctrl+P → Salvar como PDF → marcar "Gráficos de plano de fundo".
-
-**Checklist:**
-- [ ] HTML do plano completo
-- [ ] Estratégia mensal documentada
-- [ ] Mapeamento de funil em referencias/
-- [ ] PROGRESSO.md atualizado
-- [ ] Pendências de cliente listadas em OPEN-QUESTIONS.md
-
----
-
-## Comunicação com supervisora/cliente · após entrega
-
-**Padrão:**
-1. PH manda HTML/PDF do plano via WhatsApp pra supervisora
-2. Lista das pendências bloqueantes que precisam de retorno antes de produzir
-3. Aguarda aprovação
-
-**Tipos de pendência mais comuns:**
-- Produto-foco específico de peças de linha própria
-- Informação técnica de lançamentos (PROGO, novos ativos)
-- Validação de claims regulatórios
-- Material visual (fotos do cliente)
-- Datas exatas de promoções
-
----
-
-## Quando o ciclo termina
-
-**Próximo ciclo (próximo mês):**
-1. PH atualiza `PROGRESSO.md` com o que rolou (taxa de aprovação, peças que mudaram, métricas se houver)
-2. Pede briefing mensal do próximo mês (entre dias 22-25)
-3. Volta pra Fase 1
-
-**Aprendizados acumulam:**
-- Novos vícios apontados pelo cliente → `clients/<slug>/PADROES.md` (§ Vícios)
-- Novos padrões validados → mesmo doc (§ Padrões validados)
-- Mudanças no workflow → este doc (linkado de [CLAUDE.md](../CLAUDE.md))
-
----
-
-## Histórico do workflow
-
-- **2026-05-15** — Workflow criado a partir da consolidação do projeto Arte em Manipulação (~15 rodadas de revisão entre 06/05 e 15/05). Subagents do Claude Code mapeados pra automatizar partes (Fase 1: analista-perfil-ig · Fase 2: pesquisador-datas · Fase 3: mapeador-funil · Fase 5: validador-copy).
+1. **Carrosséis por cliente.** Com 3 em cada uma das 22 pastas seriam 66 por mês, cerca de 330 slides pra um designer. Proposta: 3 pra quem precisa de descoberta, 1 pro resto.
+2. **Quem recebe documento com protótipo.** Proposta: todos que têm grade mensal, começando por 2 ou 3 em dezembro.
+3. **Quarta sem vídeo não tem post** vale só na Mestre ou em todos que gravam?
+4. **Quem escreve a copy:** plugin de PH em todos, ou Claude com revisão de PH?
+5. Plano bimestral (Celmapel) e trimestral (Atlas) entram no padrão ou seguem à parte?

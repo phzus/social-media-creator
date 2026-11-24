@@ -48,3 +48,5 @@ Formato: `### Tópico\n- Pergunta\n- Status: aberta / respondida em YYYY-MM-DD /
 - **(3) resolvido na prática pela Atlas — modelo replicável:** produto fixo, função variável. Dentro da semana temática, cada peça cobre um pilar/função diferente do mix obrigatório (posicionamento/prova → educativo/emocional → venda) — só o produto/categoria se repete. Linha única não vira "um pilar só" se for desenhada assim.
 - Status: aberta — itens (1) e (4). Atlas é o primeiro caso executado.
 - Decisão: Atlas confirmado e em execução a partir de 24/08; demais clientes seguem pendentes.
+
+- **(24/11/2026) Planejamento mensal padrão:** 5 decisões em aberto com PH no fim do [workflow v2](../shared/workflow-planejamento-mensal.md) (carrosséis por cliente, quem recebe documento, quarta sem vídeo, quem escreve a copy, planos bimestral e trimestral).

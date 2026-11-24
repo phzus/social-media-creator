@@ -4,6 +4,10 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-24 (8) — Processo padrão de planejamento mensal (v2)
+
+PH pediu pra analisar e padronizar o que foi feito na Mestre da Obra pros outros clientes. [Workflow v2](../shared/workflow-planejamento-mensal.md) reescrito (6 fases, 3 portões, calendário, documento, lições, exceções por cliente) e [templates](../shared/templates/planejamento-mensal/). 5 decisões em aberto com PH, a principal é a carga de carrossel no designer. Nenhum outro cliente foi planejado ainda.
+
 ## 2026-11-24 (7) — Mestre da Obra: planejamento v4
 
 Público equilibrado com foco no que mais sai, casa de praia fora, apoios nas capas de vídeo. Faltam slides e roteiros.
