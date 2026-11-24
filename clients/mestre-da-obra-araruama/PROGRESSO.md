@@ -2,7 +2,7 @@
 
 ## 2026-11-24 (7) — Planejamento v4: público equilibrado, sem casa de praia, apoios de volta
 
-PH pediu equilíbrio com foco no que mais sai e "qualquer casa" no planejamento inteiro. Aplicado: 07 "TIRE A SUJEIRA E / O LIMO DA CASA / COM ALTA PRESSÃO", tema da semana 3 "Casa limpa pro Natal", apoios nas 4 capas de vídeo, legendas de 01 e 10 pro profissional (01 ganhou "sem precisar comprar a estrutura"). Faltam slides e roteiros. Depois, a pedido de PH, a etiqueta "Vídeo com a Ingrid" virou "Vídeo" no documento, e o aviso de "sem vídeo não tem post" ficou só no começo.
+PH pediu equilíbrio com foco no que mais sai e "qualquer casa" no planejamento inteiro. Aplicado: 07 "TIRE A SUJEIRA E / O LIMO DA CASA / COM ALTA PRESSÃO", tema da semana 3 "Casa limpa pro Natal", apoios nas 4 capas de vídeo, legendas de 01 e 10 pro profissional (01 ganhou "sem precisar comprar a estrutura"). Faltam slides e roteiros. Depois, a pedido de PH, a etiqueta "Vídeo com a Ingrid" virou "Vídeo" no documento, e o aviso de "sem vídeo não tem post" ficou só no começo. Da capa saiu "feitas pra gerar pedido de orçamento no WhatsApp".
 
 ## 2026-11-24 (6) — Copy de PH aplicada no documento (v3)
 
