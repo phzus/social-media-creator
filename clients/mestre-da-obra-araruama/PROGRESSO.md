@@ -1,5 +1,9 @@
 # Progresso — Mestre da Obra Araruama
 
+## 2026-11-24 (3) — Visual aprovado por PH, copy reprovada
+
+PH: "ficou muito foda", mas "as nossas copys estão ruins". Ele reescreve as 12 no plugin de copy dele e manda pra avaliação. [Contexto pronto pra colar no plugin](estrategia/2026-12-contexto-para-copy.md): o que a dona quer e não quer, fatos, travas, limites da arte e as 12 peças. **Não mandar o PDF v1 ao cliente:** as copies vão mudar.
+
 ## 2026-11-24 (2) — Planejamento de dezembro: 12 artes de conversão, prévia do feed e documento do cliente (v1)
 
 PH: foco em conversão, sem vídeo por views ou humor; adaptar o Triunfo; funil em dezembro; posts que também são criativos Meta Ads; documento pro cliente com prévia do feed e identidade definida, com foto real.

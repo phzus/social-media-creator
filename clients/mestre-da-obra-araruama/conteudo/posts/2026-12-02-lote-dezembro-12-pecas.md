@@ -1,6 +1,6 @@
 # Lote de dezembro/2026 — 12 artes únicas (feed + criativo de anúncio)
 
-**Cliente:** mestre-da-obra-araruama · **Formato:** estático 3:4 (1080×1440), recorte 4:5 e versão 9:16 pros anúncios · **Status:** v1.1 · validada em 24/11 (validador-copy) · aguarda PH e cliente
+**Cliente:** mestre-da-obra-araruama · **Formato:** estático 3:4 (1080×1440), recorte 4:5 e versão 9:16 pros anúncios · **Status:** v1.1 · **copy reprovada por PH em 24/11, em reescrita** · visual aprovado
 **Estratégia:** [2026-12](../../estrategia/2026-12.md) · **Protótipos:** [feed](../../apresentacoes/2026-12-planejamento/artes/feed.jpg) · **Fonte dos textos:** `apresentacoes/2026-12-planejamento/textos.mjs` e `artes.mjs` (este arquivo é gerado por `lote-md.mjs`, editar lá)
 
 **Vale pra todas:** logo no topo à esquerda, headline em caixa alta com a última linha em laranja, máquina real em primeiro plano sobre o hexágono da marca, CTA com seta e WhatsApp no rodapé. Fundo claro e azul se alternam post a post (vira xadrez no grid). Sem pergunta, sem preço, sem personagem 3D, sem IA. Texto longe das bordas.

@@ -1,5 +1,5 @@
 import fs from 'fs'; import path from 'path'; import { fileURLToPath } from 'url'; import { PECAS } from './artes.mjs'; import { T,SEM } from './textos.mjs';
-const AQUI=path.dirname(fileURLToPath(import.meta.url)); const V=process.argv[2]||'v1.1 · validada em 24/11 (validador-copy) · aguarda PH e cliente';
+const AQUI=path.dirname(fileURLToPath(import.meta.url)); const V=process.argv[2]||'v1.1 · **copy reprovada por PH em 24/11, em reescrita** · visual aprovado';
 let s=`# Lote de dezembro/2026 — 12 artes únicas (feed + criativo de anúncio)
 
 **Cliente:** mestre-da-obra-araruama · **Formato:** estático 3:4 (1080×1440), recorte 4:5 e versão 9:16 pros anúncios · **Status:** ${V}

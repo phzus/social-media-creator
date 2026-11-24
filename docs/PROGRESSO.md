@@ -4,6 +4,10 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-24 (3) — Mestre da Obra: visual aprovado, copy volta
+
+PH aprovou o visual do planejamento e vai reescrever as 12 copies no plugin dele. [Contexto](../clients/mestre-da-obra-araruama/estrategia/2026-12-contexto-para-copy.md) pronto. Próximo passo: avaliar a copy que ele mandar e regerar artes, lote e PDF.
+
 ## 2026-11-24 (2) — Mestre da Obra: planejamento de dezembro com prévia do feed (v1)
 
 12 artes únicas focadas em conversão, 10 delas também anúncio. [Estratégia](../clients/mestre-da-obra-araruama/estrategia/2026-12.md) · [PDF do cliente](../clients/mestre-da-obra-araruama/apresentacoes/2026-11-24-planejamento-dezembro.pdf) · [lote](../clients/mestre-da-obra-araruama/conteudo/posts/2026-12-02-lote-dezembro-12-pecas.md). Aguarda PH. Primeiro documento da casa com protótipo de cada peça: gerador em `apresentacoes/2026-12-planejamento/` (`artes.mjs`, `textos.mjs`, `doc.mjs`), reaproveitável.
