@@ -1,0 +1,264 @@
+- generic [ref=e11]:
+  - generic [ref=e13]:
+    - link [ref=e16] [cursor=pointer]:
+      - /url: /
+      - img "Instagram" [ref=e19]
+    - generic [ref=e30]:
+      - link "Entrar" [ref=e32] [cursor=pointer]:
+        - /url: /accounts/login/?next=%2Fbenestar.pet%2F&source=desktop_nav
+      - link "Cadastre-se" [ref=e34] [cursor=pointer]:
+        - /url: /accounts/emailsignup/
+  - main [ref=e35]:
+    - generic [ref=e37]:
+      - generic [ref=e38]:
+        - link [ref=e42] [cursor=pointer]:
+          - /url: /benestar.pet/
+          - img "Foto do perfil de benestar.pet" [ref=e43]
+        - heading "benestar.pet" [level=2] [ref=e50]
+        - list [ref=e53]:
+          - listitem [ref=e54]:
+            - link "3.688 seguidores" [ref=e56] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e57]:
+                - generic "3.688" [ref=e58]
+                - text: seguidores
+          - listitem [ref=e59]:
+            - link "2.474 seguindo" [ref=e61] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e62]:
+                - generic [ref=e63]: "2.474"
+                - text: seguindo
+        - generic [ref=e65]:
+          - generic [ref=e66]: Benestar
+          - link "Threads benestar.pet" [ref=e70] [cursor=pointer]:
+            - /url: https://www.threads.com/@benestar.pet?xmt=AQG0hhPvN388FHi9PxX1AdDqcElvS8GxGAGdRm9yxmw9Hag
+            - img "Threads" [ref=e72]
+            - generic [ref=e74]: benestar.pet
+          - button [ref=e77] [cursor=pointer]:
+            - generic [ref=e78]: • A farmácia do seu pet• Pediu, piscou, chegou• Compre pelo link
+          - generic [ref=e79]:
+            - img "Ícone de link" [ref=e81]
+            - link "www.benestar.pet/linktree/s" [ref=e85] [cursor=pointer]:
+              - /url: https://l.instagram.com/?u=https%3A%2F%2Fwww.benestar.pet%2Flinktree%2Fs&e=AUAUy3xTmSW4BQaDK9RLZDv0XuGX2yOJQ5VhlH5et2p2LH2ZMCWWiQJJYXlOUH6EyEg7d1Nx53jXziB3got9CfAt3EN7Qhse6RBnK6KcvCS-qT9s87YhUD9L7y7HyIbDoB9YPC-_fOoGaTctVRN40faNuySba1dW22vvGOQFi9E
+        - menu [ref=e88]:
+          - list [ref=e92]:
+            - listitem [ref=e93]
+            - listitem [ref=e94]
+            - listitem [ref=e95]:
+              - link "Ver destaque de cupons" [ref=e98] [cursor=pointer]:
+                - /url: /stories/highlights/18061589612163831/
+                - button "Foto do story no destaque de benestar.pet cupons" [ref=e99]:
+                  - button [ref=e100]:
+                    - img "Foto do story no destaque de benestar.pet" [ref=e103]
+                  - generic [ref=e104]: cupons
+            - listitem [ref=e107]:
+              - link "Ver destaque de contato" [ref=e110] [cursor=pointer]:
+                - /url: /stories/highlights/17953820045797972/
+                - button "Foto do story no destaque de benestar.pet contato" [ref=e111]:
+                  - button [ref=e112]:
+                    - img "Foto do story no destaque de benestar.pet" [ref=e115]
+                  - generic [ref=e116]: contato
+            - listitem [ref=e119]:
+              - link "Ver destaque de club bene" [ref=e122] [cursor=pointer]:
+                - /url: /stories/highlights/17902497438162838/
+                - button "Foto do story no destaque de benestar.pet club bene" [ref=e123]:
+                  - button [ref=e124]:
+                    - img "Foto do story no destaque de benestar.pet" [ref=e127]
+                  - generic [ref=e128]: club bene
+            - listitem [ref=e131]:
+              - link "Ver destaque de assinatura" [ref=e134] [cursor=pointer]:
+                - /url: /stories/highlights/17896905144193925/
+                - button "Foto do story no destaque de benestar.pet assinatura" [ref=e135]:
+                  - button [ref=e136]:
+                    - img "Foto do story no destaque de benestar.pet" [ref=e139]
+                  - generic [ref=e140]: assinatura
+            - listitem [ref=e143]:
+              - link "Ver destaque de quem somos" [ref=e146] [cursor=pointer]:
+                - /url: /stories/highlights/17876172342317668/
+                - button "Foto do story no destaque de benestar.pet quem somos" [ref=e147]:
+                  - button [ref=e148]:
+                    - img "Foto do story no destaque de benestar.pet" [ref=e151]
+                  - generic [ref=e152]: quem somos
+      - generic [ref=e155]:
+        - tablist [ref=e156]:
+          - link [ref=e158] [cursor=pointer]:
+            - /url: /benestar.pet/
+            - img "Posts" [ref=e160]
+          - link [ref=e171] [cursor=pointer]:
+            - /url: "#"
+            - img "Reels" [ref=e173]
+          - link [ref=e176] [cursor=pointer]:
+            - /url: "#"
+            - img "Marcados" [ref=e178]
+        - tabpanel
+      - generic [ref=e182]:
+        - generic [ref=e185]:
+          - generic [ref=e186]:
+            - link [ref=e188] [cursor=pointer]:
+              - /url: /benestar.pet/p/DVcNHZoDoRV/
+            - link [ref=e193] [cursor=pointer]:
+              - /url: /benestar.pet/p/DeNC09KsQXT/
+            - link "Carrossel" [ref=e198] [cursor=pointer]:
+              - /url: /benestar.pet/p/Dd6sGRelHdb/
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Carrossel"
+          - generic [ref=e202]:
+            - link "Carrossel" [ref=e204] [cursor=pointer]:
+              - /url: /benestar.pet/p/DdrrRssFEjN/
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Carrossel"
+            - link "Carrossel" [ref=e209] [cursor=pointer]:
+              - /url: /benestar.pet/p/DdkGv-GFAMA/
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Carrossel"
+            - link "Clipe" [ref=e214] [cursor=pointer]:
+              - /url: /benestar.pet/reel/DdaKnSuAjLn/
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Clipe"
+          - generic [ref=e218]:
+            - link [ref=e220] [cursor=pointer]:
+              - /url: /benestar.pet/p/DdZrp6sMxd8/
+            - link "Carrossel" [ref=e225] [cursor=pointer]:
+              - /url: /benestar.pet/p/Dc3XaRZDlai/
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Carrossel"
+            - link "Carrossel" [ref=e230] [cursor=pointer]:
+              - /url: /benestar.pet/p/Dcy8B8wFEfO/
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Carrossel"
+          - generic [ref=e234]:
+            - link "Carrossel" [ref=e236] [cursor=pointer]:
+              - /url: /benestar.pet/p/DchPzDelLwV/
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Carrossel"
+            - link "Carrossel" [ref=e241] [cursor=pointer]:
+              - /url: /benestar.pet/p/DZXzIsFFM-p/
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Carrossel"
+            - link "Carrossel" [ref=e246] [cursor=pointer]:
+              - /url: /benestar.pet/p/DZJC-6sgPio/
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Carrossel"
+        - button "Mostrar mais posts de benestar.pet" [ref=e250] [cursor=pointer]
+  - contentinfo [ref=e253]:
+    - generic [ref=e254]:
+      - generic [ref=e256]:
+        - link "Meta" [ref=e258] [cursor=pointer]:
+          - /url: https://about.meta.com/
+        - link "Sobre" [ref=e261] [cursor=pointer]:
+          - /url: https://about.instagram.com/
+        - link "Blog" [ref=e264] [cursor=pointer]:
+          - /url: https://about.instagram.com/blog/
+        - link "Carreiras" [ref=e267] [cursor=pointer]:
+          - /url: https://about.instagram.com/about-us/careers
+        - link "Ajuda" [ref=e270] [cursor=pointer]:
+          - /url: https://help.instagram.com/
+        - link "API" [ref=e273] [cursor=pointer]:
+          - /url: https://developers.facebook.com/docs/instagram
+        - link "Privacidade" [ref=e276] [cursor=pointer]:
+          - /url: /legal/privacy/
+        - link "Termos" [ref=e279] [cursor=pointer]:
+          - /url: /legal/terms/
+        - link "Localizações" [ref=e282] [cursor=pointer]:
+          - /url: /explore/locations/
+        - link "Popular" [ref=e285] [cursor=pointer]:
+          - /url: /popular/
+        - link "Instagram Lite" [ref=e288] [cursor=pointer]:
+          - /url: /web/lite/
+        - link "Meta AI" [ref=e291] [cursor=pointer]:
+          - /url: https://www.meta.ai/?utm_source=foa_web_footer
+        - link "Muse" [ref=e294] [cursor=pointer]:
+          - /url: https://muse.ai/
+        - link "Threads" [ref=e297] [cursor=pointer]:
+          - /url: https://www.threads.com/
+        - link "Upload de contatos e não usuários" [ref=e300] [cursor=pointer]:
+          - /url: https://www.facebook.com/help/instagram/261704639352628
+        - link "Meta Verified" [ref=e303] [cursor=pointer]:
+          - /url: /accounts/meta_verified/?entrypoint=web_footer
+      - generic [ref=e305]:
+        - generic [ref=e306] [cursor=pointer]:
+          - generic [ref=e307]:
+            - generic [ref=e308]: Português (Brasil)
+            - img "Ícone de seta para baixo" [ref=e311]
+          - combobox "Trocar idioma de exibição" [ref=e313]:
+            - option "Afrikaans"
+            - option "العربية"
+            - option "Čeština"
+            - option "Dansk"
+            - option "Deutsch"
+            - option "Ελληνικά"
+            - option "English"
+            - option "English (UK)"
+            - option "Español (España)"
+            - option "Español"
+            - option "فارسی"
+            - option "Suomi"
+            - option "Français"
+            - option "עברית"
+            - option "Bahasa Indonesia"
+            - option "Italiano"
+            - option "日本語"
+            - option "한국어"
+            - option "Bahasa Melayu"
+            - option "Norsk"
+            - option "Nederlands"
+            - option "Polski"
+            - option "Português (Brasil)" [selected]
+            - option "Português (Portugal)"
+            - option "Русский"
+            - option "Svenska"
+            - option "ภาษาไทย"
+            - option "Filipino"
+            - option "Türkçe"
+            - option "中文(简体)"
+            - option "中文(台灣)"
+            - option "বাংলা"
+            - option "ગુજરાતી"
+            - option "हिन्दी"
+            - option "Hrvatski"
+            - option "Magyar"
+            - option "ಕನ್ನಡ"
+            - option "മലയാളം"
+            - option "मराठी"
+            - option "नेपाली"
+            - option "ਪੰਜਾਬੀ"
+            - option "සිංහල"
+            - option "Slovenčina"
+            - option "தமிழ்"
+            - option "తెలుగు"
+            - option "اردو"
+            - option "Tiếng Việt"
+            - option "中文(香港)"
+            - option "Български"
+            - option "Français (Canada)"
+            - option "Română"
+            - option "Српски"
+            - option "Українська"
+        - generic [ref=e314]: © 2026 Instagram from Meta

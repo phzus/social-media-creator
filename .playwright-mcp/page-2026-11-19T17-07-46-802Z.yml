@@ -1,0 +1,252 @@
+- generic [ref=f2e11]:
+  - generic [ref=f2e13]:
+    - link [ref=f2e16] [cursor=pointer]:
+      - /url: /
+      - img "Instagram" [ref=f2e19]
+    - generic [ref=f2e30]:
+      - link "Entrar" [ref=f2e32] [cursor=pointer]:
+        - /url: /accounts/login/?next=%2Fvetregionalofc%2F&source=desktop_nav
+      - link "Cadastre-se" [ref=f2e34] [cursor=pointer]:
+        - /url: /accounts/emailsignup/
+  - main [ref=f2e35]:
+    - generic [ref=f2e37]:
+      - generic [ref=f2e38]:
+        - link [ref=f2e42] [cursor=pointer]:
+          - /url: /vetregionalofc/
+          - img "Foto do perfil de vetregionalofc" [ref=f2e43]
+        - heading "vetregionalofc" [level=2] [ref=f2e50]
+        - list [ref=f2e53]:
+          - listitem [ref=f2e54]:
+            - link "1.513 seguidores" [ref=f2e56] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=f2e57]:
+                - generic "1.513" [ref=f2e58]
+                - text: seguidores
+          - listitem [ref=f2e59]:
+            - link "240 seguindo" [ref=f2e61] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=f2e62]:
+                - generic [ref=f2e63]: "240"
+                - text: seguindo
+        - generic [ref=f2e65]:
+          - generic [ref=f2e66]: Veterinária Regional | Araruama
+          - generic [ref=f2e68]:
+            - button [ref=f2e69] [cursor=pointer]:
+              - generic [ref=f2e70]: • Clínica Veterinária completa para o seu pet ❤️🐾| Consultas - Vacinas - Exames - Cirurgias👇🏻 | Clique e fale com a ge
+            - generic [ref=f2e71]:
+              - text: ...
+              - button "mais" [ref=f2e72] [cursor=pointer]
+          - generic [ref=f2e74]:
+            - img "Ícone de link" [ref=f2e76]
+            - link "linktr.ee/vetregional" [ref=f2e80] [cursor=pointer]:
+              - /url: https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Fvetregional&e=AUBXEWbqIzhrkU8lAYB7IuO70W3QfoD2k_6Tt7vhl9_dRrl9IqEFIJL07dAz_RNnw0E9VqnN8NpmLmG5Rt6hr7fNX9M5CArpoG_ENYkPcbnzd_wPQsYR0qgD4BH2tzWKrF7WgIN9ydqavtiO9lOWobiXEyGRKqyMb-XBrL0x9QI
+        - menu [ref=f2e83]:
+          - generic [ref=f2e85]:
+            - list [ref=f2e87]:
+              - listitem [ref=f2e88]
+              - listitem [ref=f2e89]
+              - listitem [ref=f2e90]:
+                - link "Ver destaque de Clientes" [ref=f2e93] [cursor=pointer]:
+                  - /url: /stories/highlights/17912475894081289/
+                  - button "Foto do story no destaque de vetregionalofc Clientes" [ref=f2e94]:
+                    - button [ref=f2e95]:
+                      - img "Foto do story no destaque de vetregionalofc" [ref=f2e98]
+                    - generic [ref=f2e99]: Clientes
+              - listitem [ref=f2e102]:
+                - link "Ver destaque de Especialidades" [ref=f2e105] [cursor=pointer]:
+                  - /url: /stories/highlights/17907059448401849/
+                  - button "Foto do story no destaque de vetregionalofc Especialidades" [ref=f2e106]:
+                    - button [ref=f2e107]:
+                      - img "Foto do story no destaque de vetregionalofc" [ref=f2e110]
+                    - generic [ref=f2e111]: Especialidades
+              - listitem [ref=f2e114]:
+                - link "Ver destaque de Exames" [ref=f2e117] [cursor=pointer]:
+                  - /url: /stories/highlights/17960750639955537/
+                  - button "Foto do story no destaque de vetregionalofc Exames" [ref=f2e118]:
+                    - button [ref=f2e119]:
+                      - img "Foto do story no destaque de vetregionalofc" [ref=f2e122]
+                    - generic [ref=f2e123]: Exames
+              - listitem [ref=f2e126]:
+                - link "Ver destaque de Eventos" [ref=f2e129] [cursor=pointer]:
+                  - /url: /stories/highlights/18089493250677719/
+                  - button "Foto do story no destaque de vetregionalofc Eventos" [ref=f2e130]:
+                    - button [ref=f2e131]:
+                      - img "Foto do story no destaque de vetregionalofc" [ref=f2e134]
+                    - generic [ref=f2e135]: Eventos
+              - listitem [ref=f2e138]:
+                - link "Ver destaque de Veterinária" [ref=f2e141] [cursor=pointer]:
+                  - /url: /stories/highlights/18279671275284855/
+                  - button "Foto do story no destaque de vetregionalofc Veterinária" [ref=f2e142]:
+                    - button [ref=f2e143]:
+                      - img "Foto do story no destaque de vetregionalofc" [ref=f2e146]
+                    - generic [ref=f2e147]: Veterinária
+              - listitem [ref=f2e150]:
+                - link "Ver destaque de Serviços" [ref=f2e153] [cursor=pointer]:
+                  - /url: /stories/highlights/17978486456728366/
+                  - button "Foto do story no destaque de vetregionalofc Serviços" [ref=f2e154]:
+                    - button [ref=f2e155]:
+                      - img "Foto do story no destaque de vetregionalofc" [ref=f2e158]
+                    - generic [ref=f2e159]: Serviços
+              - listitem [ref=f2e162]:
+                - link "Ver destaque de Sobre nós" [ref=f2e165] [cursor=pointer]:
+                  - /url: /stories/highlights/18075206233767501/
+                  - button "Foto do story no destaque de vetregionalofc Sobre nós" [ref=f2e166]:
+                    - button [ref=f2e167]:
+                      - img "Foto do story no destaque de vetregionalofc" [ref=f2e170]
+                    - generic [ref=f2e171]: Sobre nós
+            - button "Avançar" [ref=f2e174] [cursor=pointer]
+      - generic [ref=f2e176]:
+        - tablist [ref=f2e177]:
+          - link [ref=f2e179] [cursor=pointer]:
+            - /url: /vetregionalofc/
+            - img "Posts" [ref=f2e181]
+          - link [ref=f2e192] [cursor=pointer]:
+            - /url: "#"
+            - img "Reels" [ref=f2e194]
+          - link [ref=f2e197] [cursor=pointer]:
+            - /url: "#"
+            - img "Marcados" [ref=f2e199]
+        - tabpanel
+      - generic [ref=f2e203]:
+        - generic [ref=f2e206]:
+          - generic [ref=f2e207]:
+            - link [ref=f2e209] [cursor=pointer]:
+              - /url: /vetregionalofc/p/DMJIo3Ev0ZL/
+              - img "Photo by Veterinária Regional | Araruama on July 15, 2025." [ref=f2e212]
+            - link [ref=f2e215] [cursor=pointer]:
+              - /url: /vetregionalofc/reel/DL8JstKPlGe/
+              - img "Video by Veterinária Regional | Araruama on July 10, 2025." [ref=f2e218]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Clipe"
+            - link [ref=f2e221] [cursor=pointer]:
+              - /url: /vetregionalofc/p/DMYouVOvxrv/
+              - img "Photo by Veterinária Regional | Araruama on July 21, 2025." [ref=f2e224]
+          - generic [ref=f2e226]:
+            - link [ref=f2e228] [cursor=pointer]:
+              - /url: /vetregionalofc/p/Df0RXOLj67-/
+              - img "Photo by Veterinária Regional | Araruama on November 16, 2026. Pode ser uma imagem de cão, pôster e texto." [ref=f2e231]
+            - link [ref=f2e234] [cursor=pointer]:
+              - /url: /vetregionalofc/p/Dfsi-fpiuYs/
+              - img "Photo by Veterinária Regional | Araruama on November 13, 2026. Pode ser uma imagem de animal de estimação, ração para animal de estimação e texto." [ref=f2e237]
+            - link [ref=f2e240] [cursor=pointer]:
+              - /url: /vetregionalofc/p/DfiPzKFCALu/
+              - img "Photo by Veterinária Regional | Araruama on November 09, 2026. Pode ser um meme de animal de estimação e texto." [ref=f2e243]
+          - generic [ref=f2e245]:
+            - link [ref=f2e247] [cursor=pointer]:
+              - /url: /vetregionalofc/p/DfahaVdjH-w/
+              - img "Photo by Veterinária Regional | Araruama on November 06, 2026. Pode ser uma imagem de cão e texto." [ref=f2e250]
+            - link [ref=f2e253] [cursor=pointer]:
+              - /url: /vetregionalofc/p/DfIf2Lwj9b9/
+              - img "Photo by Veterinária Regional | Araruama on October 30, 2026. Pode ser uma imagem de collie e texto." [ref=f2e256]
+            - link [ref=f2e259] [cursor=pointer]:
+              - /url: /vetregionalofc/p/De-MqwhgTIs/
+              - img "Photo by Veterinária Regional | Araruama on October 26, 2026. Pode ser uma imagem de animal de estimação, pia e texto." [ref=f2e262]
+          - generic [ref=f2e264]:
+            - link [ref=f2e266] [cursor=pointer]:
+              - /url: /vetregionalofc/p/De2eSGICcNX/
+              - img "Photo by Veterinária Regional | Araruama on October 23, 2026. Pode ser uma imagem de animal de estimação, ração para animal de estimação e texto." [ref=f2e269]
+            - link [ref=f2e272] [cursor=pointer]:
+              - /url: /vetregionalofc/p/DesLG5qifiu/
+              - img "Photo by Veterinária Regional | Araruama on October 19, 2026. Pode ser uma imagem de animal de estimação e texto." [ref=f2e275]
+            - link [ref=f2e278] [cursor=pointer]:
+              - /url: /vetregionalofc/p/DekcvVYjQ2m/
+              - img "Photo by Veterinária Regional | Araruama on October 16, 2026. Pode ser uma imagem de animal de estimação, hospital e texto." [ref=f2e281]
+        - button "Mostrar mais posts de vetregionalofc" [ref=f2e283] [cursor=pointer]
+  - contentinfo [ref=f2e286]:
+    - generic [ref=f2e287]:
+      - generic [ref=f2e289]:
+        - link "Meta" [ref=f2e291] [cursor=pointer]:
+          - /url: https://about.meta.com/
+        - link "Sobre" [ref=f2e294] [cursor=pointer]:
+          - /url: https://about.instagram.com/
+        - link "Blog" [ref=f2e297] [cursor=pointer]:
+          - /url: https://about.instagram.com/blog/
+        - link "Carreiras" [ref=f2e300] [cursor=pointer]:
+          - /url: https://about.instagram.com/about-us/careers
+        - link "Ajuda" [ref=f2e303] [cursor=pointer]:
+          - /url: https://help.instagram.com/
+        - link "API" [ref=f2e306] [cursor=pointer]:
+          - /url: https://developers.facebook.com/docs/instagram
+        - link "Privacidade" [ref=f2e309] [cursor=pointer]:
+          - /url: /legal/privacy/
+        - link "Termos" [ref=f2e312] [cursor=pointer]:
+          - /url: /legal/terms/
+        - link "Localizações" [ref=f2e315] [cursor=pointer]:
+          - /url: /explore/locations/
+        - link "Popular" [ref=f2e318] [cursor=pointer]:
+          - /url: /popular/
+        - link "Instagram Lite" [ref=f2e321] [cursor=pointer]:
+          - /url: /web/lite/
+        - link "Meta AI" [ref=f2e324] [cursor=pointer]:
+          - /url: https://www.meta.ai/?utm_source=foa_web_footer
+        - link "Muse" [ref=f2e327] [cursor=pointer]:
+          - /url: https://muse.ai/
+        - link "Threads" [ref=f2e330] [cursor=pointer]:
+          - /url: https://www.threads.com/
+        - link "Upload de contatos e não usuários" [ref=f2e333] [cursor=pointer]:
+          - /url: https://www.facebook.com/help/instagram/261704639352628
+        - link "Meta Verified" [ref=f2e336] [cursor=pointer]:
+          - /url: /accounts/meta_verified/?entrypoint=web_footer
+      - generic [ref=f2e338]:
+        - generic [ref=f2e339] [cursor=pointer]:
+          - generic [ref=f2e340]:
+            - generic [ref=f2e341]: Português (Brasil)
+            - img "Ícone de seta para baixo" [ref=f2e344]
+          - combobox "Trocar idioma de exibição" [ref=f2e346]:
+            - option "Afrikaans"
+            - option "العربية"
+            - option "Čeština"
+            - option "Dansk"
+            - option "Deutsch"
+            - option "Ελληνικά"
+            - option "English"
+            - option "English (UK)"
+            - option "Español (España)"
+            - option "Español"
+            - option "فارسی"
+            - option "Suomi"
+            - option "Français"
+            - option "עברית"
+            - option "Bahasa Indonesia"
+            - option "Italiano"
+            - option "日本語"
+            - option "한국어"
+            - option "Bahasa Melayu"
+            - option "Norsk"
+            - option "Nederlands"
+            - option "Polski"
+            - option "Português (Brasil)" [selected]
+            - option "Português (Portugal)"
+            - option "Русский"
+            - option "Svenska"
+            - option "ภาษาไทย"
+            - option "Filipino"
+            - option "Türkçe"
+            - option "中文(简体)"
+            - option "中文(台灣)"
+            - option "বাংলা"
+            - option "ગુજરાતી"
+            - option "हिन्दी"
+            - option "Hrvatski"
+            - option "Magyar"
+            - option "ಕನ್ನಡ"
+            - option "മലയാളം"
+            - option "मराठी"
+            - option "नेपाली"
+            - option "ਪੰਜਾਬੀ"
+            - option "සිංහල"
+            - option "Slovenčina"
+            - option "தமிழ்"
+            - option "తెలుగు"
+            - option "اردو"
+            - option "Tiếng Việt"
+            - option "中文(香港)"
+            - option "Български"
+            - option "Français (Canada)"
+            - option "Română"
+            - option "Српски"
+            - option "Українська"
+        - generic [ref=f2e347]: © 2026 Instagram from Meta

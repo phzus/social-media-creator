@@ -1,0 +1,250 @@
+- generic [ref=f4e11]:
+  - generic [ref=f4e13]:
+    - link [ref=f4e16] [cursor=pointer]:
+      - /url: /
+      - img "Instagram" [ref=f4e19]
+    - generic [ref=f4e30]:
+      - link "Entrar" [ref=f4e32] [cursor=pointer]:
+        - /url: /accounts/login/?next=%2F_wtshopping%2F&source=desktop_nav
+      - link "Cadastre-se" [ref=f4e34] [cursor=pointer]:
+        - /url: /accounts/emailsignup/
+  - main [ref=f4e35]:
+    - generic [ref=f4e37]:
+      - generic [ref=f4e38]:
+        - button "Ver story do perfil" [ref=f4e41] [cursor=pointer]:
+          - link [ref=f4e43]:
+            - img "Foto do perfil de _wtshopping" [ref=f4e44]
+        - heading "_wtshopping" [level=2] [ref=f4e51]
+        - list [ref=f4e54]:
+          - listitem [ref=f4e55]:
+            - link "1.944 seguidores" [ref=f4e57] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=f4e58]:
+                - generic "1.944" [ref=f4e59]
+                - text: seguidores
+          - listitem [ref=f4e60]:
+            - link "85 seguindo" [ref=f4e62] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=f4e63]:
+                - generic [ref=f4e64]: "85"
+                - text: seguindo
+        - generic [ref=f4e66]:
+          - generic [ref=f4e67]: WT Shopping
+          - generic [ref=f4e69]:
+            - button [ref=f4e70] [cursor=pointer]:
+              - generic [ref=f4e71]: 🌟 Sua agropecuária e pet shop de confiança!🐶 Clínica Veterinária🌱 Jardinagem | Manutenção de PiscinasEntre em
+            - generic [ref=f4e72]:
+              - text: ...
+              - button "mais" [ref=f4e73] [cursor=pointer]
+          - generic [ref=f4e75]:
+            - img "Ícone de link" [ref=f4e77]
+            - link "linktr.ee/wtshopping" [ref=f4e81] [cursor=pointer]:
+              - /url: https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Fwtshopping&e=AUAF8R3rRarmh02T4qMp8jfbik3D_IJe_uSkExJRan_e6QE2Q9LPcjhxzapKctb_A9_OOD_TuozrpwNdR7SZnzxTjZ9zTxZC4WfHdRKIxg_NS7daZIqc9NQL75AJh31u4nHqu7xSS_sOwV4hcsA9QgBOn6R2TbNedL4C1oTnOKM
+        - menu [ref=f4e84]:
+          - generic [ref=f4e86]:
+            - list [ref=f4e88]:
+              - listitem [ref=f4e89]
+              - listitem [ref=f4e90]
+              - listitem [ref=f4e91]:
+                - link "Ver destaque de Medicamentos" [ref=f4e94] [cursor=pointer]:
+                  - /url: /stories/highlights/17872428075004564/
+                  - button "Foto do story no destaque de _wtshopping Medicamentos" [ref=f4e95]:
+                    - button [ref=f4e96]:
+                      - img "Foto do story no destaque de _wtshopping" [ref=f4e99]
+                    - generic [ref=f4e100]: Medicamentos
+              - listitem [ref=f4e103]:
+                - link "Ver destaque de Parcerias" [ref=f4e106] [cursor=pointer]:
+                  - /url: /stories/highlights/18016044181842598/
+                  - button "Foto do story no destaque de _wtshopping Parcerias" [ref=f4e107]:
+                    - button [ref=f4e108]:
+                      - img "Foto do story no destaque de _wtshopping" [ref=f4e111]
+                    - generic [ref=f4e112]: Parcerias
+              - listitem [ref=f4e115]:
+                - link "Ver destaque de Sobre nós" [ref=f4e118] [cursor=pointer]:
+                  - /url: /stories/highlights/18165929602295851/
+                  - button "Foto do story no destaque de _wtshopping Sobre nós" [ref=f4e119]:
+                    - button [ref=f4e120]:
+                      - img "Foto do story no destaque de _wtshopping" [ref=f4e123]
+                    - generic [ref=f4e124]: Sobre nós
+              - listitem [ref=f4e127]:
+                - link "Ver destaque de Rações" [ref=f4e130] [cursor=pointer]:
+                  - /url: /stories/highlights/18002127467187036/
+                  - button "Foto do story no destaque de _wtshopping Rações" [ref=f4e131]:
+                    - button [ref=f4e132]:
+                      - img "Foto do story no destaque de _wtshopping" [ref=f4e135]
+                    - generic [ref=f4e136]: Rações
+              - listitem [ref=f4e139]:
+                - link "Ver destaque de Inauguração" [ref=f4e142] [cursor=pointer]:
+                  - /url: /stories/highlights/17973569945413208/
+                  - button "Foto do story no destaque de _wtshopping Inauguração" [ref=f4e143]:
+                    - button [ref=f4e144]:
+                      - img "Foto do story no destaque de _wtshopping" [ref=f4e147]
+                    - generic [ref=f4e148]: Inauguração
+              - listitem [ref=f4e151]:
+                - link "Ver destaque de Clínica Vet." [ref=f4e154] [cursor=pointer]:
+                  - /url: /stories/highlights/17976142133795021/
+                  - button "Foto do story no destaque de _wtshopping Clínica Vet." [ref=f4e155]:
+                    - button [ref=f4e156]:
+                      - img "Foto do story no destaque de _wtshopping" [ref=f4e159]
+                    - generic [ref=f4e160]: Clínica Vet.
+              - listitem [ref=f4e163]:
+                - link "Ver destaque de Banho & Tosa" [ref=f4e166] [cursor=pointer]:
+                  - /url: /stories/highlights/18474028792057095/
+                  - button "Foto do story no destaque de _wtshopping Banho & Tosa" [ref=f4e167]:
+                    - button [ref=f4e168]:
+                      - img "Foto do story no destaque de _wtshopping" [ref=f4e171]
+                    - generic [ref=f4e172]: Banho & Tosa
+            - button "Avançar" [ref=f4e175] [cursor=pointer]
+      - generic [ref=f4e177]:
+        - tablist [ref=f4e178]:
+          - link [ref=f4e180] [cursor=pointer]:
+            - /url: /_wtshopping/
+            - img "Posts" [ref=f4e182]
+          - link [ref=f4e193] [cursor=pointer]:
+            - /url: "#"
+            - img "Reels" [ref=f4e195]
+          - link [ref=f4e198] [cursor=pointer]:
+            - /url: "#"
+            - img "Marcados" [ref=f4e200]
+        - tabpanel
+      - generic [ref=f4e204]:
+        - generic [ref=f4e207]:
+          - generic [ref=f4e208]:
+            - link [ref=f4e210] [cursor=pointer]:
+              - /url: /_wtshopping/p/DQemnMWjokg/
+            - link "Clipe" [ref=f4e215] [cursor=pointer]:
+              - /url: /_wtshopping/reel/DE73fPDP5Wb/
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Clipe"
+            - link [ref=f4e220] [cursor=pointer]:
+              - /url: /_wtshopping/p/DL-3UbEPgYo/
+          - generic [ref=f4e224]:
+            - link "Clipe" [ref=f4e226] [cursor=pointer]:
+              - /url: /_wtshopping/reel/Df5bBWrqZYw/
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Clipe"
+            - link [ref=f4e231] [cursor=pointer]:
+              - /url: /_wtshopping/p/Df0RWu2icmE/
+            - link [ref=f4e236] [cursor=pointer]:
+              - /url: /_wtshopping/p/Dfsi-ZHjMtC/
+          - generic [ref=f4e240]:
+            - link [ref=f4e242] [cursor=pointer]:
+              - /url: /_wtshopping/p/DfiPy3zCHFT/
+            - link "Clipe" [ref=f4e247] [cursor=pointer]:
+              - /url: /_wtshopping/reel/DfVX5mNo7kG/
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Clipe"
+            - link [ref=f4e252] [cursor=pointer]:
+              - /url: /_wtshopping/p/DfIf2N_DrFf/
+          - generic [ref=f4e256]:
+            - link [ref=f4e258] [cursor=pointer]:
+              - /url: /_wtshopping/p/De-MqW8DHq0/
+            - link [ref=f4e263] [cursor=pointer]:
+              - /url: /_wtshopping/p/De2eTFuDJmA/
+            - link [ref=f4e268] [cursor=pointer]:
+              - /url: /_wtshopping/p/DesLG4MkfkE/
+        - button "Mostrar mais posts de _wtshopping" [ref=f4e272] [cursor=pointer]
+  - contentinfo [ref=f4e275]:
+    - generic [ref=f4e276]:
+      - generic [ref=f4e278]:
+        - link "Meta" [ref=f4e280] [cursor=pointer]:
+          - /url: https://about.meta.com/
+        - link "Sobre" [ref=f4e283] [cursor=pointer]:
+          - /url: https://about.instagram.com/
+        - link "Blog" [ref=f4e286] [cursor=pointer]:
+          - /url: https://about.instagram.com/blog/
+        - link "Carreiras" [ref=f4e289] [cursor=pointer]:
+          - /url: https://about.instagram.com/about-us/careers
+        - link "Ajuda" [ref=f4e292] [cursor=pointer]:
+          - /url: https://help.instagram.com/
+        - link "API" [ref=f4e295] [cursor=pointer]:
+          - /url: https://developers.facebook.com/docs/instagram
+        - link "Privacidade" [ref=f4e298] [cursor=pointer]:
+          - /url: /legal/privacy/
+        - link "Termos" [ref=f4e301] [cursor=pointer]:
+          - /url: /legal/terms/
+        - link "Localizações" [ref=f4e304] [cursor=pointer]:
+          - /url: /explore/locations/
+        - link "Popular" [ref=f4e307] [cursor=pointer]:
+          - /url: /popular/
+        - link "Instagram Lite" [ref=f4e310] [cursor=pointer]:
+          - /url: /web/lite/
+        - link "Meta AI" [ref=f4e313] [cursor=pointer]:
+          - /url: https://www.meta.ai/?utm_source=foa_web_footer
+        - link "Muse" [ref=f4e316] [cursor=pointer]:
+          - /url: https://muse.ai/
+        - link "Threads" [ref=f4e319] [cursor=pointer]:
+          - /url: https://www.threads.com/
+        - link "Upload de contatos e não usuários" [ref=f4e322] [cursor=pointer]:
+          - /url: https://www.facebook.com/help/instagram/261704639352628
+        - link "Meta Verified" [ref=f4e325] [cursor=pointer]:
+          - /url: /accounts/meta_verified/?entrypoint=web_footer
+      - generic [ref=f4e327]:
+        - generic [ref=f4e328] [cursor=pointer]:
+          - generic [ref=f4e329]:
+            - generic [ref=f4e330]: Português (Brasil)
+            - img "Ícone de seta para baixo" [ref=f4e333]
+          - combobox "Trocar idioma de exibição" [ref=f4e335]:
+            - option "Afrikaans"
+            - option "العربية"
+            - option "Čeština"
+            - option "Dansk"
+            - option "Deutsch"
+            - option "Ελληνικά"
+            - option "English"
+            - option "English (UK)"
+            - option "Español (España)"
+            - option "Español"
+            - option "فارسی"
+            - option "Suomi"
+            - option "Français"
+            - option "עברית"
+            - option "Bahasa Indonesia"
+            - option "Italiano"
+            - option "日本語"
+            - option "한국어"
+            - option "Bahasa Melayu"
+            - option "Norsk"
+            - option "Nederlands"
+            - option "Polski"
+            - option "Português (Brasil)" [selected]
+            - option "Português (Portugal)"
+            - option "Русский"
+            - option "Svenska"
+            - option "ภาษาไทย"
+            - option "Filipino"
+            - option "Türkçe"
+            - option "中文(简体)"
+            - option "中文(台灣)"
+            - option "বাংলা"
+            - option "ગુજરાતી"
+            - option "हिन्दी"
+            - option "Hrvatski"
+            - option "Magyar"
+            - option "ಕನ್ನಡ"
+            - option "മലയാളം"
+            - option "मराठी"
+            - option "नेपाली"
+            - option "ਪੰਜਾਬੀ"
+            - option "සිංහල"
+            - option "Slovenčina"
+            - option "தமிழ்"
+            - option "తెలుగు"
+            - option "اردو"
+            - option "Tiếng Việt"
+            - option "中文(香港)"
+            - option "Български"
+            - option "Français (Canada)"
+            - option "Română"
+            - option "Српски"
+            - option "Українська"
+        - generic [ref=f4e336]: © 2026 Instagram from Meta
