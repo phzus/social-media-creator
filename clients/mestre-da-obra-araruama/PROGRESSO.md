@@ -1,5 +1,9 @@
 # Progresso — Mestre da Obra Araruama
 
+## 2026-11-24 — Benchmark do Triunfo: resposta reapresentada a PH
+
+PH não tinha visto o resultado de 23/11. Confirmou que o benchmark é da Mestre (OQ #24 em parte). Acrescentado à [leitura](referencias/2026-11-23-triunfo-teste-de-coleta.md): Reels × arte e capas em pergunta. Sem coleta nova. Planejamento segue não iniciado, aguardando PH.
+
 ## 2026-11-23 (2) — Benchmark do Triunfo Lagos: ferramentas testadas, planejamento em debate
 
 PH pediu benchmark do @triunfolagos, adaptação ao nosso briefing e planejamento mensal em documento com prévia (imagem de protótipo) de cada peça. Combinado: debater, coletar, gerar. [Teste e primeira leitura](referencias/2026-11-23-triunfo-teste-de-coleta.md).

@@ -1,7 +1,7 @@
 # Triunfo Lagos (@triunfolagos): teste de coleta e primeira leitura
 
 **Data:** 2026-11-23, por volta de 16h40. **Uso:** interno da Lone, não vai pro cliente.
-**Pedido de PH (23/11):** benchmark do concorrente "que é muito bom em questão de social media", pra analisar, modelar e adaptar ao nosso cliente e ao briefing dele. Antes, saber se temos as ferramentas (perfil e anúncios ativos). Depois, planejamento mensal em documento **com a prévia de cada conteúdo, imagem de protótipo já criada**. Ordem: debater, coletar, gerar o planejamento. PH não citou o cliente: assumido Mestre da Obra, porque o Triunfo é concorrente direto dela (a confirmar).
+**Pedido de PH (23/11):** benchmark do concorrente "que é muito bom em questão de social media", pra analisar, modelar e adaptar ao nosso cliente e ao briefing dele. Antes, saber se temos as ferramentas (perfil e anúncios ativos). Depois, planejamento mensal em documento **com a prévia de cada conteúdo, imagem de protótipo já criada**. Ordem: debater, coletar, gerar o planejamento. Cliente: Mestre da Obra (assumido em 23/11, confirmado por PH em 24/11).
 
 Evidência: [grade](2026-11-23-triunfo-grade.png) · [aba Reels](2026-11-23-triunfo-aba-reels.png) · [carrossel da Black](2026-11-23-triunfo-black-carrossel.png) · [dados dos 12 posts](2026-11-23-triunfo-coleta.json)
 
@@ -28,6 +28,8 @@ Evidência: [grade](2026-11-23-triunfo-grade.png) · [aba Reels](2026-11-23-triu
 - **Fala do Reels de 10/10 (14 s, transcrita):** cliente procura o vendedor mostrando a foto dele no celular, pergunta se a pessoa o conhece, e é ele mesmo. Esquete curta, sem venda.
 - **Black lançada hoje:** 23/11 a 23/12, com preço. Martelos R$ 80 a diária, betoneira de R$ 550 por R$ 450 **mensal**, placa vibratória 90 kg de R$ 140 por R$ 90 a diária.
 - **Fim de semana (sexta → segunda, 1 diária):** o Triunfo também anuncia (13/04/2026 e fixado de 21/10/2025). Não é diferencial da Mestre. "Cobrimos orçamento" pode ser.
+- **Reels × arte (contagem de 24/11 sobre a coleta de 23/11, fora os 3 fixados):** de 29/10 a 23/11 saíram 9 posts. Os 3 Reels tiveram 35, 21 e 16 curtidas. As 6 artes e carrosséis tiveram de 2 a 7 (a da Black tinha horas no ar). Curtida não mede venda.
+- **5 das 9 capas abrem em pergunta** (pressão, piso rachando, fixar no concreto, sem tomada, qual máquina). É o gancho que a Ingrid não quer.
 - **Não copiar:** gancho em pergunta e preço (PADROES §8), template, frases e elenco deles.
 
 ## Achados na Mestre
