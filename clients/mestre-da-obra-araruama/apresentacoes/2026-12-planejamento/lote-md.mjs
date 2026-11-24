@@ -1,5 +1,5 @@
 import fs from 'fs'; import path from 'path'; import { fileURLToPath } from 'url'; import { PECAS } from './artes.mjs'; import { T,SEM,SLIDES,VIDEO } from './textos.mjs';
-const AQUI=path.dirname(fileURLToPath(import.meta.url)); const V=process.argv[2]||'v2 · composição e visual aprovados por PH (24/11) · **copy provisória, vai ser reescrita**';
+const AQUI=path.dirname(fileURLToPath(import.meta.url)); const V=process.argv[2]||'v2 · composição e visual aprovados por PH (24/11) · copy de PH (24/11, [original](../../referencias/2026-11-24-copies-dezembro-versao-ph.md)) aplicada com 3 ajustes; faltam slides e roteiros';
 let s=`# Lote de dezembro/2026 — 3 carrosséis, 4 vídeos e 5 artes
 
 **Cliente:** mestre-da-obra-araruama · **Formato:** 3:4 (1080×1440) e vídeo 9:16. O que vai pra anúncio é decisão da equipe · **Status:** ${V}
@@ -19,7 +19,7 @@ for(const p of PECAS){const t=T[p.n];s+=`---
 > **${[...p.h,p.a].join(' / ')}**
 ${p.dias?'> Faixa: SEX retira · SÁB usa · DOM usa · SEG devolve\n':''}${p.ap?`> ${p.ap}\n`:''}> **${p.cta||'(capa de vídeo)'}**${p.n==='11'||p.tipo!=='arte'?'':' · (22) 99768-8956'}
 ${p.nota?`> *${p.nota}*\n`:''}
-${SLIDES[p.n]?`**Slides (função, sem copy):**\n${SLIDES[p.n].map((x,i)=>`${i+1}. ${x}`).join('\n')}\n\n`:''}${VIDEO[p.n]?`**Vídeo (tema, roteiro à parte):** ${VIDEO[p.n]}\n\n`:''}**Legenda (provisória):**
+${SLIDES[p.n]?`**Slides (função, sem copy):**\n${SLIDES[p.n].map((x,i)=>`${i+1}. ${x}`).join('\n')}\n\n`:''}${VIDEO[p.n]?`**Vídeo (tema, roteiro à parte):** ${VIDEO[p.n]}\n\n`:''}**Legenda:**
 ${t.leg.split('\n').map(l=>'> '+l).join('\n')}
 >
 > ${t.tags}

@@ -4,6 +4,10 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-24 (6) — Mestre da Obra: copy de PH aplicada; guia de copywriting da Lone em teste
+
+[Guia v1.0](../shared/guia-copywriting-lone.md) guardado como veio de PH, **sem valer pros clientes**, com [notas do teste](../shared/guia-copywriting-lone-notas-de-teste.md). Copies de dezembro da Mestre aplicadas no documento; faltam slides e roteiros.
+
 ## 2026-11-24 (5) — Mestre da Obra: composição de dezembro fechada, documento v2 com fotos reais
 
 3 carrosséis, 4 vídeos da Ingrid (quarta sem vídeo não tem post) e 5 artes. Fotos da loja achadas no Drive de PH. Próximo passo: copy do PH e roteiros.

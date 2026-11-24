@@ -1,5 +1,11 @@
 # Progresso — Mestre da Obra Araruama
 
+## 2026-11-24 (6) — Copy de PH aplicada no documento (v3)
+
+[Copies de PH](referencias/2026-11-24-copies-dezembro-versao-ph.md), no formato de 12 artes da lista antiga. Encaixadas na composição v2: extratora em 14/12 (carrossel) e lavadora em 16/12 (vídeo). **Ajustes:** 05 "concorrente?" virou "concorrente," e 10 "recesso?" virou "recesso:" (PADROES §8, sem pergunta); 02, legenda com "equipamento participante" (OQ #25). O carrossel de 21/12 virou só martelete, seguindo a copy.
+- **Mantido com atenção:** 01 "mais espaço e segurança" (PADROES §3).
+- **Falta:** texto dos slides dos 3 carrosséis e 4 roteiros. Andaime é qua 02/12.
+
 ## 2026-11-24 (5) — Composição de dezembro fechada (v2) e 20 fotos da loja achadas no Drive
 
 - **PH aprovou:** 3 carrosséis (07, 14, 21/12), quarta só vídeo da Ingrid (pedir no mínimo 3, **sem vídeo não tem post**), sexta arte única. O documento não diz o que vai pra anúncio: o time decide, e a extratora provavelmente vai.

@@ -18,7 +18,7 @@ const IC={carrossel:'<svg viewBox="0 0 24 24"><rect x="3" y="7" width="13" heigh
 const art=(n,c='')=>`<div class="art ${c}" role="img" aria-label="Arte de ${P[n].d}: ${ol(P[n])}" style="background-image:var(--i${n})">${c==='g'?`<i>${IC[P[n].tipo]}</i>`:''}</div>`;
 const FT={arte:'Arte única',carrossel:'Carrossel, 5 slides',video:'Vídeo com a Ingrid'};
 const linhas=[1,2,3,4,5].map(s=>{const ps=PECAS.filter(p=>T[p.n].sem===s);const cel=d=>{const p=ps.find(p=>T[p.n].dia===d);return p?`<div class="cel">${art(p.n)}<div><b>${p.d}</b><span>${T[p.n].eq}</span></div></div>`:'<div class="cel vazio"></div>'};return `<div class="sem"><div class="semt"><b>${SEM[s][0]}</b><span>${SEM[s][1]}</span></div>${cel('seg')}${cel('qua')}${cel('sex')}</div>`}).join('');
-const cards=PECAS.map(p=>{const t=T[p.n];return `<article class="card">${art(p.n)}<div class="ct"><div class="cab"><b>${p.d}</b><span>${{seg:'segunda',qua:'quarta',sex:'sexta'}[t.dia]}</span><em>${FT[p.tipo]}</em></div><h3>${t.eq}</h3><p class="obj">${t.obj}</p><div class="leg">${SLIDES[p.n]?`<ol class="sl">${SLIDES[p.n].map(x=>`<li>${x}</li>`).join('')}</ol>`:VIDEO[p.n]?`<p>${VIDEO[p.n]}</p><p class="obj" style="margin:0">O roteiro vai à parte. Quarta sem vídeo gravado fica sem post.</p>`:t.leg.split('\n\n').map(x=>`<p>${x.replace(/\n/g,'<br>')}</p>`).join('')}</div></div></article>`}).join('');
+const cards=PECAS.map(p=>{const t=T[p.n];return `<article class="card">${art(p.n)}<div class="ct"><div class="cab"><b>${p.d}</b><span>${{seg:'segunda',qua:'quarta',sex:'sexta'}[t.dia]}</span><em>${FT[p.tipo]}</em></div><h3>${t.eq}</h3><p class="obj">${t.obj}</p><div class="leg ${SLIDES[p.n]||VIDEO[p.n]?'duas':''}">${SLIDES[p.n]||VIDEO[p.n]?`<div><b>${SLIDES[p.n]?'Slides':'Vídeo'}</b>${SLIDES[p.n]?`<ol class="sl">${SLIDES[p.n].map(x=>`<li>${x}</li>`).join('')}</ol>`:`<p>${VIDEO[p.n]}</p><p class="obj" style="margin:6px 0 0">Quarta sem vídeo gravado fica sem post.</p>`}</div><div><b>Legenda</b>${t.leg.split('\n\n').map(x=>`<p>${x.replace(/\n/g,'<br>')}</p>`).join('')}</div>`:`${t.leg.split('\n\n').map(x=>`<p>${x.replace(/\n/g,'<br>')}</p>`).join('')}`}</div></article>`}).join('');
 const html=`<title>Dezembro da Mestre da Obra</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <style>
@@ -50,7 +50,7 @@ h2{font-size:clamp(34px,4.6vw,52px);color:var(--azul);margin-bottom:10px}.sub{fo
 .card h3{font-size:21px;line-height:1.2;margin-bottom:4px}.obj{color:var(--cinza);margin-bottom:16px}.leg{border-top:1px solid var(--linha);padding-top:14px;display:grid;gap:9px;max-width:38em}
 .etapa .mini{display:grid;grid-template-columns:repeat(2,1fr);gap:8px;margin-top:14px;max-width:270px}.med{margin-top:30px;max-width:46em}
 .lista{display:grid;gap:14px;padding:0;margin:0;list-style:none;max-width:50em}.lista li{display:grid;grid-template-columns:26px 1fr;gap:12px}.lista li:before{content:"";width:20px;height:20px;border:2px solid var(--laranja);margin-top:3px}
-.sl{margin:0;padding-left:22px;display:grid;gap:5px}.nota{color:var(--cinza);font-size:14px;margin-top:22px}
+.duas{grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:26px;max-width:none}.duas>div{display:grid;gap:7px;align-content:start}.duas b{color:var(--azul)}.sl{margin:0;padding-left:22px;display:grid;gap:5px}.nota{color:var(--cinza);font-size:14px;margin-top:22px}
 @media(max-width:820px){.prev{grid-template-columns:1fr;gap:32px}.card{grid-template-columns:1fr;gap:16px}.card .art{max-width:360px}.sem{grid-template-columns:1fr}.sem.th{display:none}.cel.vazio{display:none}}
 @page{size:A4 landscape;margin:0}
 @media print{:root{padding:0!important}body{background:#fff;font-size:10.6pt}.in{max-width:none;padding:0 14mm!important}
@@ -58,7 +58,7 @@ h2{font-size:clamp(34px,4.6vw,52px);color:var(--azul);margin-bottom:10px}.sub{fo
  .capa .in{width:100%}h2{font-size:30pt;margin-bottom:2mm}.sub{font-size:12pt;margin-bottom:5mm}
  .prev{grid-template-columns:97mm 1fr;gap:18mm}.fone{box-shadow:none}.ig{padding:3mm 5mm 2.5mm;grid-template-columns:14mm 1fr}.av{width:14mm;height:14mm}.av img{width:16mm}.ig span{font-size:8.5pt}
  .regras{gap:3.4mm}.sem{grid-template-columns:1.25fr 1fr 1fr 1fr;padding-block:1.7mm}.tres{gap:8mm}.semt b{font-size:17pt}.cel{font-size:9.5pt}.sem .cel .art{width:15mm}.sem.th{display:grid}.cel{grid-template-columns:15mm 1fr}.cel.vazio{display:block}
- .pecas{overflow:visible;min-height:0;break-inside:auto;page-break-inside:auto;padding-block:12mm 0}.cards{display:block}.card{grid-template-columns:62mm 1fr;gap:9mm;height:88mm;break-inside:avoid;page-break-inside:avoid;margin:0 0 6mm}.card .art{height:82.6mm;width:62mm}.leg{gap:1.6mm;padding-top:2.4mm;max-width:none;font-size:11.6pt;line-height:1.42}.obj{margin-bottom:2.4mm}
+ .pecas{overflow:visible;min-height:0;break-inside:auto;page-break-inside:auto;padding-block:12mm 0}.cards{display:block}.card{grid-template-columns:62mm 1fr;gap:9mm;height:88mm;break-inside:avoid;page-break-inside:avoid;margin:0 0 6mm}.card .art{height:82.6mm;width:62mm}.leg.duas{grid-template-columns:78mm 1fr;gap:8mm;font-size:10.6pt}.leg{gap:1.6mm;padding-top:2.4mm;max-width:none;font-size:11.6pt;line-height:1.42}.obj{margin-bottom:2.4mm}
  .card:nth-child(2n){break-after:page;page-break-after:always;margin-bottom:0}.card:last-child{break-after:auto;page-break-after:auto}.card:nth-child(2n+1):not(:first-child){margin-top:12mm}.pecas .sub{margin-bottom:4mm}
  .pecas .head{display:none}.etapa .mini{max-width:62mm;gap:2.5mm}.med{margin-top:6mm}.lista{font-size:14pt;gap:5mm;max-width:none}.lista li{grid-template-columns:10mm 1fr}.nota{font-size:11pt}.regras b{font-size:15pt}.regras p{font-size:12pt}}
 </style>
@@ -73,7 +73,7 @@ h2{font-size:clamp(34px,4.6vw,52px);color:var(--azul);margin-bottom:10px}.sub{fo
 <div><b>Frase curta, com a última linha em laranja</b><p>Dá pra entender passando o dedo no celular. Sempre em afirmação.</p></div>
 <div><b>Mesmo lugar pra tudo</b><p>Logo em cima, equipamento no meio, botão e WhatsApp embaixo.</p></div>
 <div><b>O hexágono da marca</b><p>O desenho da logo vira a moldura do equipamento.</p></div></div>
-<p class="nota">As imagens são protótipos. Os textos ainda estão em revisão, e a capa de cada vídeo sai da gravação da Ingrid.</p></div></div></div></section>
+<p class="nota">As imagens são protótipos. Os textos dos slides e os roteiros vão à parte, e a capa de cada vídeo sai da gravação da Ingrid.</p></div></div></div></section>
 <section class="pecas"><div class="in"><div class="head"><h2>As 12 publicações</h2><p class="sub">Arte, objetivo e conteúdo de cada uma.</p></div><div class="cards">${cards}</div></div></section>
 <section><div class="in"><h2>O que precisamos de vocês</h2><p class="sub">Com isso, dezembro começa no dia 2.</p><ul class="lista">
 <li><span>Aprovação do padrão visual e dos textos.</span></li>
