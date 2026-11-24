@@ -26,3 +26,8 @@ Material: [auditoria do plugin de copy](2026-11-24-auditoria-plugin-planejamento
 **Limite do xixi no sofá:** o cheiro é tratado com produto enzimático ([PetScare](https://www.petscare.com/pt/news/post/rid-dog-pee-smell-guide)). Não prometer tirar cheiro nem mancha.
 **Limite de "sem pagar mão de obra":** serve pra máquina de casa. Na obra, o pedreiro é o público, e o argumento ofende quem aluga.
 **Já postado:** "Você sabia que dava pra alugar tudo isso?", lista genérica, 25/09 (312 views). A descoberta precisa entrar pela dor, uma por vez.
+
+## Depois da v3 (24/11)
+- **Peça 07 (lavadora, 16/12):** PH quer tirar "casa de praia". Direção dele: "Tire as sujeiras e limo da sua casa com uma lavadora de alta pressão". ⬜ não aplicado.
+- **Apoios:** PH sentiu falta dos apoios da copy dele em algumas artes. Faltam em 01, 04, 07 e 10, porque viraram capa de vídeo. ⬜ não aplicado. A 02 não tem apoio na copy dele.
+- **Dúvida de PH:** o foco é construtora ou consumidor final? Contagem na copy v3: consumidor final 7 (01, 02, 06, 07, 08, 09, 10), profissional 2 (04, 12), os dois 2 (03, 05), Natal 1. Não sabemos qual perfil fatura mais (OQ #7). Proposta: 5 profissional (01, 03, 04, 05, 12), 5 consumidor (02, 06, 07, 08, 09), 10 pros dois, mexendo só nas legendas de 01 e 10. 🟡 aguarda PH.
