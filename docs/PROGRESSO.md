@@ -4,6 +4,10 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-24 (7) — Mestre da Obra: planejamento v4
+
+Público equilibrado com foco no que mais sai, casa de praia fora, apoios nas capas de vídeo. Faltam slides e roteiros.
+
 ## 2026-11-24 (6) — Mestre da Obra: copy de PH aplicada; guia de copywriting da Lone em teste
 
 [Guia v1.0](../shared/guia-copywriting-lone.md) guardado como veio de PH, **sem valer pros clientes**, com [notas do teste](../shared/guia-copywriting-lone-notas-de-teste.md). Copies de dezembro da Mestre aplicadas no documento; faltam slides e roteiros.

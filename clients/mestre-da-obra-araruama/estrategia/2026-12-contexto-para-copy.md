@@ -4,7 +4,7 @@ Use o meu estilo de copy. O que está em INEGOCIÁVEL não muda. Ângulo, ritmo,
 
 # O NEGÓCIO
 
-- Mestre da Obra Araruama: aluguel de máquinas e equipamentos pra obra, reforma e limpeza. Unidade de franquia em Araruama, RJ (Região dos Lagos, cidade de praia e veraneio).
+- Mestre da Obra Araruama: aluguel de máquinas e equipamentos pra obra, reforma e limpeza. Unidade de franquia em Araruama, RJ (Região dos Lagos).
 - Slogan da rede: "Aluga que fica + fácil".
 - Rod. Amaral Peixoto, 156, perto da Fiat. WhatsApp (22) 99768-8956.
 - Seg a sex 7h30 às 17h, sáb 7h30 às 12h.
@@ -17,7 +17,9 @@ Use o meu estilo de copy. O que está em INEGOCIÁVEL não muda. Ângulo, ritmo,
 - Pedreiro e pequeno empreiteiro: equipe parada é dia perdido, não quer prender dinheiro em máquina.
 - Quem toca obra maior: quer resolver a lista num lugar só.
 - Morador em reforma: vai usar uma vez, só tem o fim de semana ou as férias.
-- Dono de casa de praia: casa fechada o ano todo, visita chegando no verão.
+- Dono de casa: faxina pesada, sofá, quintal e visita chegando. Vale pra qualquer casa, sem tema de casa de praia.
+
+Equilíbrio do mês: profissional no andaime, sapinho, betoneira, cobrimos orçamento e lista da obra (o que mais sai). Dono de casa no fim de semana, extratora, lavadora, faxina e martelete. Cortadora e placa falam com os dois.
 
 # AS DUAS OFERTAS REAIS
 
@@ -92,7 +94,7 @@ Vídeo: 25 a 45 segundos, 5 ou 6 cenas, cada uma com CENA (o que acontece, curto
 SEXTA, ARTE ÚNICA
 02 · 04/12 · Fim de semana por uma diária. Quem só tem sábado e domingo pra obra. A arte tem a faixa SEX retira, SÁB usa, DOM usa, SEG devolve, e não leva apoio. Aviso: Consulte os equipamentos participantes. Atual: SEXTA, SÁBADO / E DOMINGO / POR UMA DIÁRIA.
 05 · 11/12 · Cobrimos orçamento. Quem já pediu preço em outra locadora. CTA: mandar o orçamento que já tem. Aviso: Válido pra orçamento real de concorrente local. Consulte as condições. Atual: TRAGA O ORÇAMENTO / DO CONCORRENTE. / A GENTE COBRE.
-08 · 18/12 · Faxina da casa de praia no fim de semana (lavadora, enceradeira e extratora como opções, sem sugerir combo). Última sexta antes do Natal: retira 18/12, devolve seg 21/12, uma diária. Aviso: Consulte os equipamentos participantes. Atual: A FAXINA DA CASA / DE PRAIA CABE NO / FIM DE SEMANA.
+08 · 18/12 · Faxina de Natal no fim de semana (lavadora, enceradeira e extratora como opções, sem sugerir combo). Última sexta antes do Natal: retira 18/12, devolve seg 21/12, uma diária. Aviso: Consulte os equipamentos participantes. Copy de PH aplicada: FAXINA PRO NATAL / NO FIM DE SEMANA / POR UMA DIÁRIA.
 11 · 25/12 · Natal, sem venda e sem CTA. Foto do pátio com as betoneiras paradas. Atual: HOJE A OBRA PARA / E A CASA ENCHE.
 
 SEGUNDA, ARTE ÚNICA
@@ -106,7 +108,7 @@ SEGUNDA, CARROSSEL DE 5 SLIDES
 QUARTA, ROTEIRO DE VÍDEO DA DONA
 01 · 02/12 · Andaime pra pintar a parte alta da fachada: painel, piso, escada e guarda-corpo. Não comparar com escada. Atual: A TINTA SÓ / CHEGA ONDE / O ANDAIME CHEGA.
 04 · 09/12 · Betoneira de 400 litros na frente da loja: o que ela tira das costas da equipe. Atual: MASSA NA ENXADA / CANSA A EQUIPE / ANTES DO ALMOÇO.
-07 · 16/12 · Lavadora pra quem vai abrir a casa de praia: limo no piso, no muro e na calçada. Sem prometer remoção total. Atual: LIMO DE CASA / FECHADA PEDE / ALTA PRESSÃO.
+07 · 16/12 · Lavadora pra qualquer casa: sujeira e limo no piso, no muro e na calçada. Sem prometer remoção total. Atual: LIMO DE CASA / FECHADA PEDE / ALTA PRESSÃO.
 10 · 23/12 · Cortadora de piso e placa vibratória: reservar antes do feriado pra obra do recesso. Sem falar horário. Atual: RESERVE A MÁQUINA / ANTES DO FERIADO / DE NATAL.
 
 # ANTES DE ESCREVER CADA PEÇA

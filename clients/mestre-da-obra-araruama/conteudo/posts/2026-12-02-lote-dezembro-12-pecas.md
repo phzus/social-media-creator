@@ -9,19 +9,20 @@
 
 ## 02/12 (qua) · Andaime · Vídeo
 
-**Semana:** Fachada pronta pras festas · **Objetivo:** Quem vai pintar a fachada antes das festas pede o orçamento do andaime.
+**Semana:** Fachada pronta pras festas · **Objetivo:** Pintor e empreiteiro com fachada pra pintar pedem o orçamento do andaime.
 **Formato:** vídeo da Ingrid · **Foto final:** Andaime montado na frente da loja
 
 **Arte:**
 > **PINTE A FACHADA / COM MAIS ESPAÇO / E SEGURANÇA**
+> Alugue andaimes com painel, piso, escada e guarda-corpo.
 > **(capa de vídeo)**
 
-**Vídeo (tema, roteiro à parte):** A Ingrid mostra o andaime e as peças que vão junto, pra quem vai pintar a parte alta da fachada.
+**Vídeo (tema, roteiro à parte):** A Ingrid mostra o andaime e as peças que vão junto, pra equipe que vai pintar a parte alta da fachada.
 
 **Legenda:**
-> Se você pretende renovar a pintura da casa antes das festas de fim de ano, o andaime pode facilitar bastante esse serviço.
+> Se a sua equipe tem fachada pra pintar antes das festas de fim de ano, o andaime pode facilitar bastante esse serviço.
 > 
-> Com ele, você tem mais espaço pra trabalhar, acomodar os materiais e alcançar as partes mais altas da fachada.
+> Com ele, vocês têm mais espaço pra trabalhar, acomodar os materiais e alcançar as partes mais altas, sem precisar comprar a estrutura.
 > 
 > Peça seu orçamento de locação pelo WhatsApp da Mestre da Obra Araruama!
 > 
@@ -95,6 +96,7 @@
 
 **Arte:**
 > **DEIXE A BETONEIRA / MISTURAR A MASSA / POR VOCÊ**
+> Alugue uma betoneira de 400 litros e reduza o trabalho manual.
 > **(capa de vídeo)**
 
 **Vídeo (tema, roteiro à parte):** A Ingrid na frente da loja com a betoneira de 400 litros: o que ela faz pela equipe e como alugar.
@@ -140,7 +142,7 @@
 
 ## 14/12 (seg) · Extratora de estofado · Descoberta
 
-**Semana:** Casa de praia limpa · **Objetivo:** Quem tem mancha, xixi de cachorro ou visita chegando descobre que dá pra alugar a extratora e limpar em casa.
+**Semana:** Casa limpa pro Natal · **Objetivo:** Quem tem mancha, xixi de cachorro ou visita chegando descobre que dá pra alugar a extratora e limpar em casa.
 **Formato:** carrossel, 5 slides · **Foto final:** Extratora da loja
 
 **Arte:**
@@ -167,23 +169,24 @@
 > 📍 Rod. Amaral Peixoto, 156, perto da Fiat, Araruama
 > 📲 (22) 99768-8956
 >
-> #MestreDaObra #Extratora #LimpezaDeEstofados #CasaDePraia #Araruama #Verão
+> #MestreDaObra #Extratora #LimpezaDeEstofados #Araruama #Verão
 
 ---
 
 ## 16/12 (qua) · Lavadora de alta pressão · Vídeo
 
-**Semana:** Casa de praia limpa · **Objetivo:** Dono de casa de praia aluga a lavadora antes de receber gente.
+**Semana:** Casa limpa pro Natal · **Objetivo:** Quem quer tirar sujeira e limo do quintal, do muro e da calçada aluga a lavadora.
 **Formato:** vídeo da Ingrid · **Foto final:** Lavadora da loja (de preferência lavando um piso)
 
 **Arte:**
-> **TIRE O LIMO / DA CASA DE PRAIA / COM ALTA PRESSÃO**
+> **TIRE A SUJEIRA E / O LIMO DA CASA / COM ALTA PRESSÃO**
+> Alugue uma lavadora pra limpar pisos, muros e calçadas.
 > **(capa de vídeo)**
 
-**Vídeo (tema, roteiro à parte):** A Ingrid mostra a lavadora pra quem vai abrir a casa de praia: piso, muro e calçada.
+**Vídeo (tema, roteiro à parte):** A Ingrid mostra a lavadora limpando o que junta sujeira e limo em qualquer casa: piso, muro e calçada.
 
 **Legenda:**
-> Depois de meses com a casa de praia fechada, é comum encontrar limo no quintal, nos muros e na calçada.
+> Com o tempo, o quintal, os muros e a calçada da casa vão juntando sujeira e limo.
 > 
 > Com uma lavadora de alta pressão, você usa a força do jato de água pra remover a sujeira acumulada e facilitar a faxina antes da chegada das visitas.
 > 
@@ -192,13 +195,13 @@
 > 📍 Rod. Amaral Peixoto, 156, perto da Fiat, Araruama
 > 📲 (22) 99768-8956
 >
-> #MestreDaObra #LavadoraDeAltaPressão #CasaDePraia #Araruama #Limpeza #Verão
+> #MestreDaObra #LavadoraDeAltaPressão #Araruama #Limpeza #Verão
 
 ---
 
 ## 18/12 (sex) · Fim de semana + limpeza · Oferta
 
-**Semana:** Casa de praia limpa · **Objetivo:** Última sexta antes do Natal: reserva pro fim de semana da faxina.
+**Semana:** Casa limpa pro Natal · **Objetivo:** Última sexta antes do Natal: reserva pro fim de semana da faxina.
 **Formato:** arte única · **Foto final:** Enceradeira e lavadora da loja
 
 **Arte:**
@@ -219,7 +222,7 @@
 > 📍 Rod. Amaral Peixoto, 156, perto da Fiat, Araruama
 > 📲 (22) 99768-8956
 >
-> #MestreDaObra #FimDeSemana #Limpeza #CasaDePraia #Araruama #Natal
+> #MestreDaObra #FimDeSemana #Limpeza #Araruama #Natal
 
 ---
 
@@ -256,17 +259,18 @@
 
 ## 23/12 (qua) · Cortadora e placa vibratória · Vídeo
 
-**Semana:** Reforma das férias · **Objetivo:** Quem vai usar o recesso reserva antes do feriado.
+**Semana:** Reforma das férias · **Objetivo:** Pedreiro e morador com obra no recesso reservam antes do feriado.
 **Formato:** vídeo da Ingrid · **Foto final:** Cortadora (temos no vídeo de 18/11) e placa vibratória
 
 **Arte:**
 > **OBRA NO RECESSO: / RESERVE A MÁQUINA / ANTES DO NATAL**
+> Aluguel de cortadora de piso e placa vibratória.
 > **(capa de vídeo)**
 
 **Vídeo (tema, roteiro à parte):** A Ingrid mostra a cortadora e a placa vibratória e chama pra reservar antes do feriado.
 
 **Legenda:**
-> Se você vai aproveitar o recesso pra fazer aquela obra em casa, organize a locação dos equipamentos antes do feriado.
+> Se a sua obra vai andar no recesso, organize a locação dos equipamentos antes do feriado.
 > 
 > Aqui você encontra cortadora de piso pra facilitar os cortes e placa vibratória pra compactar o solo e preparar a base do piso ou da calçada.
 > 

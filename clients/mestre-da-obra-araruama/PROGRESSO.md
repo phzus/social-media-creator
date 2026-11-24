@@ -1,5 +1,9 @@
 # Progresso — Mestre da Obra Araruama
 
+## 2026-11-24 (7) — Planejamento v4: público equilibrado, sem casa de praia, apoios de volta
+
+PH pediu equilíbrio com foco no que mais sai e "qualquer casa" no planejamento inteiro. Aplicado: 07 "TIRE A SUJEIRA E / O LIMO DA CASA / COM ALTA PRESSÃO", tema da semana 3 "Casa limpa pro Natal", apoios nas 4 capas de vídeo, legendas de 01 e 10 pro profissional (01 ganhou "sem precisar comprar a estrutura"). Faltam slides e roteiros.
+
 ## 2026-11-24 (6) — Copy de PH aplicada no documento (v3)
 
 [Copies de PH](referencias/2026-11-24-copies-dezembro-versao-ph.md), no formato de 12 artes da lista antiga. Encaixadas na composição v2: extratora em 14/12 (carrossel) e lavadora em 16/12 (vídeo). **Ajustes:** 05 "concorrente?" virou "concorrente," e 10 "recesso?" virou "recesso:" (PADROES §8, sem pergunta); 02, legenda com "equipamento participante" (OQ #25). O carrossel de 21/12 virou só martelete, seguindo a copy.
