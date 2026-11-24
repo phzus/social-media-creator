@@ -1,5 +1,13 @@
 # Progresso — Mestre da Obra Araruama
 
+## 2026-11-24 (2) — Planejamento de dezembro: 12 artes de conversão, prévia do feed e documento do cliente (v1)
+
+PH: foco em conversão, sem vídeo por views ou humor; adaptar o Triunfo; funil em dezembro; posts que também são criativos Meta Ads; documento pro cliente com prévia do feed e identidade definida, com foto real.
+- [Estratégia](estrategia/2026-12.md) (interna) · [lote de 12 peças](conteudo/posts/2026-12-02-lote-dezembro-12-pecas.md), v1.1 validada · [PDF do cliente](apresentacoes/2026-11-24-planejamento-dezembro.pdf) (11 páginas) · [prévia do feed](apresentacoes/2026-12-planejamento/artes/feed.jpg).
+- **Fotos reais achadas:** 22 equipamentos recortados e logo em vetor no [catálogo oficial da unidade](https://catalogo.mestredaobralocacoes.com.br/araruama/), salvos em [identidade/](identidade/). Pátio e betoneira vêm do vídeo de 18/11.
+- **Validador:** 15 apontamentos, quase todos aplicados. Mantida "cansa a equipe antes do almoço" (cena, não dado) e o CTA repetido "Peça o orçamento" (identidade e medição).
+- **Nada enviado ao cliente.** Aguarda PH.
+
 ## 2026-11-24 — Benchmark do Triunfo: resposta reapresentada a PH
 
 PH não tinha visto o resultado de 23/11. Confirmou que o benchmark é da Mestre (OQ #24 em parte). Acrescentado à [leitura](referencias/2026-11-23-triunfo-teste-de-coleta.md): Reels × arte e capas em pergunta. Sem coleta nova. Planejamento segue não iniciado, aguardando PH.

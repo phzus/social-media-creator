@@ -49,7 +49,14 @@ Direta, prática e próxima, de especialista local. Começa pela situação da o
 - **Google Perfil da Empresa é canal prioritário:** é onde a demanda local aparece e onde a concorrência já compra anúncio.
 - Grade padrão da Lone: seg post, qua Reels, sex venda. O documento recebido propõe 6 dias + stories diários, sem validação.
 
+## Foco (PH, 24/11)
+
+Conversão: pedido de orçamento no WhatsApp por equipamento. Vídeo por views ou humor não é o caminho, porque não dá pra gravar toda hora e view não é venda. Todo post de feed nasce pronto pra virar criativo Meta Ads.
+
 ## Visual
+
+**Sistema proposto (24/11, aguarda aprovação):** fundo claro e azul alternados post a post (xadrez no grid), logo no topo à esquerda, headline condensada em caixa alta com a última linha em laranja, máquina real sobre o hexágono da marca, CTA com seta e WhatsApp embaixo. Azul #284093, laranja #FAA227. Arquivos em [identidade/](identidade/). Não usar preto com verde: é a cara do Triunfo.
+
 
 Azul e amarelo da franquia, como moldura. Foto ou vídeo real da loja como protagonista, pessoa da loja sempre que possível. Personagem 3D só como apoio. Antes de brief, seguir o [checklist visual](../../shared/visual-reference-checklist.md).
 

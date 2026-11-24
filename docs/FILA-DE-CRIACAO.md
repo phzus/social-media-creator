@@ -28,7 +28,8 @@
 | BodySkin | Post de avaliações tipo o da CIIL | PH, 18/11 | ✍️ | Arte com os prints, [copy](../clients/bodyskin-araruama/conteudo/posts/2026-11-23-avaliacoes-de-clientes.md) |
 | CIIL | Uma arte por convênio novo (Marinha) + trocar o carrossel | [reunião 15/10](../clients/ciil/reuniao-mensal/resumos/2026-10-15-resumo-reuniao.md) | ✍️ | Arte da [Marinha](../clients/ciil/conteudo/posts/2026-11-23-novo-convenio-marinha-do-brasil.md) e slide novo no carrossel de 18/09 |
 | Mestre da Obra | **Erro no ar:** "Aruaruama/RJ" nos fixados de localização e horário (achado da Lone, 23/11) | [coleta](../clients/mestre-da-obra-araruama/referencias/2026-11-23-triunfo-teste-de-coleta.md) | ⬜ | Corrigir a arte e trocar os 2 fixados |
-| Mestre da Obra | Vídeo sem gancho em pergunta | [reunião 06/11](../clients/mestre-da-obra-araruama/reuniao-mensal/resumos/2026-11-06-resumo-reuniao.md) | ⬜ | Refazer os [3 roteiros de 13/11](../clients/mestre-da-obra-araruama/conteudo/roteiros/2026-11-13-roteiros-mestre-da-obra.md) em afirmação |
+| Mestre da Obra | Planejamento de dezembro com prévia (PH, 24/11) | [documento](../clients/mestre-da-obra-araruama/apresentacoes/2026-11-24-planejamento-dezembro.pdf) | ✍️ v1 | PH revisar e mandar pro cliente. 1ª peça em qua 02/12, 🔒 foto do andaime montado |
+| Mestre da Obra | Vídeo sem gancho em pergunta | [reunião 06/11](../clients/mestre-da-obra-araruama/reuniao-mensal/resumos/2026-11-06-resumo-reuniao.md) | 🔒 PH (24/11: vídeo não é o foco) | Refazer os [3 roteiros de 13/11](../clients/mestre-da-obra-araruama/conteudo/roteiros/2026-11-13-roteiros-mestre-da-obra.md) em afirmação |
 | Maicom | Feirão "esquece o mundo" | [áudio 16/11](../clients/maicom-minerais-unamar/referencias/2026-11-16-audio-feirao-28-11.md) | parcial | Motion v2 (qua 25) e v3 (sex 27). Corrigir a arte sem o aviso +18 e o vídeo com "Maicon" |
 | Celmapel | Encarte por semana | [plano](../clients/celmapel-festas/estrategia/2026-11-a-12-bimestral.md), reunião 02/10 | ✍️ | Só a de 27/11 tem copy. 🔒 preços do Max até qua 25, 12h |
 | Celmapel | Reels de qua 25 (Taísa) | plano | ⬜ | **Não tem roteiro.** 🔒 produto e preço |
@@ -103,7 +104,7 @@
 | WT | Tapete gelado 74,95 · Tutelo 30% · piscina (3 combos) | ✍️ |
 | Dijana | Telha 2,44×0,50 a 24,90 · coluna 1/4 a 45,00 | ✍️ seg 23 e sex 27 |
 | Dijana | Telha 2,44×1,10 a 59,00 · tubo 25 mm a 18,90 · tubo 100 mm a 79,90 · Colonial PVC a 98,90 | 🎨 só no cartaz, ⬜ unitária |
-| Mestre da Obra | **Fim de semana: retira sexta, devolve segunda, paga 1 diária** (sem preço) | ⬜ a única oferta real da conta |
+| Mestre da Obra | **Fim de semana: retira sexta, devolve segunda, paga 1 diária** (sem preço) | ✍️ [04/12 e 18/12](../clients/mestre-da-obra-araruama/conteudo/posts/2026-12-02-lote-dezembro-12-pecas.md), protótipo pronto |
 | CRB | Brita 1, m³ a 179,99 à vista | 🎨 arte de 23/11 na Downloads |
 | MR | Tico-tico Sigma 500 W, 206,40 à vista · 229,42 em até 6x | 🎨 arte de 23/11 na Downloads |
 | CRB | Bloco da parede de 10 m², a partir de 393,75 | ✍️ 🔒 preço até qua 25 |

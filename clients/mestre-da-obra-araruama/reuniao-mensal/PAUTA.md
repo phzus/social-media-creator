@@ -33,6 +33,8 @@
 - Não apresentar o benchmark como está. Tem números que não batem, e o [resumo da conferência](../referencias/2026-11-05-conferencia-benchmark-e-metricas.md) diz quais.
 - Perfil sem post desde 29/10. A produção até aqui é de outra agência: falar do que fazer daqui pra frente, sem criticar o trabalho anterior na frente do cliente.
 
+- **Planejamento de dezembro com prévia do feed** ([PDF](../apresentacoes/2026-11-24-planejamento-dezembro.pdf)): levar pra aprovação. As 7 perguntas pro cliente estão na última página.
+
 ## 4. 📋 Falta fazer do nosso lado
 
 - [x] ~~Quem produziu o perfil desde setembro:~~ outra agência (PH, 05/11).

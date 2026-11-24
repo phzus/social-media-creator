@@ -27,4 +27,8 @@ Log completo. As prioritárias estão na [PAUTA](reuniao-mensal/PAUTA.md). O doc
 | 21 | Post de 16/11 (dia da laje): "sai revisada" e "orientação de uso na retirada" são a rotina da loja (sem isso, a arte usa o fallback)? Tem foto da betoneira na frente da loja? A locação de fim de semana vale pra betoneira (saiu da peça, serve pra uma peça própria)? | 2026-11-16 | 🟡 aberta, perguntar no grupo do marketing |
 | 22 | A loja também **vende** equipamento? A fachada diz "Locação e venda de equipamentos para construção civil" e a legenda do Reels de 18/11 repete. O que vende e pode divulgar? | 2026-11-23 | 🟡 aberta |
 | 23 | A loja cobre os preços que o Triunfo publicou na Black (23/11 a 23/12: martelo 80 a diária, betoneira 450 **mensal**, placa 90 kg 90 a diária)? Vira promessa se a peça apoiar no "cobrimos orçamento" durante a Black deles | 2026-11-23 | 🔴 aberta |
-| 24 | **(Interna, Lone)** O planejamento com prévia é de dezembro? Quem vê a versão final, cliente ou interno? **24/11:** PH confirmou que é da Mestre | 2026-11-23 | 🟡 aguardando PH |
+| 24 | ~~O planejamento com prévia é da Mestre, de dezembro, e quem vê?~~ ✅ Mestre, dezembro, vai pro cliente também (PH, 24/11) | 2026-11-23 | ✅ fechada |
+| 25 | Quais equipamentos entram na locação de sexta a segunda? | 2026-11-24 | 🟡 no documento do cliente |
+| 26 | Horário de 24/12 a 02/01 | 2026-11-24 | 🟡 no documento do cliente |
+| 27 | Verba e raio dos anúncios de dezembro. **(Interna)** tráfego está no plano contratado? | 2026-11-24 | 🔴 PH + cliente |
+| 28 | Fotos: andaime montado (trava a arte de 02/12), sapinho, lavadora, extratora, 4 marteletes | 2026-11-24 | 🔴 no documento do cliente |

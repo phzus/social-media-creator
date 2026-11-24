@@ -54,7 +54,17 @@ Já foram ao ar: escada × andaime (29/10), lixar na mão (09/10, 23/10), alisad
 - **Vídeo bom pra ela:** máquina funcionando na frente da loja, rápido, como funciona e o que precisa (ref.: compactador).
 - **Quem grava é o cliente** (marido grava a Ingrid). Roteiro leva o box "Como gravar".
 
+## 9. Regras de dezembro/2026 (PH, 24/11)
+
+- Conversão em toda peça. Sem post de alcance puro, sem Reels por views ou humor.
+- Um equipamento ou uma oferta por arte. Arte única, com recorte 4:5 e 9:16 pra anúncio: nada de "hoje" na legenda de peça que vira anúncio.
+- Verbo no imperativo de "você" (mande, traga, reserve, peça).
+- Não usar o ângulo do piso rachado nem frase do Triunfo.
+- "Cobrimos orçamento" não vira anúncio pago antes da resposta da OQ #23.
+
 ## Histórico
+
+- **2026-11-24 v1.2:** §9.
 
 - **2026-11-13 v1.1:** §8 com as decisões da reunião de 06/11.
 - **2026-11-05 v1.0:** criado a partir da conferência do benchmark.
