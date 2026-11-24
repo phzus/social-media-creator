@@ -4,6 +4,10 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-24 (5) — Mestre da Obra: composição de dezembro fechada, documento v2 com fotos reais
+
+3 carrosséis, 4 vídeos da Ingrid (quarta sem vídeo não tem post) e 5 artes. Fotos da loja achadas no Drive de PH. Próximo passo: copy do PH e roteiros.
+
 ## 2026-11-24 (4) — Mestre da Obra: feedback de PH sobre dezembro, em debate
 
 [Feedback e conferência da auditoria](../clients/mestre-da-obra-araruama/referencias/2026-11-24-feedback-ph-planejamento-dezembro.md). Próximo passo: PH fechar a nova composição do mês, depois copy.

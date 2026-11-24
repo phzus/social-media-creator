@@ -31,6 +31,7 @@ Log completo. As prioritárias estão na [PAUTA](reuniao-mensal/PAUTA.md). O doc
 | 25 | Quais equipamentos entram na locação de sexta a segunda? | 2026-11-24 | 🟡 no documento do cliente |
 | 26 | Horário de 24/12 a 02/01 | 2026-11-24 | 🟡 no documento do cliente |
 | 27 | Raio dos anúncios de dezembro. Verba: já obtida, e é pequena (PH, 24/11); valor não registrado | 2026-11-24 | 🟡 aberta em parte |
-| 28 | ~~Fotos pras artes~~ Já obtidas (PH, 24/11). **(Interna)** Em que pasta estão? Não achei na Downloads | 2026-11-24 | 🟡 PH |
-| 29 | **(Interna)** Quantos vídeos da Ingrid em dezembro, sobre o quê, e ocupam a quarta ou entram além das 12 peças? | 2026-11-24 | 🔴 PH |
-| 30 | **(Interna)** Qual foi o relato do cliente sobre Deep Clean citado na auditoria? | 2026-11-24 | 🟡 PH |
+| 28 | ~~Fotos pras artes~~ ✅ No Drive (MESTRE DA OBRA › Vídeos, 16/11). Faltam foto de sapinho, lavadora, extratora, enceradeira, martelete e andaime montado | 2026-11-24 | 🟡 fechada em parte |
+| 29 | ~~Vídeos da Ingrid~~ ✅ No mínimo 3, na quarta, quando ela puder; sem vídeo não tem post (PH, 24/11) | 2026-11-24 | ✅ fechada |
+| 30 | Deep Clean: relato é "limpar o chão, tipo passar pano, tirar poeira" (PH, sem certeza). Pra que serviço a loja aluga a enceradeira? | 2026-11-24 | 🟡 aberta em parte |
+| 31 | Máquina de pintura (Nauber D-3X) e guincho aparecem nas fotos e não estão no catálogo da unidade: estão pra alugar e podem ser divulgados? | 2026-11-24 | 🟡 no documento do cliente |

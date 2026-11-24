@@ -1,11 +1,11 @@
-import fs from 'fs'; import path from 'path'; import { fileURLToPath } from 'url'; import { PECAS } from './artes.mjs'; import { T,SEM } from './textos.mjs';
-const AQUI=path.dirname(fileURLToPath(import.meta.url)); const V=process.argv[2]||'v1.1 · **copy reprovada por PH em 24/11, em reescrita** · visual aprovado';
-let s=`# Lote de dezembro/2026 — 12 artes únicas (feed + criativo de anúncio)
+import fs from 'fs'; import path from 'path'; import { fileURLToPath } from 'url'; import { PECAS } from './artes.mjs'; import { T,SEM,SLIDES,VIDEO } from './textos.mjs';
+const AQUI=path.dirname(fileURLToPath(import.meta.url)); const V=process.argv[2]||'v2 · composição e visual aprovados por PH (24/11) · **copy provisória, vai ser reescrita**';
+let s=`# Lote de dezembro/2026 — 3 carrosséis, 4 vídeos e 5 artes
 
-**Cliente:** mestre-da-obra-araruama · **Formato:** estático 3:4 (1080×1440), recorte 4:5 e versão 9:16 pros anúncios · **Status:** ${V}
+**Cliente:** mestre-da-obra-araruama · **Formato:** 3:4 (1080×1440) e vídeo 9:16. O que vai pra anúncio é decisão da equipe · **Status:** ${V}
 **Estratégia:** [2026-12](../../estrategia/2026-12.md) · **Protótipos:** [feed](../../apresentacoes/2026-12-planejamento/artes/feed.jpg) · **Fonte dos textos:** \`apresentacoes/2026-12-planejamento/textos.mjs\` e \`artes.mjs\` (este arquivo é gerado por \`lote-md.mjs\`, editar lá)
 
-**Vale pra todas:** logo no topo à esquerda, headline em caixa alta com a última linha em laranja, máquina real em primeiro plano sobre o hexágono da marca, CTA com seta e WhatsApp no rodapé. Fundo claro e azul se alternam post a post (vira xadrez no grid). Sem pergunta, sem preço, sem personagem 3D, sem IA. Texto longe das bordas.
+**Vale pra todas:** logo no topo à esquerda, headline em caixa alta com a última linha em laranja, máquina real em primeiro plano sobre o hexágono da marca, CTA com seta e WhatsApp no rodapé. Segunda clara, quarta vídeo com foto real da loja, sexta azul. Quarta sem vídeo não tem post. Sem pergunta, sem preço, sem personagem 3D, sem IA. Texto longe das bordas.
 
 `;
 for(const p of PECAS){const t=T[p.n];s+=`---
@@ -13,13 +13,13 @@ for(const p of PECAS){const t=T[p.n];s+=`---
 ## ${p.d} (${t.dia}) · ${t.eq} · ${t.papel}
 
 **Semana:** ${SEM[t.sem][0]} · **Objetivo:** ${t.obj}
-**Anúncio:** ${t.ad?`sim, etapa "${t.ad}"${t.zap?` · mensagem pronta: "${t.zap}"`:''}`:'não'} · **Foto final:** ${t.foto}
+**Formato:** ${{arte:'arte única',carrossel:'carrossel, 5 slides',video:'vídeo da Ingrid'}[p.tipo]} · **Foto final:** ${t.foto}
 
 **Arte:**
 > **${[...p.h,p.a].join(' / ')}**
-${p.dias?'> Faixa: SEX retira · SÁB usa · DOM usa · SEG devolve\n':''}${p.ap?`> ${p.ap}\n`:''}> **${p.cta}**${p.n==='11'?'':' · (22) 99768-8956'}
+${p.dias?'> Faixa: SEX retira · SÁB usa · DOM usa · SEG devolve\n':''}${p.ap?`> ${p.ap}\n`:''}> **${p.cta||'(capa de vídeo)'}**${p.n==='11'||p.tipo!=='arte'?'':' · (22) 99768-8956'}
 ${p.nota?`> *${p.nota}*\n`:''}
-**Legenda:**
+${SLIDES[p.n]?`**Slides (função, sem copy):**\n${SLIDES[p.n].map((x,i)=>`${i+1}. ${x}`).join('\n')}\n\n`:''}${VIDEO[p.n]?`**Vídeo (tema, roteiro à parte):** ${VIDEO[p.n]}\n\n`:''}**Legenda (provisória):**
 ${t.leg.split('\n').map(l=>'> '+l).join('\n')}
 >
 > ${t.tags}

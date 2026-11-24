@@ -1,5 +1,14 @@
 # Progresso — Mestre da Obra Araruama
 
+## 2026-11-24 (5) — Composição de dezembro fechada (v2) e 20 fotos da loja achadas no Drive
+
+- **PH aprovou:** 3 carrosséis (07, 14, 21/12), quarta só vídeo da Ingrid (pedir no mínimo 3, **sem vídeo não tem post**), sexta arte única. O documento não diz o que vai pra anúncio: o time decide, e a extratora provavelmente vai.
+- Como quarta virou só vídeo, andaime (02/12) e cortadora/placa (23/12) deixaram de ser arte. 4 temas de vídeo propostos, roteiros ainda não escritos.
+- **Documento v2** (10 páginas): [PDF](apresentacoes/2026-11-24-planejamento-dezembro.pdf). Segunda clara, quarta foto real, sexta azul, o que forma 3 colunas no grid quando nenhuma quarta falha. Copy mantida e provisória (mudou só o botão "Arraste pro lado" das capas e o apoio de 21/12). [Contexto pro plugin](estrategia/2026-12-contexto-para-copy.md) atualizado.
+- **Fotos:** Drive, MESTRE DA OBRA › Vídeos, 16/11, 20 fotos e cerca de 40 vídeos. 16 salvas em [identidade/loja/fotos-16-11](identidade/loja/fotos-16-11/). Não há foto de sapinho, lavadora, extratora, enceradeira, martelete nem andaime montado; os vídeos não foram abertos.
+- **Fora do catálogo, vistos nas fotos:** máquina de pintura Nauber D-3X e guincho (OQ #31).
+- **Deep Clean:** "ele disse" que serve pra limpar o chão, tipo passar pano, tirar poeira. PH sem certeza. É enceradeira no catálogo: usar só "limpeza de piso" até confirmar.
+
 ## 2026-11-24 (4) — Auditoria do plugin e feedback de PH: debate antes da copy
 
 [Feedback e conferência](referencias/2026-11-24-feedback-ph-planejamento-dezembro.md). PH pede descoberta/educativo, uns 3 carrosséis, vídeos da Ingrid contados, poucos anúncios e o argumento "aluga a diária em vez de comprar ou contratar". Verba e fotos saíram do documento. Copy não mudou.

@@ -1,23 +1,24 @@
-# Lote de dezembro/2026 — 12 artes únicas (feed + criativo de anúncio)
+# Lote de dezembro/2026 — 3 carrosséis, 4 vídeos e 5 artes
 
-**Cliente:** mestre-da-obra-araruama · **Formato:** estático 3:4 (1080×1440), recorte 4:5 e versão 9:16 pros anúncios · **Status:** v1.1 · **copy reprovada por PH em 24/11, em reescrita** · visual aprovado
+**Cliente:** mestre-da-obra-araruama · **Formato:** 3:4 (1080×1440) e vídeo 9:16. O que vai pra anúncio é decisão da equipe · **Status:** v2 · composição e visual aprovados por PH (24/11) · **copy provisória, vai ser reescrita**
 **Estratégia:** [2026-12](../../estrategia/2026-12.md) · **Protótipos:** [feed](../../apresentacoes/2026-12-planejamento/artes/feed.jpg) · **Fonte dos textos:** `apresentacoes/2026-12-planejamento/textos.mjs` e `artes.mjs` (este arquivo é gerado por `lote-md.mjs`, editar lá)
 
-**Vale pra todas:** logo no topo à esquerda, headline em caixa alta com a última linha em laranja, máquina real em primeiro plano sobre o hexágono da marca, CTA com seta e WhatsApp no rodapé. Fundo claro e azul se alternam post a post (vira xadrez no grid). Sem pergunta, sem preço, sem personagem 3D, sem IA. Texto longe das bordas.
+**Vale pra todas:** logo no topo à esquerda, headline em caixa alta com a última linha em laranja, máquina real em primeiro plano sobre o hexágono da marca, CTA com seta e WhatsApp no rodapé. Segunda clara, quarta vídeo com foto real da loja, sexta azul. Quarta sem vídeo não tem post. Sem pergunta, sem preço, sem personagem 3D, sem IA. Texto longe das bordas.
 
 ---
 
-## 02/12 (qua) · Andaime · Máquina
+## 02/12 (qua) · Andaime · Vídeo
 
 **Semana:** Fachada pronta pras festas · **Objetivo:** Quem vai pintar a fachada antes das festas pede o orçamento do andaime.
-**Anúncio:** sim, etapa "mostrar" · mensagem pronta: "Oi! Quero orçamento de andaime." · **Foto final:** Andaime montado na frente da loja
+**Formato:** vídeo da Ingrid · **Foto final:** Andaime montado na frente da loja
 
 **Arte:**
 > **A TINTA SÓ / CHEGA ONDE / O ANDAIME CHEGA.**
-> Painel, piso, escada e guarda-corpo pra pintura de fachada.
-> **Peça o orçamento do andaime** · (22) 99768-8956
+> **(capa de vídeo)**
 
-**Legenda:**
+**Vídeo (tema, roteiro à parte):** A Ingrid mostra o andaime e as peças que vão junto, pra quem vai pintar a parte alta da fachada.
+
+**Legenda (provisória):**
 > A parte baixa da fachada sai rápido. A de cima fica sem tinta até alguém resolver como chegar lá.
 > 
 > Na Mestre da Obra Araruama você aluga o andaime com painel, piso, escada e guarda-corpo. Dá pra deixar a pintura pronta pras festas se a reserva sair agora.
@@ -34,7 +35,7 @@
 ## 04/12 (sex) · Locação de fim de semana · Oferta
 
 **Semana:** Fachada pronta pras festas · **Objetivo:** Quem só tem o fim de semana pra obra reserva a máquina na sexta.
-**Anúncio:** sim, etapa "fechar" · mensagem pronta: "Oi! Quero alugar no fim de semana." · **Foto final:** 3 máquinas reais da loja lado a lado
+**Formato:** arte única · **Foto final:** 3 máquinas reais da loja lado a lado
 
 **Arte:**
 > **SEXTA, SÁBADO / E DOMINGO / POR UMA DIÁRIA.**
@@ -42,7 +43,7 @@
 > **Reserve pro fim de semana** · (22) 99768-8956
 > *Consulte os equipamentos participantes.*
 
-**Legenda:**
+**Legenda (provisória):**
 > Quem trabalha a semana toda resolve a obra no sábado e no domingo. Na Mestre da Obra Araruama, o fim de semana inteiro sai por uma diária, com devolução na segunda.
 > 
 > Escreva no WhatsApp qual máquina você quer, veja se ela participa e deixe reservada.
@@ -54,17 +55,24 @@
 
 ---
 
-## 07/12 (seg) · Compactador (sapinho) · Situação
+## 07/12 (seg) · Compactador (sapinho) · Descoberta
 
 **Semana:** Concreto e base · **Objetivo:** Quem vai fazer piso ou calçada aluga o sapinho em vez de bater no soquete.
-**Anúncio:** sim, etapa "chamar" · mensagem pronta: "Oi! Quero orçamento do compactador." · **Foto final:** Sapinho na frente da loja
+**Formato:** carrossel, 5 slides · **Foto final:** Sapinho na frente da loja
 
 **Arte:**
 > **CHÃO BEM BATIDO / É SERVIÇO / DO SAPINHO.**
 > Compactador de solo pra base de piso, calçada e vala.
-> **Peça o orçamento do sapinho** · (22) 99768-8956
+> **Arraste pro lado**
 
-**Legenda:**
+**Slides (função, sem copy):**
+1. A cena: bater o chão no braço
+2. A máquina e o apelido: sapinho
+3. O que ela faz
+4. Onde usar: base de piso, calçada e vala
+5. Alugar em vez de comprar, com pedido de orçamento
+
+**Legenda (provisória):**
 > Antes do piso e da calçada vem o chão. Bater isso no soquete manual cansa a equipe, e o serviço principal ainda nem começou.
 > 
 > O sapinho é o compactador que muita obra usa na base de piso, calçada e vala. Alugue na Mestre da Obra Araruama: chame no WhatsApp e peça o orçamento do compactador.
@@ -76,17 +84,18 @@
 
 ---
 
-## 09/12 (qua) · Betoneira 400 L · Máquina
+## 09/12 (qua) · Betoneira 400 L · Vídeo
 
 **Semana:** Concreto e base · **Objetivo:** Quem ainda vira massa na enxada pede a betoneira.
-**Anúncio:** sim, etapa "mostrar" · mensagem pronta: "Oi! Quero orçamento de betoneira." · **Foto final:** Betoneira na frente da loja (temos no vídeo de 18/11)
+**Formato:** vídeo da Ingrid · **Foto final:** Betoneira na frente da loja (temos no vídeo de 18/11)
 
 **Arte:**
 > **MASSA NA ENXADA / CANSA A EQUIPE / ANTES DO ALMOÇO.**
-> Betoneira de 400 litros pra alugar em Araruama.
-> **Peça o orçamento da betoneira** · (22) 99768-8956
+> **(capa de vídeo)**
 
-**Legenda:**
+**Vídeo (tema, roteiro à parte):** A Ingrid na frente da loja com a betoneira de 400 litros: o que ela faz pela equipe e como alugar.
+
+**Legenda (provisória):**
 > Quem vira massa na enxada desde cedo chega no almoço cansado, e ainda falta a tarde inteira.
 > 
 > A betoneira de 400 litros fica com a parte pesada e a equipe segue no assentamento. Alugue pelo período da sua obra na Mestre da Obra Araruama e peça o orçamento da betoneira no WhatsApp.
@@ -101,7 +110,7 @@
 ## 11/12 (sex) · Cobrimos orçamento · Oferta
 
 **Semana:** Concreto e base · **Objetivo:** Quem está pesquisando preço manda o orçamento que já tem.
-**Anúncio:** sim, etapa "fechar" · mensagem pronta: "Oi! Tenho um orçamento pra vocês cobrirem." · **Foto final:** Betoneira, andaime e compactador da loja
+**Formato:** arte única · **Foto final:** Betoneira, andaime e compactador da loja
 
 **Arte:**
 > **TRAGA O ORÇAMENTO / DO CONCORRENTE. / A GENTE COBRE.**
@@ -109,7 +118,7 @@
 > **Mande o orçamento no WhatsApp** · (22) 99768-8956
 > *Válido pra orçamento real de concorrente local. Consulte as condições.*
 
-**Legenda:**
+**Legenda (provisória):**
 > Se você já pediu preço em outra locadora da região, segure um pouco antes de fechar.
 > 
 > Mande esse orçamento pro WhatsApp da Mestre da Obra Araruama que a gente cobre. Vale pra orçamento real de concorrente local, e as condições a gente passa na conversa.
@@ -121,39 +130,24 @@
 
 ---
 
-## 14/12 (seg) · Lavadora de alta pressão · Situação
+## 14/12 (seg) · Extratora de estofado · Descoberta
 
-**Semana:** Casa de praia limpa · **Objetivo:** Dono de casa de praia aluga a lavadora antes de receber gente.
-**Anúncio:** sim, etapa "chamar" · mensagem pronta: "Oi! Quero orçamento da lavadora de alta pressão." · **Foto final:** Lavadora da loja (de preferência lavando um piso)
-
-**Arte:**
-> **LIMO DE CASA / FECHADA PEDE / ALTA PRESSÃO.**
-> Lavadora pra piso, muro e calçada da casa de praia.
-> **Peça o orçamento da lavadora** · (22) 99768-8956
-
-**Legenda:**
-> Casa de praia que passou meses fechada acumula limo no piso, no muro e na calçada, e vassoura não dá conta de tudo.
-> 
-> Alugue a lavadora de alta pressão, limpe a parte de fora antes da família chegar e devolva. Peça o orçamento da lavadora no WhatsApp.
-> 
-> 📍 Rod. Amaral Peixoto, 156, perto da Fiat, Araruama
-> 📲 (22) 99768-8956
->
-> #MestreDaObra #LavadoraDeAltaPressão #CasaDePraia #Araruama #Limpeza #Verão
-
----
-
-## 16/12 (qua) · Extratora de estofado · Máquina
-
-**Semana:** Casa de praia limpa · **Objetivo:** Quem vai receber hóspede ou família aluga a extratora.
-**Anúncio:** sim, etapa "mostrar" · mensagem pronta: "Oi! Quero orçamento da extratora." · **Foto final:** Extratora da loja
+**Semana:** Casa de praia limpa · **Objetivo:** Quem tem mancha, xixi de cachorro ou visita chegando descobre que dá pra alugar a extratora e limpar em casa.
+**Formato:** carrossel, 5 slides · **Foto final:** Extratora da loja
 
 **Arte:**
 > **O SOFÁ AINDA TEM / A MANCHA DO / VERÃO PASSADO.**
 > Extratora pra sofá, poltrona e tapete.
-> **Peça o orçamento da extratora** · (22) 99768-8956
+> **Arraste pro lado**
 
-**Legenda:**
+**Slides (função, sem copy):**
+1. A cena: cachorro, criança, visita e o sofá manchado
+2. A máquina que pouca gente sabe que dá pra alugar
+3. Como funciona: lava e aspira a água com a sujeira
+4. Onde usar: sofá, poltrona e tapete
+5. Você paga a diária, limpa em casa e devolve, com pedido de orçamento
+
+**Legenda (provisória):**
 > Sofá de casa de praia passa o verão inteiro com gente de roupa molhada, copo na mão e criança em cima. Depois a casa fecha e a mancha fica lá até o ano seguinte.
 > 
 > Alugue a extratora em Araruama, sem precisar comprar, e limpe sofá, poltrona e tapete antes da casa encher de novo. Peça o orçamento no WhatsApp.
@@ -165,10 +159,33 @@
 
 ---
 
+## 16/12 (qua) · Lavadora de alta pressão · Vídeo
+
+**Semana:** Casa de praia limpa · **Objetivo:** Dono de casa de praia aluga a lavadora antes de receber gente.
+**Formato:** vídeo da Ingrid · **Foto final:** Lavadora da loja (de preferência lavando um piso)
+
+**Arte:**
+> **LIMO DE CASA / FECHADA PEDE / ALTA PRESSÃO.**
+> **(capa de vídeo)**
+
+**Vídeo (tema, roteiro à parte):** A Ingrid mostra a lavadora pra quem vai abrir a casa de praia: piso, muro e calçada.
+
+**Legenda (provisória):**
+> Casa de praia que passou meses fechada acumula limo no piso, no muro e na calçada, e vassoura não dá conta de tudo.
+> 
+> Alugue a lavadora de alta pressão, limpe a parte de fora antes da família chegar e devolva. Peça o orçamento da lavadora no WhatsApp.
+> 
+> 📍 Rod. Amaral Peixoto, 156, perto da Fiat, Araruama
+> 📲 (22) 99768-8956
+>
+> #MestreDaObra #LavadoraDeAltaPressão #CasaDePraia #Araruama #Limpeza #Verão
+
+---
+
 ## 18/12 (sex) · Fim de semana + limpeza · Oferta
 
 **Semana:** Casa de praia limpa · **Objetivo:** Última sexta antes do Natal: reserva pro fim de semana da faxina.
-**Anúncio:** sim, etapa "fechar" · mensagem pronta: "Oi! Quero reservar pro fim de semana do dia 18." · **Foto final:** Enceradeira e lavadora da loja
+**Formato:** arte única · **Foto final:** Enceradeira e lavadora da loja
 
 **Arte:**
 > **A FAXINA DA CASA / DE PRAIA CABE NO / FIM DE SEMANA.**
@@ -176,7 +193,7 @@
 > **Reserve a sua até sexta** · (22) 99768-8956
 > *Consulte os equipamentos participantes.*
 
-**Legenda:**
+**Legenda (provisória):**
 > Sexta, 18 de dezembro, é a última antes do Natal. Dá tempo de lavar a varanda, encerar o piso e limpar o sofá no sábado e no domingo, e devolver a máquina na segunda, dia 21, pagando uma diária.
 > 
 > A loja tem lavadora, enceradeira e extratora. Consulte no WhatsApp quais participam e reserve a sua.
@@ -188,17 +205,24 @@
 
 ---
 
-## 21/12 (seg) · Marteletes · Situação
+## 21/12 (seg) · Reforma das férias · Descoberta
 
-**Semana:** Reforma das férias · **Objetivo:** Quem vai reformar nas férias pede o martelete do tamanho certo.
-**Anúncio:** sim, etapa "chamar" · mensagem pronta: "Oi! Quero orçamento de martelete." · **Foto final:** Os 4 marteletes juntos na bancada
+**Semana:** Reforma das férias · **Objetivo:** Quem vai reformar nas férias descobre a máquina de cada parte pesada.
+**Formato:** carrossel, 5 slides · **Foto final:** Os 4 marteletes juntos na bancada
 
 **Arte:**
 > **NÃO GASTE / AS FÉRIAS / NA MARRETA.**
-> Quatro tamanhos de martelete, de 5,7 a 29,5 kg.
-> **Peça o orçamento do martelete** · (22) 99768-8956
+> Uma máquina pra cada parte pesada da reforma.
+> **Arraste pro lado**
 
-**Legenda:**
+**Slides (função, sem copy):**
+1. A cena: folga gasta na parte pesada
+2. Quebrar piso e parede: martelete
+3. Cortar piso: cortadora
+4. Lixar parede e teto: lixadeira
+5. Alugar só pros dias da reforma, com pedido de orçamento
+
+**Legenda (provisória):**
 > Muita gente guarda a reforma pras férias e acaba passando os dias de folga quebrando piso na marreta.
 > 
 > Na Mestre da Obra Araruama tem martelete de 5,7, 10, 18,3 e 29,5 kg. Diga no WhatsApp o que você vai quebrar e peça o orçamento.
@@ -210,18 +234,18 @@
 
 ---
 
-## 23/12 (qua) · Cortadora e placa vibratória · Oferta
+## 23/12 (qua) · Cortadora e placa vibratória · Vídeo
 
 **Semana:** Reforma das férias · **Objetivo:** Quem vai usar o recesso reserva antes do feriado.
-**Anúncio:** não · **Foto final:** Cortadora (temos no vídeo de 18/11) e placa vibratória
+**Formato:** vídeo da Ingrid · **Foto final:** Cortadora (temos no vídeo de 18/11) e placa vibratória
 
 **Arte:**
 > **RESERVE A MÁQUINA / ANTES DO FERIADO / DE NATAL.**
-> Cortadora de piso e placa vibratória pra obra do recesso.
-> **Reserve a sua máquina** · (22) 99768-8956
-> *Consulte o horário de fim de ano.*
+> **(capa de vídeo)**
 
-**Legenda:**
+**Vídeo (tema, roteiro à parte):** A Ingrid mostra a cortadora e a placa vibratória e chama pra reservar antes do feriado.
+
+**Legenda (provisória):**
 > Se a sua obra anda no recesso, a máquina precisa estar com você antes do feriado.
 > 
 > Tem cortadora de piso, placa vibratória e o resto do catálogo. Diga no WhatsApp o que você vai fazer, consulte o horário de fim de ano e reserve a sua.
@@ -236,13 +260,13 @@
 ## 25/12 (sex) · Mensagem de Natal · Marca
 
 **Semana:** Reforma das férias · **Objetivo:** Presença da marca, sem venda.
-**Anúncio:** não · **Foto final:** Pátio da loja (do vídeo de 18/11)
+**Formato:** arte única · **Foto final:** Pátio da loja (do vídeo de 18/11)
 
 **Arte:**
 > **HOJE A OBRA PARA / E A CASA ENCHE.**
 > **Feliz Natal da Mestre da Obra Araruama!**
 
-**Legenda:**
+**Legenda (provisória):**
 > Hoje a obra para e quem constrói Araruama senta à mesa com a família.
 > 
 > Obrigado a cada pedreiro, mestre, engenheiro e morador que passou pela loja este ano. Feliz Natal!
@@ -254,14 +278,14 @@
 ## 28/12 (seg) · Lista da obra de janeiro · Oferta
 
 **Semana:** Virada do ano · **Objetivo:** Empreiteiro e construtora mandam a lista completa.
-**Anúncio:** sim, etapa "fechar" · mensagem pronta: "Oi! Quero mandar a lista da minha obra." · **Foto final:** Betoneira, compactador e martelete da loja
+**Formato:** arte única · **Foto final:** Betoneira, compactador e martelete da loja
 
 **Arte:**
 > **MANDE A LISTA. / A GENTE ORÇA / A OBRA INTEIRA.**
 > Betoneira, compactador, martelete e andaime no mesmo WhatsApp.
 > **Mande a sua lista** · (22) 99768-8956
 
-**Legenda:**
+**Legenda (provisória):**
 > Pedir máquina por máquina em cinco lugares diferentes come o dia de quem toca a obra.
 > 
 > Mande a lista inteira pra Mestre da Obra Araruama: betoneira, andaime, compactador, martelete e o que mais a obra de janeiro pedir. A gente monta o orçamento com você na mesma conversa.

@@ -1,4 +1,4 @@
-Você vai reescrever a copy de 12 posts de Instagram de uma loja de locação de equipamentos. Cada post é uma arte única, e 10 deles também rodam como anúncio no Meta. O objetivo é um só: fazer a pessoa pedir orçamento no WhatsApp.
+Você vai escrever a copy de dezembro do Instagram de uma loja de locação de equipamentos: 5 artes únicas, 3 carrosséis e 4 roteiros de vídeo. Algumas peças podem virar anúncio no Meta. O objetivo é um só: fazer a pessoa pedir orçamento no WhatsApp.
 
 Use o meu estilo de copy. O que está em INEGOCIÁVEL não muda. Ângulo, ritmo, gancho e estrutura são livres.
 
@@ -25,6 +25,16 @@ Use o meu estilo de copy. O que está em INEGOCIÁVEL não muda. Ângulo, ritmo,
 2. Fim de semana: retira na sexta, devolve na segunda, paga UMA diária. Sempre com "Consulte os equipamentos participantes."
 
 Não existe desconto, brinde, parcelamento nem combo confirmado. Não crie oferta.
+
+# A LÓGICA DO MÊS
+
+Segunda descobre, quarta vê funcionando, sexta fecha.
+- Descobrir: muita gente nem sabe que existe uma máquina pra dor dela, nem que não precisa comprar. Entre pela dor do dia a dia, uma por vez, e revele a máquina. Nunca lista genérica de "dava pra alugar tudo isso".
+- Todo conteúdo que explica também vende: mostra a máquina e termina em pedido de orçamento. Sem cara de aula.
+- Máquina de casa (extratora, lavadora, enceradeira): "você mesmo faz e paga só a diária".
+- Máquina de obra (betoneira, sapinho, martelete): "não precisa comprar". Nunca "sem pagar mão de obra", porque o pedreiro é quem aluga.
+- Andaime: só "não precisa comprar". Não incentivar leigo a trabalhar em altura.
+- Sem número, não dizer que sai mais barato que comprar ou contratar.
 
 # O QUE A DONA QUER
 
@@ -55,73 +65,55 @@ Não afirmar, porque a loja não confirmou:
 
 Forma:
 - Português do Brasil, informal, jeito de balcão de loja de obra. Imperativo de "você" (mande, traga, reserve, peça).
-- Uma ação por peça, e o CTA vai na arte.
+- Uma ação por peça. Nas artes únicas o CTA vai na arte, no carrossel vai no slide 5 e no vídeo vai na última fala.
 - A arte fecha a ideia sozinha, sem depender da legenda.
 - A dor vem com as palavras de quem tá na obra, sem metáfora pra decifrar.
-- Peça que vira anúncio não usa "hoje", "amanhã" nem "essa semana". Data sempre absoluta.
+- Nenhuma peça usa "hoje" (só o Natal), "amanhã" ou "essa semana". Data sempre absoluta.
 - Não citar concorrente por nome nem diminuir quem já comprou ou alugou em outro lugar.
 - Sem: "transforme", "revolucione", "solução completa", "qualidade e confiança", "não perca", "sua obra merece", "do sonho à realidade", "não é só X, é Y", frases picotadas com ponto.
 - Exclamação só no fecho ou no CTA.
 
-Já usado pela loja, não voltar como tema central: escada × andaime, lixar na mão, comprar ou alugar, dúvidas de locação, checklist da obra, obra parada por falta de ferramenta, "no dia da laje não tem segunda chance".
+Já usado pela loja, não voltar como tema central: escada × andaime, lixar na mão, "comprar ou alugar" como tema (como argumento pode), dúvidas de locação, checklist da obra, obra parada por falta de ferramenta, "no dia da laje não tem segunda chance".
 
 Ângulos que um concorrente da cidade já usa, não chegar perto: piso rachando por solo mal compactado, obra sem tomada, largar a obra pra buscar máquina, "aposentar o improviso", "a obra anda e o bolso agradece", "precisou de X?".
 
-# LIMITES DA ARTE (o layout já está pronto)
+# LIMITES DO LAYOUT (já está pronto)
 
-- Headline: 3 linhas, até 17 caracteres por linha contando espaço. Caixa alta. A 3ª linha sai em laranja, então a virada ou o ganho fica nela. A peça 11 tem 2 linhas.
-- Apoio: até 65 caracteres.
-- CTA: até 30 caracteres.
-- Aviso: só o que está indicado na peça.
-- Legenda: 2 a 4 parágrafos curtos, terminando no CTA. Endereço e WhatsApp eu acrescento.
+Arte única e capa de carrossel:
+- Headline: 3 linhas, até 17 caracteres por linha contando espaço. Caixa alta. A 3ª linha sai destacada em laranja. A peça 11 tem 2 linhas.
+- Apoio: até 65 caracteres. CTA: até 30. Aviso: só o indicado.
+- Na capa do carrossel, o CTA é "Arraste pro lado".
+Slides 2 a 5 do carrossel: título até 40 caracteres e texto até 110. O slide 5 traz o CTA de orçamento.
+Legenda: 2 a 4 parágrafos curtos, terminando no CTA. Endereço e WhatsApp eu acrescento.
+Vídeo: 25 a 45 segundos, 5 ou 6 cenas, cada uma com CENA (o que acontece, curto) e FALA. Quem fala é a dona, na loja, com a máquina. Direto, sem abrir com pergunta. Sem indicar ângulo nem câmera. Mais a headline da capa, no limite acima.
 
-# AS 12 PEÇAS
+# AS PEÇAS (a headline atual é só referência do que NÃO ficou forte)
 
-Semana: segunda chama pela situação, quarta mostra a máquina, sexta fecha com a oferta. A copy atual é só referência do que NÃO ficou forte.
+SEXTA, ARTE ÚNICA
+02 · 04/12 · Fim de semana por uma diária. Quem só tem sábado e domingo pra obra. A arte tem a faixa SEX retira, SÁB usa, DOM usa, SEG devolve, e não leva apoio. Aviso: Consulte os equipamentos participantes. Atual: SEXTA, SÁBADO / E DOMINGO / POR UMA DIÁRIA.
+05 · 11/12 · Cobrimos orçamento. Quem já pediu preço em outra locadora. CTA: mandar o orçamento que já tem. Aviso: Válido pra orçamento real de concorrente local. Consulte as condições. Atual: TRAGA O ORÇAMENTO / DO CONCORRENTE. / A GENTE COBRE.
+08 · 18/12 · Faxina da casa de praia no fim de semana (lavadora, enceradeira e extratora como opções, sem sugerir combo). Última sexta antes do Natal: retira 18/12, devolve seg 21/12, uma diária. Aviso: Consulte os equipamentos participantes. Atual: A FAXINA DA CASA / DE PRAIA CABE NO / FIM DE SEMANA.
+11 · 25/12 · Natal, sem venda e sem CTA. Foto do pátio com as betoneiras paradas. Atual: HOJE A OBRA PARA / E A CASA ENCHE.
 
-01 · qua 02/12 · Andaime · anúncio, mostrar
-Quem: quem vai pintar a fachada antes das festas. Atual: A TINTA SÓ / CHEGA ONDE / O ANDAIME CHEGA.
+SEGUNDA, ARTE ÚNICA
+12 · 28/12 · Lista da obra de janeiro. Empreiteiro e construtora. CTA: mandar a lista inteira. Não afirmar que tudo está disponível. Atual: MANDE A LISTA. / A GENTE ORÇA / A OBRA INTEIRA.
 
-02 · sex 04/12 · Fim de semana por uma diária · anúncio, fechar
-Quem: quem trabalha a semana toda e só tem sábado e domingo pra obra. A arte tem a faixa SEX retira, SÁB usa, DOM usa, SEG devolve, e não tem apoio. Aviso: Consulte os equipamentos participantes. Atual: SEXTA, SÁBADO / E DOMINGO / POR UMA DIÁRIA.
+SEGUNDA, CARROSSEL DE 5 SLIDES
+03 · 07/12 · Sapinho (compactador). 1 a cena de bater o chão no braço, 2 a máquina e o apelido, 3 o que faz, 4 onde usar (base de piso, calçada e vala), 5 alugar em vez de comprar + orçamento. Sem medo de piso rachar. Atual: CHÃO BEM BATIDO / É SERVIÇO / DO SAPINHO.
+06 · 14/12 · Extratora de estofado. A peça principal do mês. 1 a cena: cachorro que fez xixi no sofá, criança, visita chegando, 2 a máquina que pouca gente sabe que dá pra alugar, 3 lava e aspira a água com a sujeira, 4 sofá, poltrona e tapete, 5 paga a diária, limpa em casa e devolve + orçamento. Não prometer tirar cheiro nem mancha. Não atacar quem vive de limpeza. Atual: O SOFÁ AINDA TEM / A MANCHA DO / VERÃO PASSADO.
+09 · 21/12 · Reforma das férias. 1 a folga gasta na parte pesada, 2 quebrar piso e parede: martelete (5,7 a 29,5 kg, sem dizer qual serve pra quê), 3 cortar piso: cortadora, 4 lixar parede e teto: lixadeira, 5 alugar só pros dias da reforma + orçamento. Atual: NÃO GASTE / AS FÉRIAS / NA MARRETA.
 
-03 · seg 07/12 · Compactador (sapinho) · anúncio, chamar
-Quem: quem vai fazer piso ou calçada e bate o chão no soquete manual. Usar a palavra "sapinho". Atual: CHÃO BEM BATIDO / É SERVIÇO / DO SAPINHO.
-
-04 · qua 09/12 · Betoneira 400 L · anúncio, mostrar
-Quem: quem ainda vira massa na enxada. Atual: MASSA NA ENXADA / CANSA A EQUIPE / ANTES DO ALMOÇO.
-
-05 · sex 11/12 · Cobrimos orçamento · anúncio, fechar
-Quem: quem já pediu preço em outra locadora. CTA: mandar o orçamento que já tem. Aviso: Válido pra orçamento real de concorrente local. Consulte as condições. Atual: TRAGA O ORÇAMENTO / DO CONCORRENTE. / A GENTE COBRE.
-
-06 · seg 14/12 · Lavadora de alta pressão · anúncio, chamar
-Quem: dono de casa de praia com piso, muro e calçada com limo e visita chegando. Atual: LIMO DE CASA / FECHADA PEDE / ALTA PRESSÃO.
-
-07 · qua 16/12 · Extratora (sofá, poltrona, tapete) · anúncio, mostrar
-Quem: dono de casa de praia que vai receber família ou hóspede. Atual: O SOFÁ AINDA TEM / A MANCHA DO / VERÃO PASSADO.
-
-08 · sex 18/12 · Fim de semana da faxina (lavadora, enceradeira, extratora) · anúncio, fechar
-Última sexta antes do Natal: retira 18/12, devolve seg 21/12, uma diária. Aviso: Consulte os equipamentos participantes. Atual: A FAXINA DA CASA / DE PRAIA CABE NO / FIM DE SEMANA.
-
-09 · seg 21/12 · Marteletes (4 tamanhos, de 5,7 a 29,5 kg) · anúncio, chamar
-Quem: quem guardou a quebra-quebra pras férias. A arte mostra os quatro com o peso. Atual: NÃO GASTE / AS FÉRIAS / NA MARRETA.
-
-10 · qua 23/12 · Cortadora de piso e placa vibratória · só feed
-Quem: quem vai tocar obra no recesso. Motivo de agir: reservar antes do feriado. Aviso: Consulte o horário de fim de ano. Atual: RESERVE A MÁQUINA / ANTES DO FERIADO / DE NATAL.
-
-11 · sex 25/12 · Natal · só feed, sem venda
-Foto do pátio com as betoneiras paradas. Atual: HOJE A OBRA PARA / E A CASA ENCHE. Aqui "hoje" pode.
-
-12 · seg 28/12 · Lista da obra de janeiro · anúncio, fechar
-Quem: empreiteiro e construtora. CTA: mandar a lista inteira. Atual: MANDE A LISTA. / A GENTE ORÇA / A OBRA INTEIRA.
+QUARTA, ROTEIRO DE VÍDEO DA DONA
+01 · 02/12 · Andaime pra pintar a parte alta da fachada: painel, piso, escada e guarda-corpo. Não comparar com escada. Atual: A TINTA SÓ / CHEGA ONDE / O ANDAIME CHEGA.
+04 · 09/12 · Betoneira de 400 litros na frente da loja: o que ela tira das costas da equipe. Atual: MASSA NA ENXADA / CANSA A EQUIPE / ANTES DO ALMOÇO.
+07 · 16/12 · Lavadora pra quem vai abrir a casa de praia: limo no piso, no muro e na calçada. Sem prometer remoção total. Atual: LIMO DE CASA / FECHADA PEDE / ALTA PRESSÃO.
+10 · 23/12 · Cortadora de piso e placa vibratória: reservar antes do feriado pra obra do recesso. Sem falar horário. Atual: RESERVE A MÁQUINA / ANTES DO FERIADO / DE NATAL.
 
 # ANTES DE ESCREVER CADA PEÇA
 
-Responda pra você mesmo: por que essa pessoa para de rolar, o que ela ganha, e por que pede o orçamento agora. Se a headline só descreve a cena e não mostra ganho nem motivo de agir, refaça. Não repita o mesmo mecanismo em duas peças seguidas.
+Por que essa pessoa para de rolar, o que ela ganha, e por que pede o orçamento agora. Se a headline só descreve a cena e não mostra ganho nem motivo de agir, refaça. Não repita o mesmo mecanismo em duas peças seguidas.
 
 # FORMATO DA RESPOSTA
-
-Pra cada peça, exatamente assim:
 
 [número]
 HEADLINE A: linha 1 / linha 2 / linha 3
@@ -129,4 +121,6 @@ HEADLINE B: linha 1 / linha 2 / linha 3
 APOIO:
 CTA:
 AVISO:
+SLIDES (carrossel): 2 título | texto, até o 5
+ROTEIRO (vídeo): CENA 1 | FALA 1, e assim por diante
 LEGENDA:

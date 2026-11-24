@@ -1,6 +1,6 @@
 // Documento do cliente: gera HTML (tela + impressão) e PDF. Uso: node doc.mjs
 import { createRequire } from 'module'; import fs from 'fs'; import path from 'path'; import os from 'os'; import { execFileSync } from 'child_process'; import { fileURLToPath } from 'url';
-import { PECAS } from './artes.mjs'; import { T,SEM } from './textos.mjs';
+import { PECAS } from './artes.mjs'; import { T,SEM,SLIDES,VIDEO } from './textos.mjs';
 const AQUI=path.dirname(fileURLToPath(import.meta.url)), ID=path.join(AQUI,'../../identidade'), SAIDA=path.join(AQUI,'..');
 const require=createRequire(path.join(AQUI,'../../../../package.json')); const { chromium }=require('@playwright/test');
 const tmp=fs.mkdtempSync(path.join(os.tmpdir(),'mo-'));
@@ -14,11 +14,11 @@ const P=Object.fromEntries(PECAS.map(p=>[p.n,p]));
 const ol=p=>[...p.h,p.a].join(' ');
 // imagens uma vez só, como variável CSS
 const vars=Object.entries(A).map(([n,u])=>`--i${n}:url(${u})`).join(';');
-const art=(n,c='')=>`<div class="art ${c}" role="img" aria-label="Arte de ${P[n].d}: ${ol(P[n])}" style="background-image:var(--i${n})"></div>`;
-const ad={chamar:'Também anúncio · chamar',mostrar:'Também anúncio · mostrar',fechar:'Também anúncio · fechar'};
+const IC={carrossel:'<svg viewBox="0 0 24 24"><rect x="3" y="7" width="13" height="13" rx="2.5"/><path d="M8 4h10a3 3 0 0 1 3 3v10" fill="none" stroke="#fff" stroke-width="2.4"/></svg>',video:'<svg viewBox="0 0 24 24"><path d="M6 3.5v17l15-8.5z"/></svg>',arte:''};
+const art=(n,c='')=>`<div class="art ${c}" role="img" aria-label="Arte de ${P[n].d}: ${ol(P[n])}" style="background-image:var(--i${n})">${c==='g'?`<i>${IC[P[n].tipo]}</i>`:''}</div>`;
+const FT={arte:'Arte única',carrossel:'Carrossel, 5 slides',video:'Vídeo com a Ingrid'};
 const linhas=[1,2,3,4,5].map(s=>{const ps=PECAS.filter(p=>T[p.n].sem===s);const cel=d=>{const p=ps.find(p=>T[p.n].dia===d);return p?`<div class="cel">${art(p.n)}<div><b>${p.d}</b><span>${T[p.n].eq}</span></div></div>`:'<div class="cel vazio"></div>'};return `<div class="sem"><div class="semt"><b>${SEM[s][0]}</b><span>${SEM[s][1]}</span></div>${cel('seg')}${cel('qua')}${cel('sex')}</div>`}).join('');
-const cards=PECAS.map(p=>{const t=T[p.n];return `<article class="card">${art(p.n)}<div class="ct"><div class="cab"><b>${p.d}</b><span>${{seg:'segunda',qua:'quarta',sex:'sexta'}[t.dia]}</span>${t.ad?`<em>${ad[t.ad]}</em>`:''}</div><h3>${t.eq}</h3><p class="obj">${t.obj}</p><div class="leg">${t.leg.split('\n\n').map(x=>`<p>${x.replace(/\n/g,'<br>')}</p>`).join('')}</div></div></article>`}).join('');
-const por=k=>PECAS.filter(p=>T[p.n].ad===k).map(p=>art(p.n)).join('');
+const cards=PECAS.map(p=>{const t=T[p.n];return `<article class="card">${art(p.n)}<div class="ct"><div class="cab"><b>${p.d}</b><span>${{seg:'segunda',qua:'quarta',sex:'sexta'}[t.dia]}</span><em>${FT[p.tipo]}</em></div><h3>${t.eq}</h3><p class="obj">${t.obj}</p><div class="leg">${SLIDES[p.n]?`<ol class="sl">${SLIDES[p.n].map(x=>`<li>${x}</li>`).join('')}</ol>`:VIDEO[p.n]?`<p>${VIDEO[p.n]}</p><p class="obj" style="margin:0">O roteiro vai à parte. Quarta sem vídeo gravado fica sem post.</p>`:t.leg.split('\n\n').map(x=>`<p>${x.replace(/\n/g,'<br>')}</p>`).join('')}</div></div></article>`}).join('');
 const html=`<title>Dezembro da Mestre da Obra</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <style>
@@ -35,7 +35,7 @@ h1,h2,h3,p{margin:0}h1,h2{font-family:'Barlow Condensed','Arial Narrow',sans-ser
 section{padding-block:56px}section+section{border-top:1px solid var(--linha)}
 h2{font-size:clamp(34px,4.6vw,52px);color:var(--azul);margin-bottom:10px}.sub{font-size:18px;color:var(--cinza);max-width:42em;margin-bottom:28px}
 .tres{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:30px}.tres h3{font:800 30px/1 'Barlow Condensed';color:var(--azul);margin-bottom:8px}.tres h3 i{font-style:normal;background:var(--laranja);color:var(--noite);padding:1px 9px 4px}
-.art{aspect-ratio:3/4;background-size:cover;background-position:center;width:100%;max-width:100%}
+.art{position:relative}.art i{position:absolute;right:5px;top:4px;width:15px;height:15px;filter:drop-shadow(0 1px 2px rgba(0,0,0,.55))}.art i svg{width:100%;display:block;fill:#fff}.art{aspect-ratio:3/4;background-size:cover;background-position:center;width:100%;max-width:100%}
 .prev{display:grid;grid-template-columns:minmax(0,470px) minmax(0,1fr);gap:56px;align-items:start}
 .fone{background:#fff;border:1px solid var(--linha);border-radius:26px;overflow:hidden;box-shadow:0 18px 50px rgba(22,36,92,.16)}
 .ig{display:grid;grid-template-columns:84px 1fr;gap:18px;padding:22px 20px 16px;align-items:center}.av{width:84px;height:84px;border-radius:50%;background:var(--azul);display:grid;place-items:center}.av img{width:96px}
@@ -50,7 +50,7 @@ h2{font-size:clamp(34px,4.6vw,52px);color:var(--azul);margin-bottom:10px}.sub{fo
 .card h3{font-size:21px;line-height:1.2;margin-bottom:4px}.obj{color:var(--cinza);margin-bottom:16px}.leg{border-top:1px solid var(--linha);padding-top:14px;display:grid;gap:9px;max-width:38em}
 .etapa .mini{display:grid;grid-template-columns:repeat(2,1fr);gap:8px;margin-top:14px;max-width:270px}.med{margin-top:30px;max-width:46em}
 .lista{display:grid;gap:14px;padding:0;margin:0;list-style:none;max-width:50em}.lista li{display:grid;grid-template-columns:26px 1fr;gap:12px}.lista li:before{content:"";width:20px;height:20px;border:2px solid var(--laranja);margin-top:3px}
-.nota{color:var(--cinza);font-size:14px;margin-top:22px}
+.sl{margin:0;padding-left:22px;display:grid;gap:5px}.nota{color:var(--cinza);font-size:14px;margin-top:22px}
 @media(max-width:820px){.prev{grid-template-columns:1fr;gap:32px}.card{grid-template-columns:1fr;gap:16px}.card .art{max-width:360px}.sem{grid-template-columns:1fr}.sem.th{display:none}.cel.vazio{display:none}}
 @page{size:A4 landscape;margin:0}
 @media print{:root{padding:0!important}body{background:#fff;font-size:10.6pt}.in{max-width:none;padding:0 14mm!important}
@@ -62,28 +62,26 @@ h2{font-size:clamp(34px,4.6vw,52px);color:var(--azul);margin-bottom:10px}.sub{fo
  .card:nth-child(2n){break-after:page;page-break-after:always;margin-bottom:0}.card:last-child{break-after:auto;page-break-after:auto}.card:nth-child(2n+1):not(:first-child){margin-top:12mm}.pecas .sub{margin-bottom:4mm}
  .pecas .head{display:none}.etapa .mini{max-width:62mm;gap:2.5mm}.med{margin-top:6mm}.lista{font-size:14pt;gap:5mm;max-width:none}.lista li{grid-template-columns:10mm 1fr}.nota{font-size:11pt}.regras b{font-size:15pt}.regras p{font-size:12pt}}
 </style>
-<div class="capa"><div class="in"><img class="lg" src="${logoB}" alt="Mestre da Obra"><h1>Planejamento de <span>dezembro</span></h1><p>12 artes pra loja de Araruama, feitas pra gerar pedido de orçamento no WhatsApp. Dez delas servem de post e também de anúncio.</p><img class="lone" src="${lone}" alt="Lone Mídia"></div></div>
+<div class="capa"><div class="in"><img class="lg" src="${logoB}" alt="Mestre da Obra"><h1>Planejamento de <span>dezembro</span></h1><p>12 publicações pra loja de Araruama: 3 carrosséis, 4 vídeos e 5 artes, feitas pra gerar pedido de orçamento no WhatsApp.</p><img class="lone" src="${lone}" alt="Lone Mídia"></div></div>
 <section><div class="in"><h2>Como o mês funciona</h2><p class="sub">O objetivo é conversa no WhatsApp com pedido de orçamento. Toda semana anda em três passos.</p>
-<div class="tres"><div><h3>Segunda: <i>a situação</i></h3><p>A cena que o pedreiro, o empreiteiro ou o dono da casa reconhece, e a máquina que resolve aquilo.</p></div><div><h3>Quarta: <i>a máquina</i></h3><p>Um equipamento da loja em destaque, com o que ele faz e como pedir.</p></div><div><h3>Sexta: <i>a oferta</i></h3><p>O motivo pra fechar com vocês: a locação de fim de semana e o “cobrimos orçamento”.</p></div></div>
+<div class="tres"><div><h3>Segunda: <i>descobre</i></h3><p>Carrossel com uma dor do dia a dia e a máquina que resolve. Muita gente nem sabe que existe, nem que dá pra alugar sem comprar.</p></div><div><h3>Quarta: <i>vê funcionando</i></h3><p>Vídeo da Ingrid na loja, com a máquina e o que ela faz. Sem vídeo gravado, não tem post.</p></div><div><h3>Sexta: <i>fecha</i></h3><p>O motivo pra fechar com vocês: a locação de fim de semana e o “cobrimos orçamento”.</p></div></div>
 <div style="margin-top:34px"><div class="sem th"><div>Tema da semana</div><div>Segunda</div><div>Quarta</div><div>Sexta</div></div>${linhas}</div></div></section>
-<section><div class="in"><div class="prev"><div class="fone"><div class="ig"><div class="av"><img src="${logoB}" alt=""></div><div><b>mestredaobraararuama</b><span>Mestre da Obra Araruama<br>Locação de máquinas e equipamentos para construção civil</span></div></div><div class="grid">${[...PECAS].reverse().map(p=>art(p.n)).join('')}</div></div>
+<section><div class="in"><div class="prev"><div class="fone"><div class="ig"><div class="av"><img src="${logoB}" alt=""></div><div><b>mestredaobraararuama</b><span>Mestre da Obra Araruama<br>Locação de máquinas e equipamentos para construção civil</span></div></div><div class="grid">${[...PECAS].reverse().map(p=>art(p.n,'g')).join('')}</div></div>
 <div><h2>Prévia do feed</h2><p class="sub">Assim fica o perfil no fim do mês, do mais novo pro mais antigo.</p><div class="regras">
-<div><b>Claro e azul, um de cada vez</b><p>As cores da franquia se alternam a cada post e o perfil ganha unidade.</p></div>
+<div><b>Segunda clara, quarta vídeo, sexta azul</b><p>Cada dia tem a sua cara e o perfil ganha unidade.</p></div>
 <div><b>A máquina de verdade em primeiro plano</b><p>Equipamentos do catálogo da unidade e fotos da loja. Nada de personagem ou imagem inventada.</p></div>
 <div><b>Frase curta, com a última linha em laranja</b><p>Dá pra entender passando o dedo no celular. Sempre em afirmação.</p></div>
 <div><b>Mesmo lugar pra tudo</b><p>Logo em cima, equipamento no meio, botão e WhatsApp embaixo.</p></div>
 <div><b>O hexágono da marca</b><p>O desenho da logo vira a moldura do equipamento.</p></div></div>
-<p class="nota">As imagens são protótipos pra aprovação. O designer finaliza cada arte, com as fotos da loja.</p></div></div></div></section>
-<section class="pecas"><div class="in"><div class="head"><h2>As 12 peças</h2><p class="sub">Arte, objetivo e legenda de cada post.</p></div><div class="cards">${cards}</div></div></section>
-<section><div class="in"><h2>As mesmas artes como anúncio</h2><p class="sub" style="max-width:56em">Todo anúncio abre o WhatsApp da loja com a mensagem já escrita, por exemplo “Oi! Quero orçamento de betoneira”. Quem atende sabe de onde veio o pedido.</p>
-<div class="tres etapa"><div><h3><i>Chamar</i></h3><p>Pra quem é da região e ainda não falou com a loja.</p><div class="mini">${por('chamar')}</div></div><div><h3><i>Mostrar</i></h3><p>Pra quem já tem um serviço e precisa de um equipamento.</p><div class="mini">${por('mostrar')}</div></div><div><h3><i>Fechar</i></h3><p>Pra quem já viu os posts, visitou o perfil ou mandou mensagem.</p><div class="mini">${por('fechar')}</div></div></div>
-<div class="med"><h3 style="font-size:20px;color:var(--azul);margin-bottom:6px">Como vamos medir</h3><p>Conversas por equipamento e quanto custou cada uma, pelo gerenciador. Orçamentos e locações fechadas, pela planilha do balcão. A arte que traz mais locação ganha mais espaço.</p></div></div></section>
+<p class="nota">As imagens são protótipos. Os textos ainda estão em revisão, e a capa de cada vídeo sai da gravação da Ingrid.</p></div></div></div></section>
+<section class="pecas"><div class="in"><div class="head"><h2>As 12 publicações</h2><p class="sub">Arte, objetivo e conteúdo de cada uma.</p></div><div class="cards">${cards}</div></div></section>
 <section><div class="in"><h2>O que precisamos de vocês</h2><p class="sub">Com isso, dezembro começa no dia 2.</p><ul class="lista">
 <li><span>Aprovação do padrão visual e dos textos.</span></li>
 <li><span>Quais equipamentos entram na locação de sexta a segunda.</span></li>
 <li><span>Se o “cobrimos orçamento” vale o mês inteiro, inclusive quando a outra loja está em promoção, e se tem algum limite.</span></li>
 <li><span>Horário da loja de 24/12 a 02/01.</span></li>
-<li><span>Até onde vocês entregam, pra definir a região dos anúncios.</span></li></ul>
+<li><span>Pelo menos 3 vídeos da Ingrid, quando ela puder gravar. Os roteiros vão à parte.</span></li>
+<li><span>A máquina de pintura e o guincho que aparecem nas fotos da loja: estão pra alugar e podem ser divulgados.</span></li></ul>
 <p class="nota">Nos stories: 11/12 (Dia do Engenheiro), 13/12 (Dia do Pedreiro) e 30/12 (horário da virada).</p></div></section>`;
 const base='2026-11-24-planejamento-dezembro';
 fs.writeFileSync(`${SAIDA}/${base}.html`,html);
