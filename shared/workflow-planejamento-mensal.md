@@ -114,7 +114,7 @@ Sem puxar o estilo. Em texto de PH, só se mexe no que fere fato ou pedido do do
 
 **Sistema visual do cliente:** posições fixas, uma regra de cor por dia, produto real em destaque e um elemento da marca. Uma quarta sem vídeo não pode estragar o grid.
 
-**Documento do cliente** (PDF A4 deitado e link privado), nesta ordem:
+**Documento do cliente** (PDF A4 deitado, que é o que vai pro cliente; link online só se PH pedir), nesta ordem:
 1. Capa com foto real: mês e quantidade de cada formato
 2. Como o mês funciona e calendário com miniaturas
 3. **Prévia do feed**
