@@ -31,6 +31,12 @@ O cliente mandou o calendário do **Esquenta Black · Celmapel Festas + Loja do 
 
 ---
 
+## 2026-11-09 — Post de segunda: A compra de quem vende doce
+
+Pedido de PH: um post por cliente para hoje. Produzidos [texto da arte, legenda e brief](conteudo/posts/2026-11-09-a-compra-de-quem-vende-doce.md). Copy v1.0, revisão de PH/cliente pendente; não publicado. Pendências: Versão principal sem Black: OQ #44/#49 seguem sem confirmação registrada. Abaixo há versão do calendário, utilizável apenas se Max confirmar campanha, data e categorias.
+
+---
+
 ## 2026-11-05 — Leitura do benchmark semanal (outro setor) e conferência da grade
 
 PH recebeu o benchmark de 7 perfis (edição base de 04/11) e pediu síntese, o que dá pra fazer e ideias melhores. [Leitura completa](referencias/2026-11-05-benchmark-semanal-sintese-e-leitura.md) · [PDF](referencias/2026-11-04-benchmark-semanal-edicao-base.pdf).

@@ -13,6 +13,12 @@ Log datado do trabalho feito pra Dijana. Topo = mais recente. Entrada por bloco 
 
 - [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH.
 
+## 2026-11-09 — Post de segunda: A lista precisa acompanhar a etapa da obra
+
+Pedido de PH: um post por cliente para hoje. Produzidos [texto da arte, legenda e brief](conteudo/posts/2026-11-09-a-lista-precisa-acompanhar-a-etapa-da-obra.md). Copy v1.0, revisão de PH/cliente pendente; não publicado. Pendências: Revisão de PH/cliente antes da publicação.
+
+---
+
 ## 2026-10-22 — Post de segunda 26/10: "Cimento que empedrou não volta a ser pó"
 
 [Peça](conteudo/posts/2026-10-26-cimento-empedrado-nao-tem-conserto.md): arte única, pilar Compra certa + Obra real (foto de estoque), mecanismo **consequência sem volta → causa evitável → regra de guarda**. Headline: *"CIMENTO QUE EMPEDROU NÃO VOLTA A SER PÓ. / NO CHÃO, O SACO PUXA UMIDADE E PODE VIRAR PEDRA."* Dois itens na arte (estrado ou palete; no máximo 10 sacos por pilha); os outros três ficam na legenda. CTA: *"COTA SEU CIMENTO NO WHATSAPP (22) 99752-1356"* (verbo novo na conta).

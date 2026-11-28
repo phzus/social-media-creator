@@ -4,6 +4,10 @@ Log datado do trabalho feito pra Atlas. Topo = mais recente. Entrada por bloco d
 
 ---
 
+## 2026-11-27 — Estático do Seguro Residencial até 06/12 (pedido de PH)
+
+PH pediu uma peça só dos seguros com prazo até 06/12 e que eu inventasse um bom motivo. Só o **Residencial** tem 06/12 confirmado na mensagem da Tokio Marine (Viagem, Empresarial e os demais vieram sem data, então ficaram de fora). Motivo: a Black Friday é hoje e a compra está chegando em casa ("Tudo que você comprou na Black vai ficar em casa. A casa tem seguro?"). Fundo claro e data gigante, pra não repetir a peça preta de 25/11. Sem afirmação de cobertura. [Peça](conteudo/posts/2026-11-27-residencial-black-week-ate-06-12.md) v1.0, validador-copy ainda não rodou. Datas de 27 e 28/11 pesquisadas (Black Friday entra, Dia do Soldado Desconhecido descartado).
+
 ## 2026-11-24 — Orientação de PH registrada, sem peça criada
 
 PH definiu um carrossel por carro-chefe no planejamento futuro. Nada a produzir agora: o cliente entra no processo padrão mais pra frente.

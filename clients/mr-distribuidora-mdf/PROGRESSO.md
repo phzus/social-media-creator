@@ -42,6 +42,12 @@ Log datado do trabalho feito pra MR Distribuidora. Topo = mais recente. Entrada 
 
 ---
 
+## 2026-11-09 — Post de segunda: A ferragem antiga também tem referência
+
+Pedido de PH: um post por cliente para hoje. Produzidos [texto da arte, legenda e brief](conteudo/posts/2026-11-09-a-ferragem-antiga-tambem-tem-referencia.md). Copy v1.0, revisão de PH/cliente pendente; não publicado. Pendências: MR confere a orientação de atendimento. A peça não garante compatibilidade por foto nem estoque de uma referência específica.
+
+---
+
 ## 2026-10-29 — Post de sexta 06/11: "MDF cortado e fitado nas medidas do seu projeto"
 
 [Peça](conteudo/posts/2026-11-06-mdf-sai-cortado-e-fitado.md): estático 4:5, pilar "Oferta com motivo", molde de anúncio direto (checklist §2.8). É a primeira sexta de venda no **carro-chefe (MDF)**, depois de duas ofertas de ferramenta Sigma. Sem preço de chapa, a peça vende o serviço que vai junto: o MDF sai cortado e fitado nas medidas do projeto. CTA: "Mande as medidas no WhatsApp e peça seu orçamento!"

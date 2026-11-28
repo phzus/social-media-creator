@@ -24,7 +24,7 @@ Pendências herdadas da "Fase 0 — Destravar" e do §12 do [documento-fonte](re
 **Novas:**
 
 53. 🟡 **A Black vai até domingo, 29/11?** Sem confirmação, a copy não usa "até 29/11", e a urgência vem dos Sábados Black. Pergunta no texto pro grupo (plano §6).
-54. 🟡 *(23/11: Grécia e cama de solteiro resolvidas, as artes existem. Seguem faltando a cama completa de casal e a de casal com baú. O avulso de ter 24/11, casal com box × com baú, depende delas.)* **Fotos do Antonella, do Grécia e das camas completas.** Não estão na Downloads. Sem elas até qua 11 às 12h, a capa de qui 12 usa a foto do site recortada.
+54. 🟡 *(26/11: as duas camas de casal seguem sem nenhum post. São os únicos itens da lista da Black que nunca apareceram no feed, e a Black acaba no dom 29.)* *(23/11: Grécia e cama de solteiro resolvidas, as artes existem. Seguem faltando a cama completa de casal e a de casal com baú. O avulso de ter 24/11, casal com box × com baú, depende delas.)* **Fotos do Antonella, do Grécia e das camas completas.** Não estão na Downloads. Sem elas até qua 11 às 12h, a capa de qui 12 usa a foto do site recortada.
 55. 🟡 **Antonella, Grécia e cama completa estão expostos na loja de Araruama?** O Reel 2, os stories do dia 28 e a rotação do Sábado Black de 21/11 gravam ou citam esses produtos na loja. Até confirmar, a copy fala "vem conhecer a loja" (validador, 10/11).
 56. 🟢 **O parcelado mudou nas "já divulgadas"** (Master 76,00 → 76,33; base baú 57,24 → 57,25; King 180,00 → 180,34). Peça nova usa a lista. Não é pergunta pro cliente; registro pra quando aparecer arte antiga.
 

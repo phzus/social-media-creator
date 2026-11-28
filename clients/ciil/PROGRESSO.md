@@ -47,6 +47,12 @@ A dona propôs vídeos com os médicos, gravados no celular pela equipe de São 
 
 [Carrossel de 2 slides](conteudo/posts/2026-11-13-novembro-azul-5-sinais.md) a partir da referência da Estação Fitness que PH mandou. A lista de sinais da referência não batia com a do Ministério da Saúde e omitia que, na fase inicial, pode não haver sintoma: isso virou o gancho. Sem WhatsApp da CIIL, porque a clínica não atende próstata. Validado (v1.1). Passa pelo RT, com 4 perguntas na peça.
 
+## 2026-11-09 — Post de segunda: Isso Tem Nome — Doença de Crohn
+
+Pedido de PH: um post por cliente para hoje. Produzidos [texto da arte, legenda e brief](conteudo/posts/2026-11-09-isso-tem-nome-doenca-de-crohn.md). Copy v1.0, revisão de PH/cliente pendente; não publicado. Pendências: RT precisa validar texto clínico. PAUTA #4 segue aberta: não oferecer consulta de gastro nem avaliação diagnóstica na CIIL. CTA restrito a quem já tem indicação. Conferir se Espondilite 08 saiu em 02/11; não fechar o número 09 sem isso. Alternativa de serviço completa no fim do arquivo.
+
+---
+
 ## 2026-11-04 — Calendário de datas das 10 doenças (pedido da equipe de São Gonçalo)
 
 A equipe de SG pediu post nas datas específicas das doenças, com o exemplo do 29/10 (psoríase), que passou sem peça ([registro](referencias/2026-11-04-feedback-datas-das-doencas.md)). A Lone já tinha a data anotada na estratégia de setembro e na PAUTA, mas ela nunca virou slot.

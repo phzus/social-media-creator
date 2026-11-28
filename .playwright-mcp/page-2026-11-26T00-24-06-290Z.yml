@@ -1,0 +1,190 @@
+- generic [ref=f3e11]:
+  - generic [ref=f3e13]:
+    - link [ref=f3e16] [cursor=pointer]:
+      - /url: /
+      - img "Instagram" [ref=f3e19]
+    - generic [ref=f3e30]:
+      - link "Entrar" [ref=f3e32] [cursor=pointer]:
+        - /url: /accounts/login/?next=%2Fcontelesolarenergy%2Freels%2F&source=desktop_nav
+      - link "Cadastre-se" [ref=f3e34] [cursor=pointer]:
+        - /url: /accounts/emailsignup/
+  - main [ref=f3e35]:
+    - generic [ref=f3e37]:
+      - generic [ref=f3e38]:
+        - button "Ver story do perfil" [ref=f3e41] [cursor=pointer]:
+          - link [ref=f3e43]:
+            - img "Foto do perfil de contelesolarenergy" [ref=f3e44]
+        - heading "contelesolarenergy" [level=2] [ref=f3e51]
+        - list [ref=f3e54]:
+          - listitem [ref=f3e55]:
+            - link "4.586 seguidores" [ref=f3e57] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=f3e58]:
+                - generic "4.586" [ref=f3e59]
+                - text: seguidores
+          - listitem [ref=f3e60]:
+            - link "812 seguindo" [ref=f3e62] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=f3e63]:
+                - generic [ref=f3e64]: "812"
+                - text: seguindo
+        - generic [ref=f3e66]:
+          - generic [ref=f3e67]: Contele - Energia Solar na Região dos Lagos
+          - button "• Referência em qualidade e confiança ☀️| + de 700 sistemas montados ⚡️| Reduza sua conta de energia em até 95%" [ref=f3e70] [cursor=pointer]
+          - generic [ref=f3e72]:
+            - img "Ícone de link" [ref=f3e74]
+            - link "linktr.ee/contelesolarenergy" [ref=f3e78] [cursor=pointer]:
+              - /url: https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Fcontelesolarenergy&e=AUDlMb5bysCFwIlQR7tzhMrxaNa7Ia_vP6g8DhI7QeC_JcEUVDGQlq0PLnCqECPGMANRJ4YsYU533h3zgoHTC-pH21MV_tkOjPuhMBxeFFGTc101hOq5l1kWheMemw-vd_BMCoX3M1_z2DmoNFJzAg
+        - menu [ref=f3e81]:
+          - list [ref=f3e85]:
+            - listitem [ref=f3e86]
+            - listitem [ref=f3e87]
+            - listitem [ref=f3e88]:
+              - link "Ver destaque de Eventos" [ref=f3e91] [cursor=pointer]:
+                - /url: /stories/highlights/18002948147466274/
+                - button "Foto do story no destaque de contelesolarenergy Eventos" [ref=f3e92]:
+                  - button [ref=f3e93]:
+                    - img "Foto do story no destaque de contelesolarenergy" [ref=f3e96]
+                  - generic [ref=f3e97]: Eventos
+            - listitem [ref=f3e100]:
+              - link "Ver destaque de Instalações" [ref=f3e103] [cursor=pointer]:
+                - /url: /stories/highlights/17935216756472741/
+                - button "Foto do story no destaque de contelesolarenergy Instalações" [ref=f3e104]:
+                  - button [ref=f3e105]:
+                    - img "Foto do story no destaque de contelesolarenergy" [ref=f3e108]
+                  - generic [ref=f3e109]: Instalações
+            - listitem [ref=f3e112]:
+              - link "Ver destaque de Informações" [ref=f3e115] [cursor=pointer]:
+                - /url: /stories/highlights/18047209879831008/
+                - button "Foto do story no destaque de contelesolarenergy Informações" [ref=f3e116]:
+                  - button [ref=f3e117]:
+                    - img "Foto do story no destaque de contelesolarenergy" [ref=f3e120]
+                  - generic [ref=f3e121]: Informações
+            - listitem [ref=f3e124]:
+              - link "Ver destaque de Dicas" [ref=f3e127] [cursor=pointer]:
+                - /url: /stories/highlights/18064286056580878/
+                - button "Foto do story no destaque de contelesolarenergy Dicas" [ref=f3e128]:
+                  - button [ref=f3e129]:
+                    - img "Foto do story no destaque de contelesolarenergy" [ref=f3e132]
+                  - generic [ref=f3e133]: Dicas
+            - listitem [ref=f3e136]:
+              - link "Ver destaque de Sobre nós" [ref=f3e139] [cursor=pointer]:
+                - /url: /stories/highlights/17864012216388945/
+                - button "Foto do story no destaque de contelesolarenergy Sobre nós" [ref=f3e140]:
+                  - button [ref=f3e141]:
+                    - img "Foto do story no destaque de contelesolarenergy" [ref=f3e144]
+                  - generic [ref=f3e145]: Sobre nós
+            - listitem [ref=f3e148]:
+              - link "Ver destaque de Clientes" [ref=f3e151] [cursor=pointer]:
+                - /url: /stories/highlights/17910188980640213/
+                - button "Foto do story no destaque de contelesolarenergy Clientes" [ref=f3e152]:
+                  - button [ref=f3e153]:
+                    - img "Foto do story no destaque de contelesolarenergy" [ref=f3e156]
+                  - generic [ref=f3e157]: Clientes
+      - generic [ref=f3e160]:
+        - tablist [ref=f3e161]:
+          - link [ref=f3e163] [cursor=pointer]:
+            - /url: /contelesolarenergy/
+            - img "Posts" [ref=f3e165]
+          - link [ref=f3e168] [cursor=pointer]:
+            - /url: "#"
+            - img "Reels" [ref=f3e170]
+          - link [ref=f3e173] [cursor=pointer]:
+            - /url: "#"
+            - img "Marcados" [ref=f3e175]
+        - tabpanel
+  - contentinfo [ref=f3e182]:
+    - generic [ref=f3e183]:
+      - generic [ref=f3e185]:
+        - link "Meta" [ref=f3e187] [cursor=pointer]:
+          - /url: https://about.meta.com/
+        - link "Sobre" [ref=f3e190] [cursor=pointer]:
+          - /url: https://about.instagram.com/
+        - link "Blog" [ref=f3e193] [cursor=pointer]:
+          - /url: https://about.instagram.com/blog/
+        - link "Carreiras" [ref=f3e196] [cursor=pointer]:
+          - /url: https://about.instagram.com/about-us/careers
+        - link "Ajuda" [ref=f3e199] [cursor=pointer]:
+          - /url: https://help.instagram.com/
+        - link "API" [ref=f3e202] [cursor=pointer]:
+          - /url: https://developers.facebook.com/docs/instagram
+        - link "Privacidade" [ref=f3e205] [cursor=pointer]:
+          - /url: /legal/privacy/
+        - link "Termos" [ref=f3e208] [cursor=pointer]:
+          - /url: /legal/terms/
+        - link "Localizações" [ref=f3e211] [cursor=pointer]:
+          - /url: /explore/locations/
+        - link "Popular" [ref=f3e214] [cursor=pointer]:
+          - /url: /popular/
+        - link "Instagram Lite" [ref=f3e217] [cursor=pointer]:
+          - /url: /web/lite/
+        - link "Meta AI" [ref=f3e220] [cursor=pointer]:
+          - /url: https://www.meta.ai/?utm_source=foa_web_footer
+        - link "Muse" [ref=f3e223] [cursor=pointer]:
+          - /url: https://muse.ai/
+        - link "Threads" [ref=f3e226] [cursor=pointer]:
+          - /url: https://www.threads.com/
+        - link "Upload de contatos e não usuários" [ref=f3e229] [cursor=pointer]:
+          - /url: https://www.facebook.com/help/instagram/261704639352628
+        - link "Meta Verified" [ref=f3e232] [cursor=pointer]:
+          - /url: /accounts/meta_verified/?entrypoint=web_footer
+      - generic [ref=f3e234]:
+        - generic [ref=f3e235] [cursor=pointer]:
+          - generic [ref=f3e236]:
+            - generic [ref=f3e237]: Português (Brasil)
+            - img "Ícone de seta para baixo" [ref=f3e240]
+          - combobox "Trocar idioma de exibição" [ref=f3e242]:
+            - option "Afrikaans"
+            - option "العربية"
+            - option "Čeština"
+            - option "Dansk"
+            - option "Deutsch"
+            - option "Ελληνικά"
+            - option "English"
+            - option "English (UK)"
+            - option "Español (España)"
+            - option "Español"
+            - option "فارسی"
+            - option "Suomi"
+            - option "Français"
+            - option "עברית"
+            - option "Bahasa Indonesia"
+            - option "Italiano"
+            - option "日本語"
+            - option "한국어"
+            - option "Bahasa Melayu"
+            - option "Norsk"
+            - option "Nederlands"
+            - option "Polski"
+            - option "Português (Brasil)" [selected]
+            - option "Português (Portugal)"
+            - option "Русский"
+            - option "Svenska"
+            - option "ภาษาไทย"
+            - option "Filipino"
+            - option "Türkçe"
+            - option "中文(简体)"
+            - option "中文(台灣)"
+            - option "বাংলা"
+            - option "ગુજરાતી"
+            - option "हिन्दी"
+            - option "Hrvatski"
+            - option "Magyar"
+            - option "ಕನ್ನಡ"
+            - option "മലയാളം"
+            - option "मराठी"
+            - option "नेपाली"
+            - option "ਪੰਜਾਬੀ"
+            - option "සිංහල"
+            - option "Slovenčina"
+            - option "தமிழ்"
+            - option "తెలుగు"
+            - option "اردو"
+            - option "Tiếng Việt"
+            - option "中文(香港)"
+            - option "Български"
+            - option "Français (Canada)"
+            - option "Română"
+            - option "Српски"
+            - option "Українська"
+        - generic [ref=f3e243]: © 2026 Instagram from Meta

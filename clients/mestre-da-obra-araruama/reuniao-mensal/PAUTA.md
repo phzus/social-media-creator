@@ -1,53 +1,115 @@
 # PAUTA DE REUNIÃO — Mestre da Obra Araruama
 
-> Documento vivo e **curado** — é o que PH abre minutos antes da reunião de alinhamento.
-> O log completo continua em [OPEN-QUESTIONS.md](../OPEN-QUESTIONS.md); aqui entra só o que vale ocupar o tempo da reunião.
+> Documento vivo e **curado**. PH abre isto minutos antes da reunião e lê de cima pra baixo.
+> Cada pergunta está escrita **do jeito que dá pra falar em voz alta**, com um aviso embaixo explicando de onde ela veio e o que não pode prometer.
+> O log completo continua em [OPEN-QUESTIONS.md](../OPEN-QUESTIONS.md).
 
-**Última atualização:** 2026-11-13 · **Próxima reunião:** ❓ a marcar · **Última reunião:** 06/11/2026 ([resumo](resumos/2026-11-06-resumo-reuniao.md))
+**Última atualização:** 2026-11-25 · **Próxima reunião:** ❓ a marcar (vai mostrar o planejamento de dezembro) · **Última reunião:** 06/11/2026 ([resumo](resumos/2026-11-06-resumo-reuniao.md))
 
 ---
 
-## 1. 🔴 Perguntar nesta reunião
+## ⭐ NÃO ESQUECER DE FALAR: preço em dezembro
 
-| # | Pergunta | Por que importa (o que destrava) |
-|---|---|---|
-| 1 | Vocês rodaram anúncio ou impulsionamento nos vídeos até setembro? Quem fazia e por que parou? | Reels de 199 mil views têm 29 curtidas. Sem essa resposta, ninguém sabe qual vídeo foi bom de verdade. |
-| 2 | Podem liberar acesso ao Meta Business Suite, ao Gerenciador e ao Perfil no Google? | Sem isso não dá pra separar pago de orgânico nem ver busca e ligação. |
-| 3 | ✅ ~~Quais equipamentos mais saem?~~ Betoneira, andaime e compactador (06/11). | Define as primeiras peças e o anúncio. Hoje não temos esse dado. |
-| 4 | 🟡 Escora e máquina de solda: tem (06/11). Roçadeira, soprador, aspirador e furadeira: vem na planilha da atendente. | Estão citados em posts ou no site, mas fora do catálogo local. Não dá pra anunciar sem saber. |
-| 5 | ✅ ~~Quem grava?~~ A Ingrid aparece e o marido grava (06/11). | Os vídeos com gente da loja tiveram mais curtida e comentário. É a base do próximo teste. |
-| 6 | 🟡 Black Week: a Ingrid vai ver com o marido (fim de semana ou locação casada). Cobrar no grupo. | 27/11 está perto. A Mestre Resende fez em 2025, com até 20%. |
-| 7 | Quais meses têm mais e menos procura? Dezembro cai? Limpeza e casa de praia pesam? | Decide se o foco de dezembro é obra ou limpeza. |
-| 8 | 🟡 Origem: misturada (base antiga, passagem, Google). Planilha da atendente a caminho. | É a única métrica que liga post a locação. |
+**Isto é uma ideia sua, não uma decisão.** Nada está confirmado e nenhuma arte foi mudada. Já está escrito no documento do cliente, no último slide, só pra você lembrar de abrir o assunto.
 
-## 2. 💡 Insights e oportunidades que a Lone observou
+**O que você quer propor:** uma campanha de Natal / fim de ano com preço de diária, num carrossel com os preços de uma vez só (sexta 11/12, com data de início e fim).
 
-- **Google antes de mais vídeo.** Vocês aparecem entre 6º e 11º nas buscas de equipamento em Araruama, e a Casa do Construtor Saquarema paga anúncio nelas.
-- **Comparação justa é local.** Triunfo Lagos e Casa do Construtor Cabo Frio têm tamanho parecido e fazem cerca de 2 vezes mais views por Reel hoje (número público, sem separar o que foi pago).
-- **Gente da loja é o melhor sinal que temos.** O vídeo de humor de maio teve 38 curtidas e 35 comentários, muito acima dos cards de outubro.
-- **O catálogo tem nome de máquina.** Bosch, Karcher e Menegotti são mais concretos do que "equipamentos de qualidade".
+**Por que propor:** o Triunfo Lagos publicou diárias na Black Friday (23/11 a 23/12). Sem preço em dezembro, a Mestre fica sem resposta no mesmo feed.
 
-## 3. ⚠️ Riscos e alertas
+**Antes de falar, saiba:**
+- Em 06/11 a Ingrid **vetou preço** ("preço publicado entrega o orçamento pra concorrência"). A mudança tem que vir dela.
+- **Não prometa "cobrimos o preço do Triunfo".** A betoneira deles é R$ 450 **mensal** e a nossa veio R$ 150 **diária**. Não dá pra comparar sem o mensal da Mestre.
+- **Não dá pra esconder o carrossel do concorrente.** O que protege é validade curta e preço só dos itens que mais saem.
 
-- Não prometer ao cliente que os picos de views vão voltar: provavelmente eram verba.
-- Não apresentar o benchmark como está. Tem números que não batem, e o [resumo da conferência](../referencias/2026-11-05-conferencia-benchmark-e-metricas.md) diz quais.
-- Perfil sem post desde 29/10. A produção até aqui é de outra agência: falar do que fazer daqui pra frente, sem criticar o trabalho anterior na frente do cliente.
+---
 
-- **Planejamento de dezembro com prévia do feed** ([PDF](../apresentacoes/2026-11-24-planejamento-dezembro.pdf)): levar pra aprovação. As 7 perguntas pro cliente estão na última página.
+## 1. 🔴 Perguntas pra fazer pra Ingrid
 
-## 4. 📋 Falta fazer do nosso lado
+### A. Sobre o preço (vem primeiro, é o que trava a campanha)
 
-- [x] ~~Quem produziu o perfil desde setembro:~~ outra agência (PH, 05/11).
+**1. "Ingrid, você topa mostrar o preço da diária em dezembro, num carrossel de promoção de fim de ano?"**
+> *Aviso:* ela vetou preço em 06/11. Pergunte como ideia, não como decisão. O motivo é o Triunfo, que está com preço na Black até 23/12.
+
+**2. "O preço do andaime, R$ 0,80 e R$ 1,50 a peça, é por dia ou por mês?"**
+> *Aviso:* a mensagem dela só disse "a peça". Sem o período, a gente não pode publicar. Uma peça a R$ 0,80 por mês e por dia são ofertas completamente diferentes.
+
+**3. "O que é andaime 1x1 e 1,5? É altura, largura ou tipo de peça?"**
+> *Aviso:* a mensagem não explica. Isso muda como o preço aparece na arte.
+
+**4. "Os R$ 150 de betoneira e sapinho valem o mês todo, ou é preço de promoção por um período?"**
+> *Aviso:* define se vira "preço normal" ou "promoção de Natal" e qual data vai na arte. Sem data, a gente não inventa validade.
+
+**5. "Quanto é a betoneira por mês?"**
+> *Aviso:* o Triunfo anuncia betoneira a R$ 450 mensal. Só com o mensal da Mestre dá pra saber se a gente pode dizer que cobre.
+
+**6. "Quanto é a diária do martelete e da placa vibratória?"**
+> *Aviso:* o Triunfo anuncia martelo a R$ 80 e placa de 90 kg a R$ 90 a diária. A gente não tem o preço desses dois.
+
+**7. "Essa promoção precisa de aval da franqueadora?"**
+> *Aviso:* não sabemos. Se precisar, a campanha só sai depois do aval (ver OQ #8).
+
+### B. Sobre o planejamento de dezembro (é o que vai estar na tela)
+
+**8. "Você aprova o padrão visual e os textos do planejamento?"**
+> *Aviso:* é a aprovação principal. As artes são protótipos e os roteiros dos vídeos vão à parte.
+
+**9. "Quais equipamentos entram na locação de sexta a segunda, pagando uma diária?"**
+> *Aviso:* ela disse em 06/11 que já praticam, mas não disse se vale pra todos. A arte diz "consulte os equipamentos participantes" até ela responder (OQ #25).
+
+**10. "O 'cobrimos orçamento' vale o mês inteiro, mesmo quando a outra loja está em promoção? Tem algum limite?"**
+> *Aviso:* ela liberou "cobrimos" em 06/11 só pra concorrente local com orçamento real. Não vira anúncio pago até ela responder (OQ #23). Esta pergunta liga com o preço: se ela cobre preço, o carrossel muda.
+
+**11. "A máquina de pintura (Nauber) e o guincho que aparecem nas fotos da loja estão pra alugar? Posso divulgar?"**
+> *Aviso:* aparecem nas fotos, mas não estão no catálogo da unidade. Sem resposta, ficam fora (OQ #31).
+
+**12. "Qual o horário da loja de 24/12 a 02/01?"**
+> *Aviso:* vai pro story da virada (OQ #26).
+
+**13. "Você consegue gravar pelo menos 3 vídeos em dezembro, na quarta?"**
+> *Aviso:* sem vídeo gravado, aquela quarta não tem post. O primeiro seria o do andaime, em 02/12.
+
+### C. Se der tempo (dados e acessos)
+
+**14. "Vocês rodaram anúncio ou impulsionamento até setembro? Quem fazia e por que parou?"**
+> *Aviso:* tem Reel com 199 mil views e só 29 curtidas. Sem isso ninguém sabe qual vídeo foi bom de verdade.
+
+**15. "Pode liberar o acesso ao Meta Business Suite, ao Gerenciador de Anúncios e ao perfil no Google?"**
+> *Aviso:* sem isso não dá pra separar o que foi pago do que foi orgânico, nem ver ligação e busca.
+
+**16. "Quais meses têm mais e menos procura? Dezembro cai? Limpeza e casa de praia pesam?"**
+> *Aviso:* decide se o foco do mês é obra ou limpeza. Ela já respondeu em parte (betoneira, andaime e compactador saem mais).
+
+**17. "Como vocês descobrem de onde vem o cliente? A planilha da atendente já saiu?"**
+> *Aviso:* é a única métrica que liga post a locação. A planilha estava a caminho.
+
+---
+
+## 2. 💡 O que a Lone viu (pra você comentar, se der)
+
+- **O Google vem antes de mais vídeo.** A Mestre aparece entre 6º e 11º nas buscas de equipamento em Araruama, e a Casa do Construtor Saquarema paga anúncio nelas.
+- **Gente da loja é o melhor sinal que temos.** O vídeo de humor de maio teve 38 curtidas e 35 comentários, muito acima dos cards de outubro. Por isso a Ingrid na quarta.
+- **Nome de máquina concreto vende mais** que "equipamentos de qualidade" (Bosch, Karcher, Menegotti).
+
+## 3. ⚠️ Cuidado na reunião
+
+- **Não prometa que os picos de views vão voltar.** Provavelmente eram verba.
+- **Não critique a agência anterior** na frente da cliente. Fale do que a gente vai fazer daqui pra frente.
+- **Não mostre o benchmark do Triunfo como está.** Tem número que não bate, e o [resumo da conferência](../referencias/2026-11-05-conferencia-benchmark-e-metricas.md) diz quais.
+- **O perfil está sem post desde 29/10.** Mostre o planejamento como a retomada.
+- **Não prometa preço, promoção ou "cobrimos o Triunfo"** antes das respostas da seção A.
+
+## 4. 📋 O que ainda falta do nosso lado
+
+- [ ] **Corrigir "Aruaruama/RJ" nos fixados de localização e horário** (está no ar).
 - [ ] Publicar os 3 fixados (horário, localização, venda com autoridade). Só depois começam os posts normais.
 - [ ] Confirmar qual plano foi vendido e quem aprova.
-- [ ] Pedir logo em vetor e foto real da fachada e da loja. O que temos veio da agência anterior ou do site.
-- [ ] Abrir o perfil logado e comparar os 6 Reels divergentes.
-- [ ] Abrir o Google Trends no navegador (a coleta automática foi bloqueada).
+- [ ] Pedir logo em vetor e foto real da fachada e da loja.
 - [ ] Atualizar bio e destaques depois de confirmar bairro, área e períodos.
+- [ ] Preparar o carrossel de promoção de fim de ano **só se** ela topar e responder a seção A.
 
 ## 5. 📊 O que levar de resultado
 
-Sem dado de resultado. Linha de base pública de 05/11: 262 views, 7,5 curtidas e 0 comentários por Reel recente; posição 6ª a 11ª no Maps. Sem conversas, orçamentos ou locações.
+Sem dado de resultado ainda. Linha de base pública de 05/11: 262 views, 7,5 curtidas e 0 comentários por Reel recente; posição 6ª a 11ª no Maps. Sem conversas, orçamentos ou locações medidos.
 
 ## 6. 🗓️ Histórico de reuniões
 

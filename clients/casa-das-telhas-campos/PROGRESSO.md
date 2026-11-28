@@ -12,6 +12,12 @@
 
 [Bio](conteudo/posts/2026-11-10-bio-instagram.md) ajustada, sem refazer: slogan mantido, as 3 lojas numa linha (a atual cortava a 3ª no "mais"), frete grátis com "consulte sua cidade" e um número só, o 99858-4910. Nome ganha "em Campos" pra busca local. 147 caracteres. Sem preço, 21x nem prazo de entrega. Aguarda PH.
 
+## 2026-11-09 — Post de segunda: A compra do telhado continua nos complementos
+
+Pedido de PH: um post por cliente para hoje. Produzidos [texto da arte, legenda e brief](conteudo/posts/2026-11-09-a-compra-do-telhado-continua-nos-complementos.md). Copy v1.0, revisão de PH/cliente pendente; não publicado. Pendências: Rebeca confirma o número no grupo e a disponibilidade dos itens. Conferir o andamento dos fixados antes de encaixar este post.
+
+---
+
 ## 2026-11-06 — Fixados e reunião de onboarding registrada
 
 PH pediu os fixados. Ao buscar material, achei na Downloads o [resumo da reunião de 05/11](reuniao-mensal/resumos/2026-11-05-resumo-reuniao.md), que não estava no projeto. Registrado e propagado pra PAUTA, OPEN-QUESTIONS, PADROES, context e BRIEFING.

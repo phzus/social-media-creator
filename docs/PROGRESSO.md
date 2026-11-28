@@ -4,6 +4,61 @@ Log datado dos blocos de trabalho significativos. **Entradas mais recentes no to
 
 ---
 
+## 2026-11-27 (4) — Max Contabilidade: caso Sonho de Valsa na direção de dezembro
+
+PH pediu casos de empresas que pagaram menos imposto pela classificação fiscal.
+- **[Pesquisa](../clients/max-contabilidade/referencias/2026-11-27-casos-reclassificacao-fiscal.md):** Sonho de Valsa, Serenata de Amor, Leite de Rosas e Neston (este perdeu no Carf).
+- **Na direção:** o caso entra na quarta 09/12 como história, e a notícia do Senado vira peça reativa.
+- **Fica fora:** "faça igual". E nunca "sonegar".
+- **Regra nova** no [PADROES §1.5](../clients/max-contabilidade/PADROES.md).
+
+## 2026-11-27 (3) — Max Contabilidade: direção de dezembro v1 (portão 1)
+
+PH pediu dezembro no workflow v2, com mais venda direta no estilo de anúncio do Meta. [Direção](../clients/max-contabilidade/estrategia/2026-12.md): 12 peças, 6 de venda direta, todas em cima dos prazos reais de dezembro (alíquota da CBS até 15/12, desistência das escolhas de 2027 até 20/12, CBS em 2027). 🔴 Sem @ (o raio-x não saiu), sem identidade, e falta decidir se a Max também usa motion na quarta. [Log do cliente](../clients/max-contabilidade/PROGRESSO.md).
+
+## 2026-11-27 (2) — Mestre da Obra: roteiro do andaime (qua 02/12)
+
+[Roteiro](../clients/mestre-da-obra-araruama/conteudo/roteiros/2026-12-02-andaime-fachada-pronta-pras-festas.md) v1.0, primeira peça do planejamento de dezembro. Gancho em afirmação, box "Como gravar", validador-copy pendente. Dia do Pedreiro confirmado em 13/12, não 02/12.
+
+## 2026-11-27 — Atlas: estático do Seguro Residencial até 06/12
+
+PH pediu peça dos seguros da Black Week que vão até 06/12. Só o Residencial tem essa data confirmada. [Peça](../clients/atlas-corretora/conteudo/posts/2026-11-27-residencial-black-week-ate-06-12.md) v1.0 (motivo: a compra da Black chegando em casa), fundo claro. Validador-copy pendente.
+
+## 2026-11-26 (5) — Contele: mais venda em dezembro, com o verão e o ar ligado
+
+PH pediu mais venda no plano de dezembro, na linha "ligar o ar sem medo da conta". A 18/12 vira a peça de venda do verão, com o prompt pro plugin de copy pronto ([prompt](../clients/contele-solar/conteudo/posts/2026-11-26-prompt-plugin-copy-18-12-verao-ar-ligado.md)). Ideias pras outras peças foram entregues a PH. O prazo de instalação fechando em dezembro foi pra PAUTA.
+
+Na sequência, PH aprovou mais duas trocas: 04/12 vira "Comprou ar-condicionado na Black Friday?" e 16/12 vira o Reels de venda do verão (a limpeza e o depoimento vão pra janeiro). Ambas foram validadas, e o documento foi gerado de novo.
+A 18/12 veio do plugin de copy de PH, foi reprovada pelo validador (sem tensão, sugeria prazo) e saiu como "O orçamento ficou pra depois. O verão, não.".
+
+## 2026-11-26 (4) — Contele: documento de dezembro com briefing de vídeo e layouts v2.1
+
+O roteiro sai do documento do cliente e entra o briefing de cada vídeo. O feed passa a alternar 3 layouts (vídeo com arco, tarja em marca-texto, recorte com sublinhado), e as cenas de IA de 11, 18 e 21/12 entraram nos protótipos. [Progresso da Contele](../clients/contele-solar/PROGRESSO.md).
+
+## 2026-11-26 (3) — Veneza: produtos da Black no Instagram
+
+Coleta dos 2 perfis comparada com a lista da Black. Grécia, Antonella e cama de solteiro saíram com o selo da Black. Master, Base Baú e King só saíram no Esquenta, e a cama de casal com box e a de casal com baú nunca saíram (falta foto). [Conferência](../clients/veneza-estofados/referencias/2026-11-26-produtos-divulgados-instagram.md).
+
+## 2026-11-26 (2) — Contele: identidade do feed v2 (azul de ponta a ponta)
+
+PH achou a identidade da v1 parecida com a da Mestre e fora das cores da Contele. Proposta nova nas cores do perfil, todo post no mesmo azul ([PADROES §0](../clients/contele-solar/PADROES.md)). **Aprovada por PH no mesmo dia**; peças sem foto do cliente levam imagem por IA feita pelo designer; documento de dezembro refeito (versão 2). Regra que vale pra todos: alternar claro e escuro por dia não é obrigatório, e antes de propor sistema visual comparar os hex com a cor que o cliente já usa e com os outros clientes da Lone ([workflow](../shared/workflow-planejamento-mensal.md)).
+
+## 2026-11-26 — Contele: planejamento de dezembro v1 (documento com prévia do feed)
+
+PH mandou a copy de dezembro feita no plugin ("vamos montar com essas ideias"). Guardada como veio, conferida com o `validador-copy` e montada no segundo uso do gerador da Mestre: [PDF de 10 páginas](../clients/contele-solar/apresentacoes/2026-11-26-planejamento-dezembro.pdf), 12 protótipos no sistema do PADROES e [lote .md](../clients/contele-solar/conteudo/posts/2026-12-02-lote-dezembro-12-pecas.md). Na copy entraram só o WhatsApp nas legendas, a ressalva de chuveiro e ar nas peças da estação e o plano B em motion; o resto do validador ficou como sugestão pra PH.
+
+Lição pro gerador ([README](../shared/templates/planejamento-mensal/README.md)): a regra de celular `@media (max-width:820px)` vale também na hora de gerar o PDF e deslocava a capa. Tem que ser `@media screen and (...)`. Conferir o PDF no leitor do Chrome, não só a tela em modo impressão.
+
+## 2026-11-25 (2) — Codex integrado ao Claude Code; Contele: auditoria e direção de dezembro
+
+PH pediu pra configurar o Codex (OpenAI) junto com o Claude e testar na Contele. Instalados Codex CLI 0.172.0 e o plugin oficial `codex@openai-codex` 1.0.6; login via ChatGPT já ativo, sem chave de API. Três delegações reais ao Codex (inventário, auditoria independente, revisão da direção), com pedidos e respostas guardados em `clients/contele-solar/estrategia/2026-12-colaboracao-codex/`. Como usar: memória `reference_codex-plugin`.
+
+Contele: [auditoria do Instagram e dos anúncios](../clients/contele-solar/referencias/2026-11-25-auditoria-instagram-e-anuncios.md) e [direção de dezembro v1](../clients/contele-solar/estrategia/2026-12.md), em debate. Achado que vale pra carteira: **conferir se o que vai ao ar é o que está na pasta** (na Contele, não é).
+
+## 2026-11-25 — Formato novo da PAUTA de reunião (pedido de PH)
+
+PH pediu perguntas claras, em fala direta, com um aviso embaixo pra ele perguntar melhor (ex.: "o preço do andaime é por dia ou por mês?"). [Template](../shared/templates/pauta-reuniao-mensal.md) e [WORKFLOW §8](WORKFLOW.md) atualizados. Aplicado só na PAUTA da Mestre da Obra; as dos outros clientes mudam na próxima atualização de cada uma.
+
 ## 2026-11-24 (8) — Processo padrão de planejamento mensal (v2)
 
 PH pediu pra analisar e padronizar o que foi feito na Mestre da Obra pros outros clientes. [Workflow v2](../shared/workflow-planejamento-mensal.md) reescrito (6 fases, 3 portões, calendário, documento, lições, exceções por cliente) e [templates](../shared/templates/planejamento-mensal/). PH respondeu no mesmo dia: só começa quando ele pedir, quarta sem vídeo não tem post em todos, Claude escreve e manda o briefing do plugin, Celmapel e Atlas depois. Depois, PH acrescentou: carrossel por cliente (perguntar com motivo), raio-x do Instagram obrigatório, identidade nova do feed e peso sazonal. Processo em desenvolvimento. Aberto: quarta de quem não grava. Nenhum outro cliente foi planejado ainda.
@@ -408,6 +463,18 @@ Pedido de PH: *"fazer os posts de sexta, já é dia 13, dá pra brincar com sext
 - **Regra nova (PH):** WT e Casa das Telhas são famílias cristãs, sem sexta-feira 13 nem superstição (PADROES §8 de cada uma).
 - **Lote cruzado:** o gato preto saiu do brief do Bazar (era o mote da v1.1 da WT) e o "bebe mais água" saiu da VR (colidia com o bebedouro da WT). A pasta da Bruno foi conferida e não tem piso/garagem, então o isolamento com a Araruama Tintas está ok.
 - **Achados:** Império publicou horário e as 2 unidades em 06/11 (OQ #26–29, a confirmar por PH antes de fechar #3/#15/#16/#24); a peça "MDF cortado e fitado" da MR parece não ter sido publicada (em 06/11 saiu a Serra Mármore).
+
+---
+
+## 2026-11-09 — Lote de segunda: 24 clientes, um post por cliente
+
+PH pediu posts de todos os clientes e confirmou um post de feed por cliente para hoje. [Índice completo do lote](POSTS-2026-11-09.md): 22 copies novas com texto de arte, legenda e brief; Atlas e BodySkin aproveitadas sem duplicação. Copy não é arte final nem publicação. Alternativas incluídas para Celmapel (Black ainda não confirmada) e CIIL (Crohn sujeito ao RT e sequência da série). Mestre da Obra depende da entrada dos fixados. Nova União e Quero incluídas pelas pastas de produção, com status a conferir. Encerrados e rascunho duplicado excluídos. Pendências preservadas; nada enviado a terceiros.
+
+---
+
+## 2026-11-09 — WT: dois posts adicionais pedidos pela cliente
+
+Feedback repassado por PH: atestado de saúde e medicações para enjoo em posts separados. [Atestado](../clients/wt-shopping/conteudo/posts/2026-11-09-viagem-atestado-de-saude.md) e [enjoo](../clients/wt-shopping/conteudo/posts/2026-11-09-viagem-medicacao-para-enjoo.md) escritos com legenda e brief. Revisão veterinária e datas de publicação pendentes; sem medicamento ou dose indicados. [Fonte do pedido](../clients/wt-shopping/referencias/2026-11-09-feedback-cliente-atestado-e-enjoo.md).
 
 ---
 

@@ -35,3 +35,5 @@ Log completo. As prioritárias estão na [PAUTA](reuniao-mensal/PAUTA.md). O doc
 | 29 | ~~Vídeos da Ingrid~~ ✅ No mínimo 3, na quarta, quando ela puder; sem vídeo não tem post (PH, 24/11) | 2026-11-24 | ✅ fechada |
 | 30 | Deep Clean: relato é "limpar o chão, tipo passar pano, tirar poeira" (PH, sem certeza). Pra que serviço a loja aluga a enceradeira? | 2026-11-24 | 🟡 aberta em parte |
 | 31 | Máquina de pintura (Nauber D-3X) e guincho aparecem nas fotos e não estão no catálogo da unidade: estão pra alugar e podem ser divulgados? | 2026-11-24 | 🟡 no documento do cliente |
+| 32 | Cliente mandou preço de diária (betoneira 400 L e sapinho R$ 150, andaime R$ 0,80 e R$ 1,50 a peça). Ele quer o preço na arte, mesmo com a decisão de 06/11 de "sem preço"? Andaime: por dia ou mês, e o que é 1x1 e 1,5? Vale o mês todo? Ver [referência](referencias/2026-11-25-precos-diaria-cliente.md) | 2026-11-25 | 🔴 aberta |
+| 33 | Cobrimos os preços do Triunfo? A Mestre manda R$ 150 diária de betoneira e o Triunfo anuncia R$ 450 mensal: qual é o mensal da Mestre? Preço de martelete e placa vibratória? (liga com #23) | 2026-11-25 | 🔴 aberta |

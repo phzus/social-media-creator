@@ -30,6 +30,12 @@ Log datado do trabalho feito pro Bazar Ribeiro. Topo = mais recente. Entrada por
 
 ---
 
+## 2026-11-09 — Post de segunda: A peça antiga ajuda a encontrar a nova
+
+Pedido de PH: um post por cliente para hoje. Produzidos [texto da arte, legenda e brief](conteudo/posts/2026-11-09-a-peca-antiga-ajuda-a-encontrar-a-nova.md). Copy v1.0, revisão de PH/cliente pendente; não publicado. Pendências: Revisão de PH/cliente antes da publicação.
+
+---
+
 ## 2026-10-27 — Post de sexta 30/10: lâmpada LED Tramontina 9W a R$ 1,90 (fecha a semana de iluminação)
 
 [Peça](conteudo/posts/2026-10-30-lampada-led-garagem-r-1-90.md), layout diversificado (WD-40). Headline: *"A LÂMPADA DA GARAGEM QUEIMOU E FICOU PRA DEPOIS? / A LED TRAMONTINA 9W SAI POR R$ 1,90 CADA NO BAZAR RIBEIRO!"* A segunda ensinou a cor da luz (6500K = garagem), e a sexta vende essa lâmpada.

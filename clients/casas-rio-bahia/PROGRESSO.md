@@ -15,6 +15,12 @@ Log datado do trabalho feito pra Casas Rio Bahia. Topo = mais recente. Entrada p
 
 - [Post de homenagem](conteudo/posts/2026-11-20-consciencia-negra-homenagem.md), v1.1 validado (validador-copy do lote + fact-check na web). Faz parte do lote de 18 contas pedido por PH.
 
+## 2026-11-09 — Post de segunda: A lista de material precisa de medida
+
+Pedido de PH: um post por cliente para hoje. Produzidos [texto da arte, legenda e brief](conteudo/posts/2026-11-09-a-lista-de-material-precisa-de-medida.md). Copy v1.0, revisão de PH/cliente pendente; não publicado. Pendências: Revisão de PH/cliente antes da publicação.
+
+---
+
 ## 2026-10-22 — Post de segunda 26/10: "Num traço de referência pra laje, 1 saco de cimento leva 4 latas de areia e 5 e meia de brita"
 
 [Peça](conteudo/posts/2026-10-26-laje-cimento-areia-brita-em-latas.md): **estático, arte única**, pilar Orientação, **peça 04** da série "Material certo para cada etapa" (a sexta 23/10 ficou fora da numeração). Mecanismo **número contraintuitivo (proporção em latas)**: headline "Num traço de referência pra laje, 1 saco de cimento leva 4 latas de areia e 5 e meia de brita. / Em volume, a brita é o que mais entra na mistura.", arte com a fila 1 saco → 4 latas → 5½ latas recortadas, linha "Traço de referência pra laje residencial, em lata de 18 litros, sem contar a água. Na sua obra, vale o traço que o engenheiro definir." CTA "Vai concretar a laje? Envie sua lista pelo WhatsApp (22) 98824-0668". Sem preço.

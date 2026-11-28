@@ -4,6 +4,39 @@ Pendências a resolver com PH / com o cliente. Diferente dos outros onboardings,
 
 > ⚠️ **Escalado em 2026-08-10, confirmado em 2026-08-12:** contando o post de sexta 14/08 (produzido), são 4 peças seguidas (03/08, 07/08, 12/08, 14/08) rodando fora do Pilar 2 e do Pilar 3 pelos itens 1 e 1b abaixo. O grid não tem variação de fundo Ink (Pilar 2) nem foto real (Pilar 3) ainda. Vale priorizar a resposta desses dois itens com o cliente antes do feed ficar repetitivo.
 
+## 🔴 2026-11-26 — Dezembro com mais venda: verão com o ar ligado (pedido de PH)
+
+1. 🔴 **Pro cliente: fechando o projeto em dezembro, quando o sistema começa a gerar** (instalação + homologação na Enel)? Sem essa resposta, a copy não usa "ainda dá tempo de pegar o verão". Com ela, a 18/12 pode dizer o mês.
+2. 🟡 **Pro cliente: a Contele faz ampliação de sistema** pra quem já tem placa e comprou ar-condicionado novo? Se fizer, vira peça de venda pra base (ideia de 26/11).
+3. ✅ **(PH, 26/11)** 04/12 vira "ar-condicionado novo" e 16/12 vira o Reels de venda do verão. Limpeza e depoimento vão pra janeiro (anotar no plano de janeiro). ~~Quais das ideias de 26/11 entram no lugar do que já está no plano (04, 14, 23 e 28/12)?~~ A 18/12 já vira venda pelo [prompt do plugin](conteudo/posts/2026-11-26-prompt-plugin-copy-18-12-verao-ar-ligado.md).
+4. 🟡 **Pra PH:** a tarifa da Enel RJ (R$/kWh com impostos) pra calcular "quanto custa uma noite de ar ligado" precisa de fonte. Pesquisar antes de usar o número.
+
+## 🔴 2026-11-25 — Auditoria do Instagram e direção de dezembro ([auditoria](referencias/2026-11-25-auditoria-instagram-e-anuncios.md) · [direção](estrategia/2026-12.md))
+
+**Pra PH:**
+1. 🟡 **(Parte visual ✅ fechada por PH, 26/11:** o sistema de julho saiu e a v2 azul de ponta a ponta foi aprovada, [PADROES §0](PADROES.md). A parte da legenda segue aberta.) **Qual sistema visual vale:** o aprovado em julho ou o estilo que está no ar (o da arte do Indique e Ganhe)? E a legenda publicada passa a ser a da pasta? Hoje 09/11 e 13/11 foram ao ar com outro ângulo e outra legenda. Substitui a pergunta de 23/11 do bloco do Indique e Ganhe.
+2. 🔴 **Quem opera os ~9 anúncios ativos** da página "Contele Solar Energy" (Biblioteca de Anúncios, 25/11)? Têm "economia garantida", "promoções especiais" e destino no perfil.
+3. 🟡 3 carrosséis, e até 4 motions se a Contele não gravar, cabem no designer em dezembro?
+4. ✅ ~~Motion conta como vídeo na quarta?~~ **Sim (PH, 25/11):** motion flyer é o plano B de toda quarta sem gravação. Registrado no PADROES §6 e na direção v1.2.
+
+4b. ✅ (26/11) PDF e HTML gerados de novo no sistema v2 (versão 2 do documento). O [documento de dezembro](apresentacoes/2026-11-26-planejamento-dezembro.pdf) saiu no sistema do PADROES, assumindo a resposta da pergunta 1. Se PH escolher o estilo do ar, refazer os protótipos em `apresentacoes/2026-12-planejamento/artes.mjs`.
+4c. 🟡 (26/11) Sugestões do validador na copy de PH (cidade, aberturas, fechos, "+700" duas vezes): aplicar ou não? Lista no [lote](conteudo/posts/2026-12-02-lote-dezembro-12-pecas.md).
+4d. 🟡 (26/11) Fotos: baixar a pasta "Fotos Contele" do Drive da Lone (17 HEIC, março/2025) pra `clients/contele-solar/identidade/fotos/` em JPG, e conseguir o logo em vetor. Hoje os protótipos usam quadros da coleta, em baixa resolução.
+
+**Pro cliente:**
+5. 🔴 Quem grava em dezembro e quantos vídeos (instalação, cliente, estação). Sem vídeo, a quarta sai em motion, que precisa de fotos reais de obra e das estações.
+6. 🔴 Vídeos brutos dos anúncios (Ocean Park, Casa do Dragão, São Pedro da Aldeia, Búzios).
+7. 🔴 Confirmar os casos publicados pela Contele: valores (realizado ou estimado), bairro, kWp, autorização do cliente. Destrava o Pilar 2 (bloqueante de julho, item 1 abaixo).
+8. 🟡 Limpeza de painéis: preço, periodicidade, quem agenda. Elétrica e wallbox: escopo e região.
+9. 🟡 Sistemas instalados em 2026 e o número total atual ("+700" × "+ de 720 clientes" no Reels de 01/04/2026).
+10. 🟡 Perguntas que mais chegam no WhatsApp.
+11. 🟡 O número **(21) 96931-7776** ("Responsável técnico") do comunicado de 05/11, e se houve proposta feita em nome da Contele por outro contato.
+12. 🟡 "Simule grátis em 2min" (bio aprovada): a simulação é grátis e quanto tempo leva? Até confirmar, sem prazo na bio.
+13. 🟡 "Mais de 5 anos no mercado" (anúncio de 24/08): confere?
+14. 🟢 Horário de Natal e Réveillon.
+
+**Pesquisa a refazer:** bandeira tarifária de dezembro (Aneel anuncia em 27/11) e de janeiro (23/12).
+
 ## 🔴 2026-11-16 — Indique e Ganhe ([peça](conteudo/posts/2026-11-16-indique-e-ganhe-vizinho-da-conta-alta.md))
 
 1. 🔴 **O que ganha quem indica, e quando** (na indicação ou quando o indicado fecha). Sem isso, sai a versão C (sem "ganhe"). Pergunta pronta no arquivo da peça.

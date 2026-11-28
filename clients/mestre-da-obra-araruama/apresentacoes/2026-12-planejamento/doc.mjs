@@ -5,7 +5,7 @@ const AQUI=path.dirname(fileURLToPath(import.meta.url)), ID=path.join(AQUI,'../.
 const require=createRequire(path.join(AQUI,'../../../../package.json')); const { chromium }=require('@playwright/test');
 const tmp=fs.mkdtempSync(path.join(os.tmpdir(),'mo-'));
 const b64=(f,t)=>`data:${t};base64,`+fs.readFileSync(f).toString('base64');
-const mini=(src,w,q=78)=>{const o=path.join(tmp,path.basename(src)+w+'.jpg');execFileSync('sips',['-s','format','jpeg','-s','formatOptions',String(q),'--resampleWidth',String(w),src,'--out',o],{stdio:'ignore'});return b64(o,'image/jpeg')};
+const mini=(src,w,q=78)=>{const o=path.join(tmp,path.basename(src)+w+'.jpg');try{execFileSync('sips',['-s','format','jpeg','-s','formatOptions',String(q),'--resampleWidth',String(w),src,'--out',o],{stdio:'ignore'});return b64(o,'image/jpeg')}catch{return b64(src,'image/jpeg')}}; // sem sips (Windows): usa a imagem original
 const A=Object.fromEntries(PECAS.map(p=>[p.n,mini(`${AQUI}/artes/${p.n}.jpg`,640)]));
 const fach=mini(`${ID}/loja/fachada.jpg`,1500,74), logoB=b64(`${ID}/logo-horizontal-branco.svg`,'image/svg+xml'), logoA=b64(`${ID}/logo-horizontal-azul.svg`,'image/svg+xml');
 const lone=b64(path.join(AQUI,'../../../../shared/identidade-lone/lone-midia-logo-branco-azul.png'),'image/png');
@@ -81,6 +81,7 @@ h2{font-size:clamp(34px,4.6vw,52px);color:var(--azul);margin-bottom:10px}.sub{fo
 <li><span>Se o “cobrimos orçamento” vale o mês inteiro, inclusive quando a outra loja está em promoção, e se tem algum limite.</span></li>
 <li><span>Horário da loja de 24/12 a 02/01.</span></li>
 <li><span>Pelo menos 3 vídeos da Ingrid, quando ela puder gravar. Os roteiros vão à parte.</span></li>
+<li><span>Ideia pra conversar: mostrar o preço da diária em dezembro, num carrossel de promoção de fim de ano. Ainda não está definido.</span></li>
 <li><span>A máquina de pintura e o guincho que aparecem nas fotos da loja: estão pra alugar e podem ser divulgados.</span></li></ul>
 <p class="nota">Nos stories: 11/12 (Dia do Engenheiro), 13/12 (Dia do Pedreiro) e 30/12 (horário da virada).</p></div></section>`;
 const base='2026-11-24-planejamento-dezembro';

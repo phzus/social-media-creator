@@ -6,7 +6,37 @@ Regras específicas deste cliente, herdadas **na íntegra** do documento de hand
 
 > ✅ **Contato confirmado (PH, 2026-09-01):** WhatsApp **(22) 98806-0342** · R. Oscár Clark, 1320 — Parque Mataruna, Araruama/RJ. PH liberou **"chamar no WhatsApp"** como CTA. ⚠️ A mecânica de palavra-chave no direct ("manda SOL/ECOFLOW") continua valendo até PH decidir se o WhatsApp substitui ou convive — ver [OPEN-QUESTIONS](OPEN-QUESTIONS.md).
 
-## 1. Paleta — 6 tokens, usar sempre por nome
+## 0. Sistema visual v2 — azul de ponta a ponta (✅ aprovado por PH em 26/11)
+
+> **PH, 2026-11-26:** o sistema de julho (Sand, Ink, Sun, serif itálico) **sai**. Ficou parecido com a Mestre e longe do que a Contele usa hoje (azul, laranja e branco). A identidade muda, mas dentro das cores que já estão no ar. PH aprovou a v2 no mesmo dia ("gostei, ficou legal"). As seções §1, §2 e §4 abaixo ficam só como histórico. Continuam valendo de §3: uma ideia por post, safe area, foto real acima de ilustração e o teste do grid 3×3.
+
+**Por que a v1 parecia a Mestre:** Ink `#0E1E33` + Sun `#E8A233` + Sand é quase o par da Mestre (`#16245C`/`#284093` + `#FAA227`, com fundo bege), e a alternância claro/escuro por dia era a mesma. O azul da Contele é outro (elétrico, puxado pro violeta) e o laranja também (vivo, puxado pro vermelho).
+
+| Token | Hex | Uso |
+|---|---|---|
+| **Azul Contele** | `#2B37D4` | Fundo de todo post (com luz suave saindo do canto de cima, como já é no ar) |
+| **Azul claro** | `#3C4BF0` | Só no brilho do fundo |
+| **Índigo** | `#15127A` | Bordas do fundo, sombra sobre foto, fundo da etiqueta |
+| **Laranja** | `#FC6C00` | Único acento: fim da manchete, seta do CTA, play, sol, fio do arco |
+| **Branco** | `#FFFFFF` | Texto. Fundo branco só em comunicado (horário, aviso de canal oficial), como já acontece hoje |
+
+Cores amostradas da grade da Contele (print de PH, 26/11).
+
+- **Organização pela cor, variação pelo layout (v2.1, PH 26/11: "tá repetitivo, cadê os sublinhados, coisas menos padrão que passam profissionalismo de marketing").** Todo post no mesmo azul, mas 3 layouts em xadrez no feed:
+  - **V, vídeo (quarta):** foto grande, arco com fio laranja e play. Fica sempre na coluna da direita do grid.
+  - **T, tarja:** foto em faixa embaixo do logo, cortada reta com fio laranja, e manchete em **marca-texto** (primeira parte em barra branca com texto índigo, final em barra laranja com texto branco), como as artes antigas da Contele que PH mandou de referência ([referencias/2026-11-26-artes-ia-dezembro/](referencias/2026-11-26-artes-ia-dezembro/)).
+  - **R, recorte:** manchete no topo com o final **sublinhado por traço de pincel laranja** e foto num quadro que sangra pra direita, com moldura laranja deslocada.
+  - T e R se alternam nas duas colunas da esquerda, sem repetir o vizinho. Mapa em `LAYOUT` do `artes-v2.mjs`.
+- **Elemento próprio:** o arco do horizonte (curva que corta a foto, com fio laranja) e o sol, os dois tirados do logo, mais o marca-texto e o sublinhado laranja. Nada de hexágono (é da Mestre).
+- **Tipografia:** Plus Jakarta Sans 800 na manchete, **sem caixa alta**, e 500/700 no resto. Fonte em [identidade/fontes/](identidade/fontes/plus-jakarta-sans.css). Barlow Condensed é da Mestre.
+- **Posições fixas:** logo branco em cima à esquerda, etiqueta do tema em cima à direita, CTA com seta laranja embaixo à esquerda, WhatsApp pequeno embaixo à direita (texto, não tarja).
+- **CTA da arte (PH, 26/11):** círculo laranja com seta branca, sem pílula, sem contorno, sem ícone do WhatsApp e sem ponto final. Seta pra direita é o padrão. **Seta pra baixo + "na legenda"** quando o assunto precisa de explicação (ex.: homologação, "Veja as etapas na legenda"). Nesse caso a legenda tem que entregar o que a arte promete (lista das etapas, não texto genérico) e fechar com o CTA de WhatsApp.
+- **Documento do cliente (PH, 26/11):** vídeo aparece como **briefing** (formato, quem aparece, o que mostra, como fecha), não como roteiro. O roteiro completo fica no lote .md interno.
+- **Peça sem foto da Contele:** a imagem é **gerada por IA pelo designer** (PH, 26/11). O plano descreve a cena. Limites: sem painel em close (o modelo tem que bater com o real, §8), sem logo de terceiros (Enel) e sem produto de marca parceira inventado. EcoFlow e BLUETTI entram com a foto oficial do kit de cada marca, nunca gerada.
+- **Logo:** símbolo oficial enviado por PH em 26/11 em [identidade/logo-simbolo.png](identidade/logo-simbolo.png) (recortado; original em `logo-simbolo-original.png`). O nome "CONTELE / solar energy" nos protótipos é texto em Plus Jakarta Sans. Falta o logo completo em vetor, e o designer usa o arquivo oficial.
+- **Protótipos:** [artes-v2/feed.jpg](apresentacoes/2026-12-planejamento/artes-v2/feed.jpg), gerados por `apresentacoes/2026-12-planejamento/artes-v2.mjs`. 
+
+## 1. Paleta — 6 tokens, usar sempre por nome (sistema de julho, substituído — ver §0)
 
 | Token | Hex | Uso | Regra |
 |---|---|---|---|
@@ -66,6 +96,7 @@ Foto real de equipe/instalação (tratada) ou composição editorial (sol + telh
 - Gancho concreto + dado real, na mesma frase.
 - Nome de bairro/praia/rua em algum canto de toda peça — "se não tem, o post não sai".
 - Ficha técnica pequena no rodapé da legenda quando houver caso real.
+- ⛔ **CTA que pede comentário não entra** (PH, 26/11: "comentário nunca dá certo"). O CTA chama pra ação de compra ou conversa: "Garanta a sua com a Contele", "Chame no WhatsApp". Em estação de energia, nada de "agora" ou "pronta-entrega" no CTA, porque estoque e prazo seguem sem confirmação (§8).
 - CTA único e explícito, rotacionando entre: "manda SOL no direct" / "salva pra depois" / "marca alguém que paga muito de luz".
 - Legenda em AIDA curto: hook (linha 1) → dor → solução → CTA.
 
@@ -97,6 +128,7 @@ A peça de 31/08 afirma que **o sistema no telhado desliga quando falta luz na r
 - Reels: primeira frase fisga em 2s com dado real (ex. "a conta da Rafaela caiu de 3 mil pra 100 reais" > pergunta genérica).
 - **Stories — rotina fixa:** segunda anuncia a semana · terça mostra instalação · quarta responde dúvida · quinta cliente falando · sexta bastidor · sábado dica · domingo pausa ou repost.
 - **Grid:** alternar pilares por linha (Educ · Prova · Local · Local · Reel · Educ...).
+- **Quarta sem gravação vira motion flyer** (PH, 25/11/2026). O designer faz com foto real da Contele (obra, equipe, estação) e texto animado no sistema do feed, nunca com imagem de banco. Corte proposto: se o bruto não chegar até a sexta anterior, entra o motion. Toda quarta do plano mensal já sai com o plano B em motion escrito.
 
 ## 7. Métricas mensais a reportar
 
@@ -127,11 +159,27 @@ Seguidores, alcance, salvamentos por post (proxy de valor educativo), DMs inicia
 | Indique e Ganhe | Quem indica ganha **"uma comissão em dinheiro pelo projeto fechado"**. Vale quando o projeto fecha. ⛔ Sem valor, percentual ou prazo de pagamento até a Contele informar. | Arte montada por PH em 16/11/2026 (Downloads, "Indique e Ganhe com Energia Solar.png"). Não há mensagem do cliente registrada |
 | Parceria BLUETTI | **Confirmada (PH, 2026-09-15).** Segunda marca de estação de energia no catálogo, ao lado da EcoFlow. ⛔ **Chamar sempre de "estação de energia", nunca "gerador"** — tecnicamente não produz energia por combustão (mesma lógica da regra anti-combustão do §5). ⛔ **Nenhum modelo, preço, parcelamento, garantia ou estoque confirmado ainda** — estudo enviado por PH usa Elite 10 Mini e Elite 300 como exemplo de arquitetura, não como catálogo real. ⛔ **Nunca comparar BLUETTI e EcoFlow, nem posicionar uma como equivalente/concorrente da outra** — sem tabela, sem ranking, sem "X é melhor que Y", sem sobreposição de público na mesma frase. A Contele é curadora: quem escolhe o tamanho é a necessidade do cliente. ✅ **Esclarecido por PH em 2026-09-29: as duas marcas podem dividir a mesma peça, e é o certo que dividam** — a Contele trabalha com as duas, e peça que cita só uma dá a entender exclusividade que não existe. O [anúncio de 15/09](conteudo/posts/2026-09-15-parceria-bluetti.md) já as põe lado a lado, com tratamento visual idêntico. O que se proíbe é a comparação, não a coexistência. Em peça de categoria (o que uma estação de energia resolve), o vocabulário de base é **"estação de energia"**, e as marcas entram como catálogo da Contele — nunca uma como protagonista e a outra como alternativa. Regra de logo de marca parceira do EcoFlow (kit oficial, nunca recriado à mão) vale igual aqui. Estudo completo em [referencias/2026-09-15](referencias/2026-09-15-parceria-bluetti-estudo-mercado-e-posicionamento.md). | PH, 2026-09-15 |
 
+| Casos publicados pela própria Contele | Reels e anúncios da Contele citam: Casa do Dragão (21 painéis, "mais de R$ 1.500 por mês", 05/05/2025), Ocean Park (8 painéis com microinversor, "mais de R$ 800 por mês", 11/09/2026), Búzios ("cerca de 700 kWh", 08/07/2026), Top Fitness ("R$ 96.000 por ano", 03/12/2025), Bendita Pizzaria (06/12/2025), "de R$ 1.300 para R$ 270" (01/04/2026). ⛔ **Publicado pela Contele não é confirmado pela Lone.** Nenhum valor vai pra peça sem a Contele confirmar valor (realizado ou estimado), bairro, kWp e autorização. O fixado de 29/10/2025 mostra R$ 3.262,83 → R$ 105,29, os mesmos números do exemplo "família Marques" do guia: o exemplo pode ter vindo de conta real, mas continua sem confirmação. | Raio-x do Instagram, 25/11/2026 |
+| Anúncios ativos da página | ~9 anúncios ativos (6 criativos, todos vídeo) em 25/11/2026, operador desconhecido. Textos com "economia garantida", "promoções especiais", "mais de 5 anos no mercado" e "sistema de 700 kWh". ⛔ Nada disso vira fato pra peça. | [Raio-x](referencias/2026-11-25-raio-x-instagram.md) |
+| Segundo número | Comunicado de 05/11/2026 traz "Responsável técnico (21) 96931-7776" ao lado do WhatsApp oficial. ⛔ Não usar em peça até saber de quem é. O CTA continua sendo só (22) 98806-0342. | Grade, 25/11/2026 |
+| "Simule grátis em 2min" | Está na bio aprovada, mas gratuidade e tempo nunca foram confirmados na operação. Até confirmar: "peça sua simulação pelo WhatsApp", sem prazo. | Auditoria do Codex, 25/11/2026 |
+| Exemplos do briefing sem fonte | "95% é o quanto uma casa média deixa de pagar", "7 anos de payback em Araruama" e "0 vezes que a Enel pode te cortar" são exemplos de gancho do briefing, não dados. ⛔ Não usar como fato. "Até 95%" (bio) segue como teto, nunca média. | Auditoria do Codex, 25/11/2026 |
+
 **O que falta não trava a execução dentro do sistema visual/de voz** (isso já está fechado) — trava especificamente peças de Prova Social (precisam de caso real) e qualquer peça que dependa de canal de contato além do DM/Linktree.
 
 ---
 
 ## Histórico
+
+- **2026-11-26 (5)** — §0 v2.1: layout deixa de ser um molde só. 3 layouts em xadrez (V vídeo com arco, T tarja em marca-texto, R recorte com sublinhado de pincel), a pedido de PH ("repetitivo, cadê os sublinhados"). Documento do cliente mostra briefing do vídeo, não roteiro.
+- **2026-11-26 (4)** — §0: CTA da arte é sempre círculo laranja com seta (PH preferiu a seta à pílula com ícone do WhatsApp que a IA gerou). Seta pra baixo + "na legenda" pra assunto que precisa de explicação. A 11/12 virou "Veja as etapas na legenda" e a legenda ganhou a lista das 4 etapas confirmadas (visita técnica, projeto, homologação Enel, instalação).
+- **2026-11-26 (3)** — §5: CTA que pede comentário saiu (PH). A peça de 21/12 trocou "Conte o que precisa ficar ligado" por "Garanta a sua com a Contele", sem o "agora" que PH sugeriu, pela trava de estoque da §8.
+- **2026-11-26 (2)** — PH aprovou a v2. Peça sem foto da Contele leva imagem por IA feita pelo designer. Símbolo do logo entrou em `identidade/`.
+- **2026-11-26** — PH tirou o sistema de julho (parecido com a Mestre e longe do azul, laranja e branco do perfil). Entrou a §0 com a proposta v2, ainda sem aprovação. Também de PH: nem todo cliente precisa alternar claro e escuro no feed, e um feed de uma cor só passa organização.
+
+- **2026-11-25 (2)** — §6: quarta sem gravação vira motion flyer (decisão de PH).
+
+- **2026-11-25** — Auditoria do Instagram e dos anúncios ([auditoria](referencias/2026-11-25-auditoria-instagram-e-anuncios.md)). Entraram em §8: casos publicados pela própria Contele (a confirmar), anúncios ativos de operador desconhecido, o segundo número do comunicado de 05/11, a trava do "Simule grátis em 2min" e os exemplos do briefing sem fonte. Achado principal: o sistema visual deste PADROES não aparece nos 12 posts e 28 Reels vistos em 25/11; PH decide se vale ou se o PADROES muda (OQ 25/11 #1).
 
 - **2026-11-04** — Reunião Carlos × Cristiane: aumento expressivo no preço dos kits entrou em §8, com trava contra usar "o preço vai subir" sem confirmação, e o ticket médio ficou a reconferir. Detalhe em [reuniao-mensal/resumos/2026-11-04-resumo-reuniao.md](reuniao-mensal/resumos/2026-11-04-resumo-reuniao.md).
 

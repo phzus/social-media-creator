@@ -125,6 +125,7 @@ Estrutura fixa e **obrigatória de alternar** (ver estruturas completas em [PADR
 ## Operational Notes
 
 - **Sazonalidade (reunião de 04/11/2026):** a temporada de verão é o foco histórico e tem o maior volume de vendas. Com o calor, a conta sobe e o público volta a perguntar. A Contele não costuma planejar Black Friday.
+- **Foco do fim de ano (PH, 26/11/2026, citando a reunião com o cliente):** não gastar tanto com luz no fim de ano e passar o verão com o ar-condicionado ligado sem medo da conta. PH achou dezembro com pouca venda e pediu mais peças nessa linha, começando pela 18/12. Trava: sem prazo de instalação confirmado, a copy não promete o sistema pronto "antes do verão", e quem instala em dezembro só sente o efeito depois da homologação.
 - **Plataforma:** Instagram (@contelesolarenergy), canal único hoje.
 - **Frequência (definida no próprio briefing aprovado):** 3 posts estáticos/semana (1 por pilar, alternando) + 2 Reels/semana + stories diários com rotina fixa. **Confirmar com PH se bate com o plano contratado da Lone** (é mais que o padrão de referência 12/mês da Lone).
 - **Grid:** alternar pilares por linha (Educ · Prova · Local · Local · Reel · Educ...) — checar mockup mental 3×3 antes de aprovar peça.
@@ -143,6 +144,9 @@ Estrutura fixa e **obrigatória de alternar** (ver estruturas completas em [PADR
 ---
 
 ## Histórico de revisões
+
+- **2026-11-26** — PH tirou o sistema visual de julho (Sand/Ink/Sun): parecido com a Mestre e longe do azul, laranja e branco que a Contele usa. v2 nas cores do perfil aprovada por PH no mesmo dia ([PADROES §0](PADROES.md)); peça sem foto da Contele leva imagem por IA do designer. O status do topo ("direção aprovada, não redesenhar") não vale mais pra paleta e tipografia.
+- **2026-11-25** — Auditoria do perfil ([auditoria](referencias/2026-11-25-auditoria-instagram-e-anuncios.md), [raio-x](referencias/2026-11-25-raio-x-instagram.md)): 4.586 seguidores, bio aprovada e destaques novos nunca aplicados, sem Reels desde 30/09, estilo no ar (azul e laranja, CAPS, tarja) diferente do sistema deste arquivo. Vídeo com pessoa real é o melhor sinal orgânico. A Contele já publicou casos reais (a confirmar, ver PADROES §8) e mantém ~9 anúncios ativos de operador desconhecido.
 
 - **2026-11-04** — Call Carlos × Cristiane Damartini: verão como foco de vendas, sem Black planejada, e aumento expressivo no preço dos kits travando o combo. Detalhe em [reuniao-mensal/resumos/2026-11-04-resumo-reuniao.md](reuniao-mensal/resumos/2026-11-04-resumo-reuniao.md).
 - **2026-09-08** — Reunião mensal Lone×Contele (Natal Tuão, sócio · Vinicius Melo, comercial). Cliente apontou falta de autenticidade (material de banco de imagens, placa que não batia com a real) e vai passar a mandar fotos/vídeos reais de instalações variadas. Faixa de preço EcoFlow corrigida (R$2.800–54.000, A CONFIRMAR) e nova regra dura: backup EcoFlow não cobre chuveiro elétrico nem ar-condicionado. Surgiram dois nomes reais na operação (Natal, Vinicius) — não são citação automática, precisam autorização. Detalhe em [reuniao-mensal/resumos/2026-09-08-resumo-reuniao.md](reuniao-mensal/resumos/2026-09-08-resumo-reuniao.md) e [PADROES §8](PADROES.md).

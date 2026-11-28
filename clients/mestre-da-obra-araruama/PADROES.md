@@ -47,7 +47,7 @@ Já foram ao ar: escada × andaime (29/10), lixar na mão (09/10, 23/10), alisad
 ## 8. Decisões da reunião de 06/11 (Ingrid)
 
 - 🚫 **Gancho em pergunta**, no vídeo e no post. Ela reclamou disso na equipe anterior. Abrir com afirmação, cena ou a máquina funcionando. Isso vale aqui acima do molde "Você de [cidade] tá…?" da casa.
-- 🚫 **Preço**, por decisão do cliente (preço publicado entrega o orçamento pra concorrência). Lacuna vira "orçamento no WhatsApp".
+- 🚫 **Preço**, por decisão do cliente (preço publicado entrega o orçamento pra concorrência). Lacuna vira "orçamento no WhatsApp". ⚠️ **Em revisão (25/11):** o cliente mandou valores de diária ([referência](referencias/2026-11-25-precos-diaria-cliente.md), OQ #32). Só usar preço em arte depois que PH confirmar que a regra mudou.
 - **"Cobrimos orçamento"** liberado, sempre com a condição: concorrente local e orçamento real. Na arte, em aviso pequeno.
 - **Locação de fim de semana:** sexta → segunda, paga uma diária e fica três dias. Já praticam. Na peça, "consulte no WhatsApp" (não disseram se vale pra todo equipamento).
 - **Escora e máquina de solda existem** (reunião). A §1 deixa de valer pra esses dois.

@@ -53,7 +53,7 @@ Material: `~/Downloads`, **Google Drive da Lone (pasta do cliente)**, catálogo 
   | Perfil | Bio, link, destaques, fixados, erro no ar |
   | Identidade visual | O que manter da marca, o que está solto e o que muda |
 
-- **Identidade nova do feed:** levar o que funcionou na Mestre (regra de cor por dia, posições fixas, produto real em destaque, último trecho da headline destacado, grid pensado como conjunto) **com a cara de cada cliente**. O sistema se repete; cor, fonte, elemento e foto não. Cuidado com Bruno × Araruama Tintas (não podem parecer) e com VR e WT (layout Benestar). Vai pra PH no portão 1 em palavras e no portão 3 desenhada.
+- **Identidade nova do feed:** levar o que funcionou na Mestre (regra de cor por dia, posições fixas, produto real em destaque, último trecho da headline destacado, grid pensado como conjunto) **com a cara de cada cliente**. O sistema se repete; cor, fonte, elemento e foto não. **A cor por dia (claro × escuro) não é obrigatória** (PH, 26/11): um feed de uma cor só, com posições fixas, também passa organização, e às vezes é o melhor caminho. **Partir das cores que o cliente já usa no ar** (amostrar do print da grade), e conferir os hex contra os outros clientes da Lone antes de mostrar: a v1 da Contele saiu com o par marinho + âmbar da Mestre. Cuidado com Bruno × Araruama Tintas (não podem parecer) e com VR e WT (layout Benestar). Vai pra PH no portão 1 em palavras e no portão 3 desenhada.
 - **Tendência do nicho:** 🤖 `analista-tendencias`, quando fizer sentido.
 - **Concorrente:** um só, e quando PH pedir. Traduzir em arte, oferta e argumento. View não é prova ([regras de leitura](../clients/mestre-da-obra-araruama/PADROES.md)).
 - **Referência visual de PH:** comparar com a paleta do concorrente antes de adotar. Aproveita-se o sistema, com a cor da marca.
@@ -168,7 +168,7 @@ O **processo** vale pra todos. A **composição** muda aqui:
 
 ## Em aberto, PH decide
 
-- **Cliente que não grava:** motion conta como vídeo na quarta, ou fica sem post? A regra vale pra planejamento novo; peça de quarta já pronta não mudou.
+- **Cliente que não grava:** motion conta como vídeo na quarta, ou fica sem post? A regra vale pra planejamento novo; peça de quarta já pronta não mudou. **Contele (PH, 25/11):** sim, motion flyer é o plano B da quarta. Falta PH dizer se vale pra todos os clientes.
 
 ## Histórico
 

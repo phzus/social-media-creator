@@ -7,6 +7,16 @@ Atualizar assim que PH ou o cliente responderem. Resposta vira registro em [cont
 
 ---
 
+## 🔴 Novas (2026-11-27) — planejamento de dezembro ([direção](estrategia/2026-12.md) §9)
+
+**Pra PH:** (AA) @ do Instagram e o que foi ao ar · (AB) motion vale como quarta na Max? · (AC) tem feedback do Max mais novo que o de 16/10? · (AD) 6 de 12 em venda direta basta? · (AE) 2 carrosséis + até 5 motions cabem no designer? · (AF) CTA pode ir pro WhatsApp (22) 99856-6220? · (AG) logo e cores no Drive?
+
+**Pro escritório:** (AH) faz conversa de planejamento 2027 com quem não é cliente, e é gratuita? · (AI) revisa preço e margem com a CBS? · (AJ) quer falar de troca de contador, e como funciona? · (AK) alguém grava 2 vídeos curtos? · (AL) quem confere a regra e quem responde as mensagens, e em quanto tempo? · (AM) horário de fim de ano · (AN) o DAS de novembro e a DCTFWeb do 13º vencem em 18 ou em 21/12 (o dia 20 é domingo)?
+
+**Adicionada no mesmo dia (caso Sonho de Valsa, quarta 09/12):**
+- **(AO)** O escritório topa contar casos públicos de empresas grandes com o nome do produto? E confere a classificação do que o cliente vende ou faz, inclusive pra quem não é cliente?
+- **(AP)** O IPI é mesmo zerado em 2027, salvo a Zona Franca de Manaus (LC 214)? E a classificação do produto continua pesando no IBS e na CBS (alíquota reduzida, cesta básica)? Só entra na peça se o escritório confirmar.
+
 ## 🔴 Nova (2026-11-23) — post de sexta 27/11 (Presumido × Real)
 
 **Z. O escritório confirma a versão A da [peça de 27/11](conteudo/posts/2026-11-27-fora-do-simples-em-2027-presumido-ou-real.md)?** Prazo: **qui 26/11 de manhã**. Sem resposta, sai a versão B.

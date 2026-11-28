@@ -4,6 +4,32 @@ Log datado do trabalho feito pra Max Contabilidade. Topo = mais recente. Entrada
 
 ---
 
+## 2026-11-27 (2) — Casos de reclassificação fiscal (Sonho de Valsa) entram na direção
+
+PH pediu conteúdo com casos de empresas que pagaram menos imposto pela classificação, a partir do Sonho de Valsa ("sonegar de forma legal"). O vocabulário foi corrigido de novo: o caso é planejamento tributário, não sonegação ([PADROES §1.5](PADROES.md)).
+
+- **[Pesquisa](referencias/2026-11-27-casos-reclassificacao-fiscal.md):**
+  - Sonho de Valsa (2019, bombom → wafer, IPI) e Serenata de Amor (2021).
+  - Leite de Rosas (2012, ganhou no Carf).
+  - Neston (2017, perdeu no Carf).
+  - O caso do McDonald's ficou fora: as fontes não batem.
+- **[Direção](estrategia/2026-12.md):**
+  - A quarta 09/12 virou reels ou motion com o caso, com a ponte "o que você vende está classificado certo?".
+  - A notícia do Senado sobre a alíquota da CBS virou peça reativa.
+- **Fica fora "dicas pra fazer igual".** O IPI é de indústria, o público da Max não paga, e reclassificar só pelo imposto pode ser autuado.
+- **Regra nova:** [PADROES §1.5](PADROES.md), casos públicos de empresas grandes.
+- **Perguntas novas:** [OQ AO e AP](OPEN-QUESTIONS.md).
+
+## 2026-11-27 — Planejamento de dezembro: direção v1 (portão 1)
+
+Pedido de PH: dezembro no workflow v2, como Contele e Mestre, **com mais venda direta no estilo de anúncio do Meta**, em cima do feedback do Max (16/10: só tributário, métrica = mensagem de lead).
+
+- **[Direção](estrategia/2026-12.md):** 12 peças (25/12 sem post), 6 de venda direta, 2 carrosséis e 5 quartas que dependem de motion ou de vídeo.
+- **Fio do mês:** os três prazos reais de dezembro. A alíquota da CBS sai até 15/12, a desistência das escolhas de 2027 vai até 20/12 (domingo) e a CBS entra no lugar de PIS e Cofins em 2027.
+- **Público:** 3 peças pro Simples, 3 pro Presumido e Real, 6 pra qualquer empresa. Até aqui a conta só tinha falado com o Presumido e o Real uma vez.
+- **Datas:** `pesquisador-datas` rodou. Sem data de profissão em dezembro. Em dezembro só existe cancelamento das escolhas de 2027, e não opção. O dia exato da CBS falta conferir na LC 214.
+- 🔴 **Travas:** @ do Instagram (o raio-x não foi feito), identidade visual, motion como plano B na Max, o escritório confirmar as ofertas (conversa de planejamento, revisão de preço, troca de contador) e quem valida e responde. Perguntas na §9 da direção.
+
 ## 2026-11-23 — Semana 23–27/11: imposto do ano + Presumido × Real · v1, aguarda validador
 
 - **Seg 23:** [quanto a empresa pagou de imposto](conteudo/posts/2026-11-23-quanto-a-empresa-pagou-de-imposto-em-2026.md). Sem regra nem prazo, então pode sair sem trava técnica.
@@ -67,6 +93,12 @@ PH (18/11): a Max sai com post normal no dia 20. A homenagem foi arquivada.
 - 🔴 Quem responde o direct (OQ B/J/S).
 
 Prazo: brief ao designer qua 11/11, envio ao cliente qui 12/11 até 15h.
+
+---
+
+## 2026-11-09 — Post de segunda: A pergunta sobre imposto precisa de contexto
+
+Pedido de PH: um post por cliente para hoje. Produzidos [texto da arte, legenda e brief](conteudo/posts/2026-11-09-a-pergunta-sobre-imposto-precisa-de-contexto.md). Copy v1.0, revisão de PH/cliente pendente; não publicado. Pendências: Responsável técnico valida o conceito e a identificação profissional. PH precisa confirmar canal: trocar “canal oficial” pelo destino confirmado na arte e na legenda antes de liberar ao designer. Sem alíquota, prazo ou limite inventado.
 
 ---
 

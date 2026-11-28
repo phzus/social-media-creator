@@ -54,6 +54,12 @@ Wanderson mandou no WhatsApp 10 produtos com "de/por" ([transcrição](referenci
 
 ---
 
+## 2026-11-09 — Post de segunda: A compra começa pela superfície
+
+Pedido de PH: um post por cliente para hoje. Produzidos [texto da arte, legenda e brief](conteudo/posts/2026-11-09-a-parede-inteira-nao-precisa-da-mesma-compra.md). Copy v1.0, revisão de PH/cliente pendente; não publicado. Pendências: Revisar com Wanderson. Não prometer cálculo fechado, quantidade ou estoque sem conferência.
+
+---
+
 ## 2026-11-05 — Post de sexta 06/11: "Os preços de outubro continuam em novembro!" (estático com arte) · validado (0 bloqueantes de texto)
 
 PH informou que a loja mantém os preços do mês passado e pediu arte de anúncio das condições. [Peça](conteudo/posts/2026-11-06-precos-de-outubro-continuam-em-novembro.md) e [arte](conteudo/posts/2026-11-06-precos-de-outubro-continuam-em-novembro.png): template azul da conta, sem Halloween, com 4 produtos, preço e condição de cada um.

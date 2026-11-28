@@ -1,5 +1,19 @@
 # Progresso — Mestre da Obra Araruama
 
+## 2026-11-27 — Roteiro do andaime (qua 02/12), primeira peça de dezembro
+
+PH pediu uma peça pro Mestre da Obra baseada no planejamento. Escolhi a primeira do plano: vídeo do andaime de 02/12, que ainda não tinha roteiro. [Roteiro](conteudo/roteiros/2026-12-02-andaime-fachada-pronta-pras-festas.md) v1.0: 5 cenas, gancho em afirmação (Ingrid, 06/11), sem preço, sem escada × andaime, com box "Como gravar". Legenda e capa seguem as aprovadas no lote. Validador-copy pendente. Datas pesquisadas: **Dia do Pedreiro é 13/12 (domingo), não 02/12** (fonte única, sem lei localizada). Se a Ingrid não gravar até 01/12, a arte de sex 04/12 vira a primeira.
+
+## 2026-11-25 (2) — PAUTA refeita e aviso no documento do cliente
+
+PH: nada confirmado, então nenhuma arte mudou. [PAUTA](reuniao-mensal/PAUTA.md) reescrita com bloco "não esquecer de falar" (preço em dezembro) e 17 perguntas em fala direta, cada uma com aviso. No [documento do cliente](apresentacoes/2026-11-24-planejamento-dezembro.pdf), último slide, entrou só um item: "Ideia pra conversar: mostrar o preço da diária em dezembro, num carrossel de promoção de fim de ano. Ainda não está definido." PDF segue com 10 páginas. `doc.mjs` agora roda sem `sips` (Windows).
+
+## 2026-11-25 — Cliente mandou preços de diária
+
+Betoneira 400 L e sapinho R$ 150 a diária; andaime 1x1 R$ 0,80 e 1,5 R$ 1,50 a peça. [Referência com proposta de uso](referencias/2026-11-25-precos-diaria-cliente.md). **Travado:** conflita com o "sem preço" de 06/11 (PADROES §8) e o período do andaime não veio (OQ #32). Nenhuma arte alterada ainda.
+
+**Direção de PH (mesmo dia):** campanha de Natal/fim de ano com preço, em carrossel, pra responder ao Triunfo, e levar pra Ingrid na reunião junto do planejamento. Entrou como itens 9 e 10 da [PAUTA](reuniao-mensal/PAUTA.md), OQ #33 e proposta na referência. Ressalvas da Lone: "cobrimos o preço" não está confirmado (betoneira do Triunfo é mensal, a da Mestre é diária) e não dá pra esconder o carrossel do concorrente, só limitar a validade.
+
 ## 2026-11-24 (7) — Planejamento v4: público equilibrado, sem casa de praia, apoios de volta
 
 PH pediu equilíbrio com foco no que mais sai e "qualquer casa" no planejamento inteiro. Aplicado: 07 "TIRE A SUJEIRA E / O LIMO DA CASA / COM ALTA PRESSÃO", tema da semana 3 "Casa limpa pro Natal", apoios nas 4 capas de vídeo, legendas de 01 e 10 pro profissional (01 ganhou "sem precisar comprar a estrutura"). Faltam slides e roteiros. Depois, a pedido de PH, a etiqueta "Vídeo com a Ingrid" virou "Vídeo" no documento, e o aviso de "sem vídeo não tem post" ficou só no começo. Da capa saiu "feitas pra gerar pedido de orçamento no WhatsApp".
@@ -86,6 +100,12 @@ PH pediu 3 roteiros. [Arquivo](conteudo/roteiros/2026-11-13-roteiros-mestre-da-o
 **Validador:** o Vídeo 3 prometia andaime "montado do tamanho da sua parede" (sem confirmação, PADROES §1), e isso saiu. Outros 8 ajustes aplicados. Nova OQ #17 (montagem e orientação).
 
 **Pendências:** quem grava (OQ #4) e a data do Vídeo 2.
+
+## 2026-11-09 — Post de segunda: O serviço vem antes do nome da máquina
+
+Pedido de PH: um post por cliente para hoje. Produzidos [texto da arte, legenda e brief](conteudo/posts/2026-11-09-o-servico-vem-antes-do-nome-da-maquina.md). Copy v1.0, revisão de PH/cliente pendente; não publicado. Pendências: Primeiro confirmar com PH que os três fixados já entraram. Se não, este post fica pronto para a primeira data posterior, sem publicar fora de ordem. Pré-onboarding: não prometer orientação certificada, revisão, treinamento, frete ou produtividade.
+
+---
 
 ## 2026-11-05 (2) — Os 3 fixados, antes dos posts normais
 

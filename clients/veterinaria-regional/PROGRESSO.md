@@ -56,6 +56,12 @@ Correções do validador aplicadas: kicker "Região dos Lagos, temporada chegand
 
 ---
 
+## 2026-11-09 — Post de segunda: Mito — gato ronronando não sente dor
+
+Pedido de PH: um post por cliente para hoje. Produzidos [texto da arte, legenda e brief](conteudo/posts/2026-11-09-mito-gato-ronronando-nao-sente-dor.md). Copy v1.0, revisão de PH/cliente pendente; não publicado. Pendências: Equipe veterinária revisa antes de publicar. Sem diagnóstico pelo ronronar ou recomendação de medicamento. Foto de banco não representa paciente.
+
+---
+
 ## 2026-10-29 — Semana de Cardiologia: Mito x Verdade de seg 02/11 + venda direta de sex 06/11 fechada (v1.1)
 
 Pedido de PH: *"VR (Dia 2 de novembro e 6)"*. A semana de 02 a 06/11 fica inteira no verme do coração (linha temática única): a segunda apresenta e a sexta converte.

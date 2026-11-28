@@ -8,13 +8,18 @@
 
 ---
 
-## 1. 🔴 Perguntar nesta reunião
+## ⭐ Não esquecer de falar
 
-O que trava produção. Máximo ~8 itens — se tudo é prioridade, nada é. Cada item traz o **porquê** pra PH não precisar reconstruir o contexto na hora.
+Tema que PH precisa **abrir** na reunião e que não é pergunta (ideia a propor, aviso, decisão pendente). Escrever o que é, por que propor e o que **não** prometer. Se não houver, apagar o bloco.
 
-| # | Pergunta | Por que importa (o que destrava) |
-|---|---|---|
-| 1 | — | — |
+---
+
+## 1. 🔴 Perguntas pra fazer pro cliente
+
+Cada pergunta escrita **do jeito que dá pra falar em voz alta**, com um aviso embaixo (*Aviso:*) dizendo de onde veio, o que não sabemos e o que não pode prometer. Agrupar em **A** (o que trava produção, vem primeiro), **B** (o que vai estar na tela) e **C** (se der tempo). Sem tabela.
+
+**1. "Pergunta em fala direta?"**
+> *Aviso:* contexto pra PH perguntar bem.
 
 ## 2. 💡 Insights e oportunidades que a Lone observou
 

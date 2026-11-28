@@ -74,6 +74,12 @@ O cliente mandou: 15% à vista, ou 10% no crédito em até 6x, e "temos também 
 
 ---
 
+## 2026-11-09 — Post de segunda: Guarde o nome da tinta depois da pintura
+
+Pedido de PH: um post por cliente para hoje. Produzidos [texto da arte, legenda e brief](conteudo/posts/2026-11-09-guarde-o-nome-da-tinta-depois-da-pintura.md). Copy v1.0, revisão de PH/cliente pendente; não publicado. Pendências: Revisão de PH/cliente antes da publicação.
+
+---
+
 ## 2026-10-22 — Post de segunda 26/10: "Com o sol batendo na parede, a tinta seca antes de você voltar com o rolo."
 
 [Peça](conteudo/posts/2026-10-26-fachada-se-pinta-na-sombra.md): **estático único** 4:5, Pilar 2 (beira de lagoa, pelo lado do **sol**), metade "calor" do educativo da semana 10 do briefing. Mecanismo **cena → regra**: a faixa que seca antes da próxima encostar fica marcada; a regra é pintar primeiro a parede que está na sombra e trocar de parede quando o sol chegar, com o teste da mão (parede ainda bem quente, espera). CTA na arte: "Salva pra quando for pintar a fachada." Sem preço, sem WhatsApp, sem número técnico.

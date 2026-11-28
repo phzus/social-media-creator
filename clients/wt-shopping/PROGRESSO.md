@@ -65,6 +65,18 @@ A Luziane pediu no WhatsApp, em 09/11, posts separados sobre atestado de saúde 
 
 ---
 
+## 2026-11-09 — Post de segunda: A viagem com o pet começa pela lista
+
+Pedido de PH: um post por cliente para hoje. Produzidos [texto da arte, legenda e brief](conteudo/posts/2026-11-09-a-viagem-com-o-pet-comeca-pela-lista.md). Copy v1.0, revisão de PH/cliente pendente; não publicado. Pendências: Revisão de PH/cliente antes da publicação.
+
+---
+
+## 2026-11-09 — Feedback da cliente: atestado de saúde e medicação para enjoo, em posts separados
+
+PH repassou [pedido da cliente](referencias/2026-11-09-feedback-cliente-atestado-e-enjoo.md). Produzidos dois estáticos adicionais, cada um com copy de arte, legenda e brief: [atestado de saúde](conteudo/posts/2026-11-09-viagem-atestado-de-saude.md) e [medicação para enjoo](conteudo/posts/2026-11-09-viagem-medicacao-para-enjoo.md). Frente clínica, sem misturar acessórios. Textos com fontes consultadas e revisão veterinária pendente; datas de postagem a definir. Não publicados. Não alteram o post de acessórios do lote de hoje.
+
+---
+
 ## 2026-11-03 (2) — Black WT: arte do combo tapete Benetto + Xixi Não Pode refeita
 
 PH mandou o rascunho dele e achou que não estava legal. A [arte refeita](conteudo/posts/2026-11-03-black-wt-combo-tapete-e-xixi-nao-pode.png) ([copy e travas](conteudo/posts/2026-11-03-black-wt-combo-tapete-e-xixi-nao-pode.md)) foi montada em HTML e exportada pelo Chrome headless.

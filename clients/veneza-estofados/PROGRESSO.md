@@ -5,6 +5,22 @@ Log datado do trabalho feito pra Veneza Estofados. Topo = mais recente. Entrada 
 ---
 
 
+## 2026-11-26 (2) — Carrossel das camas de casal (qui 26) e "última chance" (sex 27)
+
+Pedido de PH depois da conferência do feed:
+- **Qui 26, [carrossel das camas de casal](conteudo/posts/2026-11-26-black-carrossel-camas-casal-completas.md):** 4 cards, "Cama de casal completa: com box ou com baú?". O card 4 traz a diferença de preço, R$ 428,45 à vista ou R$ 40,88 por mês no cartão. 🔒 Falta a foto (OQ #54), e a peça saiu sem o 1 dia útil do designer.
+- **Sex 27, [última chance](conteudo/posts/2026-11-27-black-friday-e-hoje.md) (v2, substitui a v1.1):** o validador barrou o "última chance", porque o fim da Black não está confirmado (OQ #53). A versão padrão é "Últimos dias da Black Friday da Veneza!", com a faixa "Amanhã (28/11) é o último Sábado Black". As versões com "Última chance" ficam prontas pra quando o Mateus disser se a Black acaba no sábado ou no domingo. Na arte entram Grécia, Antonella e Master. A legenda lista os 8 itens com o preço à vista.
+- Datas de 26/11 checadas e descartadas (Ministério Público, Turismo, Transporte Sustentável).
+
+## 2026-11-26 — Produtos da Black: o que já saiu no Instagram
+
+A pedido de PH, coletei os 2 perfis e comparei com a lista da Black ([conferência](referencias/2026-11-26-produtos-divulgados-instagram.md)):
+- ✅ Com o selo da Black: Grécia (13/11), Antonella (16/11) e cama de solteiro (20/11), nos dois perfis.
+- ⚠️ Só com o selo do Esquenta e o 12x antigo: Master (16/10), Base Baú Solteiro (23/10) e King Riviera (26/10). A peça do Master de seg 23 não foi postada.
+- ❌ Nunca saíram: a cama completa de casal com box e a de casal com baú (falta foto, OQ #54).
+
+FILA atualizada.
+
 ## 2026-11-23 (2) — Sofá Master 1,50 m na Black (seg 23)
 
 PH pediu um produto. A cama de solteiro já estava no feed (@venezaestofados, 20/11), então a segunda ficou com o [Master](conteudo/posts/2026-11-23-black-sofa-master-1-50.md), R$ 799,99 à vista. Antonella no feed em 16/11.
@@ -184,6 +200,12 @@ PH pediu a preparação da reunião com a Veneza: analisar tudo, ideias de Black
   - o Master com preço foi o estático de melhor resposta
 - **Resumo de 03/09 registrado** ([resumo](reuniao-mensal/resumos/2026-09-03-resumo-reuniao.md)). Só existia em PDF na Downloads. Trouxe a faixa de **até 10%** no combo base baú + colchão.
 - **OQ #41–46** abertas.
+
+---
+
+## 2026-11-09 — Post de segunda: O tecido precisa ser visto de perto
+
+Pedido de PH: um post por cliente para hoje. Produzidos [texto da arte, legenda e brief](conteudo/posts/2026-11-09-o-tecido-precisa-ser-visto-de-perto.md). Copy v1.0, revisão de PH/cliente pendente; não publicado. Pendências: Mesma arte nos dois perfis, mudando só @/WhatsApp. Araruama: @venezaestofados_araruama, (22) 98811-4216. Nova Iguaçu: @venezaestofados; confirmar número nas artes recentes com PH antes de fechar. Não colocar cidade na arte comum.
 
 ---
 

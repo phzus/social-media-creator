@@ -90,7 +90,7 @@ FALTA FAZER NO CLIENTE:
 
 Cada cliente tem `clients/<slug>/reuniao-mensal/`. É onde vive tudo que PH precisa pra conduzir a reunião, sem garimpar em outro arquivo:
 
-- **`PAUTA.md`** — documento vivo e **curado**, com 6 blocos fixos: perguntar nesta reunião (com o *porquê* de cada item) · insights e oportunidades que a Lone observou · riscos e alertas · falta fazer do nosso lado · o que levar de resultado · histórico de reuniões.
+- **`PAUTA.md`** — documento vivo e **curado**, com um bloco "não esquecer de falar" e 6 blocos fixos: perguntas pro cliente (escritas em fala direta, com um *aviso* embaixo de cada uma, sem tabela, agrupadas em A/B/C) · insights e oportunidades que a Lone observou · riscos e alertas · falta fazer do nosso lado · o que levar de resultado · histórico de reuniões.
 - **`resumos/YYYY-MM-DD-resumo-reuniao.md`** — um arquivo por reunião realizada. Nome fixo, sem nome do cliente ou da pessoa (o cliente já está no caminho).
 
 | | `OPEN-QUESTIONS.md` | `reuniao-mensal/PAUTA.md` |

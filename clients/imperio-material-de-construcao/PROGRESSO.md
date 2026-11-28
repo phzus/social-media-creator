@@ -69,6 +69,12 @@ Log datado do trabalho feito pro Império. Topo = mais recente. Entrada por bloc
 
 ---
 
+## 2026-11-09 — Post de segunda: O nome não precisa estar na ponta da língua
+
+Pedido de PH: um post por cliente para hoje. Produzidos [texto da arte, legenda e brief](conteudo/posts/2026-11-09-o-nome-nao-precisa-estar-na-ponta-da-lingua.md). Copy v1.0, revisão de PH/cliente pendente; não publicado. Pendências: WhatsApp oficial ainda divergente: usar destino da bio sem imprimir número; conferir o link antes de publicar. Não oferecer instalação nem indicação de profissional.
+
+---
+
 ## 2026-10-29 — Dois posts institucionais: sex 30/10 (apresentação da loja) e sex 06/11 (quem atende no balcão) + reserva do domingo
 
 Pedido do PH: "imperio (Bem institucional mesmo dia 30 tbm)". Estáticos 4:5. A v1.0 das duas saiu como cena de dor; o validador-copy e a coordenação puxaram pro molde de anúncio da [voice-quality §2.8](../../shared/voice-quality-checklist.md) (afirmativo, caixa alta, "!" na chamada e no CTA).

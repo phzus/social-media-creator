@@ -4,6 +4,78 @@ Log datado do trabalho feito pra Contele. Topo = mais recente. Entrada por bloco
 
 ---
 
+## 2026-11-26 (4) — Dezembro com mais venda: verão com o ar ligado
+
+PH gostou do conteúdo de dezembro, mas achou pouca venda. Pela reunião com o cliente, o foco do fim de ano é não gastar tanto com luz e ligar o ar sem medo.
+- **18/12 vira a peça de venda do verão** (era só reativação de orçamento). [Prompt com contexto pro plugin de copy](conteudo/posts/2026-11-26-prompt-plugin-copy-18-12-verao-ar-ligado.md), com as travas: sem prazo de instalação, sem conta zero, sem 13º, sem misturar com a estação.
+- Ideias pra levar a linha a outras peças (04, 14, 23 e 28/12) entregues a PH, pra ele escolher.
+- Registrado em [context.md](context.md) (foco do fim de ano), [OQ](OPEN-QUESTIONS.md) e [PAUTA](reuniao-mensal/PAUTA.md): prazo de instalação fechando em dezembro e ampliação de sistema.
+- Documento e `textos.mjs` ficam como estão até a copy do plugin voltar.
+- **Depois, PH aprovou mais duas trocas:**
+  - **sex 04/12 → "Comprou ar-condicionado na Black Friday? Ele vai aparecer na conta de janeiro."** A simulação já conta o ar novo. A limpeza vai pra janeiro. Cena por IA (split novo e caixa no chão), com prompt no [doc de prompts](conteudo/posts/2026-11-26-prompts-ia-artes-dezembro.md).
+  - **qua 16/12 → Reels de venda do verão,** "Quanto vai custar o seu verão com o ar ligado?". O depoimento vai pra janeiro.
+  - Validador: 2 bloqueantes na 16/12, corrigidos. "Sem ficar fazendo conta" virou "o sistema foi dimensionado pra esse consumo", e o gancho deixou de sugerir o sistema pronto neste verão. A legenda diz que o sistema passa a gerar depois da instalação e da homologação. A repetição entre 04, 16 e 18/12 foi cortada, e o prompt da 18/12 virou v2, sem repetir as duas.
+  - `textos.mjs`, `artes.mjs`, `doc.mjs` e `lote-md.mjs` atualizados. Protótipos, documento (PDF/HTML) e lote gerados de novo.
+- **18/12 com a copy do plugin (PH):** o validador reprovou ("O verão está só começando. Aproveite melhor." era institucional, sugeria o sistema pronto neste verão e falava em economia). Ficou "O orçamento ficou pra depois. **O verão, não.**", com seta pra baixo, "Veja como na legenda" e uma legenda em 3 passos. Registro completo no [prompt](conteudo/posts/2026-11-26-prompt-plugin-copy-18-12-verao-ar-ligado.md).
+
+## 2026-11-26 (3) — Documento de dezembro: briefing no lugar do roteiro, layouts v2.1 e cenas de IA
+
+Feedback de PH no documento:
+- **Roteiro de vídeo sai do documento do cliente.** Os 4 vídeos (02, 09, 16 e 23/12) aparecem como "Briefing do vídeo": formato e duração, quem aparece, o que mostra e como fecha. O plano B em motion continua. O roteiro completo segue no [lote .md](conteudo/posts/2026-12-02-lote-dezembro-12-pecas.md).
+- **Layout repetitivo.** A v2 usava o mesmo molde em todo post, com foto, arco e manchete. Agora são 3 layouts em xadrez ([PADROES §0](PADROES.md)):
+  - **V:** vídeo com arco e play, sempre na coluna da direita.
+  - **T:** tarja, com a manchete em marca-texto branco e laranja, como as artes antigas da Contele que PH mandou.
+  - **R:** recorte, com o final da manchete sublinhado por traço de pincel laranja e a foto num quadro com moldura laranja deslocada.
+  - Distribuição: T em 07, 11, 21 e 25/12. R em 04, 14, 18 e 28/12.
+- **Cenas de IA no documento.** As 3 cenas que PH gerou (11, 18 e 21/12) entraram nos protótipos, recortadas sem o logo e o texto que a IA desenhou. Originais em [referencias/2026-11-26-artes-ia-dezembro/](referencias/2026-11-26-artes-ia-dezembro/), recortes em `apresentacoes/2026-12-planejamento/ia/` (feitos pelo `ia-recortes.mjs`). No 21/12, o recorte corta a BLUETTI que a IA desenhou.
+- [Documento](apresentacoes/2026-11-26-planejamento-dezembro.pdf), [feed](apresentacoes/2026-12-planejamento/artes-v2/feed.jpg) e [prompts](conteudo/posts/2026-11-26-prompts-ia-artes-dezembro.md) atualizados. O caminho mais rápido é montar o texto no Canva sobre a cena, copiando o protótipo.
+
+## 2026-11-26 (2) — Identidade do feed v2: azul de ponta a ponta
+
+- **Feedback de PH:** a copy está boa, mas a identidade ficou parecida com a da Mestre e fora do azul, laranja e branco da Contele. Mudar vale, só que nas cores dela. Nem todo cliente precisa alternar branco e azul no feed.
+- **Causa:** o sistema de julho usa quase as mesmas cores da Mestre (marinho + âmbar + bege) e a mesma alternância por dia.
+- **Proposta v2** ([PADROES §0](PADROES.md)): cores amostradas do print da grade, todo post no mesmo azul, laranja só no acento, Plus Jakarta Sans sem caixa alta, arco do horizonte e sol como elementos. 12 protótipos e [feed](apresentacoes/2026-12-planejamento/artes-v2/feed.jpg) em `artes-v2/`; a v1 ficou em `artes/` pra comparar.
+
+**Atualização (mesmo dia):** PH aprovou a v2 e mandou o símbolo do logo. Mudanças:
+- Logo oficial nos protótipos ([identidade/logo-simbolo.png](identidade/logo-simbolo.png)).
+- As 3 peças sem foto (05, 08, 09) ganharam espaço de imagem com a cena descrita: a imagem vai ser gerada por IA pelo designer. As estações EcoFlow e BLUETTI entram com a foto oficial das marcas.
+- [Documento](apresentacoes/2026-11-26-planejamento-dezembro.pdf) refeito no sistema v2 (versão 2, cores e fonte novas, texto da prévia do feed reescrito) e lote .md gerado de novo com a cena de cada imagem.
+
+- CTA decidido por PH: **seta** (a pílula com ícone do WhatsApp sai das 3 artes de IA). Seta pra baixo + "na legenda" em assunto que precisa de explicação. A 11/12 virou "Veja as etapas na legenda" (PH sugeriu "saiba mais na legenda"; ficou mais específico porque "saiba mais" é CTA vago no checklist). A legenda ganhou a lista das 4 etapas confirmadas no context (visita técnica, projeto, homologação Enel, instalação) e fecha com "Quer entender como ficaria o seu projeto? Chame a Contele no WhatsApp." Protótipo, PDF, lote, PADROES §0 e prompt atualizados.
+- 11/12 (homologação): PH gerou a arte com IA. Cena certa (planta elétrica, capacete, pasta, celular; sem placa e sem logo da Enel), texto e acentos certos. Mesmos ajustes da 18/12: telefone faltando, símbolo do logo a trocar pelo oficial e CTA em pílula com ícone do WhatsApp. As 3 artes sem foto estão geradas. PH decidiu: volta a seta (ver item acima).
+- 18/12 (orçamentos): PH gerou a arte com IA. Foto, curva, etiqueta, manchete e apoio batem com o sistema e a acentuação está certa. Ajustes: a IA redesenhou o símbolo do logo (trocar pelo arquivo oficial), o telefone sumiu de novo e o CTA ganhou ponto final e ícone do WhatsApp numa pílula, diferente da seta das outras peças. Prompt atualizado: logo e telefone entram depois, no Canva.
+- 21/12 (estação): PH gerou a arte com IA. A cena e o texto ficaram bons, mas a IA desenhou uma BLUETTI (produto inventado e só uma das marcas) e o telefone não apareceu. CTA trocado por pedido de PH: "Garanta a sua com a Contele", sem "agora" por causa da trava de estoque. Atualizados protótipo, legenda, PDF, lote e PADROES §5 (CTA de comentário não entra).
+- PH pediu os prompts pra gerar as 3 artes sem foto: [prompts](conteudo/posts/2026-11-26-prompts-ia-artes-dezembro.md), com bloco de estilo do sistema v2, versão arte completa e versão só imagem.
+
+**Status:** documento v2 pronto pra PH conferir e mandar pro cliente.
+
+## 2026-11-26 — Planejamento de dezembro v1: copy de PH, protótipos e documento
+
+- PH mandou a copy do plugin em 26/11 ("acho que a gente ainda pode melhorar mas vamos montar com essas ideias"). [Original](referencias/2026-11-26-copies-dezembro-versao-ph.md) guardado.
+- **Conferência (`validador-copy`):** 3 obrigatórios. Ressalva de chuveiro e ar nas peças 09 e 10 (aplicada); casos de 03, 07 e 12 só com dado confirmado (trava, não texto). Também aplicado: WhatsApp no fim de toda legenda. Sugestões não aplicadas (cidade, aberturas em pergunta, fechos repetidos, fórmulas prontas, "+700" duas vezes) estão no [lote](conteudo/posts/2026-12-02-lote-dezembro-12-pecas.md).
+- **Documento:** [PDF de 10 páginas](apresentacoes/2026-11-26-planejamento-dezembro.pdf) e HTML, gerados em `apresentacoes/2026-12-planejamento/` (cópia adaptada do gerador da Mestre). 12 protótipos no sistema do PADROES (Sand, Ink, Sun, serif itálico), porque PH ainda não escolheu entre ele e o estilo do ar.
+- **Fotos:** sem logo em vetor nem fotos em JPG. O Drive da Lone tem a pasta "Fotos Contele" (17 HEIC e 2 MOV, março/2025). Os protótipos usam recortes da coleta do Instagram de 25/11, que são quadros da própria Contele em baixa resolução.
+
+**Status:** aguardando PH (portão 3). Depois vai pro cliente.
+
+## 2026-11-25 (2) — Direção de dezembro v1.2: motion flyer como plano B da quarta
+
+- PH decidiu: se a Contele não gravar, a quarta sai em **motion flyer** em vez de ficar sem post. As 4 quartas da [direção](estrategia/2026-12.md) ganharam plano B em motion (02 indicação, 09 etapas da obra, 16 caso confirmado ou "do pedido à primeira conta", 23 estação). O grid fica com 12 peças. Corte proposto: bruto até a sexta anterior.
+- EcoFlow e BLUETTI ficaram explícitas, no mesmo peso, em 21 e 23.
+- Propagado em PADROES §6, OPEN-QUESTIONS (pergunta 4 fechada), PAUTA e no workflow (decisão da Contele; pros outros clientes segue aberto).
+
+## 2026-11-25 — Auditoria do Instagram e direção de dezembro v1 (primeiro teste Claude + Codex)
+
+PH pediu pra configurar o Codex junto com o Claude e usar a Contele como teste: auditar o perfil e montar a primeira versão de dezembro.
+
+- **Coleta (sem login, 25/11, ~21h20):** perfil, grade, 12 posts, aba Reels (28) e Biblioteca de Anúncios. [Raio-x](referencias/2026-11-25-raio-x-instagram.md) com prints e JSON em `referencias/2026-11-25-coleta-instagram/`.
+- **[Auditoria](referencias/2026-11-25-auditoria-instagram-e-anuncios.md):** o sistema aprovado não aparece nos 12 posts e 28 Reels vistos, e as legendas publicadas diferem da pasta; sem Reels desde 30/09; a Contele já publicou casos reais (Casa do Dragão, Ocean Park, Búzios), que destravam o Pilar 2 se confirmados; ~9 anúncios ativos de operador desconhecido, com "economia garantida" e "promoções especiais"; bio e destaques antigos; segundo número no comunicado de 05/11.
+- **[Direção de dezembro v1.1](estrategia/2026-12.md) (portão 1):** até 12 peças, 3 carrosséis, 4 vídeos (sem vídeo, sem post), 5 artes, qua 30 sem post. Semanas: quem já tem placa → uma obra de verdade → antes do orçamento → quando a luz cai (estação, pela segurança) → 2026 em telhados. Datas com fonte (`pesquisador-datas`): 13º em 18/12, verão em 21/12, Natal como peça de marca; Dia do Engenheiro descartado.
+- **Codex (3 delegações pelo plugin, pasta [2026-12-colaboracao-codex](estrategia/2026-12-colaboracao-codex/)):** (1) ficha do mês + inventário dos 39 arquivos com temas saturados; (2) auditoria independente das mesmas evidências; (3) revisão crítica desta direção. As correções aceitas estão na §8 da auditoria e no topo da direção.
+- **Docs atualizados:** PAUTA (formato novo de 25/11), OPEN-QUESTIONS (bloco 25/11), PADROES §8, context, CLIENTES-INDEX.
+
+**Status:** direção em debate com PH. Nenhuma copy escrita. Próximo: decisão do sistema visual + portão 1, depois roteiros dos 4 vídeos primeiro.
+
 ## 2026-11-23 — Semana 23–27/11: Dia do Engenheiro Eletricista + casa de temporada · v1, aguarda validador
 
 - **Seg 23:** [homenagem](conteudo/posts/2026-11-23-dia-do-engenheiro-eletricista.md) (Lei 12.074/2009). Fala da profissão, porque não há engenheiro confirmado na equipe.
@@ -62,6 +134,12 @@ PH já usou o ar-condicionado e pediu outra peça aproveitando a sexta 13. [Est�
 **Sem Black:** não há oferta registrada até 10/11. A abertura da lista ("Sua conta de luz nunca entrou na Black Friday" + "manda BLACK no WhatsApp") ficou como versão B na peça, só com oferta confirmada pelo Vinicius. Sem sexta-feira 13 (a conta já fez humor no Halloween).
 
 **Validador (v1.1), aplicado:** sem o "só" no complemento, premissa como conta aberta (800 W × 8 h × 30 noites = 192 kWh), kicker `DICA · AR-CONDICIONADO NO VERÃO`, Parque Mataruna no rodapé, legenda "calculado só com os meses mais frios fica pequeno quando o calor chega". O crédito na Enel ficou como parágrafo 🟡 opcional, dependendo do Vinicius. Na versão B saiu "quem pedir agora recebe primeiro", que não está confirmado.
+
+---
+
+## 2026-11-09 — Post de segunda: O ar-condicionado entra na conversa do projeto
+
+Pedido de PH: um post por cliente para hoje. Produzidos [texto da arte, legenda e brief](conteudo/posts/2026-11-09-o-ar-condicionado-entra-na-conversa-do-projeto.md). Copy v1.0, revisão de PH/cliente pendente; não publicado. Pendências: Revisar com equipe comercial. Segue a reunião de 04/11: verão primeiro. Não promete prazo para instalar antes do verão nem resultado de economia.
 
 ---
 

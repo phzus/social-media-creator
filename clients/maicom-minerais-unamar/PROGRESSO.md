@@ -54,6 +54,12 @@ O cliente pediu por áudio ([registro literal](referencias/2026-11-16-audio-feir
 
 ---
 
+## 2026-11-09 — Post de segunda: O piso vai continuar no rodapé
+
+Pedido de PH: um post por cliente para hoje. Produzidos [texto da arte, legenda e brief](conteudo/posts/2026-11-09-o-piso-vai-continuar-no-rodape.md). Copy v1.0, revisão de PH/cliente pendente; não publicado. Pendências: Conferir com a loja a foto e a redação de aplicação. Sem percentual de sobra, cálculo, promessa de corte ou serviço de instalação.
+
+---
+
 ## 2026-10-27 — Post de sexta 30/10: "Troca o piso da casa em até 10x sem juros!"
 
 [Peça](conteudo/posts/2026-10-30-piso-da-casa-em-10x-sem-juros.md), estático de oferta com a condição de pagamento como argumento: *"TROCA O PISO DA CASA EM ATÉ 10X SEM JUROS! / COM O JURO ALTO, PARCELAR SEM PAGAR A MAIS ALIVIA A CONTA DA OBRA."* CTA: manda a medida do cômodo no WhatsApp.

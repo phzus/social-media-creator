@@ -47,6 +47,14 @@ Publicidade de serviço contábil é regulada pelo Conselho Federal de Contabili
 
 **A dor que o cliente descreveu é legítima e é ótima pauta** — só o nome que ele deu ao serviço está errado. Manter o ângulo (ninguém gosta de pagar imposto, o contador ajuda a pagar o mínimo dentro da lei), trocar só o vocabulário.
 
+**Caso público de empresa grande (Sonho de Valsa, Leite de Rosas, Neston etc.), regra de 2026-11-27:**
+- Entra como **história**, com fonte de imprensa e o nome do produto. Fica sem logo e sem foto da embalagem.
+- Nunca dizer que a empresa mudou "pra pagar menos imposto" quando ela nega. Dizer o que mudou e que o imposto mudou junto.
+- Nunca "faça igual" nem "dica pra pagar menos". A ponte pro negócio pequeno é "classificação certa / pagar só o que é devido".
+- Sem número de economia (§1). A alíquota só entra se as fontes concordarem e o escritório confirmar (§2).
+- Sempre que possível, mostrar também quem perdeu no Carf: prova que precisa de base técnica, que é o que o contador vende.
+- Pesquisa: [referencias/2026-11-27](referencias/2026-11-27-casos-reclassificacao-fiscal.md).
+
 ⚠️ **Isso ainda não foi esclarecido com o cliente formalmente** — é uma fala solta antes da reunião de briefing (pergunta 9 em [OPEN-QUESTIONS.md](OPEN-QUESTIONS.md) já pedia a posição do escritório sobre publicidade; agora essa pergunta ficou mais urgente). Se na reunião o cliente insistir em copy que soe como oferta de sonegação, é caso pra PH escalar antes de produzir — não é decisão de quem escreve a peça.
 
 ## 2. ⚠️ Gate de afirmação técnica (BLOQUEANTE)

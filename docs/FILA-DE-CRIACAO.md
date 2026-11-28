@@ -29,11 +29,13 @@
 | CIIL | Uma arte por convênio novo (Marinha) + trocar o carrossel | [reunião 15/10](../clients/ciil/reuniao-mensal/resumos/2026-10-15-resumo-reuniao.md) | ✍️ | Arte da [Marinha](../clients/ciil/conteudo/posts/2026-11-23-novo-convenio-marinha-do-brasil.md) e slide novo no carrossel de 18/09 |
 | Mestre da Obra | **Erro no ar:** "Aruaruama/RJ" nos fixados de localização e horário (achado da Lone, 23/11) | [coleta](../clients/mestre-da-obra-araruama/referencias/2026-11-23-triunfo-teste-de-coleta.md) | ⬜ | Corrigir a arte e trocar os 2 fixados |
 | Mestre da Obra | Planejamento de dezembro com prévia (PH, 24/11) | [documento](../clients/mestre-da-obra-araruama/apresentacoes/2026-11-24-planejamento-dezembro.pdf) | ✍️ v4 com a copy de PH | Texto dos slides (3 carrosséis) e 4 roteiros da Ingrid. Depois cliente. 1ª peça: vídeo do andaime (qua 02/12), se a Ingrid gravar; senão, arte de sex 04/12 |
+| Mestre da Obra | **Preço de diária nas artes de dezembro** (betoneira e sapinho R$ 150, andaime por peça), do cliente via PH, 25/11 | [referência](../clients/mestre-da-obra-araruama/referencias/2026-11-25-precos-diaria-cliente.md) | 🔒 PH | Confirmar que o "sem preço" mudou e o período do andaime (OQ #32). Depois: capas de 02/12, 07/12, 09/12 e sexta 11/12 |
 | Mestre da Obra | Vídeo sem gancho em pergunta | [reunião 06/11](../clients/mestre-da-obra-araruama/reuniao-mensal/resumos/2026-11-06-resumo-reuniao.md) | ⬜ reaberto: PH quer no mínimo 3 vídeos da Ingrid em dezembro (24/11) | Refazer os [3 roteiros de 13/11](../clients/mestre-da-obra-araruama/conteudo/roteiros/2026-11-13-roteiros-mestre-da-obra.md) em afirmação |
 | Maicom | Feirão "esquece o mundo" | [áudio 16/11](../clients/maicom-minerais-unamar/referencias/2026-11-16-audio-feirao-28-11.md) | parcial | Motion v2 (qua 25) e v3 (sex 27). Corrigir a arte sem o aviso +18 e o vídeo com "Maicon" |
 | Celmapel | Encarte por semana | [plano](../clients/celmapel-festas/estrategia/2026-11-a-12-bimestral.md), reunião 02/10 | ✍️ | Só a de 27/11 tem copy. 🔒 preços do Max até qua 25, 12h |
 | Celmapel | Reels de qua 25 (Taísa) | plano | ⬜ | **Não tem roteiro.** 🔒 produto e preço |
 | Contele | Reels de qua 25 (estação, "a luz cai") | [plano](../clients/contele-solar/estrategia/2026-11-black-friday.md) | ⬜ | **Não tem roteiro.** 🔒 material do Vinicius, ou motion |
+| Contele | Planejamento de dezembro com prévia (PH, 25-26/11) | [documento](../clients/contele-solar/apresentacoes/2026-11-26-planejamento-dezembro.pdf) · [lote](../clients/contele-solar/conteudo/posts/2026-12-02-lote-dezembro-12-pecas.md) | ✍️ v1 com a copy de PH. 26/11: 04, 16 e 18/12 viraram venda do verão (18/12 com a copy do plugin corrigida, [registro](../clients/contele-solar/conteudo/posts/2026-11-26-prompt-plugin-copy-18-12-verao-ar-ligado.md)) | PH revisa (portão 3), decide o sistema visual e as sugestões do validador. Depois cliente. 1ª peça: Reels Indique e Ganhe (qua 02/12) ou motion |
 
 ### Sem data dura
 
@@ -44,7 +46,7 @@
 | CIIL | Vacinação a domicílio | ⬜ | 1 estático, sem trava |
 | CIIL | Vídeos com os médicos | parcial | Saber se gravaram; `ciil perguntas.mp4` sem identificação |
 | Bazar | 1 peça WD-40 + 2 encartes por semana, vídeo em Maricá | parcial | WD-40 desta semana = [ventilador](../clients/bazar-ribeiro/conteudo/posts/2026-11-25-ninguem-fica-na-varanda-com-esse-calor.md). Falta vídeo |
-| Contele | "Postagens mecânicas, falta autenticidade"; limpeza, elétrica e wallbox | parcial | Peça de serviço. 🔒 fotos reais |
+| Contele | "Postagens mecânicas, falta autenticidade"; limpeza, elétrica e wallbox | parcial | Peça de serviço. 🔒 fotos reais. A limpeza saiu de 04/12 e vai pra janeiro (PH, 26/11) |
 | Veneza | Combo base baú + colchão 5% | 🔒 | Regra do 5% com Pix |
 | Celmapel | Vídeo "Fecha Mês" com locução | 🔒 | Produtos e locutor |
 | Atlas | Campanha de dezembro ("o maior presente é a segurança") | ⬜ | Copy, sem trava |
@@ -75,16 +77,16 @@
 | Bazar | Fio 1,5 a 184,90 e 2,5 a 254,90 | sem data | ✍️ seg 23 e sex 27 |
 | Bazar | Fio 4,0 mm, rolo 100 m, a partir de 449,90 | sem data | 🎨 arte de PH por loja (23/11) |
 | Atlas | Tokio: Auto até 10% | 29/11 | ✍️ feed qua 25, stories hoje e sáb 28 |
-| Atlas | Tokio: Residencial até 50% (06/12), Viagem 60%, Empresarial até 15% | 06/12 ou sem data | ✍️ |
+| Atlas | Tokio: Residencial até 50% (06/12), Viagem 60%, Empresarial até 15% | 06/12 ou sem data | ✍️ · Residencial: [peça solo 27/11](../clients/atlas-corretora/conteudo/posts/2026-11-27-residencial-black-week-ate-06-12.md) v1.0, validador pendente |
 | Atlas | Tokio: placas solares e RC obras até 30% | sem data | ⬜ só na legenda |
-| Veneza | Antonella 2,30, 2.100 → 1.899,99 | 29/11 🟡 | ✅ 16/11 (@venezaestofados) |
-| Veneza | Grécia, 2.000 → 1.799,99 | 29/11 🟡 | 🎨 + ✍️ sex 27 |
-| Veneza | Cama solteiro com box, 759,98 | 29/11 🟡 | ✅ 20/11 (@venezaestofados) |
-| Veneza | **Sofá Master 1,50, 799,99** | 29/11 🟡 | ✍️ [seg 23](../clients/veneza-estofados/conteudo/posts/2026-11-23-black-sofa-master-1-50.md) |
-| Veneza | Cama casal com box, 1.471,53 | 29/11 🟡 | ⬜ 🔒 foto |
-| Veneza | Cama casal com baú, 1.899,98 | 29/11 🟡 | ⬜ 🔒 foto |
-| Veneza | Base baú solteiro, 599,99 | 29/11 🟡 | ⬜ |
-| Veneza | King Riviera, 1.890,00 | 29/11 🟡 | ⬜ |
+| Veneza | Antonella 2,30, 2.100 → 1.899,99 | 29/11 🟡 | ✅ 16/11 (2 perfis) · de novo na [sex 27](../clients/veneza-estofados/conteudo/posts/2026-11-27-black-friday-e-hoje.md) |
+| Veneza | Grécia, 2.000 → 1.799,99 | 29/11 🟡 | ✅ 13/11 (2 perfis) · de novo na [sex 27](../clients/veneza-estofados/conteudo/posts/2026-11-27-black-friday-e-hoje.md) (última chance) |
+| Veneza | Cama solteiro com box, 759,98 | 29/11 🟡 | ✅ 20/11 (2 perfis) |
+| Veneza | **Sofá Master 1,50, 799,99** | 29/11 🟡 | ✍️ [seg 23](../clients/veneza-estofados/conteudo/posts/2026-11-23-black-sofa-master-1-50.md), não postada · só no Esquenta (16/10) · ✍️ entra na [sex 27](../clients/veneza-estofados/conteudo/posts/2026-11-27-black-friday-e-hoje.md) |
+| Veneza | Cama casal com box, 1.471,53 | 29/11 🟡 | ✍️ carrossel [qui 26](../clients/veneza-estofados/conteudo/posts/2026-11-26-black-carrossel-camas-casal-completas.md) · 🔒 foto |
+| Veneza | Cama casal com baú, 1.899,98 | 29/11 🟡 | ✍️ carrossel [qui 26](../clients/veneza-estofados/conteudo/posts/2026-11-26-black-carrossel-camas-casal-completas.md) · 🔒 foto |
+| Veneza | Base baú solteiro, 599,99 | 29/11 🟡 | só no Esquenta (23/10) · ✍️ legenda da [sex 27](../clients/veneza-estofados/conteudo/posts/2026-11-27-black-friday-e-hoje.md) |
+| Veneza | King Riviera, 1.890,00 | 29/11 🟡 | só no Esquenta (26/10, com 30% OFF) · ✍️ legenda da [sex 27](../clients/veneza-estofados/conteudo/posts/2026-11-27-black-friday-e-hoje.md) |
 | Bruno | 15% à vista, 10% em até 6x, 12x sem juros | 🟡 período | ✍️ 23, 25 e 27 |
 | BodySkin | Virilha ou glúteos completos, 10x 69,90 | Novembro Black | ✍️ [qua 25](../clients/bodyskin-araruama/conteudo/posts/2026-11-25-calor-danado-e-voce-recusou-a-piscina.md) |
 | BodySkin | Meia perna + joelhos, 10x 79,90 | Novembro Black | ✍️ [seg 30](../clients/bodyskin-araruama/conteudo/posts/2026-11-30-banheiro-abafado-e-a-gilete-na-primeira-perna.md) |
